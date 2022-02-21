@@ -1,0 +1,181 @@
+[
+  {
+    "op": "core/column-removal",
+    "columnName": "oai_dc:dc - xsi:schemaLocation",
+    "description": "Remove column oai_dc:dc - xsi:schemaLocation"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oai_dc:dc - dc:source",
+    "newColumnName": "dc:source",
+    "description": "Rename column oai_dc:dc - dc:source to dc:source"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oai_dc:dc - dc:source - xml:lang",
+    "newColumnName": "dc:source/xml:lang",
+    "description": "Rename column oai_dc:dc - dc:source - xml:lang to dc:source/xml:lang"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oai_dc:dc - dc:type",
+    "newColumnName": "dc:type",
+    "description": "Rename column oai_dc:dc - dc:type to dc:type"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oai_dc:dc - dc:type - xml:lang",
+    "newColumnName": "dc:type/xml:lang",
+    "description": "Rename column oai_dc:dc - dc:type - xml:lang to dc:type/xml:lang"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oai_dc:dc - dc:identifier",
+    "newColumnName": "dc:identifier",
+    "description": "Rename column oai_dc:dc - dc:identifier to dc:identifier"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oai_dc:dc - dc:rights - xml:lang",
+    "newColumnName": "dc:rights/xml:lang",
+    "description": "Rename column oai_dc:dc - dc:rights - xml:lang to dc:rights/xml:lang"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oai_dc:dc - dc:rights",
+    "newColumnName": "dc:rights",
+    "description": "Rename column oai_dc:dc - dc:rights to dc:rights"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oai_dc:dc - dc:creator",
+    "newColumnName": "dc:creator",
+    "description": "Rename column oai_dc:dc - dc:creator to dc:creator"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oai_dc:dc - dc:relation",
+    "newColumnName": "dc:relation",
+    "description": "Rename column oai_dc:dc - dc:relation to dc:relation"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oai_dc:dc - dc:subject - xml:lang",
+    "newColumnName": "dc:subject/xml:lang",
+    "description": "Rename column oai_dc:dc - dc:subject - xml:lang to dc:subject/xml:lang"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oai_dc:dc - dc:subject",
+    "newColumnName": "dc:subject",
+    "description": "Rename column oai_dc:dc - dc:subject to dc:subject"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oai_dc:dc - dc:format",
+    "newColumnName": "dc:format",
+    "description": "Rename column oai_dc:dc - dc:format to dc:format"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oai_dc:dc - dc:publisher - xml:lang",
+    "newColumnName": "dc:publisher/xml:lang",
+    "description": "Rename column oai_dc:dc - dc:publisher - xml:lang to dc:publisher/xml:lang"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oai_dc:dc - dc:publisher",
+    "newColumnName": "dc:publisher",
+    "description": "Rename column oai_dc:dc - dc:publisher to dc:publisher"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oai_dc:dc - dc:title - xml:lang",
+    "newColumnName": "dc:title/xml:lang",
+    "description": "Rename column oai_dc:dc - dc:title - xml:lang to dc:title/xml:lang"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oai_dc:dc - dc:title",
+    "newColumnName": "dc:title",
+    "description": "Rename column oai_dc:dc - dc:title to dc:title"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oai_dc:dc - dc:language",
+    "newColumnName": "dc:language",
+    "description": "Rename column oai_dc:dc - dc:language to dc:language"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oai_dc:dc - id",
+    "newColumnName": "id",
+    "description": "Rename column oai_dc:dc - id to id"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oai_dc:dc - dc:date",
+    "newColumnName": "dc:date",
+    "description": "Rename column oai_dc:dc - dc:date to dc:date"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oai_dc:dc - dc:description - xml:lang",
+    "newColumnName": "dc:description/xml:lang",
+    "description": "Rename column oai_dc:dc - dc:description - xml:lang to dc:description/xml:lang"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oai_dc:dc - dc:description",
+    "newColumnName": "dc:description",
+    "description": "Rename column oai_dc:dc - dc:description to dc:description"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oai_dc:dc - dc:coverage - xml:lang",
+    "newColumnName": "dc:coverage/xml:lang",
+    "description": "Rename column oai_dc:dc - dc:coverage - xml:lang to dc:coverage/xml:lang"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oai_dc:dc - dc:coverage",
+    "newColumnName": "dc:coverage",
+    "description": "Rename column oai_dc:dc - dc:coverage to dc:coverage"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oai_dc:dc - datestamp",
+    "newColumnName": "datestamp",
+    "description": "Rename column oai_dc:dc - datestamp to datestamp"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oai_dc:dc - setSpec",
+    "newColumnName": "setSpec",
+    "description": "Rename column oai_dc:dc - setSpec to setSpec"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oai_dc:dc - dc:contributor",
+    "newColumnName": "dc:contributor",
+    "description": "Rename column oai_dc:dc - dc:contributor to dc:contributor"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "id",
+          "columnName": "id",
+          "query": "^0$",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  }  
+]
