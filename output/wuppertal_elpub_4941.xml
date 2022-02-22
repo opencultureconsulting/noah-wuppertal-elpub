@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_4941">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Funktionelle Magnetresonanztomographie (FMRT) als Methode des Neuromarketings: Eine kritische Würdigung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Yun, Jong John</displayForm>
+                        <namePart type="family">Yun</namePart>
+                        <namePart type="given">Jong John</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die vorliegende Arbeit beschäftigt sich mit dem Einsatz der funktionellen Magnetresonanztomographie (fMRT), dem aktuell dominanten Verfahren zur Erfassung von Gehirnaktivität, im Bereich des Marketings und weist hierbei einen methodischen Schwerpunkt auf. Da die Leistungsfähigkeit der fMRT sehr hetergogen diskutiert wird, besteht das Ziel in der Erstellung einer eigenen Position hinsichtlich der Möglichkeiten und Grenzen der fMRT im Marketing. Im Sinne der Zielerreichung erfolgt eine ganzheitliche methodenkritische Betrachtung. 
+
+ In einem ersten Schritt wird die forschungsleitende Fragestellung in den allgemeinen und speziellen Anwendungsbereich der Arbeit eingebettet. Im Ergebnis kann die Arbeit dem Bereich des Neuromarketings im engeren Sinne zugeordnet werden. Nach dieser grundlegenden Einordnung wird der Fokus auf die allgemeinen biologischen und physikalischen Grundlagen der Messung gelegt. Dazu wird zum einen auf das Gehirn und neuronale Aktivität eingegangen. Zum anderen werden über die Auseinandersetzung mit der strukturellen Magnetresonanztomographie (MRT) verschiedene Aspekte hinsichtlich des physikalischen Messvorgangs und der Bilderstellung aufgearbeitet. Aufbauend auf diesen Grundlagen werden die speziellen Aspekte der Messung thematisiert. Neben der speziellen biologischen Messgrundlage und der Signalentstehung im Zusammenhang mit der fMRT werden auch unterschiedliche Aspekte der Datenerhebung, die unausweichliche Vorverarbeitung der Daten wie auch die statistische Datenanalyse ausführlich dargelegt. Die Ausführungen zur fMRT werden durch die Vorstellung des eigenen zweistufigen Analysevorgehens abgeschlossen. Die eigene Vorgehensweise ist hierbei vor dem Hintergrund der speziellen Herausforderungen der Datenanalyse zu sehen und stellt insofern einen leistungsfähigen Ansatz dar. Auf die theoretischen Ausarbeitungen folgt deren praktische Umsetzung in Form einer fMRT-Studie zur neuronalen Wirkung von Sonderangebotssignalen im Rahmen von Kaufentscheidungen. Im Ergebnis können sowohl theoriekonforme Gehirnaktivierungen wie auch eine unerwartete Aktivierung berichtet werden. Die unerwartete Aktivierung bietet sich aufgrund des hohen Schwierigkeitsgrades ihrer Interpretation in besonderer Weise an, im Anschluss an die Darstellung der fMRT-Untersuchung die Herausforderungen hinsichtlich der Interpretationslogik zu erörtern. Hierbei geht es zum einen um die Frage, was eine gemessene Aktivierung in Verbindung mit einem konkreten Kontrast bedeutet. Zum anderen gilt es zu klären, inwiefern von Gehirnaktivierungen auf die Verhaltensebene geschlossen werden kann. Den Abschluss der vorliegenden Arbeit stellt die Argumentation der eigenen Position und ihre Einordnung in ein Spannungsfeld aus vier Positionen hinsichtlich der Beurteilung der Leistungsfähigkeit der fMRT dar.</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20150708-150851-8</identifier>
+                    <identifier type="sys">HT018694811</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_4941</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_4941">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2014/yun/db1404.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_4941"
+            DMDID="DMD_wuppertal_elpub_4941">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_4941"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

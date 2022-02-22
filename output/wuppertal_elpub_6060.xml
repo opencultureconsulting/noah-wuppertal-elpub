@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6060">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Reaction of People on Low Frequency Noise and the Correlation with Measurement</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>He, Mu</displayForm>
+                        <namePart type="family">He</namePart>
+                        <namePart type="given">Mu</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This thesis deals with the perception and reaction of people on low frequency noise (LFN) and the correlation with the objective and subjective measurements. LFN is a common noise type in the normal life, it has been studied a lot and researchers found physiological and psychological effects on people. There are many national standards and methods to measure and evaluate LFN, but the LFN complainants and problems are still increasing and many aspects about LFN are still not clear.
+
+ Firstly, the indirect method is introduced and proves the feasibility of using additional components to reduce the annoyance caused by LFN. A pilot EEG test indicates that EEG is a useful tool to observe the brain reaction to LFN. After that several subjective listening tests are made for LFN sufferers and subjects with different personality traits, such as noise sensitivity, mental performance, and stress situation and so on, to find out whether they have different perceptions and reactions on LFN related signals. And EEG is recorded during these listening tests to observe the corresponding brain reactions . The analysis results show that pink noise (PN) is a suitable component to combine with LFN to reduce the annoyance for subjects with high general noise sensitivity. Adding extra PN is found as a loudness decreasing effect for LFN sufferers and subjects with relative high stress levels.
+
+ The calculation of the listening test results and EEG data reveal the relations between subjective annoyance value (SAV) and the power change of EEG bands in different brain function areas. When there is only LFN related auditory stimulus, SAV shows a positive correlation with the relative power spectral density (RPSD) of Theta band at the brain function area of dealing with auditory stimuli, and a negative relation with RPSD of Beta band at the area for emotional content and auditory imagery. There are signals comprised of both visual information and auditory stimuli in the wind turbines test, besides the above relationships, a positive correlation between SAV and RPSD of Thetal band at the position related to the function of processing emotional stimuli is also found.
+
+ The other part of this thesis is to use psychoacoustic parameters as the variables to simulate and predict the subjective feelings caused by LFN related signals. The linear regression and curve estimation calculation in SPSS shows that the evaluated loudness caused by LFN related signals can be predicted well with the psychoacoustic Loudness in linear or quadratic form. And the predicting results for SAV are various and depend on the type of the LFN signals. Psychoacoustic annoyance and the maximum value of the Fluctuation Strength are found more suitable to predict the annoyance reaction. Different personality traits show certain degrees of effects on the form and variable of the prediction. There is no significant result found for LFN sufferers in my tests, however, experiment with larger amount of this special subject group should be investigated in the future.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20160728-084415-2</identifier>
+                    <identifier type="sys">HT019054128</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6060</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6060">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2016/he/de1607.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6060"
+            DMDID="DMD_wuppertal_elpub_6060">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6060"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

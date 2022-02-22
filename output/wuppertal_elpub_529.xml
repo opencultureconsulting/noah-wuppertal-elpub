@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_529">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Residues of veterinary drugs in eggs and possible explanations for their distribution between egg white and yolk</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kan, Cornelis Adriaan</displayForm>
+                        <namePart type="family">Kan</namePart>
+                        <namePart type="given">Cornelis Adriaan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003-05-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Veterinary drugs are therapeutically used for laying hens but may also reach them unintentionally via the feed e.g. as a result of cross-contamination during premix manufacture, feed preparation in the feed mill or during feed transport. 
+ When these compounds reach the bloodstream, they will occur in the ovary with growing follicles and the oviduct, where the egg white is formed and secreted. The deposition of drugs in either yolk or white or both phases determines where one should look for residues.
+ Three reasons might rule the distribution of drugs between egg yolk and egg white: lipid solubility as fat soluble compounds generally occur in yolk, pKₐ value as ionised molecules will distribute in a certain way between phases with different pH values such as yolk and white or protein binding to egg white proteins. 
+ An extensive survey of available literature data on residues in egg yolk and white after administration to laying hens was made. The data on the distribution of residues between yolk and white differ considerably between drugs, but show remarkable resemblance for data on a given drug. All data on sulfonamides as well as on tetracyclines were considered carefully for any relationship between physicochemical characteristics and residue data in yolk and white. The lipid solubility hypothesis was certainly not supported by the available data including own previous experiments. 
+ All three explanations have also been tested in two animal experiments in which several sulfonamides differing in lipid solubility, pKₐ value and protein binding were administered to laying hens via the feed during 14 days and the levels in both yolk and egg white measured.
+ None of the three reasons could satisfactorily explain the ratio of the sulfonamide residues in egg white and yolk found in these experiments.
+ The conclusion therefore is that - at least for the sulfonamides tested - egg yolk and egg white are not two phases separated by a semi-permeable membrane and in some way in equilibrium with each other. 
+ Rather, two independent physiological processes in the laying hen govern the deposition of residues of the sulfonamides in egg yolk and egg white.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20030215</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_529</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_529">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-624/d090302.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_529"
+            DMDID="DMD_wuppertal_elpub_529">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_529"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

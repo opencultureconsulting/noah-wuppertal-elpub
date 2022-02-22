@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1598">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Overlapping and Nonoverlapping Orderings for Preconditioning</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Fritzsche, David</displayForm>
+                        <namePart type="family">Fritzsche</namePart>
+                        <namePart type="given">David</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Several ordering techniques for block based preconditioning are presented. The XPABLO algorithm as an extension of the original PABLO and TPABLO algorithms incorporates as a preprocessing step a nonsymmetric permutation combined with row and column scalings to obtain a large diagonal. A more general parametrization can be implemented in XPABLO while keeping the original time complexity of PABLO. It is shown that a block Gauss-Seidel preconditioner can be implemented to have the same execution time as the corresponding block Jacobi preconditioner. Experiments are presented showing that for certain classes of matrices, the block Gauss-Seidel preconditioner used with the system permuted with the XPABLO algorithm can outperform the best ILUTP preconditioners in a large set of experiments. The new OBGP algorithm extends a given nonoverlapping block ordering to an overlapping ordering to be used for algebraic Schwarz preconditioners. It is shown by experiments that using a multiplicative Schwarz preconditioner based on the extended ordering instead of using a block Gauss--Seidel preconditioner based on the original ordering can result in faster convergence.</abstract>
+                    <subject>
+                        <topic>Schwartz-Methods</topic>
+                        <topic>Preconditioning</topic>
+                        <topic>Graph Theory</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20100930-113815-0</identifier>
+                    <identifier type="sys">HT016538794</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1598</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1598">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2010/fritzsche/dc1013.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1598"
+            DMDID="DMD_wuppertal_elpub_1598">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1598"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

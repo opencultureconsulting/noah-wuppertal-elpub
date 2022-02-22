@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_11491">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>IoT-Geschäftsmodelle im deutschen Mittelstand - Eine Einflussfaktorenanalyse zu Barrieren und Treibern im digitalen Transformationsprozess</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Conti, Lorenzo</displayForm>
+                        <namePart type="family">Conti</namePart>
+                        <namePart type="given">Lorenzo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-03-25</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Digitalisierung treibt die organisationale Transformation der Wertschöpfungsketten und Geschäftsmodelle etablierter Unternehmen. Dies führt in allen Branchen zu neuen Herausforderungen, an denen viele dieser Unternehmen scheitern und im Sinne eines digitalen Darwinismus ausselektiert werden. Die vorliegende Forschungsarbeit befasst sich mit dem Prozess der Geschäftsmodell-Innovation durch Einführung von IoT-Technologien und muss in den Kontext der digitalen Transformation gesetzt werden. Forschungsgegenstand sind deutsche Mittelstandsunternehmen aus dem Maschinenbau und der Elektrotechnik. Ziel dieser empirischen Untersuchung ist es, den Einfluss organisationaler Faktoren auf die Einführung von IoT-Geschäftsmodellen zu erkunden. Mithilfe einer rekonstruierenden Fallstudienuntersuchung werden Treiber und Barrieren im Prozess der IoT-Geschäftsmodell-Innovation identifiziert und mittels der qualitativer Inhaltsanalyse durchleuchtet. Im Ergebnis werden verschiedene direkte und indirekte Einflussfaktoren identifiziert, welche einen Einfluss auf die Einführung von IoT-Geschäftsmodelle nehmen und sowohl förderlich als auch hindernd wirken.</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20210325-084801-5</identifier>
+                    <identifier type="doi">10.25926/m0yq-8m97</identifier>
+                    <identifier type="sys">HT021012737</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_11491</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_11491">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2020/conti/db2011.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_11491"
+            DMDID="DMD_wuppertal_elpub_11491">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_11491"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

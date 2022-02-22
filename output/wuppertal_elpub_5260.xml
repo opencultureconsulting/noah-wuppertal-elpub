@@ -1,0 +1,100 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5260">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Aktive zweidimensionale Lärmkontrolle unter Verwendung adaptiver Verfahren und reflektierter Feldgrößen</title>
+                    </titleInfo>
+                    <titleInfo lang="eng" type="translated">
+                        <title>Two-dimensional Active Noise Control using Adaptive Methods and reflected Field Quantities</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kleinhenrich, Christian</displayForm>
+                        <namePart type="family">Kleinhenrich</namePart>
+                        <namePart type="given">Christian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Krahé, Detlef</displayForm>
+                        <namePart type="family">Krahé</namePart>
+                        <namePart type="given">Detlef</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Tibken, Bernd</displayForm>
+                        <namePart type="family">Tibken</namePart>
+                        <namePart type="given">Bernd</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Diese Arbeit beschäftigt sich mit zweidimensionalen Active Noise Control Systemen (ANC) in kreis- und linienförmigen Anordnungen. Ein derartiges System dämpft Schall durch destruktive Interferenz bis zu einer systembedingten Grenzfrequenz unter Verwendung von Führungssensoren und Gegenquellen (Sekundärquellen). 
+
+ Das Grundprinzip basiert auf der Prädiktion (Extrapolation) eines gegebenen Schallfeldes (Primärfeld) anhand von Druck- und Schnellesignalen an den sogenannten Analysepunkten. Diese befinden sich in dem Raumbereich, in dem das Primärfeld gedämpft werden soll. Aus dieser Vorhersage und den invertierten Sekundärpfaden zwischen den Sekundärquellen und den Analysepunkten lassen sich die Systemfilter ableiten. 
+
+ Es werden verschiedene Extrapolationsverfahren auf Basis des Kirchhoff-Helmholtz-Integrals, der Rayleigh-Integrale, der Zirkularen Harmonischen Extrapolation und einer modifizierten Plane Wave Decomposition vorgestellt und auf die Verwendung im ANC-System hin untersucht. Für den linienförmigen Aufbau des Systems wird zudem gezeigt, dass der Einsatz kardioider Referenzempfänger anstelle von Druck- und Schnelleempfängern ausreichend ist. 
+
+ Ein ANC-System kann als ein schallweicher Impedanzabschluss angesehen werden. Diese Betrachtung führt zu neuen Ansätzen der Filtersynthese, die für den kreisförmigen und den linienförmigen Aufbau präsentiert werden. 
+
+ Des Weiteren wurde der Implementierung adaptiver Optimierungsverfahren in das Multiple-Input-Multiple-Output-System (MIMO) nachgegangen. Die resultierenden Ansätze verwenden im Gegensatz zu den klassischen Verfahren teils veränderte Führungs- und Fehlergrößen. Die Reflexionen des ANC-Systems fließen hier ebenfalls in ein neuartiges MIMO-Adaptionsverfahren ein, um das System auf einen schallweichen Impedanzabschluss zu adaptieren. Unter Verwendung der Finiten Differenzen im Zeitbereich (FDTD) werden zeitbasierte, zweidimensionale Schallfeldsimulationen in Verbindung mit den vorgestellten adaptiven Verfahren durchgeführt. Auf diese Weise kann gezeigt werden, dass die Anwendung dieser adaptiven Verfahren zu einer Dämpfung des Primärfeldes durch das zweidimensionale ANC-System führt. 
+
+ Abschließend werden die überarbeitete DSP-basierte Hardware des zweidimensionalen ANC-Systems und Messergebnisse unter Verwendung adaptiver Verfahren präsentiert.</abstract>
+                    <abstract type="content" lang="eng">This thesis deals with two-dimensional active noise control (ANC) systems in linear and circular setups. 2D ANC systems use reference sonsors and secondary sources to attenuate sound by means of destructive interference. Due to the characteristics of the system the ANC application is limited to an upper cut-off frequency. 
+
+ The ANC algorithm bases upon the prediction (extrapolation) of the soundfield (primary field) inside of the area where it is to be attenuated. The system filters can be derived by combining this prediction with the inverted transfer functions between the secondary sources and points inside of the area. Usually, both acoustic pressure and velocity have to be measured to accomplish this task. 
+
+ Within this thesis several prediction methods of a given sound field are evaluated. These methods are based upon the Kirchhoff-Helmholtz integral, the Rayleigh integrals, circular harmonics and a modified plane wave decomposition. For the linear system setup it is shown that the application of cardioid reference sensors instead of velocity and pressure sensors is sufficient. 
+
+ An ANC system can be regarded as a sound soft scatterer. From this point of view it is possible to synthesize the system filters in a new manner. This method will be presented for the linear and the circular system setup. 
+
+ Furthermore, the implementation of adaptive algorithms into the two-dimensional ANC system is investigated. In contrast to classical methods different reference and error signals are engaged. The scattered or reflected fields of the ANC system are also used to introduce a new Multiple Input Mutliple Output (MIMO) adaptation method to make the system behave like a sound soft scatterer. Finite differences in the time-domain (FDTD) have been utilized to simulate sound propagation and interference in combination with the adaptive ANC system. In this way it is shown that the adaptive algorithms presented within this work can be employed to attenuate primary fields with the two-dimensional ANC system. 
+
+ Finally, the modification of a DSP-based MIMO ANC system is presented. This system is used to measure the attenuation effects using adaptive algorithms.</abstract>
+                    <subject>
+                        <topic>Active Noise Control</topic>
+                        <topic>Acoustics</topic>
+                        <topic>Signal Processing</topic>
+                        <topic>Wave Field Synthesis</topic>
+                    </subject>
+                    <classification authority="ddc">600</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20151021-144928-6</identifier>
+                    <identifier type="sys">HT018793930</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5260</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5260">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2014/kleinhenrich/de1407.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5260"
+            DMDID="DMD_wuppertal_elpub_5260">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5260"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_2223">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Belastungsinduzierte Veränderungen der plasmatischen Gerinnung und Fibrinolyse in Abhängigkeit von der Belastungsintensität, dem Alter und dem Trainingszustand</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Menzel, Kathleen</displayForm>
+                        <namePart type="family">Menzel</namePart>
+                        <namePart type="given">Kathleen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Eine körperliche Belastung induziert eine Aktivierung der plasmatischen Gerinnung und der Fibrinolyse. Die vorliegende Studie soll zeigen in welchem Umfang die Intensität der Belastung, das Lebensalter und Ausdauertraining über 12 Wochen einen Einfluss auf das Aktivierungsniveau bei gesunden untrainierten Personen besitzen. 
+
+Es wurden zwei Altersgruppen in die Studie eingeschlossen. Die Gruppe im Alter von 25±1 J. (N=24) absolvierte eine moderate (80%IAS) und eine intensive (100%IAS) Belastung über 60 min auf dem Radergometer. Die Gruppe im Alter von 48±6 J. absolvierte nur eine moderate Belastung (80%IAS). Diese Gruppe wurde randomisiert in eine Kontroll- (N=22) und eine Trainingsgruppe (N=22) geteilt. Die Teilnehmer der Trainingsgruppe trainierten im Folgenden über 12 Wochen, 3-4mal pro Woche. 
+
+Mit den durchgeführten Untersuchungen konnte nachgewiesen werden, dass belastungsinduzierte Veränderungen der Hämostase bei intensiven Belastungen an der IAS deutlich stärker sind. Belastungen unterhalb der IAS verschieben das hämostatische Gleichgewicht zu Gunsten der Fibrinolyse. Zusätzlich konnte gezeigt werden, dass der Umfang der belastungsinduzierten Auslenkung der beiden Systeme nicht vom Alter oder von der absoluten Leistung, sondern von der individuellen Belastungsintensität, orientiert an der IAS, abhängig ist. 
+
+Aus diesem Grund stellt die Steigerung der Ausdauerleistungsfähigkeit ein zentrales Ziel der regelmäßigen körperlichen Aktivität in der Prävention dar.</abstract>
+                    <abstract type="content" lang="eng">Physical exercise induces the activation of coagulation and fibrinolysis. The present study aims to illustrate the effect of exercise intensity, age and endurance training of 12 weeks on the activation of hemostatsis in healthy untrained persons. 
+
+Two groups were included in this intervention. The first group 25±1 y. (n=24) completed a moderate exercise test (80%IAT) and an intensive exercise test (100%IAT) of about 60min on an ergometer. The second group 48±6 y. realised only a moderate exercise test (80%IAT). This group was randomised in a control group (n=22) and a training group (n=22). 
+Moderate endurance training was realised in the following 12 weeks, 3-4 times a week. 
+
+The present results show that exercise induced changes were higher after intensive exercise at 100%IAT. Moderate exercise leads to a more pronounced fibrinolytic activity. In addition, exercise induced changes were not associated with age or absolute power output, this changes were closely related to individual exercise intensity based on IAT. 
+
+For this reason, an increase in endurance performance capacity should be the primary goal of regular training in prevention.</abstract>
+                    <classification authority="ddc">610</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Human- und Sozialwissenschaften » Sportwissenschaft"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20110802-143632-1</identifier>
+                    <identifier type="sys">HT016916021</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_2223</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_2223">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbg/sportwissenschaft/diss2011/menzel/dg1101.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_2223"
+            DMDID="DMD_wuppertal_elpub_2223">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_2223"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

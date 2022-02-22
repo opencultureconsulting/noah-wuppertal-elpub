@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_917">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zum Stabilitätsnachweis von Schalentragwerken aus Hochleistungsbeton</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Andres, Matthias</displayForm>
+                        <namePart type="family">Andres</namePart>
+                        <namePart type="given">Matthias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004-07-08</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die vorliegende Arbeit befasst sich mit der Untersuchung des Stabilitätsversagens einer Schalenstruktur aus Stahlbeton und hierbei speziell aus dem Werkstoff Hochleistungsbeton. Mit den seitens der Materialtechnologie entstandenen Betonen hoher Festigkeit ist es zunehmend möglich, die Querschnittsdicke von Stahlbetonstrukturen zu reduzieren. Hierdurch tritt vermehrt die Problematik des Stabilitätsversagens gegenüber dem sonst üblichen Spannungsversagen in den Vordergrund. 
+
+Zur Erforschung dieses Phänomens wird in eine isoparametrische Finite-Element-Formulierung ein im Besonderen den Nachriss- und Nachbruchbereich des Betons realitätsnah beschreibendes Materialgesetz implementiert. Des Weiteren werden die aus der Elastostatik bekannten Stabilitätskriterien auf ihre Gültigkeit und Anwendbarkeit hin überprüft und erweitert. 
+
+Aus der zeitaufwändigen geometrischen und materiellen nichtlinearen Analyse heraus wird ein Konzept zur Berücksichtigung von initialen Schädigungen bei der Stabilitätsanalyse von Tragwerken entwickelt. Durch die Definition von die Schädigung beschreibenden Parametern ist es möglich mit Hilfe einer der klassischen Stabilitätsanalyse ähnlichen Vorgehensweise eine verbesserte Abschätzung des kritischen Lastniveaus vorzunehmen. 
+
+Unter der Berücksichtigung der Ergebnisse von einigen Analysen von Anwendungsbeispielen wird zum Abschluss ein Vorschlag zur Einbettung der vorgestellten Vorgehensweise in das derzeit bestehende Normenkonzept unterbreitet.</abstract>
+                    <abstract type="content" lang="eng">The present work deals with the investigation of the phenomenon of stability failure of a reinforced concrete shell structure, especially made of high performance concrete. The development of concrete mixtures with high compression strength allows the reduction of cross-section height of reinforced concrete structures. Due to this, stability failure come into the forefront against the usually occurring stress failure. 
+
+To research this phenomenon an isoparametric finite element formulation is extended with a non-linear material law for concrete, which describes the behaviour after cracking and crushing close to reality. Furthermore the known stability criteria of elastostatics are proofed and extended for validity and applicability. 
+
+From among time-consuming geometrical and material non-linear analysis a concept for consideration of initial damage in stability analysis is developed. As a result of the definition of damage-describing parameters and the use of a procedure near to the classical stability analysis it is possible to estimate a critical load factor nearer to reality. 
+
+At last a proposal for the integration of the developed concept into the actual standard specifications is made under the consideration of the results of some analysis of applications.</abstract>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Architektur und Bauingenieurwesen » Bauingenieurwesen"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20040315</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_917</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_917">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1023/dd0404.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_917"
+            DMDID="DMD_wuppertal_elpub_917">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_917"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

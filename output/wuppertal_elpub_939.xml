@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_939">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>A </nonSort>
+                        <title>Comparative Analysis of the Public Transport Systems of Santiago de Chile, London, Berlin and Madrid: What can Santiago learn from the European Experiences?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gschwender, Antonio</displayForm>
+                        <namePart type="family">Gschwender</namePart>
+                        <namePart type="given">Antonio</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-11-08</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In 2001, 58 % of the motorised trips on a typical day were made by using public transport in Santiago, the capital of Chile. Comparing this with its proportion in 1991 (71 %) and 1977 (83 %) a clear decline in public transport use can be seen. The improvement of the public transport system is crucial to stop its decline in the modal split, and to accomplish a more sustainable urban transport system (together with complementary policies: for instance car parking restrictions, bicycle facilities). Based on positive experiences provided by three selected European metropolitan areas (Greater London, Berlin and Madrid) and taking into account theoretic and empirical evidence investigated by the author in previous studies and field trips, the aim of this research is to identify and analyse aspects in which the public transport system of Santiago de Chile can be improved. An important part of this research is the comparison and analysis of the socio-economic and transport data of the four metropolitan areas. During this analysis, two topics were identified and selected for further research: the institutional organisation of public transport (transport authority) and the fare structure of public transport. 
+
+In the case of the transport authority, the proposed solution for Santiago is the creation of a regional transport authority, responsible for the planning and implementation of both public and private transport policies, strategic plans and projects. It should also be responsible for the non-motorised modes and for urban planning and land-use definitions at the regional level. Responsibilities from other areas different to the transportation could also be transferred to the regional authority, as long as they have a regional scope. The regional government should change its appointment system, in the direction of directly elected head and representatives. 
+
+Travelcards allowing unlimited public transport use in a certain period (e.g. a month) may have a positive impact on public transport demand. Their implementation is recommended for Santiago. No technical problems for its introduction are detected, being the main difficulty an eventual unwillingness at the decision-making level. The relation between the fare and the trip-length is discussed. A mostly flat fare is recommended for Santiago. The differentiation of fares in peak and off-peak periods is also analysed. As shown in a numerical simulation, it is possible to increase both patronage and revenue through this measure. The average fare in Santiago is marginally lower than in Berlin and Madrid. Comparing it with the disposable income of the population, the public transport in Santiago is more expensive than in London, Madrid and Berlin. Unlike the European case study areas, the public transport system in Santiago does not receive operational subsidies. These kind of subsides are fully justified by the economic theory in the case of urban public transport, and also represent a clear policy decision in the direction of giving incentives to the use of public transport. A subsidy in Santiago would be more likely, if it were not financed by fiscal expenditure but other sources (e.g. congestion charging). A regressive cross-subsidy from full-fare payers to the students should be eliminated, providing a compensation for the reduced students’ fare. 
+
+During the time of this research the public transport system of Santiago was undergoing a major change under the name “Transantiago”. All the analyses are made assuming that Transantiago is already implemented, i.e. the recommendations are centred in future improvement for the new system.</abstract>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Architektur und Bauingenieurwesen » Bauingenieurwesen"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20070850</identifier>
+                    <identifier type="sys">HT015342465</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_939</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_939">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/bauingenieurwesen/diss2007/gschwender/dd0706.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_939"
+            DMDID="DMD_wuppertal_elpub_939">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_939"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

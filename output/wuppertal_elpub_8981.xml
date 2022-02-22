@@ -1,0 +1,82 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_8981">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Jesuit Science Network: A digital prosopography on Jesuit scholars in the early modern sciences</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mrozik, Dagmar</displayForm>
+                        <namePart type="family">Mrozik</namePart>
+                        <namePart type="given">Dagmar</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Remmert, Volker</displayForm>
+                        <namePart type="family">Remmert</namePart>
+                        <namePart type="given">Volker</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Valleriani, Matteo</displayForm>
+                        <namePart type="family">Valleriani</namePart>
+                        <namePart type="given">Matteo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-11</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Although academic work of all kinds involves the use of computers for research, text processing, and scholarly communication on a day-to-day basis, historians in particular seem to struggle with accepting &apos;actual&apos; digital projects as valid forms of historical scholarship. With the Jesuit Science Network (JSN), a digital prosopography on Jesuit scholars in the early modern sciences, I want to help overcome these apprehensions by showing that the involved technical implementations are inherently rooted in a rigorous study and understanding of the historical background - starting with an explanation of how the basic historical research interest in the who, what, where, and when of Jesuit science can be transformed and translated into a practical research task. In doing so, I am closing a gap in the study of Jesuit activity in the early modern sciences, as an overview over the involved actors such as provided by the JSN has not existed so far. The work is rounded off by a case study and a discussion of possible follow-up projects.</abstract>
+                    <abstract type="content" lang="ger">Auch wenn der Einsatz von Computern zu Zwecken von Recherche, Textverarbeitung und wissenschaftlichem Austausch mittlerweile akademischer Alltag quer durch alle Fächer geworden ist, scheinen sich besonders Historiker damit schwer zu tun, &apos;richtige&apos; digitale Projekte als valide Formen historischer Forschung zu akzeptieren. Mit dem Jesuit Science Network (JSN), einer digitalen Prosopographie zu jesuitischen Gelehrten, die in den frühneuzeitlichen Vorformen der modernen Mathematik und Naturwissenschaften tätig waren, möchte ich dazu beitragen, diese Vorbehalte auszuräumen. Dazu zeige ich auf, dass die involvierten technischen Komponenten in einer rigorosen historischen Studie verwurzelt sind - beginnend mit einer Erklärung, wie das grundlegende historische Interesse an dem wer, was, wo und wann der Jesuit science in eine praktische Forschungsaufgabe transformiert und übersetzt werden kann. So schließe ich eine bestehende Lücke, da es einen solchen Überblick über die beteiligten jesuitischen Akteure, wie ihn das JSN bietet, bisher noch nicht gibt. Zuletzt runde ich die Arbeit durch eine Fallstudie und eine Diskussion möglicher Nachfolgeprojekte ab.</abstract>
+                    <subject>
+                        <topic>Jesuiten</topic>
+                        <topic>Frühe Neuzeit</topic>
+                        <topic>Wissenschaftsgeschichte</topic>
+                        <topic>Jesuits</topic>
+                        <topic>Society of Jesus</topic>
+                        <topic>History of science</topic>
+                        <topic>Early modern period</topic>
+                        <topic>Early modern science</topic>
+                    </subject>
+                    <classification authority="ddc">900</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20181211-142016-1</identifier>
+                    <identifier type="sys">HT019917254</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_8981</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_8981">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fba/geschichte/diss2018/mrozik/da1802.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_8981"
+            DMDID="DMD_wuppertal_elpub_8981">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_8981"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

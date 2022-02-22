@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1475">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Causality measures between neural signals from invasively and non-invasively obtained local field potentials in humans</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Florin, Esther</displayForm>
+                        <namePart type="family">Florin</namePart>
+                        <namePart type="given">Esther</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Understanding the processes underlying neural communication is crucial to improve the treatment of neurological diseases, but has been a great challenge in the past. To tackle this issue, the question of causality between certain brain areas and between muscles and brain areas is of great interest. In the past decade several multivariate causality measures based on Granger causality have been suggested to assess causality in systems of neural signals. To date, however, a detailed evaluation of the reliability of these measures and their sensitivity to data preprocessing techniques is largely missing. 
+The present work systematically evaluates the performance of five different causality measures and its dependence upon data length, noise level, coupling strength and model order. Moreover, the effect of two common numerical methods (bootstrapping and jackknife) to determine the significance threshold for the causality measures was analyzed. Two simulation models were used to generate a controlled environment: one based on artificial data and one based on four different neural data recording procedures (magnetoencephalography, electroencephalography, electromyography, intraoperative local field potentials). The analysis shows the squared Partial Directed Coherence with the leave one out method to be the most reliable and robust choice for assessing directionality in neural data. 
+Moreover, the influence of data preprocessing on the working of the causality measures was investigated. In frequency domain analyses (power or coherence) of neural data it is common to preprocess the time series by filtering or decimating. 
+However, in other fields it has been shown theoretically that filtering in combination with Granger causality may lead to spurious or missed causalities. A controlled simulation environment was used to investigate whether this result translates to the multivariate causality methods derived from Granger causality. 
+The simulation results suggest that preprocessing without a strong prior about the artifact to be removed disturbs the information content and time ordering of the data and leads to spurious and missed causalities. Only if apparent artifacts like a current or movement artifact are present, filtering out the respective disturbance seems advisable. While oversampling the data poses no problem, decimation by a factor greater than the minimum time shift between the time series may lead to wrong inference. Finally, with the simulation results in mind an application of the causality measures to real data demonstrates the usefulness of the simulation results for practical applications.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ddc">610</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20100816-153747-5</identifier>
+                    <identifier type="sys">HT016508892</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1475</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1475">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2010/florin/dc1011.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1475"
+            DMDID="DMD_wuppertal_elpub_1475">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1475"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

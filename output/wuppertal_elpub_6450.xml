@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6450">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Strömungstechnische Untersuchungen der Druckbelüftung von Sicherheitstreppenräumen</title>
+                    </titleInfo>
+                    <titleInfo lang="eng" type="translated">
+                        <title>Fluid Dynamic Analysis of Pressurized Stairwells</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Meinert, Marion</displayForm>
+                        <namePart type="family">Meinert</namePart>
+                        <namePart type="given">Marion</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Klingsch, Wolfram</displayForm>
+                        <namePart type="family">Klingsch</namePart>
+                        <namePart type="given">Wolfram</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Husted, Bjarne</displayForm>
+                        <namePart type="family">Husted</namePart>
+                        <namePart type="given">Bjarne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In dieser Arbeit wird die geometrische und gebäudetechnische Ausbildung eines Sicherheitstreppenraumes untersucht. Strömungstechnische Parameter, die die Funktion eines Druckbelüftungssystems beeinflussen, werden erläutert, untersucht und bewertet. Verfügbare ingenieurtechnische Methoden (Methoden der Numerischen Strömungsmechanik und empirisch-analytische Methoden) zur Auslegung des Druckbelüftungssystems werden vorgestellt, zur Untersuchung der strömungstechnischen Parameter angewendet und hinsichtlich ihrer Genauigkeit und Eignung bewertet. Die durchgeführten strömungstechnischen Untersuchungen zeigen, dass es möglich ist, Einflüsse bei der vom Druckbelüftungssystem erzeugten Durchströmung des Gebäudes (interne Einflüsse) abzuschätzen. In dieser Arbeit werden Empfehlungen gegeben, wie die Einflüsse für die Auslegung des Druckbelüftungssystems berücksichtigt werden sollten. Für die internen Einflüsse werden anhand von herausgestellten Strömungsszenarien Möglichkeiten und Grenzen der ingenieurtechnischen Methoden aufgezeigt. Diese dienen auch als Leitfaden bei der Auswahl der Methode und der Randbedingungen, der Modellierung wie auch der Durchführung der numerischen Simulation oder empirisch-analytischen Berechnung. Unsicherheiten in der Auslegung der Einwirkungen von externen Einflüssen (Wind und klimatische Einflüsse) wie auch durch Leckagen in der Gebäudehülle und inneren Trennwänden sollten im Rahmen weiterer Forschung untersucht werden.</abstract>
+                    <abstract type="content" lang="eng">Design methods of pressurized stairwells are analyzed within this work. Fluid dynamic design parameters which influence the pressurization system are explained, analyzed and evaluated. Available engineering methods (computational fluid dynamics and empirical and analytical methods) for the design of the pressurization system are presented, applied for the analysis of the fluid dynamic parameters and evaluated in terms of their accuracy and suitability. The executed fluid dynamical analysis show that it is possible to evaluate influences of the pressure induced flow through the building (external influences). Recommendations will be made, how different influences should be evaluated in the design of the pressurization system. For the internal influences possibilities and limitations of the engineering methods are pointed out based on exposed flow scenarios. These also can be used as a guideline for selecting the method and the boundary conditions, the modeling process as well as for the numerical simulation or empirical-analytic calculation. Uncertainties in the design of the external influences like wind, climatic influences as well as leakages in the building envelope and internal walls should be examined by further research.</abstract>
+                    <classification authority="ddc">624</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Architektur und Bauingenieurwesen » Bauingenieurwesen"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170102-143111-1</identifier>
+                    <identifier type="sys">HT019201986</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6450</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6450">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/bauingenieurwesen/diss2016/meinert/dd1605.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6450"
+            DMDID="DMD_wuppertal_elpub_6450">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6450"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

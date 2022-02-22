@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_439">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Lipase-katalysierte Acylierungen von Aminosäuren und Aminosäurederivaten</title>
+                        <subTitle>Enzymunterstützte Synthese von (R)-α-Hydroxycarbonsäuren</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Müller, Stefan</displayForm>
+                        <namePart type="family">Müller</namePart>
+                        <namePart type="given">Stefan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-03-16</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Renewable raw materials represent a considerable reservoir for the chemical industry. This is particulary true in the detergent field where combination products of plant constituents such as carbohydrates, fats and oils or proteins are increasingly used as mild and biodegradable surfactants. Typical examples are &quot;alkylpolyglucosides&quot; (APGs) or &quot;fatty acid-protein-conjugates&quot;. N-acylated amino acids are usually synthesized using classical methods such as the Schotten-Baumann reaction. As an attractive alternative biocatalysts (lipases) could be used advantageously. Lipase catalysed acylations must be carried out in aprotic organic solvents with low water content. Amino acids, however, are insoluble in such media and the problem was compromised via three different routes: a) conversion into t-Butyl esters; b) formation of contact ion pairs; c) complexation on ion exchange resins. 
+In the first part of this thesis the lipase catalysed acylation of amino acid t-butyl esters with fatty acids derived from natural fats and oils was studied. The required amino acid t-butyl esters were synthesized according to the procedure of Wright et al. by condensation of the corresponding cbz-amino acids with t-butanol MgSO₄, followed by deprotection. The lipase derived from Candida antarctica B (Novozym SP435) showed the best substrate tolerance and highest activity for these reactions. 
+Under optimised conditions, product yields of &gt; 92 % of N-acyl α-amino acid t-butyl esters were achieved. N-caproyl glycin t-butyl ester was synthesized on a preparative scale (&lt; 100mmol) in excellent yield (95%) after only 3 hours reaction time. Racemic t-butyl (±)-3-aminobutyrate is converted into the corresponding, optically active N-acylated amidoester (93%ee) and unreacted β-amino ester (98%ee). The obtained results can be used as starting point for the synthesis of amino acid t-butyl esters on a commercial scale. 
+Also free amino acids can be acylated by the lipase from Candida antarctica B (Novozym SP435) if the amino acids are solubilised in organic solvents via formation of contact ion pair using the non-nucleophilic base TBD (1,5,7-triazabicyclo[4.4.0]dec-5-en). NMR studies established that the amino acids form a contact ion pair with TBD. A broad range of such ion pairs with D- and L-amino acids were acylated with methylcaproate and -laurate. Alternatively the N-acylation of amino acids was also investigated by complex formation on ion exchange resins. This method provided an attractive route to the target molecules,especially as in technical applications the ion exchange resin can be reused. 
+The last section of this dissertation focussed on D-hydantoinase catalysed hydrolyses of 5-substituted oxazolidin-2,4-dione. (R)-5-substituted oxazolidin-2,4-dione are selectively hydrolysed producing O-carbamoyl-(R)-α-hydroxy acids which could be converted to the (R)-α-hydroxy acids. The required racemic 5-substituted oxazolidin-2,4-dione were synthesized using to the procedure of Traube et al. by condensation of the corresponding α-hydroxy acid methylesters with guanidine. Optimisations of the method allowed the synthesis of numerous (R)-α-hydroxy acids in high chemical and optical yields. It was shown that 5-phenyl-substituted oxazolidin-2,4-dione racemise under these reaction conditions while to 5-alkyl-substituted oxazolidin-2,4-dione do not.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20010201</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_439</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_439">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-534/d090028.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_439"
+            DMDID="DMD_wuppertal_elpub_439">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_439"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

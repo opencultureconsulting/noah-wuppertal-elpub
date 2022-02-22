@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_985">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Einfluss von Material- und Modellparametern auf die spezifsche Absorptionsrate (SAR) und die Temperaturverteilung in Nagern</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Reinhardt, Tina</displayForm>
+                        <namePart type="family">Reinhardt</namePart>
+                        <namePart type="given">Tina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-01-27</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die vorliegende Arbeit befasst sich mit der Untersuchung des Einflusses unterschiedlicher Material- und Modellparameter auf die spezifische Absorptionsrate (SAR) und die Temperaturverteilung in Nagern, die einem hochfrequenten elektromagnetischem Feld ausgesetzt werden. Sie entstand im Rahmen einer Langzeit &quot;in vivo&quot; - Studie mit freilaufenden Mäusen und beinhaltet schwerpunktmäßig die feldtheoretischen und hochfrequenztechnischen Problemstellungen. Dazu gehören die Erzeugung definierter und reproduzierbarer Feldverteilungen, die Ermittlung der spezifischen Absorptionsrate in den Tieren und deren Variabilität sowie eine Abschätzung der zu erwartenden Temperaturerhöhung in den Tieren. Für die Berechnung der Feldverteilung wird die Finite Differenzen Methode verwendet. Durch Untergitterstrukturen können die vorhanden Rechnerressourcen effizienter genutzt werden, so dass es möglich ist, mit sehr hochaufgelösten anatomischen Tiermodelle zu arbeiten.
+ Aufgrund der Komplexität der verwendeten Expositionsanlage werden zunächst stark vereinfachte Expositionssysteme betrachtet. Die Komplexität der Körpermodelle der Nager und der Expositionsumgebung wird schrittweise erhöht, um Auswirkungen diverser Parameter auf die Ganzkörper-SAR, die Teilkörper-SAR und die Temperaturerhöhung zu untersuchen. So zeigen Auswertungen für die über 1 g Gewebemasse gemittelte Teilkörper-SAR, dass die bislang üblicherweise verwendete IEEE-Richtlinie zu einer deutlichen Unterschätzung der maximal auftretenden Teilkörper-SAR führen kann.
+ Des Weiteren befasst sich diese Arbeit mit der Entwicklung einer HF-Expositionsanlage für freilaufende Nager im UMTS-Frequenzbereich. Bei der Exposition von in Käfigen gehaltenen Tieren ist die Erzeugung eines homogenen Expositionsfeldes ausschlaggebend für eine geringe Variation der SAR in den Tieren, insbesondere dann, wenn die Körperabmessungen der Tiere in der Größenordnung einer halben Wellenlänge oder größer liegen. Es werden konstruktive Modifikationen der als Expositionsanlage eingesetzten radialen Wellenleitung vorgestellt, die es ermöglichen, Nager einem definierten elektromagnetischen Feld auszusetzen. Für die unter Verwendung der entwickelten Expositionsanlage durchgeführte Studie werden für ausgewählte Gruppierungen der Mäuse ausführliche dosimetrische Berechnungsergebnisse mit einer unterschiedlichen Anzahl an Tieren pro Käfig, die teilweise unterschiedliche Massen besitzen, präsentiert und diskutiert. So zeigen die Auswertungen der Teilkörper-SAR und der maximalen lokalen Temperaturerhöhung, dass es generell nicht möglich ist, von &quot;hot spots&quot; der SAR auf Bereiche hoher thermischer Belastung zu schließen. Die Variabilität von Material- und Modellparametern wird in der ausführlichen Auswertung der Ganzkörper-SAR berücksichtigt.</abstract>
+                    <abstract type="content" lang="eng">The present study deals with the investigation of the influence of different material and model parameters on the specific absorption rate (SAR) and the temperature distribution in rodents exposed to radio-frequency electromagnetic fields. The study was developed as part of a long-term &quot;in vivo&quot; - study with freely running mice and contains in particular the field-theoretical and high frequency-technical problems including the generation of defined and reproducible field distributions, the identification of the specific absorption rates in the animals and their variability as well as an estimate of the anticipated rise in temperature in the animals. For the calculation of the field distribution, the finite difference method is used. By using sub-lattice structures the available computer resources can be used more efficiently, making the use of very high-resolution anatomical animal models possible. 
+Due to the complexity of the used exposure device, highly simplified body models of rodents and exposure environments are considered, initially. The complexity of the body models and of the exposure environment is gradually increased in order to examine effects of various parameters on the whole-body SAR, the partial-body SAR and the rise in temperature. Evaluations for the partial-body SAR averaged over 1 g show, that so far the usually used IEEE-guideline can lead to a clear underestimation of the maximally arising partial-body SAR. 
+Furthermore, this work deals with the development of an rf-exposure device for freely moving rodents in the UMTS frequency band. The rf-exposure of freely moving rodents in cages requires a homogeneous exposure field. That is decisive for a low variation of the whole-body absorption per animal, in particular when the body dimensions of the animals exceed half the wavelength. Therefore, constructional modifications of the radial waveguide used as exposure device are presented, which enables the exposure of rodents at high frequencies under well defined conditions. For the study accomplished by using the developed exposure device, detailed dosimetric computation results for selected groups of mice with different numbers of animals per cage, some have different body masses, are presented and discussed. 
+ The evaluations of the partial-body SAR and of the maximum local temperature rise show that it is generally not possible to conclude from &quot;hot spots&quot; of the SAR to areas of high thermal load. The variability of material and model parameters is considered in the detailed evaluation of the whole body-SAR.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20090016</identifier>
+                    <identifier type="sys">HT015816458</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_985</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_985">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2008/reinhardt/de0804.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_985"
+            DMDID="DMD_wuppertal_elpub_985">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_985"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

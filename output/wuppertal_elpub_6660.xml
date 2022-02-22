@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6660">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Electrogenerated Films of Carbazole- and Thiophene-Based Microporous Polymer Networks</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Palma Cando, Alex Uriel</displayForm>
+                        <namePart type="family">Palma Cando</namePart>
+                        <namePart type="given">Alex Uriel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Electrochemical oxidative polymerization of rigid, multifunctional monomers allows for the generation of microporous thin films with high surface areas. In this work, multifunctional carbazole- and thiophene-based rigid monomers were utilized as tridimensional building blocks (tectons) toward the electrogeneration of microporous polymer films. The monomer structure plays an essential role on the properties of the resulting microporous polymer networks. A distinct correlation is observed between the number of electroactive substituents in the monomers and the specific surface area of the corresponding microporous polymer films. Potential applications were explored for the chemical and electrochemical detection of nitroaromatic compounds using optimized microporous polymer films.</abstract>
+                    <abstract type="content" lang="ger">Die oxidative, elektrochemische Polymerisation starrer, multifunktioneller Monomere ermöglicht die Erzeugung dünner mikroporöser Filme mit hoher Oberfläche. In dieser Arbeit wurden multifunktionelle, dreidimensionale Carbazol- und Thiophen-basierte rigide Monomere (Tektone) dazu verwendet, elektrochemisch dünne mikroporöse Filme zu generieren. Die Struktur der Monomere spielt für die Eigenschaften der dabei entstehenden mikroporösen Polymernetzwerke eine entscheidende Rolle. Es wird ein Zusammenhang zwischen der Anzahl der elektroaktiven Gruppen des Monomeres und der spezifischen Oberfläche des entsprechenden Polymerfilmes beobachtet. Einige dieser mikroporösen Polymernetzwerke wurden für Anwendungen als Sensormaterial sowohl für die chemische, als auch die elektrochemische Detektion von Nitroaromaten untersucht.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170210-142131-6</identifier>
+                    <identifier type="sys">HT019288310</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6660</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6660">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2016/palmacando/dc1636.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6660"
+            DMDID="DMD_wuppertal_elpub_6660">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6660"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,98 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6590">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Artificial Boundary Conditions in the Lattice Boltzmann Method</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Heubes, Daniel</displayForm>
+                        <namePart type="family">Heubes</namePart>
+                        <namePart type="given">Daniel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ehrhardt, Matthias</displayForm>
+                        <namePart type="family">Ehrhardt</namePart>
+                        <namePart type="given">Matthias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bartel, Andreas</displayForm>
+                        <namePart type="family">Bartel</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ehrhardt, Matthias</displayForm>
+                        <namePart type="family">Ehrhardt</namePart>
+                        <namePart type="given">Matthias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Vanroose, Wim</displayForm>
+                        <namePart type="family">Vanroose</namePart>
+                        <namePart type="given">Wim</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The lattice Boltzmann method (LBM) was originally developed as a numerical scheme in the field of computational fluid dynamics. In this dissertation the LBM is considered and the topic of this work lies on the construction of artificial boundary conditions (ABCs) - well suited boundary conditions for artificial boundaries. Artificial boundaries are introduced when a spatial domain is confined to a smaller computational domain. A boundary condition (BC) not tailored for artificial boundaries, like a fixed pressure or velocity condition, behaves in an unphysical manner and generates spurious reflections. Ideally, a BC does not interact with the fluid. Thus, any fluctuation from the interior should leave the computational domain without generating a reflection when impinging on the artificial boundary. 
+At the beginning of this dissertation a theoretical embedding of the LBM is given. As an example, the D3Q19 model is analytically derived with a numerical integration approach. Moreover the connection of the LBM to macroscopic fluid models (Navier-Stokes equations) is shown, and it is demonstrated that the application of the LBM is not limited to simulate fluid flows. 
+Based on the theoretical foundation, the features of an ideal boundary condition for artificial boundaries are elucidated. Approaches from literature for the treatment of artificial boundaries are presented. Here a focus lies on perfectly matched layer (PML) approaches and LODI-based characteristic boundary conditions (CBCs). Then the LODI-based CBCs are extended and thus novel ABCs for one- to three-dimensional problems are developed. CBCs are fully described on a macroscopic level, thus differently to the fluid description the LBM is based on. It is explained that from the perspective of the LBM any CBC eventually describes a Dirichlet BC for macroscopic quantities, whose implementation introduces errors. 
+Afterwards, in the main part of this dissertation the construction of ABCs, which are completely described on the discrete level of the LBM, is pursued. Firstly, a novel procedure based digraphs is introduced for understanding the (temporal) evolution of the discrete quantities within the LBM. With this new understanding a theoretical basis for the formulation of novel general discrete ABCs is constructed by analytically deriving an exact BC for artificial boundaries in 1D. A consistency condition satisfied by this exact discrete ABC is deduced. The one-dimensional exact discrete ABC is approximated, whereby a new parameter is introduced which controls the accuracy of the approximation. The approximated discrete ABC is interpreted as a separate lattice Boltzmann simulation, and this interpretation is generalized. Hence, a discrete ABC for general lattice Boltzmann simulations (not restricted to models recovering Navier-Stokes equations) in higher dimensions is formulated. Error sources of the discrete ABCs, details for their efficient implementation as well as their computational costs are discussed. 
+All novel ABCs are implemented and applied for a variety of one- to three-dimensional test scenarios. Their performance is compared to selected ABCs from literature. One numerical simulation explains the working principle of the discrete ABCs visually. 
+Finally, the results of this dissertation are summarized and additionally possible future research tasks are pointed out.</abstract>
+                    <abstract type="content" lang="ger">Die Lattice Boltzmann Methode (LBM) ist ursprünglich als ein numerisches Verfahren im Bereich der numerischen Strömungsmechanik entwickelt worden. Diese Arbeit befasst sich mit der LBM und entwickelt für diese künstliche Randbedingungen (kRBen) - speziell geeignete Randbedingungen für künstliche Ränder. Man stößt auf künstliche Ränder, wenn man ein gegebenes räumliches Gebiet für eine Simulation auf ein kleineres Rechengebiet beschränkt. Randbedingungen (RBen), welche nicht für künstliche Ränder konzipiert wurden (beispielsweise RBen, die einen konstanten Druck oder konstante Geschwindigkeit umsetzen) zeigen kein physikalisches Verhalten, da diese störende Reflexionen erzeugen. Idealerweise sollte eine RB nicht das Fluid beeinflussen, das heißt alle Schwankungen aus dem Inneren sollten das Rechengebiet ohne Erzeugung von Reflexionen verlassen, sobald diese auf den Rand treffen. 
+Am Anfang dieser Arbeit wird die LBM theoretisch eingebettet. Als ein Beispiel wird das Model D3Q19 analytisch hergeleitet, indem Verfahren aus der numerischen Integration angewandt werden. Der Zusammenhang zwischen der LBM und makroskopischen Fluidmodellen (Navier-Stokes Gleichungen) wird dargestellt, außerdem wird aufgezeigt, dass sich die möglichen Anwendungsfälle der LBM nicht auf Simulationen von Fluidströmungen beschränken. 
+Aufbauend auf der theoretischen Grundlage, werden die Merkmale einer idealen RB für künstliche Ränder erläutert. Aus der Literatur bekannte Ansätze zur Behandlung künstlicher Ränder werden dargestellt. Hierbei liegt ein Schwerpunkt auf PML (perfectly matched layer) basierten Ansätzen sowie auf charakteristischen RBen, welche auf den LODI Gleichungen basieren. Diese LODI basierten charakteristischen RBen werden erweitert und dadurch neue kRBen zur Anwendung ein- bis drei-dimensionaler Problemstellungen entwickelt. Charakteristische RBen sind vollständig auf makroskopischer Ebene formuliert, und unterscheiden sich diesbezüglich von der Fluidbeschreibung innerhalb der LBM. Es wird erklärt, dass vom Standpunkt der LBM, jede charakteristische RB einer Dirichlet RB makroskopischer Größen entspricht, deren Umsetzung in der LBM mit Fehlern einhergeht. 
+Im Hauptteil der Arbeit wird die Entwicklung von kRBen, die vollständig auf der diskreten Ebene der LBM formuliert sind, verfolgt. Zunächst wird eine neue Vorgehensweise eingeführt, die auf gerichteten Graphen aufbaut. Diese dient dem Verständnis der (zeitlichen) Entwicklung diskreter Größen innerhalb der LBM. Mit Hilfe dieser Vorgehensweise wird analytisch eine exakte eindimensionale diskrete kRB konstruiert. Diese exakte, diskrete kRB stellt die theoretische Grundlage zur Formulierung allgemeingültiger, diskreter kRBen dar. Eine Konsistenzbedingung, welche die exakte diskrete RB erfüllt, wird hergeleitet. Die eindimensionale kRB wird approximiert, wobei ein neuer Parameter eingeführt wird, der die Genauigkeit der Approximation steuert. Die approximierte diskrete RB wird als Lösung einer eigenständigen Lattice Boltzmann Simulation interpretiert. Diese Interpretation wird generalisiert, wodurch diskrete kRBen für allgemeingültige, höherdimensionale Lattice Boltzmann Simulationen entstehen. Fehlerquellen, die Details einer effizienten Implementierung sowie Rechenaufwände der diskreten kRBen werden behandelt. 
+Alle neuen kRBen werden implementiert und in verschiedenen ein- bis drei-dimensionalen Testszenarien angewandt. Die Ergebnisse werden mit ausgewählten, bereits existierenden kRBen verglichen. Anhand einer numerischen Simulation wird die Vorgehensweise der entwickelten diskreten RBen visuell dargestellt. 
+Zum Abschluss werden die Ergebnisse dieser Arbeit zusammengefasst und es werden mögliche weitere Forschungsaufgaben aufgezeigt.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170207-102047-8</identifier>
+                    <identifier type="sys">HT019261522</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6590</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6590">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2017/heubes/dc1702.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6590"
+            DMDID="DMD_wuppertal_elpub_6590">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6590"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

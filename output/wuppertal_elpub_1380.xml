@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1380">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>From Anomalous Deterministic Diffusion to the Continuous-Time Random Walk</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Niemann, Markus</displayForm>
+                        <namePart type="family">Niemann</namePart>
+                        <namePart type="given">Markus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Anomale Diffusion wird häufig in der Natur beobachtet. Es existieren verschiedene stochastische Prozesse, die dieses Phänomen beschreiben, z.B. die fraktionale Brownsche Bewegung oder der Continuous-Time Random Walk (CTRW). Die Unterscheidung zwischen diesen Modellen wird im Allgemeinen mit Hilfe von statistischen Indikatoren oder phänomenologischen Ansätzen getroffen. Diese Arbeit beschreibt eine Methode, mit der man einen Continuous-Time Random Walk als asymptotische Beschreibung eines deterministischen Prozesses mit anomaler Diffusion erhält. Dieser Ansatz beinhaltet auch, wie man die Parameter des asymptotischen Continuous-Time Random Walks aus dem dynamischen System bestimmt.</abstract>
+                    <abstract type="content" lang="eng">Anomalous diffusion is commonly observed in nature. There are several stochastic processes which model this phenomenon, e.g., the fractional Brownian motion and the continuous-time random walk (CTRW). In general, one differentiates between these models by statistical indicators or by using a phenomenological approach. This thesis depicts a method of obtaining a continuous-time random walk as the asymptotic description of a deterministic system showing anomalous diffusion. It also describes how to obtain the parameters of the asymptotic continuous-time random walk from the dynamical system.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20100088</identifier>
+                    <identifier type="sys">HT016253091</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1380</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1380">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1477/dc0916.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1380"
+            DMDID="DMD_wuppertal_elpub_1380">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1380"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

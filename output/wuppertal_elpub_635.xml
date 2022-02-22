@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_635">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Optimierung und vage Daten im Entwicklungsprozess - Optimierungsmethode zur Auswahl wirtschaftlichkeitsoptimaler Standard-Kraftfahrzeugkomponenten und Berücksichtigung von vagen Daten während des Entwicklungsprozesses</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Döring, Martin</displayForm>
+                        <namePart type="family">Döring</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003-11-05</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Viele der zukünftigen Funktionen im Kraftfahrzeug haben Sicherheitsrelevanz und müssen sorgfältig analysiert werden. Die Systeme sollen nicht nur sicher, sondern auch zuverlässig, kostengünstig und leicht sein. Eine Aufgabe der Entwickler ist es daher, die zu entwickelnden Systeme mit größtmöglicher Wirtschaftlichkeit zu dimensionieren.
+ Neben den für die entsprechende Anwendung neu entwickelten Komponenten werden auch eine Vielzahl von Komponenten eingesetzt, die standardmäßig bereits in anderen Applikationen verwendet werden. Es stehen für diese Standardkomponenten, wie beispielsweise Batterien, Kabel, Steckverbindungen und verschiedene mechanische Komponenten, häufig mehrere unterschiedliche Typen zur Verfügung. Diese erfüllen dieselbe Funktion bei unterschiedlicher Zuverlässigkeit und/oder Wirtschaftlichkeit. Es können unter Umständen für die zu entwickelnde Applikation unüberschaubar viele Varianten entstehen.
+ Die Anzahl aller möglichen Lösungen steigt exponentiell mit jeder weiteren Komponente. Um unter Berücksichtigung aller Randbedingungen die wirtschaftlichste Lösung zu finden, können verschiedene Optimierungsmethoden rechnergestützt angewendet werden. Diese unterscheiden sich in der Geschwindigkeit der Lösungsberechnung, aber auch hinsichtlich der Qualität ihrer Ergebnisse.
+ Die anzuwendende Methode soll die Typen finden, mit denen sich das wirtschaftlichste Gesamtsystem ergibt, wobei die Topologie, die Einbauorte und die Soll-Systemzuverlässigkeit vorgegeben sind.
+ In dieser Arbeit werden drei Optimierungsmethoden einem kritischen Vergleich hinsichtlich ihren Vor- und Nachteile sowie ihrer Anwendungsmöglichkeiten unterzogen.
+ Weiterhin werden die vagen Daten der Komponenten der gefundenen Lösung ausgewertet. Man hat so eine Möglichkeit, Systeme unterschiedlicher Entwicklungsstufen miteinander zu vergleichen und die Entwicklungsrisiken abzuschätzen.</abstract>
+                    <abstract type="content" lang="eng">Many of the future motor vehicle functions are relevant to safety and have to be carefully analysed. The systems should not only be safe, but also reliable, reasonably priced and light. Therefore, one of the developer’s tasks is to design the new systems under development for the optimum economy.
+ Along with the new components developed for a certain application, a range of components will be involved which are already used as standard in other applications. In the case of these standard components, such as batteries, cables, connectors, various mechanical components etc., there are often a number of different types of component available. These all have the same function while varying in reliability and/or economic efficiency. It is possible for an unmanageable number of variations to be created for the application being developed.
+ The number of possible solutions increases exponentially with each new component. Different computer-aided optimisation methods can be used in order to find the most economical solution, taking all of the constraints into consideration. These differ in solution-finding speed, but also in the quality of their results.
+ The method used should find the component types, which produce the most economical complete system for a specified topology, installation location and system reliability.
+ Three optimisation methods undergo a critical comparison in this study, with regards to their advantages and disadvantages, as well as their possible uses. The vague component data of the solution found are also analysed and evaluated. It is then possible to compare systems at various stages of development and to estimate the development risks.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Maschinenbau und Sicherheitstechnik » Sicherheitstechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20030456</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_635</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_635">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-731/d140302.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_635"
+            DMDID="DMD_wuppertal_elpub_635">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_635"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

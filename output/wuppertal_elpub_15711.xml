@@ -1,0 +1,87 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_15711">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Drei Beiträge zur Nachhaltigkeitsberichterstattung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Danisch, Christian</displayForm>
+                        <namePart type="family">Danisch</namePart>
+                        <namePart type="given">Christian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Crasselt, Nils</displayForm>
+                        <namePart type="family">Crasselt</namePart>
+                        <namePart type="given">Nils</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-02-02</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Forschungsbeiträge dieser Dissertation bearbeiten unterschiedliche Fragestellungen aus dem Gebiet der unternehmerischen Nachhaltigkeitsberichterstattung. 
+Der erste Forschungsbeitrag untersucht mit einem deskriptiven Ansatz das Wesen der Nachhaltigkeitsberichterstattung im Spannungsfeld von Freiwilligkeit und Regulierung. 
+Der zweite Forschungsbeitrag untersucht die vorliegenden Determinanten des freiwilligen ökologischen und sozialen GRI-Berichtsumfangs in Deutschland mittels einer objektivierten Forschungsmethodik. 
+Der dritte Forschungsbeitrag analysiert im Deutschland-Kontext die sprachliche Ausgestaltung des neuen verpflichtenden CSR-Berichtsmediums in Form der nichtfinanziellen Erklärung im Vergleich zu der traditionellen finanziellen Berichterstattung.
+ (Dieser Beitrag ist nicht als Volltext in der Dissertation enthalten. Er ist unter folgenden bibliographischen Angaben auffindbar: Lohmann, C., &amp; Danisch, C. (2021). Sprachliche Konsistenz in der Unternehmensberichterstattung: Ein Vergleich der sprachlichen Tonalität von finanziellen und nichtfinanziellen Unternehmensberichten. BFuP – Betriebswirtschaftliche Forschung und Praxis, 73(2), 179-199.)</abstract>
+                    <abstract type="content" lang="eng">The research articles of this dissertation address different topics in the field of corporate sustainability reporting. 
+The first paper uses a descriptive approach to investigate the nature of sustainability reporting between voluntariness and regulation. 
+The second paper examines the present determinants of voluntary environmental and social GRI reporting extent in Germany using an objectified research methodology. 
+The third research paper analyzes, in the context of Germany, the linguistic design of the new mandatory CSR reporting medium (non-financial statement) in comparison to traditional financial reporting. 
+ (This article is not included as full text in the dissertation. It can be found under the following bibliographic references: Lohmann, C., &amp; Danisch, C. (2021). Sprachliche Konsistenz in der Unternehmensberichterstattung: Ein Vergleich der sprachlichen Tonalität von finanziellen und nichtfinanziellen Unternehmensberichten. BFuP – Betriebswirtschaftliche Forschung und Praxis, 73(2), 179-199.)</abstract>
+                    <subject>
+                        <topic>CSR</topic>
+                        <topic>financial reporting</topic>
+                        <topic>green washing</topic>
+                        <topic>GRI</topic>
+                        <topic>impression management</topic>
+                        <topic>mandatory disclosure</topic>
+                        <topic>non-financial declaration</topic>
+                        <topic>non-financial reporting</topic>
+                        <topic>regulation</topic>
+                        <topic>reporting quality</topic>
+                        <topic>sustainable development</topic>
+                        <topic>sustainability reporting</topic>
+                        <topic>voluntary disclosure</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20220202-100658-0</identifier>
+                    <identifier type="doi">10.25926/kv26-q049</identifier>
+                    <accessCondition type="use and reproduction">CC BY-NC-ND 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_15711</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_15711">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2021/danisch/db2114.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_15711"
+            DMDID="DMD_wuppertal_elpub_15711">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_15711"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

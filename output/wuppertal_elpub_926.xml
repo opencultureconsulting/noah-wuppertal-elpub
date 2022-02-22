@@ -1,0 +1,80 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_926">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Unternehmensentwicklung mittelständisch geführter Bauunternehmen als vernetztes Lebenszykluskonzept</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Fuhrmann, Gerhard</displayForm>
+                        <namePart type="family">Fuhrmann</namePart>
+                        <namePart type="given">Gerhard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-03-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die wirtschaftlichen Rahmenbedingungen in der Baubranche unterliegen einer Veränderung, deren Geschwindigkeit und Vernetzung ständig zunimmt. Mittelständisch geführte Bauunternehmen müssen sich auf diese Dynamik einstellen und spezifische Lösungsansätze zur Bewältigung der komplexen Aufgabenstellungen entwickeln. 
+
+Ziel der Arbeit ist die Entwicklung eines anwendbaren Modells, um dem Management Handlungssicherheit in turbulenten Zeiten zu vermitteln. 
+
+Ausgangspunkt und Lösungsansatz hierfür ist das Lebenszykluskonzept, das von der Natur auf das Bauunternehmen sowie dessen Prozesse übertragen wird. Um die Lebensfähigkeit des Systems zu sichern, müssen sämtliche Prozesse permanent reorganisiert und weitere Nutzenpotenziale erschlossen werden. 
+
+Idealer Zeitpunkt der Reorganisation ist die Schwelle zum abnehmenden Grenznutzen. Diese Schwelle wird mit Hilfe von Kennzahlen und qualitativen Szenarien prozessspezifisch identifiziert. Dadurch ist eine zielgerichtete, quantifizierbare und engpassorientierte Steuerung der Prozesse und des Gesamtunternehmens möglich. 
+
+Der permanente Transformationsprozess ist auch Resultat systemisch-organisationalen Lernens. Deshalb müssen die Schnittstellen zwischen den Prozessen optimal vernetzt sein, um den Know-how-Transfer im Reorganisationsprozess zu ermöglichen. 
+
+Dieses Modell wird in der vorliegenden Arbeit theoretisch entwickelt und anschließend an einem Praxisbeispiel verifiziert. Die Steuerungsmechanismen werden angewendet sowie der Wirkmechanismus nachgewiesen und beschrieben. 
+
+Aus den Erkenntnissen der Arbeit ergeben sich Konsequenzen für die Organisation und das Management mittelständisch geführter Bauunternehmen, die beschrieben sind und in einem Ausblick auf zukünftige Entwicklungen münden.</abstract>
+                    <abstract type="content" lang="eng">The economic basic conditions in the building industry are subject to a change of ever increasing speed and interconnectedness. Medium-sized building companies have to adapt themselves to these dynamics and develop specific methods of resolution to cope with the complex problems. 
+
+The objective of this thesis was to develop an applicable model in order to give the management confidence in their actions in turbulent times. 
+
+The point of origin and method of resolution for this is the life-cycle concept, which is transferred from nature to building companies and their processes. In order to safeguard the system&apos;s viability, all processes have to be permanently reorganised and further potential benefits must be tapped. 
+
+The ideal moment for the reorganisation is the threshold to the diminishing marginal utility. This threshold is identified process-wise with the help of key data and qualitative scenarios. This enables not only the processes but also the whole company to be steered in a target- and bottleneck-oriented, quantifiable manner. 
+
+The ongoing process of transformation is also the result of systemic-organisational learning. For this reason, the interfaces between the processes have to be optimally networked in order to facilitate the transfer of know-how in the reorganisation process. 
+
+In this thesis, the model is theoretically elaborated and subsequently verified using a practical example. The steering mechanisms are applied, and the mechanism of action is proven and described. 
+
+The findings of the thesis result in consequences for the organisation and the management of medium-sized building companies, leading into an outlook for future developments.</abstract>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Architektur und Bauingenieurwesen » Bauingenieurwesen"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20060046</identifier>
+                    <identifier type="sys">HT014717683</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_926</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_926">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/bauingenieurwesen/diss2005/fuhrmann/dd0509.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_926"
+            DMDID="DMD_wuppertal_elpub_926">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_926"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

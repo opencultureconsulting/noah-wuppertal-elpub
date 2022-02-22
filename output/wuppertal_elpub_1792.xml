@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1792">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Konjugierte „rod-rod&quot; Diblockcopolymere</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Koenen, Nils</displayForm>
+                        <namePart type="family">Koenen</namePart>
+                        <namePart type="given">Nils</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In the last years diblock copolymers have gained a large interest in different flields of material science due to their unique self-assembling properties. „Rod-coil&quot; diblock copolymers with one conjugated block and one non-conjugated block have been successfull synthesized. They show promising self-assembling properties. However, such „rod-coil&quot; diblock copolymers often show disadvantageous electronic properties due tot he presence oft he isolating coil blocks. Therefore, the synthesis of „rod-rod&quot; diblock copolymers was developed. 
+
+In chapter 2, the synthesis of fully conjugated fluorene-/thiophene- diblock copolymers is described. The first block is a monobrominated poly(3-alkylthiophene) generated via Grignard metathesis reaction, the second block is a nonpolar polyfluorene. In a polycondensation reaction of the fluorene monomer the polythiophene is added as a macromolecular endcapper to give the corresponding polyfluorene/polythiophene diblock copolymer. A bromo- functionalized alkyl chain of the polythiophene can be converted into a polar phosphonic ester function. The novel diblock copolymers show a solvent dependent aggregation behaviour, e.g. the ability to form vesicles. 
+
+In chapter 3, the synthesis of a conjugated donor/acceptor diblock copolymer is described. One block is again a monobrominated poly(3-alkylthiophene), the second block is an alternating fluorene/dithienyl-benzothiadiazole block. The monomer is polycondensed in a Stille-type reaction and P3AT is added as macromolecular endcapper to give the diblock copolymer. If the P3AT contains monobromo-functionalized alkylsidechains, they can be converted into hosphonic esters, phosphonic acids or cationic trimethylammonium functionalized sidechains. All polymers show promising self-assembly properties including solvent-selective aggregation behaviour. 
+
+In chapter 4, the synthesis of the first isotactic polyfluorene with two different alkyl chains is described. For this, a new synthetic route has been developed. Here, the key step is a enantiomeric separation on the monomer level via chiral HPLC. The chiral AB-type monomers can be polycondensed in a Suzuki-type cross coupling reaction to obtain isotactic polyfluorene. For comparison the atactic counterpart was also generated. Both polymers differ in their packing behaviour as shown in 2D-WAXS experiments and in their thermal behaviour.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20110202-150157-5</identifier>
+                    <identifier type="sys">HT016695229</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1792</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1792">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2010/koenen/dc1022.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1792"
+            DMDID="DMD_wuppertal_elpub_1792">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1792"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

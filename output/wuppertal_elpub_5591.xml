@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5591">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>Verhältnis von Systematik und Historie in Ernst Cassirers philosophie- und wissenschaftsgeschichtlichen Arbeiten. Untersuchungen zum frühen Werk</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kopp-Oberstebrink, Herbert</displayForm>
+                        <namePart type="family">Kopp-Oberstebrink</namePart>
+                        <namePart type="given">Herbert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <classification authority="ddc">100</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » Philosophie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20160212-143755-3</identifier>
+                    <identifier type="sys">HT018902420</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5591</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5591">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fba/philosophie/diss2014/koppoberstebrink/da1406.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5591"
+            DMDID="DMD_wuppertal_elpub_5591">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5591"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

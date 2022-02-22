@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_4030">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Charakterisierung und Optimierung von Corona-Mikroplasma initiierten Ionisationsprozessen zur Anwendung in der Atmosphärendruckionisations-Massenspektrometrie</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Klee, Sonja</displayForm>
+                        <namePart type="family">Klee</namePart>
+                        <namePart type="given">Sonja</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Ionization methods operating at atmospheric pressure have largely affected the development of analytical mass spectrometry. Today, virtually every atmospheric pressure ionization (API) mass spectrometer on the market is compatible with numerous API methods, with electrospray ionization (ESI) being the most prominent technique, followed by atmospheric pressure chemical ionization (APCI). 
+
+The aim of this work was the development of a corona-microplasma based APCI source that efficiently generates protonated molecules in a controllable manner. For a hypothesis driven ionization source development the complex ionization mechanisms have to be fundamentally understood. In addition, the physical and chemical environments ions are exposed to on their passage from the API source to the analyzer have to be well characterized. At atmospheric pressure, these environments strongly differ from classical vacuum ionization sources. Ions generated at atmospheric pressure have to be efficiently transported to the analyzer region through a pressure gradient spanning more than nine orders of magnitude. They are typically undergoing at least 10⁷ molecular collisions before they reach essentially collision-free vacuum regions. In API water is always present at elevated mixing rations and thus ion-molecule reactions are inevitably encountered. Therefore the main questions in API source development are: Which species are important in the chemical system, which play a minor role and how does the physical environment, i.e., the presence of electrical fields, impact on the ion-molecule chemistry within the source and the ion transfer region? 
+
+The capillary atmospheric pressure ionization (cAPI) concept is used to develop an APCI source, which relies on the generation of proton bound water clusters as reactant ions with particular emphasis on stable, reproducible, and controllable conditions. The reactant ion generation region is spatially separated from the neutral analyte gas flow, thus adverse analyte ion transformation processes are largely suppressed. In addition, the reactant ion generation is entirely decoupled from the neutral analyte delivery port. Using a liquid cone as point electrode for sustained corona discharge operation, electrochemical corrosion of the electrode is eliminated. Simultaneously, very stable water mixing ratios are generated. 
+
+The custom source designs of the employed mass spectrometric systems allowed the detection of thermally equilibrated ion populations, particularly ion bound clusters, under controlled API source conditions. It is found that in essentially all API methods, at least when coupled to liquid chromatography or when operating in ambient environments, ion bound cluster systems are playing a major role in the complex ion source chemistry. Thus, the properties of a number of cluster systems are fundamentally studied and characterized to establish optimum ionization conditions for the cAPCI source developed in this work. 
+
+During the course of experiments it became readily apparent that for the generation of [M+H]⁺ analyte ions in addition to concentration driven cluster chemistry, fluid dynamics and electrical fields within the ion transfer region of the mass spectrometer are pivotal. Thus the impact of electrical fields on the ion temperature and thus on the position of chemical equilibria and/or the extent of individual bimolecular reactions are studied. Central to this work is to find efficient means to control the amount of kinetic energy supplied to ions present within the collision dominated transfer regions and to assess to what extent such control is possible. The final goal for the present ion source development is a conclusive assessment of the analytical applicability, particularly with respect to controlled manipulation of ion-molecule chemistry. As one result of this assessment an ion activation stage, operating with electrical radio frequency fields in the first differential pumping stage is developed. It is found that the operation of this stage lead to highly efficient [M+H]⁺ generation even for analytes with low proton affinity. 
+
+In summary, from the fundamental characterization of the complex ion-molecule chemistry prevailing in API sources a generally applicable ionization mechanism regarding the formation of protonated molecules using proton bound water clusters as reagent ions was inferred and validated. This in-depth analysis was used for the development of a clean, stable and controllable APCI source, which incorporates an ion activation stage. The combination of both significantly increased the ionization efficiency towards typical APCI amenable analytes and also considerable widens the analyte range.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20140807-145941-9</identifier>
+                    <identifier type="sys">HT018514877</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_4030</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_4030">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2014/klee/dc1415.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_4030"
+            DMDID="DMD_wuppertal_elpub_4030">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_4030"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

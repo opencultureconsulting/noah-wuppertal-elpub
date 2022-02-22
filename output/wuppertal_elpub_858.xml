@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_858">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Grundlagen der elementaren Algebra eigenverantwortlich erlernen</title>
+                        <subTitle>Entwicklung und Erprobung einer multimedialen Lernumgebung</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schwebinghaus, Ulrich</displayForm>
+                        <namePart type="family">Schwebinghaus</namePart>
+                        <namePart type="given">Ulrich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-07-16</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Arbeit befasst sich mit Problemen des schulischen Algebraunterrichts und mit dem Entwurf und der Erprobung einer multimedialen computerunterstützten Lernumgebung zum selbstständigen Erlernen von Grundlagen der Algebra in der Sekundarstufe I. 
+
+ Angeführte Einzeluntersuchungen und auf Bezüge zur elementaren Algebra untersuchte Ergebnisse der internationalen Studien TIMSS und PISA 2000 zeigen, dass zu viele Schülerinnen und Schüler nicht die erwarteten Fähigkeiten beim Umgang mit mathematischen Termen und Funktionen besitzen. Als besonders unbefriedigend erscheinen im Mittel die Leistungen bei der Bearbeitung von Aufgabenstellungen, in denen vorhandenes mathematisches Wissen auf eine neue Situation angewandt werden soll. 
+
+ Auf der Basis von allgemeinen Zielen des Mathematikunterrichts, aus Ergebnissen der fachdidaktischen Forschung für einen erfolgversprechenden Algebraunterricht und unter Einbeziehung curricularer Vorgaben werden Ziele und Konzepte für ein Lernarrangement entwickelt. Die Auseinandersetzung mit unterschiedlichen Sichtweisen des Lernens und Lehrens führt dabei zu der Bestimmung der eigenen Position und zur Festlegung von Bedingungen für einen Unterrichtsansatz, bei dem großer Wert auf die Wahrnehmung des Lernprozesses seitens der Lernenden und auf die Stärkung der Selbstverantwortung für das Lernen in Mathematik gelegt wird. Weitere Planungsparameter wie z.B. die Verwendung von Lerntagebüchern ergeben sich aus der Betrachtung von Unterrichtsansätzen, die in diese Richtung führen. Der Fokus richtet sich dann auf die Auswahl von Inhalten, die zum Erreichen der Fähigkeit, Mathematik auf Alltagsprobleme anzuwenden, beitragen können. 
+
+ Selbstständiges Lernen soll durch den phasenweisen Einsatz der Neuen Medien begünstigt werden und zugleich auf die spätere Nutzung dieser Mittel zur eigenständigen Informationsbeschaffung vorbereiten. Daher werden Schulversuche, Unterrichtsprojekte und andere Lernangebote, die im Gefolge von TIMSS und PISA die Unterrichtsqualität hinsichtlich der festgestellten Schwächen deutscher Schüler verbessern sollten, in die Untersuchung einbezogen. Einige ausgewählte Beispiele (SINUS, MathePrisma, Mathe Online, SelMa u.a.) werden mit Blick auf die Ergebnisse der wissenschaftlichen Begleitung herangezogen, um zu weiteren Anhaltspunkten für das vorliegende Projekt zu kommen. Dabei spielen sowohl der konkrete Aufbau von hypermedialen Lernmodulen als auch didaktisch-methodische Umstände der Modellansätze eine Rolle. 
+
+ Nach einer Zusammenfassung der gewonnenen Planungsparameter werden die Entwicklung der Kursstruktur und der hypermedialen Lernumgebung dargestellt. Den Kurs kann man mit dem Begriff &quot;blended learning&quot; charakterisieren; es wechseln sich Phasen des selbstständigen Lernens mithilfe des Computers und Unterricht in der Lerngruppe ab. 
+
+ Zur technischen Realisierung der Computer-Lernumgebung kommen Opensource und freie Software zum Einsatz, die problemlos verteilt werden können. Es werden eigenständig entwickelte Elemente für Lernmodule präsentiert, wobei Ideen aus den betrachteten Projekten aufgegriffen werden. Das gilt vor allem für den Typ &quot;Interaktive Übung&quot;, der in Technik und Erscheinungsform eng an ein entsprechendes Element von MathePrisma angelehnt ist. Damit Schülerinnen und Schüler Selbstverantwortung für das Lernen übernehmen können, sind Instrumente zur Selbstbeobachtung und Selbstbewertung in der Lernumgebung enthalten. Die Einträge der Lernenden und aus interaktiven Übungen gewonnene Daten können dabei in einer Datenbank gespeichert und nach Abschluss eines Kursdurchlaufs oder zwischenzeitlich ausgewertet werden. Das System läuft in der vorliegenden Form auf Einzelplatzrechnern, die über einen modernen Browser und ein Java-Runtime-Environment verfügen. 
+
+ Das Lernangebot wurde in einem Unterrichtsprojekt in drei 7. Klassen eines Gymnasiums erprobt und bewertet. Die in beiden Phasen erzielten Ergebnisse werden ausführlich dargestellt und es werden Maßnahmen zur Verbesserung des gesamten Arrangements überlegt und entsprechende Planungen angestellt. 
+
+ Die aktuelle Fassung der Hypermedia-Lernumgebung ist auf CDROM beim Autor erhältlich.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20080305</identifier>
+                    <identifier type="sys">HT015608700</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_858</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_858">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2008/schwebinghaus/dc0808.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_858"
+            DMDID="DMD_wuppertal_elpub_858">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_858"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

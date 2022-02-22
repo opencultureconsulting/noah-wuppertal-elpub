@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_295">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Bruchkontaktspektroskopie an Hochtemperatur-Supraleiter-Einkristallen zur Bestimmung der Energielücke und der Symmetrie des Ordnungsparameters</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lorenz, Michael</displayForm>
+                        <namePart type="family">Lorenz</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-05-18</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In contrast to the classical superconductors there is actually no consensus on the theory of high-temperature superconductivity. Especially the symmetry of the order parameter and the coupling mechanism which leads to the superconducting state below a critical temperature Tc are still open questions. In addition, the energy gap Δ as a function of temperature T and a possible existence of the so-called pseudogap above Tc are unsolved problems. Tunneling experiments play an important role to solve this challenge, because they can measure the density of states directly and therefore examine the energy gap and the symmetry of the order parameter. The tunneling experiments described in this thesis used the break junction technique. The main advantages of this technique are a very high quality of the junction and an in situ adjustable contact area. The investigated materials were mainly Bi₂Sr₂Can-1CuₙO2n+4+δ(n = 1 - 3). The small single crystals with typical sizes of 2 x 1 x 0.01 mm³ were cracked in liquid helium while the current voltage characteristic could be measured simultaneously. With a lock-in technique the computer controlled setup could also measure the first and the second derivative. The tunneling current was always parallel to the c-direction. The energy gap Δ was determined from tunnel- and point-contact characteristics. The former ones were compared with numeric calculations based on the extended Dynes model for various symmetries of the order parameter. Most of the characteristics have been described much better by a s-wave than a d-wave symmetry. The energy gap of optimally doped samples at 4.2 K was Δ = 12.7 ± 0.5 meV (n = 1), Δ = 26 ± 1 meV (n = 2) and Δ = 36 ± 1.5 meV (n = 3). This linear dependence of the gap upon the number n of CuO₂ planes has been observed not only for Bi-compounds, but also for Tl- and Hg-based superconductors. The steeper slope dΔ =dn for superconductors containing Ba instead of Sr and first measurements on a new superconductor HgSr₂Ca₂Cu₃O₈ have given an evidence that the value of the gap is controlled by the nature of the blocks including the CuO₂- and BaO- or SrO-planes. For Bi-2201 and Bi-2212 the gap Δ as a function of the hole concentration p scaled in the same way as Tc(p) and led to a constant value 2Δ/kBTc = 12.5 ± 2 (6.9 ± 0.5) for the single (double) layer. In the whole doping range there was no hint for a pseudogap above Tc. Due to the adjustable contact area it was possible to measure high-resistance intrinsic junctions (stacks) with a small number of contacts (n =&lt; 28) and often negligible small Josephson current. These criteria were important to avoid heating effects. However, stacks always have much higher quality compared with single contacts. The very sharp gap feature in the SIS-like characteristics (Bi-2212) ruled out any anisotropic contribution to the symmetry of the order parameter. The characteristics of SNS-stacks (n = 4) could be interpreted as a new effect called Intrinsic Multiple Andreev Reflection Effect (IMARE), which has not been theoretically understood yet. A reproducible fine structure at subgap voltages in the differential conductivity of BSCCO Josephson junctions prooved the strong coupling between the AC-Josephson current and the optical Raman-active phonons. The characteristic voltages Ures have been found to be independent of T, Tc and Δ. Applying an external magnetic field, Ures remained constant but the amplitudes of the resonances showed the same Fraunhofer-like patterning as the critical Josephson current. The temperature dependence of the amplitudes have shown the typical Riedel singularity. The overall form of the fine structure was in good agreement with Raman scattering spectra of the optical phonon modes in this material. These results were verified by a new theoretical model by E.G. Maksimov et al.. Moreover, A.A. Abrikosov used this experimental results as a part to formulate a new theory of high-temperature superconducting cuprates.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20010290</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_295</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_295">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-389/d080009.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_295"
+            DMDID="DMD_wuppertal_elpub_295">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_295"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

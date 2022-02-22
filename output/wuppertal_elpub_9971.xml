@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9971">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Positivity in perturbation theory and infinite-dimensional systems</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wintermayr, Jens</displayForm>
+                        <namePart type="family">Wintermayr</namePart>
+                        <namePart type="given">Jens</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Jacob, Birgit</displayForm>
+                        <namePart type="family">Jacob</namePart>
+                        <namePart type="given">Birgit</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-11-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">We consider partial differential equations that fit in the setting of the so-called Abstract Cauchy-Equation (ACP). The solvability of the ACP is directly connected to strongly continuous semigroups. In this thesis we use positivity to simplify well-known results on Miyadera-Voigt perturbations and Desch-Schappacher perturbations that arise naturally from the ACP. However, we have to assume that the semigroup solving the ACP is positive, the perturbation operator is positive and that the state space is an AL-space, in the case for Miyadera-Voigt perturbations, or an AM-space, in the other case. The last chapter deals with infinite-dimensional systems. There, we expand the ACP to a control system or an observation system. We use positivity to posit conditions that guarantee admissibility for control or observation operators. Moreover, we have a closer look on zero-class admissibility. At last we introduce the concept of a well-posed system and outline the conditions that guarantee the positivity of such a system.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20191128-132210-6</identifier>
+                    <identifier type="doi">10.25926/pd7n-9570</identifier>
+                    <identifier type="sys">HT020338323</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9971</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9971">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2019/wintermayr/dc1934.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9971"
+            DMDID="DMD_wuppertal_elpub_9971">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9971"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

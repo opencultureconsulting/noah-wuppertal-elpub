@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_579">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Bestimmung instationärer Durchflüsse in gestauten Fließgewässern auf Basis des Wasserspiegelgefälles</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dose, Torsten</displayForm>
+                        <namePart type="family">Dose</namePart>
+                        <namePart type="given">Torsten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002-09-09</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In dieser Arbeit wird ein hydraulisches Messverfahren vorgestellt, das durch Messung der Wassertiefe und der Wasserspiegelgefälle auf Basis konventioneller Messtechnik - neben der bei der Einrichtung der Messanlage aufzumessenden Flussgeometrie - die Durchflussbestimmung natürlicher Gerinne ermöglicht, wobei nur minimale Einbauten in den Fließquerschnitt erforderlich sind. Diese Vorgehensweise berücksichtigt auch den Einsatz in gestauten Fließgewässern, für den das traditionelle indirekte Verfahren mittels einer Abflusskurve versagt. 
+
+ Ausgehend vom allgemeinen Fließgesetz nach Navier-Stokes bzw. den Gleichungen von Saint-Venant wird ein eindimensionales, für die instationäre numerische Auswertung geeignetes Gleichungssystem abgeleitet. Die Strömungsverluste, die einen direkten Bezug zur gemessenen Wasserspiegelgefälle haben, wurden mit dem Ansatz von Colebrook-White berücksichtigt. Der eindimensionale Ansatz ist bei Auswahl eines geeigneten homogenen Flussabschnitts zulässig. Wesentlich war hierbei die Berücksichtigung instationärer Terme, da für den untersuchten Pegel sehr schnelle Änderungen des Durchflusses (Schwallbetrieb) zu erwarten waren. 
+
+ Wie bei anderen (hydraulischen) Messverfahren üblich, erfordert das sogenannte &apos;∆W-Durchflussmessverfahren&apos; eine Kalibrierung, da der Rauheitswert prinzipiell schwierig zu bestimmen ist. In der Arbeit wurde eine aufwändige Kalibrierung für den Rauheitswert wie auch für eine Höhenkorrektion der gemessenen Wasserstandsdifferenz durchgeführt. Eine ausführliche Untersuchung der Messunsicherheiten zeigt, dass der genauen Messung der Wasserstandsdifferenz speziell für kleine Durchflüsse eine hohe Bedeutung zukommt. 
+
+ Das ∆W-Durchflussmessverfahren wurde für einen Flussabschnitt der mittleren Ruhr (mit Staueinfluss) am Pegel Fröndenberg einem Praxistest unterzogen. Seine Einsatzfähigkeit konnte durch Vergleich der in einem etwa zweijährigen Messzeitraum gewonnenen Daten mit den Referenzmesswerten einer Ultraschallanlage belegt werden. Obwohl die beiden zur Kalibrierung verwendeten Parameter über lange Zeitbereiche konstant gehalten wurden, beträgt die mittlere prozentuale Abweichung beider Messeinrichtungen weniger als 5%. Hervorzuheben ist im Besonderen die präzise Erfassung sich schnell ändernder Abflussvorgänge, was durch die instationäre Auswertung erreicht wurde. Mit dem ∆W-Durchflussmessverfahren steht eine zuverlässige Messmethode zur Bestimmung stationärer wie instationärer Durchflüsse in staugeregelten Flussabschnitten zur Verfügung.</abstract>
+                    <abstract type="content" lang="eng">A procedure to measure the discharge in natural rivers based on the measurement of water depth and water surface slope using conventional equipment is presented. The river geometry is surveyed during the installation of the measuring system. 
+
+ The analysis is based on the equations of Saint-Venant. A linear set of equations suitable for the numeric analysis is derived. The flow losses, which have a direct relation to the measured water surface slope, were considered with the friction law by Colebrook-White. The linear approach is suitable for homogeneous rivers. Due to hydropower-plants the flow conditions can alter substantially. If the unsteady terms are not included, this would lead to significant errors in the evaluation of flow rates. 
+
+ Like other methods for determining discharge the present &apos;∆W-method for discharge measurement&apos; requires a calibration as it is difficult to quantify the roughness value. Furthermore the water level difference is corrected because of uncertainties during the installation of the pressure system (bubble procedure). A detailed analysis of a host of parameters controlling the flow characteristics has revealed that uncertainties in measuring the water level difference have a significant impact on the measured discharge particularly when it is of smaller rates. 
+
+ The ∆W-method for discharge measurement was applied to a gauging station at the river Ruhr with tailwater influence. Its usefulness for practice is shown by comparing the measured values (∆W-method) with reference values of an ultrasonic system. Although the used parameters roughness and correction of the water level difference were kept constant over long periods, the average relative deviation of both measuring equipment amounts to approx. 5%. Considering the limitations the ∆W-method for discharge measurement is a reliable measuring technique to quantify steady as well as unsteady flow in regulated rivers.</abstract>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Architektur und Bauingenieurwesen » Bauingenieurwesen"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20020353</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_579</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_579">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-675/d110203.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_579"
+            DMDID="DMD_wuppertal_elpub_579">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_579"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

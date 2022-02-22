@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_334">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Nichtlineare Methoden zur Quantifizierung von Abhängigkeiten und Kopplungen zwischen stochastischen Prozessen basierend auf Informationstheorie</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kaiser, Andreas</displayForm>
+                        <namePart type="family">Kaiser</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003-01-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In order to determine the relation between two stochastic processes information theory offers an appropriate framework in which the relationships can be interpreted in terms of information. The dependence can be measured with the mutual information, giving the amount of information which both processes share, i.e. the degree of similarities. Mutual information can also give hints for the coupling direction, however, due to serial correlation in time the results might be misleading. Additionally, only non-coupled systems can be distinguished from coupled systems. To determine the coupling directions, the dynamics of the processes have to be taken into account which leads to the transfer entropy. By considering the past, transfer entropy measures the direct impact which the driving process has on the future state of the driven process by excluding any influence due to the serial correlations. Based on information theory, coupling strength is quantified as the amount of effective information transmission from one process to the other. Thus, transfer entropy allows to distinguish between unidirectional coupling and bidirectional coupling. 
+ While values for mutual information and transfer entropy can be easily archived for processes with discrete state space, their estimations from finite data sets are difficult. Partitioning the state space, mutual information and transfer entropy of the discretised processes converge to the corresponding values of the continuous processes if the partitions are refined. Furthermore, mutual information shows monotonically increasing convergence and thus can be used to reject the assumption of both processes being independent. For transfer entropy no similar monotonic convergence seems to hold. Kernel estimators represent an alternative approach in order to estimate information theoretical quantities. They are easy to implement and the bias of the estimators due to serial correlations in the data sets can be suppressed easily too. 
+ A special class of stochastic processes are point processes. Here, the discrete times at which an event occurs are of interest. Again mutual information can be used to quantify dependence between two point processes but this time the increments, i.e. the number of events within a certain time interval, have to be considered. A weaker measure for dependence is the covariance of the increments leading in a special case to the number of coincidences. Considering increments, coupling directions can be determined with the transfer entropy as well. Unfortunately, due to the large bias in the estimators the exact values of the information transmissions cannot reliablely be given. When using increments, the time scale on which dependence is detected is given by the length of the time intervals. As an alternative method inter-event intervals and cross-event intervals are introduced which are ordered to one discrete time index congruently. By calculating the mutual information between these event intervals dependence between point processes is detectable without choosing a certain time scale.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20030038</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_334</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_334">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-428/d080204.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_334"
+            DMDID="DMD_wuppertal_elpub_334">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_334"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

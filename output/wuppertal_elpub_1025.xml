@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1025">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>bildungsbezogene mediale Habitus von Grundschulkindern</title>
+                        <subTitle>Eine empirische Studie zur Reproduktion sozialer Ungleichheit in Schule und Familie</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Henrichwark, Claudia</displayForm>
+                        <namePart type="family">Henrichwark</namePart>
+                        <namePart type="given">Claudia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-07-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die vorliegende Forschungsarbeit beschäftigt sich mit der Reproduktion digitaler und somit sozialer Ungleichheit in Schule und Familie. Die zentralen Fragestellungen beziehen sich auf die Analyse und die herkunftsdifferenzierte Rekonstruktion von Reproduktionsmechanismen im Kontext digitaler Ungleichheit in der Medienwelt von Grundschulkindern.
+ Im theoretischen Teil dieser Arbeit wird unter Bezugnahme auf aktuelle Diskurse in der Medienpädagogik und Soziologie das heuristische Modell eines bildungsbezogenen medialen Habitus – in Anlehnung an die Habitustheorie Bourdieus – konstruiert.
+ Dieses Modell ist Ausgangspunkt der sich anschließenden empirischen Untersuchungen, die sich im Sinne der Methoden-Triangulation ergänzen. Eine quantitative Fragebogenerhebung wird unter kapitaltheoretischen Gesichtspunkten ausgewertet (n=235 vollständige Eltern-Kind-Datensätze). Aus den Befunden können vertiefende Fragestellungen generiert werden, die in einer kontrastiven Interviewstudie verfolgt werden (n=14 Familien). Die durch getrennte Eltern- bzw. Kinderinterviews gewonnenen Daten werden auf einer deskriptiven Fallebene zu Familienporträts zusammengestellt und familienimmanent interpretiert. Eine Fallkontrastierung und Typenbildung ermöglicht anschließend die Genierung bildungsbezogener medialer Habitustypen, die eine große Bandbreite aufweisen. Die Analyse zeigt, dass letztendlich der Erfolg bzw. Misserfolg der Entwicklung eines bildungsbezogenen medialen Habitus in erster Linie auf das kulturelle Kapital der Familie zurückzuführen ist und bereits Kinder im Grundschulalter in ihren medialen habituellen Dispositionen die Einflüsse ihres Herkunftsmilieus spiegeln.</abstract>
+                    <classification authority="ddc">370</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Human- und Sozialwissenschaften » Erziehungswissenschaften"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20090741</identifier>
+                    <identifier type="sys">HT016005512</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1025</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1025">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbg/paedagogik/diss2009/henrichwark/dg0901.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1025"
+            DMDID="DMD_wuppertal_elpub_1025">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1025"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

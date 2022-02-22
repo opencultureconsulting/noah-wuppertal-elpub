@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_7260">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Deflation Based Krylov Subspace Methods for Sequences of Linear Systems</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Božović, Nemanja</displayForm>
+                        <namePart type="family">Božović</namePart>
+                        <namePart type="given">Nemanja</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Many problems in engineering, numerical simulations in physics etc. require the solution of long sequences of slowly changing linear systems. As an alternative to GCRO-DR and Loose GCRO-DR, we propose two algorithms, LRDGMRES and Loose LRDGMRES, that use an oblique projection in the spirit of truly deflated GMRES for deflating the eigenvalues of smallest magnitude. This oblique projection requires approximations to right and left eigenvectors, and we proposed a way of getting the approximations to the left eigenvectors, without having to build a Krylov subspace with respect to A^H, which saves a lot of work.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170913-142254-9</identifier>
+                    <identifier type="sys">HT019455502</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_7260</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_7260">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2017/bozovic/dc1720.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_7260"
+            DMDID="DMD_wuppertal_elpub_7260">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_7260"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

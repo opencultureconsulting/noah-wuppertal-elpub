@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14950">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Fragmentevolution von Bisphenol-Liganden für die Suche nach Inhibitoren von K-RAS4B</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jeuken, Stephan</displayForm>
+                        <namePart type="family">Jeuken</namePart>
+                        <namePart type="given">Stephan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-07-13</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In the course of the work presented here, new ligands for the SI/II binding site of K-RAS4B were developed starting from bisphenols using various medicinal chemistry concepts. In addition to the determination of structure-activity-relationships (SARs), fragment expansion and PROTAC-design were used as further concepts. Computational calculations were used for the identification of active compounds via docking studies and e-learning algorithms. The compounds, most of which were synthesized, were subsequently investigated by the project partners with respect to their binding to K-RAS4B, their influences on underlying biochemical reactions and on cellular effects.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20210713-120811-7</identifier>
+                    <identifier type="doi">10.25926/d0ee-sa17</identifier>
+                    <identifier type="sys">HT021113474</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14950</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14950">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2021/jeuken/dc2105.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14950"
+            DMDID="DMD_wuppertal_elpub_14950">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14950"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

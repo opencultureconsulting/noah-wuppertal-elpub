@@ -1,0 +1,90 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6230">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>A </nonSort>
+                        <title>Genre-aware Document Model for Multichannel Publishing Workflows</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Schlupkothen</namePart>
+                        <namePart type="given">Frederik</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schmidt, Karl-Heinrich</displayForm>
+                        <namePart type="family">Schmidt</namePart>
+                        <namePart type="given">Karl-Heinrich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schmidt, Karl-Heinrich</displayForm>
+                        <namePart type="family">Schmidt</namePart>
+                        <namePart type="given">Karl-Heinrich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Möller, Reinhard</displayForm>
+                        <namePart type="family">Möller</namePart>
+                        <namePart type="given">Reinhard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hedler, Marko</displayForm>
+                        <namePart type="family">Hedler</namePart>
+                        <namePart type="given">Marko</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Based on the experience that the classic separation between logical and layout view on document contents is not enough to realize general single source and cross-media publishing solutions, this thesis investigates a document model to conceptualize a new multichannel publishing workflow. At first, the thesis introduces theoretical frameworks of analyzing and defining documents that potentially take different document types into account. Then, these informal frameworks are discussed and combined to define a formal, genre-aware document model. Next, the resulting model is implemented in a prototypical document processing environment that complies with common standards. Finally, the functionality of the new document processing workflow is tested by defining specific genres and creating corresponding documents.</abstract>
+                    <abstract type="content" lang="ger">Die Erfahrung hat gezeigt, dass die klassische Trennung zwischen logischer Sicht und Layoutsicht auf Dokumente im Allgemeinen nicht reicht, um unterschiedliche medienübergreifende Publikationen aus einem medienneutralen Quellformat zu erzeugen. Daher entwirft die vorliegende Arbeit ein neues Dokumentenmodell zur Konzeptualisierung allgemeiner mehrkanaliger Publikationssysteme. Zunächst werden theoretische Beschreibungsmodelle zur Dokumentenanalyse und -definition vorgestellt, die unterschiedliche Dokumententypen in Betracht ziehen. Diese informellen Modelle werden diskutiert und zu einem formalen &quot;Genre-abhängigen&quot; Dokumentenmodell zusammengeführt. Der so beschriebene Dokumentenbegriff wird anschließend prototypisch auf Grundlage etablierter Publikationsstandards und -werkzeugen umgesetzt. Abschließend wird die Funktionalität des neuen Publikationssystems anhand konkreter Fallbeispiele gezeigt.</abstract>
+                    <abstract type="content" lang="fre">L&apos;expérience a montré que la distinction classique entre le regard porté sur la logique et celui porté sur la mise en page des documents ne suffit pas généralement à produire des publications pour différents médias en partant d&apos;un format d&apos;origine neutre médialement parlant. C&apos;est pourquoi la thèse suivante conçoit un nouveau modèle de document pour la conceptualisation de systèmes de publication multiple pour différents médias. D&apos;abord, nous présentons des modèles de description théoriques pour analyser ou définir des documents de types différents. Ensuite, ces modèles informels sont discutés et nous les amenons à une représentation formelle de document qui relève du genre. Cette notion de document décrite ainsi est ensuite mise en application sur la base de standards et de systèmes de publication établis. Enfin, nous montrons la fonctionnalité du nouveau système de publication à l&apos;aide d&apos;exemples concrets.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Medientechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20161019-121805-0</identifier>
+                    <identifier type="sys">HT019135790</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6230</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6230">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/medientechnik/diss2016/schlupkothen/de1609.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6230"
+            DMDID="DMD_wuppertal_elpub_6230">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6230"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

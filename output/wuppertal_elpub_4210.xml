@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_4210">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>A </nonSort>
+                        <title>Lagrangian transport core for the simulation of stratospheric trace species in a Chemistry Climate Model</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hoppe, Charlotte Marinke</displayForm>
+                        <namePart type="family">Hoppe</namePart>
+                        <namePart type="given">Charlotte Marinke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Lagrangian transport schemes have proven to be useful tools for modelling stratospheric trace gas transport since they are less diffusive than classical Eulerian schemes and therefore especially well suited for maintaining steep tracer gradients as observed in the atmosphere. Here, the implementation of the full-Lagrangian transport core of the Chemical Lagrangian Model of the Stratosphere (CLaMS) in the ECHAM/MESSy Atmospheric Chemistry model (EMAC) is presented. A ten-year time-slice simulation was performed to evaluate the coupled model system EMAC/CLaMS. Simulated zonal mean age of air distributions were compared to the age of air derived from airborne measurements, showing the expected characteristics of the stratospheric circulation. Climatologies of long-lived tracers (CFC-11 (CCl₃F), CFC-12 (CCl₂F₂), CH₄, N₂O) were calculated using the standard flux-form semi-Lagrangian transport scheme (FFSL) in EMAC, as well as the new CLaMS Lagrangian transport scheme. The climatologies were compared both to each other and also to satellite measurements of trace gases. The differences in the resulting tracer distributions are most pronounced in the regions of strong transport barriers, namely the edge of the tropical pipe, the tropopause, and the edge of the polar vortex. These regions were analysed in detail and show improved results using the Lagrangian transport scheme, with stronger gradients at the respective transport barriers. The analyses of various trace gases and age of air in the polar vortex regions shows that the CLaMS Lagrangian transport scheme produces a stronger, more realistic transport barrier at the edge of the polar vortex than the FFSL transport scheme of EMAC. Differences in simulated age of air are in the range of up to one year in the Arctic polar vortex in late winter/early spring. The newly coupled model system EMAC/CLaMS thus constitutes a suitable tool for future model studies, e.g. for the simulation of polar ozone depletion, based on a sophisticated stratospheric tracer transport.</abstract>
+                    <abstract type="content" lang="ger">Lagrangesche Transportschemata sind besonders gut für die Simulation von stratosphärischen Spurengasen geeignet, da sie die numerische Diffusion, die notwendigerweise in klassischen Eulerischen Modellen auftritt, deutlich reduzieren. So ist es möglich, starke Gradienten an Transportbarrieren aufrecht zu erhalten, so wie sie in der Atmosphäre beobachtet werden. Diese Arbeit präsentiert das neu entwickelte, gekoppelte Modell EMAC/CLaMS, bestehend aus dem Lagrangeschen Transportschema aus dem Chemical Lagrangian Model of the Stratosphere (CLaMS) integriert in das Chemie-Klima-Modell ECHAM/MESSy Atmospheric Chemistry Model (EMAC). Zur Validierung dieses Modellsystems werden Ergebnisse aus einem Zeitscheibenlauf über 10 Jahre analysiert. Modellierte und aus Messungen bestimmte Verteilungen des Alters der Luft werden miteinander verglichen und die gute Übereinstimmung zeigt, dass die stratosphärische Zirkulation im Modell insgesamt gut wiedergegeben wird. Klimatologien für langlebige Spurengase wie CFC-11 (CCl₃F), CFC-12 (CCl₂F₂), CH₄ und N₂O) wurden sowohl für das neue Lagrangesche CLaMS Transportschema, als auch für das Standard Semi-Lagrangesche Transportschema in Flussform (FFSL) erstellt. Diese Klimatologien werden miteinander und mit Spurengasklimatologien aus Satellitenmessungen verglichen. Die größten Unterschiede zwischen beiden Transportschemata zeigen sich in Regionen, in denen sich starke atmosphärische Transportbarrieren befinden, das heißt am subtropischen und polaren Jet, sowie an der Tropopause. Eine Analyse dieser Regionen zeigt, dass das Lagrangesche Transportschema hier verbesserte, d.h. stärkere Gradienten in den Spurengasverteilungen aufweist. Am Beispiel des Polarwirbels wird gezeigt, dass die stärkere und realistischere Transportbarriere mit dem Lagrangeschen Transportschema zu Altersunterschieden von bis zu einem Jahr im Arktischen Polarwirbel führt. Insgesamt zeigt die vorliegende Arbeit, dass das neue gekoppelte Modell EMAC/CLaMS realistische stratosphärische Spurengasverteilungen simuliert und daher für zukünftige Modellstudien verwendet werden kann.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20141006-094512-8</identifier>
+                    <identifier type="sys">HT018524266</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_4210</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_4210">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2014/hoppe/dc1420.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_4210"
+            DMDID="DMD_wuppertal_elpub_4210">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_4210"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

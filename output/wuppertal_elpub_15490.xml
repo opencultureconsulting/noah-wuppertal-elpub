@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_15490">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Automatisierte Zielnetzplanung zur Entwicklung von innovativen Planungsgrundsätzen für ländliche Niederspannungsnetze in Europa</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Cibis, Kevin Christopher</displayForm>
+                        <namePart type="family">Cibis</namePart>
+                        <namePart type="given">Kevin Christopher</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Zdrallek, Markus</displayForm>
+                        <namePart type="family">Zdrallek</namePart>
+                        <namePart type="given">Markus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-31</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Im Zuge des Umbaus des Energieversorgungssystems müssen in den kommenden Jahren insbesondere die Stromnetze verstärkt werden. Bei der Netzplanung kann dies durch die Berücksichtigung innovativer Technologien und Maßnahmen sowie durch den Erfahrungsaustausch auf europäischer Ebene effizient erreicht werden. In dieser Dissertation wird eine Methode zur automatisierten Netzplanung und deren Anwendung auf eine Vielzahl von Niederspannungsnetzen aus Deutschland und anderen europäischen Ländern vorgestellt. Umfangreiche automatisierten Zielnetzplanungen und Sensitivitätsanalysen werden durchgeführt, um die effizientesten Lösungsoptionen für die zukünftigen Herausforderungen ländlicher europäischer Netzbetreiber zu identifizieren. Anhand der gewonnenen Ergebnisse und Erkenntnisse werden insgesamt zehn Planungsprinzipien entwickelt und vorgestellt.</abstract>
+                    <abstract type="content" lang="eng">During the transformation process of the energy supply system, particularly the electricity networks, need to be reinforced in the upcoming years. During network planning, this can be achieved efficiently by considering innovative technologies and measures, as well as by exchanging experiences at European level. This dissertation presents a method for automated network planning and its application to many low-voltage networks from Germany and other European countries. Thanks to the results and findings obtained, a total of ten planning principles are developed and presented.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20220131-094609-6</identifier>
+                    <identifier type="doi">10.25926/dmvz-qh07</identifier>
+                    <identifier type="sys">HT021218851</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_15490</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_15490">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2021/cibis/de2111.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_15490"
+            DMDID="DMD_wuppertal_elpub_15490">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_15490"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

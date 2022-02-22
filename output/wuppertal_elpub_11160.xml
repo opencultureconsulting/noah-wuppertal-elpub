@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_11160">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Stresserleben bei Studierenden – Eine Analyse der Entstehung von Stress und dessen mögliche Auswirkungen auf die Organisation Hochschule</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lukat, Stephanie</displayForm>
+                        <namePart type="family">Lukat</namePart>
+                        <namePart type="given">Stephanie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-11-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die vorliegende Arbeit untersucht das Stresserleben von Studierenden im Studium sowie die daraus resultierenden möglichen Folgen für die Organisation Hochschule im Gruppenvergleich. Anhand einer empirischen Untersuchung von 334 Bachelor- und Masterstudierenden wird auf Basis des transaktionalen Stressmodells die Einflussnahme personen- sowie umweltbezogener Faktoren auf die Stressentstehung sowie die daraus resultierenden Folgen untersucht, wobei die personenbezogenen Faktoren durch Persönlichkeitseigenschaften und der umweltbezogene Faktor durch soziale Negativunterstützung erfasst werden. Dabei wird zwischen den beiden Studienabschlüssen Bachelor und Master unterschieden. Zur Erfassung der sozialen Negativunterstützung wird in einer ersten Studie eine entsprechende Skala entwickelt und evaluiert. Die Datenanalyse wird mithilfe eines Strukturgleichungsmodells durchgeführt. Die Ergebnisse weisen darauf hin, dass die hier untersuchten personenbezogenen Faktoren sowie der umweltbezogene Faktor einen entscheidenden Einfluss auf die Stressentstehung haben. Hinsichtlich der hier untersuchten Folgen des Stresserlebens auf Organisationsebene konnten ebenfalls Zusammenhänge nachgewiesen werden.</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20201130-090922-5</identifier>
+                    <identifier type="doi">10.25926/8kwm-fn65</identifier>
+                    <identifier type="sys">HT020687940</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_11160</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_11160">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2020/lukat/db2009.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_11160"
+            DMDID="DMD_wuppertal_elpub_11160">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_11160"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

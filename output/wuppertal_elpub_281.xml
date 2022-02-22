@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_281">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Relaxationseffekte der CRISTA-Infrarotdetektoren und ihre Korrektur</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ern, Manfred</displayForm>
+                        <namePart type="family">Ern</namePart>
+                        <namePart type="given">Manfred</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-02-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">CRISTA (CRyogenic Infrared Spectrometers and Telescopes for the Atmosphere) is a limb sounding satellite experiment which was flown twice as part of the space shuttle missions STS-66 (November 1994) and STS-85 (August 1997). Infrared emissions of a number of trace gases were measured at wavelengths of 4-71 micrometer in the middle and upper atmosphere in an altitude interval of 10-180 km. The main goal of the two missions was to achieve an unprecedented spatial resolution using three viewing directions. 
+To allow high measurement speed the instrument is cooled by cryogenic He. During the first flight 23 Si:Ga and three Ge:Ga bulk infrared detectors were operated at temperatures between 2.5 and 13 K. During the second flight 17 Si:Ga, three Ge:Ga bulk and 9 Si:As BIB detectors were used. 
+Mainly due to the contacts of the detector crystals the measured detector signals show nonstationary behaviour (relaxation effects) which degrade the measured spectra to some extent. A model based on step responses measured during the calibrations of the instrument has been developed for the Si:Ga detectors to reduce these effects. This model has been tested using special measurement modes during the flights as well as calibration spectra. 
+For the Ge:Ga detectors a method for estimation and correction of occuring relaxation effects is also presented. 
+Finally the impact of the correction on CRISTA I temperatures and trace gas mixing ratios is shown.</abstract>
+                    <abstract type="content" lang="ger">Das nach dem Verfahren der Horizontsondierung messende Satellitenexperiment CRISTA (CRyogene Infrarot Spektrometer und Teleskope für die Atmosphäre) war Bestandteil der Space-Shuttle Missionen STS-66 (November 1994) und STS-85 (August 1997). Im Wellenlängenbereich 4-71 Mikrometer wurden Infrarotemissionen von Spurengasen in der mittleren und oberen Erdatmosphäre (10-180 km) gemessen. Zum ersten Mal wurden drei Blickrichtungen eingesetzt, um eine möglichst gute räumliche Meßauflösung zu erreichen. 
+Um außerdem eine möglichst hohe Meßgeschwindigkeit zu gewährleisten, wurde das Instrument mit kryogenem Helium gekühlt. Während des ersten Fluges wurden 23 Si:Ga und 3 Ge:Ga Detektoren bei Temperaturen zwischen 2,5 und 13 K betrieben, während des zweiten Fluges 17 Si:Ga, 3 Ge:Ga und 9 Si:As BIB Detektoren. 
+Hauptsächlich verursacht durch die Kontaktierung der Detektorkristalle zeigen die verwendeten Detektortypen nichtstationäres Verhalten (Relaxationseffekte), das die gemessenen Infrarotspektren verfälscht. Im Rahmen dieser Arbeit wurde ein Korrekturmodell für die Si:Ga Detektoren entwickelt, das auf im Labor gemessenen Sprungantworten der Detektoren basiert. Dieses Modell wurde anhand spezieller Flug- und Eichspektren validiert und der Einfluß der Korrektur auf abgeleitete Atmosphärentemperaturen und Spurengasmischungsverhältnisse von CRISTA 1 untersucht. 
+Weiterhin wird ein Verfahren zur Abschätzung von Relaxationseffekten der Ge:Ga Detektoren vorgeschlagen.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20010160</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_281</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_281">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-375/d080005.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_281"
+            DMDID="DMD_wuppertal_elpub_281">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_281"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

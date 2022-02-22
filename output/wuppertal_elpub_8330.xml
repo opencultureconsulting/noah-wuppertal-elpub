@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_8330">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Rheologische Interaktionen von Polyurethandispersionen in wasserbasierten Lacksystemen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Beck, Madeleine</displayForm>
+                        <namePart type="family">Beck</namePart>
+                        <namePart type="given">Madeleine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-05-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Polyurethane dispersions are important components in waterborne coatings. They are mostly used as main compound, which greatly influences the coating properties. This applies particular in the rheology of waterborne basecoats.
+ There are high requirements for the rheological behavior of waterborne basecoats. The flow after application and also the sagging at required layer thickness is controlled by the rheological behavior. Additionally the storage stability is influenced. For these reasons the coating is rheologically adjusted to the needs of the customer and has to stay consistent from the production to the application at the customer’s production process.
+ Within this work the significance of the polyurethane and its conformation is characterized and the influences of basecoat rheology are shown. The different structural arrangements form varying super-structures manifestations in the coating. Superstructures are stabilized by interactions like H-bondings. In rheological measurements a strong network results in a high viscosity and a high flow stress.
+ A model formulation is used for the examination of the coating. Using a model formulation, which is limited to its essential ingredients, enables a good assessment of rheological properties with only minor influence of other coating components.
+ During production the polymer is in a hydrophobic structure. With aging it rearranges into a hydrophilic structure. A different behavior between old and new batches of the polyurethane dispersion can be observed. The different batches are examined by spectroscopic investigations in the near-infrared range and by analysis of molecular weight by size exclusion chromatography (SEC). For better understanding regarding the structures Monte Carlo simulations are carried out. These simulations calculate the different conformations of the polyurethane and allow to visualize the structure.
+ The hydrophobic structure of the polymer is stabilized by intramolecular hydrogen bonds. In addition, the polyurethane is coordinated in such a way that the polar centers are inside and there are only a few weak points for external influences. In the course of time the polymer, by the influence of water, changes its structure in such a way that the polar centers are directed outwards and surrounded by many intermolecular hydrogen bonds. As a result, the appearance of superstructures in the waterborne basecoat is different, which has an effect on the rheology. Freshly prepared polyurethane dispersions build up a weak network in the coating and the viscosity is correspondingly lower. Furthermore, the temperature has an influence on the polyurethane dispersion and its structural arrangement as well as on the water-based coating, the aging of which is accelerated by temperature stress.
+ In addition, the solvent 2-Buthoxyethanol, which is used alongside water as a cosolvent in the coating, has a great influence on the extent of the superstructures and the strength of the network in the coating. 2-Buthoxyethanol can lead to a constant base viscosity, as is otherwise achieved only by equilibrated and temperature-loaded polyurethane dispersions.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20180530-114350-5</identifier>
+                    <identifier type="sys">HT019834706</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_8330</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_8330">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2018/beck/dc1803.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_8330"
+            DMDID="DMD_wuppertal_elpub_8330">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_8330"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_448">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Determination of Aflatoxins in Food and Feed with Simple and Optimised Methods</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Stroka, Jörg</displayForm>
+                        <namePart type="family">Stroka</namePart>
+                        <namePart type="given">Jörg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-05-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die vorliegene Arbeit befasst sich mit der Entwicklung analytischer Methoden zur Bestimmung von Aflatoxinen in Paprika, Erdnussbutter, Pistazienpaste, Feigenpaste, Säuglingstrockennahrung und Tierfutter. Grundlage der entwickelten Methoden ist in allen Fällen eine immunchemische Aufreinigung der Probenextrakte, gefolgt von einer flüssigkeits- oder dünnschichtchromatographischen Trennung der Aflatoxine. Jede der Methoden wurde auf ihre Anwendbarkeit bezüglich der unterschiedlichen Probenmatrices, der Berücksichtigung von einfachen und robusten Arbeitsschritten, so wie der Giftigkeit der verwendeten Chemikalien und Benutzerfreundlichkeit hin untersucht. Zu diesem Zweck wurden die Extraktionseigenschaften von Extraktionsmitteln bezüglich verschiedenster Probenmatrices untersucht und die chromatographischen Trennparameter so wie Derivatisierungstechniken optimiert. Der überwiegende Teil der Methoden wurde auf dem Niveau geltender Grenzwerte in Ringversuchen validiert und liegt beim European Standardization Committee (CEN) so wie der Association of Official Analytical Chemists International (AOAC Int.) zur Übernahme als Referenzmethoden vor. Zusätzlich wurden einfache Geräte zur densitometrischen Bestimmung von Aflatoxinen entwickelt und validert. Diese Geräte zeichnen sich durch ihren einfachen Aufbau gegenüber kommerziellen Alternativen aus. Es konnte gezeigt werden, dass mit den entwickelten Geräten Aflatoxine im Bereich derzeit gültiger Grenzwerte (Europa) sicher bestimmt werden können.</abstract>
+                    <abstract type="content" lang="eng">State-of-the-art analytical methods for the determination of aflatoxins in paprika, peanut butter, pistachio paste, fig paste, infant formula and animal feed were developed. All methods employ immunoaffinity cleanup steps, followed by either high-performance liquid chromatography (HPLC) or thin-layer chromatography (TLC). Each method was tested for its suitability to determine aflatoxins in all relevant matrices with focus on method robustness, simplicity of laboratory procedures, toxicity of materials used, and user friendliness. Matrix specific extraction procedures, optimization of the chromatographic separation parameters and derivatization techniques were elaborated for this purpose. Most of the methods were statistically validated in collaborative etrials at current legislative limits for aflatoxins and are in the process of adoption as official methods by the European Standardization Committee (CEN) and the Association of Official Analytical Chemists International (AOAC Int.). In addition novel and alternative TLC-densitometer prototypes were developed, and tested in-house. These devices are characterised by their simple construction and low production costs compared to commercial densitometers. The devices were found to be suitable to determine aflatoxins at current legislative levels in combination with adequate TLC methods.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20010322</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_448</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_448">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-543/d090031.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_448"
+            DMDID="DMD_wuppertal_elpub_448">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_448"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

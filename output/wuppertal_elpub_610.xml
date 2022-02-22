@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_610">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchung pulsförmig modulierter Mikrowellenplasmen in Sauerstoff durch zeitaufgelöste zweiphotonen-laserinduzierte Fluoreszenz</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Georg, Axel</displayForm>
+                        <namePart type="family">Georg</namePart>
+                        <namePart type="given">Axel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-02-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Gegenstand dieser Dissertation ist die Untersuchung pulsförmig modulierter Mikrowellenplasmen in Sauerstoff, insbesondere die zeitaufgelöste Messung der Dichte atomaren Sauerstoffs. Verwendet wurde eine Mikrowellenplasmaquelle (2.45 GHz) mit Leistungseinkopplung über Schlitzantennen (SLAN). Als Meßmethode, die sowohl eine gute räumliche als zeitliche Auflösung ermöglicht, diente die zweiphotonen-laserinduzierte Fluoreszenz (TALIF). Durch Verwendung eines gepulsten Farbstofflasers ist es möglich, die Dichte des atomaren Sauerstoffs nO während einer Entladungsperiode zeitaufgelöst im &quot;downstream&quot;-Bereich in einer Entfernung von 25 cm zur Anregungszone der Plasmaquelle zu messen. Dieser Bereich ist für sogenannte &quot;remote&quot;-Plasmaprozesse von Interesse, welche z.B. bei der industriellen Herstellung dünner Schichten angewendet werden. Zur Kalibrierung der Messung wurde TALIF an Xenon angewandt, das einen Zweiphotonenabsorptionsübergang bei nahezu der gleichen Wellenlänge wie beim atomaren Sauerstoff aufweist. Dieses Verfahren hat den Vorteil, daß es die Photonenstatistik der Zweiphotonenabsorption berücksichtigt. Die Messung an einem ungepulsten Plasma ergab einen Dissoziationsgrad von etwa 1 %. Aus der Dopplerverbreiterung des gemessenen Zweiphotonenabsorptionsprofils des atomaren Sauerstoffs ergab sich eine Gastemperatur von 376 K. Für Drücke p = 50 Pa,100 Pa und 150 Pa wurde der Zeitverlauf von nO für unterschiedliche Pulsfrequenzen η in einem Bereich von 20 Hz - 3000 Hz gemessen. Bei p = 50 Pa erreicht der zeitliche Mittelwert (nO)αη für 40 Hz &lt; η &lt; 80 Hz ein Maximum, welches 26 % über dem Wert eines ungepulsten (cw) Plasmas liegt. Bei weiterer Erhöhung des Drucks verschiebt sich die Frequenz des Maximums von (nO)αη zu kleineren Werten, während der Gewinn an atomarem Sauerstoff im Vergleich zum cw Plasma auf über 50 % bei p = 150 Pa ansteigt. Des weiteren beobachtet man bei η = 20 Hz, daß zwischen dem Einschalten der Mikrowellenleistung und dem Anstieg von nO eine zeitliche Verzögerung Δ t liegt, die für p = 150 Pa bei Δ t = 12 ms liegt und mit dem Druck wächst. Um das Verhalten von nO(t) zu beschreiben,wurde zunächst ein vereinfachtes &quot;Global Model&quot; des Plasmas aufgestellt, welches aus den Kontinuitätsgleichungen für den atomaren Sauerstoff O, den metastabilen Sauerstoff O* und die negativen Sauerstoffionen O- besteht. Dieses Modell wurde schon in früheren Arbeiten zur Beschreibung der Elekronendichte- und temperatur in gepulsten Plasmen angewendet. Der Hauptverlustmechanismus des atomaren Sauerstoffs in diesem Modell ist die Diffusion zu den Wänden und die dortige Rekombination. Dieser Prozeß dominiert den Abfall von nO im Afterglow der Entladung. Der Wandrekombinationskoeffizient γ rec ist unbekannt und wird daher als freier Parameter behandelt. Das Modell ist semikonsistent insofern, als es für die Elektronendichte ne und die Elektronentemperatur Te auf experimentelle Ergebnisse zurückgreift. Die Ergebnisse dieses Modells zeigen eine gute Übereinstimmung mit dem Zeitverhalten von nO. Allerdings liegen die Absolutwerte des Modells eine Größenordnung über den Meßwerten. Ebenso kann das Modell keine Zeitverzögerung Δ t des Anstiegs von nO erklären. Der in dieser Arbeit vorgeschlagene Erklärungsansatz basiert auf der Idee, daß in der Startphase der Entladung das Plasma durch ambipolare Diffusion von der Anregungszone der SLAN zum Laserfokus des TALIF-Experiments expandiert und dort lokal atomaren Sauerstoff erzeugt. Das gemessene Δ t stimmt gut mit der Zeitskala der ambipolaren Diffusion überein. Dies bedeutet, daß in der Startphase der gepulsten Entladung die Beschreibung durch ein nichtlokales Modell wie dem &quot;Global Model&quot; unzutreffend ist. Daher wird in dieser Arbeit alternativ ein qualitatives Modell für die Kinetik des atomaren Sauerstoffs vorgestellt, welches auch das lokale Verhalten von nO beschreibt.</abstract>
+                    <abstract type="content" lang="eng">In this work pulsed microwave excited plasmas are investigated by time-resolved measurement of the density of atomic oxygen. A microwave plasma source (2.45 GHz) based on power coupling through slot antennae (SLAN) is used. The measurement is performed by two-photon laserinduced fluorescence (TALIF), allowing good temporal and spatial resolution. Using radiation of a pulsed dye laser it is possible to measure the density of atomic oxygen nO time-resolved in the &quot;downstream&quot; region 25 cm away from the excitation zone of the plasma source during a complete discharge cycle. This area is of special interest for &quot;remote&quot; plasma processing e.g. the generation of thin films. The measurements are calibrated by TALIF of xenon which has a two-photon transition at nearly the same wavelength than atomic oxygen. A major advantage of this method is the consideration of the photon statistics of the two-photon transition. In a cw plasma the measured degree of dissociation is about 1 %. From the Doppler broadening of the two-photon absorption profile a gas temperature of 376 K is estimated. For different pressures p = 50 Pa,100 Pa and 150 Pa the temporal behaviour of nO at pulse frequencies η (20 Hz - 3000 Hz) has been determined. At p = 50 Pa the time-averaged value (nO)α η reaches a maximum for 40 Hz &lt; η &lt; 80 Hz, which is 26 % higher than the value of a cw plasma. Further increase of the pressure leads to a shift of the maximum of (nO)α η to lower η , whereas the gain of atomic oxygen compared to cw plasmas increases to more than 50 % for p = 150 Pa. At η = 20 Hz a delay Δ t between the onset of microwave power and the rise of the atomic oxygen density can be observed, which is about Δ t = 12 ms for p = 150 Pa and grows with increasing pressure. To describe the behaviour of nO(t) a simplified &quot;Global Model&quot; of the plasma is used, which consists of the continuity equations for atomic oxygen O, metastable oxygen O* and negative oxygen ions O-. This model has been used in earlier studies to determine the electron density and pressure in pulsed plasmas. The major loss mechanism of atomic oxygen according to this model is diffusion to the walls and surface recombination at the walls. This process is dominating the decay of nO during the afterglow of the pulsed discharge. The coefficient of surface recomination grec is unknown and therefore used as a free parameter. Because measured values of electron density and temperature are used in this model it is semi-consistent. Calculations of the temporal behaviour of nO are in good agreement with experimental results. On the other hand the absolute values of the calculated nO are an order of magnitude too high. Also, the existence of a delay Δ t for the rise of nO cannot be explained by this model. A solution for this discrepancy presented in this work is based on the expansion of the plasma from the excitation zone in the SLAN to the &quot;downstream&quot; zone, where TALIF is performed. This expansions occurs during the the start-up phase of the discharge and is due to ambipolar diffusion such that atomic oxygen is locally produced by electron collisions. The measured Δ t is in good agreement with the estimated time scale of ambipolar diffusion. This means that the description of the start-up phase of a pulsed plasma by a &quot;Global Model&quot;is not valid. Alternatively a qualitative model is developed which describes the local behavior of nO.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20010139</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_610</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_610">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-706/d130101.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_610"
+            DMDID="DMD_wuppertal_elpub_610">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_610"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_440">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Neue Synthesen chiraler und polar funktionalisierter Phosphanliganden</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Nickel, Thomas</displayForm>
+                        <namePart type="family">Nickel</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-08-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Twofold hydroxylated chiral secondary and tertiary phosphines (2a-d) have been obtained in good yields by ringopening reactions of R-(+)-2,3-epoxy-1-propanol with primary or secondary phosphines respectively in the superbasic medium DMSO/KOH. 
+Subsequent treatment of the compounds 2a, 2d with PhB(OH)2 leads to new chiral dioxaborolane containing ligands (3a, b) with Lewis acid moieties in the periphery. The X-ray structural analysis of 3a reveals the boron substituted aromatic ring system to be almost coplanar with the dioxaborolan moiety. 
+Watersoluble derivatives (2e, g) are accessible by Pd-catalyzed P-C coupling reaction of the secondary phosphine 2c with suitable substituted aryliodides or by nucleophilic aromatic substitution of fluorine in o-F-C 6H4-SO3Na with 2c in DMSO/KOH, respectively. 
+Improved methods have been developed for the synthesis of mono- and bidentate phosphine ligands (4a-f, 5a-g) bearing chiral dioxolane systems. Compounds 4a and 4d are obtained enantiomerically pure, while the other phosphines are formed as mixtures of diastereoisomers with homochiral β-carbon atoms. Resolution of these mixtures by fractional crystallisation is described in three cases, leading to diastereomerically pure compounds with up to six centers of chirality. 
+Introduction of polar substituents like sulfonic or guanidinium groups in the aromatic ring system of 4a was achieved by Pd-catalyzed P-C-coupling reactions of the secondary phosphine 4c with p-I-C6H4-SO3Na or m -I-C6H4-NC(NMe2)(NH2), respectively. 
+On reaction with PdCl2(COD) the phosphines 2a, 3a, 4a yield square planar complexes 6-8 of the composition PdCl2L2 either as cis or as trans isomers, depending on the steric hindrance and the solvent used. Neutral and cationic Rh(I)-complexes 10-13 are obtained on treatment of 4a, 5a, 5b with [RhCl(NBD)]2. 
+The preparation of the new enantiomerically pure bis(phospholane) ligand 19 is described, using PH3 as a starting material. The tosylated derivative 20 is obtained by reaction of 18 with threitolditosylate in a 1:1 stoichometry. 20 is a valuable synthon for the preparation of C1-symmetric diphosphines. The following part of this work deals with the synthesis of new chiral electron rich phosphines with functionalized bulky cyclohexyl substituents. Base catalyzed addition of PhPH2 or Ph2PH to a Michael system affords the phosphines 21 and 22, which may easily be hydrolyzed yielding water soluble carboxylated compounds. 
+Employing PH3 the phospha analogue of the amino acid glycine 23 has been obtained by nucleophilic substitution of chloride in ClCH2COONa in liquid ammonia. On radical initiated addition of 23 to higher olefins, tertiary phosphines 25 and 26 with tensidic character are formed. 
+The last part of this work is concerned with the synthesis of the new phosphonatomethyl derivatives of triphenylphosphine 31, 32. They are accessible in a two stage synthesis using o-iodobenzylchloride or m-iodobenzylbromide as starting materials. Arbuzov reaction with P(OEt)3 and Pd-catalyzed P-C coupling reactions with Ph2PH gave the esters 28, 29. Purification of 28 was achieved via its BH3 adduct 30. 
+The catalytic activities of some of the phosphines (2a, d, 3a, b, 4a, d, 31, 32) in a Pd-catalyzed C-C cross coupling reaction (Suzuki reaction) have been investigated. 
+All compounds have been identified by NMR-spectroscopy and if possible by mass spectrometry. The structures of the phosphines 3a,20 and the phosphine oxide 4g have been determined by X-ray structural analysis.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20010504</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_440</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_440">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-535/d090034.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_440"
+            DMDID="DMD_wuppertal_elpub_440">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_440"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

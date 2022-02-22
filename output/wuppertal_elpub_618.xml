@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_618">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Electromagnetic waves propagation in photonic crystals with incomplete photonic bandgap</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Chigrin, Dmitry N.</displayForm>
+                        <namePart type="family">Chigrin</namePart>
+                        <namePart type="given">Dmitry N.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004-02-17</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In dieser Arbeit wird die Ausbreitung elektromagnetischer Wellen in einem dielektrischen periodischen Medium mit einer unvollständigen photonischen Bandlücke untersucht.
+ Die vollständige omnidiretkionale Reflektion eines eindimensionalen periodischen dielektrischen Mediums wird vorhergesagt. Die Herkunft der omnidiretkionalen Reflektion wird diskutiert und optimale Parameter für die Geometrie und das Material eines solchen Reflektors berechnet. Die theoretischen Vorhersagen werden mit experimentellen Ergebnissen bei optischen Frequenzen verglichen.
+ Untersucht wurde desweiteren der Einfluß einer starken Anisotropie eines dreidimensionalen periodischen Dielektrikas auf Emissionseigenschaften des klassischen Dipols. Es zeigt sich, daß Anisotropien zu einer Modifizierung des Fernfeld-Strahlungs-Diagramms und der Emissionsintensität eines Dipols führt. Falls sich eine Dipolfrequenz innerhalb des partiellen Bandgaps befindet, so erzeugt eine Fernfeld-Emissionsintensität eine Unterdrückung in der Richtung des Stopbandes und eine Verstärkung in der Richtung der Gruppengeschwindigkeit, welche für eine kleine Variation des Wellenvektors mathematisch stationär ist. Solch eine Verstärkung wird bezüglich des Photonfokussierungs-Phänomens erklärt.
+ Es wird eine Anzahl von numerischen Beispielen der Strahlungsdiagramm-Modifikation gegeben und die theoretischen Vorhersagen der Emissionsmodifikation werden mit Photolumineszensexperimenten in einem dreidimensionalen photonischen Kristall verglichen.
+ Weiterhin wird gezeigt, daß aufgrund der Interferenzen der photonischen Kristalleigenwerte an der Detektorebene das Fernfeld-Strahlungsdiagramm des klassischen Dipols geändert werden kann. Dabei werden die physikalischen Ursachen der Interferenzen und die Möglichkeiten ihrer experimentellen Beobachtung diskutiert.
+ Ein zweidimensionaler photonischer Kristall, der die natürliche Diffraktion eines Laserstrahls über einen weiten Bereich der Stahlbreite und Strahlorientierung bezüglich des Kristallgitters aufhebt, wird vorgeschlagen. Der Verbreiterung des Strahles wirkt die Kristallanisotropie entgegen, wie dies in nichtlinearen Medien für räumliche Solitonen der Fall ist.</abstract>
+                    <abstract type="content" lang="eng">In this thesis, electromagnetic wave propagation in a dielectric periodic medium, photonic crystal, described by an incomplete photonic bandgap are studied.
+ A total omnidirectional reflection from a one-dimensional periodic dielectric medium is predicted. The origins of the omnidirectional reflection are discussed and optimum parameters of an omnidirectional mirror are presented. Theoretical predictions are compared with experimental realization of the mirror at optical frequencies.
+ The influence of a strong anisotropy of a three-dimensional periodic dielectric medium on emission properties of the classical dipole is studied. It is shown that the anisotropy of a photonic crystal leads to modifications of both the far-field radiation pattern and the radiated power of a dipole. If the dipole frequency is within a partial bandgap, the radiated power is suppressed in the direction of a stopband and enhanced in the direction of the group velocity, which is stationary with respect to a small variation of the wave vector. Such an enhancement is explained in terms of photon focusing phenomenon.
+ Several numerical examples illustrating modification of radiation pattern are given. Theoretical predictions of radiation pattern are compared with experimental photoluminescence of laser dye molecules embedded in an inverted opaline photonic crystal.
+ It is shown that far-field radiation pattern of the classical dipole can be also modified due to interference of photonic crystal eigenmodes at the detector plane. The physical reasons for the interference and the possibilities of its experimental observation are discussed.
+ A two-dimensional photonic crystal is proposed, which cancels out a natural diffraction of the laser beam for a wide range of beam widths and beam orientations with respect to the crystal lattice. The spreading of the beam is counteracted by the crystal anisotropy, like in the case of spatial solitons the nonlinearity of the medium counteracts the natural spreading of the beam due to diffraction.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20040061</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_618</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_618">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-714/d130303.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_618"
+            DMDID="DMD_wuppertal_elpub_618">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_618"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

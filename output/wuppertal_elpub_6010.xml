@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6010">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Parallelization of a Data-Driven Independent Component Analysis to Analyze Large 3D-Polarized Light Imaging Data Sets</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Tabbi, Giuseppe Teodoro Maria</displayForm>
+                        <namePart type="family">Tabbi</namePart>
+                        <namePart type="given">Giuseppe Teodoro Maria</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">3D-Polarized Light Imaging (3D-PLI) is a method which uses the optical properties of myelinated fiber tracts to investigate the anatomical connectivity in post-mortem human brains. For the presented study, two different optical systems were used to map connectivity: the Large Area Polarimeter (LAP) and the Polarizing Microscope (PM). In both systems the histological sections are studied by passing linear polarized light. From the measured changes of polarized light caused by passing through a birefringent tissue, the 3D-information of the nerve fibers are extracted. These optical systems provide for human histological sections image sizes up to one Terabyte. Since the measured polarized light signal is deteriorated by noise, light scatter and filter inhomogeneities to name a few, Independent Component Analysis (ICA) was introduced only for the LAP to recover the original PLI signal on a whole histological section. The signal strength, which scales with the multiple layers of the birefringent myelin sheaths, varies from the gray matter to the white matter. Thus, weaker signals located in the gray and at boundaries between gray and white matter are more afflicted with noise than stronger signals in the white matter. This thesis introduces a new data-driven ICA approach specifically developed for the gray and boundaries between gray and white matter of histological sections. The method is based on constrained ICA, where a priori information of the underlying sources is used to optimize and accelerate signal decomposition. Thereby, prior information is incorporated by using the density distribution of the gray and white matter, which leads to a tissue specific signal decomposition algorithm. The new approach reveals a faster signal separation and increased signal enhancement compared to the current standard ICA approach in 3D-PLI. Additionally, a new concept for applying ICA on large high-resolution data sets of the PM is introduced. The exploitation of High Performance Computing (HPC) and the data-driven ICA approach are included in the new parallelized ICA method.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20160725-085219-8</identifier>
+                    <identifier type="sys">HT019059586</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6010</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6010">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2016/tabbi/dc1614.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6010"
+            DMDID="DMD_wuppertal_elpub_6010">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6010"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

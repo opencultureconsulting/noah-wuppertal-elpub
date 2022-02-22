@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_10310">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Förderung nachhaltiger und aktiver Mobilität von Schülerinnen und Schülern - Möglichkeiten durch urbane infrastrukturelle Handlungsangebote wie die Wuppertaler Nordbahntrasse und daran anknüpfende projektorientierte BNE in der Lehramtsausbildung im Fach Geographie</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Faßbender (geb. Schraven) , Mira</displayForm>
+                        <namePart type="family">Faßbender (geb. Schraven) </namePart>
+                        <namePart type="given">Mira</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-03-02</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Zur Förderung nachhaltiger und aktiver Mobilität von Schülerinnen und Schülern können verschiedene Ansätze diskutiert werden, zu denen u. a. infrastrukturelle Handlungsangebote in Form geeigneter urbaner Rad- und Fußwege sowie Bildung für nachhaltige Entwicklung (BNE) zählen, für deren Gestaltung Lehrkräfte insbesondere im Fach Geographie ausgebildet werden sollten. Diese beiden Ansätze werden in der vorliegenden Arbeit in zwei Forschungssträngen und unter Nutzung eines Mixed-Methods-Ansatzes hinsichtlich ihrer Möglichkeiten zur Förderung nachhaltiger Mobilität von Schülerinnen und Schülern betrachtet. 
+ Am Beispiel des Wuppertaler Rad- und Fußwegs Nordbahntrasse, die auch als Radschnellverbindung eingeordnet werden kann, werden die von diesem infrastrukturellen Handlungsangebot ausgehenden Chancen zur Förderung nachhaltiger Mobilität von Schülerinnen und Schülern untersucht. Darauf aufbauend wird dargestellt, wie an ein solches Infrastrukturbeispiel anknüpfend, zukunfts- und projektorientierte Bildung für nachhaltige Entwicklung in der geographischen universitären Lehramtsausbildung gestaltet werden kann und welche Chancen diese projektorientierten Lehr- bzw. Lernveranstaltungen für die Lehramtsausbildung sowie für die Förderung einer (Bildung für) nachhaltige(n) Entwicklung und zur Förderung nachhaltiger Mobilität von Schülerinnen und Schülern bieten. 
+ Die Arbeit ist als humangeographische Arbeit in enger Verbindung mit einem auf BNE fokussierten geographiedidaktischen und hochschuldidaktischen Zugang einzuordnen.</abstract>
+                    <classification authority="ddc">910</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Human- und Sozialwissenschaften » Geographie und Sachunterricht"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20200302-100743-7</identifier>
+                    <identifier type="doi">10.25926/xzkg-s016</identifier>
+                    <identifier type="sys">HT020459247</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_10310</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_10310">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbg/geographie/diss2019/fassbender/dg1903.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_10310"
+            DMDID="DMD_wuppertal_elpub_10310">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_10310"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

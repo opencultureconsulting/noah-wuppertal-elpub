@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_805">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entwicklung einer Multi-Purpose Ionenquelle für die AP-MS sowie Design und Anwendung von APLI-Ionisationslabeln</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schiewek, Ralf</displayForm>
+                        <namePart type="family">Schiewek</namePart>
+                        <namePart type="given">Ralf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-01-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Atmospheric-Pressure Laser Ionization (APLI) was developed at the University of Wuppertal as a sensitive atmospheric-pressure ionisation method for the analysis of non-polar aromatic hydrocarbons. The coupling of liquid chromatography (LC) with APLI was first realised with a Q-TOF Ultima (Waters) instrument in the form of LC-APLI-(TOF)MS. Because of its great separating power, gas chromatography presents an interesting alternative to LC. A plan was therefore drafted for coupling a gas chromatograph with the atmospheric-pressure ion source of the Q-TOF Ultima for APLI. To this end, an appropriate electrically heated transfer line was constructed. The front end of this transfer line could be mounted instead of a volatilisation stage on the otherwise unmodified atmospheric-pressure ion source. The parameters necessary to operate the source, such as the amounts of gas within the source and settings on the mass spectrometer, were optimised. The efficiency of this new coupling was demonstrated by the analysis of a number of standards (PAHs and hetero-PAHs). 
+On the basis of this successful coupling, APLI was also coupled with another atmosphericpressure mass spectrometer (micrOTOF, Bruker Daltonics). For this, a new ion source was developed for the mass spectrometer, to replace the standard one. The central component of the new source, which can be used for LC as well as for GC versions of APLI-(TOF)MS, is a cube-shaped source body with several apertures. Various additional components, such as the volatilisation stage of liquid chromatography or the newly developed transfer line, could be mounted onto the body. After important parameters had been optimised, a number of standards as well as real samples were analysed with both the LC-APLI-(TOF)MS and GCAPLI-( TOF)MS systems, in order to show the potential of this coupling. Thus, in addition to several aromatic oligomers used in the manufacture of organic light-emitting diodes, which are difficult to analyse by other methods, transition-metal complexes used as triplet emitters were successfully analysed by LC-APLI-(TOF)MS. Among examples of the application of GC-APLI-(TOF)MS, several PAH and hetero-PAH standards were analysed, and the pyrene metabolite 1-hydroxypyrene was detected in urine. For chrysene, a detection limit of 0.5 ng/L was achieved with an injection volume of 2 µL. 
+In order to use the advantages of such a flexible coupling, in which the costly high-resolution mass spectrometer serves as detector for various chromatographic applications in conjunction with the three important atmospheric-pressure ionisation methods (ESI, APCI, APPI), these methods were integrated into the design. In addition, an improved version of the GC-transfer line was developed. This new design of a Multi-Purpose API-Source (MPIS) has been made commercially available by the company Bruker Daltonics as a flexible ion source for an atmospheric-pressure mass spectrometer. 
+Switching between various ionisation methods is convenient, requiring only that the alternative components be exchanged at the apertures of the source body. For example, to switch from GC-APLI-(TOF)MS to GC-APCI-(TOF)MS, only a quartz window is replaced by the APCI needle assembly. Switching between LC und GC is possible in the same way: here only the transfer line has to be replaced by a blind flange. In this design, the ionisation methods can be applied either individually or in combination as true multimode ionisation (e.g. APLI and APCI simultaneously). The efficiency of the individual modes was demonstrated with several standards. With this source, ionisation techniques such as ESI, APCI, APPI and APLI are available for both LC and GC. For LC, the additional multimode ionisation techniques APLI+ESI and APLI+APCI can be used. 
+APLI is a selective method for ionising non-polar aromatic compounds. On the one hand, this represents a limitation to the general applicability of the method, but on the other hand it makes it possible to ionise this class of compounds selectively in a complex matrix. Therefore ionisation labels and corresponding strategies for derivatisation were developed for LC-APLI- (TOF)MS and GC-APLI-(TOF)MS. These ionisation labels are aromatic compounds that can be detected with high sensitivity. They have an anchor group for covalent coupling with nonaromatic analytes. The derivative can then be detected sensitively by APLI. A study of REMPI spectra of several derivatives under atmospheric pressure showed that they do not differ significantly from those of the labels themselves, which indicates that the electronic proportion of the aromatic system of the derivative is not significantly influenced by the analyte. The practical application of the APLI ionisation labels was showen for LC-APLI- (TOF)MS and GC-APLI-(TOF)MS by study of a number of samples such as Brij® 72 and PEG 1000 and by the determination of the fatty acid content of vegetable oils and a technical fatty alcohol mixture.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20090039</identifier>
+                    <identifier type="sys">HT015825106</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_805</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_805">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2008/schiewek/dc0825.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_805"
+            DMDID="DMD_wuppertal_elpub_805">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_805"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

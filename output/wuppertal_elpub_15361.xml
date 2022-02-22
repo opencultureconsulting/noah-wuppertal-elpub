@@ -1,0 +1,100 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_15361">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>On Atiyah-Segal completion for Hermitian K-theory</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Rohrbach, Herman</displayForm>
+                        <namePart type="family">Rohrbach</namePart>
+                        <namePart type="given">Herman</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hornbostel, Jens</displayForm>
+                        <namePart type="family">Hornbostel</namePart>
+                        <namePart type="given">Jens</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Zibrowius, Marcus</displayForm>
+                        <namePart type="family">Zibrowius</namePart>
+                        <namePart type="given">Marcus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Rülling, Kay</displayForm>
+                        <namePart type="family">Rülling</namePart>
+                        <namePart type="given">Kay</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wendt, Matthias</displayForm>
+                        <namePart type="family">Wendt</namePart>
+                        <namePart type="given">Matthias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-10-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The Atiyah-Segal completion theorem states that the completion of equivariant complex K-theory may be computed using the Borel construction, which is a generalization of the construction of the classifying space. This thesis investigates whether there is an analogue of the Atiyah-Segal completion theorem for Hermitian K-theory, also known as Grothendieck-Witt theory. We compute the higher Grothendieck-Witt groups of the motivic classifying space of a split torus over an arbitrary field of characteristic not two. We also compute the higher Grothendieck-Witt groups of projective bundles over a divisorial base scheme for which two is an invertible global section, as well as the higher Grothendieck-Witt groups of even Grassmannians over a field of zero characteristic. These computations rely on semi-orthogonal decompositions that behave well with respect to duality. Using these results, we prove the Atiyah-Segal completion theorem for Grothendieck-Witt theory in the special case of the split torus. This completion theorem is an important first step in finding a more general Atiyah-Segal completion theorem, moreover it is likely to be a key ingredient in the proof of such a generalization.</abstract>
+                    <subject>
+                        <topic>Hermitian K-theory</topic>
+                        <topic>Grothendieck-Witt theory</topic>
+                        <topic>Atiyah-Segal completion</topic>
+                        <topic>classifying space</topic>
+                        <topic>motivic homotopy theory</topic>
+                        <topic>semi-orthogonal decomposition</topic>
+                        <topic>dg category</topic>
+                        <topic>representation theory</topic>
+                        <topic>algebraic geometry</topic>
+                        <topic>projective bundle</topic>
+                        <topic>grassmannian</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20211028-111610-2</identifier>
+                    <identifier type="doi">10.25926/q300-3d49</identifier>
+                    <accessCondition type="use and reproduction">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_15361</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_15361">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2021/rohrbach/dc2119.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_15361"
+            DMDID="DMD_wuppertal_elpub_15361">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_15361"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

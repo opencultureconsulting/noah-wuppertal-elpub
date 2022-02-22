@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_722">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Chemie und Biochemie des meta-Weges - Synthese der Intermediate des 4-Chlorcatechol-Abbaus und Analyse ihres Metabolismus</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Reifenrath, Frank</displayForm>
+                        <namePart type="family">Reifenrath</namePart>
+                        <namePart type="given">Frank</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-01-19</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Ziel dieser Arbeit war die Aufklärung des Abbaus von 4-Chlorcatechol über den meta-Weg. Durch Vergleich der analytischen Daten chemisch synthetisierter Metabolite mit denen von isolierten Intermediaten wurde deren Identität überprüft. Die Metabolite wurden benutzt, um die Substrataffinitäten und Aktivitäten der am Abbauweg beteiligten Enzyme dreier Pseudomonas putida-Stämme zu bestimmen. 
+1. Postulierte Metabolite des Catechol- bzw. 4-Chlorcatechol-Abbaus wurden durch chemische Synthese dargestellt. 
+2. Die beim Abbau von 4-Chlorcatechol über den meta-Weg auftretenden Metabolite wurden durch Umsetzung von 4-Chlorcatechol mit P. putida GJ31-Rohextrakt isoliert und charakterisiert. 
+3. Die einzelnen Schritte des meta-Weges in P. putida GJ31 und PaW1 wurden bezüglich der Substrataffinität und maximalen Enzymaktivität untersucht und so auf mögliche Engpässe analysiert. 
+4. Der beim Abbau von 4-Chlorcatechol durch P. putida WR311 auftretende Stofffluss wurde untersucht. 
+5. Die Acetaldehyd-Dehydrogenase konnte als Schlüsselenzym für den 4-Chlorcatecholabbau über den meta-Weg identifiziert werden. In den Rohextrakten von P. putida GJ31 und WR311 findet ein Umsatz von Chloracetaldehyd und Acetaldehyd durch ein Coenzym A-unabhängiges Enzym statt. Beide Stämme können 4-Chlocatechol metabolisieren. P. putida PaW1 besitzt eine Coenzym A-abhängige Acetaldehyd Dehydrogenase, die keine Aktivität für Chloracetaldehyd zeigt. Dieser Stamm ist daher nicht in der Lage, 4-Chlorcatechol zu mineralisieren.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20040590</identifier>
+                    <identifier type="sys">HT014616866</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_722</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_722">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2004/reifenrath/dc0421.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_722"
+            DMDID="DMD_wuppertal_elpub_722">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_722"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

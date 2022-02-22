@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_976">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kompakte Multimodenantennen für Kommunikationsanwendungen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Eßer, Dietmar</displayForm>
+                        <namePart type="family">Eßer</namePart>
+                        <namePart type="given">Dietmar</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-12-11</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Zur Erfüllung der Forderung nach höheren Übertragungsraten werden zunehmend Kommunikationssysteme eingesetzt, welche über Mehrfachantennen (Mehrtorantennen) auf der Sende- und/oder Empfangsseite verfügen. 
+ Möchte man Mehrfachantennen in mobile Terminals (z.B. PDA, Notebook etc.) implementieren, welche in ihren geometrischen Abmessungen stark beschränkt sind, so erweist sich das konventionelle Konzept voneinander entkoppelter Einzelantennen wegen des hohen erforderlichen Elementabstands als unbrauchbar. 
+ Deshalb wurde im Rahmen der vorliegenden Arbeit ein neuartiges Konzept für kompakte Mehrfachantennen entwickelt und anhand von Computersimulationen und Experimenten verifiziert. In diesem Konzept werden die notwendige Entkopplung der Antennentore und die Orthogonalität der zugehörigen Torrichtcharakteristiken durch Anregung verschiedener &quot;Moden&quot; auf einer gemeinsamen Antennenstruktur realisiert, wodurch eine enorme Platzersparnis gegenüber dem konventionellen Konzept erreicht wird. 
+ Weiterhin wurden aufbauend auf dem vorgestellten Konzept der so genannten Multimodenantennen Möglichkeiten zum Umschalten (Rekonfigurierbarkeit) der Mehrfachantennen zwischen verschiedenen Zuständen erarbeitet, in denen jeweils ein anderer Satz von orthogonalen Torrichtcharakteristiken zur Verfügung steht. Hierdurch eröffnet sich in Kommunikationssystemen die kostengünstige Möglichkeit der Kombination von digitaler Array-Signalverarbeitung mit Schaltdiversität.</abstract>
+                    <abstract type="content" lang="eng">In order to meet the demand for higher data rates, communication systems providing multiple antennas (multi-port antennas) at transmitter and/or receiver are increasingly used. 
+ If multiple antennas are to be implemented in mobile communication terminals (PDA, notebook, etc.) with severe size restrictions the conventional concept of decoupled antenna elements fails due to the necessary large element spacing. 
+ Therefore, a novel concept for compact multi-port antennas was developed and verified by means of computer simulations and experiments. In this concept the required decoupling of antenna ports and orthogonality of the corresponding port patterns is achieved by exciting different &quot;modes&quot; sharing a common geometrical structure. In comparison with the conventional concept this results in a significant saving of space. 
+ Further on, based on the presented concept of multi-mode antennas, methods for switching (reconfiguration) of multiport-antennas between different states were developed. Each state provides a set of mutually orthogonal port patterns. This offers a hybrid solution, where digital array processing and switched diversity are combined in a cost-effective way.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20060582</identifier>
+                    <identifier type="sys">HT014935379</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_976</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_976">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2006/esser/de0603.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_976"
+            DMDID="DMD_wuppertal_elpub_976">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_976"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

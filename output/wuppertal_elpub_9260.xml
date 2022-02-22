@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9260">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Optimization of the CBM-RICH detector geometry and its use for the reconstruction of neutral mesons using conversion method</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kres, Ievgenii</displayForm>
+                        <namePart type="family">Kres</namePart>
+                        <namePart type="given">Ievgenii</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-04-08</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The reconstruction of photons is an essential task for modern heavy ion experiments, since they are emitted during the entire space-time evolution of the colliding system and they leave the medium unaffected. Reconstructed photons allow experimentalists to explore every single step of such an evolution. Since years the conversion analysis method is applied in modern experiments as ALICE or CMS to reconstruct particles decaying into photons. The obtained results show better resolution of particle reconstruction than direct measurements, but with much smaller efficiency. The large geometrical acceptance of the CBM detector allows to reconstruct particles decaying in photons as well.
+ There are two main sources of photons in heavy ion collisions: π⁰ and η mesons. Those particles give the major background contribution to the measurements of rare dilepton decays of ρ, ω, and J= ψ , therefore it is very essential to reconstruct them with high precision.
+ The CBM-RICH detector is the main tool for the electron identification. Therefore, in this work, a geometry optimization of the RICH detector in the CBM experiment is studied first. In order to improve the electron identification of the converted lepton pairs a new cylindrically shaped geometry is proposed. The performance of the proposed geometry is compared to the default geometry using simulation of dilepton channels of ρ and ω mesons as signal events and π⁰ decays as background events.
+ By using this proposed geometry the reconstruction efficiency of π⁰ and η mesons using conversion analysis of photons with conversion in the target and in the detector material is studied. Different cut values for particle reconstruction are discussed and the most suitable cuts are suggested. Later on, obtained π⁰ results are tested in order to extract the slope parameter from the transverse momentum spectrum of reconstructed particles. Received results are compared to the expected value from the UrQMD generator.
+ The reconstruction of η mesons using double conversion method requires data sample of large statistics. Due to the limited storage space, one can not manage sufficient statistics using the present simulation software framework. In this work several alternative ways of simulation are considered, which allow users to get high statistics simulation in conditions with a limited storage space. The obtained results from the η analysis show the ability of the CBM experiment to reconstruct η mesons via double conversion method from central Au+Au collisions.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20190408-114416-1</identifier>
+                    <identifier type="sys">HT020031062</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9260</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9260">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2019/kres/dc1903.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9260"
+            DMDID="DMD_wuppertal_elpub_9260">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9260"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

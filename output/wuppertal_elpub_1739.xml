@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1739">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Trag- und Verformungsverhalten großflächig gegründeter Stahlbetontragwerke unter Berücksichtigung der Boden-Bauwerk-Interaktion</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Stopp, Kirsten</displayForm>
+                        <namePart type="family">Stopp</namePart>
+                        <namePart type="given">Kirsten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Für eine wirklichkeitsnahe Abbildung der Boden-Bauwerk-Interaktion bei der Berechnung großflächig gegründeter Tragwerke wurde ein ganzheitliches numerisches Modell entwickelt, mit welchem sowohl die Bauwerks- als auch die Bodensteifigkeit in einer Ein- Schritt-Berechnung berücksichtigt werden kann. Iterative Berechnungsschritte wie beim Bettungsmodulverfahren entfallen hiermit. Im Zuge einer räumlichen Modellierung können nun unter Einbeziehung des Überbaus und des nichtlinearen Bodenverhaltens die gegenseitigen Einflüsse untersucht und quantifiziert werden. Zur Validierung des Modells wurde ein Messprogramm entwickelt, welches die Spannungen und Verformungen in der Bodenplatte und im Baugrund eines großen Kraftwerksfundaments aufzeigt. Hierdurch konnten zusätzlich neue Einblicke in die Zwangbeanspruchung massiger Bodenplatten infolge saisonaler Temperaturbeanspruchungen gewonnen werden.</abstract>
+                    <abstract type="content" lang="eng">For a realistic simulation of the soil-structure-interaction of large-scale founded structures a holistic model was developed, which considers both the stiffness of the structure and the stiffness of the soil in a one-step calculation. Iterative calculation steps which are needed for the modulus of subgrade reaction can be omitted. In the course of a three-dimensional modeling the reciprocal influences can be analysed and quantified under consideration of the superstructure and non-linear soil behaviour. To validate the model a monitoring programme for an extremely large power plant foundation slab was developed, which identifies the stresses and deformations in the foundation slab and the subsoil. Hereby, additionally new insight into restraint stresses of massive slabs caused by seasonal temperature changes has been obtained.</abstract>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Architektur und Bauingenieurwesen » Bauingenieurwesen"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20101217-161550-6</identifier>
+                    <identifier type="sys">HT016665224</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1739</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1739">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/bauingenieurwesen/diss2010/stopp/dd1006.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1739"
+            DMDID="DMD_wuppertal_elpub_1739">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1739"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

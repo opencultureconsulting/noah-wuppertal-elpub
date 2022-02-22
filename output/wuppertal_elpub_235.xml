@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_235">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Verifizierte Einschließung der kritischen Last beim Knicken schwerer Gestänge.</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schwarber, Olaf</displayForm>
+                        <namePart type="family">Schwarber</namePart>
+                        <namePart type="given">Olaf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1999-04-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die vorliegende Dissertation greift einen Artikel von Friedrich A. Willers aus dem Jahr 1941 auf, in dem das Knickverhalten schwerer Gestänge unter Berücksichtigung des Eigengewichtes beschrieben wird. Die Dissertation schafft eine solide mathematische Grundlage zur Behandlung von vier in dem Willersschen Artikel behandelten Eigenwertproblemen. Diese Eigenwertprobleme modellieren die Fälle des oben und unten drehbar gelagerten, des unten drehbar gelagerten und oben eingespannten, des unten eingespannten und oben drehbar gelagerten sowie des oben und unten eingespannten, senkrecht hängenden Gestänges, auf das jeweils am unteren Ende eine Druckkraft wirkt. Weiterhin wird ein funktionalanalytischer Rahmen abgesteckt, der es ermöglicht, die geschilderten Eigenwertprobleme Einschließungssätzen zugänglich zu machen. Im numerischen Teil wird schließlich mit Hilfe von Intervallarithmetik eine verifizierte Einschließung des kleinsten Eigenwertes für jedes der vier diskutierten Eigenwertprobleme berechnet. Hierauf aufbauend kann bei bekannten Materialdaten eine verifizierte Einschließung für die kritische Last ermittelt werden.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-19990029</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_235</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_235">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-328/d079901.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_235"
+            DMDID="DMD_wuppertal_elpub_235">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_235"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

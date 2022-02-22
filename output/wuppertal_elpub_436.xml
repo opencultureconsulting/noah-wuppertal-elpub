@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_436">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Experimentelle Bestimmung von städtischen Emissionen anhand von Konzentrationsmessungen im Lee einer Stadt</title>
+                        <subTitle>Untersuchungen zum Beitrag verschiedener Quelltypen und Vergleich mit einem Emissionsberechnungsmodell</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mannschreck, Katja</displayForm>
+                        <namePart type="family">Mannschreck</namePart>
+                        <namePart type="given">Katja</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-02-06</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">For the evaluation of an emission inventory measurements of specific trace gases downwind of the city of Augsburg were performed during two field campaigns in March and October 1998. These long-term ground based measurements were part of an integrated experiment (EVA-Experiment) which also included airborne measurements and tracer experiments on some selected days (intensive phases). From the long-term measurements the composition of the urban emissions was determined taking into account mixing with background air masses and chemical degradation during transport from the emission source to the measurement site. The data were analysed with respect to differences between the two campaigns and between weekdays and weekends. The composition of emission sources was investigated. The results were compared with the results of an emission inventory with the aim to assess the correctness and to determine the uncertainties of the inventory. 
+The composition of the hydrocarbon mixture varies significantly between weekdays and weekends resulting in a higher mean reactivity with respect to ozone formation on weekdays than on weekends. In October the contribution of aromatics is higher than in March whereas the contribution of C₂-C₄-alkanes is lower. 
+HCᵢ/NOₓ- and HCᵢ/CO-ratios are lower in March than in October which is mainly due to higher CO- and NOₓ-emissions in March. 
+The comparison of the measured hydrocarbon mixture with clearly traffic dominated measurements shows that the prevailing source of hydrocarbon emissions is traffic. In contrast the contribution of solvent emissions is small. 
+For the intensive phases in October calculated and measured absolute CO-emissions agree within the uncertainty ranges. For March the model tends to underestimate both parameters. 
+Considering only hydrocarbons, which can be specified by the emission model, calculated and measured composition of hydrocarbon mixtures as well as HCᵢ/NOₓ-ratios agree rather well. These specified compounds are mainly due to traffic emissions. However, the differences in the composition of hydrocarbon mixtures between March and October are not found by the emission model. 
+The percentage of hydrocarbons specified by the emission model is only between 50 and 60 % of the hydrocarbons which are detectable by the used GC-System and included in the results. Considering these additional hydrocarbon emissions, which are exclusively due to solvent use, calculated HCᵢ/NOₓ- and HCᵢ/CO-ratios (ppbC/ppb) are up to a factor of 3 higher than measured ones. 
+The most important result from the evaluation of the emission model by the measurements is that the model overpredicts the contribution of solvent emissions by far whereas traffic emissions are underestimated. 
+The effects of the discrepancies between experimentally determined and calculated emissions were investigated with a photochemical boxmodel. The ozone production in the case of modelled emissions was almost a factor of two higher than in the case of measured emissions. This shows that shortcomings in emission inventories lead to incorrect predictions of ozone concentrations. Since it was shown that Augsburg is a typical German city with respect to its emissions the results obtained within this work can be generalised.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20010116</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_436</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_436">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-531/d090025.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_436"
+            DMDID="DMD_wuppertal_elpub_436">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_436"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

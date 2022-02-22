@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1384">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Ein </nonSort>
+                        <title>neuer Zugang zum Sine-Gordon-Modell und Korrelationsfunktionen der massiven XXZ-Kette</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Trippe, Christian</displayForm>
+                        <namePart type="family">Trippe</namePart>
+                        <namePart type="given">Christian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In der vorliegenden Arbeit werden thermodynamische Eigenschaften und statische Korrelationsfunktionen eindimensionaler Quantensysteme, die in Beziehung zum Sechs-Vertex-Modell der Statistischen Mechanik stehen, untersucht.
+ Im ersten Teil wird eine alternative, auf dem Sechs-Vertex-Modell beruhende Gitterregularisierung des Sine-Gordon- bzw.\ des dazu äquivalenten massiven Thirring-Modells entwickelt. Dieses Verfahren erlaubt es, Transfermatrizen sowohl mit reeller als auch mit imaginärer Zeit zu behandeln. Daraus ergibt sich ein alternativer Zugang zur Thermodynamik mit Hilfe der Quantentransfermatrix, der auch für die Bestimmung von Korrelationsfunktionen bei endlichen Temperaturen geeignet ist. Für das Gittermodell werden nichtlineare Integralgleichungen zur Berechnung der freien Energie hergeleitet. Im Kontinuumslimes gehen diese in die bekannten Gleichungen für das Sine-Gordon-Modell über. Des Weiteren wird für das Gittermodell eine Vielfachintegraldarstellung für eine erzeugende Funktion von Korrelationsfunktionen hergeleitet. Der Kontinuumslimes am Punkt freier Fermionen führt auf eine Verallgemeinerung einer bekannten Fredholm-Determinanten-Darstellung auf endliche Temperaturen.
+ Im zweiten Teil werden temperatur- und magnetfeldabhängige Korrelationsfunktionen der massiven XXZ-Kette bei kurzen Abständen explizit berechnet. Die Rechnungen beruhen auf dem kürzlich entdeckten Phänomen der Faktorisierung der Korrelationsfunktionen der XXZ-Kette. Faktorisierung bedeutet, dass alle Korrelationsfunktionen polynomial von speziellen Ein- und Nachbar-Zweipunktfunktionen eines verallgemeinerten Modells abhängen. Für letztere gab es im massiven Bereich des Phasendiagramms keine numerisch effiziente Formulierung. In der vorliegenden Arbeit werden die entsprechenden linearen und nichtlinearen Integralgleichungen hergeleitet und für den gesamten massiven Bereich des Phasendiagramms numerisch ausgewertet. Im Grenzfall großer Anisotropie stellt sich der magnetfeldgetriebene Phasenübergang der klassischen Isingkette als Tripelpunkt des quantenmechanischen Systems dar. Die exponentiell hohe Entartung der Isingkette wird durch quantenmechanische Restwechselwirkungen aufgehoben. In der Arbeit wird die Umgebung des Tripelpunkts zum einen exakt, zum anderen mit Hilfe entarteter Störungsrechnung untersucht. Die Betrachtung des effektiven Hamiltonoperators aus der Störungsrechnung gestattet es, das Skalenverhalten in der Nähe des Tripelpunkts zu verstehen und damit die Integralgleichungen im Limes analytisch zu lösen. Dies resultiert in expliziten Ergebnissen für die Korrelationsfunktionen bei kurzen Abständen in der Nähe des Tripelpunkts.</abstract>
+                    <abstract type="content" lang="eng">This thesis is about the thermodynamical properties and static correlation functions of one-dimensional quantum systems related to the six-vertex model of statistical mechanics.
+ In part one an alternative lattice regularization of the Sine-Gordon model or, equivalently, the massive Thirring model is developed, which is based on the six-vertex model. Within the novel approach it is possible to deal with transfer matrices with real as well as with imaginary time. This opens the way to treat the thermodynamics by means of the quantum transfer matrix formalism and to study correlation functions at finite temperature. For the lattice model non-linear integral equations for the calculation of the free energy are derived. In the continuum limit they turn into the known integral equations for the Sine-Gordon model. In addition a multiple integral representation for a generating functions of correlation functions is obtained for the lattice model. Its continuum limit at the free fermion point results in a generalization of a known Fredholm determinant representation to finite temperature.
+ In part two temperature and magnetic field dependent correlation functions of the massive XXZ chain are calculated for short distances. The calculations are based on the phenomenon of factorization discovered recently. Factorization means that all correlation functions depend polynomially on special one-point and neighbour-two-point functions of a more general model. For these correlation functions no numerically efficient formulae for the massive part of the phase diagram were known. In this thesis the required linear and non-linear integral equations are derived and evaluated in the whole massive regime of the phase diagram. The phase transition of the Ising chain occurring at zero temperature as a function of the magnetic field is a triple point in the full phase diagram of the XXZ chain, located at infinite anisotropy. Close to the triple point the large degeneracy of the ground state is lifted by quantum fluctuations. In the thesis the vicinity of the triple point is studied on the one hand by means of the exact solution and on the other hand by means of degenerate perturbation theory. By analysis of the effective Hamiltonian obtained perturbatively the scaling behaviour close to the triple point is obtained and used to solve the integral equations of the exact solutions explicitly in the limit. This leads to explicit results for short-range correlation functions in the scaling limit close to the triple point.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20100266</identifier>
+                    <identifier type="sys">HT016394562</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1384</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1384">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1481/dc1003.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1384"
+            DMDID="DMD_wuppertal_elpub_1384">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1384"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

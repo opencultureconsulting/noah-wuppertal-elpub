@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_15120">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="spa">
+                        <title>El entramado del techo de cristal: una revisión y sus causas en seis espacios de poder</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lopez Rangel, Maricruz</displayForm>
+                        <namePart type="family">Lopez Rangel</namePart>
+                        <namePart type="given">Maricruz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Imbusch, Peter</displayForm>
+                        <namePart type="family">Imbusch</namePart>
+                        <namePart type="given">Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-08-25</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">spa</languageTerm>
+                    </language>
+                    <abstract type="content" lang="spa">Las mujeres representan más de la mitad de la humanidad a nivel global y en ningún país viven en igualdad de condiciones que los hombres. Ellas tampoco ostentan el poder, son sistemáticamente obstaculizadas y excluidas de la toma de decisiones, espacios donde se define el bienestar social, político y económico de una nación. En la investigación se realizó una revisión de los periodos ilustrado, sufragista y contemporáneo del feminismo. Bajo esa perspectiva es posible comprender los factores que producen la infrapresencia de las mujeres en la toma de decisiones. El presente trabajo plantea la teoría del entramado del techo de cristal, el cual deben enfrentar, en su gran mayoría, las mujeres durante la trayectoria laboral. También, en el documento se presentan historias de vida de la experiencia laboral de mujeres importantes y representativas de los ámbitos político, económico, del saber, los medios de comunicación, la creatividad y de la religión en el contexto alemán. Finalmente, los resultados de la investigación describen las circunstancias que las mujeres, normalmente, han enfrentado a lo largo de su vida para ocupar y mantenerse en espacios de poder.</abstract>
+                    <classification authority="ddc">300</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Human- und Sozialwissenschaften » Soziologie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20210825-091733-7</identifier>
+                    <identifier type="doi">10.25926/pc6v-k348</identifier>
+                    <identifier type="sys">HT021073556</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_15120</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_15120">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbg/soziologie/diss2021/lopezrangel/dg2103.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_15120"
+            DMDID="DMD_wuppertal_elpub_15120">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_15120"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

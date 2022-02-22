@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3814">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Search for Relativistic Magnetic Monopoles with the IceCube 40-String Detector</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Posselt, Jonas</displayForm>
+                        <namePart type="family">Posselt</namePart>
+                        <namePart type="given">Jonas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This thesis concerns the search for relativistic magnetic monopoles using data taken in 2008/2009 with the partially completed IceCube detector. The outline of this work is as follows: Chapter 2 provides the theoretical background of magnetic monopoles and their interaction with with matter. Chapter 3 introduces the IceCube detector, followed by a description of the signatures of both signal and background events in Chapter 4. In Chapter 5 an overview of the simulated data used for the analysis and its generation is given. Chapters 6 and 7 then summarize the variables and cut conditions applied in the analysis. Systematic uncertainties are discussed in Chapter 8. The final results are presented in Chapter 9 followed by some concluding remarks in Chapter 10.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20131212-124903-6</identifier>
+                    <identifier type="sys">HT018113196</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3814</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3814">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2013/posselt/dc1315.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3814"
+            DMDID="DMD_wuppertal_elpub_3814">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3814"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

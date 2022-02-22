@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_971">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Numerische Strömungssimulation in 13,56 MHz-Hohlkathoden-Plasmajet-Plasmaquellen für Oberflächenprozesse</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schaffert, Volker</displayForm>
+                        <namePart type="family">Schaffert</namePart>
+                        <namePart type="given">Volker</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004-06-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Leistungsfähigkeit von Plasmaquellen für die Materialwissenschaft /-technologie wird nach heutigem Stand der Technik bevorzugt auf der Basis der elektrischen Leistungsbilanz bewertet. Dieses Vorgehen impliziert jedoch eine homogene Gasströmung bei gleichzeitig fester Residenzzeit von Primär-Gaspartikeln im plasmaanregenden Volumen. Eine derartige Annahme ist aber unzureichend und realitätsfern. Die daraus resultierenden Schwierigkeiten werden besonders deutlich bei sich ändernden Betriebsparametern der Quellen, sich ändernden Lastzuständen (Beladungen mit Substraten) und generell bei der geometrischen Skalierung.
+ Mehr noch: Ziel muss sein, das gesamte Plasmasystem, welches die plasmaerzeugenden Komponenten, die Monomerzuführungen und die Targetgeometrien als Subsysteme enthält, zu berücksichtigen. Sowohl die elektrische Leistungseinkopplung mit dem Plasma als Last als auch die gleichzeitig präsente druck- und geometrieabhängige Gasströmung im Gesamtsystem sind simultan zu berücksichtigen.
+ Am Beispiel der im Wuppertaler Forschungszentrum für Mikrostrukturtechnik fmt entwickelten und technologisch relevanten 13,56 MHz Hohlkathoden-Plasmajet-Plasmaquellen HCD-L300 (lineare Quellenform) und P100 (planare Quellenform) sind erste Schritte in dieser Richtung, i.e. einer umfassenden Feld- und Strömungssimulation gegangen worden. Durch diese Simulationen konnte eine bessere Basis für die Konzeption leistungsfähiger Plasma- und Radikalenquellen bei gleichzeitiger Berücksichtigung des gesamten Prozessraumes in einem ausgedehnten Arbeitsdruckbereich erhalten werden.
+ In arbeitsmethodischer Reihenfolge umfasste dies die Implementierung des verwendeten CFD-Programmpakets FLUENT (Fa. Fluent.Inc., Lebanon, NH, USA) zur Strömungssimulation sowie verschiedene Preprozessoren zur Gittererzeugung (ICEM-CFD, I-DEAS und Pro Engineer).
+ In weiteren Schritten wurden die lineare Plasmaquelle HCD-L300 sowie die planare Plasmaquelle HCD-P100 im Rechner generiert und strömungsmechanisch untersucht. Mittels einfacher Geometrieanpassungen und -änderungen konnten diese Quellen strömungs- und porzesstechnisch optimiert werden. Zum Abgleichen der numerisch gewonnenen Ergebnisse wurden die Plasmaquellen mit Hilfe einer Hitzedraht-Anemometrie vermessen und die so messtechnisch gewonnenen Daten mit denen der Simulationen verglichen.
+ Im nächsten Schritt wurden die lineare Plasmaquelle bzw. die planare Plasmaquelle in die dazugehörenden Vakuumkammern eingebracht und die entstandenen Gesamtsysteme strömungstechnisch untersucht. Dazu wurden die Strömungen im Gesamtsystem mit verschieden Targetgeometrien (Wafer, Folie, komplexe 3-D Geometrie) untersucht. Weiter wurden in diesen Gesamtsystemen verschiedene Monomerzuführungen realisiert und der Einfluss dieser Sekundärströmungen auf die Hauptströmungen untersucht.
+ Von grossem Interesse ist jedoch nicht nur die Strömung im Plasmasystem sondern die ablaufenden chemischen Prozesse (Plasmareaktionen und Prozessreaktionen) im gesamten Prozessvolumen. Die Berücksichtigung dieser chemischen Reaktionen bei der Strömungssimulation kann unter Betrachtung des Plasmas als chemisch reagierende Gasströmung realisiert werden. Die direkte Implementierung der chemischen Reaktionen in dem komplexen System der HCD-L300 war aufgrund sehr langer Rechenzeiten, Speicherplatz- und numerischer Konvergenzproblemen nicht sofort möglich. Deshalb wurde in einem weiteren Schritt eine Modellanlage strömungstechnisch optimiert, simuliert und für experimentelle Abgleiche aufgebaut.
+ Mit Hilfe dieser 2-D modellierten Modellanlage zur Beschichtung mit C₄ F₈ -Monomeren bzw. Silan-Monomeren (Si H₄) wurde die komplexe Prozesschemie einer Siliziumabscheidung aus Silanen bei der Strömungssimulation berücksichtigt. Da die Modellanlage sehr flexibel gestaltet wurde, konnten hier auch Parameterstudien zur Gasführung, elektrischen Leistungseinkopplung und Abscheidung simuliert und simultan experimentell nachgestellt werden.
+ Mit den aus der Modellanlage gewonnenen Erkenntnissen konnte die Prozesschemie einer Siliziumabscheidung aus Silanen auf die Plasmasysteme der HCD-L300 bzw. HCD-P100 übertragen werden. Die somit numerisch ermittelten Abscheideraten auf den jeweiligen Targetgeometrien zeigten sehr gute Übereinstimmungen mit experimentell ermittelten Daten. Schon die Berücksichtigung einzelner Prozessreaktionen zeigt deutlich die Notwendigkeit dieses breiten Modellansatzes zum Verständnis der ablaufenden Prozesse und zur Entwicklung leistungsfähiger Plasmaquellen und -systemen.</abstract>
+                    <abstract type="content" lang="eng">Today, the efficiency of plasma sources for material science and technology is prefered appraised at the base of electrical balance of power. This procedure implies a homogeneous gas flow with concurrently fix residence time of primary gas particles in the plasma animated volume. Such an assumption is insufficient and not close to reality. The resulting problems are especially obvious on changing operating parameters of the sources, changing load conditions (substrate charge) and generally geometrical upscale.
+ And more, the designation has to be, to consider the total plasma system which contains the plasma generating components as subsystems. Both, the electrical power input with the plasma as load and the concurrently present pressure and geometrical dependent gas flow in the system at all, has to be considered simultaneously. For the further development of plasma sources and systems more informations about is specific gas flow is needed.
+ At the microstructure technology research center in Wuppertal (fmt), technological relevant 13,56 MHz hollow cathode plasma jet plasma sources HCD-L300 (lineare type) and HCD-P100 (planare type) were developed. This types of plasma sources were investigated by enclosing electrical field and flow simulations. By the use of this simulations, a better basis for design of effective plasma sources could be received.
+ The first step was the implementation of the CFD package FLUENT for the flow simulation and the preprocessors for the meshes (ICEM-CFD, I-DEAS und Pro Engineer) at the fmt. In further steps, the plasma sources HCD-L300 and HCD-P100 were generated in the computer and investigated fluidic. Therefor the plasma systems were generated with different target geometries and different monomer feeders. In this complex systems, the influence of the primary and secondary flow were investigated simultaneously.
+ Very interesting is the consideration of plasma- and process chemistry in the flow simulation. For this consideration, the plasma is realized as a &quot;chemical reacting flow&quot; model. The direct implementation of this chemical reacting flow in the CFD simulation of the complex plasma systems HCD-L300 or HCD-P100 are very difficult because there are long calculation times, huge memory requirements and some numerical problems to handle. In a further step, a modeled plasma device were optimized fluidic and build up for further simulations and experiments.
+ With this 2-D modeled plasma device, the plasma and process chemistry of a silicon deposition were considered in flow simulation. This modeled plasma device was build up very flexible for the investigation of parameter studies like gas leading or electical field input. The simulations are verified with experimental datas.
+ With this &quot;know how&quot;, received by this modeled plasma device, the chemistry of the silicon deposition could be transfered to the complex plasma systems HCD-L300 and HCD-P100. The comparison of the simulation datas with the experimental datas showed a very good conformity.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20040309</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_971</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_971">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1077/de0403.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_971"
+            DMDID="DMD_wuppertal_elpub_971">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_971"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6160">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Measurement of electroweak W + Jets Production and Search for anomalous Triple Gauge Boson Couplings with the ATLAS Experiment at √ s = 8TeV</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Fischer, Julia</displayForm>
+                        <namePart type="family">Fischer</namePart>
+                        <namePart type="given">Julia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die vorliegende Arbeit untersucht die Produktion von W-Boson durch Vektor-Boson-Fusion (VBF) in Assoziation mit Jets und wurde im Rahmen des ATLAS Experiments am Large Hadron Collider (LHC) des europäischen Kernforschungszentrum CERN in Genf angefertigt. 
+ Im VBF Prozess treten ausschließlich elektroschwache Wechselwirkungen auf, daher ist die Wahrscheinlichkeit dieses Prozesses stark unterdrückt. Neben dem Produktionswirkungsquerschnitt wird in der vorliegenden Arbeit auch die Kopplung am Drei-Bosonen-Vertex (WWZ) untersucht. Diese Kopplung bietet einen guten Zugang zur Physik jenseits des Standardmodells. Ein wichtiger Punkt der Arbeit ist die Optimierung des Ereignisselektion, um die seltenen Signalereignisse von dem großen Untergrund zu separieren. Darüber hinaus wurde eine daten-basierte Abschätzung für den Untergrund, bestehend aus mehreren Jets, entwickelt.
+ Ein weiterer wichtiger Punkt ist die Evaluation der Unsicherheiten der Messung. Hier wurde sowohl die Unsicherheit der theoretischen Vorhersagen, als auch der experimentellen Durchführung betrachtet. Der gemessene Produktionswirkungsquerschnitt stimmt im Rahmen der Unsicherheiten mit der theoretischen Vorhersage überein.
+ Die Untersuchung der Kopplung am Drei-Bosonen-Vertex zeigt keinen Hinweis auf Abweichungen von der bekannten Physik des Standardmodells.</abstract>
+                    <abstract type="content" lang="eng">This thesis presents the measurement of the W Boson production via Vector Boson Fusion (VBF) in association with jets. The measurement was done in cooperation with the ATLAS experiment built at the Large Hadron Collider (LHC) located at the European Center of Nuclear Research (CERN) in Switzerland. 
+ The production of a W boson in association with jets via VBF contains only electroweak interaction and is therefore suppressed. Besides the measurement of the cross section of the VBF process it is also possible to study the couplings at the vertex with three vector bosons (WWZ). This coupling allows direct access to physics beyond the known physics of the Standard Model.
+ One main point of this thesis is the optimisation of the event selection that allows to separate the rare signal events from the large backgrounds. Furthermore, a data-driven technique was developed to estimate the background originating from events with many jets. Another important point is the evaluation of the uncertainties of the measurements, taking into account uncertainties from theory as well as from experimental sources. 
+ The measured production cross section agrees with the theoretical prediction within the uncertainties. The couplings at the three boson vertex show no hint for physics beyond the Standard Model.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20160913-112619-0</identifier>
+                    <identifier type="sys">HT019100827</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6160</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6160">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2016/fischer/dc1620.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6160"
+            DMDID="DMD_wuppertal_elpub_6160">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6160"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

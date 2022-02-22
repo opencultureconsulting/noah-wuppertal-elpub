@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_4890">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Entstehung der Pfadabhängigkeit – Eine Analyse zu strategischen Entscheidungsprozessen in Organisationen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Heller, Tobias</displayForm>
+                        <namePart type="family">Heller</namePart>
+                        <namePart type="given">Tobias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Unternehmen sind kontinuierlich mit komplexen Entscheidungen konfrontiert. Die Herausforderung aus einer Vielfalt von Handlungsalternativen die bestmögliche Entscheidung für ein Unternehmen zu wählen, ist eine alltägliche Managementaufgabe. Der Entscheidungsprozess eines Unternehmens sollte sich idealerweise auf betriebswirtschaftliche Kennzahlen stützen, um so den bestmöglichen Pfad für das Unternehmen einzuschlagen. Dennoch stellt sich die Entscheidungsfindung für einen scheinbar wohlüberlegten, konkurrenzlosen Pfad selten als einfach oder routinemäßig heraus. Auch rationale Entscheidungen können zu ineffizienten Resultaten und suboptimalen Ergebnissen einer Organisation führen (Kahneman, 2011; Tversky &amp; Kahneman, 1981). Es stellt sich daher die Frage: Wie und warum schlagen Unternehmen Pfade ein, die ineffizient oder sogar nachteilig für den strategischen Wettbewerb sind? Eine schnelle Antwort darauf ist: Die Umwelt und die Entscheidungskomplexität sind schlicht zu umfangreich, um alle Möglichkeiten und Konsequenzen eines strategischen Plans vollständig zu überblicken. Aber auch in vermeintlich überschaubaren Situationen können sich ineffiziente Entscheidungen durchsetzen: Organisationen schlagen dysfunktionale Pfade ein. Es bleibt daher die Frage, wie fehlerhafte Entscheidungen, Ineffizienzen und Unternehmenskrisen entstehen und wie sich suboptimale Entscheidungen allmählich in einer Unternehmensstruktur verfestigen. Im Fokus der Fragestellung stehen selbstverstärkende Mechanismen, die im Rahmen der Organisationstheorie auf individueller, organisatorischer und branchenbezogener Ebene kategorisiert werden.</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20150602-085237-2</identifier>
+                    <identifier type="sys">HT018668842</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_4890</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_4890">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2014/heller/db1403.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_4890"
+            DMDID="DMD_wuppertal_elpub_4890">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_4890"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

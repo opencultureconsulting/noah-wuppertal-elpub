@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5560">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Cosmic Rays and the Atmospheric Electric Field - Reconstruction and Data Analysis of Radio Emission from Air Showers at the Auger Engineering Radio Array</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Neuser, Jens</displayForm>
+                        <namePart type="family">Neuser</namePart>
+                        <namePart type="given">Jens</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Cosmic rays have been investigated by scientists from all over the world for more than a century now. However, still some fundamental questions could not be answered to full detail. Where do they originate from? How are they accelerated to the highest energies? Measuring cosmic ray properties like particle flux, arrival directions and chemical composition is a key component on the road towards a better understanding of the high energy Universe and solving the remaining mysteries of cosmic rays. The Pierre Auger Observatory, located in Argentina, is dedicated to research this topic. It has been designed to measure extensive air showers induced by primary particles with energies above 1 EeV and provides high quality data at the same time with unprecedented statistics by combining the most advanced detection techniques with a large exposure. The experiment is applying a hybrid approach with a surface detector to measure the secondary particles and deduce their lateral distribution and an optical detector for the longitudinal shower development via the detection of fluorescence light. In addition, the synergy of these techniques reduces systemic uncertainties and allows an improved reconstruction of shower parameters by cross-checking the gathered information. A new detector type was added with the deployment of the Auger Engineering Radio Array, utilizing a method, which has experienced rediscovery in the last decade. Measuring the radio emission of air showers in the MHz range can provide further and especially complementary information of the incoming primary particle. After an extended R&amp;D phase used for the testing of different hardware, the detector array started data-taking in 2010 and has been operated continuously since then. Beside several achievements in the technological compartment, also first physical results have been published in the recent years. This has led to a much more detailed understanding, particularly on the underlying mechanisms of the emitted radiation. This work is mainly focused on the development of a standardized reconstruction environment for the data recorded with the radio detector. It is focused on the improvements with respect to algorithms and parameters that have been made inside this procedure. Furthermore, the influence of the external atmospheric field on the amount of radiated emission and its properties will be investigated.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20160205-112223-7</identifier>
+                    <identifier type="sys">HT018946337</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5560</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5560">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2015/neuser/dc1533.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5560"
+            DMDID="DMD_wuppertal_elpub_5560">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5560"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

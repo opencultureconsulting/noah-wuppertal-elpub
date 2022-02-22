@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_986">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Rapid Prototyping System for Control of Inverters and Electrical Drives</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Szczupak, Pawel</displayForm>
+                        <namePart type="family">Szczupak</namePart>
+                        <namePart type="given">Pawel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-12-09</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Heutzutage werden in akademischen Labors DSP Lösungen für die Entwicklung von Regelungsmethoden verwendet. Diese Systeme haben sehr kleine Latenzzeiten und eine ausgezeichnete Rechenleistung. Der Hauptnachteil eines solchen Systems sind die hohen Anschaffungskosten. Vor allem das entsprechende Software-Paket zur Programmierung ist meistens teurer als die dazugehörige Hardware. Für ein akademisches Labor stellt dies ein gravierendes Problem dar und nur wenige Laborarbeitsplätze können mit einem solchen System ausgerüstet werden. Ein weiteres Problem gibt es im Bezug auf die begrenzten Erweiterungsmöglichkeiten des DSP-Systems. Der Benutzer hat nur eine begrenzte Anzahl von PWM Ausgängen und A/D-Wandlern, was diese Systeme weniger flexibel für die Forschung macht. Dazu kommt noch begrenze Speichermenge. Es ist nicht einfach sie zu erweitern, oder gar nicht möglich. Das macht die DSP-Systeme unbrauchbar in Projekten, wo komplizierte mathematische Gleichungen mit vielen Variablen zu rechnen sind. Folglich gibt es den Bedarf, eine bessere Lösung zur Verfügung zu stellen. Die Idee ist, ein PC/104 basierendes System zu benutzen, das Echtzeitfähig ist. Der PC/104 ist in der Industrie weit verbreitet und somit können akademische Projekte direkt in industrielle Projekte implementiert werden. Das System verfügt über ein sehr großes Speicherbereich und der Prozessor ist leistungsfähig genug um viele Regelungsroutinen mit Fließkommazahlen zu berechnen. Für das Echtzeitsystem wird ein kostenfreies Linux System mit einer RTAI (Real-Time Application Interface) Erweiterung verwendet. Da das Linux System multitaskingfähig ist, ist es möglich die Regelungssoftware mit Hilfe von einem anderen Programm zu kontrollieren (Graphische Benutzeroberfläche). In dieser Arbeit werden das vorgeschlagene System und einige Anwendungsbeispiele dargestellt. Die Beispiele zeigen die Nutzung des Systems in an dem Lehrstuhl für Elektrische Maschinen und Antriebe durchgeführten Projekten. Zu diesen gehören: eine sensorlose Regelung eines rückspeisefähigen Gleichrichters, eine sensorlose Regelung eines PMSM Antriebs und eine Antriebs-Regelung mit Hilfe von prädiktiver Regelung. Die Beispiele zeigen, dass das PC/104 System erlaubt eine on-line Kontrolle der Regelungssoftware, eine schnelle Gleichungsberechnung und eine schnelle Bearbeitungsmöglichkeit von großen Datenmengen. Das beweist, dass das PC/104 System in einem Forschungslabor zu den meistverbreiteten DSP-Lösungen ein konkurrenzfähiges System ist.</abstract>
+                    <abstract type="content" lang="eng">Nowadays in academic laboratories DSP-based solutions are used for developing control methods. These systems provide very small latencies and excellent performance. The main drawback of such a system is its price. Also there is a software bundle, which has to be bought. The price of the software is very often much higher than the cost of the hardware. For an academic laboratory this is a real barrier and only few laboratory projects can be equipped with such a system. There is also a problem with respect to the limited possibility to expand standard DSP systems. The user has limited number of PWM outputs, A/D converters making these systems less flexible for research. Therefore there is a need to provide a better solution. The idea is to use a PC/104 based system, which can work in real-time environment. The PC/104 is very well known in the industry, so academic projects can be directly implemented in industrial environment. For the real-time environment the cost-free Linux based system with a free RTAI (Real-Time Application Interface) extension is used. In this work the proposed system is presented. Some application examples are presented as well.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20080686</identifier>
+                    <identifier type="sys">HT015778113</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_986</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_986">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2008/szczupak/de0803.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_986"
+            DMDID="DMD_wuppertal_elpub_986">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_986"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

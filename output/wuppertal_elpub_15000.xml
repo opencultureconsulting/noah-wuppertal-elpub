@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_15000">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Human-Biomonitoring für den alternativen Weichmacher Di(2-ethylhexyl)adipat (DEHA)</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gotthardt geb. Nehring, Alexandra</displayForm>
+                        <namePart type="family">Gotthardt geb. Nehring</namePart>
+                        <namePart type="given">Alexandra</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-08-10</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Di(2-ethylhexyl)adipat (DEHA) wird als alternativer Weichmacher für Phthalate mit Anwendungsbeschränkungen oder – verboten in Verbraucherprodukten eingesetzt, wodurch eine Belastung der Bevölkerung gegenüber DEHA anzunehmen ist. Eine valide Abschätzung der inneren Exposition und dem daraus resultierenden gesundheitlichen Risikos war auf Basis der bisherigen Erkenntnisse nicht möglich. Im Rahmen dieser Arbeit wurde ein Human-Biomonitoring-Ansatz für DEHA entwickelt und somit die Grundlage für eine valide Expositions- und Risikoabschätzung geschaffen. Zur Erfassung der Exposition gegenüber DEHA wurde, für die Bestimmung spezifischer DEHA-Metaboliten (Expositions-Biomarker) im menschlichen Urin, eine analytische Methode mit online-Festphasenextraktion und anschließender Hochleistungsflüssigchromatographie gekoppelt mit Tandem-Massenspektrometrie (online-SPE-HPLC-MS/MS) und Quantifizierung über Stabilisotopenverdünnungsanalyse (SIVA) entwickelt. Mittels der neu entwickelten Analysenmethode wurde der Human-Metabolismus von DEHA nach oraler Dosierung quantitativ untersucht. Durch die im Rahmen der Kinetikstudie erfolgreich abgeleiteten Konversionsfaktoren und die gemessenen Konzentration der Expositionsbiomarker in Urinproben verschiedener Pilot-Bevölkerungen, wurde erstmals valide die tatsächlich aufgenommen Menge an DEHA (Daily Intake) berechnet und mit der täglichen tolerierbare Aufnahmemenge (TDI) von DEHA verglichen. Für Diisonononyladipat (DINA), ein weiteres Adipat, welches sich im Vergleich zu DEHA durch eine isomere Alkylkette mit einem zusätzlichen Kohlenstoffatom in der Seitenkette auszeichnet, wurde im Rahmen dieser Arbeit ebenfalls erstmalig ein valider Human-Biomonitoring-Ansatz entwickelt.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20210810-143517-2</identifier>
+                    <identifier type="doi">10.25926/fzcc-3q14</identifier>
+                    <identifier type="sys">HT021073795</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_15000</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_15000">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2021/gotthardt/dc2108.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_15000"
+            DMDID="DMD_wuppertal_elpub_15000">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_15000"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

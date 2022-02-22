@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_315">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Matassini, Lorenzo: Signal analysis and modelling of non-linear non-stationary phenomena - from Human Voice to Financial Markets</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Matassini, Lorenzo</displayForm>
+                        <namePart type="family">Matassini</namePart>
+                        <namePart type="given">Lorenzo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-11-09</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">We address the problem of coping with non-stationarity in time series analysis. Very often the non-stationarity is quite weak and can be ignored for many purposes. But this is not the case here, since the systems generating the signals under analysis contain information on the non-stationarity themselves. In other words the variability of the dynamical regimes due to non-stationarity is the essential property and cannot be cut out.
+ The work consists essentially of three parts: (i) A theoretical approach to non-stationarity, showing that if one is interested in implicitly discovering the equations of motion of the system, then under quite general hypothesis the over-embedding allows one to solve this task, of fundamental relevance for prediction, noise reduction and data classification. (ii) Applications to human voice, where the non-stationarity is involved in the concatenation of consecutive phonemes, to be considered as signals with few degrees of freedom but non-constant parameters. In other words non-stationarity here means that the instantaneous dynamics can differ very significantly from phoneme to phoneme. Three problems of technological relevance are addressed, namely the noise reduction of human speech signals with a proper optimization scheme, a classification of vocal disorders and a software correction of voice patologies. (iii) Applications to financial markets, where the non-stationarity is related to the volatility of market prices, trends and seasonality. Primary tasks are the analysis of correlations in the absolute value of price differences, very useful in risk management, and the development of models where large numbers of units interact, giving rise to empirical observed phenomena like panic selling, herding behaviour, speculation.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20010563</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_315</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_315">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-409/d080102.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_315"
+            DMDID="DMD_wuppertal_elpub_315">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_315"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

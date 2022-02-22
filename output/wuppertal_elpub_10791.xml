@@ -1,0 +1,73 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_10791">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Advanced Applications For Algebraic Multigrid Methods In Lattice QCD</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Strebel, Artur</displayForm>
+                        <namePart type="family">Strebel</namePart>
+                        <namePart type="given">Artur</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Frommer, Andreas</displayForm>
+                        <namePart type="family">Frommer</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kahl, Karsten</displayForm>
+                        <namePart type="family">Kahl</namePart>
+                        <namePart type="given">Karsten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-09-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In dieser Dissertation stellen wir neue Anwendungsmöglichkeiten für algebraische Mehrgittermethoden in Gitter QCD vor. Dies beinhaltet einen Präkonditionierer für den Neuberger Overlap Operator, welcher den Wilson-Dirac Operator als (rechten) Präkonditionierer nutzt um die Konvergenz zu beschleunigen. Die linearen Gleichungssysteme mit dem Wilson-Dirac Operator können dabei mittels algebraischen Mehrgittermethoden günstig gelöst werden. Wir haben zudem einen Eigenlöser basierend auf der verallgemeinerten Davidson Methode für den Hermiteschen Wilson-Dirac Operator entwickelt. Dieser Eigenlöser nutzt algebraische Mehrgittermethoden um die darin auftretenden linearen Gleichungssysteme effizient zu lösen und realisiert verschiedene algorithmische Adaptionen um einen nahezu linearen Aufwand bezüglich der Anzahl der gesuchten Eigenwerte zu erreichen. Als letzten Beitrag stellen wir eine neue Setup Prozedur für algebraische Mehrgittermethoden in Gitter QCD vor, die auf dem zuvor entwickelten Eigenlöser basiert. Wir haben zudem einen Eigenlöser basierend auf der verallgemeinerten Davidson Methode für den Hermiteschen Wilson-Dirac Operator entwickelt. Dieser Eigenlöser nutzt algebraische Mehrgittermethoden um die darin auftretenden linearen Gleichungssysteme effizient zu lösen und realisiert verschiedene algorithmische Adaptionen um einen nahezu linearen Aufwand bezüglich der Anzahl der gesuchten Eigenwerte zu erreichen. Als letzten Beitrag stellen wir eine neue Setup Prozedur für algebraische Mehrgittermethoden in Gitter QCD vor, das auf dem zuvor entwickelten Eigenlöser basiert.</abstract>
+                    <abstract type="content" lang="eng">In this thesis we present new applications for algebraic multigrid methods in lattice QCD. This includes a preconditioner for the Neuberger Overlap operator, which uses the Wilson-Dirac operator as a (right) preconditioner to accelerate convergence. Linear systems of equations with the Wilson-Dirac operator can be solved cheaply using algebraic multigrid methods. We also develope an eigensolver based on the generalized Davidson method for the Hermitian Wilson-Dirac operator. It uses an algebraic multigrid method to efficiently solve the arising linear systems of equations and incorporates several algorithmic adaptations to achieve a nearly linear complexity with respect to the number of sought eigenvalues. As a last contribution we present results for a new setup procedure for algebraic multigrid methods in lattice QCD, which is based on the previously developed eigensolver.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20200918-095033-4</identifier>
+                    <identifier type="doi">10.25926/anzj-5192</identifier>
+                    <identifier type="sys">HT020618348</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_10791</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_10791">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2020/strebel/dc2011.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_10791"
+            DMDID="DMD_wuppertal_elpub_10791">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_10791"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

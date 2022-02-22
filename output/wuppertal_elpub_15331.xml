@@ -1,0 +1,73 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_15331">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Who works in Finance?</title>
+                        <subTitle>Three essays on the social backgrounds of finance professionals</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schürmann, Henrik Martin</displayForm>
+                        <namePart type="family">Schürmann</namePart>
+                        <namePart type="given">Henrik Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Betzer, André</displayForm>
+                        <namePart type="family">Betzer</namePart>
+                        <namePart type="given">André</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-10-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Economists widely agree that a country’s financial system plays an important role in its economic development and – if well established – can provide considerable benefits to society. Yet, we still know relatively little about those who work in the financial industry. Why do people decide to pursue a career in finance? How do finance professionals differ from other people in terms of their norms and values? And what determines their behavior? 
+ This thesis is aimed at broadening our understanding of who are the social animals that work in the U.S. financial industry. The three studies that comprise this thesis contribute to the emerging field of social finance by expanding our knowledge of the social factors that influence finance professionals and determine their economic behavior. 
+ The first study begins at the making of finance professionals. It provides evidence that people are substantially more likely to choose a career in finance if their fathers have already worked in the financial industry. This intergenerational correlation between fathers and their children is greater than in most other industries and is related to a considerable income surplus of second-generation finance industry employees.
+ The second study documents a unique and worrisome deterioration in generalized trust, an important social belief, among finance industry employees over the past decades. This decline in trust is also significantly stronger than the trust decline among the general U.S. population over the same period. It appears to be associated with changes in the economic conditions in the U.S., shifts in the professional environment in the financial industry, and with a decreasing degree of socialization among finance professionals.
+ The third study reveals a long-lasting association between the disruption of the family of origin during the childhood of mutual fund managers and their investment behavior later in life. Fund managers who experienced the death or divorce of their parents early in life exhibit a stronger disposition effect and take less risk in their delegated portfolios. This study hence promotes our understanding of the long-term impact of traumatic childhood experiences and the origins of investment biases.</abstract>
+                    <subject>
+                        <topic>social finance</topic>
+                        <topic>behavioral finance</topic>
+                        <topic>fund managment</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20211028-120431-8</identifier>
+                    <identifier type="doi">10.25926/6s60-ec83</identifier>
+                    <identifier type="sys">HT021175862</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_15331</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_15331">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2021/schuermann/db2111.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_15331"
+            DMDID="DMD_wuppertal_elpub_15331">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_15331"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

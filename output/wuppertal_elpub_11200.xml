@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_11200">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Search for Ultra-High-Energy Photons with the Pierre Auger Observatory</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Papenbreer, Philipp</displayForm>
+                        <namePart type="family">Papenbreer</namePart>
+                        <namePart type="given">Philipp</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-12-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In this thesis, a search for photons at ultra-high energies is presented. A discovery of these particles would greatly advance the understanding of the origin of ultra-high energy cosmic rays and would have multiple implications for high-energy particle physics. Upper limits to the flux of these particles, on the other hand, would constrain the parameter space of astrophysical scenarios concerning the primary composition at the cosmic ray sources as well as certain models of the origin of cosmic rays. In this work, 13.5 years of data measured with the Surface Detector of the Pierre Auger Observatory have been analyzed. In preparation for this, many improvements to the quality of the measurement data were made. Since multiple photon-like events were identified by the analysis, the compatibility of these event candidates with a photon as well as a background hypothesis has been tested. Taking the conservative approach of assuming the background hypothesis, the world’s strongest limits to the diffuse photon flux and fraction have been set.</abstract>
+                    <abstract type="content" lang="ger">Die vorliegende Arbeit befasst sich mit der Suche nach Photonen in der ultrahoch- energetischen kosmischen Strahlung. Eine Entdeckung dieser Teilchen würde wertvolle Hinweise über den Ursprung der kosmischen Strahlung liefern und böte darüber hinaus vielfältige Implikationen für die Teilchenphysik bei hohen Energien. Obergrenzen für den Fluss dieser Teilchen begrenzen den Parameterraum, sowohl von astrophysikalischen Szenarien bezüglich der Komposition an ihren Quellen, als auch bestimmter Modelle für den Ursprung der kosmischen Strahlung. 13.5 Jahre Messdaten, die mit dem Oberflächendetektor des Pierre-Auger-Observatoriums aufgenommen wurden, sind in dieser Arbeit analysiert worden. In Vorbereitung dazu sind einige Verbesserungen der Messdatenqualität unternommen worden. Da in der Analyse mehrere photonartige Ereignisse gefunden wurden, wurde die Kompatibilität dieser Kandidatenereignisse mit einer Photonhypothese und einer Untergrundhypothese untersucht. Mit dem konservativen Ansatz einer Untergrundhypothese sind die weltweit strengsten Obergrenzen auf den Anteil von Photonen an der kosmischen Strahlung und auf den diffusen Photonenfluss gesetzt worden.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20201203-114928-2</identifier>
+                    <identifier type="doi">10.25926/h3hs-t241</identifier>
+                    <identifier type="sys">HT020702938</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_11200</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_11200">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2020/papenbreer/dc2020.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_11200"
+            DMDID="DMD_wuppertal_elpub_11200">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_11200"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

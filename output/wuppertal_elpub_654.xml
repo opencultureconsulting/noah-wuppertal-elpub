@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_654">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Polnische Zuwanderer in der Bundesrepublik Deutschland - eine empirische Analyse der gegenwärtigen Lage</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sznyter, Aleksandra</displayForm>
+                        <namePart type="family">Sznyter</namePart>
+                        <namePart type="given">Aleksandra</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-07-08</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Von Polen wird in der deutschen Öffentlichkeit nicht besonders viel gesprochen. Eine Ausnahme im politischen Kontext bildete in den letzten Monaten die Regierung Kaczynskis, die oft für Kontroversen und damit für Interesse (leider eher im negativen Sinne) an Polen sorgte. Es handelte sich hier jedoch um das Polen, das sich hinter der Oder befindet und nicht um die Polen, die in Deutschland leben. 
+ Wenn man noch etwas weiter in die Vergangenheit schaut -etwa vier Jahren zurück - findet man ein gewisses Interesse, oder besser gesagt eine Befürchtung, die die Deutschen in Bezug auf Polens Beitritt zur Europäischen Gemeinschaft beschäftigt hat. Doch haben sich die damals gemalten schlimmsten Szenarien nicht bestätigt. Es gab am 2. Mai 2004 keine Überflutung von Menschen, die aufgrund ihres gravierenden Platzmangels auf den Bahnhöfen und in den Sporthallen hätten unterbracht werden müssen und auch innerhalb der nächsten Tagen gab es nichts dergleichen zu bemerken. 
+ Warum? Die kürzeste Antwort wäre: weil diejenige, die unbedingt nach Deutschland kommen wollten, schon längst da waren.
+ Die Migration von Polen nach Deutschland ist kein neues Phänomen. Neu ist aber in wissenschaftlichen Kontext die Darstellung der drei polnischen Migrationswellen, und eine empirische Untersuchung der 100 Zuwanderer polnischer Herkunft, die ich innerhalb von ca.8 Monaten durchgeführt habe.
+ Die Mehrheit der Befragten fühlt sich in Deutschland und unter den Deutschen wohl. Die Anwesenheit der gegenseitigen Klischees und Stereotypen ist natürlich. Sehr erfreulich ist aber das Bewusstsein meiner Gesprächspartner diesbezüglich, ihre Überlegungen, Vergleiche und Reflexionen hinsichtlich ihrer Rolle in der deutschen Gesellschaft. In den Gesprächen wurde oft das Gefühl mangelnden Interesses für Migranten polnischer Herkunft angedeutet. Langsam ändert sich dies. Polen ist als Herkunftsland einer bedeutenden Zuwanderergruppe in Deutschland immer öfters präsent. In immer mehr Bereichen gibt es deutsch-polnische Zusammenarbeit. Dies lässt positiv in die Zukunft blicken in der Hoffnung, dass eine heterogene Gesellschaft in friedlichem und respektvollem Nebeneinander möglich und erwünscht sein wird.</abstract>
+                    <classification authority="ddc">320</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Human- und Sozialwissenschaften » Politikwissenschaft"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20090733</identifier>
+                    <identifier type="sys">HT016022067</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_654</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_654">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fba/politikwissenschaft/diss2008/sznyter/da0804.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_654"
+            DMDID="DMD_wuppertal_elpub_654">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_654"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_896">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Study of the performance of the Pierre Auger Observatory and search for primary cosmic ray photons</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Scherini, Viviana</displayForm>
+                        <namePart type="family">Scherini</namePart>
+                        <namePart type="given">Viviana</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-12-07</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Astroparticle physics is now entering the very exciting phase in which the efforts to enhance the detection capabilities of our instruments begin to turn out into clear answers. In this context the Pierre Auger Observatory (PAO) has been conceived to study the extensive air showers produced by the primary cosmic rays at energies above 1018eV in their interaction with the Earth’s atmosphere, in order to solve the mystery of the origin and nature of the highest energy particles. 
+The PAO design combines the most advanced detection techniques and the largest exposure, to provide high data quality together with unprecedented statistics. In addition, two experimental sites, one nearly completed in the southern hemisphere and the other to be built in the northern one will achieve full sky coverage, and the largest exposure ever. 
+The PAO collaboration benefits from the contribution of about 300 scientists from 17 countries. The Wuppertal group is highly involved in physics analysis and the study and monitoring of the detector performance. Moreover its tasks involve hardware development and testing. More than half of the 11 000 optical modules for the fluorescence detector telescopes have been qualified with a highly automatised test setup. Details on the experimental requirements and test results are presented in Section 4.3, (see [24]). 
+The performance of the fluorescence detector (FD) reconstruction algorithm has been studied at different selection levels with dedicated simulations. In Chapter 5 the FD trigger efficiency and the geometry resolutions are calculated. A realistic estimate of the hybrid resolution of the physics observables (depth of shower maximum and energy) is also given, see [108]. This work includes the extension of the reconstruction capabilities to the highest energies covered by the FD dynamic range [136]. 
+Discrimination of different primaries is based on their expected shower features, for instance the depth shower maximum, Xmax. In Chapter 6 the composition sensitivity of other parameters connected to the shape of the longitudinal shower profile is evaluated in order to achieve an enhancement of the separation power between photon and hadron primaries [139]. 
+No claim for photon observation at the highest energies has been reported so far. For this work an update of the first limit to the fraction of photons in cosmic rays above 10 EeV [119], based on the measurement of Xmax has been performed, see Section 7.2, reported in [21]. Finally, limits above 2, 3.16, 5 and 10 EeV are derived using the Pierre Auger hybrid data sample Jan 2004–July 2007, see Section 7.3. The expected impact of a photon contamination of this order on the measurement of the inelastic proton-air cross 
+section is briefly discussed in Section 7.4. Our limits confirm the ones derived by ground-based experiments at higher energies and they strongly constrain the non-acceleration models invoked to explain the origin of the ultra high energy cosmic rays, thus favoring astrophysical scenarios.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20070890</identifier>
+                    <identifier type="sys">HT015375858</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_896</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_896">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2007/scherini/dc0716.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_896"
+            DMDID="DMD_wuppertal_elpub_896">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_896"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

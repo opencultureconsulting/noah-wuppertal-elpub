@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_15260">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>BARYON RESONANCES ON THE LATTICE: THE P-WAVE NUCLEON-PION SCATTERING AMPLITUDE IN THE Δ (1232) CHANNEL</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Silvi, Giorgio</displayForm>
+                        <namePart type="family">Silvi</namePart>
+                        <namePart type="given">Giorgio</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lippert, Thomas</displayForm>
+                        <namePart type="family">Lippert</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-09-06</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">We present the determination of the ∆ (1232) resonance parameters using lattice QCD and the Lüscher method. The resonance couples to the elastic pion-nucleon scattering with Jᴾ = 3/2⁺ in the isospin I = 3/2 P-wave channel. Our Nf = 2 + 1 flavor lattice setup features a pion mass of mπ ≈ 250 MeV, such that the strong decay channel ∆ → π N is open for decay. We use the projection method for constructing the required lattice correlation functions from single- and two-hadron interpolating fields and their projection to irreducible representations of the lattice’s relevant symmetry group. We show the energy spectra results in selected moving frames and irreducible representations and extract the scattering phase shifts P33 and S31. From the determined pole position of the ∆ (1232), we derive the resonance mass m∆ = 1378(7) (9) MeV and the coupling g∆−π N = 23.8 (2.78) (0.9).</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20210906-113733-7</identifier>
+                    <identifier type="doi">10.25926/ay98-8j23</identifier>
+                    <identifier type="sys">HT021110193</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_15260</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_15260">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2021/silvi/dc2116.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_15260"
+            DMDID="DMD_wuppertal_elpub_15260">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_15260"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

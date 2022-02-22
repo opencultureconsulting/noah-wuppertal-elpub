@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3268">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Bestimmung von polyzyklischen aromatischen Kohlenwasserstoffen in Bedarfsgegenständen und Verbraucherprodukten</title>
+                        <subTitle>– Optimierung der Probenvorbereitung, der Aufreinigung und der Analyse mittels GC-MS und GCxGC-MS –</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wydra, Nicole Elisabeth</displayForm>
+                        <namePart type="family">Wydra</namePart>
+                        <namePart type="given">Nicole Elisabeth</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The gas chromatographic determination described in the document ZEK 01.2-08: “Testing and Validation of Polycyclic Aromatic Hydrocarbons (PAH) in the course of GS-Mark Certification” was introduced into an analytical laboratory and validated. 
+Individual steps of the method were optimized systematically with respect to easier handling and increased efficiency during sample preparation and clean-up. 
+Sample grinding was automated by the use of a cutting mill, which made quick and homogeneous size reduction possible for very hard and large-sized products, as well as elastic and soft materials. The device’s robustness allowed the crushing of elastomers and rubber products previously made brittle by immersion in liquid nitrogen. 
+The time-consuming sample clean-up over glass columns manually packed with silica gel was improved by the use of industrially made, more densely packed silica gel cartridges. This limits laborious preparation of sorbent and glassware prior to analysis. The optimized clean-up also saves time and amount of solvent and achieves more effective purification of the sample extracts. 
+The majority of consumer goods and plastic products analysed in the various categories showed either no detectable level or only low levels of polycyclic aromatic hydrocarbon content. The concentrations determined are significantly below the maximum levels set in the document ZEK 01.2-08 for the three categories of materials expected to come into contact with the human skin. The results illustrate that materials can be produced according to good manufacturing practice by the use of appropriate and pure raw materials. 
+During chromatographic analysis of the toluene extracts – especially from soft materials, elastomers and rubbers – interferences arose that were due to additional substances extracted from the sample. These dissolved matrix components have vapour pressures similar to those of the analytes under investigation and interfere with the qualitative and quantitative determination of the aromatics. Not even clean-up with modified sorbents or polymeric-phase cartridges could facilitate successful separation of these substances, which were especially problematic when they occurred in the molecular mass range between m/z 178 and 228 Da. Neither the method according to the ZEK document nor the optimized clean-up procedure presented in this work allowed the total separation of interfering matrix components. 
+Fractional elution of an exemplary sample extract, performed on manually filled silica gel glass columns, demonstrates that these interfering substances have not only similar vapour pressure but similar polar properties, as well, as they do not interact with the solid phase. They can therefore only with difficulty be separated from the aromatic compounds under investigation. 
+In a second focus, the separation efficiency of two-dimensional comprehensive gas chromatography was demonstrated for the analysis of complex matrices. With this highly efficient separation, complex matrices of extracts from plastic products are analysed not only in terms of their composition but also for an instrumental separation of interfering matrix components from the analytes to be determined. Investigation of some extracts contaminated with matrix components showed successful separation. By means of mass spectrometric detection, both identification and quantification were achieved with this technique. 
+The efficiency of this two-dimensional system could be demonstrated in further studies of selected consumer products purchased in local stores. In agreement with the strong aromatic odour of the samples, high amounts of PAH could be determined by the method presented here. As a result of the different and independent separation mechanisms – separation according to the analytes’ vapour pressure in the first dimension of the system followed by separation through their interaction with the stationary phase in the second dimension – clusters and groups of similar substances occurred within the two-dimensional plot. In addition to the 16 EPA-PAH, many isomers and congeners of polycyclic aromatic hydrocarbons could be identified.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20130108-155028-8</identifier>
+                    <identifier type="sys">HT017529790</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3268</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3268">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2012/wydra/dc1226.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3268"
+            DMDID="DMD_wuppertal_elpub_3268">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3268"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

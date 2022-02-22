@@ -1,0 +1,73 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3352">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>The </nonSort>
+                        <title>Finite State Machine for the ATLAS Pixel Detector and Beam Background Studies with the ATLAS Beam Conditions Monitor</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lantzsch, Kerstin</displayForm>
+                        <namePart type="family">Lantzsch</namePart>
+                        <namePart type="given">Kerstin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Der Large Hadron Collider am CERN bei Genf hat Ende 2009 mit den ersten Proton-Proton Kollisionen seinen Betrieb aufgenommen. Der ATLAS-Detektor ist einer der Universaldetektoren, und wurde entwickelt und gebaut um neue physikalische Phänomene zu studieren und das Wissen und Verständnis der zugrundeliegenden Theorie zu verbessern. Der Pixeldetektor ist der innerste Subdetektor von ATLAS und wird mit seinen 80 Millionen Auslesekanälen eine wichtige Rolle spielen bei der Identifikation und Vermessung der interessanten physikalischen Phänomene. Komplexe Kontrollsysteme sind erforderlich, um ein System wie den Pixeldetektor sicher betreiben zu können. Letztendlich wird ein einziger Operator für die Kontrolle und Überwachung des gesamten ATLASDetektors zuständig sein. 
+
+Diese Arbeit besteht aus drei Teilen. Der erste Teil gibt einen Überblick über das Experiment. Kapitel 1 gibt mit einer kurzen Zusammenfassung des Standardmodells der Teilchenphysik eine Motivation zum Bau großer Beschleuniger und Detektoren. In Kapitel 2 wird der Beschleuniger beschrieben, und der ATLAS-Detektor mit seinen Subsystemen wird vorgestellt. Da der Pixeldetektor und der Beam Conditions Monitor von spezieller Bedeutung für diese Arbeit sind, werden sie in größerem Detail in Kapitel 3 und 4 beschrieben. 
+
+Der Schwerpunkt dieser Arbeit liegt im zweiten Teil, der das Kontrollsystem des ATLAS Pixeldetektors behandelt. In Kapitel 5 werden die Hardware- und Software-Komponenten beschrieben. Kapitel 6 und 7 stellen den Hauptteil der zugrundeliegenden Arbeit dar. Der Betrieb der ATLAS Subdetektoren wird hauptsächlich durch die Zustandsmaschine (FSM) gewährleistet. Kapitel 6 beginnt mit einer Einführung der zugrundeliegenden Software- Komponenten. Die Anforderungen für die Pixel-FSM werden dargelegt, und die Pixel-spezifische Implementierung diskutiert. In Kapitel 7 werden Skripte vorgestellt, die ergänzend zur FSM entwickelt wurden, um sicherheitsrelevante Aspekte abzusichern, sowie die Automatisierung von Prozeduren zur Interaktion mit externen Systemen handhaben. 
+
+Der letzte Teil beschäftigt sich mit Untergrundereignissen aufgrund von strahlbezogenen Belangen. Kapitel 8 beschreibt potentielle Szenarios zu Strahlverlust, sowie Untergrund während des regulären Betriebs. Während der frühen Betriebs-Phase mit wenigen Protonen-Paketen und einer Strahlenergie von bis zu 3500 GeV wurden Daten vom Inneren Detektor und des Beam Condition Monitors korreliert. 
+
+Eine Zusammenfassung und Bewertung dieser Arbeit im Hinblick auf den Betrieb des ATLAS Pixeldetektors wird im Abschluß dieser Arbeit gegeben.</abstract>
+                    <abstract type="content" lang="eng">The Large Hadron Collider at CERN near Geneva has started operation with the first proton-proton collisions in the end of 2009. The ATLAS detector is one of the general purpose experiments designed to take full advantage of the possibilities to study new physics phenomena and improve the knowledge and understanding of the currently known state of theory. The Pixel Detector is the innermost sub-detector of ATLAS and with its 80 million readout channels will play an important role in the identification and measurement of the interesting physics phenomena. To operate a complex detector like the Pixel Detector in a safe and coherent way, sophisticated control systems are necessary. In the end, the control and supervision of the Pixel Detector has to be handled by a single shift operator integrated into the ATLAS control system and in coordination with the data acquisition and the accelerator. 
+
+This thesis is divided into three parts. In the first part an overview of the experiment is given. In chapter 1 the motivation for building large accelerators and detectors is given with a short summary of the Standard Model of particle physics and the phenomena to be studied at the LHC. In chapter 2 the accelerator is described, and the ATLAS detector and its subsystems are introduced. As the Pixel Detector and the Beam Conditions Monitor are of special relevance to this thesis, they are described in more detail in chapters 3 and 4. 
+
+The focus of this thesis lies in the second part, covering the Control System of the ATLAS Pixel Detector. In chapter 5 the hardware and software components are described. Chapter 6 and 7 constitute the main part of the performed work. The Finite State Machine (FSM) is the main tool for the operation of the ATLAS sub-detectors. Chapter 6 starts with an introduction to the underlying (common) software components and prior work. The requirements for the Pixel FSM originating from various directions are stated, and the pixel specific FSM implementation is discussed. Complementary to the FSM, background scripts have been developed to address safety and automatization aspects. The first part of chapter 7 presents the implemented safety actions to protect the Pixel Detector from danger, while the second part deals with automatization of complex interactions with external systems. 
+
+Finally, the third part treats beam background related issues. Chapter 8 describes background related to potential beam loss accidents and accident scenarios, as well as background during regular operation. During the early running with few bunches and beam energies of up to 3500 GeV data from the inner detector and the beam conditions monitor has been correlated for different energies and beam optics. 
+
+Concluding this thesis is a summary and evaluation of this work in the larger context of the operation of the ATLAS Pixel Detector. Achieved results are presented and an outlook for possible future developments and work is given.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20130206-154031-3</identifier>
+                    <identifier type="sys">HT017540914</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3352</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3352">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2011/lantzsch/dc1132.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3352"
+            DMDID="DMD_wuppertal_elpub_3352">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3352"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

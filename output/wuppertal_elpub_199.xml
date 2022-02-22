@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_199">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>Werk des Architekten Peter Neufert.</title>
+                        <subTitle>Ein Beitrag zu Entwicklungstendenzen in der Architektur der ersten Nachkriegsjahrzehnte.</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ghise-Beer, Anka</displayForm>
+                        <namePart type="family">Ghise-Beer</namePart>
+                        <namePart type="given">Anka</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-08-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die folgende Arbeit thematisiert den Architekten Peter Neufert (1925-1999), Sohn des Bauhaus-Architekten Ernst Neufert (Autor der &quot;Bauentwurfslehre&quot;, 1936). Nach dem Zweiten Weltkrieg beginnt Peter Neufert, erst noch gemeinsam mit seinem Vater, später im Alleingang, sein eigenständiges architektonisches Werk aufzubauen. 1953 wird das &quot;Atelier Neufert&quot; in Köln eröffnet und Neufert zählt vorwiegend ab Mitte der 50er und in den 60er Jahren zu einem der bekanntesten Architektenpersönlichkeiten Kölns. Im Ausland (Portugal) entstehen Privatbauten in der Tradition der Architektur des Internationalen Stils (insbesondere Oscar Niemeyer, Richard Neutra, Mies van der Rohe). Neufert steht in engem Kontakt zur Kunstszene der 60er Jahre, u.a. mit Nam June Paik, Mary Bauermeister, Otto Piene und Heinz Mack. Die Untersuchung gliedert sich in vier wesentliche Teile: Der erste Teil (Kapitel 2) zeigt die biographischen Verflechtungen zwischen Vater und Sohn auf. Die bauliche Entwicklung Kölns in den 50er und 60er Jahren wird im zweiten Teil beleuchtet, während im dritten Teil eine Auswahl von Bauten des Architekten präsentiert und besprochen wird. Das fünfte Kapitel schließlich erklärt Neuferts persönliche Beziehung zur Kunst und sein Engagement für die Kunstaktionen der 60er Jahre.</abstract>
+                    <abstract type="content" lang="eng">The present paper deals with the architect Peter Neufert (1925-1999), son of the Bauhaus-architect Ernst Neufert (author of the &quot;Bauentwurfslehre&quot;, 1936). After the Second World-War Peter Neufert starts to build up an autonomous architectural work. In the beginning assisted by his father, he later (1953) founds his own architect’s office and becomes one of the best-known architects in Cologne. Abroad he builds houses in the tradition of the architecture of the International Style (e.g. Oscar Niemeyer, Richard Neutra, Mies van der Rohe). Neufert commits himself to the art scene of the 60s (e.g. Nam June Paik, Mary Bauermeister, Otto Piene, Heinz Mack). The investigation is divided into four important parts: the first part (chapter 2) displays the biographical interrelation between father and son. The second part focuses on the development of architecture in Cologne during the 50s and the 60s. A selection of buildings created by Peter Neufert is presented in part three and the fifth chapter explains Neufert’s relationship to art and his engagement in artistic actions of the 60s.</abstract>
+                    <classification authority="ddc">720</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Architektur und Bauingenieurwesen » Architektur"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20010439</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_199</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_199">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-296/d050001a.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_199"
+            DMDID="DMD_wuppertal_elpub_199">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_199"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

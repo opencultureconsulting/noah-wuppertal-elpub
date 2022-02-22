@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_831">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zur Hesselink-Stratifizierung für Darstellungsvarietäten von darstellungsendlichen Köchern</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bender, Jens</displayForm>
+                        <namePart type="family">Bender</namePart>
+                        <namePart type="given">Jens</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-04-10</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Wir untersuchen in dieser Arbeit die Hesselink-Stratifizierung für den Spezialfall der Darstellungsvarietäten von Köchern. Diese Stratifizierung hängt von der Wahl einer gewissen Norm ab. Unter Benutzung von Ergebnissen von Kirwan und LeBruyn wird nun die Frage betrachtet, unter welchen Bedingungen an diese Norm im darstellungsendlichen Fall die Strata gerade den Orbiten der Basiswechseloperation auf der Darstellungsvarietät entsprechen. Dazu wird ein kombinatorisches Kriterium entwickelt, welches dann (teilweise mit Computerhilfe) für die einzelnen Typen darstellungsendlicher Köcher untersucht wird.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20060059</identifier>
+                    <identifier type="sys">HT014707394</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_831</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_831">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2006/bender/dc0601.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_831"
+            DMDID="DMD_wuppertal_elpub_831">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_831"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

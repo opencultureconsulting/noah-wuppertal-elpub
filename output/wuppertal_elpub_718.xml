@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_718">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Enzymatische Transformationen von Mono- und Disacchariden in Gegenwart von Lipasen und ß-Glycosidasen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Machmüller, Guido</displayForm>
+                        <namePart type="family">Machmüller</namePart>
+                        <namePart type="given">Guido</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005-10-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Due to their overfunctionality the direct a) regioselective esterification or b) stereoselective glycosidation of native, i.e. underivatised sugars (Fig. 1.1. Enzymic derivatisations of D-glucose) poses a particularly challenging problem to synthetic organic chemists. In most cases the use of suitable protected groups and/or multistep synthetic sequences - all methods of low atom efficiency - provided in the past reasonably practical solutions. 
+
+ 
+
+ Hydrolytic enzymes such as esterhydrolases (lipases) or glycosidases are known for their capability of such derivatisations with high regio- and stereoselectivity, respectively. However, successful applications of these transformations were largely limited by the 
+
+ a) low solubility of native sugars in non-polar solvents, 
+ where lipasesdisplay their highest esterification activity 
+
+ b) low activity (or inactivity) of glycosidases in organic solvents. 
+
+In the past the problem was solved partially by using modified sugars like alkyl glycosides and protected sugars, solvents like DMF or pyridine or solubilising agents like phenyl boronic acid. 
+In this work we provide satisfactory solutions for both problems using native sugars throughout in non-toxic solvents. Inspired by the discovery of Prasad and Sørensen [1] that 2-deoxy-D-ribose and D-ribose can be acylated by Novozym SP 435™ in THF, we were able to demonstrate that also hexoses – which are practically insoluble in such organic solvents – can be esterified with high regioselectivity and excellent yields. 
+
+Similarly, direct glycosylations via reverse hydrolysis of native, unprotected D-glucose were achieved by compromising the low solubility of these materials in organic solvents with the need of glucosidases for a microaqueous environment for activity. This way we were able to produce b-glycosides in stoichiometric reactions with up to 50 % yield. Yields of this magnitude were previously only achieved with excess of one reaction partner and the use of activated glycosides.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20050460</identifier>
+                    <identifier type="sys">HT014525447</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_718</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_718">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2004/machmueller/dc0420.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_718"
+            DMDID="DMD_wuppertal_elpub_718">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_718"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

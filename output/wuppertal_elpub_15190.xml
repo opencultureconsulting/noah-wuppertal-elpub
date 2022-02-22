@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_15190">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Radio Hybrid Reconstruction and Analysis of Inclined Air Showers with AERA of the Pierre Auger Observatory - Measuring the Hadronic Shower Development and Cosmic Ray Mass Composition</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gottowik, Marvin</displayForm>
+                        <namePart type="family">Gottowik</namePart>
+                        <namePart type="given">Marvin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-08-25</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Das Pierre-Auger-Observatorium ist derzeit der weltweit größte Detektor für kosmische Strahlung bei höchsten Energien. Mit dem Auger Engineering Radio Array (AERA) wird die von ausgedehnten Luftschauern emittierte Radioemission detektiert, wodurch Eigenschaften der Primärteilchen rekonstruiert werden können. Zwei neue Eigenschaften der Radioemission von geneigten Luftschauern werden mit Monte Carlo (MC) Simulationen analysiert. Dabei wird eine Verschiebung des Schwerpunkts der Radioemission um bis zu 1,5 km relativ zum MC-Auftreffpunkt festgestellt, welche auf die Brechung der Radiowellen in der Atmosphäre zurückzuführen ist. Die Form der Radiowellenfront wird am besten durch ein sphärisches Modell beschrieben, da die Quelle der Radioemission bis zu 150 km vom Detektor am Boden entfernt ist. Das sphärische Modell verbessert die Richtungsrekonstruktion und reduziert den Median des Öffnungswinkels mit der MCAchse für AERA-Simulationen von 0,54° mit dem zuvor verwendeten planaren Modell auf 0,27°. Die verbesserte Richtungsrekonstruktion wird durch eine Teilmenge der gemessenen AERA-Daten bestätigt, der Median des Öffnungswinkels mit der Rekonstruktion des Oberflächendetektors (SD) verbessert sich von 0,84° auf 0,61°. 
+ Mit dem vollständigen Datensatz von 6 Jahren wurden mehr als 2000 geneigte Luftschauer mit Zenitwinkeln zwischen 60° und 80° rekonstruiert. Der Fußabdruck der Radioemission nimmt mit dem Zenithwinkel zu, am Boden kann die Radioemission auf mehr als 100 km² nachgewiesen werden. Daher kann die Radioemission mit einem Radioarray mit einem Detektorabstand von 1,5 km, identisch mit dem Abstand der SD-Stationen zueinander, nachgewiesen werden. Dies wird durch die Auswahl von AERA-Antennen auf einem 1,5 km-Raster bei der Rekonstruktion demonstriert. 157 Ereignisse wurden mit dem ausgedünnten AERA rekonstruiert und die Rekonstruktion bestätigt die Leistungsfähigkeit der verwendeten Methoden. 
+ Eine hybride Analyse der Messungen mit AERA und SD ermöglicht die Bestimmung des Myonendefizits in Simulationen und der Masse des Primärteilchens. Die Radioemission ist sensitiv für die Energie der elektromagnetischen Komponente des Luftschauers und daher unabhängig vom SD-Schätzer der Myonenzahl, Rμ. Ein Vergleich von 31 qualitativ hochwertigen Ereignissen mit der MC-Vorhersage zeigt ein Defizit an Myonen in den Simulationen. Für eine realistische chemische Zusammensetzung der kosmischen Strahlung, die mit der durchschnittlichen logarithmischen Atommassenzahl übereinstimmt, wie sie mit dem Fluoreszenzdetektor gemessen wurde, muss Rμ in MC um 25% erhöht werden. Die Masse des Primärteilchens kann durch Kombination der korrigierten Strahlungsenergie, Srad, und Rμ bestimmt werden. Vier ausgewählte Ereignisse mit einer Primärenergie über 10 EeV werden mehrfach mit CoREAS simuliert, wobei Protonen und Eisenkerne als Primärteilchen verwendet werden. Die Verteilung von Rμ / √Srad unterscheidet sich für beide Primärteilchen und der gemessene Luftschauer wird jeweils zwischen den Vorhersagen für Protonen und Eisen rekonstruiert. 
+ Diese Ergebnisse ebnen den Weg für den AugerPrime-Radiodetektor, bei dem jede SD-Station mit einer zusätzlichen Radioantenne ausgestattet wird. Dadurch wird die instrumentierte Fläche von 17 km² auf 3000 km² vergrößert, was eine genaue Bestimmung des Myonendefizits und der Massenzusammensetzung der kosmischen Strahlung bei den höchsten Energien mit großer Statistik ermöglichen wird.</abstract>
+                    <abstract type="content" lang="eng">The Pierre Auger Observatory is currently the world’s largest detector for cosmic rays at the highest energies. With the Auger Engineering Radio Array (AERA) the emitted radio signal of extensive air showers is detected, which allows reconstructing properties of the primary cosmic rays. Two new features of the radio emission of inclined air showers are analyzed with Monte Carlo (MC) simulations. First, a displacement up to 1.5 km of the radio core with respect to the MC impact point due to refraction of the radio waves in the atmosphere is found. Second, the shape of the radio wavefront is found to be described best by a spherical model as the source of the radio emission is up to 150 km away from the detector on ground. The spherical model improves the directional reconstruction and reduces the median opening angle with the MC axis for AERA simulations from 0.54° with the previously used planar model to 0.27°. The improved directional reconstruction is confirmed by a subset of measured AERA data where the median opening angle with the Surface Detector (SD) reconstruction is reduced from 0.84° to 0.61°. 
+ With the full data sample of 6 years more than 2000 inclined air showers with zenith angles between 60° and 80° have been reconstructed. It is shown that the size of the radio footprint in the shower plane increases with the zenith angle. The footprint on ground can exceed more than 100 km and therefore allows detecting the radio emission with a sparse radio array with a detector spacing of 1.5 km, similar to the spacing of the SD. This is demonstrated by selecting AERA antennas on an approximate 1.5 km grid in the reconstruction. 157 events are reconstructed with sparse AERA and the reconstruction confirms the capability of the used methods. 
+ A hybrid analysis of the measurements with AERA and the SD allows determining the muon deficit in simulations and the mass of the primary particle. The radio emission is sensitive to the energy of the electromagnetic component and is therefore independent of the muon number estimator, Rμ. A comparison of 31 high-quality events to MC prediction reveals a deficit of muons in simulations. For a realistic mixed composition that matches the average logarithmic atomic mass number as measured with the Fluorescence Detector the Rμ in MC has to be increased by 25%. The mass of the cosmic ray can be estimated by combining the corrected radiation energy, Srad, and Rμ. Four selected events above 10 EeV primary energy are simulated several times with CoREAS using protons and iron as primary particles. The distribution of Rμ / √Srad shows a separation of both primaries and the data events are reconstructed in between the prediction for protons and iron. These results pave the way for the AugerPrime Radio Detector, where every SD station will be equipped with an additional radio antenna. This increases the instrumented area from 17 km² to 3000 km² which will allow for a precise determination of the muon deficit and the mass composition of cosmic rays at the highest energies with great statistics.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20210825-115231-6</identifier>
+                    <identifier type="doi">10.25926/21hw-wq22</identifier>
+                    <identifier type="sys">HT021110214</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_15190</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_15190">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2021/gottowik/dc2115.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_15190"
+            DMDID="DMD_wuppertal_elpub_15190">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_15190"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

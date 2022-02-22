@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_15630">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Medizinische Gase und Applikationseinheiten in Krankenhäusern – ein Beitrag zur Einordnung der Risiken</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hülter, Ingo</displayForm>
+                        <namePart type="family">Hülter</namePart>
+                        <namePart type="given">Ingo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-11</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Medical gases or gas mixtures have been used in human and veterinary medicine for over 150 years. For the safety of the patient, these products have been largely classified as a pharmaceutical or active performing ingredient (API) over the past decades. This should also serve to identify and reduce potential drug risks. The legal aspects of medicinal products are regulated in Germany in the &quot;Act on the Traffic in Medicinal Products (abbreviated to AMG)&quot;. A manufacturer of medical gases therefore requires a license from the competent pharmaceutical surveillance authority to manufacture and market the gases and gas mixtures as well as an approval / declaration in Germany as a finished drug, or a declaration / declaration of a standard approval for medical gases. To administer safely a medical gas or gas mixture to a patient, other devices such as dosing devices, ventilation units, monitors or pressure reducers are required, since these gases are usually filled in pressurized gas cylinders (usually 200 bar filling pressure). Such gas cylinders are defined as portable pressure devices with a capacity of up to 150 liters, which have to compline to certain conformity assessment procedures and test requirements of Directive 1999/36 / EC. As medical devices, devices for application require a declaration of conformity and testing by a &quot;Notified Body&quot;, usually confirmed by the CE mark. The requirements for these products also depend on the risk classes according to the Medical Device Directive (MDD, Directive 93 / 42EWG). The “Medical Devices Act (MPG)” also applies in Germany. The Medical Device Directive (MDD) will be replaced by the Medical Device Regulation (MDR) end of May 2021. The approval of medicinal products in the Federal Republic of Germany is within the responsibility of the Federal Institute for Drugs and Medical Devices (BfArM) in Bonn, which is also responsible for all questions regarding drug safety. 
+ Manufacturers of medicines or active substances are additionally checked or inspected in regular intervals by regional supervisory authorities about compliance with applicable regulations on pharmaceutical law. In the case of medical devices, compliance with the provisions of medical device law when placing on the market is initially the responsibility of the &quot;notified body&quot;, but the task can also be carried out by the higher federal authority (BfArM). The so-called Medical Device Operator Ordinance (MPBetreibV) regulates the correct installation, operation and use of medical devices in Germany. 
+ Nonetheless, many other legal issues are in addition regulated in other laws or ordinances, for example in the law on the trade in medicinal products (Medicinal Products Act / AMG), Medical Devices Act (MPG), Civil Code (BGB) or the Medicinal Products and Active Substances Manufacturing Ordinance (AMWHV), to cover topics like liability. The complex issues between the obligations of the manufacturer and the operator, as well as pharmaceutical law, dangerous goods law and medical device law are to be summarized for the first time in this dissertation. 
+ It was important to identify the level of knowledge on this complex topic with responsible persons involved in a hospital in terms of safety and regulatory issues. On the other hand, it was investigated, if responsible persons are aware of the consequences (liability) in the event of damage. This was determined and analyzed using various interviews and audits using questionnaires. With the application units or the necessary pressure reducers for the compressed gas cylinders, there is awareness that these objects are registered as medical devices, but there was very often a lack of knowledge in dealing with the care of the prescribed upcoming technical safety controls (short: &quot;STK&quot;) or service / maintenance requirements of the manufacturer. 
+ The use and attention given to the handling of instructions for use, specialist information, safety data sheets, maintenance regulations and awareness of possible consequences is crucial in terms of user and patient safety. To implement urgently needed improvements in the safety area in clinical application, intensive, recurring training courses with success controls are certainly a way to raise awareness of potential risks and to significantly improve safety for users and patients.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Maschinenbau und Sicherheitstechnik » Sicherheitstechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20220111-100010-5</identifier>
+                    <identifier type="doi">10.25926/8h1e-kn07</identifier>
+                    <identifier type="sys">HT021209956</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_15630</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_15630">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/sicherheitstechnik/diss2021/huelter/dd2106.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_15630"
+            DMDID="DMD_wuppertal_elpub_15630">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_15630"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

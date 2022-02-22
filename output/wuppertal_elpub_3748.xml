@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3748">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>SPR-Analytik von Tetracyclinen in Matrices tierischer Herkunft</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Krause, Simone Janine</displayForm>
+                        <namePart type="family">Krause</namePart>
+                        <namePart type="given">Simone Janine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Tetracyclines are the most commonly used class of antibiotics in veterinary medicine due to their broad spectrum activity. The use of four tetracyclines (chlortetracycline, tetracycline, oxytetracycline and doxycycline) is allowed in the European Union for all food-producing species. Maximum residue limits (MRL) in different tissues are mandatorily defined to maintain consumer health protection. A check for compliance with these limits requires precise quantification methods. However, to reduce the number of analyzed samples, distinguishing between positive and negative samples also needs quick and easy to use, but nevertheless reliable screening assays. 
+
+ Möller et al. described a tetracycline-specific assay using a surface plasmon resonance (SPR) biosensor based on a bacterial resistance mechanism against tetracycline in gram negative bacteria. The resistance mechanism relies on the expression of an efflux protein. As long as no tetracycline is present, the repressor protein TetR binds to a short DNA sequence called tetO and suppresses the biosynthesis of the efflux-protein. When tetracycline enters the bacterial cell, it binds to the repressor protein TetR and initiates a conformational change causing its release from the DNA with subsequent generation of the efflux-protein. 
+
+ The focus of this thesis is the application of this assay on complex matrices like kidney. A sample preparation method was developed, which is both quick and easy to perform. Each of the four tetracyclines could reliably be detected in kidney of pig, cow, calf and lamb at the half MRL. This assay was successfully applied not only to manually doped samples, but also to samples with incurred residues. The assay imitates a biological system and therefore requires specific physiological conditions. Thus, the sample preparation method could not employ organic solvents for extraction of tetracyclines from the matrix. 
+
+ Robustness tests included a study on chlortetracycline storage. Storing chlortetracycline solutions at temperatures higher than -20°C led to degradation and can therefore not be recommended. The assay is sensitive to the running buffer used. With two commercially available running buffers assay stability was achieved. The assay was successfully applied on samples from the official surveillance system.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20131023-092150-6</identifier>
+                    <identifier type="sys">HT017830779</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3748</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3748">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2013/krause/dc1311.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3748"
+            DMDID="DMD_wuppertal_elpub_3748">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3748"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

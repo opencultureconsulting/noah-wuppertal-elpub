@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_10250">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Development of a kinetically controlled plasma induced chemical ionisation source</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Müller, David Benjamin</displayForm>
+                        <namePart type="family">Müller</namePart>
+                        <namePart type="given">David Benjamin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-03-04</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Chemical ionisation (CI) is a widely used ionisation technique for mass spectrometer (MS), forming predominantly molecular ions and/or protonated ions. With these ionic species, the analyte identification by molecular weight is possible even in complex mixtures. Thus, chemical ionisation is ideal for ambient sampling applications. However, most common ion sources show long residence times of the analyte in the ion source leading to post-ionisation transformations. In this work, the parameters influencing the kinetic control of ionisation were investigated, allowing the mass spectrum to mirror the neutral ensemble. Three ion sources were constructed to investigate proton transfer reaction at low-pressure conditions utilising H₃+ as reagent ions. A helium plasma expanding into a hydrogen atmosphere is the basis for the initial two ion sources. The third utilises hydrogen as reagent gas to form protonated analyte ions within a nitrogen atmosphere. Based on these results, three additional ion sources were developed to investigate the kinetically controlled proton transfer for ambient sampling. This enables the mass spectrum to mirror the distribution of the neutral ensemble. These ion sources utilise a stacked chamber system with hydrogen as reagent gas facilitating optimisation of each reaction step separately. Concomitantly, modifying existing AP-MS instruments to low-pressure sampling was investigated by coupling this ion source series to a modified AP-sampling mass spectrometer. The last ion source design permits the addition of a secondary reagent gas lowering fragmentation by reducing possible excess proton transfer energies. Here, besides methane and i butane, perfluoro compounds were tested as possible broadband reagents.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20200212-113232-0</identifier>
+                    <identifier type="doi">10.25926/qtrc-ka79</identifier>
+                    <identifier type="sys">HT020465872</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_10250</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_10250">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2019/mueller/dc1946.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_10250"
+            DMDID="DMD_wuppertal_elpub_10250">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_10250"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

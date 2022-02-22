@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_574">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Sicherheits- und Gesundheitsschutzkoordinators nach Baustellenverordnung und Entwicklung einer differenzierten Kalkulationsmethode, um ein Kosten deckendes Honorar zu ermitteln</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gad, Maged Moneer</displayForm>
+                        <namePart type="family">Gad</namePart>
+                        <namePart type="given">Maged Moneer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-11-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Mit der Praktizierung des Arbeitsschutzgesetzes blieb jedoch die Unfallhäufigkeit auf Baustellen auf einem hohen Niveau. 
+Die Baustellenverordnung ist die Umsetzung der Mindestvorschriften der EU-Richtlinie 92/57/EWG des Rates vom 24. Juni 1992; sie trat am 1. Juli 1998 in Kraft. 
+Die BaustellV dient der Verbesserung von Sicherheit und Gesundheitsschutz der Beschäftigten auf Baustellen. Durch die BaustellV wird der Bauherr als Beteiligter nun zusätzlich verpflichtet, für die Sicherheit und den Gesundheitsschutz auf der Baustelle zu sorgen. Der Bauherr oder der von ihm nach § 4 BaustellV beauftragte Dritte kann die Aufgaben des Koordinators selbst wahrnehmen. Er kann ebenso einen Sicherheits- und Gesundheitsschutzkoordinator bestellen. 
+Der Koordinator erbringt eine Leistung nach der Baustellenverordnung, für die er eine „angemessene“ Vergütung bekommen sollte. Die BaustellV beinhaltet aber hierfür keine Kalkulationsgrundlage. 
+Seit Einführung der BaustellV sind verschiedene Honorarempfehlungen veröffentlicht worden. Analog zur HOAI ist bei allen Honorarempfehlungstabellen der einzige Faktor für die Ermittlung der Honorarhöhe die Baukosten. 
+Ziel dieser Arbeit ist es, eine Kalkulationshilfe zu entwickeln.
+Diese Arbeit wurde nach folgender Systematik aufgebaut: 
+- Untersuchung des Leistungsbildes des Koordinators, 
+- Analyse der Unfallstatistik und 
+- Marktuntersuchung zur Vergütungssituation. 
+Auf der Grundlage dieser Arbeiten wurden Kriterien aufgestellt, die den Zeitaufwand des Koordinators beeinflussen. 
+Um den Zeitaufwand des Koordinators zu kalkulieren, wird jedem Kriterium eine bestimmte Punktzahl zugewiesen, die einer individuellen Gewichtung dient.
+
+ Die Summe aller Punkte bestimmt letztendlich den Umfang der Koordinationsleistung und damit den zu kalkulierenden Aufwand. Der Zeitaufwand wird durch die folgende Formel berechnet. 
+Formel:
+ ∑ T = Tf + Tᵥ + Ts [Std.] ∑ T = gesamter Zeitaufwand Tf = Zeitaufwand aufgrund der Baufläche Tᵥ = Zeitaufwand aufgrund des Bauvolumens Tₛ = Zeitaufwand aufgrund des Schwierigkeitsgrads Abschließend werden die erarbeiteten Kalkulationsansätze in der Praxis überprüft. 
+Die Ergebnisse der Kalkulationsmethode weichen etwa ± 10 % von dem von den Koordinatoren nachkalkulierten Zeitaufwand ab. Das bedeutet, dass die vorliegende Kalkulationsmethode in der Praxis anwendbar ist.</abstract>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Architektur und Bauingenieurwesen » Bauingenieurwesen"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20010623</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_574</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_574">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-670/d110102.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_574"
+            DMDID="DMD_wuppertal_elpub_574">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_574"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

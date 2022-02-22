@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_11690">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Heideggers Philosophie der Geschichtswissenschaft</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Brauer, Nicolas A.</displayForm>
+                        <namePart type="family">Brauer</namePart>
+                        <namePart type="given">Nicolas A.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-05-11</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Heideggers Philosophie der Geschichtswissenschaft wird in dieser Studie unter Rückgriff auf Paul Feyerabends Wissenschaftstheorie als „anarchistisch“ gekennzeichnet. Damit wird gemeint, dass sie mit den Standards des Rankeschen Paradigmas der modernen Geschichtswissenschaft bricht. Anstatt den objektivierenden Verfahren der modernen Geschichtswissenschaft zu folgen, plädiert Heidegger für eine spekulative Form der Geschichtsschreibung, welche er als „eigentliche Historie“ bezeichnet. Diese richtet sich nicht an den empirischen und wertneutralen Maßstäben der Geschichtswissenschaft aus, sondern versucht, geschichtliche (Existenz-)Möglichkeiten freizulegen und anzueignen. Zu diesem Zweck sollen sich die eigentlichen Historiker*innen abseits von den methodologischen und theoretischen Standards der Disziplin unmittelbar von den Ansprüchen ihrer geschichtlichen Situation sowie ihren persönlichen Absichten leiten lassen. Was diese Theorie Heideggers konkret für die geschichtswissenschaftliche Praxis bedeutet, wird durch eine Kontextualisierung von seinen Thesen in den Debatten um geschichtswissenschaftliche Methodik, Evidenz, Konsens, Kausalität, Narrative und Begriffsbildung erörtert. Das offensichtliche Problem von Heideggers Theorie liegt aus einer wissenschaftstheoretischen Perspektive in deren Tendenz zu reiner Spekulation, während ihr Potenzial umgekehrt in der Beförderung innovativer Forschungsansätze gesehen werden kann. 
+Ursprüngliche Fassung: da2002.pdf, überarbeitete Fassung vom April 2021: da2002b.pdf</abstract>
+                    <classification authority="ddc">100</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » Philosophie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20210511-093016-8</identifier>
+                    <identifier type="doi">10.25926/phrb-9e84</identifier>
+                    <identifier type="sys">HT021113687</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_11690</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_11690">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fba/philosophie/diss2020/brauer/da2002.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_11690"
+            DMDID="DMD_wuppertal_elpub_11690">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_11690"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

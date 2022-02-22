@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_8140">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Tomographic reconstruction of gravity wave parameters from satellite-borne airglow observations</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Song, Rui</displayForm>
+                        <namePart type="family">Song</namePart>
+                        <namePart type="given">Rui</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-03-16</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Gravity waves (GWs) play an important role in atmospheric dynamics. Especially in the mesosphere and lower thermosphere (MLT) dissipating GWs provide a major contribution to the driving of the global wind system. The scales of GWs are often too small for most general circulation models (GCMs) to be resolved, and the effect of GWs on the global circulation has to be parameterized in the models. Therefore global observations are needed to better constrain GW parameterizations, as well as the part of the GW spectrum that is explicitly resolved in GCMs. The small scales of GWs are, however, also a challenge for global observations from space. Limb sounding is often used in satellite missions because it provides information about the middle atmosphere dynamics with a good vertical resolution. However, typical limb sounders have a poor horizontal resolution along the instruments’ line-of-sight (LOS). Conversely, nadir sounders have a better horizontal resolution, but suffer from a poor vertical resolution. For this reason, the wave structures deduced from satellite observations are limited either in vertical or horizontal resolution due to the viewing geometry. In this thesis, novel satellite-borne observation strategies are investigated for the purpose of resolving 2-D or 3-D small-scale GW structures in the MLT region with unprecedented spatial resolution. The proposed observation strategies are simulated for an instrument measuring atmospheric temperatures from the rotational structure of O₂ A-band airglow emissions. One observation mode is tailored to detect GWs in the mesopause region by combining limb and sub-limb measurements for improving the spatial resolution that conventional limb sounders can achieve. This observation mode works only for the layered emissions with high optical thickness in the lower atmosphere (e.g. O₂ A-band nightglow). A key element of this observation mode is the ability of the satellite to operate in so called ‘target mode’, i.e. to stare with the instrument’s LOS at a particular point in the atmosphere and collect radiances at different viewing angles. These multi-angle measurements of a selected region allow for a 2-D tomographic reconstruction of the atmospheric state, in particular of GW structures. Simulation results have shown that one major advantage of this observation strategy is that GWs can be observed on much smaller scale than conventional limb observations. The derived GW sensitivity function demonstrates that the ‘target mode’ observations are able to capture GWs with horizontal wavelengths as short as ~50 km for a large range of vertical wavelengths. This is far better than the horizontal wavelength limit of 100-200 km obtained from conventional limb sounding. Another observation strategy is proposed for a 3-D tomographic reconstruction of GWs by combining consecutive limb measurements from multiple horizontal directions. This observation strategy is applicable to any kind of airglow emissions, including layered and non-layered (e.g. O₂ A-band dayglow) emissions. It includes two different observation modes, namely the ‘sweep mode A’ and ‘sweep mode B’. The basic idea of this observation strategy is to horizontally sweep the instrument’s LOS such that the volume of interest can be observed from multiple directions. Simulation results have shown that the sweep modes are capable of reconstructing 3-D wave structures. The ‘sweep mode A’ combines forward-, backward-, and side-looking measurements for a 3-D tomographic retrieval of GWs. But this observation mode is only sensitive to GWs propagating perpendicularly to the orbital track. The ‘sweep mode B’ is based on a pseudo 3-D tomographic reconstruction technique. It reconstructs 3-D wave structures by combining the projected 2-D waves in the along- and across-track directions. Numerical results have shown that the horizontal resolution in both along- and across-track directions are affected by an adjustable turning angle, which can also adjust the spatial coverage of this observation mode. The ‘sweep mode B’ provides an unbiased estimation of the real horizontal wavelength of a wave, which can be further used to reduce the errors in deducing GW momentum flux, a parameter that is directly related to the potential driving of the background winds by GWs.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20180316-101809-7</identifier>
+                    <identifier type="sys">HT019642075</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_8140</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_8140">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2018/song/dc1801.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_8140"
+            DMDID="DMD_wuppertal_elpub_8140">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_8140"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

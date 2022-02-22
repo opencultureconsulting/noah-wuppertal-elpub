@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5300">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Systematische Untersuchung und Reduktion der Elektronenfeldemission von metallischen Oberflächen in Teilchenbeschleunigern</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lagotzky, Stefan</displayForm>
+                        <namePart type="family">Lagotzky</namePart>
+                        <namePart type="given">Stefan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Systematic field emission (FE) measurements on flat Nb, Cu and Mo surfaces relevant for typical accelerating structures or photocathode substrates of linear accelerators are reported. The emitter activation and the resulting emitter number density of such surfaces as function of the applied electric activation field Eact were measured with a field emission scanning microscope. Furthermore, a statistical model for the activation of typical emitters on metallic surfaces is developed and shows good agreement with the obtained results. Finally the FE of the emission sites were characterized by local I(E) measurements. Correlated surface analysis techniques (e.g. scanning electron microscopy, energy dispersive X-ray spectroscopy, optical profilometry, atomic force microscopy) were used to identify the origin of the FE.
+ Measurements on dry-ice-cleaned (DIC) single crystal Nb after electropolishing (EP) and buffered chemical polishing (BCP) showed first FE at Eact ≥ 120 MV m-1 with onset fields of Eon ≥ 50 MV m-1. Conditioning of typical emitters up to 1 µA did not weaken the FE significantly. An alternative polishing with a combination of centrifugal barrel polishing and light BCP resulted in first FE at Eact = 175 MV m-1 with Eon ≥ 80 MV m-1. Heat treatments (HT) of single crystal and large grain Nb after high-pressure rinsing showed strong FE activation at THB ≤ 400°C with Eon ≥ 40 MV m-1 due to the dissolution of the native Nb₂O₅-layer. Accordingly, thermal oxidation of single crystal Nb in air after DIC led to a reduction of FE and finally to an activation at Eact ≥ 150 MV m-1. The implications of these results for the superconducting accelerating structures of a future International Linear Collider are discussed.
+ FE measurements on diamond-turned and partially etched Cu surfaces relevant for the future Compact Linear Collider accelerating structures showed FE at Eact ≥ 30 MV m-1 with Eon ≥ 20 MV m-1 caused by particulates. Cleaning with ionized N₂ (DIC) reduced the FE with activation at Eact ≥ 130 MV m-1 (Eact ≥ 140 MV m-1) and Eon &gt; 30 MV m-1 caused by surface defects. Furthermore, a strong activation effect was observed. A possible breakdown mechanism based on this effect is discussed.
+ Comprehensive investigations of the FE of annealed single crystal and polycrystalline Mo plugs used as substrates for actual photocathodes revealed no FE up to Eact = 50 MV m-1, but HT at THB ≥ 400°C activated FE with Eon ≥ 20 MV m-1. O₂ loading into the Mo surface, however, partially weakened these emitters. X-ray photoelectron spectroscopy of comparable Mo samples showed the dissolution of the native oxide layer during such HT. These results reveal the suppression of FE by native Mo oxides.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20151109-105045-5</identifier>
+                    <identifier type="sys">HT018807932</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5300</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5300">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2015/lagotzky/dc1520.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5300"
+            DMDID="DMD_wuppertal_elpub_5300">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5300"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

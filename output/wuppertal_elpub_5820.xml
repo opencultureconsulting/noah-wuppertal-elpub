@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5820">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Identification of bottom-quarks in searches for new heavy resonances decaying into boosted top-quarks with the ATLAS detector and a development of an improved b-tagging algorithm</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Duda, Dominik</displayForm>
+                        <namePart type="family">Duda</namePart>
+                        <namePart type="given">Dominik</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This thesis describes the performance of the common ATLAS b-tagging algorithms in the context of the dense environments that can be found in the decay of boosted top quarks into jets and addresses the problems related to such conditions. The results of these studies lead to the development of two new multivariate-analysis-based b-tagging algorithms called MVb and MVbCharm. The training of these new b-tagging algorithms is modified with respect to that of the current tools to take the conditions of boosted topologies better into account. Their performance is significantly improved relative to the standard algorithms for high pT b-jets and jets contained in dense environments. 
+ These new developed b-tagging algorithms are calibrated with a new approach using reconstructed candidate events that have one charged lepton, missing transverse momentum, and at least four jets in the final state. Expanding on previous b-tagging calibration studies, the b-tagging efficiencies are measured not only as a function of the transverse momentum or the pseudorapidity of the jets, but also as a function of quantities that are sensitive to close-by jet activity. The results measured in data are in good agreement with the predictions from simulation. 
+ Furthermore, it is shown how a connection between the topology of reconstructed candidate decays and the b-tagged jets contained in the studied events can be exploited to improve the sensitivity to search for new heavy particles decaying into top-quark pairs by classifying the selected candidate events into several categories. The expected exclusion limits on the cross section times branching ratio for the production of hypothetical new heavy particles decaying into top-quark pairs are significantly improved using this new event classification scheme.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20160530-114431-6</identifier>
+                    <identifier type="sys">HT019002124</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5820</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5820">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2016/duda/dc1608.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5820"
+            DMDID="DMD_wuppertal_elpub_5820">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5820"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

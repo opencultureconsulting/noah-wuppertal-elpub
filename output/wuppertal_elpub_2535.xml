@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_2535">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Eine </nonSort>
+                        <title>darstellungstheoretische Interpretation der RSK-Korrespondenz</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hutschenreuter, Anja</displayForm>
+                        <namePart type="family">Hutschenreuter</namePart>
+                        <namePart type="given">Anja</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Robinson-Schensted-Knuth-Korrespondenz beschreibt eine Bijektion zwischen Paaren von Semistandard-Young-Tableaux gleicher Form und Matrizen mit ganzzahligen nicht-negativen Einträgen. In der vorliegenden Arbeit gehen wir der Frage nach, inwiefern die RSK-Korrespondenz darstellungstheoretisch betrachtet kanonisch ist. Wir realisieren die RSK-Korrespondenz dafür als Umparametrisierung zweier Kristallbasen des quantisierten Koordinatenringes, der insbesondere die Darstellung einer Quantengruppe ist. Das Kernstück der Arbeit ist der kombinatorische Beweis, dass die sogenannten Kashiwara-Operatoren die RSK-Korrespondenz respektieren.</abstract>
+                    <abstract type="content" lang="eng">The Robinson-Schensted-Knuth correspondence describes a bijection between matrices with non-negative integers entries and pairs of semistandard Young Tableaux of the same shape. The algorithm describing this correspondence is by no means obvious. The question which motivated this work was whether the RSK-Algorithm is canonical from the point of view of representation theory. We realize the RSK correspondence as a correspondence between two parametrizations of the crystal basis of the algebra of quantum matrices, which is a representation of a quantum group. The main technical point is to prove the compatibility of Kashiwara operators with the RSK correspondence.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20120131-081225-7</identifier>
+                    <identifier type="sys">HT017119991</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_2535</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_2535">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2011/hutschenreuter/dc1121.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_2535"
+            DMDID="DMD_wuppertal_elpub_2535">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_2535"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

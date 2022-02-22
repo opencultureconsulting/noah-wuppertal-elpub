@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3793">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Towards the Reconstruction of Fiber Tracts in the Human Brain by Means of 3D Polarized Light Imaging</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dohmen, Melanie</displayForm>
+                        <namePart type="family">Dohmen</namePart>
+                        <namePart type="given">Melanie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">3D Polarized Light Imaging (PLI) is a method to measure the nerve fiber orientation in thin sections of human post-mortem brains. The birefringence of the myelin sheaths allows the derivation of the in-section direction angle as well as the absolute value of the out-of-section inclination angle. In this thesis, the reconstruction of fiber tracts based on PLI measurements is approached. The development of a suitable simulation framework forms a central point of this work. Furthermore, the inclination sign ambiguity is investigated with additional tilted measurements and the solution is optimized in a Markov Random Field framework. At last, a suitable tractography algorithm is developed for PLI. The results illustrate that random errors in the direction angle can be compensated by a particle filter. The simulation of complex fiber arrangements is able to reproduce important sources of errors, which are approached in the future development of 3D Polarized Light Imaging.</abstract>
+                    <abstract type="content" lang="ger">3D Polarized Light Imaging (PLI) ist eine Methode zur Messung der Nervenfaserorientierung in histologischen Schnitten des menschlichen Gehirns. Durch die Doppelbrechung der Myelinscheiden kann die Richtung in der Ebene (Direktion) und die Richtung aus der Ebene heraus (Inklination), welche ohne Vorzeichen bestimmt wird, abgeleitet werden. Diese Arbeit beschäftigt sich mit der Rekonstruktion von Nervenfasertrakten basierend auf PLI-Messungen. Ein Schwerpunkt besteht in der Entwicklung eines Simulationsprogramms. Weiterhin wird die Vorzeichenambiguität des Inklinationswinkels mit zusätzlichen gekippten Messungen untersucht und eine Lösung mit Hilfe eines Markov Random Fields optimiert. Zuletzt wird ein geeignetes Traktographie-Verfahren für PLI entwickelt. Die Ergebnisse zeigen, dass zufällige Fehler des Direktionswinkels durch ein Partikefilter ausgeglichen werden können. Die Simulation von komplexen Faseranordnungen kann wichtige Fehlerquellen reproduzieren, welche bei der zukünftigen Entwicklung der PLI Methode in Angriff genommen werden.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20131125-120753-1</identifier>
+                    <identifier type="sys">HT018094475</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3793</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3793">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2013/dohmen/dc1314.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3793"
+            DMDID="DMD_wuppertal_elpub_3793">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3793"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

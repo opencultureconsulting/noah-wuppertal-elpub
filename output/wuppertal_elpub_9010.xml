@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9010">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>BODIPY as building blocks for Near InfraRed-Active Organic Compounds</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Squeo, Benedetta Maria</displayForm>
+                        <namePart type="family">Squeo</namePart>
+                        <namePart type="given">Benedetta Maria</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-04</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">BODIPY (4,4-difluoro-4-bora-3a,4a-diaza-s-indacene) dyes are promising building blocks for the synthesis of NIR organic materials. Compared to other dye classes, these systems offer unique attractions such as excellent thermal/photochemical stability, intense absorption/emission profiles, negligible triplet-state formation, and small Stokes shifts. Their optoelectronic and semiconductor properties can be finely tuned via facile synthetic modifications on the dipyrromethene core. 
+In this PhD thesis new organic NIR materials (both π-conjugated polymers and small molecules) based on α,β-unsubstituted meso-positioning thienyl BODIPY have been developed, and their optoelectronic properties and their performances when applied in organic light emitting diodes and organic solar cells have been characterized and evaluated. 
+In more details, on the one hand donor-acceptor quarterthiophene-BODIPY polymers have been synthesized and the dependence of their optoelectronic, electrochemical and charge transporting properties of the resulting α,β-unsubstituted meso-positioning thienyl BODIPY quaterthiophene-based polymers from the alkyl side chain position have been studied. Tail-to-tail (TT) positioning of the alkyl side chains at the two central thiophenes of the quaterthiophene segment results in lower Egopt, higher energy levels and increased hole mobility as compared to head-to-head (HH) positioning. However, even though the synthesized polymers exhibit high electron affinity, higher even than that of the fullerene PC71BM, they present only p-type behavior in field effect transistors (FETs) independent of the alkyl side chain positioning. Furthermore, one of the synthesized copolymers containing a vinylene bond in the middle of the quarterthiophene segment exhibits a panchromatic absorption spectrum ranging from 300 nm to 1100 nm and an optical band gap around 1 eV, suitable for near infrared (NIR) organic photovoltaic applications as electron donor. Preliminary power conversion efficiency (PCE) in bulk heterojunction (BHJ) solar cells of 1.1% in polymer:[6,6]-phenyl-C71-butyric acid methyl ester (PC71BM) [1:3 weight ratio] has been achieved, demonstrating very interesting and promising photovoltaic characteristics, such as good fill factor (FF) and open circuit voltage (Voc). 
+On the other hand, BODIPY unit have been symmetrically conjugate with oligothienyls in a “metal-free” A-D-A (acceptor-donor-acceptor) oligomer emitting in the near-infrared (NIR) thanks to the delocalisation of the BODIPY low-lying lowest unoccupied molecular orbital (LUMO) over the oligothienyl moieties, as confirmed by density functional theory (DFT). A PL efficiency of 20% in the solid state (vs. 30% in dilute solutions) has been retained by incorporating such a dye in a wider gap polyfluorene matrix and demonstrate organic light-emitting diodes (OLEDs) emitting at 720 nm. We achieved external quantum efficiencies (EQEs) up to 1.1%, the highest value recorded so far by a “metal-free” NIR-OLED not intentionally benefitting from triplet-triplet annihilation. These results demonstrate for the first time the promise of A-D-A type dyes for NIR OLEDs applications thereby paving the way for further optimization.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20181204-140514-6</identifier>
+                    <identifier type="sys">HT019900004</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9010</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9010">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2018/squeo/dc1818.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9010"
+            DMDID="DMD_wuppertal_elpub_9010">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9010"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

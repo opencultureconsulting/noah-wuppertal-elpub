@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_4690">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Synthese von Aminokonduritolen und Inositolphosphat-Analoga</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gün, Ümit</displayForm>
+                        <namePart type="family">Gün</namePart>
+                        <namePart type="given">Ümit</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">After the discovery that the Inositolphosphate (1,4,5)IP₃ is a Ca-mobilizing ”second messenger” and involved in diverse cell processes the research in that field has been focussed on the synthesis of this and other inositol phosphates aswell as their modified analogues to clarify their role in cell processes and their potential use for pharmaceutical purposes. Up to now a number of analogues have been described. In this thesis the synthesis of new analogues is described, which in contrary to known systems exhibit a better binding to Protein-Domäne. 
+
+In the first part of the thesis an unsymmetrical concept is described which enables the synthesis of some phosphorylamino substituted inositol derivatives via building blocks, which could be also used for the preparation of so called mixed phosphorylamino inositols. 
+
+The second part deals with the synthesis especially of bisphosphorylamino inositol derivatives by a symmetrical concept. In this approach new anti-benzenebisimines could be prepared, which are isosters of anti-benzenedioxide. 
+
+The synthesized phosphorylamino inositol derivatives could be successfully transformed to potential prodrug systems. 
+
+In a third part more inositolphosphate analogues could be prepared, which are not accessible or only with great difficulties via the desribed routes, using a direct route starting from myo-inositol via its 1,2-mono- or 1,2-diacetal protected derivatives. 
+
+In a fourth chapter the synthesis of amino- and diamino conduritols either in racemic or in enantiomerically pure form is described using building blocks which have been made accessible by the above mentioned methods. With regard to ”Green Chemistry” only reactions were used, which use water as solvent. In this context a cascade click reaction could be developped which allows the simple transformation of bromohydrins into 1,2- aminoalcohols and thereby the easy preparation of aminofunctionalized conduritols and inositols.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20150318-124858-9</identifier>
+                    <identifier type="sys">HT018858630</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_4690</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_4690">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2014/guen/dc1435.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_4690"
+            DMDID="DMD_wuppertal_elpub_4690">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_4690"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

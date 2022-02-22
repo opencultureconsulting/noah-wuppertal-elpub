@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_2565">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>In search of the Box-Anomaly with the WASA facility at COSY</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Redmer, Christoph Florian</displayForm>
+                        <namePart type="family">Redmer</namePart>
+                        <namePart type="given">Christoph Florian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Der Zerfallskanal ƞ→π⁺π−γ des ƞ Mesons ist sensitiv für Beiträge der Box-Anomalie. Bisher sind nur wenige Messungen differentieller Verteilungen dieses Zerfallskanals veröffentlicht worden und die Messungen mit der größten statistischen Signifikanz sind nicht effizienzkorrigiert. Der Vergleich dieser Messungen mit theoretischen Vorhersagen weist Unstimmigkeiten zwischen verschiedenen Messungen auf, die mit der fehlenden Effizienzkorrektur in Verbindung gebracht werden. Mit dem WASA Detektor am Speicherring COSY wurde eine neue Messung des Zerfallskanals ƞ→π⁺π−γ durchgeführt. Nach Untergrundabzug steht ein Datensatz von 13738 ± 136 Ereignissen des Zerfallskanals zur weiteren Analyse zur Verfügung. Basierend auf diesem Datensatz wurden die differentiellen Verteilungen der Teilchen im Endzustand untersucht. Die Winkelverteilung der Pionen kann durch P-Wellen Wechselwirkung beschrieben werden. Im Rahmen der Fehler sind Beiträge höherer Bahndrehimpulse, wie etwa der Ladungssymmetrie verletzende D-Wellenbeitrag, vernachlässigbar. Die Form des Energiespektrums der Photonen im Ruhesysten des ƞ Mesons zeigt eine starke Abweichung von der Vorhersage des einfachsten eichinvarianten Matrixelementes auf. Die Abweichung wurde auch in den früheren Messungen beobachtet. Im Gegensatz zu diesen Messungen wurden in der hier vorgestellten Messung auch Photonenenergien unter 50 MeV registriert. Zusätzlich deutet die Achsenaufteilung der Histogramme auf eine um einen Faktor 2 bessere Auflösung in der Photonenenergie hin. Die Form der Energieverteilung wird durch eine Rechnung des Vector Meson Dominance Modelles, die als Erweiterung des einfachsten Matrixelementes benutzt wird, gut beschrieben.</abstract>
+                    <abstract type="content" lang="eng">The decay mode ƞ→π⁺π−γ allows to study the box anomaly. Experimental data on differential distributions are scarce and of low statistic. Additionally, the largest samples have not been corrected for efficiency. Recent theoretical interpretations yield ambiguous results. Using the WASA facility at COSY, a new measurement has been done. A background subtracted sample of 13738 ± 136 events of the decay ƞ→π⁺π−γ has been obtained. Differential distributions of the particles in the final state have been studied after being corrected for efficiency. The pion angular distribution can be described by P-wave interaction. Evidence for contributions of higher angular momenta, such as a C-violating D-wave contribution, is not found. The investigation of the photon energy spectrum in the ƞ rest frame reveals a strong disagreement with the simplest gauge invariant matrix element. This was also observed by previous measurements. In contrast to previous measurements of the photon energy line shape, the obtained spectrum also covers the region below 50 MeV photon energy and the bin width, which is matched with the resolution of the variable, is smaller by a factor of 2. The line shape of the distribution is found in agreement with VMD calculations which are used as an unitarized extension of the simplest matrix element.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20120215-124949-1</identifier>
+                    <identifier type="sys">HT017139840</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_2565</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_2565">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2010/redmer/dc1033.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_2565"
+            DMDID="DMD_wuppertal_elpub_2565">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_2565"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

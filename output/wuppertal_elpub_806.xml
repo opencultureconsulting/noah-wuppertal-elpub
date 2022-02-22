@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_806">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Triphenylamine and Carbazole-Based Hole Transporting Materials - and their Applications in Organic Field-Effect Transistors</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Souharce, Benjamin</displayForm>
+                        <namePart type="family">Souharce</namePart>
+                        <namePart type="given">Benjamin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-07-09</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Hole transporting materials based on π-conjugated organic compounds have already been the focus of intense research and investigation. Nevertheless, the charge transport mechanism occurring in such materials and its relation to the device stability in oxidizing atmosphere remains not fully clear. It has been demonstrated many times that the stability issue for p-type organic materials is one of the key features for their application in organic field-effect transistors. 
+In a conjoint work with the Evonik Degussa Creavis, research were lead to develop a series of novel polymeric compounds usable as semiconducting layers of organic field-effect transistors (OFETs) e.g. for printed radio frequency identification tags (RFID Tags) being processed and working under ambient conditions. In this regard, arylamine-based aromatic materials such as triphenylamine- or carbazole-type polymers constitute ideal candidates for such applications due to their good environmental stability and OFET properties coupled with an easy processability of the polymeric materials. 
+In chapter 2, a series of six main chain polytriphenylamines (PTPAs) with different alkyl substituants and aromatic systems will be described. Chapter 3 deals with different N-aryl substituted 3,6-polycarbazoles and their use as active layer in OFETs. At last, higher condensed aromatic systems based on the phenazine unit comprising model compounds as well as the corresponding polymers are presented in chapter 4. In each chapter, the key reactions are depicted including history, mechanism and the application for our approach. Additionally, a short introduction presents the state-of-the-art for the mentioned classes of compounds. 
+All the materials synthesized during this work were intensively analysed by spectroscopic methods and most of them tested as semiconducting layer in OFET devices in order to determine the influence of certain structural factors on the intrinsic electronic properties of the compounds. The stability problem has been intensively addressed and discussed with the goal to provide a better understanding of the oxidation/degradation mechanism taking place in OFET devices while operating.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20080287</identifier>
+                    <identifier type="sys">HT015598702</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_806</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_806">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2008/souharce/dc0806.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_806"
+            DMDID="DMD_wuppertal_elpub_806">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_806"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

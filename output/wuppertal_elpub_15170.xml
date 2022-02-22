@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_15170">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="fre">
+                        <title>La liberté de soi - Enquête croisée sur l’attitude critique chez Adorno et Foucault</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Buhlmann, Pierre-Albert</displayForm>
+                        <namePart type="family">Buhlmann</namePart>
+                        <namePart type="given">Pierre-Albert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-08-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Diese Promotionsschrift verhandelt kritisch das Problem der Subjektivität in den Philosophien Theodor W. Adornos und Michel Foucaults. Subjektivität wird hierbei verstanden als die reflexive, kritische und existentielle subjektive Konstitution, die von einem (moralischen) Agenten in Hinblick auf moralische Anforderungen und eine gegebene konkrete Situation erarbeitet wird. Die Arbeitshypothese ist, dass ein kritischer Vergleich der beiden Autoren es ermöglicht, die jeweiligen Konzeptionen von Subjektivität eingehender zu verstehen, was es wiederum ermöglicht, die ethische Bedeutsamkeit der beiden Philosophien herauszuarbeiten. Um das Denken Adornos und Foucaults zu vergleichen, werden ihre ethischen Entwürfe mit Rücksicht auf Kant diskutiert, weil letzterer für beide Autoren gleichermaßen eine Hauptbezugsgröße darstellt. Die Arbeit ist in drei Teile gegliedert. Der erste diskutiert die von Foucault durchgeführte Genealogie des modernen westlichen Subjekts. Im zweiten Teil wird der genuin moralische Gehalt der Philosophie Adornos untersucht, weil nur hierdurch verständlich wird, wie Subjektivitätskonstitution für Adorno heute noch möglich sein kann. Der letzte Teil bespricht sodann Foucaults Analysen antiker Philosophie, und insbesondere seinen zentralen Begriff der Selbstsorge und die politische und philosophische Subjektivitätskonstitution, die das antike Wahrsprechen (parrêsia) für Foucault darstellt. So vermag die vorliegende Arbeit nicht nur, neue moralphilosophische Aspekte im Denken Adornos und Foucaults zu beleuchten, sondern auch aufzuzeigen, wie eine moralische Subjektivitätskonstitution jenseits normativer Regelwerke heute noch begriffen werden kann. 
+Cette thèse doctorale analyse la question de la subjectivité dans les œuvres de Theodor W. Adorno et de Michel Foucault. Par subjectivité, nous entendons la constitution subjective réfléchie, critique et existentielle produite par un agent (moral) par rapport à des revendications normatives et une situation sociale donnée. L’hypothèse de travail est qu’une comparaison critique des deux auteurs permet de comprendre de manière complémentaire leurs conceptions respectives de la subjectivité, et ainsi la signifiance éthique de leurs philosophies. Afin de comparer les pensées d’Adorno et de Foucault, leurs propositions éthiques sont discutées en rapport à Kant. L’agencement de la thèse en trois parties permet de mettre en rapport les deux penseurs, sans courir le risque de confondre leurs pensées. Dans la première partie, nous discutons la généalogie du sujet occidental moderne, telle que présentée par Foucault. La seconde partie analyse le contenu proprement moral de la philosophie adornienne. Cela constitue en effet la seule manière de comprendre comment une constitution de subjectivité est encore possible aujourd’hui pour Adorno. La dernière partie enfin examine les analyses foucaldiennes portant sur la philosophie antique, en particulier sa conception du souci de soi, ainsi que la constitution de subjectivité politique et philosophique que représente pour Foucault le dire-vrai antique (la parrêsia). Ainsi, le présent travail parvient non seulement à éclairer d’importants nouveaux aspects de philosophie morale dans la pensée d&apos;Adorno et de Foucault, mais il montre également comment une constitution morale de subjectivité est encore concevable aujourd’hui, au-delà de règlements normatifs.</abstract>
+                    <classification authority="ddc">100</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » Philosophie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20210823-105730-3</identifier>
+                    <identifier type="doi">10.25926/q0bz-g577</identifier>
+                    <identifier type="sys">HT021142328</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_15170</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_15170">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fba/philosophie/diss2020/buhlmann/da2004.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_15170"
+            DMDID="DMD_wuppertal_elpub_15170">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_15170"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

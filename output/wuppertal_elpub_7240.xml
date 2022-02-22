@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_7240">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Financial instability and the macroeconomy: measurement, interdependency and the role of monetary policy</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kremer, Manfred</displayForm>
+                        <namePart type="family">Kremer</namePart>
+                        <namePart type="given">Manfred</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The recent crisis brought to the fore the issue of systemic risk, an issue still not sufficiently well understood. The Great Recession put this deficit to the spotlight such that researchers and policy authorities all around the world stepped up efforts to increase our theoretical and empirical understanding of how systemic risk evolves, how it affects the real economy (and vice versa), and which policy tools may address systemic risk both ex ante (crisis prevention) and ex post (crisis management). The three papers of this dissertation shall help closing some of the related knowledge gaps. Chapter 2 tackles systemic risk from a measurement perspective. It presents a financial stress index called the Composite Indicator of Systemic Stress, CISS, with systemic stress understood as materialised systemic risk. Its distinctive design highlights the systemic dimension of financial stress by applying time-varying correlation weights to the aggregation of individual indicators into the composite indicator. I furthermore estimate a threshold VAR model to identify a level of financial stress at which it depresses the real economy and thus becomes fully systemic. Chapter 3 puts the CISS into a broader macro-model perspective to investigate the interrelationships between financial stress, the real economy and monetary policy. Standard and non-standard monetary policy is measured by a short-term interest rate and the growth rate of the ECB balance sheet, respectively. The CISS turns out to be a major and robust driver behind the dynamics of almost all model variables. Chapter 4 adopts a similar VAR setup but allows for independent regime switches in coefficients and error variances, respectively. The CISS impacts particularly strongly on economic activity in the systemic crisis regime that combines the highest shock variances with a stronger transmission of financial shocks to the real economy.</abstract>
+                    <subject>
+                        <topic>Financial stability</topic>
+                        <topic>Systemic risk</topic>
+                        <topic>Monetary policy</topic>
+                    </subject>
+                    <classification authority="ddc">339</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170927-113943-5</identifier>
+                    <identifier type="sys">HT019471280</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_7240</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_7240">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2016/kremer/db1615.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_7240"
+            DMDID="DMD_wuppertal_elpub_7240">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_7240"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

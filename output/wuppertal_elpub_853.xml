@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_853">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Quadratkristallgitter - Universell anziehende Objekte in den Kategorien der Kristallgitter mit festem Höchstgewicht</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Konrad, Thomas</displayForm>
+                        <namePart type="family">Konrad</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-07-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Untersucht werden kristalline Graphen von endlich-dimensionalen Darstellungen der komplexen, halbeinfachen und endlich-dimensionalen Lie-Algebren. Zur Untersuchung wird die Klasse der Quadratkristallgitter eingeführt, die sich besonders gut dazu eignet. Im Zentrum der Arbeit stehen die kristallinen Graphen vom Typ A_2. In diesem Fall wird eine einfache Formel für die Gewichtsmultiplizitäten angegeben, eine besonders einfache Realisierung und eine lokale Charakterisierung, die eine Verbesserung der Arbeit von John Stembridge darstellt. Abschließend wird gezeigt, wie sich die Ergebnisse auf den einfach verbundenen Typ verallgemeinern lassen, und Vermutungen angestellt, welches der Ergebnisse am besten geeignet sein könnte, um auf die anderen Typen verallgemeinert zu werden.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20080293</identifier>
+                    <identifier type="sys">HT015608742</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_853</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_853">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2008/konrad/dc0807.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_853"
+            DMDID="DMD_wuppertal_elpub_853">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_853"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

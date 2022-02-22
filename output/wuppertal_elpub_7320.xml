@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_7320">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Corporate Effectuation - Effectual Strategy for Corporate Management</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mathiaszyk, Laura Paulina</displayForm>
+                        <namePart type="family">Mathiaszyk</namePart>
+                        <namePart type="given">Laura Paulina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Managers, who chose strategies that allow employees to co-create, work positively with unforeseen events and/or follow new paths with means at hand, are crucial to successful companies and for innovative outcomes. These characteristics are essential for effectual decision-making that fits today’s managerial challenges perfectly, especially since uncertainty and complexity increase steadily in the corporate world. Effectual decision-making, with its roots in the research of entrepreneurial expertise, is one possible path to deal with that context. This dissertation bridges the effectuation approach (Sarasvathy, 2001) originally linked to the new venture context, to the corporate world.
+ In three main parts, this work investigates how managers, think, decide and act. Specifically, this dissertation works out 1) what kind of outcomes could arise when utilizing the unique entrepreneurial heuristics of effectuation in a corporate setting, 2) how complexity perception affects managers’ decision-making, and 3) how decision-making strategy varies over different cultures. All parts are built along one red line that strives to answer the central question of challenges and chances effectual decision making holds for managers in a corporate setting.</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20171005-112809-5</identifier>
+                    <identifier type="sys">HT019471207</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_7320</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_7320">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2017/mathiaszyk/db1705.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_7320"
+            DMDID="DMD_wuppertal_elpub_7320">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_7320"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

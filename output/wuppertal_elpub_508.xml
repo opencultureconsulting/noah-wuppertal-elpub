@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_508">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Effiziente Katalysatoren für die regioselektive Hydroformylierung von Olefinen zu unverzweigten Aldehyden</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hoff, Dietmar</displayForm>
+                        <namePart type="family">Hoff</namePart>
+                        <namePart type="given">Dietmar</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003-02-13</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die vorliegende Arbeit befasst sich mit der Synthese neuer zweizähniger phosphazyklischer Liganden mit großem Bisswinkel. Das Verhalten dieser neuen Liganden bei der rhodiumkatalysierten Hydroformylierung von terminalen und internen Olefinen wurde eingehend untersucht. 
+Die ditertiären Phosphane mit axial chiralem sowie trizyklischem Phenoxazin- bzw. Phenoxaphosphan-Rückgrat konnten in kurzen und effizienten Syntheserouten zugänglich gemacht werden. Bei der rhodiumkatalysierten Hydroformylierung von terminalen und internen Olefinen mit diesen Liganden wurden teils hervorragende Aktivitäten und Selektivitäten von bis zu 130:1 (1-Octen), 10:1 (2-Octen) und 19:1 (Raffinat II) zugunsten des unverzweigten Aldehyds erzielt. Diese Phosphane zählen damit zu den aktivsten und selektivsten bislang bekannten ditertiären Phosphanliganden für die rhodiumkatalysierte Hydroformylierung terminaler sowie interner Olefine. 
+Neuartige zweizähnige Phosphanliganden mit Benzo[c]phenanthren-Skelett wurden in guten Ausbeuten durch nucleophile Phosphinierung von 2,11-Difluorbenzo[c]phenanthren mit den entsprechenden Metallphosphiden zugänglich gemacht. Schlüsselschritt der Synthese des Fluoraromaten ist die Lewissäure-katalysierte Zyklisierung des 1,1-Di-(p-fluorphenylethyl)epoxyethan zum 2,11-Difluorhxahydrobenzo[c]phenanthren. Durch Analyse des ¹H-NMR-Spektrums sowie durch die Röntgenstruktur konnte gezeigt werden, dass in einer stereospezifischen und -selektiven Reaktion unter strenger Befolgung der Baldwin-Regeln bevorzugt das cis-verknüpfte System gebildet wird.</abstract>
+                    <abstract type="content" lang="eng">This work deals with the synthesis of new bidentated phosphacyclic ligands with wide bite angles. The behaviour of these new ligands in rhodium-catalyzed hydroformylation of terminal and internal olefins has been studied in detail. 
+The bidentated phosphines with axial chirality as well as triclyclic phenoxazine and phenoxaphosphine backbone have been prepared in short and efficient procedures. In rhodium-catalyzed hydroformylation of 1-octene excellent activities and n-selectivities up to 130:1 have been observed. The high isomerisation rates detected in hydroformylation of 1-octene lead also to selective formation of the n-aldehyde in rhodium-catalyzed hydroformylation of a 2-octene mixture (n/i = 10:1) and raffinate II (n/i = 19:1). 
+The bidentated phosphines with benzo[c]phenanthrene skeleton are accessible by nucleophilic phosphination of 2,11-difluorobenzo[c]phenanthrene with the respective metal phosphides. The key step in the synthesis of the fluoroaromatic compound is the cyclisation reaction of the 1,1-di-(p-fluorophenylethyl)epoxyethane to the 2,11-difluorohexahydrobenzo[c]phenanthrene. By means of double cycloalkylation two six-membered rings have been formed in one step. Based on the analysis of the ¹H-NMR-spectrum and the X-ray structure the stereoselective and -specific formation of the cis-compound has been proved. A mechanism of this reaction is postulated.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20030059</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_508</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_508">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-603/d090208.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_508"
+            DMDID="DMD_wuppertal_elpub_508">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_508"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

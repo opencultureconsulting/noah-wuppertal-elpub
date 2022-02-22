@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_532">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Synthese von Naturstoffen auf Inositolbasis ausgehend von para-Benzochinon</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Podeschwa, Michael Alois Linus</displayForm>
+                        <namePart type="family">Podeschwa</namePart>
+                        <namePart type="given">Michael Alois Linus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003-12-19</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Cyclitols, polyhydroxylated five- and six-membered carbocycles, are isolated from natural sources as single compounds or as part of more complex structures and play key functions in biological systems. Especially during the last two decades, a new level of attention was focused on inositol phosphates after the discovery, in 1983, that myo-inositol-1,4,5-trisphosphate (Ins(1,4,5)P₃) is a Ca2+-mobilizing second messenger. 
+In this work a de novo strategy for the preparation of inositol derivatives is presented. Starting from p-benzoquinone, optically pure compounds in both forms can be prepared easily via enzymatic resolution of derived diacetoxy conduritol B yielding the building blocks of this concept. 
+In the first part, several myo-inositol phosphates were synthesized by use of either a C₂-symmetrical or a non-symmetrical approach. Among others, a new, very short and effective route to myo-Ins(1,3,4,5)P₄, myo-Ins(1,2,3,4,5)P₅, myo-Ins(1,2,4,5,6)P₅, myo-Ins(1,2,3,5,6)P₅ and myo-Ins(2,3,4,5,6)P₅ is presented. 
+The second part further emphasizes the potential of this de novo approach in the construction of non-racemic inositol phosphate derivatives. The obtained azido-conduritols were transformed into several azido-myo-inositols on a multigram scale without the need for chromatographic separation. The described efficient, high-yielding routes allowed the introduction of nitrogen-containing functional groups in 1-, 3-, 4- and 6-position of the cyclitol ring system to give several pure azido- and amino-myo-inositols in both enantiomeric forms. 
+In the third chapter a practical route is described for the preparation of a wide variety of enantiomerically pure inositol isomers. The potential of this concept is demonstrated by easy synthesis of myo-, L-chiro-, D-chiro-, scyllo-, epi-, allo- and neo-inositol derivatives. 
+In the fourth chapter a new synthetic approach is described for the preparation of branched cyclitols from conduritol B by stereoselective hydroformylation, thereby extending the synthetic potential of the versatile building blocks by transforming them in two steps into carbasugar systems. 
+To demonstrate the potential of this versatile approach Mycothiol, a GSH-similarity on inositolbasis, is synthesized by a new and diastereoselective access in the last chapter.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20030485</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_532</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_532">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-628/d090306.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_532"
+            DMDID="DMD_wuppertal_elpub_532">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_532"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

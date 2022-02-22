@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9690">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Scattering meson and baryon resonances in lattice QCD</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Paul, Srijit</displayForm>
+                        <namePart type="family">Paul</namePart>
+                        <namePart type="given">Srijit</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-08-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">We study meson and baryon resonances in QCD using lattice techniques. Specifically, we investigate the systems where two incoming stable hadrons strongly interact to form a resonance which then later decays to produce the same outgoing stable hadrons except for a difference in the phase. This phase shift encodes information about the resonance. On the lattice, the Lüscher formalism connects the infinite volume phase shift to finite volume spectra. In order to obtain the spectra on the lattice, we compute the necessary correlation functions involving the two-hadron operator and the single-hadron operator which have the quantum numbers of the resonance. We develop a new method to compute these two-point correlation functions to reduce their computational costs which is prohibitively expensive using conventional methods. Using this new method, we obtain the spectra and compute the relevant phase shifts which enable us to extract the resonance parameters. This method also facilitates the computation of three-point correlation functions with an electromagnetic current insertion. Therefore, we extend our analysis, to compute these three-point functions, which is related to the infinite volume transition form factor and resonant photocoupling through the Briceno, Hansen, Walker-Loud formalism. In this thesis, we present results from applying this method to extract the lowest-lying ρ meson resonance parameters (mᵨ,gρππ) in the ππ channel, transition form factor (Vπγ→ππ(s,q²)) for a range of center of mass energies (√s) and photon virtualities (q²), and resonant photocoupling (gρπγ), as well as the first results for the lowest-lying Δ baryon resonance parameters (mΔ,gΔπN) in the πN channel.</abstract>
+                    <abstract type="content" lang="ger">In dieser Arbeit werden Meson und Baryon Resonanzen in QCD mit Gittermethoden studiert. Der Fokus ist hier bei auf die Untersuchung der Systeme gelegt bei denen stabile Hadrons mit der Starken-Wechselwirkung interagieren. Diese Interaktion auch als Resonanz bezeichnet führt zu einem Phasenschift der ausgehenden Teilchen. Mit der Differenz der Phase können nun Ausagen über die Art der Resonanz getroffen werden. Aus dem sogenannten Lüscher Formalismus folgt nun das die infinite Volumenphase mit dem finiten Volumenspektrum zusammenhängt, welches auf dem Gitter bestimmt werden kann. Für dies werden die Berechnung bestimmter Korrelations Funktionen benötigt, die das Hadronensystem beschreiben können. 
+In dieser Arbeit haben wir eine neue Methode entwickelt um diese Zwei-Punkt-Korrelations Funktionen zu bestimmen. Diese Methode reduziert den erheblichen numerischen Aufwand der Berechnung im Vergleich zu den konventionelen Methoden. Mit Hilfe des von uns entwickelten Verfahren wurden die Hadronenspektren und die jeweiligen Phasenshifts bestimmt, so dass die entsprechenden Resonanzparameter berechnet werden konnten. Darüber hinaus kann das Verfahren zur Bestimmung von Drei-Punkt Korrelations Funktionen unter Einbezug des elektromagnetischen Strom benutzt werden. Die Drei-Punkt Funktionen können nun mit dem Briceno-Hansen-Walker-Loud Formalismus zur die Bestimmung der Photonkopplung der Resonanz benutzt werden. 
+In dieser Arbeit bestimmen wir der Parameter der ersten Rho-Resonanz (mᵨ,gρππ), für den Pion-Pion Kanal, fuer den sogenannten Transition Form Faktor (Vπγ→ππ(s,q²)) für verschiedene Energien im Massenmittelpunkt-Frame (√s) und verschiedene Photonenvirtualitäten (q²), die resonante Photonbindung, so wie Resultate (mΔ,gΔπN) fuer die erste Delta-Baryon Resonanz im Nukleon-Pionen Kanal.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20190820-152722-0</identifier>
+                    <identifier type="doi">10.25926/h3jk-fe50</identifier>
+                    <identifier type="sys">HT020235912</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9690</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9690">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2019/paul/dc1918.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9690"
+            DMDID="DMD_wuppertal_elpub_9690">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9690"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

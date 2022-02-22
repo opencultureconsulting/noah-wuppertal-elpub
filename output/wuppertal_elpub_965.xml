@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_965">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Ein </nonSort>
+                        <title>praxisorientierter empirischer Ansatz zur Bestimmung des Ausfallverhaltens konventioneller Bremssysteme in Personenkraftwagen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Althaus, Dirk</displayForm>
+                        <namePart type="family">Althaus</namePart>
+                        <namePart type="given">Dirk</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-03-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Der Funktionsumfang im Kraftfahrzeug nimmt bekanntlich stetig zu. Neben vollständig neu entwickelten Systemen werden aber auch bestehende durch zusätzliche Funktionen erweitert. Besonders für Sicherheitssysteme kann dies weitreichende Folgen haben, da solche Mehrbelastungen nicht nur zur Minderung der Zuverlässigkeit beitragen können, sondern evtl. auch die Sicherheit herabsetzen. 
+Durch die steigende Vernetzung der Systeme und Komponenten untereinander ist es darüber hinaus nicht mehr ausreichend, die Komponenten nur getrennt voneinander zu betrachten. 
+In dieser Arbeit wird ein praxisorientierter Ansatz zur Zuverlässigkeits- und Sicherheitsbewertung eines konventionellen Bremssystems entwickelt. Als Berechnungsgrundlage des Systemansatzes dient eine sehr umfangreiche Datenbasis mit Garantiedaten von Zulieferern zu nahezu allen Systemkomponenten, die mit einem bewährten Zuverlässigkeitsprognosemodell ausgewertet wird. Darüber hinaus stehen weitere unabhängige Daten des Kraftfahrt-Bundesamtes (KBA), des Allgemeinen Deutschen Automobilclubs (ADAC) sowie einer Prüforganisation (Gesellschaft für Technische Überwachung mbH, GTÜ) zur Verfügung. 
+Die ermittelten Komponentendaten werden anschließend in einem hardwarebasierten Systemansatz zur Berechnung der Systemzuverlässigkeit genutzt. Des Weiteren wird ein neuer funktionaler Ansatz entwickelt, durch den die Betrachtung beispielsweise identischer Funktionen in verschiedenen Systemkonzepten ermöglicht wird und weitere Fragestellungen hinsichtlich der Sicherheit konventioneller Bremssysteme beantwortet werden können.</abstract>
+                    <abstract type="content" lang="eng">The amount of functions in vehicles is continuously increasing. In addition to fully new developed systems, existing systems are getting enlarged by further functions. Especially for safety related systems this can have an extensive impact, because such additional loads may not only lead to decreasing reliability but also to reduced safety. 
+Due to the increasing integration of systems and components among each other it is no longer sufficient to analyze components separately. 
+In this thesis a practice-oriented approach for reliability and safety assessment for conventional brake systems is developed. A very large amount of datasets of real guarantee data from suppliers for nearly all components of the system were analyzed with a reliability prediction model to build up the main base of the computation of the system approach. Other independent data from the German Federal Motor Transport Authority (Kraftfahrt-Bundesamt; KBA), the German Automobile Association (Allgemeiner Deutscher Automobilclub; ADAC) and a Technical Inspection Authority (Gesellschaft für Technische Überwachung mbH, GTÜ) were available. 
+Then the calculated component data were afterwards used in a hardware-based system approach to evaluate the system reliability. Furthermore a new functional-based approach is developed, that allows analyzing e.g. the same function in different system designs and can be used to answer further questions with regard to safety of conventional brake systems.</abstract>
+                    <abstract type="content" lang="fre">Il est bien connu que le nombre de fonctions dans l’automobile croît continuellement. En plus de systèmes nouvellement développés, ceux déjà existants sont élargis au moyen de fonctions supplé-mentaires. En ce qui concerne les systèmes de sécurité en particulier, cette croissance peut avoir des conséquences considérables, car de telles surcharges peuvent non seulement contribuer à l’amoindrissement de la fiabilité, mais également diminuer la sécurité. 
+En outre, en raison de l’interconnexion croissante des systèmes et composants, il n’est plus suffisant de considérer les composants uniquement indépendamment les uns des autres. 
+Dans cette thèse sera développée une approche pratique de l’évaluation de la fiabilité et de la sécurité d’un système de freinage conventionnel. Comme bases de calcul de l’approche du système seront utilisées de vastes données de base, comportant des données réelles garanties par les fournisseurs concernant presque tous les composants de systèmes, qui seront exploitées grâce à un modèle de pronostic de la fiabilité avéré. De plus, d’autres données indépendantes, provenant du Kraftfahrbundesamt (KBA – Administration nationale de l’automobile), du Allgemeiner Deutscher Automobilclub (ADAC – Club automobile allemand), ainsi que d’une organisation de contrôle (GTÜ – Gesellschaft für Technische Überwa-chung mbH) sont à disposition. 
+Les données sur les composants évaluées seront ensuite utilisées dans une approche du système basée sur le hardware pour un calcul de la fiabilité du système. Par ailleurs, une nouvelle approche fonctionnelle sera développée, qui rendra possible d’une part une considération de fonctions identiques dans différents concepts de systèmes et qui, d’autre part, permettra de répondre à d’autres questions du point de vue de la sécurité des systèmes de freinage conventionnels.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Maschinenbau und Sicherheitstechnik » Sicherheitstechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20090324</identifier>
+                    <identifier type="sys">HT015878151</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_965</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_965">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/sicherheitstechnik/diss2009/althaus/dd0901.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_965"
+            DMDID="DMD_wuppertal_elpub_965">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_965"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

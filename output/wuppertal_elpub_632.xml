@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_632">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entwicklung einer Methode zur EDV - gestützten Abbildung von Managementsystemen unter besonderer Berücksichtigung der Flexibilität, dargestellt am Beispiel ausgewählter Aspekte des Arbeitsschutzmanagements</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Rudolph, Harald</displayForm>
+                        <namePart type="family">Rudolph</namePart>
+                        <namePart type="given">Harald</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-03-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Anforderungen an Unternehmensmanagementsysteme und deren Flexibilität nehmen ständig zu. In der vorliegenden Arbeit wird eine Methode entwickelt und an Aspekten des Arbeitsschutzmanagements überprüft, mit der es möglich ist die Elemente eines Managementsystems auf die Struktur und die Prozesse eines Unternehmens abzubilden. Dazu wird eine formalisierte und strukturierte Form der Beschreibung der Elemente des Managementsystems, der Elemente der Arbeitssysteme des Unternehmens, der Schnittstellen und der Komponenten der Flexibilität vorgestellt. Die Methode geht von &quot;strukturbestimmten&quot; und &quot;prozessbestimmten&quot; Arbeitssystemen des Unternehmens aus, auf deren Elemente die Elemente des Managementsystems abgebildet werden. Die Abbildung erfolgt in 6 Schritten mit einem Vorgehensmodell. Das Vorgehensmodell wird zur Anwendung in der Praxis in eine Softwarelösung überführt . Die Überprüfung der Methode erfolgt am Beispiel eines Arbeitsschutzmanagementsystems. Die Weiterentwicklung des vorgestellten methodischen Ansatzes wird in der Übertragung auf andere Managementsysteme und deren Integration gesehen.</abstract>
+                    <abstract type="content" lang="eng">Demands of company management systems and their flexibility are increasing continuously. The present work develops a method and proves it on certain aspects industrial safety management. This method allows relating a management system’s elements to the structure and processes of a company. Therefore we describe a formalised and structured form of the management system’s elements, the company’s work system’s elements and the flexibility’s interfaces and components. This method is based on structure-determined and process-determined work systems of the company. The management system’s elements are related to these work system elements. The method of relating those elements to each other consists of 6 steps, accompanied by a procedure model. The procedure model will be turned into a software solution for practical use. This method is proven based on the example of an industrial safety management system. Further development of the presented method approach is planned by passing it on to other management systems and by integrating these systems.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Maschinenbau und Sicherheitstechnik » Sicherheitstechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20010175</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_632</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_632">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-728/d140101.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_632"
+            DMDID="DMD_wuppertal_elpub_632">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_632"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

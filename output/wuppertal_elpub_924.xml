@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_924">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zur Erfassung hygrothermischer Einflüsse auf das nichtlineare Trag- und Schädigungsverhalten von Stahlbetonflächentragwerken</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wörmann, Ralf</displayForm>
+                        <namePart type="family">Wörmann</namePart>
+                        <namePart type="given">Ralf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004-07-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Während ihrer Nutzungsdauer werden Stahlbetontragwerke neben den mechanischen Belastungen auch durch weitere umgebungs- und betriebsbedingte Einwirkungen beansprucht. Die Schadensdiagnostik an bestehenden Konstruktionen zeigt, dass Schädigungen häufig durch ein Zusammenwirken der dynamischen Einwirkungen aus Wind und Verkehr mit den hygrisch und thermisch induzierten Zwang- und Eigenbeanspruchungen verursacht werden.
+ Zur numerischen Simulation derartiger Schädigungsprozesse in Stahlbetonflächentragwerken wird eine gekoppelte thermo-hygro-mechanische Materialformulierung entwickelt und unter Verwendung der Finite-Element-Methode umgesetzt. Als Ausgangspunkt dient dabei eine zeitinvariante Stahlbetonmodellierung, welche die wesentlichen Phänomene der physikalischen Nichtlinearitäten erfasst. Als Analysekonzept wird eine zeitvariante Multi- Level-Iterations-Strategie verwendet. Zur Beschreibung der zeitlich und örtlich veränderlichen Feuchte- und Temperaturverteilung im Beton werden gekoppelte Bilanzgleichungen formuliert. Um die in Flächentragwerken überwiegend in Dickenrichtung verlaufenden Ausgleichsvorgänge abzubilden, wird daraus ein Berechnungsverfahren abgeleitet und in ein neu entwickeltes, auch eigenständig lauffähiges Programmmodul implementiert. Die resultierenden Zustandsgrößen dienen als Grundlage zur Bestimmung der thermisch und hygrisch induzierten Verzerrungen und resultierenden Beanspruchungen des Tragwerks. Unter der Annahme einer additiven Zerlegung der Gesamtverzerrungen werden diese in der Simulationstechnik auf der Materialpunktebene erfasst. Eine derartige Vorgehensweise ermöglicht, neben den Zwangbeanspruchungen auch die ebenfalls auftretenden Eigenspannungen in der Modellierung zu berücksichtigen. Die Einbindung der Materialformulierung erfolgt in ein vierknotiges, isoparametrisches und schubweiches Schalenelement, welches auf einer mittelflächenorientierten, rotationsvariablenbehafteten Schalentheorie basiert.
+ Die Modellvorstellungen werden anhand von aussagekräftigen Berechnungsbeispielen verifiziert. Durch die Anwendung des Simulationskonzeptes zur Untersuchung der thermohygro- mechanischen Schädigungsentwicklung einer Kühlturmschale und der thermomechanischen Schädigungsentwicklung eines Spannbetonturms einer Windenergieanlage wird ein möglicher Anwendungsbereich aufgezeigt. Die Ergebnisse verdeutlichen, dass die lastunabhängigen Einwirkungen nicht nur die Gebrauchstauglichkeit und Dauerhaftigkeit derartiger Tragwerke beeinträchtigen, sondern auch Auswirkungen auf die Tragfähigkeit haben können. Dabei liefern globale Schädigungsindikatoren einen zusätzlichen Eindruck über den Verlauf schädigungsbedingter Steifigkeitsdegradationen.
+ Derartige Schädigungsanalysen können dazu genutzt werden, Stahlbetontragwerke bereits in der Planungsphase schädigungsresistenter und damit dauerhafter auszulegen. Darüber hinaus besteht die Möglichkeit, sie auch zur Beurteilung der E.ektivität von geplanten Sanierungsmaßnahmen bereits geschädigter Tragwerke einzusetzen und deren Restlebensdauer wirklichkeitsnah zu prognostizieren.</abstract>
+                    <abstract type="content" lang="eng">Reinforced concrete structures are subjected to environmental and operational loads in addition to mechanical loads during their service life. Investigations of damages on existing structures often conclude that in addition to dynamic loads from wind and traffic also moisture and thermal induced stresses have initiated the damages.
+ For the numerical simulation of such damaging processes in reinforced concrete shell structures, a coupled thermo-hygro-mechanical material formulation is developed and implemented in a finite-element-system. The basis is a time-invariant model for reinforced concrete subjected to short-term loads, including the essential physical non-linear features. A time-variant multi-level-iteration-strategy is applied as an analysis concept. Coupled balance equations are formulated to determine the temperature and moisture distribution, which vary over time and location in the concrete. A calculation method is developed as a stand-alone program module, to simulate the balance processes in shell structures, which mostly occur in thickness direction. The resulting state variables are being used to determine the thermal and moisture induced strains and resulting stresses on the material point level, under the assumption of the decomposition of the total strains. This allows to consider the existing eigenstresses in addition to the constraint effects in the modeling of such a procedure. The integration of the material formulation takes place in a four-noded, isoparametric, Reissner-Mindlin-type finite shell element, based on a middle-surface orientated shell theory with rotational variables.
+ The model components are verified by means of significant calculation examples. A possible field of application is shown, first by the investigation of the damage evolution in a cooling tower shell caused by thermo-hygro-mechanical loads, second by the damage evolution in a prestressed concrete tower of a wind turbine caused by thermo-mechanical loads. The results demonstrate, that the load-independent stresses do considerably reduce the serviceability and durability of such structures, but also may reduce their load bearing capacity. The damage-induced stiffness degradation becomes transparent by global indicators.
+ The model may be used in the design stage to predict damages on reinforced structures and thus compensate the impact in order to ensure a long life. Furthermore it can be applied to analyse the efficiency of maintenance work of already damaged structures and to predict the remaining service life.</abstract>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Architektur und Bauingenieurwesen » Bauingenieurwesen"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20040338</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_924</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_924">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1030/dd0406.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_924"
+            DMDID="DMD_wuppertal_elpub_924">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_924"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

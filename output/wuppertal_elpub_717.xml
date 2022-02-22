@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_717">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Carba-analoge Phospho- und Etherlipide - Enzymunterstützte Synthesen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lange, Karsten</displayForm>
+                        <namePart type="family">Lange</namePart>
+                        <namePart type="given">Karsten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005-02-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Molecules with diglyceride substructure are among the most important biologically active molecules in living organisms. While certain phospholipids are essential constituents of cell membranes, others are involved in highly important processes of cell regulation and signal transduction, resulting – due to specifically acting phospholipases - in the formation of important second messengers such as arachidonic acid, 1,2-sn-diglycerides and inositolphosphates. Platelet activating factor (PAF), an etherlipid, is an important mediator of platelet aggregation, inflammation and anaphylaxis. In view of indications in the literature that carba- analogues of phospholipids could be interesting substrates (competitive inhibitors) e.g. of phospholipase A₂ and the fact that certain derivates of PAF e.g. 1-Octadecyl -2-O-Methyl -sn-glycero -3- phosphocholine (Edelfosine, ET-18-O-CH3) are potential anticancer compounds, we decided to synthesize a series of such molecules in which the sp³ oxygens of the acyl groups are systematically replaced by sp³ carbons. These changes result in isosteric mimics of the natural molecules with minimal deviations regarding bond angles and bond distances. 
+
+Based on the retrosynthesis of the title compounds (Schemes Abb. 20 and Abb. 61) a flexible synthetic strategy for the synthesis of both enantiomeric series of these target molecules was developed. Key building blocks for the molecular backbone were a) the 1,3 diol 10, functionalized in the potential sn-2 position and thus representing the “glycerol” backbone; b) thioketals derived from aldehydes carrying the desired chain length, which were then coupled with 10 using the well established Corey-Seebach methodology. The resulting achiral 1,3- diols - already carrying all essentials functionalities - were then desymmetrized into the corresponding monoesters of high enantiomeric purities using lipase-catalyzed esterifications. Interestingly, two lipases were identified which allowed complementary the synthesis of either (R)- or (S)- configurated molecules. These, in turn, were converted into the desired isosters of phospholipids (R)- and (S)- 31, 32 using known procedures. Their absolute configurations were secured both via chemical correlation with known compounds and X-ray crystallography of a crystalline derivative. 
+
+Using much the same technology the “glycerol” backbone for PAF analogues was constructed. In this cased it proved best to introduce first the ether linkage by alkylation. Kinetic resolution of the resulting esters allowed the required introduction of chirality, finally leading to the desired isosteric analogues of PAF (R)- and (S)- 49. 
+
+Both enantiomeric series of the target molecules can now be studied regarding their biological activities and interactions with phospholipases A₂, C and D.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20050085</identifier>
+                    <identifier type="sys">HT014310058</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_717</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_717">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-813/dc0417.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_717"
+            DMDID="DMD_wuppertal_elpub_717">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_717"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_652">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>politische System im Irak unter der Baath-Partei</title>
+                        <subTitle>Stabilisierungs- und Destabilisierungsfaktoren der Baath-Herrschaft</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bassireh, Salar</displayForm>
+                        <namePart type="family">Bassireh</namePart>
+                        <namePart type="given">Salar</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005-01-19</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die vorliegende Arbeit ist ein Versuch, mit wissenschaftlichen Mitteln die politischen, institutionellen und ideologischen Strukturen des politischen Systems des Irak unter der Baath-Herrschaft einer Analyse zu unterziehen und damit die Ursachen und Hintergründe für die Herrschaftsstabilisierung bzw. Destabilisierung der Baath-Partei im Irak zu untersuchen. Es sollen die politischen und sozialen Strukturen des totalitären und patrimonialen orientalischen Staates und dessen ideologische Legitimation am Beispiel des Irak unter der inzwischen gestürzten Baath-Herrschaft analysiert werden. Die vorliegende Forschungsarbeit wird anhand folgender Fragestellungen bzw. Themenkomplexe untersucht:
+ 1) Wie ist es möglich, dass kein Herrschaftssystem zwischen 1920 und 1968 Staat und Gesellschaft auch nur annähernd so total kontrollieren konnte, wie es seit 1968 im Irak geschah? Und wie kam es, dass nach 1968 im Irak eine solche Herrschaft wie die der Baath-Partei entstehen konnte?
+ 2) Was waren die Faktoren und Hintergründe für die Stabilisierung und Destabilisierung der Baath-Herrschaft im Irak seit ihrer Machtübernahme 1968?
+ 3) Dienen Krieg und Gewalt als Instrument der Politik zur Herrschaftsstabilisierung? Und welches Verhältnis bestand im Irak unter der Baath-Herrschaft zwischen Krieg und Politik?
+ 4) Inwieweit spielten wirtschaftliche und machtpolitische Interessen eine Rolle in Bezug auf die Anwendung von Krieg und Repression nach innen und nach außen? Gibt es einen Einfluss der Innenpolitik auf die Außenpolitik?
+ 5) Inwiefern beeinflusst eine Einzelperson als Entscheidungsträger bzw. als Patrimonialherrscher persönlich den Verlauf von Krieg und Frieden?
+ 6) Welche Rolle spielte die internationale Politik in Bezug auf die Stabilitäts- bzw. Destabilitätsfrage der Baath-Herrschaft im Irak?
+ Es soll gezeigt werden, wie Politik im Irak funktionierte bzw. umgesetzt wurde, vor allem, wie sich die wichtigsten Charakterzüge dieser Politik in den letzten 35 Jahren herausgebildet haben und wie sie sich verstehen lassen.
+ Darüber hinaus werde ich unter den Aspekten des patrimonialen Modells von Max Weber bzw. des neopatrimonialen Modells von Peter Pawelka die charakteristischen Merkmale der Herrschaftsstruktur des politischen Systems im Irak unter der Baath-Partei und Saddam Husseins als eines patrimonialen und charismatischen Führers untersuchen.
+ Die Bearbeitung dieses Themas soll einen Beitrag zur Konfliktforschung und Konfliktlösung (regionale und ethnische Konflikte) in der Dritten Welt leisten.</abstract>
+                    <classification authority="ddc">320</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Human- und Sozialwissenschaften » Politikwissenschaft"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20050037</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_652</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_652">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-748/da0301.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_652"
+            DMDID="DMD_wuppertal_elpub_652">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_652"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

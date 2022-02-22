@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5450">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Direkt-Arylierung als neue Methode zur Synthese von Donor-Akzeptor-Copolymeren</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kowalski, Sebastian</displayForm>
+                        <namePart type="family">Kowalski</namePart>
+                        <namePart type="given">Sebastian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Im Rahmen dieser Dissertation wurden alternierende Copolymere vom Donor-Akzeptor-Typ durch Direkt-Arylierungs-Polykondensation (DAP) synthetisiert. Dabei wurden die Reaktionsparameter der Direkt-Arylierung variiert, um so deren Einfluss auf die Polykondensation entsprechender Monomerpaare untersuchen zu können.
+ Der Fokus lag dabei zunächst auf dem alternierenden Copolymer Poly[cyclopentadithiopen-alt-benzothiadiazol] (PCPDTBT), welches ein vielversprechendes Donor-Polymer für die Anwendung in organischen Solarzellen darstellt. Im weiteren Verlauf dieser Untersuchungen wurden die bevorzugten Reaktionsparameter auch auf Kupplungsreaktionen von strukturähnlichen Monomeren übertragen. Dabei zeigte sich, dass das Einsatzgebiet der DAP-Methode begrenzt ist und vom Substitutionsmuster der verwendeten Monomere abhängt, insbesondere von elektronischen Faktoren.
+ Weiterhin wurden Copolymere vom Donor-Akzeptor-Typ durch Mikrowellen-unterstützte Direkt-Arylierungs-Polykondensation synthetisiert, und dabei speziell von Monomerpaaren, die unter konventioneller, thermischer Aufheizung eine geringe Reaktivität zeigten.
+ Im letzten Kapitel wurden die elektronischen Eigenschaften von einigen der synthetisierten Copolymere untersucht. Zwei PCPDTBT-Proben, die mittels Direkt-Arylierungs-Polykondensation oder Aryl-Aryl-Kreuzkupplung nach Stille hergestellt wurden, konnten vergleichend als Donor-Polymer in organischen Solarzellen vom „bulk-heterojunction&quot;-Typ getestet werden.</abstract>
+                    <abstract type="content" lang="eng">Aim of this thesis is the synthesis of donor-acceptor-type alternating copolymers by direct-arylation polycondensation (DAP). Hereby, the reaction parameters are variied in order to investigate their influence on the polycondensation reaction of appropriate monomer couples. The focus is set to the alternating copolymer poly[cyclopentadithiophene-alt-benzothiadiazole] (PCPDTBT) as target structure. PCPDTBT is a promising donor polymer for organic solar applications.
+ Afterwards, the preferred reaction parameters are transferred to other, structurally related monomer couples. The results of these DAP reactions show that the scope of the direct-arylation is limited and depends on the substitution pattern of the monomers, especially on electronic factors.
+ Further on, donor-acceptor-type copolymers are synthesized by microwave-assisted direct arylation polycondensations, especially of monomer couples that showed a low reactivity under conventional heating conditions.
+ In a last chapter, the electronic properties of some of the synthesized copolymers are investigated. Organic solar cells of the bulk heterojunction-type have been tested by comparing two PCPDTBT batches made via direct arylation polycondensation or Stille-type aryl-aryl-cross coupling.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20160113-113659-8</identifier>
+                    <identifier type="sys">HT018859781</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5450</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5450">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2015/kowalski/dc1530.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5450"
+            DMDID="DMD_wuppertal_elpub_5450">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5450"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_811">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Beitrag zur Biosensoranalytik von Tetracyclinrückständen in Lebensmitteln mittels Oberflächenplasmonresonanz</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Andree, Ulrike</displayForm>
+                        <namePart type="family">Andree</namePart>
+                        <namePart type="given">Ulrike</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-06-16</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In this work a major goal was to set up an indirect competitive assay format for the detection of tetracyclines in food matrices using surface plasmon resonance technology. As a receptor for tetracyclines TetR, a repressor protein binding tetracyclines in tetracycline-resistant bacteria, was used. Doxycycline derivatives, attached to the sensor surface, were used as competitors. It was shown that an indirect competitive assay format using TetR and doxycycline derivatives was possible (proof of principle). The assay format was characterized to identify the most important parameters for the optimization. After comparison of four different sensor chip surfaces (differing in surface chemistry and layer thickness) a carboxymethyldextrane surface was found most suitable in terms of minimal non-specific binding and good regeneration characteristics. Parameters that influenced the immobilization of the doxycycline derivatives, binding of the receptor protein and regeneration of the sensor surface were studied. Not only was the sensor surface shown to have crucial influence on the assay characteristics, but also the spacer length at the doxycycline derivative imparted the immobilization of the derivative and the subsequent binding of the receptor protein. A longer spacer led to a higher immobilization degree; on the other hand this was counteracted by the reduction of binding activity in the ligand-receptor system. This was proven for derivatives in solution and can also be seen on the carboxymethyldextrane surface. However, when immobilized on a monolayer sensor chip the doxycycline derivative with the longest spacer did not display lower receptor binding. The non-competitive format had to cope with a poor stability of the system accompanied by low precision and poor reproducibility. These rendered a sensitive analytics impossible. 
+ Parallel to the studies with the competitive assay format, a tetracycline specific screening assay described by Möller et al. [1] was validated. In this assay a gene regulation mechanism occrring in tetracycline-resistant gram-negative bacteria is mimicked: In the resistant bacterial cell the synthesis of a tetracycline efflux protein is controlled by a repressor protein (TetR) that in absence of tetracycline binds to a short DNA sequence, the tetracycline operator (tetO) and thus blocks the expression of the efflux protein. Tetracyclines present bind to the repressor protein and release it from the DNA. This mechanism was used for SPR measurements in honey.
+ Another goal in this work was the evaluation of the robustness of the screening assay in terms of reagent stability towards different storage conditions, different reagent lots and the application of the assay in different laboratories. Suitable storage conditions for the sensor chips were found. The repressor protein was very stable under all conditions tested, so were the sensor chips pre-immobilized with the operator DNA sequence. No difference between different lots of TetR was observed. Differing immobilization levels in loading sensor chips with the tetO fragment relating to different batches tetO and sensor chips used could easily be levelled through variation of the injection volumen of the fragment. The results obtained in the application of the screening assay to honey samples in a laboratory in Japan were in good compliance with the results obtained in our laboratory. Since the use of tetracyclines in honey production is not approved by the European Union a screening test for the use in the EU should be able to detect tetracycline concentrations below 10 µg/kg. Thus, efforts were made to lower the limit of detection (LOD) for tetracyclines in honey. Working parameters for the assay like injection time, injection volume and sample dilution were optimized, but did not lead to a lower LOD altogether. Since interfering matrix compounds seemed critical for the LOD, different approaches were made to find a sample preparation suitable to eliminate matrix interferences. The approaches included extraction procedures as well as deproteination, degradation of sugars and extraction of trace lipids. However, the complex composition of honey and the differences in composition of honeys from different geographical and floral origin in combination with the need for physiological conditions in the screening assay were challenges that were not overcome by the techniques employed. 
+ Comparing both assay formats investigated it was pointed out that the application of the competitive format had no advantage over the indirect assay with tetO.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20090680</identifier>
+                    <identifier type="sys">HT015970649</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_811</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_811">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2009/andree/dc0902.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_811"
+            DMDID="DMD_wuppertal_elpub_811">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_811"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

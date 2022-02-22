@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5190">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Ursachen für Geschlechterdifferenzen in Tests des Allgemeinen Wissens</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Engelberg, Philipp Meinolf</displayForm>
+                        <namePart type="family">Engelberg</namePart>
+                        <namePart type="given">Philipp Meinolf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In Tests des Allgemeinen Wissens wurden in der Vergangenheit häufig Geschlechterdifferenzen festgestellt, die einseitig zugunsten von Männern ausfallen. In dieser Dissertation wurden 2 potentielle Erklärungsmöglichkeiten hierfür überprüft, wobei es sich (a) um eine geringere Einschätzung des eigenen Wissens bei Frauen und (b) um eine stärkere Gewichtung von Interessengebieten von Männern in bestehenden Wissenstests handelt. In der ersten Untersuchung wurde experimentell überprüft, ob eine durch Vorgabe von leichten bzw. schwierigen Items manipulierte Einschätzung des eigenen Wissens zu höherer bzw. geringerer Leistung in einem Wissenstest führt. Im Ergebnis wiesen Selbsteinschätzung und Leistung generell einen positiven Zusammenhang auf. Die Selbsteinschätzung wurde zudem erfolgreich manipuliert. Dennoch zeigten Personen mit verringerter Selbsteinschätzung im Durchschnitt bessere Leistungen im Wissenstest als Personen mit erhöhter Selbsteinschätzung, weshalb die Hypothese, dass Geschlechterdifferenzen in Wissenstests durch Geschlechterdifferenzen in der Selbsteinschätzung verursacht werden, verworfen wird. Für die Überprüfung der zweiten Erklärungsmöglichkeit wurden die Interessen von Frauen und Männern mit einem hierfür entwickelten Interessenfragebogen erfasst und sämtliche Items des BOWIT und des Wissenstests des I-S-T 2000 R den Interessengebieten zugeordnet. Den Ergebnissen zufolge enthalten beide Tests mehrheitlich Items zu Themen, für die Männer sich durchschnittlich stärker interessieren. Im Anschluss wurde ein neuer Wissenstest entwickelt, der ausschließlich Items zu Interessengebieten von Frauen enthielt. Eine Testbatterie, bestehend aus diesem Wissenstest und dem Wissenstest des I-S-T 2000 R, weist eine 2-faktorielle Struktur auf. Frauen und Männern wird jeweils in einem Faktor der höhere Erwartungswert attestiert. Beide Faktoren korrelieren in vergleichbarer Höhe mit der Schulleistung. Die Parcels des I-S-T werden jedoch ausschließlich dem Faktor zugeordnet, in dem Männer den höheren Erwartungswert aufweisen. Den Ergebnissen zufolge sind Interessenunterschiede der Geschlechter somit für Leistungsunterschiede in Wissenstests von Bedeutung. Aufgrund mangelhafter Passung eines 1-faktoriellen und guter Passung eines 2-faktoriellen Messmodells wird die Frage aufgeworfen, ob die Auffassung des Allgemeinen Wissens als einzelne Fähigkeit angemessen ist.</abstract>
+                    <classification authority="ddc">150</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Human- und Sozialwissenschaften » Psychologie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20150910-113102-0</identifier>
+                    <identifier type="sys">HT018755229</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5190</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5190">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbg/psychologie/diss2015/engelberg/dg1502.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5190"
+            DMDID="DMD_wuppertal_elpub_5190">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5190"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

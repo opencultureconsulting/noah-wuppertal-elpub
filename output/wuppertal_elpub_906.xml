@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_906">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Quasiparticles, Dynamics and Thermodynamics in the XX Chain</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wiele, Klaus</displayForm>
+                        <namePart type="family">Wiele</namePart>
+                        <namePart type="given">Klaus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-03-25</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Arbeit beginnt mit einer kurzen Einfuehrung in das anisotrope Heisenberg-Modell (XXZ-Modell). Im Hauptteil werden als Spezialfaelle davon das XX-Modell und das Haldane-Shastry-Modell untersucht. Fuer das XX-Modell wird eine vollstaendige Beschreibung des Spektrums durch Spinonen (spezielle Quasiteilchen) gegeben. Die Beschreibung umfasst Teilchen-Wechselwirkung, Orbital-Wechselwirkung, Bethe-Ansatzgleichungen und eine alternative Herleitung der Thermodynamik fuer endliche Temperatur und endliches Magnetfeld. Ausserdem wird eine allgemeingueltige Darstellung des dynamischen Spin-Strukturfaktors gegeben und fuer verschiedene Faelle asymptotisch im thermodynamischen Limes und numerisch auf endlichen Systemen ausgewertet. Das Spektrum des Haldane-Shastry-Modell kann auch durch Spinonen parametrisiert werden. Die Arbeit gibt eine dezidierte Untersuchung eines einzelnen Orbitals und eine geschlossene Darstellung der Energie eines generischen Zustandes mit beliebig vielen Orbitalen. Fuer den Fall endlicher Temperatur ohne Magnetfeld wird die Thermodynamik hergeleitet. Dabei koennen Fehler in der bisherigen Literatur aufgedeckt werden. Die Arbeit schliesst mit technischen Anhaengen und einer Einfuehrung in Neutronenoptik.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20080112</identifier>
+                    <identifier type="sys">HT015497971</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_906</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_906">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2008/wiele/dc0801.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_906"
+            DMDID="DMD_wuppertal_elpub_906">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_906"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

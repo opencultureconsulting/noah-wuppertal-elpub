@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_10570">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>A </nonSort>
+                        <title>Rooted-Tree Based Derivation of ROW-Type Methods with Non-Exact Jacobian Entries for Index-One DAEs</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jax, Tim</displayForm>
+                        <namePart type="family">Jax</namePart>
+                        <namePart type="given">Tim</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-06-12</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Solving differential-algebraic equations (DAEs) eﬃciently by means of appropriate numerical schemes for time-integration is an ongoing topic in applied mathematics. In this context, especially when considering large systems that occur with respect to many ﬁelds of practical application eﬀective computation becomes relevant. In particular, corresponding examples are given when having to simulate network structures that consider transport of ﬂuid and gas or electrical circuits.
+ Due to the stiﬀness properties of DAEs, time-integration of such problems generally demands for implicit strategies. Among the schemes that prove to be an adequate choice are linearly implicit Rung-Kutta methods in the form of Rosenbrock-Wanner (ROW) schemes. Compared to fully implicit methods, they are easy to implement and avoid the solution of non-linear equations by including Jacobian information within their formulation. However, Jacobian calculations are a costly operation. Hence, necessity of having to compute the exact Jacobian with every successful time-step proves to be a considerable drawback.
+ To overcome this drawback, a ROW-type method is introduced that allows for non-exact Jacobian entries when solving semi-explicit DAEs of index one. The resulting scheme thus enables to exploit several strategies for saving computational eﬀort. Examples include using partial explicit integration of non-stiﬀ components, utilizing more advantageous sparse Jacobian structures or making use of time-lagged Jacobian information. In fact, due to the property of allowing for non-exact Jacobian expressions, the given scheme can be interpreted as a generalized ROW-type method for DAEs. This is because it covers many diﬀerent ROW-type schemes known from literature. To derive the order conditions of the ROW-type method introduced, a theory is developed that allows to identify occurring diﬀerentials and coeﬃcients graphically by means of rooted trees. Rooted trees for describing numerical methods were originally introduced by J.C. Butcher. They signiﬁcantly simplify the determination and deﬁnition of relevant characteristics because they allow for applying straightforward procedures. In fact, the theory presented combines strategies used to represent ROW-type methods with exact Jacobian for DAEs and ROW-type methods with non-exact Jacobian for ODEs. For this purpose, new types of vertices are considered in order to describe occurring non-exact elementary diﬀerentials completely. The resulting theory thus automatically comprises relevant approaches known from literature. As a consequence, it allows to recognize order conditions of familiar methods covered and to identify new conditions.
+ With the theory developed, new sets of coeﬃcients are derived that allow to realize the ROW-type method introduced up to orders two and three. Some of them are constructed based on methods known from literature that satisfy additional conditions for the purpose of avoiding eﬀects of order reduction. It is shown that these methods can be improved by means of the new order conditions derived without having to increase the number of internal stages. Convergence of the resulting methods is analyzed with respect to several academic test problems. Results verify the theory determined and the order conditions found as only schemes satisfying the order conditions predicted preserve their order when using non-exact Jacobian expressions.</abstract>
+                    <abstract type="content" lang="ger">Die eﬃziente Lösung diﬀerential-algebraischer Gleichungen (DAEs) mittels geeigneter numerischer Verfahren zur zeitlichen Integration ist ein anhaltendes Thema in der angewandten Mathematik. In diesem Zusammenhang wird eine eﬀektive Berechnung insbesondere im Fall zu betrachtender großer Systeme relevant, die in zahlreichen Feldern der praktischen Anwendung vorkommen. Beispiele hierfür ergeben sich vor allem bezüglich der Simulation von Netzwerk-Strukturen, die den Transport von Fluiden und Gasen oder elektrische Schaltungen betrachten.
+ Bedingt durch die Steifheits-Eigenschaften von DAEs erfordert die Zeitintegration solcher Probleme grundsätzlich implizite Methoden. Zu den Verfahren die sich als eine geeignete Wahl erweisen zählen linear-implizite Runge-Kutta Methoden in der Form von Rosenbrock-Wanner (ROW) Verfahren. Im Vergleich zu voll-impliziten Methoden sind sie einfach zu implementieren und vermeiden eine Lösung nicht-linearer Gleichungen, indem sie die Jacobi-Matrix in ihrer Formulierung berücksichtigen. Allerdings ist die Berechnung der Jacobi-Matrix eine teure Operation. Daher erweist sich die Notwendigkeit der Ermittlung der exakten Jacobi-Matrix mit jedem erfolgreichen Zeitschritt als ein großer Nachteil.
+ Um diesem Nachteil entgegen zu wirken wird ein ROW-Typ Verfahren vorgestellt, das für die Berechnung semi-expliziter DAEs vom Index eins die Verwendung nicht-exakter Einträge in der Jacobi-Matrix erlaubt. Das resultierende Verfahren ermöglicht es somit verschiedene Strategien zur Reduzierung des Rechenaufwands auszunutzen. Hierzu zählt unter anderem die Verwendung partieller expliziter Integration nicht-steifer Anteile, der Einsatz vorteilhafterer dünn besetzter Strukturen der Jacobi-Matrix oder die Nutzung zeitverzögerter Informationen. In der Tat kann das beschriebene Verfahren aufgrund der Eigenschaft einer Betrachtung nicht-exakter Jacobi-Matrizen als eine verallgemeinerte ROW-Typ Methode für DAEs interpretiert werden. Dies ist darauf zurück zu führen, dass es zahlreiche verschiedene, aus der Literatur bekannte ROW-Typ Verfahren beinhaltet.
+ Um die Ordnungsbedingungen der vorgestellten ROW-Typ Methode herzuleiten wird eine Theorie entwickelt, die eine graﬁsche Identiﬁzierung auftretender Diﬀerentiale und Koeﬃzienten mittels Wurzelbäume erlaubt. Wurzelbäume zur Beschreibung numerischer Methoden wurden ursprünglich von J.C. Butcher eingeführt. Sie vereinfachen die Bestimmung und Deﬁnition relevanter Eigenschaften erheblich, weil sie die Anwendung unkomplizierter Prozeduren ermöglichen. In der Tat vereint die vorgestellte Theorie Strategien, die zur Darstellung von ROW-Typ Methoden mit exakter Jacobi-Matrix für DAEs und ROW-Typ Methoden mit nicht-exakter Jacobi-Matrix für ODEs geläuﬁg sind. Zu diesem Zweck werden neue Knotentypen berücksichtigt um auftretende nicht-exakte Diﬀerentiale vollständig zu beschreiben. Die resultierende Theorie umfasst somit automatisch relevante, aus der Literatur bekannte Ansätze. In der Folge ermöglicht sie es Ordnungsbedingungen enthaltener bekannter Methoden zu erkennen und neue Bedingungen zu ermitteln.
+ Mit der entwickelten Theorie werden neue Koeﬃzientensätze hergeleitet, die es erlauben die vorgestellte ROW-Typ Methode bis zur Ordnung zwei und drei zu realisieren. Einige von ihnen sind auf Basis von aus der Literatur bekannten Methoden konstruiert, die Zusatzbedingungen zum Zweck der Vermeidung von Eﬀekten der Ordnungsreduktion erfüllen. Es wird gezeigt, dass diese Methoden mittels der neu hergeleiteten Ordnungsbedingungen verbessert werden können ohne die Anzahl interner Stufen erhöhen zu müssen. Die Konvergenz der resultierenden Methoden wird bezüglich verschiedener akademischer Testprobleme analysiert. Die Ergebnisse bestätigen die ermittelte Theorie und die gefundenen Ordnungsbedingungen, da nur jene Verfahren die Ordnung unter Betrachtung nicht-exakter Jacobi-Matrizen erhalten, welche die prognostizierten Ordnungsbedingungen erfüllen.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20200612-103531-4</identifier>
+                    <identifier type="doi">10.25926/e36a-vq51</identifier>
+                    <identifier type="sys">HT020535748</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_10570</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_10570">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2019/jax/dc1950.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_10570"
+            DMDID="DMD_wuppertal_elpub_10570">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_10570"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

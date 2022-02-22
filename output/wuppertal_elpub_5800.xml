@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5800">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Charakterisierung und erste Anwendungen eines GC-P-IRMS zur Analyse von Wasserstoffisotopen-Verhältnissen in atmosphärischen flüchtigen organischen Verbindungen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Meisehen, Thomas</displayForm>
+                        <namePart type="family">Meisehen</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Transportprozesse in der Atmosphäre sind ein aktuelles und wichtiges Forschungsthema. Sie sind von grundlegender Bedeutung für Wetter- und Klimamodelle und ihre Kenntnisse entscheidend, um Ausbreitungen von Luftmassen zu verstehen und zu prognostizieren. Messungen von flüchtigen organischen Verbindungen (VOC) liefern dabei einen wesentlichen Beitrag zur Analyse der entsprechenden Prozesse. Insbesondere die Analyse von Isotopenverhältnissen in VOC spielt in diesem Zusammenhang eine entscheidende Rolle.
+
+ Während der Fokus bisheriger Analysen von Isotopenverhältnissen in atmosphärischen VOC hauptsächlich auf Kohlenstoffisotopen lag, beschäftigt sich diese Arbeit mit der Analyse von Wasserstoffisotopen-Verhältnissen, die als wertvolle Zusatzinformationen genutzt werden können, um die Transportprozesse detaillierter zu untersuchen. Ein entsprechendes Messsystem wurde im Rahmen dieser Arbeit umfangreich charakterisiert und zur Analyse unbekannter Luftproben eingesetzt.
+ Die Charakterisierungsergebnisse zeigen, dass Tenax®TA ein geeignetes Adsorbens ist, um die bei der Analyse von Umgebungsluft nötigen Probenvolumina von bis zu 250 L anzureichern. Des Weiteren ergab eine detaillierte Analyse des Pyrolyse- Prozesses, bei dem die VOC bei 1450 °C in Wasserstoffmoleküle umgewandelt werden, dass das im Pyrolyse-Ofen verwendete Keramikrohr (Al₂O₃) regelmäßig mit einem leichten Kohlenwasserstoff konditioniert werden muss, um verlässliche Wasserstoffisotopen- Verhältnisse messen zu können. Die erreichbare Messgenauigkeit wurde mit Hilfe einer VOC-Test-Mischung untersucht. Dabei wurden Standardabweichungen (in δ-Werten) von weniger als 9‰ für die in der Test-Mischung enthaltenen Substanzen n-Pentan, Isopren, n-Heptan, 4-Methyl-2-pentanon, Toluol, n-Oktan, Ethylbenzol, m/p-Xylol und 1,2,4-Trimethylbenzol ermittelt. Zudem stimmen die gemessenen δ ²H-Werte für n-Pentan, n-Heptan, 4-Methyl-2-pentanon, Toluol und n-Oktan innerhalb von 9 ‰ mit den Ergebnissen einer unabhängigen Analyse der Wasserstoffisotopen-Verhältnisse der entsprechenden Reinsubstanzen überein. Es wurde darüber hinaus eine anzureichernde Mindestmenge von ∼50 ng Wasserstoff pro Substanz ermittelt, um die Wasserstoffisotopen-Verhältnisse verlässlich bestimmen zu können.
+ Die Anwendbarkeit des Messsystems zur Analyse unbekannter Luftproben wurde durch zwei Messreihen demonstriert. Dazu wurde zum einen die Umgebungsluft am Standort der Bergischen Universität Wuppertal analysiert. Die gemessenen δ ²H-Werte liegen für n-Pentan zwischen -196‰ und -86‰, für Toluol zwischen -86‰ und -62‰, für Ethylbenzol zwischen -94‰ und -16‰, für m/p-Xylol zwischen -122‰ und -68‰, für o-Xylol zwischen -75‰ und -35‰ und für 1,2,4-Trimethylbenzol zwischen -77‰ und -45‰. Durch einen Vergleich mit entsprechenden Quellwerten aus anderen Studien konnten Verkehrsemissionen als größter Einflussfaktor auf diese Luftproben ausgemacht werden. Zum anderen wurden die Wasserstoffisotopen-Verhältnisse in von Waldkiefern (Pinus sylvestris) emittierten Monoterpenen gemessen. Dabei konnte eine durch Trockenstress der Pflanzen hervorgerufene Anreicherung in ²H bei α-Pinen und 3-Caren gezeigt werden.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20160524-110422-9</identifier>
+                    <identifier type="sys">HT019001951</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5800</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5800">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2016/meisehen/dc1606.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5800"
+            DMDID="DMD_wuppertal_elpub_5800">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5800"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

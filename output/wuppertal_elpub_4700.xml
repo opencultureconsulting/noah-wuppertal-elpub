@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_4700">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Gestaltung von stabilen Forschungs- und Entwicklungsnetzwerken</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Altfeld, Nils</displayForm>
+                        <namePart type="family">Altfeld</namePart>
+                        <namePart type="given">Nils</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Forschung und Entwicklung in Netzwerken - eine zunehmend in Industrie und Wirtschaft angewandte Kooperationsform - ist ein in den letzten Jahren viel diskutiertes Thema. Insbesondere die geringe Stabilität von Netzwerken stellt Unternehmen bei der Erforschung und Entwicklung industrieller Güter vor große Herausforderungen, sind Unternehmen doch zunehmend von dem erfolgreichen Ausgang ihrer Forschungs- und Entwicklungsaktivitäten abhängig. 
+
+ Nils Altfeld identifiziert anhand einer Literaturrecherche elf stabilitätsbeeinflussende Faktoren von Forschungs- und Entwicklungsnetzwerken und ermittelt ihre Bewertung für Industrie und Wirtschaft durch eine Unternehmensbefragung. Die Motivation der Zusammenarbeit, die Bereitschaft zur Verantwortungsübernahme als auch die Intensität der Zusammenarbeit werden von den Befragungsteilnehmern als kritische Erfolgsfaktoren zur Sicherstellung der Stabilität gesehen. 
+
+ Die Ergebnisse der Unternehmensbefragung bilden das Fundament für Managementempfehlungen für Unternehmen, um die Stabilität von Forschungs- und Entwicklungsnetzwerken sicherzustellen. Die Managementempfehlungen fokussieren Maßnahmen, die im Rahmen der Vorbereitung und bei der Auswahl der Kooperationspartner zu berücksichtigen sind.</abstract>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Maschinenbau und Sicherheitstechnik » Maschinenbau"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20150319-102754-7</identifier>
+                    <identifier type="sys">HT018604161</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_4700</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_4700">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/maschinenbau/diss2014/altfeld/dd1409.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_4700"
+            DMDID="DMD_wuppertal_elpub_4700">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_4700"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

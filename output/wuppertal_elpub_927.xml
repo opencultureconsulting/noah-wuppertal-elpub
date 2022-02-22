@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_927">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Konzeption einer Benutzungsoberfläche für CAD im Glasbau</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Germán, Angéla</displayForm>
+                        <namePart type="family">Germán</namePart>
+                        <namePart type="given">Angéla</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005-10-06</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Wegen der zunehmenden Rolle des Glasbaus in der Bauindustrie steigt auch das Bedürfnis nach CAD-Systemen, die zusätzlich zu den Gewerken Stahlbau und Metallbau auch für computerunterstütztes Konstruieren im Glasbau komplette und anspruchsvolle Lösungen bieten. 
+
+Heutige CAD-Hochleistungssysteme erstellen ein dreidimensionales Gebäudemodell der gesamten Konstruktion eines Bauwerks inklusive sämtlicher Details. über CAD-Methoden können sie vom Anwender gestellte, komplexe Konstruktionsaufgaben selbständig lösen. 
+
+Bisher fehlte diesen gewerkespezifischen CAD-Systemen eine Benutzungsoberfläche, die die spezifischen Chancen zu gesteigerter Effizienz und klarer, durchgängiger Struktur für den Glasbau aufgreift. 
+
+Ziel dieser Arbeit deshalb ist die Erforschung, Konzeption und Entwicklung einer funktionellen, möglichst allgemeingültigen und allgemeinverständlichen Benutzungsoberfläche für CAD-Hochleistungssysteme im Glasfassadenbau. Die Leistungsfähigkeit der Konzeption wird nachgewiesen an parametrisierten Glasfassaden.</abstract>
+                    <abstract type="content" lang="eng">Concept of a user interface for CAD glazing systems 
+
+ Due to the increasing role of glass construction in the building industry, grows the need for CAD systems that in addition to the steel and metal constructions also provide complete and ambitious solutions for glazing systems. 
+
+Today’s high performanced CAD systems create a three dimensional building model of the entire construction of a building structure, including all details. Using CAD methods, they can independently solve complex construction problems set by the user. Previously, these sector-specific CAD systems lacked a user interface that takes up the specific chances for increased efficiency and clear uniform structure for the glass construction. 
+
+The goal of this work therefore is to research, propose and develop an operational user interface that is as generally applicable and understandable as possible for high performance CAD systems in the construction of a glass façade. Proof of the efficiency of the conception is demonstrated by the example of parametric glass façades.</abstract>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Architektur und Bauingenieurwesen » Bauingenieurwesen"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20050438</identifier>
+                    <identifier type="sys">HT014518172</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_927</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_927">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/bauingenieurwesen/diss2005/german/dd0505.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_927"
+            DMDID="DMD_wuppertal_elpub_927">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_927"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

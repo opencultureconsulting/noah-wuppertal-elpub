@@ -1,0 +1,85 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_8500">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>An Investigation of Empirical Scoring Methods for Ability Measurement</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jobmann, Anna-Lena</displayForm>
+                        <namePart type="family">Jobmann</namePart>
+                        <namePart type="given">Anna-Lena</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schulze, Ralf</displayForm>
+                        <namePart type="family">Schulze</namePart>
+                        <namePart type="given">Ralf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schulze, Ralf</displayForm>
+                        <namePart type="family">Schulze</namePart>
+                        <namePart type="given">Ralf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Buch, Susanne</displayForm>
+                        <namePart type="family">Buch</namePart>
+                        <namePart type="given">Susanne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-07-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Measurement of new intelligences frequently relies on empirical scoring methods such as consensus based measurement (CBM). As the correctness of response options is not established on the basis of theories, but of empirical standards, these methods have been questioned in the past to indicate the true correctness. The present studies aim to systematically investigate CBM methods as well as an enlarged pool of supposed alternative methods - Consensus Analysis, HOMALS and the Nominal Response Model (NRM) - based on data for which the true scoring keys are known. For the systematic evaluation of the empirical scoring methods, two studies were conducted, one using simulated data, the other using real-world data. In the simulation studies, several characteristics of two- and five-categorical data were manipulated to investigate the influence of the independent variables sample size, number of items, ability of respondents, and difficulty of items. The methods were evaluated with dependent variables indicating the relative distance of true and reconstructed scoring keys and the correlation between true abilities and abilities based on the respective method. The results indicate that ability and difficulty are the key influencing variables for the consensus-based scoring methods. With high ability samples and low difficulty of items these methods performed well. CBM and Consensus Analysis showed only minor differences. The NRM was mainly independent of the manipulated variables, but was only observed to work when two response options were fixed by making plausible assumptions. HOMALS was not observed to provide satisfactory results in any realized data condition. The real-world data study used responses to 18 mathematics TIMSS 2011 items (N = 15,992). Consensus-based scoring methods as well as NRM with plausible fixation worked perfectly, whereas HOMALS and NRM with random fixation did not provide the correct scoring key. Moreover, dependence on the ability was supported. It is concluded that empirical scoring methods are only recommended for specific data conditions. The results support the need for more finely elaborated theories for the measurement of intelligences.</abstract>
+                    <subject>
+                        <topic>scoring</topic>
+                        <topic>emotional intelligence</topic>
+                        <topic>social intelligence</topic>
+                        <topic>consensus based measurement</topic>
+                        <topic>consensus scoring</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20180724-151304-8</identifier>
+                    <identifier type="sys">HT019758885</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_8500</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_8500">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbg/psychologie/diss2018/jobmann/dg1803.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_8500"
+            DMDID="DMD_wuppertal_elpub_8500">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_8500"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

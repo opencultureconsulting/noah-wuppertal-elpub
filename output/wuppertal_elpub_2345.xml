@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_2345">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Konjugierte Donor-Akzeptor-Oligomere und -Polymere</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Breusov, Dietrich</displayForm>
+                        <namePart type="family">Breusov</namePart>
+                        <namePart type="given">Dietrich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Various factors such as rising crude oil prices and increasingly common natural disasters in recent years have accelerated the development of renewable energies. An interesting and promising field of renewable energies is represented by the solar technology. Organic and polymeric devices such as organic photovoltaics (OPVs) have attracted significant academic and commercial interest for application in low-cost devices. Conjugated copolymers and oligomers composed of electron-rich (donor) and electron-poor (acceptor) building blocks are the focus of intensive research activities as photo active materials for OPVs. This approach can also be used for applications both in organic light emitting diodes (OLEDs) and organic field effect transistors (OFETs). 
+
+In chapter 2, a series of donor-acceptor oligomers (D-A-oligomers) with different aromatic acceptor units will be described. The oligomers function as model compounds for the corresponding, well-known polymers with promising electronic properties. The central goal of designing oligomers is an improved understanding of electronic properties of active organic layers in organic solar cells including their interfaces. Another objective of the development of the oligomers above is their potential use as dopants or sensitizers in organic solar cells or light-emitting diodes. 
+
+Chapter 3 deals with novel CPDTz-polymers (CPDTz ≡ 7,7-dialkyl-7H-cyclopenta[1,2- d:4,3-d&apos;]dithiazole-2,5-diyl) and their use as active layer in “bulk-hetrojunction”-type solar cells. The substitution of CPDT (4,4-dialkyl-4H-cyclopenta[1,2-b:5,4-b&apos;]dithiophen-2,6-diyl) by CPDTz allows some fine tuning of opto-electronical properties. 
+
+Chapter 4 presents the investigation of selenium containing donor-acceptor (D-A) copolymers with respect to an application in near-infrared OLEDs (NIR-OLEDs). These selenium based polymers were investigated as emitters in the active layer of NIR-OLED-devices both with and without host molecules. 
+
+Finally, synthesis and characterization of the novel CPDT-based “low bandgap” polymers are introduced in the chapter 5. 
+
+All the materials synthesized during this work were intensively analyzed by spectroscopic methods. Many of the final products were tested as semiconducting layer in OPV devices or NIR-OLEDs.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20111102-103227-3</identifier>
+                    <identifier type="sys">HT017040189</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_2345</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_2345">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2011/breusov/dc1114.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_2345"
+            DMDID="DMD_wuppertal_elpub_2345">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_2345"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

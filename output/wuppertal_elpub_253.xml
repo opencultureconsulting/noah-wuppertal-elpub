@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_253">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Algorithmische Graphentheorie im Unterricht unter Verwendung objektorientierter Datenstrukturen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Eidmann, Rainer</displayForm>
+                        <namePart type="family">Eidmann</namePart>
+                        <namePart type="given">Rainer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002-11-29</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Arbeit beschreibt eine umfassende Konzeption zur Behandlung von algorithmischer Graphentheorie im Unterricht unter Verwendung objektorientierter Datenstrukturen. 
+Der Arbeit beigefügt ist eine CD,die eine Klassenbibliothek sowie eine Reihe von Programmen (Programmsystem Knotengraph mit Quelltexten) der Programmiersprache Delphi als auch Beispielgraphen enthält,mit deren Hilfe als didaktisch-methodische Werkzeuge entsprechende Unterrichtsreihen gestaltet werden können. Dieses Programmsystem zur Entwicklung und Demonstration von Algorithmen der Graphentheorie lässt sich unter drei verschiedenen didaktisch-methodischen Konzeptionen im Unterricht verwenden. 
+Die Konzeption EWK ist ein Unterrichtswerkzeug,mit dessen Hilfe man sich bei der Programmierung von Graphenalgorithmen ausschließlich auf die wesentlichen mathematisch algorithmisch interessanten Aspekte konzentrieren kann,ohne sich in Einzelheiten der zeichnerischen Darstellung von Graphen verlieren zu müssen,aber trotzdem den Verlauf der Algorithmen grafisch komfortabel verfolgen kann.Die Konzeption CAKdient dazu die grundsätzliche Struktur eines objektorientierten Graphentyps auf der Grundlage von Objektlisten zu erarbeiten und gleichzeitig das objektorientierte Programmieren zu erlernen.Die dritte Konzeption DWK gestattet das selbstständige Entdecken der Prinzipien von (in der Updateversion über 50) Graphenalgorithmen durch Schüler anhand des Demo-oder Einzelschrittmodus des Programms Knotengraphs, so dass eine Beschreibung des Ablaufs durch die Schüler selber erstellt werden kann.Außerdem können mathematische Zusammenhänge in Graphen und Sätze der Graphentheorie selbstständig erkannt werden.Der Quelltext dient zugleich als Vorlage für zu entwickelnde Algorithmen der Konzeption EWK. 
+Die Arbeit erörtert zunächst ausführlich didaktisch den Einsatz algorithmischer Graphentheorie im Unterricht sowie die Verwendung von objektorientierten Datenstrukturen und zeigt dann,wie die drei genannten Konzeptionen im Unterricht konkret methodisch eingesetzt werden können.Daran schließt sich eine ausführliche Beschreibung von Unterrichtsskizzen (mit problemorientiertem Einstiegsproblem,Verbalalgorithmus als auch kommentiertem Quelltext sowie Beispielgraphen) zu Themen der algorithmischen Graphentheorie sowie Problemen des Operations Research an.Im Anhang befindet sich u.a. eine Darstellung der für diese Arbeit neu entwickelten Objekt-Graphen-Datenstruktur. 
+Ziel der Arbeit ist es,das Thema algorithmische Graphentheorie für den Schulunterricht didaktisch aufzubereiten und unter Bereitstellung von methodischen Werkzeugen verfügbar zu machen.</abstract>
+                    <abstract type="content" lang="eng">The thesis presents a comprehensive approach as to how the algorithmic graph theory might be taught in schools using object-orientated data structures. 
+Enclosed with the paper is a CD containing a object class library and a series of programmes (&quot;Knotengraph&quot; programme system including the source code) written in the Delphi programming language as well as some specimen graphs, which can be used by way of didactic-methodical tools to prepare appropriate material for lessons.There are three different didactic-methodical concepts for employing this programme system for developing and demonstrating algorithms used in the graph theory in the classroom. 
+The EWK concept is a teaching tool with the help of which it is possible to programme graph algorithms while concentrating exclusively on the essential aspects that are interesting from the point of view of mathematical algorithms without becoming too deeply involved in a detailed graphical depiction of the graphs but which are nevertheless perfectly adequate for following visually the course of the algorithms.The CAKconcept serves to draw up the basic structure of an object-orientated type of graph based on lists of objects while simultaneously acquiring one&apos;s own object-orientated programming skills.The third concept,DWK, allows the pupils to discover the principles of (more than 50 in the updated version) graph algorithms autonomously using the demo or step-by-step mode of the Knotengraph programme system, thus enabling them to formulate a description of the process by themselves.They are also able to recognise mathematical relations expressed by the graphs and statements of the graph theory unaided.At the same time, the source code serves as a template for the algorithms to be developed along the lines of the EWK concept. 
+To begin with, the paper presents a detailed didactic discussion on the introduction of the algorithmic graph theory in the classroom including the use of object-orientated data structures,followed by a description of methods for employing the three aforementioned concepts in actual lessons.Finally, it provides a detailed description of possible classroom scenarios (featuring initial comprehension problems,verbal algorithms and explanatory notes on the source code plus examples of graphs) covering topics connected with the algorithmic graph theory and problems of operations research.The appendix contains a brief outline of the object-graph data structure which was newly developed for this paper. 
+It is the object of this thesis to draw up a suitable didactic model of the algorithmic graph theory for teaching the topic in schools and to make it available along with appropriate methodical tools. 
+
+
+Datei d070202.pdf = Text der Dissertation 
+
+Datei d070202a.zip = CD-Beilage I - die Programme 
+
+Datei d070202a.pdf = CD-Beilage II - Quelltexte zu den Programmen, Lösungen, Beschreibungen 
+
+Datei container.zip = komprimierte Zusammenstellung aller Dateien</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20020417</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_253</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_253">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-346/d070202.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_253"
+            DMDID="DMD_wuppertal_elpub_253">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_253"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

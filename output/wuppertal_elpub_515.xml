@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_515">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Messungen ausgewählter Abgaskomponenten in einem Verkehrstunnel zur Bestimmung von Emissionsfaktoren</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lörzer, Jutta C.</displayForm>
+                        <namePart type="family">Lörzer</namePart>
+                        <namePart type="given">Jutta C.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002-05-08</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In der vorliegenden Arbeit sind Messungen an Abgaskomponenten vorgestellt worden, die noch nicht ausreichend untersucht worden sind. So sind die Emissionen von Distickstoffoxid (N₂O), Stickstoffdioxid (NO₂) und Formaldehyd (HCHO) einer großen Fahrzeugflotte charakterisiert worden. Als Meßstandort wurde der Wuppertaler Kiesbergtunnel gewählt, um ein für Deutschland repräsentatives Ergebnis zu erhalten. 
+
+In frühen Studien wurde ein starker Anstieg der N₂O-Emissionen aus dem Straßenverkehr prognostiziert. Dies kann nicht bestätigt werden. Im Kiesbergtunnel wurde ein Emissionsfaktor von 7,7 mg N₂O pro gefahrener Kilometer ermittelt, bei einem Katalysatoranteil von 77 % an der Flotte. Aus der Abschätzung der globalen N₂O-Emissionen aus dem Straßenverkehr von 0,24 Tg N₂O pro Jahr ist zu schließen, daß der Betrag der N₂O-Emissionen aus dem Straßenverkehr zum Treibhauseffekt kleiner als bisher vermutet ist. 
+
+Das NO₂/NOₓ-Verhältnis ist im untersuchten Zeitraum von 4,1 % (1997) auf 7,1 % (1998) angestiegen. Dies ist dadurch zu erklären, daß sich durch verschärfte Abgasnormen immer mehr Fahrzeuge mit einer effizienten Abgasnachbehandlung in der gesamten Fahrzeugflotte befinden. Diese Nachbehandlung, besonders bei Dieselfahrzeugen, hat allerdings negative Auswirkungen auf den NO₂-Ausstoß. Die NOₓ-Emissionen sind dagegen mit (0,76 ± 0,18) g NOₓ/km erwartungsgemäß sehr niedrig. Der derzeitige Stand der Technik zur Reduzierung von Stickoxiden spiegelt sich also in den Tunnelstudien dieser Arbeit wieder. 
+
+Die Formaldehydemissionen im Wuppertaler Kiesbergtunnel betragen im Mittel 2,0 mg HCHO/km. Dieser Wert ist niedriger als Ergebnisse älterer Studien, allerdings ist auch dort die deutliche Abnahme der HCHO-Emissionen im Laufe der Jahre zu erkennen.</abstract>
+                    <abstract type="content" lang="eng">Field measurements of selected automobile exhaust compounds have been performed within the present study. The emissions of nitrous oxide (N₂O), nitrogen dioxide (NO₂) and formaldehyde (HCHO) from traffic were monitored for a large fleet of vehicles. The &quot;Kiesbergtunnel&quot; in Wuppertal was chosen as the measurement site in order to have conditions, which are typical for a traffic emission scenario in Germany. 
+
+Earlier studies predicted a strong increase in N₂O emissions by road traffic. The predictions cannot approved. In the present work, an emission factor of 7.7 mg N₂O km was determined in the Kiesbergtunnel (with a fraction of 77 % of vehicles equipped with catalytic converters). The present study gives important new information with regard to the global atmospheric N₂O cycle. From the Kiesbergtunnel measurements, the global N₂O emissions from road traffic can be estimated to be 0.24 Tg N₂O/year. This value indicates that the contribution of N₂O emissions from road traffic to global warming will be significantly smaller than previously assumed. 
+
+The NO₂/NOₓ ratio determined in the Kiesbergtunnel increased from 4.1 % in 1997 up to 7.1% in 1998, probably due to more rigorous exhaust regulations, which resulted in a higher fraction of vehicles equipped with efficient exhaust after treatment, unfortunately leading to higher NO₂ emissions. In contrast, the overall NOₓ emissions of (0.76 ± 0.18) g NOₓ/km determined in the Kiesbergtunnel are very low. This result was expected and reflects the current state-of-the-art of NOₓ reduction techniques in vehicle engine development. 
+
+The mean formaldehyde emissions in the Kiesbergtunnel are 2.0 mg HCHO/km, which is significantly lower than values from earlier studies. However, all previous studies also show a continuous decrease of HCHO emissions during the last years, probably due to increasing activities in exhaust gas cleaning.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20020187</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_515</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_515">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-610/d090201.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_515"
+            DMDID="DMD_wuppertal_elpub_515">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_515"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9752">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>provenzalische Renaissance in Deutschland. Übersetzung und Edition von Frédéric Mistrals Mirèio um 1900</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Stralla, Melanie</displayForm>
+                        <namePart type="family">Stralla</namePart>
+                        <namePart type="given">Melanie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kocher, Ursula</displayForm>
+                        <namePart type="family">Kocher</namePart>
+                        <namePart type="given">Ursula</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-09-18</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Dass die provenzalische Renaissance im 19. Jahrhundert in bedeutender Weise nach Deutschland ausgestrahlt hat, ist bis heute unbeachtet geblieben. Aus dem Netzwerk, das sich hier zur Unterstützung des neuprovenzalischen Dichters Frédéric Mistral sowie des um ihn entstandenen Zirkels Felibrige gebildet hatte, ging die bis heute erfolgreichste deutsche Mirèio-Übersetzung von August Bertuch (Erstauflage 1893) hervor. Doch diese in sechs Auflagen vorliegende deutsche Fassung von Mirèio war bei weitem nicht die einzige. Beinahe vollständig in Vergessenheit geraten sind die erste deutsche Übersetzung Mirèio durch Betty Dorieux-Brotbeck (1880) sowie die 1906 erschienene Übersetzung durch Franziska Steinitz. Während jeder der drei Texte durch eine individuelle Übersetzungshaltung geprägt ist, spiegelt sich in ihnen ebenfalls das Spannungsverhältnis von Übersetzung und Edition, denn alle Übersetzerinnen und Übersetzer traten auch als Herausgeberinnen und Herausgeber ihrer Texte in Erscheinung. Unter Zuhilfenahme der Methodik der ,Descriptive Translation Studies&apos; geht die Arbeit der Frage nach, wie übersetzerisches und editorisches Handeln in den vorliegenden Fällen auf die deutschen Fassungen von Mirèio eingewirkt und so auch das Bild der provenzalischen Renaissance in Deutschland geprägt haben. Jenseits der Textanalyse, die den Umgang der Übersetzerinnen und Übersetzer mit dem ‚doppelten Ausgangstext‘, den die Werke Mistrals ausnahmslos mit sich bringen, beleuchtet, werden ebenso Vermarktungsstrategien einzelner Übersetzungen (v. a. die rhapsodischen Vorträge August Bertuchs) sowie ihre Aufnahme durch die zeitgenössische Kritik besprochen.</abstract>
+                    <subject>
+                        <topic>Provenzalisch</topic>
+                        <topic>Mistral</topic>
+                        <topic>Felibrige</topic>
+                        <topic>Übersetzung</topic>
+                        <topic>Edition</topic>
+                        <topic>Bertuch</topic>
+                        <topic>Dorieux-Brotbeck</topic>
+                        <topic>Steinitz</topic>
+                    </subject>
+                    <classification authority="ddc">800</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20190918-131950-7</identifier>
+                    <identifier type="doi">10.25926/jdy5-mw39</identifier>
+                    <identifier type="sys">HT020840005</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9752</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9752">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fba/literaturwissenschaft/diss2019/stralla/da1901.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9752"
+            DMDID="DMD_wuppertal_elpub_9752">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9752"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

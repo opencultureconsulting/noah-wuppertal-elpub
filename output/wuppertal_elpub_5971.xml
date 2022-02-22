@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5971">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Atmospheric Mixing in a Lagrangian Framework</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Tao, Mengchu</displayForm>
+                        <namePart type="family">Tao</namePart>
+                        <namePart type="given">Mengchu</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Inaccurate representation of mixing in chemistry transport models strongly influence the time evolution of all relevant trace gases and, in particular, the qualitative determination of the stratosphere-troposphere exchange (STE). For this reason, a physics-based numerical representation of mixing is required but remains an uncertain piece for the atmospheric transport models. However, the Lagrangian view of transport offers an alternative to exploit the numerical diffusion for parametrization of the physical mixing rather than to find ways of avoiding this effect. 
+
+Using the standard version of the Chemical Lagrangian Model of the Stratosphere (CLaMS) with mixing parametrization triggered by strong flow deformations, a remarkable Sudden StratosphericWarming (SSW) case is investigated to reexamine transport, especially mixing, through analyzing the variation of stratospheric composition and of the tracer-tracer correlations. The case study of SSW demonstrates the intensified sub-seasonal variability of polar descent and tropical upwelling, which further motivates the study of the long-term impact of SSWs on the variability of the water vapor in the tropical lower stratosphere based on a CLaMS 35-year run. A sub-seasonal SSW-associated dehydration effect in the tropical lower stratosphere modulated by the two quasi-biennial oscillation (QBO) phases is found. The cooling and drying at the tropical tropopause, as a result of enhanced breaking of planetary waves in the subtropics during SSWs, is more intensive in the easterly QBO phase than in the westerly QBO phase. The extra-dehydration due to SSWs as well as the decadal variations of SSW frequency has potentially contributed to the long-term variability of water vapor in the lower stratosphere. 
+
+Although the current transport scheme in CLaMS shows good ability of representing transport of tracers in the stably stratified stratosphere, it shows insufficient representation of fast convective uplift and mixing due to weak vertical stability in the troposphere. The CLaMS transport scheme was improved by including the effects of vertical instability and the related convection using the moist Brunt-Väisälä Frequency parametrizing the new tropospheric mixing. The revised CLaMS one-year simulation show a reasonable representation of convective patterns in the middle and upper troposphere. The extension of the mixing scheme increases the tropospheric influence in the middle and upper troposphere and at the same time enhances the STE in the UTLS region.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20160711-114938-3</identifier>
+                    <identifier type="sys">HT019032477</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5971</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5971">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2016/tao/dc1612.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5971"
+            DMDID="DMD_wuppertal_elpub_5971">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5971"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

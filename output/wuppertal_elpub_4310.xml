@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_4310">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Playful Customer Experience - Examining the Integration of Playful Aspects into the Experience of Waiting at Family Physicians’ Offices</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Khazaei, Mitra</displayForm>
+                        <namePart type="family">Khazaei</namePart>
+                        <namePart type="given">Mitra</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Playful customer experience is an interdisciplinary Dissertation that examines the interplay between the three disciplines of play studies, customer experience, and design for services, and does so with a design-thinking view. The theoretical bases are studied and developed so that they can be applied to design solutions. After providing an overview of the current literature on the disciplines concerned, it focuses on examining various aspects of integrating playful characteristics into customer experience and provides a theoretical framework for playful experience design. Based on the theoretical findings, the application of these characteristics is examined by conducting a multiple-case study in a real service situation. The area chosen to analyze the experience of waiting was family physicians’ offices: How can playful aspects be integrated into the experience of waiting? As waiting is a typical case in everyday experiences, the results of the study can also be applied to other areas. The findings of the theoretical and empirical studies result in principles and practical considerations regarding how to improve the experience of waiting by means of a playful design approach. The playful design approach concentrates on ways to increase the playfulness of an experience. At same time it applies playful characteristics to improve aspects of customer experience according to the particular requirements of the service situation. The main recommendations are discussed under five categories, explained as playful experience components. These categories are: the presence of children, the play zone, the playful breeze, playful active waiting, and the waiting oasis, each of which demonstrates aspects of the playful approach to the enhancement of the customer experience. Finally, the research introduces the concept of design for play-ception (playful perception) as a rich and human-centered approach to the designing of customer experience.</abstract>
+                    <abstract type="content" lang="ger">Spielerisches Kundenerlebnis (playful customer experience) ist eine interdisziplinäre Arbeit, die das Zusammenwirken zwischen drei Themenbereichen: die Theorien des Spiels, die Kundenerfahrung und das Design für Dienstleistungen mit dem Design- Thinking-Ansatz untersucht. Dabei werden theoretische Grundlagen erarbeitet und so verarbeitet, dass sie für gestalterische Lösungen verwertbar werden. Nach einem Überblick über die aktuelle Literatur zu den betreffenden Themenbereichen konzentriert sich die Arbeit auf die Untersuchung derjenigen Aspekte, welche die Integration von spielerischen Eigenschaften in Kundenerlebnisse/Kundenerfahrungen ermöglichen. Dies ergibt dann den theoretischen Rahmen für die Erstellung von spielerischen Kundenerlebnissen. Auf der Grundlage dieser Theoretischen Erkenntnisse wird durch eine Multiple-Case Study die explizite Verwertbarkeit innerhalb einer realen Service-Situation untersucht. Als Anwendungsbereich wird das Warten in Hausarzt-Praxen gewählt: Wie können spielerische Aspekte in die Erfahrung des Wartens integriert werden? Warten ist ein typischer Fall in Alltagserfahrungen, die Ergebnisse lassen sich deshalb auf viele andere Bereiche übertragen. Die Ergebnisse der theoretischen und empirischen Studien führen schließlich zu Grundlagen und praktischen Überlegungen für mögliche Verbesserungen der Erlebnisse/Erfahrungen bezüglich des Wartens durch einen spielerischen Design–Ansatz. Der spielerische Design-Ansatz konzentriert sich auf verschiedene Möglichkeiten, die dabei helfen, die Spielerischen Eigenschaften einer Erfahrung zu erhöhen, und untersucht zugleich auch, wie die Anwendung von spielerischen Eigenschaften dazu beitragen kann, Kundenerfahrungen gemäß Erfordernissen bestimmter Service-Situationen zu verbessern. Die wichtigsten Empfehlungen werden unter fünf Komponenten diskutiert: die Anwesenheit von Kindern, die Spielzone, die spielerische Brise, das spielerische aktive Warten, und die Warten-Oase. All diese Aspekte des spielerischen Umgangs zeigen Verbesserungen der Kundenerfahrung. Letztlich stellt die Arbeit das Konzept des Design für Play- Ception (von Playful Perception) als einen nachhaltigen und menschenzentrierten Ansatz für die Gestaltung von Kundenerlebnissen/ Kundenerfahrungen vor.</abstract>
+                    <classification authority="ddc">700</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Design und Kunst » Industrial Design"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20141029-103053-8</identifier>
+                    <identifier type="sys">HT018446875</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_4310</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_4310">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbf/industrialdesign/diss2014/khazaei/df1401.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_4310"
+            DMDID="DMD_wuppertal_elpub_4310">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_4310"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

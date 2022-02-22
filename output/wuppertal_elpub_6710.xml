@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6710">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Development of Lightweight Support Structures for the ATLAS Detector at the Large Hadron Collider</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Srinivasan, Mukundan</displayForm>
+                        <namePart type="family">Srinivasan</namePart>
+                        <namePart type="given">Mukundan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Entwicklung neuartiger Trägerstukturen für den Pixeldetektor, innerhalb des ATLAS Experimentes die ausschließlich aus Kohlefaser bestehen wird in dieser Arbeit dargestellt. Dies beinhaltet unter anderem die Untersuchung der thermischen Leitfähigkeit und welchen Einfluss Diamantpulver auf die elastischen Eigenschaften von Verbundwerkstoffen nehmen kann. Finite Element basierte mikromechanische Modellierung und thermische Leitfähigkeit Untersuchungen durch die Ebene wurde durchgeführt und weiter entwickelt. Bei der thermischen Leitfähigkeit wurde für hoch modulige Fasern eine Steigerung von 2,3 bis 2,8 beobachtet. Nummerische Untersuchungen wurden durchgeführt, damit die elastischen Eigenschaften für gewebte Verbundwerkstoffe prognostiziert werden können. Das Versagensverhalten von Faserverbundwerkstoffen gefüllt mit Diamantpulver wurden mit der progressive damage modelling technique ausgewertet.
+
+ Drei unterschiedliche Trägerstrukturen, mit einer Länge von 750 mm, wurden entwickelt. In diesen Strukturen ist eine Carbonpipe für die Kühlung verbaut. Die Matrix der Pipe ist mit Diamantpulver angereichert. Zwei der entwickelten Trägerstrukturen, Iso-Graphit und Stiffener Stave, sind aber nur herstellbar. Finite Element Berechnungen wurden für diese Modelle durchgeführt und ausgewertet. Es wurden die Eigenfrequenz, Wärmeleitfähigkeit sowie die Deformation in Bezug auf statische und thermomechanische Belastung durchgeführt. Der Vorteil dieser zwei Strukturen ist die Reduzierung der eingesetzten Masse. Die Vorgegebenen Anforderungen erfüllen beide Strukturen. Prototypen für den Iso-Graphite Stave wurden entwickelt dabei wurden Prototypen mit und ohne Diamantpulver hergestellt. Darüber hinaus wurde das Design auf eine Gesamtlänge auf 1500 mm erweitert für die zwei innersten Lagen im Detektor. Die Lagen werden mit einer steifen Verbundstruktur verbunden. Diese zeigt hervorragende Eigenschaften in Bezug auf thermische und thermomechanische Lasten.</abstract>
+                    <abstract type="content" lang="eng">An investigation towards the development of the novel local support structure of the pixel detector (within the ATLAS*** experiment) completely based on carbon is presented. The workinvolves the investigation of the role of the diamond powder (DP) in enhancing the out of plane thermal conductivity (K┴), the elastic and the failure behaviour of the composites. Finite element based micromechanical modelling and steady state thermal conductivity measurements were performed and an improvement in the out of plane thermal conductivity by a factor of 2.3 and of 2.8 for the standard modulus and the high modulus carbon fibre composite filled with diamond powder resin were observed. Numerical investigations were performed to predict the elastic properties of the diamond powder enhanced woven composites. The failure behaviour of the diamond powder filled composites were evaluated by the progressive damage modelling technique.
+
+ Three new support structure designs (with a length of 750 mm) were developed with a diamond powder enhanced carbon fibre pipe for cooling, out of which two support structure designs namely Iso-Graphite and the Stiffener stave were realistic in terms of production. Finite ele- ment modelling for both the designs were performed to evaluate the natural frequencies, heat transfer and deformations by the static and thermomechanical loading. The highlights of both the designs are their reduced material budget. The thermal and the mechanical behaviour were well within the requirements. Prototypes for the Iso-Graphite stave with and without diamond powder filled carbon fibre pipes were developed. Furthermore, the Iso-Graphite stave design was extended for the two innermost detector layers with a length of 1500 mm. The staves of both layers were connected with a stiff composite structure which showed an excellent structural, thermal and thermomechanical behaviour. 
+
+
+ ***ATLAS (A Toroidal LHC ApparatuS) is one of the particle detector experiment constructed at the Large Hadron Collider (LHC) at CERN (the European Organization for Nuclear Research) in Switzerland</abstract>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Maschinenbau und Sicherheitstechnik » Maschinenbau"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170228-114455-4</identifier>
+                    <identifier type="sys">HT019287241</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6710</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6710">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/maschinenbau/diss2016/srinivasan/dd1607.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6710"
+            DMDID="DMD_wuppertal_elpub_6710">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6710"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

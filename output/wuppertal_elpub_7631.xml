@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_7631">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Integrable Anderson impurities in pseudogap systems</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Öz, Yahya</displayForm>
+                        <namePart type="family">Öz</namePart>
+                        <namePart type="given">Yahya</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The aim of this thesis is the construction of a pseudogap Anderson impurity model, i.e. an Anderson impurity model with the dispersion relation e(k) = k^z, z &gt; 0 for the host instead of the standard Anderson impurity model with dispersion relation e(k) = k for the host. We note that the Anderson impurity model is an integrable continuum model for which the coordinate Bethe approach is known so far. Since the column-to-column transfer matrix does not exist in the continuum, the finitely many non-linear integral equations for the description of thermodynamics could not be directly determined. Bortz, Klümper and Scheeren showed that there is a different lattice model with the same regimes as in the phase diagram of the Anderson impurity model. With respect to the regimes the models were considered as equivalent and the finitely many non-linear integral equations for the lattice model were derived. 
+In this thesis, our first goal is to embed the standard Anderson impurity model into a lattice model. As an appropriate model, the Hubbard model with integrable impurity emerges. For this reason, we generalize known results of the Hubbard model. After that our goal is that this lattice model yields the Anderson impurity model with all parameters in a continuum limit. Then we want to use the limit for the description of the thermodynamics by performing it for the infinite set of thermodynamic Bethe ansatz equations as well as for the finitely many non-linear integral equations. The latter represents a new result. In this thesis, we also develop a method to perform the limit for the Hamiltonian. 
+By embedding the Anderson impurity model in a lattice model, it is now possible to perform modifications on the lattice that serve to change the dispersion relation of the host. These modifications are thus carried out at the level of the Hubbard model. After performing the established continuum limit, this provides the desired pseudogap Anderson impurity model, whose Hamiltonian we can specify. Through the generalization on the lattice, it is possible to fully describe the thermodynamics of this newly constructed model with a finite number of non-linear integral equations. 
+Therefore the aim of this thesis is the construction of a Anderson impurity model with modified density of states and the exact description of the thermodynamics with Bethe ansatz techniques.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20180109-152128-5</identifier>
+                    <identifier type="sys">HT019570013</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_7631</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_7631">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2017/oez/dc1734.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_7631"
+            DMDID="DMD_wuppertal_elpub_7631">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_7631"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

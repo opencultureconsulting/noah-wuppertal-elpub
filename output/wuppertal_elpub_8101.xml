@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_8101">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Mixed-phase and ice cloud observations with NIXE-CAPS</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Costa, Anja</displayForm>
+                        <namePart type="family">Costa</namePart>
+                        <namePart type="given">Anja</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-03-26</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Wolken sind ein wichtiger Bestandteil des Klimasystems. Durch ihren Albedoeffekt und ihren Einfluss auf den Treibhauseffekt modifizieren sie die Strahlungsbilanz. Darüber hinaus beeinflussen sie die Energieverteilung in der Atmosphäre durch die Freisetzung und den Verbrauch latenter Wärme bei Wolkenpartikelbildungs-und-auflösungsprozessen. Klimamodelle sind daher sensitiv auf Änderungen in der Wolkenparametrisierung. Diese Parametrisierungen müssen ständig angepasst werden, um die wachsenden Erkenntnisse zu Wolkenprozessen angemessen zu repräsentieren. Eine besondere Herausforderung stellen Eiswolken (Cirren) dar: In mittleren und hohen Wolken kann das Gefrieren oder die Neubildung einer Wolke auf unterschiedlichen Wegen erfolgen, die jeweils sehr unterschiedliche Wolkencharakteristika im Hinblick auf Eiskristallformen, Konzentrationen und damit auch den Strahlungseffekt hervorbringen. Solange nicht klar ist, in welchem Umfang welche Prozesse aktiv sind und welche Partikelpopulationen durch sie erzeugt werden, bleiben Wolken ein wesentlicher Unsicherheitsfaktor in der Klimavorhersage.
+ In den letzten Jahren wurde eine Vielzahl von Studien durchgeführt, um diese Prozesse zu erforschen. Das Jülicher Instrument NIXE-CAPS hat dabei einen einzigartigen Datensatz zu Eispartikelkonzentrationen beigesteuert, mit dem globale Wolkensimulationen evaluiert werden. In der vorliegenden Doktorarbeit wird dieser Datensatz um wärmere Wolken erweitert, in denen die Aufteilung der Wolkenpartikel in Eis und unterkühltes Wasser eine zunehmende Rolle spielt. NIXE-CAPS liefert drei relevante Parameter: Anzahlkonzentrationen, Größenverteilungen und Asphärizität von Wolkenpartikeln, insbesondere von kleinen Partikeln mit Durchmessern unter 50µm, die bisher kaum analysiert wurden. 
+ Im Lauf dieser Arbeit wurde die NIXE-CAPS-Datenanalyse erweitert, überprüft und beschleunigt: Durch Instrumentenvergleiche, Fehlerabschätzungen und neue Datenkorrekturen konnte die bisherige Auswertung verbessert werden. Dadurch war eine Reanalyse der vorherigen Messungen möglich. Insgesamt beläuft sich der NIXE-CAPS-Datensatz nun auf 39 Stunden Messung in Cirren und über 38 Stunden in mittelhohen Wolken. 
+ Mithilfe dieser Daten konnten die folgenden Fragen bearbeitet werden: Die Anteile flüssiger und gemischtphasiger sowie die von kleinen bzw. großen Kristallen dominierter Eiswolken konnten getrennt für die Arktis, die Mittelbreiten und die Tropen - bestimmt werden. Außerdem konnte das neue Modell CLaMS-Ice hinsichtlich seiner mikrophysikalischen Genauigkeit überprüft und verbessert werden: Es ermöglicht detaillierte Simulationen von hohen Wolken, und zwar über eine große Breite an meteorologischen Bedingungen. Cirren können damit großflächig charakterisiert werden, was neue Erkenntnisse zu deren klimatologischen Charakteristika verspricht.</abstract>
+                    <abstract type="content" lang="eng">Clouds are a main component in the climate system. They influence the energy balance of the atmosphere by changing the earth’s albedo and greenhouse effect, and redistribute energy by releasing and consuming latent heat in cloud particle nucleation and dissolution processes. Climate models therefore react sensitively on the implemented cloud parametrizations, which have to be under constant review to implement new insights into cloud formation and evolution processes. Ice clouds pose a particular challenge for simulations: In mid-level and high clouds, several possible ways for cloud glaciation and ice particle formation compete. These processes produce particles that vary strongly in habits, concentrations and radiative properties. As long as it remains unclear which processes are active, how their influence is distributed globally, how these processes might change due to global warming, and what the properties of the produced ice particles are, ice clouds will remain a significant factor of uncertainty in climate predictions. Over the last years, a number of studies has been performed to examine these questions. The Jülich instrument NIXE-CAPS has contributed a unique ice particle concentration dataset that was used to evaluate global cloud simulations. This thesis presents the extension of the aforesaid dataset into mid-level clouds, where the partitioning of ice and supercooled liquid water becomes increasingly relevant. NIXE-CAPS provides three relevant characteristics of the observed clouds: particle number concentrations, particle size distributions and particle asphericity - especially of small particles with diameters below 50 µm, which have been rarely analysed so far. The analysis of this data set was extended, evaluated and accelerated in the course of this work: instrument comparisons, error estimations and new corrections complement earlier works with NIXE-CAPS. The improved algorithms allowed a reanalysis of previous measurements and resulted in a consistent data set covering 39 hours of measurements within high clouds (cirrus) and over 38 hours within mid-level clouds.
+ With the NIXE-CAPS measurements, the following tasks were performed: The proportions of liquid, mixed-phase, ’small ice’, and ’large ice’ clouds were resolved for Arctic, mid-latitude and tropical observations. Also, the new model CLaMS-Ice was evaluated and improved with respect to its microphysical accuracy: It provides detailed cirrus cloud simulations over a wide range of meteorological conditions. It can thus be used for large-scale cirrus cloud simulations which is expected to lead to new insights regarding the global cirrus cloud cover’s climatological characteristics.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20180326-082805-8</identifier>
+                    <identifier type="sys">HT019658953</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_8101</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_8101">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2017/costa/dc1736.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_8101"
+            DMDID="DMD_wuppertal_elpub_8101">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_8101"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

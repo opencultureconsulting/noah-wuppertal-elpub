@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_15750">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Gravity waves resolved in Numerical Weather Prediction products</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Strube, Cornelia</displayForm>
+                        <namePart type="family">Strube</namePart>
+                        <namePart type="given">Cornelia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-27</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Gravity waves are important drivers of global circulations in the middle atmosphere. Amongst others they exert drag on the background wind while breaking. Predictive atmospheric simulations are usually based on general circulation models. Those struggle to realistically represent small-scale dynamics like gravity waves, because long time frames and necessary computational efficiency restrict climate model setups to coarse spatial resolutions. Therefore, parametrisations are usually part of forecast model setups of the atmosphere. Parametrisations refer to simplified physical models for subgrid-scale processes including gravity waves. Model studies have shown for instance that missing gravity wave drag influences the global circulation and leads to a systematically late breakdown of the southern-hemispheric polar vortex. In contrast to climate models, weather prediction systems have recently reached operational spatial resolutions that are able to resolve a large part of the gravity wave spectrum in the middle atmosphere. Their products, hence, can be used to investigate the generation and distribution of gravity waves in critical regions like the southern polar vortex region and improve future parametrisation schemes for climate models.
+ This thesis introduces an analysis concept for wave characteristics and the propagation of resolved gravity waves in operational fields from the European Centre for Medium- Range Weather Prediction “Integrated Forecast System” (IFS). The analysis of gravity waves in model data as well as observations is complicated by the abundance of different dynamic processes present in the atmosphere at the same time. Characteristic patterns of inertial instabilities and other wave-like phenomena have been misinterpreted as gravity waves before. Therefore, this thesis focusses first on the ability of different approaches to separate gravity wave signals from the rest of the atmosphere. These methods are referred to as “background removal” and are usually based on the distinction of small- and large-scale phenomena by spectral filtering along different spatial dimensions. The comparison of a vertical and a horizontal filtering approach showed that inertial instability structures are easier separated from gravity waves by applying the horizontal filtering. The results further suggest that zonal wavenumbers of order 6 for the stratosphere and 18 for the troposphere are best applied for the separation.
+ A wave field at the lower edge of the southern polar vortex southeast of New Zealand, which was previously observed from satellite and recovered in the IFS data, is analysed in detail. The investigation concentrates on generation processes and propagation pathways of waves in this wave field and connects properties of these waves (e.g. the horizontal phase speeds and wave propagation direction) and the environment (e.g. the wind directions). The results reveal that substantial oblique propagation of the waves from mid-latitude sources takes place in the troposphere and lowermost stratosphere. Accordingly, oblique propagation is already relevant below 15 km altitude. In addition, different kinds of non-orographic generation processes have to be taken into consideration. Thus, especially oblique propagation should be part of modern parametrisation schemes in future climate model setups, unlike the current standard for gravity wave parametrisations dictates.</abstract>
+                    <abstract type="content" lang="ger">Schwerewellen tragen wesentlich zum Antrieb globaler Zirkulationen in der mittleren Atmosphäre bei. Sie üben unter anderem beim Brechen eine Beschleunigung auf den Hintergrundwind aus. Vorhersagesimulationen der Atmosphäre basieren üblicherweise auf allgemeinen Zirkulationsmodellen. Diese haben Schwierigkeiten, kleinskalige, dynamische Prozesse wie Schwerewellen realistisch darzustellen, weil Klimamodellrechnungen durch die großen zeitlichen Skalen und den damit verbundenen hohen Rechenbedarf weiterhin auf grobe, räumliche Auflösungen beschränkt bleiben. Parametrisierungen sind daher üblicherweise Bestandteil von Vorhersagemodellen der Atmosphäre. Parametrisierungen bezeichnen vereinfachte physikalische Modelle für Prozesse, die auf kleineren Skalen als der Gitterauflösung auftreten, einschließlich Schwerewellen. Modellstudien haben zum Beispiel gezeigt, dass ein abgeschwächter Schwerewellenantrieb die globale Zirkulation beeinflusst und zu einem systematisch verspäteten Zusammenbrechen des südhemisphärischen Polarwirbels führt. Im Gegensatz zu Klimamodellen haben Wettervorhersagesysteme kürzlich operative, räumliche Auflösungen erreicht, die große Teile des Schwerewellenspektrums in der mittleren Atmosphäre auflösen. Ihre Produkte können deshalb für die Untersuchung der Entstehung und Ausbreitung von Schwerewellen in wichtigen Regionen wie der Südpolarwirbelregion genutzt werden und verbessern damit zukünftige Parametrisierungen für Klimamodelle.
+ Diese Doktorarbeit stellt ein Analysekonzept für Welleneigenschaften und die Ausbreitung von Schwerewellen vor, die in operativen Ausgabefeldern des “Integrated Forecast System” (IFS, dt. “Integrieten Vorhersagesystem”) des Europäischen Zentrums für mittelfristige Wettervorhersage aufgelöst sind. Die Analyse von Schwerewellen aus Modellund Beobachtungsdaten wird durch die Fülle von unterschiedlichen, dynamischen Prozessen erschwert, die zur gleichen Zeit in der Atmosphäre auftreten. Typische Muster von “inertial instabilities” (dt. Trägheitsinstabilitäten) und anderer wellenartiger Phänomene wurden in der Vergangenheit fälschlicherweise als Schwerewellen interpretiert. Zuerst wird daher der Fokus in dieser Doktorarbeit auf die Eignung verschiedener Ansätze zur Trennung von Schwerewellensignalen vom Rest der Atmosphäre gelegt. Diese Methoden werden häufig als “background removals” (dt. Hintergrundentfernung) bezeichnet, und basieren üblicherweise auf der Unterscheidung von klein- und großskaligen Phänomenen durch Spektralfilterung entlang unterschiedlicher, räumlicher Dimensionen. Der Vergleich von vertikalen und horizontalen Filteransätzen zeigt, dass “inertial instability”-Strukturen mit Horizontalfiltern einfacher von Schwerewellen getrennt werden können. Weiterhin weisen die Ergebnisse darauf hin, dass für die Stratosphäre Wellenzahlen der Ordnung 6 und für die Troposphäre der Ordnung 18 entlang des Breitenkreises für die Trennung verwendet werden sollten.
+ Ein Wellenfeld nahe dem Südpolarwirbel südöstlich von Neuseeland, das zuvor in Satellitenbeobachtungen gezeigt und auch in IFS-Daten wiedergefunden wurde, wird im Detail untersucht. Die Untersuchung konzentriert sich auf Entstehungsprozesse und Ausbreitungswege von Wellen in diesem Wellenfeld und verbindet dabei Eigenschaften der Wellen (z.B. horizontale Phasengeschwindigkeiten und Wellenausbreitungsrichtung) mit Eigenschaften der Umgebung (z.B. Windrichtungen). Die Ergebnisse zeigen, dass umfangreiche schräge Wellenausbreitung von Quellen von mittleren Breiten in der Troposphäre und untersten Stratosphäre stattfindet. Schräge Ausbreitung ist entsprechend bereits unterhalb von 15km Höhe relevant. Zusätzlich müssen verschiedene, nichtorographische Entstehungsprozesse berücksichtigt werden. Besonders die schräge Ausbreitung sollte daher Bestandteil moderner Parametrisierungsschemata in zukünftigen Klimamodellkonfigurationen sein, anders als es der aktuelle Standard für Schwerewellenparametrisierungen vorgibt.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20220127-093209-3</identifier>
+                    <identifier type="doi">10.25926/9AJ4-NW39</identifier>
+                    <identifier type="sys">HT021247340</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_15750</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_15750">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2021/strube/dc2133.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_15750"
+            DMDID="DMD_wuppertal_elpub_15750">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_15750"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

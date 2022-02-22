@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_336">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Dynamik und Photochemie in der Stratosphäre</title>
+                        <subTitle>Spurengasmessungen des CRISTA-Experiments</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Küll, Volker</displayForm>
+                        <namePart type="family">Küll</namePart>
+                        <namePart type="given">Volker</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002-10-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Während zweier Flüge (Nov. 1994, Aug. 1997) hat das Satellitenexperiment CRISTA Infrarotemissionsspektren einer Vielzahl atmosphärischer Spurengase global mit hoher dreidimensionaler Auflösung gemessen. Es werden hier Mischungsverhältnisse von HNO₃, CFC11, und CFC12 abgeleitet. Anhand stratosphärischer CRISTA-Daten werden kleinräumige dynamische Strukturen und der Tagesgang der Chemie analysiert. 
+
+ Mittels N₂O und CFC11 wird die Geschwindigkeit des tropischen Aufwärtstransports abgeschätzt. Über die meridionalen Transportbarrieren hinweg werden während beider Flüge Streamer beobachtet, für die die Tracer-Felder bei CRISTA-2 auf irreversiblen meridionalen Transport hindeuten. Für Filamente und den südpolaren Vortex bei CRISTA-1 können aus CFC11-CFC12-Korrelationen Mischungsprozesse abgeleitet werden. 
+
+ CRISTA-Messungen von HNO₃, N₂O₅, NO₂ und ClONO₂ aus der NOy-Familie werden mit dem NCAR-ROSE-Modell assimiliert und die Reaktionen der Gase quantifiziert. Die CRISTA-Daten sind untereinander chemisch konsistent und kompatibel mit HALOE- und SAGE-II-Aerosolmessungen. CRISTA-Messungen von NOy sind konsistent mit einer weiter abnehmenden stratosphärischen Aerosolbelastung. NOy-Messungen im Mai 1986 von WIRBL zeigen einen stärkeren Aerosoleinfluß als CRISTA-2-Daten. 
+
+ Der &quot;chemical eddy effect&quot; wird anhand von NO₂ untersucht. Mittels des ROSE-Modells können bedeutende lokale Auswirkungen auf N₂O₅ und NO₂ beim Übergang von zwei- zu dreidimensionalen Aerosolfeldern festgestellt werden.</abstract>
+                    <abstract type="content" lang="eng">During its two missions (November 1994 and August 1997) the satellite experiment CRISTA measured infrared emission spectra of a variety of atmospheric trace gases globally with a high three-dimensional spatial resolution. Here, HNO₃, CFC11, and CFC12 mixing ratios are derived. By means of the CRISTA data stratospheric dynamics down to small scales and the diurnal cycle of the chemistry are studied. 
+
+ The tropical upwelling velocity is estimated from N₂O and CFC11 fields. During both missions streamers across the meridional transport barriers are observed. For a streamer during CRISTA-2 tracer fields suggest an irreversible meridional transport. For filaments and the southern polar vortex during CRISTA-1 mixing processes can be derived from CFC11-CFC12 correlations. 
+
+ CRISTA measurements of the reactive nitrogen (NOy) species HNO₃, N₂O₅, NO₂, and ClONO₂ are assimilated with the NCAR ROSE model and reaction channels are examined quantitatively. CRISTA data are shown to be internally chemically consistent and compatible with aerosol data from HALOE and SAGE-II. CRISTA NOy data are consistent with a further decreasing stratospheric aerosol load. Measurements of NOy species from WIRBL in May 1986 show a stronger influence by aerosol than corresponding CRISTA-2 data. 
+
+ For NO₂ the chemical eddy effect is analysed. By means of the ROSE model the local effect of using three-dimensionally instead of two-dimensionally resolved aerosol data on N₂O₅ and NO₂ is found to be important.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20020386</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_336</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_336">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-430/d080203.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_336"
+            DMDID="DMD_wuppertal_elpub_336">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_336"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

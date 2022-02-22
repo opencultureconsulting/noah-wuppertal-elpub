@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_360">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Biologisch abbaubare Tenside aus nachwachsenden Rohstoffen: N-Acylaminosäuren - Synthesen und Tensideigenschaften</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Aha, Bernd Stefan</displayForm>
+                        <namePart type="family">Aha</namePart>
+                        <namePart type="given">Bernd Stefan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1999-08-27</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Nachwachsende Rohstoffe sind von wachsender Bedeutung als Ausgangsmaterial in der chemischen Industrie. Mit Raps als Rohstoffquelle war es das wesentliche Ziel dieser Arbeit, die Hauptbestandteile der Rapssaat - Öl (Fettsäuren) und Proteine (Aminosäuren) - für die Darstellung von Tensiden zu nutzen. Die Aminosäurezusammensetzung in der Rapssaat ist durchaus vergleichbar mit der von Soja oder Weizen. Deshalb galt nachzuweisen, dass ungesättigten Fettsäuren aus Raps für die daraus hergestellten Tenside ebenso als hydrophobe Komponente dienen können, wie die gewöhnlich eingesetzten Fettsäuren aus &quot;lauric range&quot; Ölen. Um eine Struktur-Wirkungsbeziehung herzustellen wurden die Acylderivate aller nativen Aminosäuren, jeweils mit Laurinsäure - als typischem Vertreter der &quot;lauric range&quot; Öle - und Ölsäure als Hauptfettsäure des Rapsöls, acyliert. Die erhaltene Ergebnisse belegen, dass Ölsäure tatsächlich als hydrophobe Komponente in solchen Tensiden verwendet werden kann. Es wird eine wesentlich geringeren CMC als für vergleichbare Laurinsäurederivate gefunden. Während die Schäumeigenschaften gut sind, ist das Netzvermögen deutlich geringer ausgeprägt. Einige der hergestellten Verbindungen wurden mit der Langmuirtechnik sowie innnerhalb eines Forschungsprojekt zum mikrobiologischen Abbau von Mineralölen untersucht. Im letzten Teil der Arbeit wurden Gemini-Tenside dargestellt. Eine Reihe von anionischen Gemini-Tensiden wurde durch Michael-Addition von Diaminen an Acrylsäureester erhalten. Wie erwartet zeigen diese Verbindungen eine stark erniedrigte CMC.</abstract>
+                    <abstract type="content" lang="eng">Renewable resources are of ever increasing importance as raw materials for the chemical industry. With rape seed as starting material it was the main goal of this thesis to explore the possibility of using its main constituents – oils (fatty acids) and proteins (amino acids) - for the production of surfactants. While the amino acid composition of rape seed is comparable to soja, it had to established that the mainly unsaturated fatty acids of rape seed can serve as hydrophobic components in the resulting surfactants as compared to the commonly used fatty acids of the so called lauric range. In order to establish a reliable structure - activity relationship it was decided to synthesise acyl derivatives of all native ?-amino acids with both lauric acid - as a typical representative of the lauric range oils - and oleic acid as main constituent of rape seed oil. &gt;From the obtained results it is clear that oleic acid indeed can be used as hydrophobic building block for these surfactants, the critical micelle concentrations (cmc´s) are clearly much lower as compared to the corresponding lauric acid derivatives. While the foaming properties are good, the wetting properties are clearly less expressed. Some of the synthesised materials were also investigated using Langmuir techniques and were used practically for studies regarding the microbial degradation of mineral oils. The last part of the thesis was devoted to the synthesis of so called gemini surfactants. A series of anionic gemini surfactants were synthesised by Michael addition of ???-diamines to acrylic esters. As to be expected these molecules showed highly reduced cmc´s.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-19990161</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_360</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_360">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-454/d099908.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_360"
+            DMDID="DMD_wuppertal_elpub_360">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_360"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

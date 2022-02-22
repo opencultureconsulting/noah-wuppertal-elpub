@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_801">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Novel Polyfluorene Based Copolymers for Optoelectronic Applications</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Galbrecht, Frank</displayForm>
+                        <namePart type="family">Galbrecht</namePart>
+                        <namePart type="given">Frank</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-07-18</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Organic light emitting diodes (OLEDs) have gained increasing attention because of there remarkable properties and application potential. Therefore chemists are aiming for suitable organic materials for optoelectronic applications. Prominent materials are semiconducting polymers e.g. polyfluorenes. A major problem hereby is the colour purity of the blueemitting polyfluorene-type materials caused by degradation processes during device operation. Besides the well-characterized keto defects in degraded polyfluorenes which emit at a peak maximum of approximately 530-550 nm, we investigated an additional emission feature localized at 485/515 nm. This particular green emission feature was attributed to alkylidenefluorene defect structures. This proposal is supported with the synthesis of model copolymers and their optical characterization as described in chapter 2. 
+
+One focus of material chemists is to design materials with increase of performance in optoelectronic devices. There has been much interest in the application of cyclometalated complexes as emitting components in such devices. The metal complexes may allow for the efficient utilization of both singlet and triplet excitons generated upon electronic operation. Consequently, internal quantum efficiencies approaching 100% may be achieved. Tuning of the emission colour by manipulating the ligand sphere of the metal atom is also a very attractive goal. Up to the present, there are still relatively few examples of electrophosphorescent (co)polymers as single–component OLED materials. These examples include semiconducting polyfluorenes with side-chain or main-chain iridium complexes, ladder poly(para-phenylene)s with electrophosphorescent palladium centers, self-assembled Schiff base polymers and platinum-based side chain copolymers. Transition metal (Co, Ni, Zn) Schiff base polymers have been prepared by oxidative polymerisation, transesterification and condensation of salen-type monomers but they have not been applied in OLEDs. 
+An often observed disadvantage of blend-based devices is a phase separation of polymer and phosphorescent dye. One strategy to inhibit this phase separation is to incorporate the electrophosphorescent dye into the polymer backbone. The approach presented in chapter 3 describes the covalent incorporation of phosphors into the backbone of a solutionprocessable semiconducting copolymer. The synthesis of platinum(II) salen complexes and the corresponding polyfluorene-based copolymers is reported in this chapter. 
+OLEDs were subsequently fabricated and showed promising efficiencies and also demonstrated the potential of this stratagem. Further optimization of the copolymer structure includes modification of the ligand sphere as well as a variation of the backbone e.g. incorporation of suitable comonomers such as benzophenone which should allow for a more efficient and directed energy transfer between the backbone polymer and the chromophore. 
+Another remaining task is to improve the lifetime and the efficiency of these materials during their application in OLEDs. The synthesis and characterization of new matrix polymers for triplet emitters is presented in chapter 3.3. The incorporation of benzophenone units into the main chain of polyfluorenes resulted in an improved lifetime for operating OLEDs. Further investigations include the variation of the benzophenone content and the incorporation of phosphorescent metal complexes into the main chain of such copolymers.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20080323</identifier>
+                    <identifier type="sys">HT015613424</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_801</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_801">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2008/galbrecht/dc0809.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_801"
+            DMDID="DMD_wuppertal_elpub_801">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_801"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

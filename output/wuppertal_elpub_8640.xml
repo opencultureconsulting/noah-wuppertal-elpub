@@ -1,0 +1,94 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_8640">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zum Tragverhalten von Hohlprofil-Verbundstützen mit Mehrkernquerschnitten</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Chanou, Mohamed</displayForm>
+                        <namePart type="family">Chanou</namePart>
+                        <namePart type="given">Mohamed</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hanswille, Gerhard</displayForm>
+                        <namePart type="family">Hanswille</namePart>
+                        <namePart type="given">Gerhard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schäfer, Markus</displayForm>
+                        <namePart type="family">Schäfer</namePart>
+                        <namePart type="given">Markus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Naujoks, Bernd</displayForm>
+                        <namePart type="family">Naujoks</namePart>
+                        <namePart type="given">Bernd</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Böhling, Stefan</displayForm>
+                        <namePart type="family">Böhling</namePart>
+                        <namePart type="given">Stefan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-10-08</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Stützen in Verbundbauweise zeichnen sich gegenüber herkömmlichen Stahlbetonstützen durch höhere Tragfähigkeiten aus. Ihre Bemessung ist in DIN EN 1994-1-1 geregelt, wobei zwischen dem vereinfachten und dem allgemeinen Nachweisverfahren unterschieden wird. Während sich das vereinfachte Verfahren für die Handrechnung eignet, setzt das allgemeine Verfahren die Anwendung von komplexen Berechnungsprogrammen voraus. 
+Einen gebräuchlichen Verbundstützentyp stellt die Hohlprofil-Verbundstütze dar. Durch den Einsatz von mehreren Stahlkernen als Einstellprofile, die sich im Hinblick auf Anzahl und Anordnung innerhalb des Querschnitts variabel gestalten lassen, wird das Stützentragverhalten wesentlich verbessert. Der mehrkernige Stützentyp wird jedoch nicht vom Anwendungsbereich des vereinfachten Nachweisverfahrens abgedeckt, sodass die gesicherte Bemessung einen hohen numerischen Berechnungsaufwand erfordert. Vor diesem Hintergrund wird in Anlehnung an das vereinfachte Verfahren nach DIN EN 1994-1-1 ein Konzept für ein Näherungsverfahren unter Angabe des Anwendungsbereichs erarbeitet, das eine baupraktische Bemessung des betrachteten Stützentyps bei planmäßig zentrischem Druck sowie kombinierter Beanspruchung aus Druck und Biegung ermöglicht. 
+Die Entwicklung des Bemessungskonzeptes basiert auf umfangreichen theoretischen Untersuchungen zur Beurteilung der Grenztragfähigkeit von kreisrunden Hohlprofil- Verbundquerschnitten mit Rundvollprofilen als Einstellprofile. In diesem Zusammenhang zeigt sich, dass die pauschale Abminderung der vollplastischen Querschnittstragfähigkeit zur Erfassung der Dehnungsbeschränkung mit dem im Regelwerk vorgegebenen Beiwert αM auf der unsicheren Seite liegen würde. Anhand von numerischen Traglastberechnungen erfolgt ferner die Einstufung der Verbundquerschnitte in die europäischen Knickspannungslinien nach DIN EN 1993-1-1 unter Berücksichtigung der Stützenvorkrümmung und der Effekte aus Eigenspannungen. Hierauf aufbauend wird eine für diesen Stützentyp gültige geometrische Ersatzimperfektion hergeleitet. Zur Schnittgrößenermittlung nach Theorie II. Ordnung wird der normativ geregelte Berechnungsansatz einer effektiven Biegesteifigkeit unter Zuhilfenahme eines über Vergleichsrechnungen abgeleiteten Korrekturbeiwertes modifiziert. 
+Die Anwendung des vereinfachten Bemessungsverfahrens setzt einen starren Verbund zwischen den Einzelquerschnitten voraus, sodass von der Hypothese vom Ebenbleiben des Gesamtquerschnitts ausgegangen werden kann. Zur Berücksichtigung einer nachgiebigen Verbundfuge bei der Stützenbemessung enthalten die Regelwerke gegenwärtig keine spezifischen Angaben. Mithilfe weiterer numerischer Untersuchungen wird abschließend der Einfluss der Nachgiebigkeit der Verdübelung auf das Trag- und Verformungsverhalten untersucht.</abstract>
+                    <abstract type="content" lang="eng">In comparison to common reinforced concrete columns, composite columns are characterized by higher ultimate loads. The design of these columns is given in DIN EN 1994-1-1 differentiating between the simplified and the general design methods. The simplified design method can be used for hand calculations, whereas the general design method requires the application of the finite element method. 
+The composite column with steel hollow section represents a common type of composite column. By additional use of steel cores with variable number and position within the cross-section, the structural behaviour can be considerably improved. However, the multi-core type of columns is not in the scope of the simplified design method. Therefore, the design requires an enormous numerical computational effort. It is the objective of this paper to develop a simplified design method for this type of cross-section according to DIN EN 1994-1-1. 
+The development of the design concept is based on comprehensive theoretical investigations in order to estimate the load bearing capacity of circular hollow composite section with circular steel cores as inner sections. In this context, the results clearly show that the reduction of the full plastic resistance to determine the limitation of strains with the coefficient αM, specified by the standards, is on the unsafe side. Furthermore, the composite section is classified into the European buckling curves in accordance with DIN EN 1993-1-1 taking into account geometrical and structural imperfections. Based on these results, a geometrical equivalent imperfection is determined for this type of composite columns. With regard to the calculation of internal forces based on the second order theory, the normative approach of an effective flexural stiffness is modified by a correction factor, derived from comparative calculations. 
+The Bernoulli hypothesis is a basic assumption for the use of the simplified design method. Currently, the standards do not take into account the flexibility of the shear connection in the load introduction length. Hence, additional numerical studies are performed to investigate the load baring capacity and the deformation of the column as a function of the stiffness of the shear connection.</abstract>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Architektur und Bauingenieurwesen » Bauingenieurwesen"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20180817-130813-4</identifier>
+                    <identifier type="sys">HT019830483</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_8640</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_8640">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/bauingenieurwesen/diss2018/chanou/dd1802.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_8640"
+            DMDID="DMD_wuppertal_elpub_8640">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_8640"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

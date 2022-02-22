@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_11070">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Vertrauen im Rahmen der Investitionsentscheidung professioneller Investoren - Eine theoretische und empirische Analyse</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Greiner, Philipp</displayForm>
+                        <namePart type="family">Greiner</namePart>
+                        <namePart type="given">Philipp</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Betzer, André</displayForm>
+                        <namePart type="family">Betzer</namePart>
+                        <namePart type="given">André</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-11-09</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Gegenstand der Untersuchung ist die Vertrauensbeziehung zwischen professionellen Investoren und Unternehmen. Die empirische Analyse zielt hierbei auf die Beantwortung der Frage ab, wie die auf Basis von ökonomischen und personenspezifischen Faktoren gebildete Vertrauenserwartung die Transaktionsbereitschaft bzw. Aktienkaufbereitschaft professioneller Investoren beeinflusst. Basis für die Untersuchung ist ein Faktorieller Survey, der insgesamt aus 16 verschiedenen Situationsbeschreibungen, sogenannten Vignetten, besteht. Im Ergebnis zeigt sich, dass der Zusammenhang zwischen ökonomischem Vertrauen und Transaktionsaktionsbereitschaft grundsätzlich in Abhängigkeit von personenspezifischen Vertrauensfaktoren, wie z. B. der generellen Vertrauensneigung, variiert. Somit beeinflusst das Vertrauenskonstrukt selbst professionelle Anleger im Rahmen ihrer Entscheidungen.</abstract>
+                    <subject>
+                        <topic>Vertrauen</topic>
+                        <topic>professionelle Investoren</topic>
+                        <topic>Investitionsentscheidung</topic>
+                    </subject>
+                    <classification authority="ddc">332</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20201109-111425-2</identifier>
+                    <identifier type="doi">10.25926/fck4-g075</identifier>
+                    <identifier type="sys">HT020661348</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_11070</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_11070">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2020/greiner/db2007.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_11070"
+            DMDID="DMD_wuppertal_elpub_11070">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_11070"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

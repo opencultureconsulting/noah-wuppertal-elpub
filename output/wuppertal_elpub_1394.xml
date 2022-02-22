@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1394">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchung zu gastrointestinalen Beschwerden und Befindlichkeit bei Flugpersonal auf Langstreckenflügen: Einfluss von Kabinendruck und Nahrung.</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hinninghofen, Heidemarie</displayForm>
+                        <namePart type="family">Hinninghofen</namePart>
+                        <namePart type="given">Heidemarie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In Experiment I wurde eine Befragung zum Ernährungs- und Stuhlverhalten an 45 Flugbegleiterinnen durchgeführt. Während der Flüge nahm die Häufigkeit der Nahrungsaufnahme sowie Blähungen zu, die Defäkation wurde vermieden. Im Experiment II sollte geklärt werden, ob verstärkte Blähbeschwerden und andere gastrointestinale Beschwerden durch einen erhöhten Ballaststoffgehalt hervorgerufen werden können. 30 gesunde männliche Probanden erhielten eine Standardmahlzeit mit 2g bzw. 20g Ballaststoffgehalt. Gastrointestinale Symptome, Herzrate, Blutdruck und Magenentleerungszeit (13C-Atemtest) wurden erhoben. Es ergab sich kein signifikanter Unterschied zwischen den Gruppen. Die Magenentleerungszeit der ballaststoffreichen Standardmahlzeit war tendenziell gegenüber der der ballaststoffarmen Standardmahlzeit verlängert.
+ Experiment III In einer Unterdruckkammer wurde bei 16 gesunden Probanden der Effekt der Standardmahlzeiten (2g vs. 20g Ballaststoffe) bei einem Umgebungsdruck von 690 mmHg (1000m) bzw. 565mmHg (2500m) untersucht. Es ergaben sich signifikante Unterschiede nur auf der Flughöhe 2500m für den Vergleich der Magenentleerungszeit zwischen ballaststoffarmer und ballaststoffreicher Mahlzeit sowie für die Symptome Völlegefühl und Blähungen. Es ergibt sich, dass die signifikanten Unterschiede im Experiment III durch die Wirkung der räumlichen und zeitlichen Summation der Stimuli; Ballaststoffgehalt, Luftdruck und Sauerstoffverminderung verursacht wurden. Zusammenfassend kann gesagt werden, dass ballaststoffreiche Ernährung in Verbindung mit niedrigem Umgebungsdruck bei Gesunden die Magenentleerungszeit signifikant verlängert und Völlegefühl und Blähungen hervorruft.</abstract>
+                    <abstract type="content" lang="eng">To elucide the increased frequency of gastrointestinal symptoms in air crew members and passengers during long-distance flights, we investigated the effects of altitude and diet on gastric emptying, cardiovascular function and bodily complaints.
+ We simulated an 8-hour transmeridian flight in a hypobaric chamber in 16 healthy males (25.5 5.9 yrs), subjected to two meal conditions (2g vs. 20g of fibre) on separate days, randomly assigned to either a flight altitude of 2500m (565 mmHg cabin pressure) or 1000m (690 mmHg). The subjects were blinded towards altitude and fibre content of the meal. Heart rate and gastrointestinal symptom ratings were taken every hour, and gastric emptying was assessed by conventional 13C-octanoic breath-test. In a separate experiment, we examined the effect of the two test meals (2g vs. 20g of fibre) on the same measures in 30 healthy males (26.7 ± 6.2 yrs.) under conventional laboratory conditions. At an altitude of 2500 m, heart rate was significantly increased throughout the entire flight, independent of the dietary condition (ANOVA, F=5.89; p=0.011). Gastric emptying (T1/2) was significantly delayed at 2500 m altitude, when a high fibre meal was given (146.3 ± 58.4 min vs. 193.9 ± 54.3 min). Symptom reports of gastric distention and bloating were significantly increased at 2500 for the high fibre meal compared with the low fibre meal. There were no differences between groups on any measure for the ground control condition. Conventional flight altitude is a physiological load which is reflected by the consistent increase in heart rate. In combination with a high fibre diet, this induces significant delays in gastric emptying that may explain symptoms of cabin and cockpit crew and passengers on long distance flights.</abstract>
+                    <classification authority="ddc">150</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Human- und Sozialwissenschaften » Psychologie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20060547</identifier>
+                    <identifier type="sys">HT014926628</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1394</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1394">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbg/psychologie/diss2005/hinninghofen/dg0507.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1394"
+            DMDID="DMD_wuppertal_elpub_1394">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1394"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_411">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchungen zur Biosynthese der Methylthiolincosaminid (MTL) Untereinheit des Antibiotikums Lincomycin A aus Streptomyces lincolnensis NRRL 2936</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Arnold, Antje</displayForm>
+                        <namePart type="family">Arnold</namePart>
+                        <namePart type="given">Antje</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2000-03-08</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In der vorliegenden Arbeit wurden Untersuchungen zur Biosynthese des Methylthiolincosaminids (MTL), der Zuckeruntereinheit des Lincomycin A aus Streptomyces lincolnensis 2936 durchgeführt. 1. Es wurden die Proteine LmbR (C8-Kondensation), LmbN (Isomerase), LmbO (Nucleotidylyltransferase), LmbK (Phosphatase) und LmbP (Kinase), die mögliche Schlüsselpositionen innerhalb der MTL-Biosynthese besetzen, in löslicher Form in Escherichia coli bzw. in Streptomyces lividans exprimiert. 2. Das gesamte putative MTL-Gencluster wurde heterolog in S. lividans exprimiert. Eine heterologe MTL-Produktion in S. lividans konnte jedoch nicht nachgewiesen werden. 3. In Untersuchungen zur enzymatischen Funktion des Proteins LmbR konnte unter Einsatz verschiedener Substrate keine Transaldolase- bzw. Aldolase-Aktivität gemessen werden. Für einen Funktionsnachweis von LmbP wurde das postulierte Octosesubstrat in der galacto-Konfiguration chemisch synthetisiert. Im Enzymtest konnte die Phosphorylierung zu Octose-1-phosphat nicht nachgewiesen werden; möglicherweise benötigt LmbP die gluco-Konfiguration der Octose als Substrat. 4. Es wurden Mutanten der Gene lmbS (Aminotransferase) und lmbK mit Doppel-Crossover-Ereignis und für lmbW mit Einzel-Crossover-Ereignis, die kein Lincomycin A mehr produzierten, generiert. 5. Die transkriptionelle Organisation des MTL-Genclusters wurde untersucht. Promotorprobe-Untersuchungen bestätigten den lmbR-Promotor; die Bereiche der jeweiligen Promotoren vor den Genen lmbK, lmbV und lmbW wurden eingegrenzt. Ein zusätzlicher Promotor wurde vor einem wahrscheinlich benutzten, dritten Startcodon des lmbN-Leserahmens lokalisiert. 6. Ein stark modifizierter Biosyntheseweg des MTL wird als Arbeitshypothese für weitere Untersuchungen vorgeschlagen.</abstract>
+                    <abstract type="content" lang="eng">In this study analyses concerning the biosynthesis of methylthiolincosaminide (MTL), the sugar subunit of the antibiotic lincomycin A from S. lincolnensis, were carried out. 1. The proteins LmbR (C8-condensation), LmbN (isomerase), LmbO (nucleotidyltansferase), LmbK (phosphatase) and LmbP (kinase), which possibly catalyse key steps durch the biosynthesis of MTL, were expressed solubly in Escherichia coli and in Streptomyces lividans. 2. The complete putative MTL-gene cluster was expressed in S. lividans. Attempts to prove heterologous production of MTL failed. 3. The transladolase- or aldolase function of LmbR could not be demonstrated experimentally. The postulated substrate for the LmbP enzyme assay octose was synthesized chemically in its galacto-configuration. However, the enzyme did not phosphorylate this component; possibly the gluco-configuration of the substrate is more likely used by LmbP. 4. Lincomycin A-negative mutants with double cross-over events were generated in the genes lmbS (aminotransferase) and lmbK and with single cross-over events in gene lmbW. Complementation experiments showed indirectly that all three gene products are likely involved in the biosynthesis of MTL. 5. The transcriptional organisation of the MTL-gene cluster was analyzed. DNA-RNA-hybridisation experiments indicated a promotor in front of the lmbR gene. Promotor probe experiments confirmed the existance of a promotor upstream of lmbR; the promotor regions upstream of lmbK, lmbV and lmbW were defined. An additional promotor was localized upstream of a shorter, i. e. starting at a third start codon, reading frame of lmbN. Furthermore, there seem to be promotors upstream of lmbM and lmbT. 6. A new biosynthetic pathway of MTL is proposed as a working hypothesis.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20000075</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_411</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_411">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-505/d090001.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_411"
+            DMDID="DMD_wuppertal_elpub_411">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_411"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_7570">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Carbonyl Sulfide in the Stratosphere: airborne instrument development and satellite based data analysis</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kloss, Corinna</displayForm>
+                        <namePart type="family">Kloss</namePart>
+                        <namePart type="given">Corinna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Carbonylsulfid (OCS) hat einen großen Einfluss auf den globalen Schwefelkreislauf und damit auch auf das globale Klima. In Zeiten geringer vulkanischer Aktivität ist OCS das dominierende Schwefelgas in der Atmosphäre. In der Stratosphäre wird OCS über Schwefeldioxid zu Aerosol umgewandelt. Stratosphärisches Aerosol hat einen kühlenden Effekt auf das Klima. Im Rahmen dieser Dissertation wird ein Beitrag zum Verständnis von OCS und dessen Rolle in atmosphärischen Prozessen, in der oberen Troposphäre und unteren Stratosphäre geleistet. Hierzu wurden Satellitendaten analysiert und ein neues Messgerät AMICA (Airborne Mid-Infrared Cavity enhanced Absorption spectrometer), für Einsätze auf stratosphärischen Forschungsflugzeugen entwickelt.
+ Mit dem Satelliten Datenprodukt von ACE-FTS wurde die Gesamtmenge an stratosphärischem OCS bestimmt, der sog. stratosphärische &quot;Burden&quot;. Dieser beträgt 524 Gg, was gut mit der OCS Repräsentierung eines Schwefelkreislauf Modells übereinstimmt und entspricht etwa 10 % der gesamten atmosphärischen OCS Masse. Im gesamten bisherigen ACE-FTS Messzeitraum von 2004 bis 2016 ist kein signifikanter Trend zu beobachten. Wegen der lückenhaften, globalen Abtastung von ACE-FTS entsteht ein systematischer Fehler bei der Berechnung von klimatologischen Mittlungen über Breitengrad- und Zeitbereiche. Um diesen Fehler zu korrigieren wurde in dieser Arbeit eine Methode entwickelt, die auf einer mathematischen Interpolation basiert. Für eine Einschätzung der Größe und Signifikanz dieser Abweichung wurde diese Methode erprobt und Grenzen aufgezeigt.
+ Signifikant erhöhte OCS- (CO- und HCN-) Konzentrationen werden in der Antizyklone des asiatischen Monsuns, der als wichtiger Transportweg von dem Treibhausgas- verschmutzen asiatischen Raum in die Stratosphäre gilt, mit dem ACE-FTS Datensatz nachgewiesen. Ein HCN:OCS Vergleich unterstützt die Annahme, dass Luftmassen aus der Bay of Bengal Region eher südlich der Antizyklone des asiatischen Monsuns transportiert werden und die Antizyklone eher von kontinentaler Konvektion gespeist wird. Der asiatische Monsun soll mit hochaufgelösten in-situ Messungen genauer untersucht werden.
+ Ein hochauflösendes, in-situ Messgerät AMICA für den Einsatz auf Flugzeug-Messkampagnen, wurde im Rahmen dieser Arbeit entwickelt und charakterisiert. AMICA ist ein hochauflösendes in-situ Spektrometer, entwickelt für den Einsatz auf Forschungsflugzeugen. Unter die Entwicklung und Erprobung einzelner Komponenten des Messinstruments fallen zum Beispiel ein druckdichtes Gehäuse für die Messapparatur, ein Flusssystem zur Regulierung eines konstanten Drucks in den Messzellen (bei Schwankungen des Außendrucks während eines Messflugs) und ein geeignetes OCS Kalibrierungssystem.
+ Während der ersten Messkampagne in Kalamata, Griechenland im Sommer 2016, hat AMICA erfolgreich gemessen. Messungen zeigen, dass OCS, wie angenommen in der Stratosphäre abnimmt. In der oberen Troposphäre und unteren Stratosphäre (UTLS) zeigen die OCS Messungen eine höhere Variabilität als erwartet. Das AMICA CO Datenprodukt wurde der StratoClim Gemeinschaft zur Verfügung gestellt. Ein Vergleich mit einem nahe gelegenem ACE-FTS Messprofil zeigt eine gute übereinstimmung mit AMICA OCS- und CO-Werten in der Stratosphäre. Ein Vergleich mit ACE-FTS OCS und CO Messungen zeigt eine gute übereinstimmung der beiden Messinstrumente in der Stratosphäre.
+ Weitere geplante Messflüge mit AMICA werden zu einem besseren Verständnis der gemessenen OCS Variabilität in der UTLS beitragen, was zu einer besseren Parameterisierung von OCS in globalen Klimamodellen führen kann.</abstract>
+                    <abstract type="content" lang="eng">Carbonyl sulfide plays a crucial role in the global atmospheric sulfur cycle and therefore for the global climate. It is the most abundant sulfur containing gas in the atmosphere during volcanic quiescence and is converted to aerosol in the stratosphere, which has a cooling effect on the climate. This work contributes to a better understanding of the role of OCS in the upper troposphere and lower stratosphere. Satellite based data were analyzed and a new instrument AMICA (Airborne Mid-Infrared Cavity enhanced Absorption spectrometer) for in-situ OCS measurements on stratospheric research aircraft was developed.
+ Using the OCS data set from the satellite based instrument ACE-FTS, the stratospheric OCS burden was calculated to be 524 Gg, which is 10 % of the total atmospheric OCS budget and is in agreement with a sulfur cycle model. No trend in the global burden is observed between 2004 and 2016. Due to the sparse spacial coverage of the data set of ACE-FTS, a sampling bias arises when computing climatological averages over seasons and latitude bands. This sampling bias is corrected for with a newly developed procedure, using a mathematical interpolation. To estimate the significance and magnitude of the bias for each data point, the performance of the interpolation method was tested and some limitations identified.
+ Additionally, with the ACE-FTS data set, a significant increase in OCS (CO and HCN) mixing ratios is observed in the Asian monsoon anticyclone, a pathway from the highest polluted region on earth into the stratosphere. An analysis of the HCN:OCS ratios supports the suggestion of a transport from the Bay of Bengal region outside to the southern border of the anticyclone with air masses in the Asian monsoon anticyclone mostly originating from continental convection. The Asian monsoon and the features seen with the ACE-FTS data set will be investigated in detail with the new in-situ, high resolution instrument AMICA during the EU-project StratoClim.
+ AMICA has been developed and tested as part of this thesis. Important tests were made that contributed to the mechanical design and measurement set up in the final AMICA instrument. Key components include a box-shaped pressure tight enclosure, a flow system that regulates the cavity pressure over a wide ambient pressure range, spanning the full altitude range of available research aircraft, and the establishment of an OCS calibration system.
+ AMICA successfully measured OCS as well as CO, CO₂ and H₂O during its first campaign that comprised three flights from Kalamata, Greece in summer 2016. OCS measurements show decreasing mixing ratios in the stratosphere as expected and a larger variability in the UTLS region than expected. The complete data set of the important tropospheric tracer CO was provided to the StratoClim community. A comparison with a nearby ACE-FTS profile shows a reasonably good agreement between AMICA and ACE-FTS in the stratosphere.
+ Further measurement flights in the UTLS region will help understand the detected higher variability of OCS in the UTLS. This can improve the representation of OCS in global climate models.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20171218-105636-9</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_7570</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_7570">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2017/kloss/dc1727.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_7570"
+            DMDID="DMD_wuppertal_elpub_7570">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_7570"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

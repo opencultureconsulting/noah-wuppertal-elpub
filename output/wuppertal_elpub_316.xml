@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_316">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Präzisionsmessung der Vorwärts-Rückwärts-Asymmetrie von b-Quarks - Bestimmung des elektroschwachen Mischungswinkels sin²Θˡeff</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Münich, Klaus</displayForm>
+                        <namePart type="family">Münich</namePart>
+                        <namePart type="given">Klaus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-11-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">A novel method is used to measure the b quark forward-backward asymmetry at the Z pole on a sample of 2,636,000 hadronic events collected with the DELPHI detector in 1992 to 1995. An enhanced impact parameter tag is applied to the data to obtain a high purity b sample. For each event hemisphere the charge of the corresponding quark or anti-quark is determined using a neural network tag which combines in an optimal way the full available charge information from the vertex charge, the jet charge and from identified leptons and hadrons. The probability to identify b quarks and anti-quarks correctly is calibrated on the data themselves comparing the rates of double hemisphere tagged like-sign and unlike-sign events. The b quark forward-backward asymmetry is determined from the differential asymmetry taking small corrections due to hemisphere correlations and background contributions into account. The result is: 
+ (91.26 GeV) = 0.0931 ± 0.0034(stat.) ± 0.0015(syst.) ± 0.0039(inst.) 
+The effective weak mixing angle is deduced from the measurement to be: 
+ sin² Θˡeff = 0.23287 ± 0.00095</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20010646</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_316</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_316">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-410/d080103.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_316"
+            DMDID="DMD_wuppertal_elpub_316">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_316"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

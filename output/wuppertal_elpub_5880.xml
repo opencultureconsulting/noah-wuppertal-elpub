@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5880">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Light-Emitting Polymers with On-Chain Triplet Emitters</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Heuser, Eike</displayForm>
+                        <namePart type="family">Heuser</namePart>
+                        <namePart type="given">Eike</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Organic Light-Emitting Devices (OLEDs) consist of subsequent semiconducting, organic layers and, since this decade, can be found in consumer electronics e.g. in displays, chiefly in mobile phones, or even for lighting. Their main advantages compared to Liquid Crystal Displays (LCDs) are the thinner construction, flexibility and potentially higher efficiency. Iridium(III) complexes are widely used as active emitter species in OLEDs as they are capable of harvesting both, singlet and triplet excitons, thus, enhancing the efficiency of the devices.
+ In this thesis, the synthesis and characterization of an iridium(III) complex triplet emitter is presented that emits red light due to its 2-phenylisoquinoline cyclometalating ligands. Furthermore, the emitter was furnished with a carbazolyl-functionalized ancillary ligand in order to promote hole trapping at the emitter site. In addition, two series of copolymers based on poly(9,9-dioctylfluorene) as backbone and varying ratios of green fluorescent fluoren-9-one and the iridium(III) complex were synthesized for application in single active layer OLEDs. The first series of copolymers P1-8 revealed color tune ability from green to red and efficient energy transfer from the polymer backbone to the guest moieties. To improve hole injection into the single active layer, two comonomers, fluorene-based 4,4&apos;-(2,7-dibromo-9H-fluorene-9,9-diyl)bis(N,N-diphenylaniline) and carbazole-based 3,6-dibromo-9-(2-ethylhexyl)-9H-carbazole, were synthesized. Subsequently, optimized copolymers PW1-5 were prepared and tested in white light-emitting OLEDs (WOLEDs).
+ Moreover, a second iridium(III) complex with 6-fluoro-2-phenylbenzo[d]thiazole as cyclometallating ligands and carbazolyl-functionalized ancillary ligand (Z)-6-(9H-carbazol-9-yl)-5-hydroxy-2,2-dimethylhex-4-en-3-one was prepared as orange emitter and tested in an OLED.
+ During the fabrication of polymer OLEDs (POLEDs), either inkjet printing or spin coating of polymer solutions on underlying organic functional layers is usually applied. Spin coating suffers from material of the underlying layer(s) being dissolved in the polymer solution and washed away during the process. Thus, either orthogonal solvents or cross-linking of the underlying layer(s) is needed. Both techniques require the introduction of functional groups, either for cross-linking or for controlling the polarity, thus increasing the synthetic and technical effort. As a possible solution, aqueous suspensions of a copolymer were prepared with concentrations of up to 50 mg · L-1. In first attempts, the suspensions could be successfully printed on glass substrates.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20160614-094258-5</identifier>
+                    <identifier type="sys">HT019055990</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5880</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5880">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2016/heuser/dc1610.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5880"
+            DMDID="DMD_wuppertal_elpub_5880">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5880"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

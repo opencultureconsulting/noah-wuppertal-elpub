@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1401">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Intermittent chaos in Hamiltonian dynamical systems</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Altmann, Eduardo Goldani</displayForm>
+                        <namePart type="family">Altmann</namePart>
+                        <namePart type="given">Eduardo Goldani</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Diese Dissertation beschäftigt sich mit der statistischen Charakterisierung von chaotischen Trajektorien in Hamiltonschen dynamischen Systemen mit gemischtem Phasenraum. Chaotische Trajektorien verweilen in der Nähe regulärer Gebiete und führen zu einem intermittierendem Verhalten. Dies wird quantifiziert durch das Potenzgesetz P(T)~T^{a-1} in der Statistik der Verweilzeiten T und bestimmt z. B. die Transporteigenschaften und den Zerfall der Korrelation. Für Systeme mit Ein-Parameter-Familien von marginal-instabilen periodischen Bahnen wird der Exponent a = 2 analytisch berechnet und gilt für chaotische Billards mit parallelen Wänden, Kreis-Billards (z.B. ringförmige und Pilz-Billiards) und stückweise lineare Abbildungen. Im Allgemeinen hat zusätzliches weißes Rauschen zwei Auswirkungen auf P(T): mittlere T werden wahrscheinlicher (a=0.5), da die Trajektorien in die regulären Gebiete eintreten, während P(T) für größere T exponentiell zerfällt. In einem Modell von N gekoppelten zweidimensionalen Abbildungen wird ein zusätzliches asymptotisches Potenzgesetz beobachtet, aufgrund der Stickiness (eng. Klebrigkeit) von hochdimensionalen KAM-tori. Dieser Exponent wächst mit N. Dies bietet eine neue Erklärung für das Auftreten von starkem Chaos in hochdimensionalen Hamiltonschen Systemen. Zusammengenommen stützen alle Ergebnisse dieser Arbeit eine neuartige Interpretation der chaotischen Hamiltonschen Dynamik, in der die Stickiness eine zentrale Rolle spielt.</abstract>
+                    <abstract type="content" lang="eng">The topic of this Thesis is the statistical characterization of chaotic trajectories in Hamiltonian dynamical systems with mixed phase space. Intermittency is observed due to the stickiness close to regular KAM islands; it is quantified through the power-law statistics of regular periods P(T)~T^{-a-1}. The exponent a=2 is derived for the stickiness close to one-parameter families of marginally unstable periodic orbits and verified to hold in: chaotic billiards with parallel walls (e.g., Sinai and stadium billiards), circular-like billiards (e.g., annular and mushroom billiards), and piecewise-linear area-preserving maps. In general, white noise perturbation has two effects on P(T): it enhances (a=0.5) the probability for intermediate times T by placing trajectories inside the regular regions; and it introduces an exponential cutoff at larger times T. For N weakly coupled area-preserving maps an additional asymptotic power-law decay of P(T) is observed as a consequence of the stickiness to high-dimensional tori. This exponent increases with N and suggests a novel explanation for the onset of strong chaos in high-dimensional Hamiltonian systems. The different regimes of decay of P(T) impact on the transport properties leading to anomalous or normal diffusion. Altogether, the different results lead to a new unified interpretation of the chaotic dynamics in Hamiltonian systems and raise the phenomenon of stickiness to a fundamental status.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20070152</identifier>
+                    <identifier type="sys">HT015033028</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1401</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1401">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2007/altmann/dc0703.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1401"
+            DMDID="DMD_wuppertal_elpub_1401">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1401"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

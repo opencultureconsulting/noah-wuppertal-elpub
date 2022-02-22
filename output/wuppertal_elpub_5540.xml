@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5540">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Transformation und ontologische Formulierung multikriterieller Problemstellungen für die Lösung mit Verfahren der nichtlinearen Parameter-Optimierung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>John, Christian</displayForm>
+                        <namePart type="family">John</namePart>
+                        <namePart type="given">Christian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Programmgestützte Problemlösungsverfahren können Aufgabenstellungen oft nicht mit einem geschlossen-deterministischen, sondern nur mit einem iterativprobabilistischen Ansatz lösen. Die typischen Lösungsansätze sind als Verfahren der Optimierung beschrieben, unter denen die Verfahren der nichtlinearen Parameter-Optimierung eine Generalisierung unter den Optimierungsverfahren darstellen.
+ Parameter-Optimierungsverfahren lassen sich auf eine vereinheitlichte Struktur von Eingabe- und Ausgabe-Daten zurückführen, die jedoch von semantischen Informationen der eigentlichen Aufgabenstellung abstrahiert: Das Szenario einer konkreten, kriteriengebundenen Aufgabenstellung muss von semantischen Aspekten befreit und in die Datenstruktur der Optimierung transformiert werden; die Interpretation und zeitlich-räumlich getrennte Weiterverwendung der Ergebnisdaten nach erfolgter Optimierungsrechnung entspricht dann einer Rückführung in die semantische Informationsebene der ursprünglichen Aufgabenstellung.
+ Diese Arbeit beschreibt zunächst einen standardisierten Transformationsprozess zur Gewinnung der abstrahierten Datenstrukturen für die Optimierung und leitet daraus die notwendigen Serialisierungs- und Informationsstruktur- Anforderungen für die interpretatorische Rückführung der Ergebnisdaten her. Abschließend wird ein standardisierter Prä- und Post-Prozess-Mechanismus zur automatisierten Verarbeitung, Interpretation und Darstellung der Ergebnisdaten von Optimierungsverfahren zusammen mit dem Vorschlag einer Schnittstellendefinition beschrieben.</abstract>
+                    <abstract type="content" lang="eng">While in many cases algorithmic problem solving can be achieved by using closed deterministic procedures, recurrent tasks arise the need for an iterative and probabilistic approach. Non-linear parameter optimization is the most generalized way for iteratively solving those probabilistic problems.
+ While parameter-oriented optimization is based on unified structures of input and output data, the data is an abstract of semantic information given in the original task formulation. Semantic aspects are submitted to reduction from particular criteria-bound task scenarios, in order to be transformed into the numeric data structures needed for optimization. Result data is interpreted and re-used independently from time and place by reversal onto the scenario’s semantic informational level.
+ A standardized transformation process for generation of abstract optimizational data structures is presented, serialization and structuring requirements are derived with regard to interpretational needs for result data. Conclusively, a standardized pre- and post-process mechanism is presented for automatic processing, interpretation, and representation of optimization result data, including an interface definition proposal.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20160202-114956-0</identifier>
+                    <identifier type="sys">HT018875916</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5540</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5540">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2015/john/de1504.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5540"
+            DMDID="DMD_wuppertal_elpub_5540">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5540"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

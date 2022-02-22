@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_11770">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kognitive Lernvoraussetzungen von Schüler*innen mit Lernbehinderung: Eine empirische Untersuchung von Prozessen und Strukturen des Arbeits- und Langzeitgedächtnisses</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bruns, Gunnar</displayForm>
+                        <namePart type="family">Bruns</namePart>
+                        <namePart type="given">Gunnar</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-05-26</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Diese Arbeit untersucht das verbale Arbeitsgedächtnis und das semantische Gedächtnis als zwei kognitive Lernvoraussetzungen an einer Stichprobe von n = 93 Kindern mit Lernbehinderung und n = 120 unbeeinträchtigten Kindern daraufhin, ob hinsichtlich der Verfügbarkeit und Funktionalität dieser Aspekte differenzielle Entwicklungsmuster vorliegen. Eine zentrale These dieser Arbeit ist, dass – bedingt durch die Dominanz der Strategiedefizit-Hypothese nach Klauer und Lauth (1997) – kognitiven Lernvoraussetzungen bisher eine zu geringe Bedeutung beigemessen wird. Daher untersucht diese Arbeit die Fragestellung nach der Verfügbarkeit von Arbeits- und Langzeitgedächtnis in drei Studien. Studie 1 behandelt die Kapazität der phonologischen Schleife sowie den Rehearsal- und den Redintegrationprozess, die beide zur Aufrechterhaltung der Gedächtnisspur dienen. In der zweiten Studie werden die Binnen- und die Außenstruktur des mentalen Lexikons betrachtet. Schließlich sichert Studie 3 einen differenziellen Befund der ersten Studie methodisch ab. Die Ergebnisse sprechen allgemein für das Muster einer Entwicklungsverzögerung. Schüler*innen mit Lernbehinderung weisen in Arbeits- und Langzeitgedächtnis keine grundsätzlichen strukturellen Defizite auf, die über ihr allgemeines mentales Alter hinausgehen. Gleichzeitig war im spezifischen Aspekt der Interaktion von Arbeits- und Langzeitgedächtnis ein differenzieller Befund zu beobachten, der weder inhaltlich auf die Struktur des Langzeitgedächtnisses, noch auf ein methodisches Artefakt zurückzuführen ist. Hier schienen Schüler*innen mit Lernbehinderung schlechter in der Lage zu sein, Wissen im Langzeitgedächtnis effektiv für die Rekonstruktion im Arbeitsgedächtnis zu nutzen. Die Arbeit trägt zu einem besseren theoretischen und praktischen Verständnis des immer noch unscharf definierten Konstruktes &apos;Lernbehinderung&apos; bei, indem sie erstmals den Redintegrationprozess sowie Arbeits- und Langzeitgedächtnis gemeinsam in einer Stichprobe untersucht. Die Anwendung der innovativen Auswertungsmethode von Developmental Trajectories (Thomas et al., 2009) ermöglicht eine präzisere Beschreibung des Entwicklungsmusters und die Aufdeckung des differenziellen Befundes. Auf theoretischer Ebene werden die Ergebnisse vor dem Hintergrund der Strategiedefizit-Hypothese diskutiert; eine stärkere wissenschaftliche Aufmerksamkeit auf kognitive Lernvoraussetzungen erscheint durchaus angemessen. Für Unterricht und Intervention ist es sinnvoll, Anforderungen am mentalen Entwicklungsalter auszurichten und spezifisch bei Rekonstruktionsaufgaben zu reduzieren.</abstract>
+                    <subject>
+                        <topic>School of Education/Institut für Bildungsforschung » Dissertationen</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20210526-101712-2</identifier>
+                    <identifier type="doi">10.25926/zyyq-nv03</identifier>
+                    <identifier type="sys">HT021169756</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_11770</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_11770">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/se/diss2021/bruns/se2101.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_11770"
+            DMDID="DMD_wuppertal_elpub_11770">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_11770"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

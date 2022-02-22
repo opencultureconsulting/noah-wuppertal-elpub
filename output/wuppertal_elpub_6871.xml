@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6871">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kundenzufriedenheit als Untersuchungsgegenstand im Kontext von Start-Ups</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kattilathu, Biyon</displayForm>
+                        <namePart type="family">Kattilathu</namePart>
+                        <namePart type="given">Biyon</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Start-Ups besitzen ein hohes Wachstumspotential und gelten als sehr flexibel. Daneben besitzen sie allerdings auch spezifische Nachteile, wie etwa die Tatsachen, dass noch kein großer Kundenstamm besteht, das Marketingbudget oftmals beschränkt ist und die Produkte oder die Dienstleistungen des Start-Ups noch neu und unbekannt sind.
+
+ Insbesondere das Marketing gilt dabei als große Herausforderung für Start-Ups und wurde in der bestehenden Literatur im Rahmen des Entrepreneurial Marketing und im Kontext des Innovationsmanagements näher erforscht. So kann der Erfüllungsgrad von Kundenanforderungen unterschiedliche Effekte auf die Kundenzufriedenheit haben. Die Kundenzufriedenheit wird dabei als Ergebnis eines kognitiven und affektiven Evaluationsprozesses in dessen Rahmen eine geforderte oder gewünschte Soll-Leistung mit der tatsächlich wahrgenommenen Ist-Leistung verglichen wird. Inwieweit dies auch für Start-Ups gilt, ist bislang nur unzureichend empirisch untersucht.
+
+ Ziel dieser Arbeit ist es, welche konkreten Aspekte der Kundenzufriedenheit im Kontext von Start-Ups für den Unternehmenserfolg entscheidend sind. Das Thema dieser Arbeit liegt in der Schnittstelle der Theorie der Kundenzufriedenheit und des Entrepeneurships.</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170426-093934-8</identifier>
+                    <identifier type="sys">HT019317654</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6871</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6871">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2017/kattilathu/db1702.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6871"
+            DMDID="DMD_wuppertal_elpub_6871">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6871"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

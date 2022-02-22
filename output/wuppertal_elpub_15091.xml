@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_15091">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Xanthine-derived N-heterocyclic carbenes and their metal complexes</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mokfi, Moloud</displayForm>
+                        <namePart type="family">Mokfi</namePart>
+                        <namePart type="given">Moloud</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-08-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In the present study, a series of N-heterocyclic carbene (NHC) precursors derived from theophylline, theobromine, and caffeine have been synthesized. In this regard, ethyl p-toluenesulfonate (EtOTs) and diethyl sulfate (EtO)2SO2 were used as a new generation of alkylating agents to afford the ethylation of the NHC precursors at the N9 position. The structures of all products were evaluated and confirmed by NMR spectroscopy, high-resolution mass spectrometry (HRMS), and in some cases by elemental analysis (EA). Based on the experimental data, due to several advantages such as ease of use, high availability, low cost, and high alkylating power, (EtO)2SO2 can be preferred to EtOTs as the alkylating agent. In the next part, different NHC precursors of various anions (e.g. PF6-, BPh4-, BF4-, Cl-, and I-) were prepared by an ion-exchange reaction of the corresponding NHC precursors. The successful synthesis of the products was confirmed by NMR spectrometry, HRMS, and in some cases by EA. Moreover, regarding a great increase in biomedical applications of transition metal NHC complexes, it was decided to synthesize silver(I)-NHC complexes with general formulas of [Ag(NHC)(NH3)]+, [Ag(NHC)(Phosphine)]+ (Phosphine: PPh3, PTA), and [Ag(NHC)(X)] (X: Cl, I). Some other transition metal-NHC complexes of Ru(II), Rh(I), Rh(III), and Au(I) were prepared by following a transmetallation reaction from the corresponding [Ag(NHC)Cl] complexes. All synthesized complexes were characterized by NMR spectrometry, HRMS, EA analyses, and in some cases by single crystal X-ray diffraction. Finally, the formation of [Pd(NHC)(dmba)Cl] complex was examined by the reaction of [NHCH]Cl salts with [Pd(dmba)Cl]2 dimer at 100 °C for 30-60 minutes. 
+Supporting information: NMR analyses.zip, Mass Spectrometry.zip</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20210812-151557-8</identifier>
+                    <identifier type="doi">10.25926/9qkx-mz67</identifier>
+                    <identifier type="sys">HT021086776</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_15091</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_15091">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2021/mokfi/dc2111.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_15091"
+            DMDID="DMD_wuppertal_elpub_15091">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_15091"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

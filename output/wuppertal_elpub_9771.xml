@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9771">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Neue Topologiekonzepte für moderne Mittelspannungsnetze</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wolter, Daniel</displayForm>
+                        <namePart type="family">Wolter</namePart>
+                        <namePart type="given">Daniel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-09-16</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Integration Erneuerbarer Energien stellt Mittelspannungsnetze vor große Herausforderungen, gerade in Regionen, wo durch das natürliche Dargebot regenerativer Energiequellen deren Leistung sehr hoch ist. Originär ausschließlich für die Versorgung von Lasten ausgelegt, wird die aufzunehmende Leistung Erneuerbarer Energien mehr und mehr eine dimensionierende Größe in Mittelspannungsnetzen. Unzulässige Belastungen der Netzbetriebsmittel, Verletzungen der Grenzwerte der Netzspannung sowie eine abnehmende Spannungsqualität sind die Folgen. 
+Aus den Herausforderungen an die Mittelspannungsnetze im Kontext der Transformation des Energieversorgungssystems und den aktuellen Forschungsarbeiten hinsichtlich neuer, vermaschter Topologiekonzepte erwächst die Motivation dieser Arbeit. Der wesentliche Kerngedanke ist, die Auswirkungen der Anwendung vermaschter Topologien auf die Netzplanung und den –betrieb zu untersuchen. Im Unterschied zu anderen Arbeiten, die sich auf einzelne Beispielregionen und –netze konzentrieren, soll diese Arbeit durch eine Vielzahl von Netzplanungen und deren repräsentative Einordnung möglichst belastbare Aussagen zu Topologien in Mittelspannungsnetzen entwickeln, auf Basis derer prinzipielle Grundsätze abgeleitet werden können. Entsprechend der großen Grundgesamtheit aller Mittelspannungsnetze besteht hier allerdings nicht der Anspruch, für alle vorhandenen Netzkonstellationen allgemeingültige Prinzipien zu entwickeln. Aufbauend auf der Kernidee dieser Arbeit lassen sich verschiedene Forschungsfragen formulieren. 
+ 1. Sind heutige Netzstrukturen in Mittelspannungsnetzen im Kontext der Energiewende noch angemessen?
+ 2. Welche Topologien sind prinzipiell sinnvoll zur Maximierung der Integration Erneuerbarer Energien in Mittelspannungsnetze und mit welchen Vor- und Nachteilen sind diese verbunden?
+ 3. Wie kann ein Verfahren ausgestaltet sein, um definierte Topologien anzuwenden und zu untersuchen?
+ 4. Ist der Netzausbau unter Anwendung neuartiger Topologien kostengünstiger als ein konventioneller Netzausbau? 
+Um diese Forschungsfragen beantworten zu können, erfolgt zunächst die Definition und Abgrenzung der zu untersuchenden Topologien, die in unterschiedliche Typen eingeteilt werden. Eine anschließende Analyse des Einflusses der definierten Topologien auf den Netzbetrieb zeigt die Wirkungsweise auf und ermöglicht schließlich die Beantwortung der dritten Forschungsfrage nach der Ausgestaltung eines Verfahrens zur Untersuchung der verschiedenen Topologien. Die Analyse der Wirkungsweise einer Topologieveränderung erfolgt für verschiedene Parameter teils analytisch und teils mithilfe von Simulationen. Darauf aufbauend schließt sich die Entwicklung einer Methode zur Berücksichtigung der definierten Topologien in der Netzplanung an. In diesem Kontext wird ein Verfahren zur Topologieoptimierung vorgestellt, um die definierten Topologien automatisiert zu untersuchen. Dazu werden zunächst die verschiedenen Ziele, die im Rahmen einer Topologieänderung verfolgt werden können, gegenübergestellt. Anschließend wird ein mathematisches Optimierungsmodell aufgestellt, das basierend auf der zugrunde gelegten Zielfunktion die Topologien optimal anwendet. Die Beantwortung der vierten und der ersten Forschungsfrage erfolgt mittels einer Vielzahl von Netzplanungsvarianten unter Berücksichtigung der definierten Topologien. Ziel der Netzplanungen ist neben der Beantwortung der Frage, inwieweit vermaschte Topologien die Netzausbaukosten reduzieren können, welche der untersuchten Typen von Topologien unter welchen Umständen geeignet sind und inwieweit die Anwendung einer Topologieoptimierung in Kombination mit innovativen Betriebsmitteln sinnvoll ist.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20190916-113527-5</identifier>
+                    <identifier type="doi">10.25926/t02g-0a68</identifier>
+                    <identifier type="sys">HT020211925</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9771</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9771">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2019/wolter/de1904.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9771"
+            DMDID="DMD_wuppertal_elpub_9771">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9771"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

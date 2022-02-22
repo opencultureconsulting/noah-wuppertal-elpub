@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_984">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Analyse der asymptotischen Stabilität nichtlinearer Systeme mit Hilfe des Satzes von Ehlich und Zeller</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dilaver, Kamil Fatih</displayForm>
+                        <namePart type="family">Dilaver</namePart>
+                        <namePart type="given">Kamil Fatih</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-10-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Bei der Untersuchung von dynamischen Systemen ist die Stabilität des Systems eine essentielle Frage. Während es für lineare Systeme komplett ausgearbeitete Methoden gibt, ist diese Aufgabe bei nichtlinearen Systemen nichttrivial und nicht generell lösbar. Die bekannteste Stabilitätstheorie, die auch im Rahmen dieser Publikation verwendet wird, ist den Satz von Ljapunow. 
+
+Bei nichtlinearen Systemen, welche durch Polynome beschrieben werden, kann die die Untersuchung der Stabilität einer Ruhelage nach der Stabilitätstheorie von Ljapunow auf die Untersuchung der Positivität eines Polynoms reduziert werden. Dann kann man mit Hilfe des Satzes von Ehlich und Zeller die Positivität des Polynoms in einem kompakten Intervall überprüfen. 
+
+Im Rahmen dieser Dissertation werden Methoden vorgestellt, welche auf diesen Algorithmen basieren, und mit Hilfe deren man das Einzugsgebiet einer Ruhelage sowie das Parametergebiet, in dem das System (global) asymptotisch stabil ist, bestimmen kann.</abstract>
+                    <abstract type="content" lang="eng">In this publication the asymptotic stability of polynomial nonlinear systems is investigated. Under the assumption that the equilibrium point is asymptotically stable, using Lyapunov Stability Theory and the Theorem of Ehlich and Zeller, a method that determines the largest subset of the asymptotic stability domain of an n-order polynomial system for a given quadratic Lyapunov function, is presented. A level surface of a quadratic Lyapunov function describes an ellipsoid in n-dimensional space. The aim in this publication is to maximize the value of the level surface, respectively the volume of the ellipsoid, in which the conditions of the Lyapunov Stability Theory are satisfied. Using the Lyapunov Stability Theory and the Theorem of Ehlich and Zeller, the largest domain of attraction is computed. The Theorem of Ehlich and Zeller enables us to give conditions that are inequalities. By means of the solutions of the inequalities an inner and an outer approximation to the maximum radius of the sphere are determined. The maximum level surface is equal to the square of the maximum radius. In that way the largest subset of the domain of attraction is found for a given Lyapunov function.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20090947</identifier>
+                    <identifier type="sys">HT016204727</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_984</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_984">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2008/dilaver/de0805.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_984"
+            DMDID="DMD_wuppertal_elpub_984">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_984"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

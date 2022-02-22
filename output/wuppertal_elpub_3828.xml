@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3828">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Lebensdauer von Organischen Feldeffekttransistoren</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lau, Tobias</displayForm>
+                        <namePart type="family">Lau</namePart>
+                        <namePart type="given">Tobias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This thesis describes the development of electrical OFET characteristics under different environmental stresses. The OFETs described here are based on Polytriarylamine (PTAA) as the organic semiconductor and are processed by spincoating on flexible substrates. Over 1700 OFETs are processed in total and measured multiple times during the aging process to collect statistically significant data.
+
+ The first part describes the development of an automated measurement setup and a concept to extract circuit-relevant OFET parameters such as on- and off-current, mobility, threshold voltage and gate leakage current from the measured transfer and output curves. The measured OFET parameters are then analyzed in the unaged condition for different OFET geometries. An in depth analysis of geometry dependence and sample to sample variation for these parameters is given.
+
+ The samples are then aged under different environmental stresses, which mainly consist of atmospheric oxygen at room temperature and at 85°C in dry atmosphere and storage at 85°C and 85% relative humidity. The OFETs are measured regularly during storage under the different conditions for over 2000 h. Additional FT-IR measurements of the aged OFET materials complement the electrical tests. A theory for the aging behavior is developed according to the measured results and presented.</abstract>
+                    <abstract type="content" lang="ger">Diese Arbeit beschreibt die Entwicklung der elektrischen OFET Eigenschaften unter verschiedenen Umweltlasten. Die hier beschriebenen OFETs basieren auf Polytriarylamine (PTAA) als organischem Halbleiter und werden mittels Spincoating auf flexiblen Substraten prozessiert. Insgesamt werden über 1700 OFETs hergestellt und mehrfach im Verlauf der Alterung vermessen um statistisch signifikante Daten zu sammeln.
+
+ Der erste Teil beschreibt die Entwicklung eines automatisierten Messplatzes und eines Konzepts um schaltungsrelevante OFET-Parameter wie an- und aus-Ströme, Mobilität, Schwellspannung und Gate Leckströme aus den gemessenen Transfer- und Ausgangskennlinien zu extrahieren. Die gemessenen OFET Parameter werden im ungealterten Zustand für verschiedene OFET-Geometrien analysiert. Eine ausführliche Analyse der Geometrieabhängigkeit und Probe zu Probe Variation der Parameter wird vorgestellt.
+
+ Die Proben werden dann unter verschiedenen Umweltbelastungen gealtert. Dabei handelt es sich hauptsächlich um atmosphärischen Sauerstoff bei Raumtemperatur und 85°C in trockener Atmosphäre und um eine Lagerung bei 85°C und 85% relative Feuchte. Die OFETs werden regelmäßig über einen Zeitraum von mehr als 2000 h während der Lagerung unter den verschiedenen Bedingungen vermessen. Zusätzliche FT-IR Messungen der gealterten OFET-Materialien komplementieren die elektrischen Tests. Eine Theorie für das Alterungsverhalten wird entsprechend der Resultate aus den Messungen entwickelt und vorgestellt.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20140106-103028-6</identifier>
+                    <identifier type="sys">HT018120420</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3828</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3828">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2013/lau/dc1317.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3828"
+            DMDID="DMD_wuppertal_elpub_3828">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3828"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

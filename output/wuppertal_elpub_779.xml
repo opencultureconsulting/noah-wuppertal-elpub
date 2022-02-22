@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_779">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Neuartige kreuzförmige Oligomere aus Thienylen und Phenylen-Bausteinen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bilge, Askin</displayForm>
+                        <namePart type="family">Bilge</namePart>
+                        <namePart type="given">Askin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-09-05</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Thiophene- and phenylene-based π-conjugated oligomers have been widely investigated and applied in different areas such as organic field-effect transistors (OFETs), charge- transportmaterials, organic light emitting diodes (OLEDs), and solar cells. One of the most attractive features of oligomeric materials for OFETs and OLEDs is their defined molecular structure and the possibility to process them by solution-based techniques such as ink-jet printing or spin-coating. The solubility of linear thiophene-and phenylene-based oligomers, even with solubilizing terminal alkyl chains, is still a problem for solution-based device fabrication. The work presented in this thesis focuses on the preparation of novel thiophene- and phenylene based swivel-cruciform molecules as soluble oligomeric materials for OFET- and OLED applications. The term swivel-cruciform, hereby, relates to the fact that there is some conformational freedom within the cruciform molecule. 
+In chapter 4, the synthesis of unsubstituted swivel-cruciform oligothiophene dimers of different lengths as well as hexyl-substituted swivel-cruciform oligothiophene dimers are described. The dimers have been fully characterized by NMR, UV/Vis and DSC analysis. Cyclic voltammetry (CV) measurements were carried out in order to elucidate the electrochemical properties of the hexyl-substituted swivel-cruciform oligothiophene dimers. For OFET investigations FET devices based on the unsubstituted and hexyl-substituted swivel-cruciform oligothiophene dimers were built up from solution by spin-coating. The results of the OFET measurements are presented as well as AFM investigations of the film morphology. The OFET measurements show particularly high charge carrier mobilities and on/off ratios for the hexyl-substituted swivel-cruciform oligothiophenes. 
+Chapter 5 presents synthesis and characterization (NMR, UV/Vis and DSC analysis) of swivel-cruciform oligophenylene dimers with different substitution pattern. A single crystal X-ray structure analysis of a naphtyl substituted swivel-curiciform oligophenylene illustrates the cruciform structure with conformational flexibility. These materials have been used for in OLED investigations as emitter material as presented in this chapter. 
+In Chapter 6 the synthesis and characterization of another type of swivel-cruciforms, so called oligotriphenylamine dimers, is described. For comparison, also two oligotriphenylamines with a star-shaped structure are presented. For these oligomers, CV measurements have been once again recorded and illustrate the potential of these cruciforms as hole-transport layers for multilayer OLEDs.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20060465</identifier>
+                    <identifier type="sys">HT014842056</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_779</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_779">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2006/bilge/dc0610.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_779"
+            DMDID="DMD_wuppertal_elpub_779">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_779"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

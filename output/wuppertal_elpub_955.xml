@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_955">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchung sicherheitstechnisch relevanter nuklearer Parametereiner hochintensiven Spallationsneutronenquelle im MW Bereich am Beispiel des Refernzentwurfes der Europäischen Spallationsneutronenquelle (ESS)</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lensing, Burkhard</displayForm>
+                        <namePart type="family">Lensing</namePart>
+                        <namePart type="given">Burkhard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005-11-15</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Diese Arbeit beschreibt die Verwendung von Strahlungstransportprogrammen und Rechenmethoden, die entwickelt wurden um eine Vielzahl sicherheitstechnisch relevanter nuklearer Parameter des Target-Moderator-Reflektor Systems der Europäischen Spallationsneutronenquelle (ESS) zu bestimmen. In Anbetracht der hohen Protonenstrahlleistung von 5 MW dieser fortschrittlichen Spallationsneutronenquelle und der Tatsache, daß über die gesamte Betriebszeit von 30 Jahren das Targetmaterial nicht ausgetauscht werden soll, wurde eine sorgfältige Bestimmung der entstehenden radioaktiven Nuklide insbesondere im Targetmaterial Quecksilber vorgenommen. Wesentliche Ergebnisse der Arbeit sind die Untersuchung der Radioaktivität, der Nachwärmeleistung und der Energiedeposition im Target und in targetnahen Bereichen ebenso wie im Reflektor und in der Abschirmung. Die verwendeten 3-dimensionale Monte-Carlo Methoden und die nuklearen Daten werden ausführlich diskutiert. Alle Ergebnisse beziehen sich auf eine Protonenstrahlenergie von 1334 MeV und auf eine Strahlleistung von 5 MW. Diese Arbeit wurde teilweise unterstützt durch das HINDAS Projekt im EU-FP 5, FIKW–CT–2000–01031.</abstract>
+                    <abstract type="content" lang="eng">This thesis describes a calculational program on radiation transport and neutronics, which has been carried out to study and investigate the various aspects on nuclear safety parameters of the target-moderator-reflector system of the European Spallation Source (ESS). Due to the high power (5 MW) of the advanced neutron spallation source ESS and due to the fact that the target material mercury will not be changed during the operation time of 30 years careful examinations of the long-lived radioactive nuclides has been done. The main results are the magnitude of the radiation environment within and near the target, heating of components including moderator systems, the induced radioactivity and afterheat and the radiation damage in the target material, in structures and other near target components as well as inside the reflector and shield. The 3-dimensional Monte Carlo calculational approach and the used nuclear data are described in detail. All investigations are based on a proton beam energy of 1334 MeV and an average beam power of 5 MW. This work was partly supported by the HINDAS Project, EU-FP 5, FIKW–CT–2000–01031.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Maschinenbau und Sicherheitstechnik » Sicherheitstechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20050500</identifier>
+                    <identifier type="sys">HT014587953</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_955</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_955">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/sicherheitstechnik/diss2004/lensing/dd0413.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_955"
+            DMDID="DMD_wuppertal_elpub_955">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_955"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

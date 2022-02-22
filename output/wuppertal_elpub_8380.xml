@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_8380">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Konzeption und Evaluierung eines Prozesses zur ganzheitlichen Sicherheitsbewertung von Mobile-Access-Systemen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schwerdtfeger, Arne</displayForm>
+                        <namePart type="family">Schwerdtfeger</namePart>
+                        <namePart type="given">Arne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-06-15</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Der zunehmende Einsatz von digital vernetzten Produkten macht das Leben für den Endnutzer in vielen Fällen einfacher und leichter. Dennoch stellt er die Anbieter solcher Technologien vor große Herausforderungen, so müssen sie im Stande sein, ihre Produkte zeitgemäß zu digitalisieren. Dies bedeutet insbesondere für die Hersteller konventioneller Produkte wie beispielsweise die Schloss- und Beschlagindustrie die Entwicklung komplett neuer Geschäftsmodelle. Zukünftig werden hier keine physischen Schlüssel mehr benötigt; eine digitale Berechtigung auf dem Smartphone verschafft den Zugang. Das entstehende Ökosystem zur Administration und Entwicklung einer solchen Technologie sollte zum sicheren Umgang auch ein Maß an Standards voraussetzen. Gerade Angriffe auf die IT-Security haben in jüngster Zeit das Vertrauen der Nutzer nachhaltig negativ beeinflusst. Deshalb sollten gerade hier sichere Standards und Bewertungsverfahren den vertrauensvollen Umgang mit innovativen Technologien bestärken und vertrauensbildend wirken. 
+Leider sind die Produktzertifizierungen im Bereich der Schließsysteme stark der Mechanik unterworfen und lassen einen gewichtigen Einfluss der IT-Security vermissen. Aufgrund der Historie entstanden elektronische Schließsysteme erst in jüngerer Zeit; diese werden jedoch in zu vielen Punkten am technischen Standard der mechanischen Schließzylinder gemessen. Es fehlt somit an einer ganzheitlichen Sicherheitsbewertung, die sowohl mechanische als auch IT-Security-Kriterien in einem sinnvollen Maße aufstellt. Ziel der Sicherheitsbewertung im Bereich der mobilen Zugangslösung war eine holistische Betrachtung mechanischer Voraussetzungen und IT-Security-Kriterien des gesamten Systems aus Hersteller- und Kundensicht. Dies beinhaltet sowohl den mechatronischen Schließzylinder wie auch teilweise das Ökosystem. Dazu wurden im Sinne eines kontinuierlichen Verbesserungsprozesses in Anlehnung an PDCA-Schritte einzelne Arbeitsschritte für eine Sicherheitsbewertung entwickelt. Dabei orientierte sich die Bewertung an einem zuvor aufgestellten theoretischen Sicherheitsprofil, welches den Rahmen für den Detaillierungsgrad und die Qualität der Sicherheitsbewertung schafft. Dafür wurde das System abstrakt modelliert, um es anschließend im Analyseteil mithilfe eines Leitfragenkataloges, der sich an etablierten Werken des Bundesamtes für Sicherheit in der Informationstechnik und an den Common Criteria anlehnt, einem differenzierten Soll-Ist-Vergleich zu unterziehen. Das semi-quantitative Ergebnis der Sicherheitsbewertung steht immer in Relation zu den zuvor aufgestellten Rahmenbedingungen und schafft eine adäquate Positionierung der Sicherheit im Vergleich zur Einsatzbestimmung.</abstract>
+                    <abstract type="content" lang="eng">The increasing application of digitally networked products simplifies the end user’s life in many aspects. However, it challenges providers of such technologies enormously as they have to digitalise their products according to the fast moving state of the art. This implies especially for producers of conventional products as i.e. the lock and fitting industry the development of completely new business models. In future, physical keys are no longer needed; a digital bunch will enable the user to unlock a system. The resulting ecosystem to administer and develop such technologies should presuppose an appropriate measure of standards. Especially recent attacks on IT-security infrastructures have negatively influenced the users’ confidence. This is the reason why secure standards and evaluation measures should enhance the confidential trusting interaction with innovative technologies and will generate confidence. 
+Unfortunately, product certifications in the field of locking systems are often based on mechanics and lack the important influence of IT-security. Electronic locking systems have only been developed in recent times; however, they are assessed according to the technical standard of mechanical locking cylinders in many aspects. A holistic security evaluation which considers mechanical as well as IT-security criteria is still missing. The final objective of evaluating security in the field of mobile access was the holistic inspection of mechanic requirements and IT-security criteria of the whole system - evaluated from either the customer’s and the producer’s perspective. This comprises mechatronic locking cylinders as well as parts of the ecosystem. In the course of a continuous improvement process following the PDCA measures single steps for a holistic security evaluation have been developed. The evaluation is based on a theoretical security profile which designs the framework for a detailed and qualified security profile. Therefore, the system has been modelled on an abstract level in order to study it afterwards under nominal and actual conditions with the help of a catalogue of central questions in the analytic part. The catalogue references to established publications of the BSI (Bundesamt für Sicherheit in der Informationstechnik) and to the Common Criteria. The semi-quantitative result of the security evaluation always relates to the conditions previously set and allows an adequate assessment of security compared to the intended use.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Maschinenbau und Sicherheitstechnik » Sicherheitstechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20180615-104709-7</identifier>
+                    <identifier type="sys">HT019718251</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_8380</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_8380">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/sicherheitstechnik/diss2018/schwerdtfeger/dd1801.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_8380"
+            DMDID="DMD_wuppertal_elpub_8380">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_8380"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

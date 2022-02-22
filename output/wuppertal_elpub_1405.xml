@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1405">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Elimination schneller chaotischer Freiheitsgrade in Hamiltonschen Systemen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Baba, Nilüfer</displayForm>
+                        <namePart type="family">Baba</namePart>
+                        <namePart type="given">Nilüfer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In der vorliegenden Arbeit stellen wir ein Verfahren für die Elimination schneller chaotischer Freiheitsgrade in Hamiltonschen Systemen vor. Das Eliminationsverfahren basiert auf der Idee, die schnellen chaotischen Freiheitsgrade durch einen geeigneten stochastischen Prozess zu ersetzen. Hierbei wird eine ausgeprägte Zeitskalentrennung angenommen, welche durch einen kleinen Parameter beschrieben werden kann. Eine formale Störungsrechnung in Ordnungen dieses Parameters bei Einbeziehung einer Markov-Approximation führt auf eine Fokker-Planck-Gleichung der langsamen Variablen, die die Energieerhaltung berücksichtigt. Eine detailierte numerische und analytische Untersuchung einer Reihe geeigneter Modellsysteme demonstriert die hohe Güte und Effizienz dieses Verfahrens. Die Ergebnisse zeigen das nicht-Markovsche und nicht-Gaußsche Eigenschaften der schnellen Variablen vernachlässigbar sind, insbesondere im Hinblick auf das Langzeitverhalten.</abstract>
+                    <abstract type="content" lang="eng">In this work we examine one technique for the elimination of fast degrees of freedom for the large class of Hamiltonian systems with time scale separation showing chaotic behaviour in their fast variables. This technique is based on the idea of replacing the fast variables by a suitable stochastic process. In this method we assume that the time scale separation is pronounced and can be expressed via a parameter that is small compared to unity. Formal perturbation expansions over this small parameter, involving a Markov approximation, yield a Fokker-Planck equation in the slow subspace which respects conservation of energy. A detailed numerical and analytical investigation of several suitable model systems demonstrates the accuracy and the efficiency of this technique. The results show that non-Markovian and non-Gaussian features of the fast variables are negligible, especially if the long time behaviour is considered.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20050094</identifier>
+                    <identifier type="sys">HT014309995</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1405</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1405">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1502/dc0418.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1405"
+            DMDID="DMD_wuppertal_elpub_1405">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1405"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

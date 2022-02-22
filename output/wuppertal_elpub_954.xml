@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_954">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Numerische Untersuchung der Ausdehnung von Sekundärströmungsbereichen im Teillastbetrieb einer einstufigen Axialmaschine</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Itter, Lutz</displayForm>
+                        <namePart type="family">Itter</namePart>
+                        <namePart type="given">Lutz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005-03-04</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In der vorliegenden Arbeit wurde sowohl ein wissenschaftliches, als auch ein technologisches Ziel verfolgt. Das wissenschaftliche Ziel behandelte die numerische Simulation eines in dieser Arbeit berechneten einstufigen Axialverdichters. Hierzu wurden zwei kommerzielle CFD-Codes mittels zwei unterschiedlicher Methoden verifiziert. Die Simulation der Verdichterstufe wurde mit dem CFD-Code CFX durchgeführt. Bei der Untersuchung der Ergebnisse des CFD-Codes stand die Identifizierung der Strömungsphänomene im Schaufelkanal im Vordergrund. Insbesondere wurde deren Verhalten im Teillastbereich der Maschine untersucht. Drei verschiedene Methoden der Identifizierung von Wirbeln wurden vorgestellt, sowie deren Vor- und Nachteile aufgezeigt. Dabei zeigte sich die Helicity (bzw. normalized Helicity) als die sinnvollste Methode, Wirbelkerne zu identifizieren. Dominante Wirbelstrukturen wie z.B. der Spaltwirbel wurden vom Code angezeigt. Ebenfalls wurde das Verhalten des Spaltwirbels im Teillastbereich korrekt wiedergegeben. Der Vortex breakdown Spiral Type konnte in der quasistationären Simulation nicht eindeutig festgestellt werden. 
+Eine weitere Fragestellung war die Gültigkeit des in dieser Arbeit entstandenen Auslegungstools Axiblade. Die Untersuchungen haben gezeigt, dass die potentialtheoretische Auslegung ab einer dimensionslosen Kanalhöhe von delta_H/H = 0.9 am Außenschnitt der Schaufel im Auslegungspunkt keinen Sinn macht. Die für die Auslegung notwendige Annahme der ebenen Strömung ist nicht gewährleistet. Dieser ungültige Bereich erweitert sich mit zunehmender Drosselung der Maschine. Bei 70% Teillast ist die potentialtheoretische Auslegung nur noch in sehr eng begrenzten Bereichen delta_H/H = 0.4 bis 0.8 anwendbar. 
+Der technologische Teil der Arbeit behandelte den Aufbau einer CAx-Kette. Hauptbestandteil dieser Kette ist die Auslegungssoftware Axiblade. Sie vereint die Berechnung der Zu- und Abströmwinkel, die Auswahl von Wölbungs- und Staffelungswinkel aus den NACA Unterlagen, die Berechnung der Druckverteilung mit einem Singularitätenverfahren und den Aufbau der dreidimensionalen Schaufelkontur. Nach dem Prototyping von Rotor- und Statorbeschaufelung konnten diese in die Prüfmaschine integriert werden. Mit einer verifizierten Versuchsstrecke konnte die Kennlinie des Axialventilators bei drei verschiedenen Drehzahlen gemessen werden. Die Simulation zeigte über einen großen Bereich des Teillastgebietes gute Übereinstimmung mit dem Experiment. Jedoch konnte der Stall der Maschine nicht exakt abgebildet werden. Die CAx-Kette ermöglicht die Auslegung, Simulation, Fertigung und Messung innerhalb von 24h.</abstract>
+                    <abstract type="content" lang="eng">An academic as well as a technological goal was traced in the present work. The academic goal disscussed a numerical simulation of a single stage axial compressor. Therefore two commercial CFD-Codes were verified with two different methods. The numerical simulation of the single axial stage was accomplished with the commercial software called CFX. One of the main issues, looking at the results of the CFD-Code, was the identification of the flow phenomena regarding the passage. The behaviour of these flow phenomena during partial load of the compressor was from particular interest. Three different methods for identifying vortices were shown and their assets and drawbacks discussed. Helicity and normalized helicity turned out to be the most sensible method for identifying the vortex core. Dominant passage flow phenomena, like the tip clearance vortex, could be captured by the CFD-Code, as well as the behaviour of the tip clearance vortex due to partial load of the stage. Due to the quasi stationary character of the simulation it was not explicit possible to capture a vortex breakdown spiral type. 
+Another question was the validity of the design tool Axiblade, which was developed in the present thesis. The analysis has shown that there is no meaning to apply a potential theory based method close to the tip of the blade. Using a dimensionless channel hight delta_H/H it could be shown that above delta_H/H = 0.9, considering the design point, the necessary requirement of a two dimensional flow is not given. This, for the use of a potential theory based method, invalid region expands during choke of the machine. At 70% partial load the potential method can only be used in the range of delta_H/H = 0.4 to 0.8. 
+The technological goal of this thesis covered the creation of a CAx-chain. Main component of this chain was the design tool Axiblade, which covers the calculation of the flow-, camber-, and stagger angles of the cascade using the NACA documentation. As well as the calculation of the pressure distribution (using potential theory) and the threedimensional assembly of the blade contours. After the prototyping of the rotor and stator both could be integrated into a verified test facility. The characteristic curve was meassured for three different engine speeds. The simulation showed good conformance with the region of partial load. But nevertheless the stall inception point of the machine could not be mapped explicitly by the numerical simulation. The Cax-chain enables the design, simulation, manufacture and testing within 24h.</abstract>
+                    <abstract type="content" lang="fre">Dans cette thèse, je poursuis un objectif scientifique autant que technologique. L&apos;objectif scientifique traite la simulation numérique d&apos;un compresseur axial à un seul étage calculé pour ce travail. Dans ce but, j&apos;ai vérifié deux codes CFD commerciaux au moyen de deux méthodes différentes. La simulation du compresseur axial a été réalisé par le truchement du code CFD, à savoir CFX. Lors de l&apos;analyse des résultats du code CFD, l&apos;identification des phénomènes de courant dans le canal de l&apos;ailette ont été mis en exergue. En particuliers, j&apos;ai examiné leur comportement dans la zone de charge partielle du ventilateur. J&apos;ai présenté trois méthodes différentes d&apos;identification de remous, ainsi que leurs avantages et désavantages. Dans ce contexte, Helicity ou bien normalized Helicity s&apos;est révélée comme étant la méthode la plus sensée pour identifier les noyaux de remous. Les structures de remous dominantes, comme par exemple le remous de scission ont été indiquées par le code. Le comportement du remous de scission dans la zone de charge partielle a été également rendu correctement. Le Vortex breakdown Spiral Type n&apos;a pas pu être constaté clairement dans la simulation quasi stationnaire. Un autre questionnement a été l&apos;examen de la validité de l&apos;instrument conceptuel d&apos;Axiblade provenant de ces analyses. Les études ont montré que l&apos;interprétation théorique potentielle n&apos;avait aucun sens à partir d&apos;une hauteur de canal sans dimension de delta H/H =0.9 pris au contour extérieur de l&apos;ailette au point d&apos;interprétation. L&apos;hypothèse nécessaire du courant plan à l&apos;interprétation n&apos;est pas garantie. Ce secteur croissant non valable s&apos;élargit en fonction de l&apos;étranglement du ventilateur. À 70 % de charge partielle, l&apos;interprétation théorique potentielle n&apos;est applicable que dans des domaines très limités, allant de delta_H/H = 0.4 a 0.8. 
+La partie technologique de la thèse a traitée la construction d&apos;une chaîne CAx. L&apos;élément principal de cette chaîne est le logiciel d&apos;interprétation Axiblade. Il unit le calcul des angles de courant, le choix des angles de cambrure et d&apos;échelonnement provenant des documents NACA, le calcul de la distribution de la pression au moyen d&apos;un procédé de singularités et l&apos;établissement du contour à trois dimensions. Aprés avoir créé un prototype, d&apos;un rotor et stator d&apos;ailette, ceux-ci ont pu être intégrés dans l&apos;appareil d&apos;essai. Grâce à un tronçon d&apos;essai vérifié, la ligne de marquage du ventilateur axial a pu être mesuré à trois vitesses différentes. La simulation a montré une concordance conséquente avec l&apos;expérience dans une grande partie du secteur de charge partielle. Néanmoins, l&apos;arrêt stall de la machine n&apos;a pas pu être représenét de manière précise. La chaîne CAx permet la facturation, la simulation, la fabrication et la mesure dans un délai de 24 heures.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Maschinenbau und Sicherheitstechnik » Sicherheitstechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20050114</identifier>
+                    <identifier type="sys">HT014310036</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_954</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_954">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1060/dd0411.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_954"
+            DMDID="DMD_wuppertal_elpub_954">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_954"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

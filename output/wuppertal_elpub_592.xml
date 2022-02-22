@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_592">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Novel HTS microstrip resonator configurations for microwave bandpass filters</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Reppel, Michael</displayForm>
+                        <namePart type="family">Reppel</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2000-10-10</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In der vorgelegten Dissertation werden Konfigurationen aus neuartigen Mikrostreifenleitungsresonatoren eingeführt und experimentelle Ergebnisse von supraleitenden Bandpaß Filtern basierend auf diesem Resonator vorgestellt. Mit Hilfe von supraleitenden Bandpaß Filtern können Empfangssysteme (z.B. in Mobilfunkbasisstationen) wesentlich robuster gegen Interferenzen ausgelegt werden, als mit konventioneller Technik (Koaxialleitungsfilter). 
+Der vorgestellte Resonatortyp ist durch sein zweifach symmetrisches Layout besonders für Anwendungen geeignet, bei denen eine schwache Kopplung zwischen räumlich benachbarten planaren Resonatoren erforderlich ist. 
+Dies ist z.B. bei schmalbandigen Filtern mit hoher Selektivität (steile Filterflanken) der Fall. Weiterhin können Filter mit einer sogenannten quasi-elliptischen Filterantwort sehr einfach realisiert werden, da die natürliche Phase der Transmission zweier verkoppelter Resonatoren veränderbar ist. Bei der Verwendung von supraleitenden Materialien können deutlich höhere Leerlaufgüten als mit konventionellen Resonatortypen erzielt werden. 
+In der Arbeit wird zunächst das Design des neuen planaren Resonatortyps eingeführt, um dann die Verkopplung von zwei dieser Resonatoren ausführlich zu besprechen. Im nächsten Teil wird diskutiert, inwieweit das neue Design vorteilhaft ist, wenn supraleitende Materialien zur Realisierung von planaren Resonatoren benutzt werden. Es wird gezeigt, daß die erzielbare Leerlaufgüte Q_0 eines planaren Resonators von der Geometrie abhängt und daher optimierbar ist. 
+Nach einer kurzen Erläuterung der benutzten Meßmethoden werden im folgenden Kapitel experimentelle Ergebnisse vorgestellt. Zunächst werden die zuvor besprochenen Eigenschaften des neuen Resonatortyps (Leerlaufgüte und Kopplungseigenschaften) experimentell verifiziert. Danach werden Meßergebnisse verschiedener hochselektiver Bandpassfilter vorgestellt und diskutiert. 
+Der letzte Teil der Arbeit beschäftigt sich mit der Abstimmung von Filtern. Es wird zunächst gezeigt, wie aus einer realisierten Filterstruktur verschiedene Parameter (z.B. Kopplungskoeffizienten) meßtechnisch ermittelt werden können, so daß Abweichungen vom Filterdesign einfacher identifiziert werden. Abschließend wird eine Möglichkeit vorgestellt, mit Hilfe der Gruppenlaufzeit ein Filter systematisch abzustimmen.</abstract>
+                    <abstract type="content" lang="eng">This work introduces novel microstrip resonator configurations and presents experimental results of superconducting filters developed based on this configurations. 
+The suggested resonator type, which forms the building block for filters, is especially qualified for applications where a weak coupling is required, e.g. for narrow–band filters with a high selectivity because of its doubly–symmetric design. Furthermore, the natural phase of the coupling of two resonators can be altered so that filters which depend on cross–couplings with specific phases can easily be built. This is the case e.g. for quasi–elliptic or self–equalising filters. Using high temperature superconductors high unloaded quality factors which exceed those of conventional resonators can be achieved. 
+The first chapter of this work gives a short introduction into the topic. In chapter two the novel resonator design and the coupling method is explained after a brief introduction into planar microstrip resonators. It is also shown that the new design implies a unique tuning capability for the coupling coefficients of a filter. 
+The next chapter discusses the issue of microstrip resonators fabricated from high temperature superconducters. It is shown that due to the extremely low conductor losses of HTS materials other loss contributions as e.g. packaging losses can dominate the overall unloaded quality factor and that the novel microstrip resonator is relatively immune to such losses compared to conventional resonators. 
+After the measurement methods and set–ups are briefly explained in chapter four, experimental results for the HTS resonators and filters are presented in the next chapter. Firstly, the fabrication of the devices is illustrated, and then measured results of the unloaded quality factor of different microstrip resonators are presented. A validation for the unique coupling method of the doubly–symmetric resonator is given with two–pole test filters. It is experimentally shown that the natural phase as well as the coupling strength can easily be chosen. Based on the novel resonator, the designs and experimental results for filters with a high selectivity are described. Firstly, a four–pole filter design with a quasi–elliptic response at ~ 2 GHz and a bandwidth of only 5 MHz, that is 0.25 % fractional bandwidth, is presented. Then, designs and results of two quasi–elliptic nine–pole filters at ~ 1715 MHz (~1775 MHz) with 10.5 MHz (15 MHz) bandwidth are shown. Finally, measurement results of an alternative filter based on meander–line resonators are presented. All the developed and measured filters had steep filter skirts and low insertion loss. Results of intermodulation measurements obtained with the latter filter are presented at the end of this chapter. 
+The last chapter deals with filter tuning issues. It describes how filter parameters (centre frequencies of the resonators, coupling coefficients and external quality factor) can be experimentally determined. It further suggests a step by step tuning method if the measured filter response differs significantly from the theoretical design.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20000418</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_592</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_592">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-688/d130002.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_592"
+            DMDID="DMD_wuppertal_elpub_592">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_592"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

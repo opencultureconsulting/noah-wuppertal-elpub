@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_349">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>Phasenübergang in der U(1)-Gittereichtheorie</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Arnold, Guido</displayForm>
+                        <namePart type="family">Arnold</namePart>
+                        <namePart type="given">Guido</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004-03-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Diese Arbeit untersucht den Phasenübergang der vierdimensionalen, kompakten, reinen U(1) Gittereichtheorie basierend auf der Wilson-Wirkung. Mit Hilfe einer effizienten parallelen Implementierung des multikanonischen Hybrid Monte Carlo Algorithmus simulieren wir Systeme bis zur Größe 18⁴ mit jeweils (10⁶-10⁷) Konfigurationen. Ziel dieses Projekts ist die eindeutige Bestimmung der Ordnung dieses Phasenübergangs.
+ Im Rahmen einer heuristisch motivierten Erweiterung der Finite Size Scaling (FSS) Theorie erster Ordnung von Borgs-Kotecky auf die U(1) Gittereichtheorie untersuchen wir verschiedene Kumulanten der Plaquette Energie. Das Skalieren der untersuchten Größen ist konsistent mit einer Reihenentwicklung in 1/V, wobei V = L⁴ das Systemvolumen ist. Insbesondere die Beschreibung der pseudokritschen Kopplungen beta(V) über diesen Fitansatz ist sehr präzise und stabil. Wir ermitteln für die Phasenübergangskopplung des unendlich ausgedehnten Systems betaT = 1.011131(21) und bestimmen die Asymmetrie log(X) = 3.21(10), wobei X das relative Phasengewicht der Coulombphase gegenüber der confined Phase des unendlich großen Systems angibt. Um das Szenario eines Skalierens zweiter Ordnung bei größeren Systemen auszuschliessen, untersuchen wir die latente Wärme auf Systemen bis 324 über zusätzliche Simulationen beider jeweils metastabilen Phasen einzeln bei betaT. Der nichtverschwindende Energiesprung weist auf einen unstetigen Phasenübergang hin. Der Wert dieses gaps stimmt mit dem über das finite size scaling der spezifischen Wärme ermittelten gap überein. 
+ Eine unabhängige störungstheoretische Rechnung auf dem Gitter bestätigt ein Skalenverhalten erster Ordnung für die pseudokritische Kopplung, welche über das Gleichgewicht der freien Energien beider Phasen definiert ist. Die über den führenden Korrekturterm berechnete Asymmetrie log(X) = 3.15(8) stimmt auffallend mit dem FSS Resultat überein. Abweichungen vom Borgs-Kotecky FSS in Korrekturen höherer Ordnung lassen darauf schließen, dass entweder die Borgs-Kotecky FSS Theorie oder die Störungstheorie auf dem Gitter lediglich asymptotische Konvergenz aufweisen. Dies berührt jedoch nicht die klare Evidenz eines diskontinuierlichen Phasenübergangs aufgrund der übereinstimmend nicht verschwindenden latenten Wärme des unendlich ausgedehnten Systems.</abstract>
+                    <abstract type="content" lang="eng">In this work the phase transition of 4d compact pure U(1) gauge theory with Wilson action is investigated. By means of a highly efficient parallel implementation of the multicanonical Hybrid Monte Carlo algorithm we simulate systems of lattice sizes up to 18⁴ with (10⁶-10⁷) configurations respectively. The goal of the project is to produce unambiguous results as to the order of the U(1) phase transition. 
+ In a heuristic extension of the first order finite size scaling (FSS) theory of Borgs-Kotecky to U(1) gauge theory we investigate several cumulants of the plaquette energy. We find scaling to be consistent with a series expansion in terms of the reciprocal volume of the System 1/V. In particular the pseudocritical couplings beta(V) can be described by this ansatz with high precision and stability. We extract the infinite volume transition coupling, betaT = 1.0111331(21), and determine the asymmetry, log(X) = 3.21(10) where X denotes the relative weight of the coulomb phase over the confined phase in the infinite volume limit.
+ Since we cannot definitely discard the possibility of an asymptotic second order scaling that might show up on large lattice sizes, we investigate the latent heat by additional simulations of both metastable branches on lattice sizes up to 32⁴ at the very transition coupling, betaT. The occurrence of a nonvanishing energy gap indicates a discontinuous phase transition. Futhermore its value is consistent with the gap obtained from FSS of the specific heat within the Borgs-Kotecky scheme. 
+ An independent leading order perturbative lattice calculation confirms a first order scaling of the pseudocritical coupling as defined by the equilibrium of the free energies in both phases. The leading correction reveals an asymmetry of log(X) = 3.15(8) in striking agreement with the FSS result. Yet we are faced with deviations from the Borgs-Kotecky scheme in higher order corrections to asymptotic scaling and conclude that either the Borgs-Kotecky first order theory or lattice perturbation theory might exhibit only asymptotic convergence. This does however not affect the clear evidence of a discontinuous phase transition determined by the non vanishing infinite volume gap.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20040081</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_349</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_349">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-443/d080306.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_349"
+            DMDID="DMD_wuppertal_elpub_349">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_349"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

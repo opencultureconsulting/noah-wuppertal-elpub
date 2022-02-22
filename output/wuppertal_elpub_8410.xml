@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_8410">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Molekulare Modellierung der mechanischen Eigenschaften von elastomeren Nano-Kompositen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Meyer, Jan</displayForm>
+                        <namePart type="family">Meyer</namePart>
+                        <namePart type="given">Jan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-06-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die mechanische Stärke von Elastomer-Nanoverbundwerkstoffen ist eng verbunden mit der Ausbildung von Füllstoffnetzwerken innerhalb der Elastomere. In dieser Arbeit werden Molekulardynamik- Simulationen dazu verwendet, einen einzelnen Füllstoff-Füllstoff-Kontakt im Bezug auf seinen Beitrag zur dissipierten Energie zu untersuchen. Das untersuchte System, welches als Kontaktmodell bezeichnet wird, besteht aus zwei sphärischen Silica-Partikeln, die von cis-1,4-Polyisopren umgeben sind. Zusätzliche chemische Modifikationen beinhalten das Anbringen von Silanen an den Partikeloberflächen mit variierender Dichte und Verteilung, die Vulkanisation des Polymers sowie die kovalente Verbindung von Silanen und Polymeren. Das Kontaktmodell ist eine Weiterentwicklung der in [1, 2, 3] vorgestellten Ansätze. Im ersten Teil der Dissertation werden die notwendigen experimentellen und theoretischen Grundlagen vorgestellt. Anschließend findet die Einführung des Kontaktmodells unter genauer Berücksichtigung der einzelnen Ingredienzen statt. Zentrale Eigenschaften des Kontaktmodells, wie Dichte, thermische Expansion, Diffusionskoeffizient und charakteristisches Verhältnis des Polymers sowie der Grad der Vulkanisation und allgemeinere Größen, wie die Oberflächendichte der Hydroxylgruppen, werden überprüft. Der Hauptteil der Dissertation beginnt mit der Analyse des Kraft-Abstand-Verhaltens bei zyklischer Öffnung und Schließung des Zwei-Partikel-Kontakts. In der Kraft-Abstand-Ebene ergibt sich eine Hysterese, auf deren Basis die dissipierte Energie in Abhängigkeit der verwendeten chemischen Modifikationen sowie der Temperatur bestimmt wird. Dieser Schritt ermöglicht es zudem, den Ursprung der dissipierten Energie auf die Viskosität des Polymers zurückzuführen. Es schließt sich eine Untersuchung des Verlusts in Abhängigkeit der Temperatur und unter genauer Betrachtung des Segmentmoden-Peaks an. Zusätzlich wird die Geschwindigkeit, mit welcher die Partikel separiert und aufeinanderzubewegt werden, entsprechend einer Variation der Frequenz variiert. Die Position des Segmentmoden-Peaks in der Frequenz-Temperatur-Ebene zeigt gute Übereinstimmung mit experimentellen Ergebnissen, wodurch es möglich ist, die hochfrequenten Simulationsergebnisse in den technisch relevanten Frequenzbereich zu transferieren. Durch eine Vergrößerung der Silica-Partikel tritt ein zusätzlicher Verlustmechanismus auf, der sich durch Sprungbewegungen der Partikel äußert. Im Vergleich zum viskosen Verlust gewinnt dieser Mechanismus mit steigender Temperatur an Bedeutung. Das Auftreten der beiden Verlustmechanismen ist von hoher Relevanz für das generelle Verständnis der mechanischen Eigenschaften von Elastomer-Nanoverbundwerkstoffen und wird in dieser Arbeit insbesondere im Bezug auf den Rollwiderstand diskutiert. Zum Abschluss des Hauptteils dieser Dissertation wird ein Ansatz zur expliziten Bestimmung von dynamischen Modulen anhand des Kontaktmodells vorgestellt. Das nachfolgende Kapitel beinhaltet kurze Studien am Kontaktmodell, die Ansätze zur Funktionalisierung des Polymers sowie der Versteifung der Silane untersuchen. Im letzten Kapitel wird das Kontaktmodell dazu verwendet, die strukturellen und dynamischen Eigenschaften des Polymers in der Nähe der Partikel zu untersuchen und im Kontext der sogenannten Zwischenphase (engl.: Interphase) mit experimentellen und theoretischen Ergebnissen aus der Literatur zu vergleichen. Die wichtigsten Resultate dieser Dissertation – primär die Untersuchung und Interpretation der zwei Verlustmechanismen – sind in Referenzen [4, 5] publiziert.</abstract>
+                    <abstract type="content" lang="eng">Filled elastomers acquire their mechanical strength through fillers forming spanning branched networks throughout the rubber matrix. In this work we apply molecular dynamics simulations to study one reversibly breakable filler aggregate-to-filler aggregate contact within a network branch and its contribution to dissipative loss. The investigated model system – denoted as contact model – consists of a pair of spherical silica particles embedded in cis- 1,4- polyisoprene and is an extension of previous works [1, 2, 3]. Additional chemical options include silanes attached to the particle surfaces at varying density and surface distribution and cross-links between polymer chains as well as chemical bonding of the polymer chains to the silica particles via silanes. In the first part of this thesis the necessary experimental and theoretical background is presented. Subsequently, the contact model and its components are introduced. Key properties of the contact model including density, thermal expansion, diffusion coefficient and characteristic ratio of the pure polymer as well as the dependence of the polymer network density on sulfur content and other more general quantities like the density of hydroxyls on the particle surface are validated. The main part of this thesis starts by analysing force-vs-inter particle separation curves for cyclic loading. From the resulting hysteresis in the force-vs-inter particle separation diagram, energy dissipation in the contact depending on the aforementioned chemical parameters and temperature is determined. This step additionally confirms the viscosity of the polymer being the origin of the energy dissipation. Consequently, by investigating loss-vs-temperature curves, the segmental relaxation peak is tracked along the temperature axis while varying the filler particles displacement velocities, corresponding to a change in frequency. The position of the segmental relaxation peak shows good agreement with experimental data which enables the translation of the high frequency results of atomistic simulations to the technically relevant frequency range. By increasing the silica particles size, another loss mechanism due to spontaneous relative displacements (‘jolts’) of the filler particles is confirmed. Compared to the viscous loss this new loss mechanism becomes more important with increasing temperature. This has significant technical implications for the control and reduction of tire rolling resistance as well as for many other elastomer composite applications involving dynamic loading. The main part of this thesis closes with an approach to calculate dynamical moduli directly from the contact model. In the following chapter short studies on the contact model, including approaches to introduce polymer functionalization and silane softening, are presented. The last chapter uses the contact model to analyze structural and dynamical polymer properties in the vicinity of the particles. In the context of the so called interphase, the results are discussed together with experimental and simulative studies from literature. The major results of this thesis – primarly the investigation and interpretation of the two loss mechanisms – are published in references [4, 5].</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20180620-114940-7</identifier>
+                    <identifier type="sys">HT020283098</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_8410</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_8410">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2018/meyer/dc1805.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_8410"
+            DMDID="DMD_wuppertal_elpub_8410">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_8410"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

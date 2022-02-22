@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_489">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Bildung und Zerfall von Silberclustern bei Mikrokristallen fotografischer AgCI-Emulsionen nach der Belichtung in Abhängigkeit von Kristalleigenschaften und äußeren Faktoren</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Nietgen, Maria</displayForm>
+                        <namePart type="family">Nietgen</namePart>
+                        <namePart type="given">Maria</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002-02-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Diese Arbeit beschäftigt sich mit Bildung und Zerfall von Silberclustern bei Silberchloridmikrokristallen zwischen zwei Sekunden und 24 Stunden nach der Belichtung und der Abhängigkeit dieser Prozesse von Kristalleigenschaften und äußeren Faktoren.
+ Um die Stabilität besagter Silbercluster zu untersuchen, wurden fotografische Emulsionen mit Kristallen, die sich in ihrer Dotierung mit Fremdmetallkomplexen und ihren Oberflächeneigenschaften (chemische Sensibilisierung, Adsorption von Sensibilisatorfarbstoffen und Stabilisatoren, Bromidkonvertierung) unterschieden, hergestellt. Die Emulsionen wurden Prüfungen mit verschiedenen Belichtungszeiten, sowie Lagerungs- und Entwicklungsbedingungen unterzogen. Die Auswertung erfolgte sensitometrisch, für spezielle Fragen wurden außerdem Mikrowellenabsorptions- und ESR-Messungen herangezogen. 
+Aus der Gesamtheit der Ergebnisse wird geschlossen, dass das Phänomen der Latentbildprogression ohne Zufuhr von Fotoelektronen, das bei sämtlichen auf dem Markt befindlichen Colornegativ-Fotopapieren zu beobachten ist, im wesentlichen durch zwei Mechanismen zu erklären ist: 
+- Latensifikation durch Elektronen, die durch thermische Anregung aus temporären Fallen, d.h. Dotierungszentren, freigesetzt werden 
+- Regression von Sublatentbildkeimen und anschließendem Einbau der Fragmente Zwischengittersilberionen und Elektronen in andere Silbercluster</abstract>
+                    <abstract type="content" lang="eng">This thesis deals with the formation and decay of silver clusters on silver chloride micro-crystals two seconds to twenty-four hours after exposure and the dependence of these processes on crystal properties and external influences.
+ To study the stability of said silver clusters photographic emulsions with crystals varying in bulk and surface properties were prepared by incorporating different dopants and applying different kinds and concentrations of ripeners, sensitising dyes and stabilisers as well as different degrees of bromide conversion. The emulsions were subjected to tests with different exposure times, storage and development conditions. Evaluation was mainly done by means of sensitometry. For specific questions, microwave absorption and EPR measurements were conducted, additionally. 
+ The entirety of the results suggests that the phenomenon of latent image progression encountered with almost all colour negative paper emulsions can basically be attributed to latensification by electrons released from temporary traps, i.e. dopant centres, and to regression of subimage specks which provide the components for the growth of other specks beyond minimum developable size.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20020127</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_489</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_489">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-584/d090114.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_489"
+            DMDID="DMD_wuppertal_elpub_489">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_489"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

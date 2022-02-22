@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_918">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>Tragverhalten von Einphasen-Dichtwandmassen als Ausfachung von Baugrubenwänden</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dörendahl, Karsten</displayForm>
+                        <namePart type="family">Dörendahl</namePart>
+                        <namePart type="given">Karsten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004-03-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Das Bauverfahren Schlitzdichtwand mit eingestellten Trägern stellt eine preiswerte Variante für einen wassersperrenden Baugrubenverbau dar. Das bisherige Bemessungskonzept der Lastabtragung innerhalb der Dichtwandmasse basiert auf dem Nachweis der Druckspannungen in einem horizontal gespannten Gewölbe zwischen den Trägern. 
+ Im Rahmen der Forschungsarbeiten wurden zunächst umfangreiche Laborversuche an zwei verschiedenen Fertigmischungen für Dichtwandmassen durchgeführt. Anschließend wurde in Modellversuchen im Maßstab 1 : 8,6 mit balkenförmigen Probekörpern die Dichtwandmasse als Ausfachung simuliert. Diese haben gezeigt, dass das im Bemessungskonzept angesetzte Gewölbedruckversagen nur für größere Schlankheiten (z. B. lambda = 4,57) zu beobachten ist. Bei kleinen Schlankheiten (z. B. lambda = 1,86) fand stattdessen ein Scherversagen im Bereich des Auflagers statt. Berechnungen mit Hilfe der Methode der Finiten Elemente (FEM) bestätigten diese Beobachtungen.
+ Anschließend wurde ein Stabwerkmodells entwickelt. Der lastabtragende Bereich wurde hierbei in die Auflagerknoten und ein anschließendes Druckspannungsfeld unterteilt. Die genaue Knotengeometrie ergibt sich jeweils in Abhängigkeit von der Schlankheit. Die Tragfähigkeit des Systems kann dann über den Ansatz von Grenzbedingungen bestimmt werden, sowohl im Druckspannungsfeld, als auch an den Knotenrändern. An einem konkreten Bemessungsbeispiel wird die Anwendung des gewählten Stabwerkmodells erläutert und mit dem bisherigen Bemessungskonzept verglichen.</abstract>
+                    <abstract type="content" lang="eng">A &quot;slurry wall with vertical steel girders&quot; is an economical type of watertight building pit wall. In this special building method the slurry wall material is regarded as an important part in the load transfer inside the wall. The present design approach is based on a proof of the stresses inside a horizontal arch connecting the steel girders.
+ In this research work first of all extensive laboratory tests with two types of commercial ready mixed products were carried out. Afterwards the load-bearing capacity of the slurry wall material was simulated in 1g-model tests using prismatic beams with a scale factor of 1 : 8,6. Different types of failure modes are observed for beams with different ratios of slenderness. The tests indicated that a failure in arch pressure can only be observed for large ratios of slenderness (e.g. lambda = 4,57). Small ratios of slenderness led to a shear failure in the area of the supports (e.g. lambda = 1,86). A numerical simulation of the tests by means of the finite-element method (FEM) confirmed this observation.
+ Finally a strut-and-tie method has been developed. For this the beam was divided into the support nodes and the pressure field between these nodes. The precise geometries of the support nodes depend on the ratio of slenderness. The assumptions of limit state conditions led to the bearing capacity of the struts and nodes. A specific example shows how to use the new strut-and-tie model. Finally these results were compared to the present design approach.</abstract>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Architektur und Bauingenieurwesen » Bauingenieurwesen"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20040107</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_918</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_918">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1024/dd0402.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_918"
+            DMDID="DMD_wuppertal_elpub_918">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_918"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

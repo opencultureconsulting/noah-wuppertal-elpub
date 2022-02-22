@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_865">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Statistische Physik stochastischer Geometrien</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Brodatzki, Uwe</displayForm>
+                        <namePart type="family">Brodatzki</namePart>
+                        <namePart type="given">Uwe</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005-06-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die räumliche Struktur physikalischer Systeme wird in der statistischen Physik immer wichtiger. Viele physikalische Eigenschaften der Systeme hängen dabei wesentlich von der Form und Konnektivität der Muster ab. Die Physik steht daher vor der Aufgabe die komplexen räumlichen Informationen auch fluktuierender Systeme auf relevante Ordnungsparameter zu reduzieren, um die Strukturen und deren Übergänge quantifizieren zu können. Die vorliegende Arbeit nutzt dazu die integralgeometrische Beschreibung der Muster durch morphologische Maße, die Minkowski-Funktionale. 
+In dieser Arbeit gelang die Entwicklung effizienter, analytischer Algorithmen zur Bestimmung der Minkowski-Maße im Kontinuum sowohl in zwei als auch in drei Dimensionen. Die Algorithmen und Programme werden im zweiten Teil bei morphometrischen Untersuchungen sowohl von poissonverteilten geometrischen Körpern als auch von korrelierten Systemen, wie beispielsweise wechselwirkenden Kolloiden, benötigt. Höhere Korrelationen werden dabei durch die Messung der Minkowski-Maße bei sogenannten Punktprozessen in integraler Form erfasst. Die neuen Algorithmen ermöglichen aufgrund ihrer Schnelligkeit die erstmalig durchgeführten Monte-Carlo Simulationen morphologisch wechselwirkender Geometrien im Kontinuum (dritter Teil). Erstmals werden sämtliche Mehrkörperwechselwirkungen vollständig berücksichtigt, die zu bisher nicht gekannten Phasenübergängen, wie dem Schmelzen einer festen hexagonalen Phase in eine neue fluide Phase agiler wurmartiger Strukturen, führten.</abstract>
+                    <abstract type="content" lang="eng">The spatial structure of physical systems gets more and more important in statistical physics. Many physical properties essentially depend on the form and connectivity of the spatial patterns. Therefore in physical science one has to reduce the complex spatial informations also of fluctuating systems to relevant order parameters to be able to quantify the structures and their transitions. For that purpose we use the integral geometrical description through morphological measures, the so called Minkowski-Functionals. 
+In this work we succeed in the developement of efficient, analytical algorithms to determine the Minkowski-Functionals in the continous space in two as well as in three dimensions. The algorithms and programs were used in the second part of the thesis for morphometrical investigations of both Poisson distributed geometrical bodies and correlated systems, as for example interacting colloids. Higher correlations here are taken in an integral form by the measurement of the Minkowski-Functionals in so called point processes. Cause of their rapidity the algorithms allow the for the first time realized Monte-Carlo simulations of morphological interacting geometries in the continuum (third part). For the first time all many body interactions are totally taken into consideration, which leads to up to now not known phase transitions, as the melting of an solid hexagonal phase in a new fluid phase, that can be characterized as a worm structure fluctuating in space and time.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20050195</identifier>
+                    <identifier type="sys">HT014414418</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_865</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_865">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2003/brodatzki/dc0305.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_865"
+            DMDID="DMD_wuppertal_elpub_865">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_865"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

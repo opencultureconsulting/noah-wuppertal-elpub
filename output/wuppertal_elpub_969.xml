@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_969">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Thin Film Opal Photonic Crystals</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Maka, Torsten</displayForm>
+                        <namePart type="family">Maka</namePart>
+                        <namePart type="given">Torsten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005-01-17</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Photonische Kristalle können in mehrfacher Hinsicht als ein optisches Analogon zu klassischen elektronischen Halbleiterkristallen angesehen werden; sie bilden z.B. eine photonische Bandstruktur. Photonische Kristalle besitzen daher ein großes Potential zur Realisierung neuartiger integrierter optischer Schaltkreiskonzepte, die ohne elektronische Komponenten auskommen.
+ Ein Beispiel für einen dreidimensionalen Photonischen Kristall ist der Edelstein Opal. Opale bestehen aus Kugeln mit Durchmessern im sub-µm Bereich, die in einer kubisch-flächenzentrierten Kristallstruktur angeordnet sind. Sie können künstlich durch einen Selbstorganisationsprozeß hergestellt werden und sind daher seit einigen Jahren ein Modellsystem zur Untersuchung von Photonischen Kristallen.
+ Im Rahmen dieser Arbeit wurden dünne Kristallfilme aus künstlichem Opal und deren invertierte Repliken aus hochbrechenden Halbleitermaterialien mittels Rasterelektronenmikroskopie und spektroskopischer Verfahren untersucht. Insbesondere wurde die kristalline Qualität von großflächigen Photonischen Kristallen, die aus einer Suspension von Polymerkugeln auf hydrophilisierten Substraten hergestellt wurden, betrachtet und im Hinblick auf deren Tauglichkeit als Photonische Kristalle bewertet. Die Eignung dieses Herstellungsverfahrens konnte gezeigt werden.
+ Optische Phänomene in Photonischen Kristallen, die auf deren Brechungseigenschaften beruhen, wurden ebenso untersucht, wie der Einfluß auf die Emissionseigenschaften von eingebetteten Laserfarbstoffen. Die gefundenen Effekte, wie eine Modifikation der Spontanen Emission, konnten als Konsequenz der Photonischen Bandstruktur erklärt und mit theoretischen Modellen verglichen werden. Eine Methode zur zerstörungsfreien Messung der Schichtdicke von dünnen photonischen Kristallfilmen, basierend auf der Analyse von Fabry-Pérot Interferenzen, wurde entwickelt und mit direkten und invertierten Opalfilmen getestet.
+ Zusätzlich wurde eine Reihe von Machbarkeitsstudien durchgeführt, um den Einsatz von opalbasierten Photonischen Kristallfilmen in möglichen Anwendungen zu testen. Hier sind insbesondere das Wachstum von Photonischen Kristallen auf strukturierten Substraten und die Möglichkeit polymerbasierte photonische Kristallfilme durch Elektronenstrahllithographie zu strukturieren zu nennen.</abstract>
+                    <abstract type="content" lang="eng">Photonic crystals are regarded in many ways as the optical analogue to semiconductor crystals. They offer the potential for major breakthroughs in optoelectronics, leading to novel device concepts for integrated optical circuits.
+ One example of a three-dimensional photonic crystal is an artificial opal that grows in a self-assembly process as a face centred cubic crystal; it has been used as a model system for photonic crystals for several years. 
+ Thin films of artificial opals and their high-index semiconductor replicas have been studied by scanning electron microscopy and optical spectroscopy. In particular the crystal quality of large area thin film photonic crystals, grown by casting a suspension of polymer beads on hydrophilised substrates, was evaluated regarding the suitability to grow photonic crystals. The feasibility of this growth-concept was proven by optical and scanning electron microscope inspections. Optical diffraction phenomena in opals such as the stop band dispersion and band branching have been investigated and compared to theoretical calculations.
+ A destruction free method based on the analysis of Fabry-Pérot oscillations was revealed to measure the thickness of thin photonic crystal films and judge their crystalline quality. It was tested with direct and inverse opals. The modification of the emission properties of laser-dye impregnated opals, such as emission suppression / enhancement and changes in the directionality of emission, have been interpreted as the consequence of the photonic band gap.
+ A number of feasibility studies was done in regard to possible device applications. Here crystal growth on patterned substrates and direct electron-beam structuring of polymer-based photonic crystal films should be mentioned.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20050023</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_969</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_969">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1075/de0408.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_969"
+            DMDID="DMD_wuppertal_elpub_969">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_969"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

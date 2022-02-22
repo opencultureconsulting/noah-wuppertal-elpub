@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_972">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kompakte Mehrtorantennen für die adaptive Keulenformung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wang, Xin</displayForm>
+                        <namePart type="family">Wang</namePart>
+                        <namePart type="given">Xin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004-05-27</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Im Rahmen dieser Arbeit wurden kompakte Mehrtorantennen zur Verwendung in adaptiven Antennensystemen mit digitaler Keulenformung in Hinblick auf ihre spezifischen Probleme und deren Lösung betrachtet. Ausgangspunkt des Interesses an kompakten Antennen ist der Versuch auf einer in ihrer geometrischen Ausdehnung begrenzten Plattform, die Zahl der Antennenelemente und damit die Zahl der Antennentore und Freiheitsgrade durch Verringerung des Elementabstands auf deutlich unter Lambda Halbe zu erhöhen. Die daraus resultierenden Mehrtorantennen weisen starke Verkopplung der Elemente auf, was dazu führt, dass die Torrichtcharakteristiken teilweise korreliert sind und eine Reduktion des Antennengewinns auftritt. Angesichts dieser Problematik wurde das Konzept des Anpassungs- und Entkopplungsnetzwerks (AEN) vorgestellt. Es wurde gezeigt, dass sich durch Hinzufügen eines AEN eine kompakte Mehrtorantenne realisieren lässt, deren Tore im Bereich der Betriebsfrequenz entkoppelt sind und zueinander orthogonale (unkorrelierte) Richtcharakteristiken liefern. Es wurde auch ein allgemeines Konzept zur Synthese eines AEN aus konzentrierten Bauelementen vorgestellt, welches sich auf Strukturen aus verteilten Elementen erweitern lässt. Dieses neue Konzept wurde anhand dreier Antennen exemplarisch verifiziert. Die Antennen inklusive ihres AEN wurden numerisch simuliert und anschließend gefertigt und experimentell charakterisiert. Damit konnte die Tauglichkeit dieses neuen Konzepts für praktische Anwendungen erfolgreich demonstriert werden.</abstract>
+                    <abstract type="content" lang="eng">Compact multi-port arrays for application in adaptive antenna systems with digital beamforming (DBF) are investigated with respect to their specific properties and appropriate solutions for inherent problems are outlined. Compact (dense) arrays are characterised by an element spacing significantly smaller than half a free-space wavelength. They are a result of the attempt to increase the number of degrees of freedom in DBF by increasing the number of antenna elements at a given size-limited platform. 
+ This work presents a general theory for dense arrays with strong inter-element coupling which is based on an eigenmode representation. Without special measures dense arrays are shown to possess partially correlated port radiation patterns and a reduced antenna gain due to cross-talk between the ports. 
+ In view of this problem the concept of a matching- and decoupling network (MDN) is introduced. The function of this MDN is to provide (at operational frequency) decoupled (isolated) antenna ports associated with mutually orthogonal (de-correlated) port radiation patterns, whereas the elements remain strongly coupled. The port-decoupling is achieved by the expense of a reduced frequency bandwidth. Consequently, the required frequency bandwidth poses a lower limit to the allowed element spacing.
+ A general approach for the synthesis of MDN composed of lumped elements is outlined. A generalisation of this concept to distributed circuits is shown to become possible. Three different multi-port arrays serve as example to verify the novel concept. These arrays (inclusive their MDNs) were first simulated numerically and manufactured demonstrators were characterized experimentally. Thus, the feasibility of the concept for practical applications is demonstrated.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20040238</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_972</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_972">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1078/de0402.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_972"
+            DMDID="DMD_wuppertal_elpub_972">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_972"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

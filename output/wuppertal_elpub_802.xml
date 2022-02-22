@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_802">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>De novo Synthese ungesättigter Carba-Pyranosen ausgehend von verzweigtem und unverzweigtem p-Benzochinon</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Leermann, Timo</displayForm>
+                        <namePart type="family">Leermann</namePart>
+                        <namePart type="given">Timo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-08-27</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">A broad variety of polyhydroxylated carbocyclic structures has been isolated from natural sources as single compounds or as a part of complex molecules. Some of these carbocycles have key functions in biological systems while others have been isolated as secondary metabolites of unknown function but with significant activity in biological screenings. The structural similarity to sugar molecules is essential for the activity of these compounds. 
+
+In the first part of the thesis an improved access to (1SR,4SR,5RS,6RS)-2-[(acetyloxy)-methyl]-5,6-dibromocyclohex-2-ene-1,4-diyl diacetate wich is a valuable building block for the synthesis of carbasugar dervivatives like valienols and valiolones has been desrcibed. 
+
+In the second part a new flexible approach to unsaturated carba-analogues of 6-desoxy sugars like fucose has been elaborated. Starting from 2-methylbenzo-1,4-quinone a highly functionalised branched dibromodiol can be obtained through a bromination and reduction sequence.The all-trans-isomer is the major product of this two-step-reaction and can be isolated by crystallisation. Subsequent modification of the building block led to three of eight possible isomers of a 1-methyl-conduritol. 
+
+In the third part a new approach towards the de novo synthesis of gabosine-systems has been described. A DMAP-catalysed Baylis-Hillman reaction of a polyhydroxylated cyclohexenone derived from p-benzoquinone has been utilised as the key step.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20080406</identifier>
+                    <identifier type="sys">HT015664184</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_802</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_802">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2008/leermann/dc0813.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_802"
+            DMDID="DMD_wuppertal_elpub_802">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_802"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

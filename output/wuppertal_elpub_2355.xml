@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_2355">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Generalized Algebraic Kernels and Multipole Expansions for massively parallel Vortex Particle Methods</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Speck, Robert</displayForm>
+                        <namePart type="family">Speck</namePart>
+                        <namePart type="given">Robert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Regularized vortex particle methods offer an appealing alternative to common mesh-based numerical methods for simulating vortex-driven fluid flows. While inherently mesh-free and adaptive, a stable implementation using particles for discretizing the vorticity field must provide a scheme for treating the overlap condition, which is required for convergent regularized vortex particle methods. Moreover, the use of particles leads to an N-body problem. By the means of fast, multipole-based summation techniques, the unfavorable yet intrinsic O(N2)-complexity of these problems can be reduced to at least O(N logN). However, this approach requires a thorough and challenging analysis of the underlying regularized smoothing kernels. We introduce a novel class of algebraic kernels, analyze its properties and formulate a decomposition theorem, which radically simplifies the theory of multipole expansions for this case. This decomposition is of great help for the convergence analysis of the multipole series and an in-depth error estimation of the remainder. We use these results to implement a massively parallel Barnes-Hut tree code with O(N logN)-complexity, which can perform complex simulations with up to 108 particles routinely. A thorough investigation shows excellent scalability up to 8192 cores on the IBM Blue Gene/P system JUGENE at Jülich Supercomputing Centre. We demonstrate the code’s capabilities along different numerical examples, including the dynamics of two merging vortex rings. In addition, we extend the tree code to account for the overlap condition using the concept of remeshing, thus providing a promising and mathematically well-grounded alternative to standard mesh-based algorithms.</abstract>
+                    <abstract type="content" lang="ger">Regularisierte Vortex-Partikel-Methoden bilden eine interessante Alternative zu gitterbasierten numerischen Methoden zur Simulation von vortex-dominierten Flüssigkeitsströmungen. Eine stabile Implementierung dieses intrinsisch gitterfreien und adaptiven Ansatzes durch die Diskretisierung des Vortex-Feldes benötigt eine Schema zur Behandlung der Überlapp-Bedingung, welche für eine konvergente regularisierte Vortex- Partikel-Methode erforderlich ist. Desweiteren führt der Gebrauch von Partikeln zu einem N- Körper-Problem. Schnelle, multipol-basierte Summationstechniken können die ungünstige aber intrinsisch verankerte O(N2)-Komplexität dieser Probleme auf mindestens O(N logN) reduzieren. Dieser Ansatz benötigt jedoch eine genaue und herausfordernde Analyse der zugrunde liegenden Regularisierungskerne. Wir führen eine neue Klasse algebraischer Kerne ein, analysieren ihre Eigenschaften und leiten einen Zerlegungssatz her, welcher die Theorie der Multipol-Entwicklungen für diesen Fall radikal vereinfacht. Diese Zerlegung ist von großem Nutzen bei der Konvergenzanalyse der Multipolreihe und einer detaillierten Fehlerabschätzung des Restgliedes. Wir nutzen diese Ergebnisse zur Implementation eines massivparallelen Barnes-Hut Tree Codes mit O(N logN)-Komplexität, welcher komplexe Simulationen mit bis zu 108 Partikeln problemlos durchführen kann. Eine genaue Analyse zeigt exzellente Skalierbarkeit auf bis zu 8192 Kernen des IBM Blue Gene/P Systems JUGENE am Jülich Supercomputing Centre. Wir demonstrieren die Fähigkeiten des Codes anhand verschiedener numerischer Beispiele, unter anderem anhand der Dynamik zweier fusionierender Vortex-Ringe. Zusätzlich erweitern wir den Tree Code derart, dass die Überlapp-Bedingung mit Hilfe des Remeshing-Konzepts eingehalten werden kann, so dass der Code eine vielversprechende und mathematisch fundierte Alternative zu gitterbasierten Standard-Algorithmen darstellt.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20111103-115032-0</identifier>
+                    <identifier type="sys">HT017022656</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_2355</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_2355">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2011/speck/dc1115.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_2355"
+            DMDID="DMD_wuppertal_elpub_2355">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_2355"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

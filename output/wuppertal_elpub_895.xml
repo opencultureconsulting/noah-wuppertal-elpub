@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_895">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entwicklung und Anwendung einer Doppel-Magnetron-Sputterzelle für die in-situ Charakterisierung dünner Schichten mit Röntgenmethoden</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ringpfeil, Clemens</displayForm>
+                        <namePart type="family">Ringpfeil</namePart>
+                        <namePart type="given">Clemens</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-02-12</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Dünne Schichten sind von zentraler Bedeutung, nicht nur in mikroelektronischen Bauelementen, sondern auch als Verschleißschutzschichten bei Werkzeugen, zur Vergütung von optischen Gläsern oder für Anwendungen in der Katalyse und Sensorik. Daher kommt der Präparation solcher Schichten mit reproduzierbaren physikalischen und chemischen Eigenschaften eine entscheidende Rolle zu. Für (groß-) technische Applikationen hat sich die Schichtherstellung durch Sputtern etabliert. Im Rahmen dieser Arbeit wurde eine miniaturisierte Doppel-Magnetron-Sputterquelle für in-situ Messungen mit einem Labordiffraktometer konstruiert und angefertigt. Die Beschichtungskammer wurde so ausgelegt, dass die beengten Platzverhältnisse im verwendeten Diffraktometer optimal genutzt werden und gleichzeitig Röntgenstreu- und Röntgenbeugungsexperimente ermöglicht werden. Neben automatischen Verschlüssen für die Ein- und Austrittsfenster, die entsprechende Kontaminationen verhindern, ist ein weiterer Shutter zwischen den Sputter-Targets und dem Substrat eingebaut, der sowohl das Einsputtern der Quellen als auch deren Reinigung erlaubt. Die Probentemperatur kann Computer-kontrolliert zwischen etwa 77 K und ca. 723 K variiert werden, was zum Beispiel zur in-situ Beobachtung von Strukturänderungen der bei verschiedenen Temperaturen deponierten Schichten oder während eines Tempervorgangs ausgenutzt wurde. Zur Minimierung lateraler Inhomogenitäten wird das Substrat während des Beschichtungsvorgangs kontinuierlich rotiert. Durch gezielte Variation der Prozessgase ließen sich mit dieser Anordnung sowohl metallische als auch reaktiv gesputterte Oxid- und Nitrid-Schichten sowie Schichtsysteme synthetisieren und in-situ charakterisieren.</abstract>
+                    <abstract type="content" lang="eng">Thin films are of prominent relevance, not only in microelectronic devices, but also as wear-resistant coatings for tools, coatings of optical glasses or in the field of catalysis or sensors. Therefore the preparation of such thin films with reproducible physical and chemical properties plays an important role. For technical or industrial applications sputtering is an established method to produce such thin films. In the context of this work a miniaturized double-magnetron-sputter chamber for in-situ preparations and measurements in a laboratory diffractometer was designed and realized. The vacuum vessel was built up to ideally fit into the limited space of the diffractometer and allows X-ray reflectivity and X-ray diffraction experiments. Automatical shutters for the X-ray entrance and exit windows prevent their contamination during the films deposition, and an additional shutter between the substrate and the sputter targets allows pre-sputtering and cleaning of the sources. The substrate temperature can be varied between ca. 77 K and 723 K, e.g. for changes of structural properties at different deposition temperatures or during a heat treatment. To minimize lateral inhomogeneities, the substrate is continuously rotated during deposition. Due to systematic variation of the process gases, metallic and reactive sputtered oxide and nitride thin films and multilayers were be synthesized and characterized in-situ.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20080052</identifier>
+                    <identifier type="sys">HT015446985</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_895</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_895">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2007/ringpfeil/dc0720.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_895"
+            DMDID="DMD_wuppertal_elpub_895">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_895"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

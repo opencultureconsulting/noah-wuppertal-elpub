@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_466">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zum Carry over von Toxaphen in Legehennen und Eiern - Beitrag zur Etablierung eines Höchstwertes für Toxaphenrückstände in Futtermitteln für Legehennen auf Basis einer indikatorspezifischen Analytik</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kaltenecker, Martin</displayForm>
+                        <namePart type="family">Kaltenecker</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-07-25</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">A feeding study with 87 laying hens subdivided into 5 test groups was carried out. The addition of technical toxaphene to the hens’ diet was 0, 0.1, 0.5, 1.0, or 5.0 mg/kg, respectively. The feeding was continued for 38 weeks. The accumulation and depletion behaviour was investigated in eggs, muscle tissue, liver, kidney, blood, and faeces. 
+ Similar as in fish, some typical toxaphene congeners could be identified in laying hens and were present in higher concentration levels, when the feed was contaminated with toxaphene. Because of this fact, toxaphene residues can be quantified on the basis of these main congeners. 
+ This study demonstrated that toxaphene congeners accumulate only in adipose tissues. The congeners Parlar No. 26, 41, 42, 44, 50, 62 and 63 had the highest accumulation potential of all 22 tested toxaphene congeners. In adipose tissue, the carry over factors of these congeners were calculated to give values between 8 and 14. The carry over factors in yolk ranged between 1.4 and 2.6 and in liver between 0.9 and 2.0. No accumulation could be found in the hens’ muscle tissue, kidney, blood, or faeces, with carry over factors all being below 1. 
+ The obtained data allowed to set up dose/tissue concentration diagrams which could be used to calculate the toxaphene concentration in the tissue when the amount of the toxaphene contamination of the diet is known. 
+ For the most abundant congeners the biological half life periods were determined. These were between 25 and 49 days in matrices with high fat content (depot fat, yolk, kidney). In tissues with lower fat content (muscle tissues, blood, faeces) toxaphene was depleted much quicker. For those congeners with the highest accumulation potential, the half life period in muscle meat gave values between 15 and 22 days. 
+ Balancing the fate of ingested toxaphene it can be stated that 5-10 % were trapped in the animals’ bodies. Only 2-4 % were identified as unmetabolised congeners in the faeces. The main route of excretion was the egg. 22 % or 37 % of unmetabolised toxaphene was depleted via egg or egg yolk, respectively</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20010417</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_466</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_466">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-561/d090105.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_466"
+            DMDID="DMD_wuppertal_elpub_466">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_466"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

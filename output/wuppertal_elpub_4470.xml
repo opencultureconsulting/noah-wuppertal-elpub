@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_4470">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Design, Synthesis and Biological Evaluation of Conformationally Constrained Helicokinin I Analogues</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Chien, Tran Van</displayForm>
+                        <namePart type="family">Chien</namePart>
+                        <namePart type="given">Tran Van</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Insect neuropeptides have been known as important components in regulating many physiological and behavioural processes in insect life such as growth, molting, metamorphosis, homeostasis, osmoregulation, water balance, reproduction and diuresis. Comprising of a short sequence of 6-15 amino acids, insect kinins and their receptors promise excellent targets for a novel generation of highly selective and environmental friendly insecticides.
+
+ Belonging to the myokinin family, helicokinin I displays a high biological activity against Heliothis virescens in a functional bioassay. Moreover, helicokinin I inhibits weight gain and increases mortality after injection into larvae of Heliothis virescens, a serious agricultural pest. Determining the preferred conformation of the receptor bound peptide is a crucial step for the design of selective ligands in developing novel insecticidal agents. It is therefore more and more important to develop suitable strategies that aim at mimicking the structure and activity of biologically interesting peptides in order to design new effective insecticides.
+
+ The first part of this thesis is dedicated to the design and synthesis of β-turn helicokinin I peptidomimetics. Herein, the synthesis and incorporation of 4-trans-aminopyroglutamates, as type VI β-turn inducers, into the native helicokinin I peptide backbone are presented. In addition, two convenient strategies for stabilizing the conformational preferences of helicokinin I analogues will be described.
+
+ In the second part the important role of the Trp side chain on the secondary structure of helicokinin I will be investigated. This includes the preparation of conformationally constrained building blocks derived from the Trp moiety using Pictet-Spengler reaction or xanthate radical transfer reagents.
+
+ The third part of this thesis deals with a cycloscan that utilizes the available hydroxy functional groups on Ser and Tyr residues. Formation of macrocyclic peptides using either a ring-closing metathesis reaction or Mitsunobu etherification is described.
+
+ The last section focuses on further investigations of the structure-activity relationships. The use of conformationally constrained structures, such as β-proline amino acid and spirolactam, for replacing selectively helicokinin I residues is investigated.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20141211-103109-9</identifier>
+                    <identifier type="sys">HT018514928</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_4470</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_4470">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2014/chien/dc1426.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_4470"
+            DMDID="DMD_wuppertal_elpub_4470">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_4470"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

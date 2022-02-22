@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_337">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Messung der Helizitätskomponenten der Fragmentationsfunktion geladener Hadronen auf der Z-Resonanz</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Malek, Abdellah</displayForm>
+                        <namePart type="family">Malek</namePart>
+                        <namePart type="given">Abdellah</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003-02-19</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The transverse, longitudinal and asymmetric components of the fragmentation function are measured from the inclusive charged particles in e⁺e⁻ collisions at LEP. The study of the process e⁺e⁻ → h + X provides a test of the QCD predictions using these fragmentation functions. The transverse σT and longitudinal σL components of the total hadronic cross section σtot are evaluated from the fragmentation functions. They are determined to be
+
+ 
+
+and
+
+ 
+respectively. The strong coupling constant is calculated from the longitudinal cross section in next-to-leading order of perturbative QCD, giving 
+
+ . 
+Including non-perturbative power corrections leads to 
+
+ . 
+By integrating the fragmentation functions, we determine the average charged particle multiplicity to be
+
+ . 
+From the longitudinal fragmentation function we are able to extract the gluon fragmentation function. The fragmentation functions in and light quark events are compared.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20030070</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_337</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_337">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-431/d080205.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_337"
+            DMDID="DMD_wuppertal_elpub_337">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_337"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

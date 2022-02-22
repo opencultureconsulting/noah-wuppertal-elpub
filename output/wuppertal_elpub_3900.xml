@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3900">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Charakterisierung und Einsatz eines PTR-ToF-MS zur Messung von flüchtigen organischen Verbindungen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sonderfeld, Hannah</displayForm>
+                        <namePart type="family">Sonderfeld</namePart>
+                        <namePart type="given">Hannah</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">This work describes the characterization of a PTR-ToF-MS and results from laboratory experiments as well as in-situ measurements of VOC during a field campaign.
+ Initially, the fragmentation of organic compounds in the drift tube of the instrument was investigated. Organic compounds of different classes were analysed to determine the different fragments and their ratios. Some typical fragment patterns were confirmed such as the loss of H₂O from aldehydes, a fragment of mass 81 for monoterpenes, protonated benzene as a fragment from substituted aromatics and NH₄⁺ for some amines. A signal of the same mass as protonated toluene was identified as a fragment from monoterpenes. The consideration of the fragmentation for the analysis of all following measurements is described step by step.
+ The relative transmission for protonated analytes depending on the mass was determined by measuring two gas standards covering the mass range from 33 to 181. Several correction terms were included. The investigations showed that the temperature of the gas standard influences the steepness of the transmission curve while the relative humidity of the sample does not.
+ For each compound (methanol, acetaldehyde, acetone/propanal, toluene, ethylbenzene/ xylene, pinene) the best conditions to determine the normalized sensitivity were defined and long-term measurements showed a good overall stability. Under laboratory conditions the lower limit of detection ranged from 8 pptV for ethylbenzene/xylene to 180 pptV for methanol.
+ The advantages of PTR-ToF-MS such as high mass and time resolution are presented using the example of two product studies at reaction chambers. It was found that 70% of toluene was removed at a TiO₂ surface under radiation with UV-light. Some oxygenated VOC were identified as products, but only in amounts close to the lower detection limit of the PTR-ToF-MS. In a photooxidation study of 3-methyl-2-nitrophenol one primary (C₇H₇NO₂) and one secondary (C₇H₅NO₄) product was identified. In combination with cAPECI the structure of the secondary product could be determined.
+ The PTR-ToF-MS was used to perform continuous real time measurements of VOC at Kleiner Feldberg, Taunus, Germany, during the PARADE campaign in 2011. Varying meteorological conditions influenced the mixing ratios. Oxygenated VOC were found to be mainly of biogenic origin with some anthropogenic influence. Compared to measurements in 2000 the mixing ratios of methanol and acetaldehyde increased by a factor of 10 and 20, respectively. As well as the OVOCs, monoterpenes showed a good agreement with modelled mixing ratios by a simple temperature dependent emission modell. In contrast to the OVOCs 80% less toluene was measured on average in 2011 compared to 2000. In comparison with the wind directions a source apportionment of toluene and ethylbenzene/xylene became apparent.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20140403-101422-2</identifier>
+                    <identifier type="sys">HT018225785</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3900</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3900">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2013/sonderfeld/dc1325.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3900"
+            DMDID="DMD_wuppertal_elpub_3900">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3900"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_593">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Plasmapolymerisation von Hexamethyldisiloxan zur Abscheidung von quarzähnlichen Schichten bei gepulster Leistungszufuhr</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Soll, Christian</displayForm>
+                        <namePart type="family">Soll</namePart>
+                        <namePart type="given">Christian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Ziel dieser Arbeit am Forschungszentrum für Mikrostrukturtechnik (fmt) ist es, die Abläufe bei der Herstellung von quarzähnlichen Schichten (100 - 3000 nm Schichtdicke) mittels der Plasmapolymerisation von Hexamethyldisiloxan (HMDSO) in einem Sauerstoff-Argon-Plasma (2,45GHz, 2kW, 50 Pa), einem industriell relevanten System, besser zu verstehen. In der Gasphase über dem zu beschichtenden Objekt konnte massenspektroskopisch erstmalig ein „precursor“ detektiert werden. Ein mikroskopischer Modellansatz liefert eine plausible Erklärung dafür, daß es sich bei diesem Teilchen um ein erstes gasförmiges Schichtvorprodukt handelt. Es entsteht durch die Reaktion des Monomers (HMDSO) mit angeregtem (molekularem oder atomarem) Sauerstoff unter Abspaltung zweier Methylgruppen. Die folgende Polymerisation findet ausschließlich auf der Oberfläche statt. Messungen bei gepulster Leistungszufuhr zeigen, daß die Gasphasenzusammensetzung nicht nur über das Sauerstoff zu HMDSO-Verhältnis, sondern auch über die Frequenz der gepulsten Leistungszufuhr gesteuert werden kann, wobei die Zusammensetzung der abgeschiedenen Schichten gleich bleibt. So kann im Vergleich zur ungepulsten Leistungszufuhr die Schichthomogenität und -qualität bei leicht reduzierter Depositionsrate verbessert werden.</abstract>
+                    <abstract type="content" lang="eng">Aim of this work at the Microstructure Research Center (fmt) is to increase the understanding of the plasma polymerization of hexamethyl-disiloxane (HMDSO) in an oxygen-argon-plasma (2.45GHz, 2kW, 50 Pa) to deposit quartz-like films with a thickness between 100 and 3000 nm, an industrially relevant process. For the first time a precursor could be detected in the gas phase above the deposited surface by mass spectroscopy in this work. A microscopical model gives a feasible explanation how this precursor is built in the gas phase by a reaction of an HMDSO monomer with excited molecular or atomic oxygen under separation of two methyl groups. The following polymerization occurs only at the surface of the deposited film. Measurements at pulsed microwave power show that the composition of the gas phase depends not only on the oxygen to HMDSO ratio but also on the frequency of the pulsed microwave power. Thereby, no changes in formation of deposited films could be detected. This allows to increase film homogeneity and quality by pulsed microwave power with a slightly reduced deposition rate in comparison to continuous microwave power.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20020045</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_593</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_593">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-689/d130005.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_593"
+            DMDID="DMD_wuppertal_elpub_593">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_593"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

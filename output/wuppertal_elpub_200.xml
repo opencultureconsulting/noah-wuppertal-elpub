@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_200">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchungen zur Farbbildreproduktion durch Zeilenspektrometrie mit einem Spektralen Flachbettscanner</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lukowski, Karl-Peter</displayForm>
+                        <namePart type="family">Lukowski</namePart>
+                        <namePart type="given">Karl-Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002-09-02</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Es wurde zum ersten Mal ein konkaves, zylindrisches Gitter zum Einbau in ein Minispektrometer entwickelt. Die optische Konstruktion des Spektrometers ermöglicht Zeilenspektrometrie. Ein Zwischenbild am Ort des Eingangsspaltes als Einsatzbedingung des Spektrometers führt zum Einsatz in fast jedem handelsüblichen Flachbettscanner, so dass mit dem Prinzip des Flachbettscanners Farbbildspektrometrie betrieben werden kann. 
+
+Ein Abbildungsfehler in der Optik des Spektrometers lässt sich leicht mit einer linearen Beziehung beheben. Die verwinkelte Lichtführung im Spektrometer erleichtert das Eliminieren von Streulicht erheblich. Kein Streulicht aus spektraler Verteilung störte die Messergebnisse. Vergleiche der spektralen Remission von Farbfeldern mit einer Eichmessung zeigen erstaunliche Übereinstimmung im Bereich des Vorhandenseins der spektralen Beleuchtung. Der Spektrale Flachbettscanner funktioniert daher auch als schnelles Farbmessgerät für Testcharts. 
+
+Farbbilder, deren Farben im Bereich der vorhandenen Beleuchtung liegen, wurden mit dem Spektralen Flachbettscanner gescannt. Die anschließend auf dem Bildschirm reproduzierten Bilder zeigten eine originalgetreue Farbwiedergabe.</abstract>
+                    <abstract type="content" lang="eng">A concave, cylindrical grating was developed for first time mounting in a minispectrometer. The optical construction of the spectrometer allows scan line spectrometry. An intermediate image projection at the place of the entry slit leads to possible applications in almost every standard flat-bed scanner. In this way color picture spectrometry can be realized using the principle of flat-bed scanning. 
+
+An optical aberration within the spectrometer was easily corrected by linear compensation. The angular guiding of light in the spectrometer facilitates the elimination of stray light considerably. No stray light from spectral distribution disturbs the results of measurement. The spectral reflectivity of color fields shows amazing agreement in comparison with a calibrating-measurement over the range of spectral light. The Spectral Flat-Bed Scanner works therefore also as a fast color measuring instrument for characterization testcharts. 
+
+Color pictures whose colors are in the range of the available spectrum were scanned with the Spectral Flat-Bed Scanner. The picture reproductions on screen showed a faithful color rendering.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Medientechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20020349</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_200</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_200">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-299/d050105.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_200"
+            DMDID="DMD_wuppertal_elpub_200">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_200"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

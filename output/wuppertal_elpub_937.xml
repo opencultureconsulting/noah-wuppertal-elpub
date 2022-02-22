@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_937">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Transfer of High-Level CAD/CAM Technology to Developing Countries</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Azadnia, Hamid Reza</displayForm>
+                        <namePart type="family">Azadnia</namePart>
+                        <namePart type="given">Hamid Reza</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-04-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Weltweit müssen viele Entwicklungsländer dringend ihre Bauindustrie verbessern, um die Grundbedürfnisse ihrer Bevölkerung wie z.B. den Wohnungsbau befriedigen zu können. In diesem Zusammenhang ist ein erfolgreicher Wissenstransfer von fortgeschrittener computergestützter Konstruktion und Fertigung (CAD/CAM) die beste Lösung. Um dieses Ziel erreichen zu können, müssen viele Probleme bewältigt werden. In diesem Sinne spielen die Verbesserung der Benutzungsoberflächen (GUI) von CAD-Systemen und die Anpassung an Benutzer in Entwicklungsländern offensichtlich eine entscheidende Rolle. 
+Die vorliegende Arbeit macht die große Sprachabhängigkeit und nur bedingt taugliche Gebrauchstauglichkeit, sogar für muttersprachige Benutzer, von heutigen marktführenden CAD/CAM-Programmen deutlich. Sprachprobleme und komplexe Benutzungsoberflächen stellen Benutzer in Entwicklungsländern große Schwierigkeiten vor. In diesem Sinne, wurde in dieser Arbeit ein Benutzerprofil eines typischen CAD/CAM-Ingenieurs in einem Entwicklungsland ausformuliert, das seine Mentalität, besonderen Vorzüge und Beschränkungen reflektiert. Darüber hinaus wurde eine Umfrage durchgeführt, die die häufigsten Befehle in leistungsstarken CAD/CAM Stahlkonstruktionsprogrammen erforscht. Die Ergebnisse helfen bei der Entwicklung der für internationale Märkte geeigneten textfreien Benutzungsoberflächen. Ferner wurde eine auf der täglichen Anwendung basierende Benutzertätigkeitsanalyse ausgeführt. Anschließend werden mehrere grafische Prototypen auf Basis dieser GUI-Komponenten sowie spezifische Dialogboxen entwickelt. 
+Anschließend werden wichtige Aspekte internationale Kooperation in weltweiten Netzwerken diskutiert und dabei typische Probleme, die in deutsch-iranischen Kooperationen auftauchen mögen, werden formuliert. Es zeigt sich, dass CAD/CAM Hochleistungssysteme allein auch bei textarmer Benutzungsoberfläche keine wirtschaftlich tragfähige, in Europa wettbewerbsfähige deutsch-iranischer Kooperation von Ingenieurbüros und Baufirmen sicher stellen. Das Beharren auf alt hergebrachten Konstruktionsweisen verhindert praktikable arbeitsteilige Kooperation. Schulungen mit „Training on the job“ könnten langfristig zum Erfolg führen.</abstract>
+                    <abstract type="content" lang="eng">Many developing countries around the world are in dire need of upgrading their building industry to meet the basic demands of their society, such as housing. In this regard, the successful transfer of high-level CAD/CAM technologies is indeed the best solution. There are indeed many problems to overcome, but amendments to the User Interfaces (UI) of CAD systems, and their adaptation to specific users in developing countries, is clearly a key step forward. 
+The present study reveals that the market-leading CAD/CAM software systems of today are heavily language-dependent and relatively inconsiderate to the usability concerns of even native-speaking users. Clearly, language barriers and complex user interfaces are very likely to trip over CAD/CAM users in developing countries. This calls for the realization of more intuitiveness and directness as well as minimising the use of textual characters in the interfaces of these programs. In this aspect, a user profile of CAD/CAM engineers in developing countries has been developed which reflects their specific mental models, preferences and limitations. Moreover, a survey was conducted to determine the most frequent commands in high-level CAD systems for steel detailing. The results are useful for prioritising the effort necessary to develop text-free GUIs for international use. Finally, by attending and working on real projects, a thorough task analysis has been carried out that is based on day-to-day use of these systems. These results are key informative tools laying the groundwork for the innovation of CAD/CAM software systems. Subsequently, several graphical prototypes of basic GUI components, as well as specific command dialogs, are presented. 
+In the end, important aspects of international cooperation in worldwide networks are discussed, as well as some of the bottlenecks hindering such collaborations in the specific case of German-Iranian companies. This discussion aims to raise awareness on both sides for the sake of future cooperation. It should furthermore emphasise that technology is not the only prerequisite to successful collaboration and that, indeed, there are many challenges to overcome.</abstract>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Architektur und Bauingenieurwesen » Bauingenieurwesen"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20090602</identifier>
+                    <identifier type="sys">HT015921885</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_937</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_937">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/bauingenieurwesen/diss2007/azadnia/dd0712.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_937"
+            DMDID="DMD_wuppertal_elpub_937">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_937"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

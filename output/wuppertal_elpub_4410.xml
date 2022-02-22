@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_4410">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Molekulare Erkennung von kleinen GTPasen der Ras-Superfamilie</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Düppe, Peter Markus</displayForm>
+                        <namePart type="family">Düppe</namePart>
+                        <namePart type="given">Peter Markus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In 30 % of all human tumors are point mutations of Ras proteins, which lead to a loss of the intrinsic and GAP-stimulated GTPase activity. Cause of the occurence of oncogenic Ras mutations in these proteins encoding genes, these proteins become oncogene. In this work, two ways were chosen for the disturbance of the oncogene Ras: The identification of the ligands for the recognition of protein surfaces and the synthesis of artificial receptors for the C-termini of proteins.
+ 
+ The first part of this dissertation describes the development of a new head group for peptide receptor libraries (based on an published synthesis by Anslyn et al.). The association constants with carboxylate were determined in the range of 165-731 M-1 (100% d6-DMSO). These constants decrease strongly with increasing water content of the solvent.
+ The second part deals with the synthesis and the screening of combinatorial libraries of artificial receptors as well as their characterisation. The head group of Schmuck et al. has a better affinity to carboxylates, for which reason this was used for the synthesis of the receptor libraries. The resulting receptors showed affinity to the target molecules, the C-terminal CaaX-peptides of the Ras proteins. The associated association constants are determined in an organic solvent as well as in an aquaeous solvent.
+ The last part of this thesis consists of the screening and the identification of ligands for the surface of the Ras proteins. Through the investigation of less than 100 compounds, binding ligands of Rheb protein were identified in the lower millimolare range: bisphenol A and 4,4&apos;-biphenol. These bind with a KD of 1800 +/- 500 and 1500 +/- 200 µM in one of the switch-II-region adjacent binding pocket. Bisphenol A binds with greater affinity to the K-Ras4B protein (KD = 600 +/- 200 µM).</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20141117-104956-5</identifier>
+                    <identifier type="sys">HT018522649</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_4410</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_4410">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2014/dueppe/dc1425.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_4410"
+            DMDID="DMD_wuppertal_elpub_4410">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_4410"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

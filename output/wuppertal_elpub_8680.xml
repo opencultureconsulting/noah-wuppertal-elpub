@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_8680">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Spatial atomic layer deposition of electrically (non-)conductive gas diffusion barriers</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hoffmann, Lukas</displayForm>
+                        <namePart type="family">Hoffmann</namePart>
+                        <namePart type="given">Lukas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-09-06</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The objective of this study is the spatial atomic layer deposition of conductive and non-conductive gas diffusion barriers as promising high performance encapsulation layers in flexible electronic devices. Aluminum oxide and tin oxide are deposited in spatial ALD with TMA and TDMASn. Water, ozone and an Ar/O₂ plasma are used as oxidants. Water vapor transmission rates in the range of 10-5-10-6 gm-2d-1 are achieved at deposition temperatures between 80-150C. In addition, the deposited tin oxide thin layers provide electrical conductivities in the range of 50-100 (Ω cm)-1. Both material systems show high optical transmittance as well as reasonable mechanical flexibility at substrate velocities up to 4.5m/min. Tin oxide layers are used exemplarily as barrier layers in perovskite solar cells, providing long-term (heat and moisture) stable perovskite solar cells with power conversion efficiencies around 13%. All in all, the deposition of gas diffusion barriers in a roll-to-roll compatible spatial ALD is demonstrated, enabling large-scale continuous encapsulation of flexible electronic devices.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20180906-095850-9</identifier>
+                    <identifier type="sys">HT019809161</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_8680</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_8680">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2018/hoffmann/de1806.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_8680"
+            DMDID="DMD_wuppertal_elpub_8680">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_8680"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

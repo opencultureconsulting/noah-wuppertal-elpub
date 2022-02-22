@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_987">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Beitrag von Windenergieanlagen zu den Systemdienstleistungen in Hoch- und Höchstspannungsnetzen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Al-Awaad, Ahmad-Rami Khalil</displayForm>
+                        <namePart type="family">Al-Awaad</namePart>
+                        <namePart type="given">Ahmad-Rami Khalil</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-05-08</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die installierte Windleistung in Deutschland soll bis zum Jahr 2020 47 GW erreichen. Dies entspricht dann ca. 60 % der Höchstlast Deutschlands. Windenergieanlagen werden in Windparks konzentriert. Die Leistung dieser Windparks ist geeignet, diese ans Hochspannungsnetz anzuschließen. Der Ausbau der Windleistung wird in Deutschland durch ein staatliches Gesetz (Erneuerbare-Energien-Gesetz; EEG) unterstützt. Der Übertragungsnetzbetreiber muss die Energie aus erneuerbaren Quellen vorrangig abnehmen. Außerdem muss der Übertragungsnetzbetreiber diese Energie mit einem hohen Vergütungssatz (EEG-Vergütung) entlohnen. Die dem Übertragungsnetzbetreiber dadurch entstehenden Kosten schließlich von dem Verbraucher getragen werden.
+ Der Übertragungsnetzbetreiber ist für den sicheren und zuverlässigen Betrieb des Übertragungsnetzes verantwortlich. Dafür muss er Systemdienstleistungen (z.B. zur Spannungs- und Frequenzhaltung) zur Verfügung stellen. Die dafür notwendige Blind- und Regelleistung bezieht der Übertragungsnetzbetreiber momentan von den Kraftwerken auf vertraglicher Basis. Derzeit nehmen die Windparks an der Bereitstellung der Systemdienstleistungen zur Unterstützung der Spannungs- und Frequenzhaltung nicht teil. Auf Grund der hohen installierten Windleistung und der vorrangigen Einspeisung der Windenergieanlagen muss insbesondere bei Starkwind ein großer Teil der konventionellen Kraftwerke in der Leistung gedrosselt bzw. abgeschaltet werden. Dadurch können diese keine Beiträge zur Bereitstellung der Systemdienstleistungen mehr liefern. Dies kann die Versorgungszuverlässigkeit gefährden.
+ Im Rahmen dieser Arbeit wurde ein neues Konzept zur Unterstützung des sicheren und zuverlässigen Betriebs der Hoch- und Höchstspannungsnetze durch die Windenergieanlagen entwickelt. Mit diesem sollen die Windenergieanlagen an der Bereitstellung der Systemdienstleistungen zur Unterstützung der Spannungs- und Frequenzhaltung teilnehmen. Neben der technischen Machbarkeit wurden die ökonomischen Auswirkungen untersucht.
+ Moderne Windenergieanlagen sind entweder mit Doppelt-Gespeisten Asynchrongeneratoren oder mit Synchrongeneratoren und Voll-Umrichtern ausgeführt. Beide Typen wurden modelliert. Die Ergebnisse zeigen, dass beide Typen an der Spannungs- und Frequenzhaltung (Primärregelung, Sekundärregelung und Minutenreserve) teilnehmen können. Die Teilnahme der Windenergieanlagen an der Bereitstellung der Systemdienstleistungen kann dem Übertragungsnetzbetreiber (Kosteneinsparungen) und dem Windenergieanlagenbetreiber (zusätzliche Einnahmen) wirtschaftliche Vorteile bringen. Das Ziel des neuen Konzeptes ist nicht die Verringerung der Kosten aus Sicht des Übertragungsnetzbetreibers oder Erhöhung der Einnahmen des Windenergieanlagenbetreibers, sondern die Reduzierung der EEG-Vergütung für Energie aus den Windenergieanlagen. Daher bekommt der Windenergieanlagenbetreiber am Ende die gleichen Einnahmen, wobei darin der EEG-Anteil um die zusätzlichen Einnahmen und die eingesparten Kosten reduziert werden kann. Dadurch kann die wirtschaftliche Belastung der Verbraucher durch die EEG-Vergütung verringert werden und zusätzlich aber auch die Versorgungssicherheit erhöht werden.</abstract>
+                    <abstract type="content" lang="eng">The use of renewable energies is steadily growing. In Germany, wind energy is the main installed type of renewable energies. The installed wind power reached until the end of year 2007 more than 22 GW. This installed wind power should be reach 47 GW until 2020, also 60 % of the total load of Germany. Power of a planned wind farm reaches several hundred megawatts.
+ In Germany, the renewable energies are supported by a governmental act [Act on Granting Priority to Renewable Energy Sources (Renewable Energy Sources Act)] (EEG). Thus, wind farms owner gets a priority feed-in into the network, where transmission system operator must take-over the energy. Based on EEG a fix payment for the generated energy is warranted. This payment is much higher than the average variable costs of conventional power plants.
+ At present, wind farms are not obligated to participate to ancillary services (voltage and frequency control). They may not be separated from the network too. Thus, in case of high feed-in from wind farms, conventional power plants must be partially disconnected from the network, so that their contribution to voltage and frequency control (primary, secondary and tertiary control) is no more available. This case can endanger the supplying reliability. Therefore, the planned development of wind energy requires today a rethinking. For an assured operation of high and very high voltage networks, wind farms must take-over new tasks; like support of voltage and frequency control in high and very high voltage networks.
+ Modern wind power plants are implemented either with a double fed induction generator or a synchronous generator in combination with full-converter.
+ In this work it is shown, that a modern wind power plant and wind farms can contribute to voltage and frequency control (primary, secondary and tertiary control) too. Large wind farms are connected to high voltage networks. Thus, the reactive power -which fed from these wind farms- can contribute to minimize the network losses in high and very high voltage networks and to reduce the complete demanded reactive power to support the voltage control. Through the participation of wind farms to frequency control, wind farms owner gets more income than the fix payment based on EEG. Thus, the saved cost (voltage control) and the profit (frequency control) -through the participation to ancillary service- can be a contribution to reduce the fix payment of generated energy based on EEG.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20090626</identifier>
+                    <identifier type="sys">HT015930363</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_987</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_987">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2009/al-awaad/de0901.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_987"
+            DMDID="DMD_wuppertal_elpub_987">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_987"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

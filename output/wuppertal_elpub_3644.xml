@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3644">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Dynamische Ansteuerungen gebäudetechnischer Brandschutzeinrichtungen</title>
+                    </titleInfo>
+                    <titleInfo lang="eng" type="translated">
+                        <title>Dynamic Controls of Fire Protection Systems</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Nachtigall, Eugen</displayForm>
+                        <namePart type="family">Nachtigall</namePart>
+                        <namePart type="given">Eugen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-08-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Gebäudetechnische Brandschutzeinrichtungen spielen bei der Bewältigung von Herausforderungen der Brandsicherheit eine zunehmend wichtigere Rolle. Aufgrund steigender Anforderungen, stetiger technischer Entwicklungen, Vernetzungen und Interaktionen von gebäudetechnischen Brandschutzeinrichtungen untereinander und mit anderen Systemen steigt auch die Komplexität des Gesamtsystems technischer Anlagen von Gebäuden. Bislang werden gebäudetechnische Brandschutzeinrichtungen überwiegend als autarke Anlagen geplant, errichtet, geprüft und betrieben. Brandfallsteuerungen solcher Anlagen sind überwiegend statischer Natur und berücksichtigen in der Regel weder die dynamische Natur eines Brandereignisses noch Interaktionen zwischen Anlagen. Damit wird das Potential von gebäudetechnischen Brandschutzeinrichtungen nicht ausgeschöpft. Die vorliegende Arbeit zeigt Wege, wie gebäudetechnische Brandschutzeinrichtungen sicher gestaltet und dynamisch gesteuert werden können, um adäquat auf das dynamische Brandgeschehen zu reagieren. Hierzu wird ein Modell vorgestellt, mithilfe dessen gebäudetechnische Brandschutzeinrichtungen als ein Gesamtsystem geplant werden können.</abstract>
+                    <abstract type="content" lang="eng">Fire protection systems play in resolving challenges to fire safety an increasingly important role. Due to increasing demands, continuous technical development, networking and interactions of fire protection systems with each other and other systems, also rises the complexity of these systems. Up to now fire protection systems are primarily designed, built, tested and operated or controlled as stand-alone systems. The fire protection control systems of such systems are therefore predominantly of a static nature and do not take into account the dynamic nature of the fire or the interactions of systems. Thus, the potential of fire protection systems is not fully realized. This thesis shows ways in which fire protection systems can be built safely and controlled dynamically to respond adequately to the dynamic fire events. For this purpose a model is presented for the planning of fully comprehensive fire protection systems.</abstract>
+                    <subject>
+                        <topic>Brandschutz</topic>
+                        <topic>anlagentechnischer Brandschutz</topic>
+                        <topic>gebäudetechnische Brandschutzeinrichtungen</topic>
+                        <topic>Brandschutzanlagen</topic>
+                        <topic>Brandfallsteuerungen</topic>
+                        <topic>dynamische Brandfallsteuerungen</topic>
+                        <topic>Dynamik</topic>
+                        <topic>Steuermatrix</topic>
+                    </subject>
+                    <classification authority="ddc">620</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20130827-143616-4</identifier>
+                    <identifier type="sys">HT017756620</identifier>
+                    <accessCondition type="use and reproduction">CC BY-NC-ND 3.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3644</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3644">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/bauingenieurwesen/diss2013/nachtigall/dd1303.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3644"
+            DMDID="DMD_wuppertal_elpub_3644">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3644"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

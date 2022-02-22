@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3433">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Cascade Reactions Initiated by ᴨ - Activation. A Flexible Way to Heterocycles &amp; Studies toward the Total Synthesis of Melohenine B</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Palisse, Adeline</displayForm>
+                        <namePart type="family">Palisse</namePart>
+                        <namePart type="given">Adeline</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Over the last years, a large number of synthetic routes to obtain heterocyclic compounds have applied transition- metal-catalyzed cascade reactions. Due to their ability to activate π-systems, especially alkynes, strategies using soft metal cations, such as Auᴵ, AuIII, Agᴵ or PtII have been found to be excellent for constructing complex scaffolds. With the intention of extending the scope of cascade reactions initiated by π-activation, two sequences were developed to produce tri- and tetra-substituted furans. 
+
+ On one hand, by exploring the cascade process of heterocyclization/1,2-migration to provide 2,3-dihydrofurans, an unexpected furan was isolated. Nevertheless, as poly-substituted furans are interesting target structures the catalyzed route from the cyclo-hexanones was investigated. A new and convenient way to access tri-substituted furans with an aldehyde-containing side chain was developed. The sequence is catalyzed by PtCl₄ and probably proceeds via a heterocyclization followed by 1,2-shift ring-contraction and a Grob-type fragmentation. 
+
+ On the other hand, in the realm of the study on catalyzed propargyl-Claisen rearran-gements launched in the Kirsch group, a sequence of propargyl-Claisen rearran-gement/condensation on propargylic vinyl ethers has generated tri- and tetra-substituted furans. The domino reaction was effectively catalyzed by AgBF₄. 
+
+ In a second part of the dissertation, the studies toward the total synthesis of melohenine B are described. The investigations have focused on the production of the aminolactone building block.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20130409-124009-4</identifier>
+                    <identifier type="sys">HT017611759</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3433</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3433">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2013/palisse/dc1305.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3433"
+            DMDID="DMD_wuppertal_elpub_3433">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3433"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

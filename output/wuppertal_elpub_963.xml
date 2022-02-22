@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_963">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Konzept einer zuverlässigkeits-adaptiven Werkzeugwechselstrategie zur Erhöhung der Verfügbarkeit von Transferlinien am Beispiel von Bohrern</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dietl, Clemens</displayForm>
+                        <namePart type="family">Dietl</namePart>
+                        <namePart type="given">Clemens</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-12-12</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die wirtschaftliche Effizienz und die Verfügbarkeit einer Transferlinie werden direkt über die Anzahl der produzierten Werkstücke je Zeiteinheit bewertet. In diesem Zusammenhang wird die Systemleistung besonders durch den Werkzeugwechsel als Instandhaltungsmaßnahme beeinflusst. Die Qualitätsanforderungen an die Bearbeitung bestimmen den maximal zulässigen Verschleiß eines Bohrers, wobei dieser in direktem Zusammenhang mit der Komponentenzuverlässigkeit steht. 
+Eine Zuverlässigkeitsabschätzung von Hartmetallbohrern wird auf Grundlage einer statistischen Auswertung empirisch ermittelter Daten vorgestellt, um eine Werkzeugwechselstrategie zu entwickeln. Der aktuelle Freiflächenverschleiß kann während des Betriebs über einen Vergleich der aktuellen Schnittkraft mit der Schnittkraft- Regressionsfunktion beobachtet werden. An Hand der experimentell ermittelten Schnittkraft-Zeit-Kennlinie der jeweiligen Kombination von Werkzeug- und Werkstückmaterial wird der Freiflächenverschleiß auf Basis der gemessenen Schnittkraft beurteilt. Eine Matrix mit Zwischenstufen unterschiedlicher Schnittgeschwindigkeiten ermöglicht eine Prognose, wie viele Werkstücke gefertigt werden können, bis ein Werkzeugwechsel erforderlich ist. 
+Um die Ausbringung einer Transferlinie zu erhöhen, wird die geschätzte time to failure (TTF) jedes Werkzeugs in jeder Station so abgestimmt, dass ein Maximum an Werkzeugen in unterschiedlichen Stationen gleichzeitig gewechselt werden. 
+Die Ausbringung einer Transferlinie ohne Reliability-Adaptive Control (RAC) wird mit der Ausbringung einer Transferlinie mit RAC unter Berücksichtigung unterschiedlicher Regelbedingungen verglichen. Der Ansatz der zuverlässigkeits-adaptiven Werkzeugwechselstrategie zur Erhöhung der Verfügbarkeit von Transferlinien wird durch die Simulation einer vier Stationen Transferlinie, unter Berücksichtung der empirisch gewonnenen TTFs der Hartmetallbohrer, validiert.</abstract>
+                    <abstract type="content" lang="eng">The economic efficiency and the availability of a transfer line are evaluated directly by the quantity of produced parts per time unit. In this context system performance is especially influenced by tool change as a maintenance issue. The quality requirements to the manufacturing define the maximum allowable wear of a drill whereas it is in directly linked to the component reliability. 
+A reliability estimation of carbide drills is discussed based on a statistical evaluation of empirical gained data to develop a tool change strategy. The current width of flank wear can be observed during operation by comparison of the current cutting force with the cutting force regression function. With the experimentally determined force-time characteristics of the respective material combination of the tool and the part the wear of the cutting edge can be assessed on the basis of the measured cutting force. A matrix with intermediate levels of different cutting speeds allows a prognosis of the number of parts that can still be produced until a toll change is required. 
+In order to increase the output of a transfer line, the estimated time to failure (TTF) of the tools in each station is adjusted in such a way that a maximum of tools in different stations has to be maintained at the same time. 
+The output of a transfer line without Reliability-Adaptive Control (RAC) is compared with the output of a system with RAC under consideration of different control conditions. The approach of the reliability-adaptive tool change strategy is validated by a simulation of a four-station transfer line with different tool TTF under consideration of the empirically gained TTFs of carbide drills.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Maschinenbau und Sicherheitstechnik » Sicherheitstechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20080697</identifier>
+                    <identifier type="sys">HT015779655</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_963</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_963">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/sicherheitstechnik/diss2008/dietl/dd0804.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_963"
+            DMDID="DMD_wuppertal_elpub_963">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_963"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

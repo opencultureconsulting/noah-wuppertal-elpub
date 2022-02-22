@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_4910">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Optimierung von Networks-on-Chip mit Hilfe der dynamischen Rekonfiguration</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Logvinenko, Alexander</displayForm>
+                        <namePart type="family">Logvinenko</namePart>
+                        <namePart type="given">Alexander</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Moderne Prozessoren werden modular entwickelt. Dadurch muss bei Neuentwicklungen nicht alles neu geplant werden, sondern es kann auf bereits vorgefertigte Komponenten - sogenannte IP Blocks (Intellectual Property Blocks) - zurückgegriffen werden.
+ Um die einzelnen IPs miteinander verbinden zu können, wurde eine rekonfigurationsfähige Architektur für Network-on-Chip entwickelt: Reconfigurable Multi-Interconnection Network (RecMIN). Diese ist in der Lage, sich an die aktuelle Datenverkehrssituation des Netzes anzupassen.
+ Die entwickelte Architektur besteht aus einzelnen rekonfigurierbaren Zellen. Zusätzlich weist die Rekonfigurationsarchitektur einen höheren Wiederverwendungsgrad für die Hardware-Strukturen auf, z.B. bzgl. Puffer, Multiplexer. Das bedeutet, dass die Komponenten der alten Topologie auch nach der Rekonfiguration für die neue Topologie aktiv verwendet werden.
+ Um die Simulation der Rekonfigurationsarchitektur zu ermöglichen, wurde ein Simulationsporgramm RecSim implementiert.
+ Zum Schluss werden drei Algorithmen präsentiert, die das Verhalten des RecMIN beobachten und bei Bedarf eine Rekonfiguration durchführen. Auf diese Weise soll die Netztopologie auch bei Belastungsänderungen optimal an den Datenverkehr angepasst bleiben.
+ Die Ergebnisse der Simulation haben gezeigt, dass die hier vorgeschlagene rekonfigurierbare Netzwerkstruktur das Potential hat, die Leistungsfähigkeit einiger Anwendungen, insbesondere derer, die zwischen zwei oder mehreren Verkehrsprofilen wechseln, drastisch zu verbessern. So, z. B., würde diese Baustruktur die Paketverzögerungen bedeutend (bis zu Faktor sieben) reduzieren (s. Kapitel 6).
+ Für die Hardwarerealisierung der RecMIN-Architektur auf FPGA ist Xilinx- FPGA mit FIFO-Speicherprinzip (beim einfachen FIFO für die RecMINs mit dünnem Paketverkehr) als eine der besten Lösungen zu empfehlen. Wird aber für RecMIN ein Ringspeicher gewählt, was vor allem für einen starken Paketverkehr sinnvoll ist, so wäre die Wahl zwischen Altera- und Xilinx-FPGAs für jeden konkreten Fall mithilfe der Daten aus den Abbildungen 7.9 - 7.11 individuell zu treffen.
+ Der Vergleich zwischen den drei vorgeschlagenen Rekonfigurationsalgorithmen liefert folgende Schlussfolgerungen:
+ Der ŋ-Algorithmus kann in Computersimulationen verwendet werden, um die von anderen Algorithmen (die keine erschöpfende Suche benutzen) erzielten Ergebnisse zu vergleichen. Jedoch ist das Integrieren des ŋ-Algorithmus in ein SoC mit großem Hardware-Aufwand verbunden.
+ Der Minimal-Queues-Algorithmus (MQA) ist schneller als der ŋ-Algorithmus und erfordert weniger Fläche auf dem Chip. Er kann mit kleinerem Hardware-Aufwand als der ŋ-Algorithmus in SoC integriert werden. Der MQA ist dann zu empfehlen, falls die Vorkenntnisse über die Eigenschaften des möglichen Verkehrs im Netzwerk nicht vorhanden sind.
+ Der Pattern-Identication-Algorithmus (PIA) ist in den meisten Fällen schneller als der ŋ-Algorithmus und der Minimal-Queues-Algorithmus. Die Umsetzung des PIAs auf SoC ist relativ einfach. Im Falle, dass die Muster für den PIA optimal implementiert sind, ist der PIA von allen drei hier für RecMIN vorgeschlagenen Rekonfigurationsalgorithmen die effizienteste Lösung.</abstract>
+                    <abstract type="content" lang="eng">Modern processors are developed modularly. Therefore new developments need not be re-scheduled from the scratch; rather prefabricated components - so-called IP blocks (Intellectual Property blocks) - can be used.
+ In order to connect the individual IPs, a reconfigurable architecture for network-on-chip has been developed: Reconfigurable Multi-Interconnection Network (RecMIN). It is able to adapt to the current traffic situation of the network.
+ The developed architecture consists of single reconfigurable cells. In addition, the reconfiguration architecture has a higher degree of reuse for the hardware structures, such as regarding buffer, multiplexer. This means that the components of the previously active topology are actively used also after the reconfiguration to the new topology.
+ In order to enable the simulation of the reconfiguration architecture, a simulation program RecSim was implemented.
+ Finally, three algorithms are presented that observe the behavior of the RecMIN and perform a reconfiguration when needed. In this way the network topology is to remain optimally adapted to the traffic even if the load changes.
+ The results of the simulation showed that the proposed reconfigurable network structure has the potential to improve the performance of some applications, especially those which switch between two or more traffic proles. For some applications RecMIN-architecture would significantly reduce paket delays (up to factor seven) (see chapter 6).
+ For the hardware realization of the RecMIN-architecture on FPGA a Xilinx-FPGA with FIFO-buffer concept is recommended, as one of the best solutions for the RecMin realization. However, if circular buffer is chosen for RecMIN, which mostly makes sense for high packet traffic, the choice between Altera- and Xilinx-FPGAs would have to be made individually, for each specific case, based on the data from the images 7.9 - 7.11.
+ The comparison between the three suggested reconfiguration algorithms provides the following conclusion:
+ ŋ-algorithm can be used in computer simulations to compare the results achieved from other algorithms. However, integrating the ŋ-algorithm into a SoC is attended with hardware complexity.
+ Minimal-Queues-Algorithm (MQA) is faster than the ŋ-algorithm and requires less area on the SoC. It can be integrated into SoC with less hardware complexity than ŋ-algorithm. The MQA is a best solution in case that foreknowledge about the nerwork traffic are not available.
+ The Pattern-Identication-Algorithm (PIA) is faster than the ŋ-algorithm and the Minimal-Queue-Algorithm. In case of properly implementation of the pattern for the PIA, the PIA is the most efficient of three algorithms proposed in this work.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Informationstechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20150623-102353-7</identifier>
+                    <identifier type="sys">HT018683658</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_4910</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_4910">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/informationstechnik/diss2014/logvinenko/de1406.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_4910"
+            DMDID="DMD_wuppertal_elpub_4910">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_4910"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

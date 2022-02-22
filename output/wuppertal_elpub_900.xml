@@ -1,0 +1,66 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_900">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Nonlinear Integral Equations for the Thermodynamics of Integrable Quantum Chains</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Damerau, Jens</displayForm>
+                        <namePart type="family">Damerau</namePart>
+                        <namePart type="given">Jens</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-07-08</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die vorliegende Arbeit beschäftigt sich mit der Berechnung der Thermodynamik integrabler Quantenketten vom Uimin-Sutherland-Typ mit Hilfe nichtlinearer Integralgleichungen (NLIEs). Es gibt verschiedene Typen derartiger Gleichungen, jedoch erlaubt nur ein Typ die effiziente und hochpräzise numerische Lösung bei beliebiger Temperatur und allgemeinen chemischen Potentialen. 
+Die Herleitung basiert auf dem Quanten-Transfermatrix-Zugang, wobei die sich ergebenden Bethe-Ansatz-Gleichungen in einen geschlossenen Satz von lediglich endlich vielen NLIEs transformiert werden. Um dies zu erreichen, müssen geeignete Hilfsfunktionen mit bestimmten Analytizitätseigenschaften gefunden werden. 
+Die notwendigen Hilfsfunktionen waren zuvor lediglich für Uimin-Sutherland-Modelle mit zwei bzw. drei Komponenten bekannt. In der vorliegenden Arbeit wird der Zugang auf alle möglichen Fälle mit vier Komponenten erweitert, für die viele weitere Anwendungen, wie z.B. das SU(4) Spin-Orbital-Modell, eine Spin-1/2 Doppelleiter und das Essler-Korepin-Schoutens Modell, bekannt sind. 
+Verschiedene Grenzfälle der neuen Sätze von NLIEs werden betrachtet. Weiterhin wird gezeigt, wie die Hilfsfunktionen zu modifizieren sind, um den exakten Abschluß der NLIEs des TBA-Zugangs auf beliebiger Ebene zu erreichen. 
+Obwohl kein allgemeines Konstruktionsschema für die Hilfsfunktionen bekannt ist, kann ein Großteil der Struktur der endgültigen NLIEs für die sl(n)- und sl(n|1)-symmetrischen Fälle des Uimin-Sutherland-Modells auf Basis der bekannten Ergebnisse abgeleitet werden. Für den sl(5)- und den sl(4|1)-symmetrischen Fall ist es sogar möglich, für den kompletten Satz von NLIEs eine fundierte Vermutung abzugeben. Letzterer Fall findet bei der Behandlung des SU(4|1) Spin-Orbital-Modells mit beweglichen Löchern Anwendung. 
+Abschließend werden numerische Ergebnisse für alle betrachteten Modelle geliefert.</abstract>
+                    <abstract type="content" lang="eng">The topic of this thesis is the derivation of the thermodynamics of integrable quantum chains of Uimin-Sutherland type with the help of nonlinear integral equations (NLIEs). Several types of such equations are known, but only one of these allows for an efficient and highly accurate numerical solution for arbitrary temperature and general chemical potentials. 
+The derivation is based on the quantum transfer matrix approach, where the resulting Bethe ansatz equations are transformed into a closed set of only finitely many coupled NLIEs. To achieve this, suitable auxiliary functions with certain analyticity properties have to be found. 
+The necessary functions have previously been obtained only for the two- and three-component cases of the Uimin-Sutherland model. In this work, the approach is extended to all possible four-component cases, which have several further applications. Amongst these is the SU(4) spin-orbital model, a two-leg spin-1/2 ladder and the Essler-Korepin-Schoutens model. 
+Several limiting cases of the NLIEs are considered. Moreover, it is shown how to modify the auxiliary functions to provide the exact truncation of the infinitely many NLIEs of the TBA approach at arbitrary level. 
+Although no general construction scheme for the auxiliary functions is known, most of the structure of the final NLIEs for the sl(n) and sl(n|1) cases of the Uimin-Sutherland model is fixed on the basis of the known results. For the sl(5) and sl(4|1) symmetric cases it is even possible to conjecture the complete set of NLIEs. The latter case is used to treat the SU(4|1) spin-orbital model with mobile defects. 
+Finally, numerical results are provided for all models under consideration.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20080274</identifier>
+                    <identifier type="sys">HT015596049</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_900</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_900">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2008/damerau/dc0805.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_900"
+            DMDID="DMD_wuppertal_elpub_900">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_900"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

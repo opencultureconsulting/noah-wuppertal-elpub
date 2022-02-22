@@ -1,0 +1,81 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_7421">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Nutzung der Ladeflexibilität zur optimalen Systemintegration von Elektrofahrzeugen</title>
+                    </titleInfo>
+                    <titleInfo lang="eng" type="translated">
+                        <title>Optimal system integration of electric vehicles using the charging flexibility</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Uhlig, Roman</displayForm>
+                        <namePart type="family">Uhlig</namePart>
+                        <namePart type="given">Roman</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Zdrallek, Markus</displayForm>
+                        <namePart type="family">Zdrallek</namePart>
+                        <namePart type="given">Markus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schmülling, Benedikt</displayForm>
+                        <namePart type="family">Schmülling</namePart>
+                        <namePart type="given">Benedikt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Dissertation befasst sich mit der Entwicklung eines Lademanagementsystems für Elektrofahrzeuge. Im Gegensatz zu bisherigen Ansätzen soll dieses in der Lage sein, die Ladeflexibilität der Elektrofahrzeuge sowohl für netz- als auch für marktdienliche Zwecke einzusetzen, ohne dabei die Mobilität der Fahrzeugnutzer einzuschränken. Auf diese Weise soll der für eine verstärkte Elektromobilität benötigte Netzausbaubedarf vermieden oder zumindest erheblich reduziert und die Flexibilität der Ladevorgänge dem Gesamtsystem verfügbar gemacht werden. Grundsätzlich soll dadurch der volkswirtschaftliche Aufwand der Netzintegration einer verstärkten Elektromobilität verringert und ein Beitrag zur Ausgestaltung eines effizienten Energieversorgungssystems geleistet werden. Insgesamt werden die Auswirkungen einer verstärkten Elektromobilität auf das elektrische Netz bestimmt, die Entwicklung des Lademanagementsystems und die zugehörogen Felduntersuchungen beschrieben und die marktdienlichen Einsatzmöglichkeiten des Lademanagementsystems dargestellt und bewertet.</abstract>
+                    <abstract type="content" lang="eng">This dissertation is about the development of an grid supporting EV charging management system that considers the user&apos;s mobility requirements. To maximize the acceptance of the vehicle users the developed charging management system is able to remedy the inadmissible grid conditions while minimizing the negative effects for the users. The first part of this work shows the expected development of the electric mobility in Germany and quantifies the upcoming grid expansion demand. It is also shown that charging management systems offer clear economic benefits at higher shares of EVs in order to avoid inadmissible grid conditions. Following, the development and tests of the charging management system are explained. Furthermore, the work demonstrates that the critical utilizations of the feeding distribution grids only occur few hours a year. The combined charging flexibility of multiple EVs, however, is available continuously and can be used without additional costs in order to increase the economic advantage of the charging management system. For this purpose, various application scenarios with different requirements and different revenue potentials are explained and assessed.</abstract>
+                    <subject>
+                        <topic>Elektromobilität</topic>
+                        <topic>Smart Grid</topic>
+                        <topic>Netzautomatisierung</topic>
+                        <topic>Lademanagement</topic>
+                        <topic>Flexibilität</topic>
+                    </subject>
+                    <classification authority="ddc">600</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20171207-092249-7</identifier>
+                    <identifier type="sys">HT019534418</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_7421</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_7421">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2017/uhlig/de1704.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_7421"
+            DMDID="DMD_wuppertal_elpub_7421">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_7421"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

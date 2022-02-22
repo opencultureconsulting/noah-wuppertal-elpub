@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9160">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Molekulare Logik mit farbabsorbierenden und -emittierenden Molekülen auf Basis von Spiropyran</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Spinnen, Sebastian</displayForm>
+                        <namePart type="family">Spinnen</namePart>
+                        <namePart type="given">Sebastian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-02-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Informations- und Kommunikationsfähigkeit sind das Fundament unserer modernen Technologie-Gesellschaft. Dabei wird es immer wichtiger, trotz kultureller und sprachlicher Barrieren auf eine universelle Struktur des Denkens und Handelns zurückgreifen zu können, die Logik.
+ Der Begriff molekulare Logik beschreibt dabei ein Forschungsgebiet in welchem versucht wird, mithilfe molekularer Systeme, in Lösung oder in Festphase, logische Verknüpfungen zu imitieren. Die wichtigste Voraussetzung dafür ist, dass das verwendete System bei Stimulation unterschiedlicher Art und Weise ein wahrnehmbares Signal beispielsweise in Form von Licht(-absorption oder -emission) zeigt. Anders ausgedrückt muss das verwendete molekulare System reversibel mindestens zwei distinkte Zustände, analog zu den Zuständen „An“ und „Aus“, einnehmen können. Die Molekulare Logik ist somit eng verknüpft mit der Entwicklung und Anwendung molekularer Schalter, also einer Verbindungsklasse, die diese Voraussetzungen vollends erfüllt.
+ Eine viel beforschte Subtanzklasse der molekularen Schalter sind die Spiropyrane. Dazu gehört u.a. die photochrome Verbindung 1‘,3‘,3‘-Trimethyl-6-nitrospiro[chromen-2,2‘-indolin] (vereinfacht als Spiropyran bezeichnet). Die Verbindung kann in zwei isomeren Formen vorliegen, dem farblosen Spiropyran und dem weniger stabilen farbigen Merocyanin. Das Isomer Merocyanin kann in Anwesenheit starker Protonendonatoren in eine protonierte MEH+-Form mit anderen photochromen Eigenschaften überführt werden. Aufgrund einfacher Synthese¬routen bzw. käuflicher Verfügbarkeit, guter Löslichkeit in einer Vielzahl organischer Lösemittel, hoher chemischer Stabilität und vor allem dank ihren photochemischen Eigenschaften eignet sie sich hervorragend als Modellsubstanz für die universitäre Lehre und den Schulunterricht.
+ Das Hauptziel dieser Arbeit war die Entwicklung didaktisch prägnanter und wissenschaftlich konsistenter Experimente mit Spiropyran zur Einführung der molekularen Logik in den Chemieunterricht und in die universitäre Lehre. Zur Erreichung dieses Ziels wurden ausführliche photometrische Untersuchungen mit Spiropyran in Lösung und Feststoffmatrix durchgeführt.
+ Die bei der photometrischen Untersuchung von Spiropyran in verschiedenen Lösemitteln gewonnen Erkenntnisse zum photochromen und thermischen Verhalten der beiden Merocyanin-Spezies ME und MEH+ konnten zur erfolgreichen Konzeption und Umsetzung jeweils (min.) eines aussagekräftigen Beispiels zu allen gängigen Gatter-Varianten (inkl. einer NAND-Verknüpfung mit Fluorescein, mit Ausnahme eines Volladdierers) genutzt werden. Jedes Gatter ist so konzipiert, dass (i) mit schultauglichen Chemikalien experimentiert werden kann, (ii) kostengünstiges Experimentiermaterial verwendet werden kann, (iii) die Änderung des Ausgangssignals mit dem Auge verfolgt werden kann und (iv) die Komponente Licht einen wichtigen Bestandteil darstellt.
+ Das sekundäre Ziel dieser Arbeit war die Entwicklung neuer interaktiver eLearning Module zur Veranschaulichung von strukturellen und mechanistischen Grundlagen in Molekülen bzw. bei Reaktionen, insbesondere mit dem molekularen Schalter Spiropyran/Merocyanin. Dieses Ziel wurde mit der Einbindung mehrerer eLearning-Module in die eLearning-Plattform scheLM (spezielle chemische eLearning Module) der Heinrich-Heine-Universität Düsseldorf erreicht.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20190221-103039-6</identifier>
+                    <identifier type="sys">HT019991057</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9160</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9160">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2019/spinnen/dc1901.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9160"
+            DMDID="DMD_wuppertal_elpub_9160">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9160"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

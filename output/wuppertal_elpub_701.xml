@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_701">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Opportunity Recognition as Creative Thinking</title>
+                        <subTitle>Theoretical Considerations and Empirical Results on Cognitive Styles and Abilities in Discovering Entrepreneurial Opportunities</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Braun, Reiner</displayForm>
+                        <namePart type="family">Braun</namePart>
+                        <namePart type="given">Reiner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-10-11</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Dissertation widmet sich dem Phänomen der Wahrnehmung unternehmerischer Gelegenheiten aus kognitionspsychologischer Perspektive und reiht sich damit in eine Strömung der Entrepreneurship-Forschung ein, die häufig als &quot;entrepreneurial cognition research&quot; bezeichnet wird. Konkret widmet sich die Arbeit der Frage, ob bestimmte Präferenzen und Fähigkeiten individueller Informationsverarbeitung einen Einfluss auf die Fähigkeit zur Wahrnehmung unternehmerischer Gelegenheiten (&quot;opportunity recognition&quot;) haben.
+ Einleitend werden die generellen Grundlagen ökonomischen Handelns und die Schaffung von Neuheit in wirtschaftlichen Systemen durch das subjektive Element ökonomischer Agenten beleuchtet. Diese Prinzipien werden dann in ein theoretisches Handlungsmodell überführt, welches auf einem relativistischen Weltbild fußt und die Grundlage zur Modellierung der Wahrnehmung unternehmerischer Gelegenheiten (der opportunity recognition) als Informationsverarbeitungsprozess bildet. Eine kognitionspsychologische Perspektive auf das Phänomen Entrepreneurship ist nicht neu, weshalb die zentralen Strömungen und Arbeiten des Forschungsgebietes kurz diskutiert werden. Unter anderem werden einzelne kognitive Prozesse in der Wahrnehmung unternehmerischer Gelegenheiten detailliert dargelegt und aufgezeigt, dass die generelle kognitionspsychologische Forschung Hinweise auf bestimmte kognitive Präferenzen und Stile liefert, die einen signifikanten Einfluss in dieser Phase des unternehmerischen Prozesses nehmen könnten. Zudem wird herausgearbeitet, dass auch die individuelle Fähigkeit der gedanklichen Kombination und Reorganisation eine Wirkung auf die Wahrnehmung unternehmerischer Gelegenheiten hat.
+ Die entwickelten Hypothesen bezüglich des Einflusses bestimmter Präferenzen und Fähigkeiten individueller Informationsverarbeitung auf die Fähigkeit zur Wahrnehmung unternehmerischer Gelegenheiten werden dann mittels Kausalanalyse untersucht. Grundlage ist eine Befragung von 115 Studierenden in der kognitive Präferenzen und Fähigkeiten sowie die Fähigkeit zur Wahrnehmung unternehmerischer Gelegenheiten abgefragt wurden. Die Untersuchung zeigt, dass sich sowohl die Ausrichtung auf Ziele in den Phasen der Problemkonstruktion und Informationsenkodierung (promotion style des regulatorischen Fokus) als auch die Fähigkeit zur gedanklichen Kombination und Reorganisation bestehender Wissensstrukturen positiv auf die Fähigkeit der Wahrnehmung unternehmerischer Gelegenheiten auswirkt. Diese Ergebnisse werden dann im Hinblick auf ihre Implikationen für die Entrepreneurship-Forschung und die Entrepreneurship Education interpretiert.</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20070828</identifier>
+                    <identifier type="sys">HT015375792</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_701</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_701">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2007/braun/db0701.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_701"
+            DMDID="DMD_wuppertal_elpub_701">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_701"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_7060">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>High-Order Methods for Parabolic Equations in Multiple Space Dimensions for Option Pricing Problems</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hendricks, Christian</displayForm>
+                        <namePart type="family">Hendricks</namePart>
+                        <namePart type="given">Christian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The pricing of derivatives plays an important role in modern financial markets. The fair value of an option can be computed by solving the corresponding partial differential equation (PDE). In financial engineering these PDEs are in general of convection-diffusion type and are usually multidimensional. Apart from certain exceptions no analytical solution is available and numerical techniques have to be applied. 
+
+In this thesis we derive efficient numerical techniques to solve PDEs arising in computational finance. The work is divided into five main parts. In the first section we give a brief introduction to financial option pricing problems. Here, we formulate the PDEs to price European plain vanilla options within the Black-Scholes framework and under stochastic volatility. Further, we briefly discuss various numerical techniques to compute the option price. 
+
+In the second section grid based methods to approximate the spatial differential operator are presented. Besides standard and high order compact finite differences, we employ pseudo spectral methods. Since grid based methods suffer from the so called &apos;curse of dimensionality&apos;, we employ the sparse grid combination technique to reduce the number of grid points. The combination technique relies on a certain anisotropic error splitting structure. This motivates our analysis of the splitting structure of finite difference and pseudo spectral schemes. The theoretical investigation of the properties of both approaches is followed by illustrating numerical experiments. 
+
+Afterwards we employ Alternating Direction Implicit (ADI) time stepping methods. Four prominent schemes are considered: Douglas, Craig-Sneyd, modified Craig-Sneyd and the Hundsdorfer-Verwer scheme. ADI schemes allow to decompose the spatial discretization matrix into one dimensional problems, which can be solved sequentially. In the case of a high-order compact (HOC) discretization in space we prove bounds for unconditional stability. In the case of pseudo spectral schemes we perform a thorough numerical analysis. 
+
+In the fourth section the numerical techniques are applied to PDEs arising in computational finance. We compose different numerical techniques tailored to the regularity of the problem, which makes the schemes especially efficient. In numerical experiments we compare the novel methods to benchmark methods and additionally validate their theoretical properties. 
+
+In the last part we summarize the results. Further, we give a concise outlook about possible future research directions.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170704-143448-0</identifier>
+                    <identifier type="sys">HT019394916</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_7060</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_7060">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2016/hendricks/dc1642.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_7060"
+            DMDID="DMD_wuppertal_elpub_7060">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_7060"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

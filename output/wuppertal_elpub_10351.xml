@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_10351">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>A </nonSort>
+                        <title>lattice QCD study of nucleon structure with physical quark masses</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hasan, Nesreen</displayForm>
+                        <namePart type="family">Hasan</namePart>
+                        <namePart type="given">Nesreen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-03-09</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In this work, we compute various nucleon structure observables using the lattice regularization of quantum chromodynamics, lattice QCD. Our calculations are performed using 2 + 1-flavor ensembles with clover-improved Wilson fermions and cover three sets of observables:
+ The first set includes the computation of nucleon isovector axial, scalar, and tensor charges. In particular, we focus on controlling the unwanted contributions from excited states. Those charges quantify the coupling of nucleons to quark-level interactions and play an important role in the analysis of the Standard Model and Beyond the Standard Model (BSM) physics.
+ The second set of observables includes the nucleon charge and axial radii measured using a new and model-independent approach. We developed this approach to enable the computation of the nucleon radii directly at zero momentum transfer and avoid the systematic uncertainty originating from the large extrapolation commonly included in the conventional methods used for measuring quantities like the nucleon charge radius. Systematic errors of this kind have been proposed as a possible explanation of the radius puzzle which refers to the &gt; 5σ discrepancy between the experimental electronic and muonic determinations of the charge radius of the proton.
+ We perform the calculations of the nucleon charges and radii on two gauge ensembles at the physical pion mass and with different lattice spacings.
+ The last set of our calculation is devoted to measuring the nucleon axial form factors. This calculation includes both quark-connected and -disconnected diagrams, which allows us to determine the up, down, and strange form factors. This calculation is done using a single ensemble with pion mass 317 MeV.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20200305-121945-5</identifier>
+                    <identifier type="doi">10.25926/19rj-ej28</identifier>
+                    <identifier type="sys">HT020399078</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_10351</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_10351">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2019/hasan/dc1949.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_10351"
+            DMDID="DMD_wuppertal_elpub_10351">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_10351"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

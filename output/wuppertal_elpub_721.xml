@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_721">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Ionic, Water-Soluble Polyflorene-Type Copolymers</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Pradhan, Swapna</displayForm>
+                        <namePart type="family">Pradhan</namePart>
+                        <namePart type="given">Swapna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004-11-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The aim of the present work &quot;Ionic, Water-Soluble Polyfluorene-Type Copolymers&quot; was, a) to synthesize water soluble semiconducting polymers, b) to investigate the effect of surfactant on the aqueous polymer solutions, and c) to check applications in optical, electronic &amp; optoelectronic devices. 
+Water-soluble conjugated polymers are of particular interest as fluorescent components in sensors both for chemical and biological analysis as well as for OLEDs which are built in a layer-by-layer self assembly approach. Solubility in water is essential for interrogating biological substrates and this can be achieved by introducing neutral or charged hydrophilic functionalities to the terminal position of the polyfluorene backbone. 
+In case of anionic polyelectrolytes, the water solubility was achieved by functionalizing the side chain by attaching sulfonate group. While in case of cationic polyelectrolytes, water solubility was achieved by functionalizing the side chain by attaching ammonium groups. Anionic water-soluble copolymers were synthesized in four steps. 
+Solutions of the anionic water-soluble copolymer, poly[9,9-bis(4-sulfonylbutoxy-phenyl)fluorene-co-1,4-phenylene] in water were turbid (low PL efficiency). Addition of surfactants leads to a clear solution (PL efficiency increases to ~100%). The surfactant used in our study was C12E₅ (n-dodecylpentaoxyethylene glycol ether) as a non-ionic surfactant. There is a dramatic increase in the fluorescence quantum yield of the above copolymer on incorporation into C12E₅ micelles and this can be important for sensor applications. Efforts are being made to check the applications of this copolymer in polymer LEDs. 
+Other anionic water-soluble copolymers with biphenyl, thienylene and bithiophene spacer groups were synthesized by Suzuki or Stille-type cross-coupling reactions. 
+Cationic, water-soluble copolymers were synthesized using the procedure developed by Bazan et. al, who used related oligomers and polymers for DNA sensing. The synthesis involves four steps with a Suzuki-type cross-coupling reaction in the key step towards a non-ionic precursor polymer. 
+Studies of a polyelectrolyte-surfactant system, poly{9,9-bis[6-(N,N-trimethyl-ammo-nium)hexyl]fluorene-co-1,4-phenylene} /C12E5 have been done. Other cationic, water-soluble copolymers with thienylene and bithiophene spacer units have been also synthesized. 
+The purification of the water soluble polyelectrolytes was done by dialysis with water using a dialysis membrane with a cutoff of 3,500 gmol-1.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20040539</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_721</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_721">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-817/dc0413.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_721"
+            DMDID="DMD_wuppertal_elpub_721">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_721"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

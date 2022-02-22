@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_874">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Development of the MCM-D Technique for Pixel Detector Modules</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Grah, Christian</displayForm>
+                        <namePart type="family">Grah</namePart>
+                        <namePart type="given">Christian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005-09-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Diese Dissertation behandelt eine Kupfer-Polymer basierte Dünnfilmtechnologie, die MCM-D Technik, und Ihre Anwendung zum Aufbau von hybriden Pixeldetektor Modulen.
+ Das ATLAS Experiment am LHC wird über ein Pixeldetektorsystem verfügen. Die kleinste mechanische Einheit des Pixeldetektors sind Multichipmodule. Die wichtigsten Komponenten dieser Module sind 16 Elektronikchips, ein Kontrollchip und ein Sensor, der über mehr als 46000 Pixelzellen verfügt. MCM-D ist eine verbesserte Technologie um das notwendigen Signalbussystem und das Stromversorgungssystem direkt auf den Sensor aufzubauen. In Zusammenarbeit mit dem Fraunhofer Institut für Zuverlässigkeit und Mikrointegration, IZM, wurde der Dünnfilmprozess überprüft und weiterentwickelt. Das Vielschichtsystem wurde entworfen und sowohl für das Verbindungssystem als auch für die mehr als 46000 Pixelkontakte optimiert.
+ Labormessungen an Prototypen haben gezeigt, dass ein komplexes Verbindungsschema für geometrieoptimierte Einzelchips durchführbar ist und vernachlässigbaren Einfluss auf die Leistungsfähigkeit der Auslesechips hat. Ein vollständiges Modul wurde gebaut; und es wurde nachgewiesen, dass sich die Technologie eignet um Pixeldetektormodule zu bauen. Weitere Tests beinhalten u.a. die Untersuchung des Einflusses von hadronischer Bestrahlung auf die Dünnfilmlagen. Einzelchipaufbauten wurden auch in einer Teststrahlumgebung betrieben und die Umsetzbarkeit der Sensoroptimierung konnte gezeigt werden. Es wird ein Überblick über das Potential und die Perspektive der MCM-D Technologie in zukünftigen Experimenten gegeben.</abstract>
+                    <abstract type="content" lang="eng">This thesis treats a copper--polymer based thin film technology, the MCM-D technique and its application when building hybrid pixel detector modules.
+ The ATLAS experiment at the LHC will be equipped with a pixel detector system. The basic mechanical units of the pixel detector are multi chip modules. The main components of these modules are: 16 electronic chips, a controller chip and a large sensor tile, featuring more than 46000 sensor cells. MCM-D is a superior technique to build the necessary signal bus system and the power distribution system directly on the active sensor tile.
+ In collaboration with the Fraunhofer Institute for Reliability and Microintegration, IZM, the thin film process is reviewed and enhanced. The multi layer system was designed and optimized for the interconnection system as well as for the 46000 pixel contacts. Laboratory measurements on prototypes prove that complex routing schemes for geometrically optimized single chips are suitable and have negligible influence on the front--end chips performance. A full scale MCM-D module has been built and it is shown that the technology is suitable to build pixel detector modules. Further tests include the investigation of the impact of hadronic irradiation on the thin film layers. Single chip assemblies have been operated in a test beam environment and the feasibility of the optimization of the sensors could be shown. A review on the potential as well as the perspective for the MCM-D technique in future experiments is given.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20050296</identifier>
+                    <identifier type="sys">HT014495442</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_874</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_874">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2005/grah/dc0509.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_874"
+            DMDID="DMD_wuppertal_elpub_874">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_874"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5950">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Gasdiffusionsbarrieren für die organische Optoelektronik - Prozesstechnologie und physikalische Eigenschaften</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Behrendt, Andreas</displayForm>
+                        <namePart type="family">Behrendt</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Mit der organischen Elektronik sind flexible optoelektronische Bauelemente in neuartigen Anwendungen möglich. Allerdings ist die Sensitivität einiger Komponenten gegenüber atmosphärischen Einflüssen wie H₂O und O₂ und eine damit einhergehende geringe Langzeitstabilität kritisch. Aus diesem Grund sind Gasdiffusionsbarrieren mit einer niedrigen Wasserdampftransmissionsrate in der Größenordnung von 10 -6 g/(m² Tag) für organische Leuchtdioden (OLEDs) notwendig. Mit Hilfe der Atomlagenabscheidung können herausragende Gasdiffusionsbarrieren in Form von dünnen Nanolaminaten (z.B. Multilagen aus Al₂O₃ und ZrO₂) realisiert werden. Dabei ist neben einer niedrigen intrinsischen Wasserdampftransmissionsrate die zuverlässige Verkapselung statistisch auftretender Partikel eine der größten Herausforderungen, da anderenfalls die effektive Wasserdampftransmissionsrate um Größenordnungen ansteigen kann. In dieser Arbeit werden Nanolaminate auf Basis von Al₂O3 und TiO₂ für den Einsatz als Gasdiffusionsbarriere untersucht. Zur effektiven Verkapselung von Störstellen sind dabei Schichtdicken notwendig, die aufgrund mechanischer Zugverspannungen zum Aufreißen und einer vollständigen Delamination der OLED-Stapel führen können. Unter Beachtung von Membrankräften wird analysiert, wie eine Kombination der Nanolaminat-Barrieren mit kompressiv-verspannten SiNₓ bzw. Metallschichten zur Kompensation mechanischer Verspannungen führt. Dies ermöglicht den stabilen Einsatz von OLEDs auch unter hohen atmosphärischen Bedingungen von 85 °C und 85 %rF. Ebenso werden transparente leitfähige Gasdiffusionsbarrieren (TCGDBs) auf Basis von SnOₓ untersucht. Im Vergleich zu ZnO gewährleisten TCGDBs aus SnOₓ das erste Mal eine auch langfristig stabile Leitfähigkeit und eine, in Abhängigkeit der Herstellungsparameter, niedrige Wasserdampftransmissionsrate in der Größenordnung von 10-6 g/(m2 Tag). Abschließend werden interessante Anwendungen wie die Verkapselung und elektrische Kontaktierung von sensitiven Materialien als auch der Ersatz von Indiumzinnoxid (ITO) in optoelektronischen Bauelementen diskutiert. Hier ermöglicht die Kombination von SnOₓ mit Nanodrähten oder dünnen Metallfilmen (z.B. Silber) transparente Elektroden, die sowohl in OLEDs als auch in organischen (semitransparenten) Solarzellen eingesetzt werden können.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20160704-101242-9</identifier>
+                    <identifier type="sys">HT019022050</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5950</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5950">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2016/behrendt/de1606.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5950"
+            DMDID="DMD_wuppertal_elpub_5950">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5950"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

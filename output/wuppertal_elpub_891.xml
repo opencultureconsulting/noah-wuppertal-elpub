@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_891">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchung der Thermodynamik eindimensionaler Quantensysteme mittels Transfermatrix-Renormierungsgruppe</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Glocke, Stefan Michael</displayForm>
+                        <namePart type="family">Glocke</namePart>
+                        <namePart type="given">Stefan Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-12-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In der vorliegenden Arbeit werden thermodynamische Eigenschaften eindimensionaler Quantensysteme untersucht. Dabei werden erstmals physikalische Größen von &quot;gestaggerten&quot; antiferromagnetischen Spin-1/2-Heisenberg-Ketten quasi näherungsfrei berechnet. Außerdem wird erstmals die Existenz der BOW-Phase beim erweiterten Hubbard-Modell (EHM) mit der TMRG-Methode untersucht. Um die betrachteten eindimensionalen quantenmechanischen Modelle numerisch untersuchen zu können, werden sie mittels einer Trotter-Suzuki-Abbildung auf ein geeignetes zweidimensionales klassisches System abgebildet. Eine Variante der Dichtematrix-Renormierungsgruppe, die sog. Transfermatrix-Renormierungsgruppe (TMRG), erlaubt es dann, physikalische Eigenschaften bei endlichen Temperaturen im thermodynamischen Limes exakt zu berechnen. Mit der TMRG-Methode werden zwei eindimensionale Quantenmagnete, Kupfer-Pyrimidin-Dinitrat und Kupfer-Benzoat, untersucht. Diese Materialien verhalten sich wie eindimensionale &quot;gestaggerte&quot; antiferromagnetische Spin-1/2 Heisenberg-Ketten. Physikalische Eigenschaften, wie z.B. die Magnetisierung, die experimentell bekannt sind, können numerisch mit höchster Genauigkeit bestimmt werden. Für eine dritte Substanz, Vanadyl-Diphosphat, können erstmals Phänomene, die sich auf zwei Temperaturskalen abspielen, vollständig quantitativ verstanden werden. Es wird z.B. die Entropie für eine schwach dimerisierte Spin-1/2 Heisenberg-Kette bestimmt. Mittels einer verallgemeinerten Grüneisen-Skalierung können damit die Ausdehnungskoeffizienten von Vanadyl-Diphosphat über den gesamten Temperaturbereich erklärt werden. Zusätzliche höherdimensionale Kopplungen, die in der Literatur zur Erklärung der Phänomene bemüht werden, konnten somit ausgeschlossen werden. Außerdem wird die Thermodynamik des halbgefüllten EHM untersucht, da dessen Phasendiagramm seit einigen Jahren kontrovers in der Literatur diskutiert wird. Eine präzise numerische Berechnung thermodynamischer Größen wie der isothermen Kompressibilität und der magnetischen Suszeptibilität mittels der TMRG-Methode ermöglicht die Bestimmung der Phasenübergänge. Weiterhin kann die Existenz einer Phase mit langreichweitiger Dimer-Ordnung (BOW-Phase) gezeigt werden, indem verschiedene Korrelationsfunktionen betrachtet werden. Damit ist das gesamte Phasendiagramm des EHM bestimmt.</abstract>
+                    <abstract type="content" lang="eng">In this thesis thermodynamic properties of one-dimensional quantum systems are investigated. For the first time physical properties of staggered antiferromagnetic spin-1/2 Heisenberg chains are calculated practically without approximations. Furthermore the existence of a BOW phase in the extended Hubbard model (EHM) is shown within the TMRG method. For this study, the one-dimensional quantum systems are mapped by Trotter-Suzuki decompositions onto suitable two-dimensional classical systems. To investigate physical properties exactly in the thermodynamical limit at finite temperatures, a variant of the density-matrix-renormalization group, the so-called transfer-matrix-renormalization group (TMRG), is used. By applying this method, the one-dimensional quantum magnets copper pyrimidine dinitrate and copper benzoate are studied. Both materials behave like one-dimensional staggered antiferromagnetic spin-1/2 Heisenberg chains. Physical properties like the magnetization, which are known experimentally, are calculated with high accuracy. For a third substance, vanadyl pyrophosphate, phenomena happening on two temperature scales can be described completely and quantitatively for the first time. The entropy of weakly dimerized spin-1/2 Heisenberg chains is calculated for determining the expansion coefficients of vanadyl pyrophosphate for all temperatures by using a generalized Grüneisen-scaling. Additional higher dimensional couplings as discussed in the literature can be excluded. Furthermore thermodynamic properties of the half filled extended Hubbard model (EHM) are analyzed, because the phase diagram has been a matter of debate for several years. Various phase transitions in this system can be detected by calculating usual thermodynamic quantities such as the isothermal compressibility and the uniform magnetic susceptibility. By studying several correlation functions, the existence of a phase with long-range dimer order (BOW phase) is shown. Thus the whole phase diagram of EHM is determined.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20070939</identifier>
+                    <identifier type="sys">HT015392940</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_891</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_891">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2007/glocke/dc0718.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_891"
+            DMDID="DMD_wuppertal_elpub_891">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_891"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

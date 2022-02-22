@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_589">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Hochfrequenzresonatoren und -filter aus Hochtemperatur-Supraleitern (HTSL) für Anwendungen mit hoher Mikrowellenleistung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Baumfalk, Arno</displayForm>
+                        <namePart type="family">Baumfalk</namePart>
+                        <namePart type="given">Arno</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2000-07-13</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Epitaktische Dünnfilme aus Hochtemperatur-Supraleitern (HTSL) bieten aufgrund äußerst geringer Mikrowellen-Verluste neue Möglichkeiten bei der Realisierung von Hochfrequenz-Komponenten. Rotationssymmetrische HTSL-Scheiben- und Ringresonatoren wurden entwickelt, welche in einer speziellen kantenstromfreien Mode (TM010) betrieben werden. Diese Resonatoren zeichnen sich gegenüber anderen planaren HTSL-Strukturen gleicher Baugröße durch eine um den Faktor 100 höhere Leistungstauglichkeit aus. Bei einer Temperatur von 77 K wurde eine unbelastete Güte von 100.000 erreicht. Zum Einsatz in C-Band Satelliten-Ausgangsmultiplexern wurden vierkreisige quasielliptische Filter mit einer relativen Bandbreite von 1 % entwickelt, die gegenüber Filtern in Hohlleitertechnologie eine deutliche Massereduktion und Miniaturisierung ermöglichen. Dabei wurden die notwendigen Maßnahmen zur Kontrolle bzw. Unterdrückung störender Moden implementiert. Die nachgewiesene Leistungsbelastbarkeit dieser Filter beträgt 100 W.</abstract>
+                    <abstract type="content" lang="eng">Epitaxially grown thin-films made from high-temperature superconducting materials (HTS) are known to show very low conductive losses. This fact offers a new potential for realization of microwave components. Rotational-symmetric HTS-disk- and ring-resonators were developed operating in a unique edge-current-free mode (TM010). Compared to planar HTS-components of similar size these resonators show a 100-times higher power-handling capability. At liquid nitrogen temperatures (77 K) an unloaded quality factor of 100.000 was achieved. Four-pole, quasielliptic filters of 1 % relative bandwidth for C-band output-multiplexers were developed based on this concept. Compared to waveguide-filters a significant reduction of mass and size is possible with this approach. Frequency control and suppression of unwanted modes was necessary and thus implemented. The power-handling capability of the filters exceeded 100 W.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20000303</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_589</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_589">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-685/d130001.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_589"
+            DMDID="DMD_wuppertal_elpub_589">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_589"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

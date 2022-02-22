@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6280">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>A </nonSort>
+                        <title>Matter of Context – a Multilevel Study on the Effects of Social Context on Innovation and Entrepreneurship</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schmutzler de Uribe, Jana</displayForm>
+                        <namePart type="family">Schmutzler de Uribe</namePart>
+                        <namePart type="given">Jana</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Since the days of Schumpeter, the importance of entrepreneurship and innovation for economic development has been highlighted by economists. As a result, policy makers are increasingly interested on how entrepreneurship and innovation can be fostered. Therefore, furthering the understanding of these two phenomena is important. This thesis tries to contribute to a lively academic discussion by aiming to advance knowledge about the role individual/firm-level characters (i.e. enabler and barriers) and institutional variables simultaneously play in influencing innovation and entrepreneurship. 
+
+ Recent research has highlighted the systemic characteristics of innovation and entrepreneurship where the institutional context plays an equally important role as the firm or the individual. One particular stream of research has explored the role of social capital. Despite being one of the most allusive and greatly discussed theoretical concepts, the internal and social coherence of a society is increasingly been recognized as an important factor in influencing economic behavior. This dissertation focuses on specific variables related to the structural and relational dimensions of social capital and evaluates how these influence innovation and entrepreneurship in combination with characteristics of the firm or the individual. The regional focus mainly lies on developing countries; an often overlooked yet interesting context for this study. Characterized by underdeveloped, highly volatile and unreliable formal institutions, individuals and enterprises are said to rely to a greater extent on personal ties in these countries. Social capital, therefore, may play an especially important role for economic behavior in this context. 
+
+ While the introduction provides a general overview on why contextual variables in combination with firm- or individual level variables should be considered when trying to understand innovation processes and entrepreneurial behavior, each of the four subsequent chapters addresses a specific aspect of such a relationship. Chapter 2, in particular, argues that general trust at the regional level influences a particular innovation strategy of firms: the use of external information sources. Using data from the Colombian National Innovation Survey and the Colombian Social Capital Barometer, firm-level variables as well as the regional level of general trust are analyzed by means of multi-level analysis. Differentiating between two types of external information sources – explorative and exploitive – the results show that the decision to use external information sources for the innovation process are determined by regional trust as well as factors at the firm-level, even though the effect of these variables changes according to the type of external information sources considered. 
+
+ Chapter 3 focuses on a different aspect of social capital. It evaluates how localized civic engagement through active memberships in civil associations affect a firm’s ability to generate product innovations, focusing on the question whether external information sources at the firm level interact in their effect with this type of social capital at the regional level. Relying on the same dataset as in the previous chapter and a multi-level design, no empirical evidence of a direct effect of civic engagement on the firms’ innovation performance is found. However, differentiating between active memberships in Olson- and Putnam-type civil associations, the results provide evidence that the effectiveness of relying on external information sources for the generation of product innovations is contingent upon the region’s civic engagement. Chapter 4 examines the effect regional tolerance has on the innovation performance of firms in regions of 7 Latin American countries. The empirical analysis, which relies on data from the World Bank Enterprise Survey and the World Value Survey and uses a multi-level design, shows that regional differences in tolerance matter for product innovation. Moreover, the results indicate that firms being located in highly tolerant regions increase their chances to benefit from agglomeration economies that characterize large urban agglomeration. 
+
+ While Chapter 2 through 4 focus on the effect context has in combination with firm-level variables on firm’s innovation strategies and innovation output, Chapter 5 focuses on entrepreneurship and investigates how the proximate and distal socio-cultural environments affect the well-established relationship between entrepreneurial self-efficacy and entrepreneurial intentions. One can observe that for individuals who possess entrepreneurial self-efficacy the positive effect of being exposed to entrepreneurial role models as a driver of entrepreneurial intentions is weaker than for individuals who do not belief to be able to successfully launch a business venture. This effect is contingent on the individualistic-collectivistic character of the national culture. The above-mentioned findings of this dissertation highlight the importance context plays for innovation processes and entrepreneurial behavior. More specifically, it demonstrates that it is often the interplay between contextual variables and variables at the micro-level which help us to further understand two of the most important drivers of economic development.</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20161107-143935-7</identifier>
+                    <identifier type="sys">HT019149347</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6280</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6280">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2016/schmutzler/db1603.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6280"
+            DMDID="DMD_wuppertal_elpub_6280">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6280"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

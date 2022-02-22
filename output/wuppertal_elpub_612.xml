@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_612">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Microanalyses of Ferroelectric Properties of BaTiO₃</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Liu, Xiao Xia</displayForm>
+                        <namePart type="family">Liu</namePart>
+                        <namePart type="given">Xiao Xia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-08-15</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Ferroelektrische Werkstoffe, wie z. B. Bariumtitanat, erschließen aufgrund ihrer Polarisationseigenschaften bei der Entwicklung von neuen mikroelektronischen Bauelementen immer weitere Anwendungsgebiete in der Halbleiterindustrie. Vom besonderen Interesse sind vor allem die sogenannten ferroelektrischen Domänen an der Oberfläche in der letzten Zeit. Um diese Domänenstrukturen zu charakterisieren, wurden eine Vielzahl von zerstörungsfreien Nahfeldanalysemethoden entwickelt. Diese Verfahren erlauben jedoch keinen direkten Vergleich im Mikro- und Nanometerbereich an der gleichen Probenstelle. Ebenso konnten bislang keine einheitlichen theoretischen Modelle sowohl für die zugrunde liegende Signalgeneration dieser Meßtechniken als auch für die Verteilung der Domänstrukturen an bzw. unter der Oberfläche entwickelt werden.
+ Im Rahmen diese Arbeit werden basierend auf der SPM (Scanning Probe Microscopy) zerstörungsfreie Meßmethoden vorgestellt, die eine Analyse sowohl der piezo- als auch der ferroelektrischen Eigenschaften mit höchster Ortsauflösung erlauben. Diese sogenannten rasternahfeldakustischen Untersuchungen werden mit komplementären SEAM (Scanning Electron Acoustic Microscopy) Analysen verglichen. Exemplarisch werden Ergebnisse von BaTiO₃-Einkristallen und -Keramiken gezeigt und diskutiert. Die Signalgenerationen dieser Meßtechniken werden anhand des Begriffs &quot;Nahfeld&quot; einheitlich erklärt.</abstract>
+                    <abstract type="content" lang="eng">Ferroelectric materials, such as Bariumtitanate, always open new application areas for the development of new microelectronic devices in semiconductor industry because of their polarization properties. The so-called surface domain structures are especially paid attention in the recent years. To characterize these domain structures, a great number of nondestructive near-field methods have been developed. But these methods allow no direct nondestructive comparison of the contrast on the same sample position in micrometer and nanometer range. Nor can a consistent basic theoretical model be developed for the explanation of both signal contrasts of these techniques and the distribution of domains beneath the surface up to now.
+ In this work, nondestructive techniques based on SPM, (Scanning Probe Microscopy) will be introduced, which allow analyses of both ferroelectric and piezoelectric properties with the highest resolution. These so-called scanning near-field study will be further compared to the study of SEAM (Scanning Electron Acoustic Microscopy) complementarily. The results of BaTiO3 single crystal and ceramics will be shown and discussed as examples. The signal contrast of both techniques will be explained by the use of the concept of &quot;near-field&quot; consistently.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20010467</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_612</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_612">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-708/d130103.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_612"
+            DMDID="DMD_wuppertal_elpub_612">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_612"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_283">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Feldinduzierte Elektronenemission von Diamantschichten und Kohlenstoff-Nanostrukturen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Göhl, Achim</displayForm>
+                        <namePart type="family">Göhl</namePart>
+                        <namePart type="given">Achim</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-01-05</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">For Field Emission Displays (FEDs) and other vacuum microlelectronics applications, arrays of electron sources are required, which deliver electron currents via field-induced electron emission (FEE). Commercially available arrays of Mo- or Si-microtips emit strongly and nearly uniform but are unstable due to the sensible structures. Therefore a coating of the microtips with hard diamond-like materials is under investigation. Another approach is the development of cost-effective, stable, strong, and uniform emitting flat cathode materials, e.g. on the basis of diamond films or carbon nanotubes (CNTs). In this work, the FEE of local, µm-sized spots of dielectric diamond films, nanocrystalline diamond coatings on flat substrates and tip arrays, and CNTs were investigated by means of a field emission scanning microscope (FESM). For these analyses, the FESM was equipped with a new scanning mode, improving the lateral resolution by a factor of 20 to 100 nm. Highly reproducible measurements at different temperatures, for both polarities, and in anode-cathode contact as well as in non-contact were performed on nominally undoped, dielectric and heated (300°C, 30 min) chemical vapour deposited diamond films of several µm in thickness. FEE occurs over the entire surface of diamond grains on a scale of 100 nm. For vacuum fields between 250 V/µm and 700 V/µm and corresponding local current densities of 0.5 mA/cm² to 500 mA/cm², the FEE is limited by the Poole-Frenkel bulk conduction mechanism, i.e. the electron transport occurs by a thermally assisted electron hopping through traps. Neither the injection of electrons at the substrate-diamond interface nor the extraction at the diamond-vacuum interface is limiting the FEE. An energetic gap between the traps and the conduction band minimum WTr-CB of 0.62 eV as well as a trap density of about 5·1018/cm³ were derived. It was calculated, that diamond films with traps and WTr-CB≤0.4 eV would be suitable for applications at low onset field Eon(5 nA) &lt; 10 V/µm. Electrophoretically deposited nanocrystalline diamond on Si tips of 100 µm in height, apex radius of 20 nm and a density of 3900/mm² showed an onset field strength Eon(5nA) of 4.5 V/µm and a maximum reproducible current density jMax of 1.9 mA/mm² over mm²-sized areas. Due to their good uniformity with 40 % significantly emitting tips, such arrays are suitable for FED applications. Electrophoretically deposited nanocrystalline diamond on a flat silicon substrate showed an Eon of 203 V/µm and local jMax of 150 mA/mm². The Eon of chemical vapor deposited nanocrystalline diamond in a graphitic matrix was 55 V/µm and jMax was 5 mA/mm². Only a small number of spots contributed significantly to the FEE of mm²-sized areas of both nanocrystalline coatings, thus providing insufficient uniformity for applications yet. Free-standing carbon nanotubes of 10-20 µm in height and of about 40 nm in diameter emitted strongly at Eon &gt; 8.6 V/µm and showed a local jMax of 2 mA/mm². Due to their non-uniform length and non-uniform alignment, only a small number of spots emitted significantly over mm²-sized areas. More stable emission up to jMax = 10 mA/mm² was measured from CNTs, which were embedded in a diamond-like matrix. This approach seems to be necessary for FED-applications.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20010047</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_283</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_283">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-377/d080002.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_283"
+            DMDID="DMD_wuppertal_elpub_283">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_283"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

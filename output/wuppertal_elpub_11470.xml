@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_11470">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>showrooming phenomenon – Threat, opportunity or challenge in multi-channel retailing?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schneider, Patricia Jennifer</displayForm>
+                        <namePart type="family">Schneider</namePart>
+                        <namePart type="given">Patricia Jennifer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Zielke, Stephan</displayForm>
+                        <namePart type="family">Zielke</namePart>
+                        <namePart type="given">Stephan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-03-25</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Showrooming beschreibt die Verhaltensweise von Kunden, sich in einem stationären Geschäft über Produkte zu informieren und diese dann anschließend online zu kaufen. Dieses Verhaltensphänomen wird für den stationären Einzelhandel als existentielle Bedrohung wahrgenommen, da mit dem Kanalwechsel zumeist auch ein Händlerwechsel verbunden wird (kompetitives Showrooming). Die vorliegende Dissertation geht der Frage nach, wie stationäre Einzelhändler dem Showrooming-Phänomen erfolgreich begegnen können oder möglicherweise sogar von Showrooming betreibenden Kunden profitieren können. Ein wesentlicher Schritt zur Beantwortung der Frage besteht in der Identifikation verschiedener Formen von Showrooming sowie in der Entwicklung einer neuen Showrooming-Konzeptualisierung, die die Online-Suche während oder nach Verlassen des Geschäfts in den Mittelpunkt der Betrachtung rückt. Diese kann sowohl Produkt- als auch Preisinformationen umfassen. Die Online-Suche stellt eine Voraussetzung für den Online-Kauf beim Showrooming dar, muss aber nicht zwangsläufig zu eben jenem führen. In drei aufeinander aufbauenden Forschungsprojekten bestehend aus qualitativen Studien, experimentellen Online-Befragungen sowie einem Laborexperiment wird jeweils ein Bestandteil des Phänomens fokussiert. Das erste Projekt identifiziert erstmals unterschiedliche Facetten des Showrooming-Verhaltens (z. B. den Zeitpunkt des Kaufs) und nutzt diese für eine erste Segmentierung von Showrooming betreibenden Kunden. Es zeigt sich beispielsweise, dass es neben eher ökonomisch opportunistisch orientierten Showroomern auch Segmente mit Loyalitätstendenzen gibt, die den Kanal innerhalb des Multi-Channel-Systems eines Händlers wechseln. Das zweite Projekt berücksichtigt erstmalig Online-Suchverhalten infolge eines stationären Geschäftsbesuchs im Showrooming-Prozess und entwickelt daraus eine neue Konzeptualisierung des Phänomens für die Forschung und Praxis. Das Projekt zeigt, dass eine Vereinfachung der Online-Produktsuche im Geschäft durch eine gezielte Lenkung in die eigenen Kanäle (z. B. durch QR-Codes) die Suche bei konkurrierenden Online-Anbietern und damit die Wahrscheinlichkeit, günstigere Angebote zu finden, reduzieren kann. Das dritte Projekt untersucht managementrelevante Einflussfaktoren (Preis und Service) auf Showrooming und zeigt, dass bestimmte Service-Aspekte Preisnachteile eines Offline-Händlers bis zu einem gewissen Grad kompensieren können. Durch eine differenziertere Betrachtung und Untersuchung des Showrooming-Phänomens leistet diese Arbeit einen wesentlichen Beitrag zur Showrooming-Forschung. Ihr praktischer Beitrag liegt vor allem in der Erkenntnis, dass Showrooming nicht ausschließlich eine existentielle Bedrohung für den stationären Einzelhandel darstellt, sondern auch als Herausforderung und sogar als Chance gesehen werden sollte und gesehen werden kann.</abstract>
+                    <subject>
+                        <topic>Showrooming</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20210325-101502-2</identifier>
+                    <identifier type="doi">10.25926/3b8y-rr98</identifier>
+                    <identifier type="sys">HT021124593</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_11470</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_11470">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2020/schneider/db2012.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_11470"
+            DMDID="DMD_wuppertal_elpub_11470">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_11470"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

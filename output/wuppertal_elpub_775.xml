@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_775">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Einsatz von chromatographischen Methoden mit selektiver Detektion zum Nachweis von Arzneimittelwirkstoffen in Abwasser und Oberflächenwasser</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Möschter, Silke</displayForm>
+                        <namePart type="family">Möschter</namePart>
+                        <namePart type="given">Silke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005-07-27</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In dieser Arbeit wurden unterschiedliche chromatographische Verfahren auf ihre Eignung für den Spurennachweis von ausgewählten Arzneimittelwirkstoffen in Oberflächenwässern und Kläranlagenabläufen untersucht. Die zu detektierenden Substanzen stammten sowohl aus der Gruppe der nicht-steroidalen Antirheumatika (Diclofenac, Ibuprofen, Indometacin, Naproxen) als auch aus der Gruppe der Lipidsenker (Bezafibrat, Clofibrinsäure, Gemfibrozil). Es wurden folgende Verfahren zum Nachweis der Arzneimittelwirkstoffe eingesetzt: 
+- Hochleistungsflüssigchromatographie (HPLC) mit Fluoreszenzdetektion
+ 
+- Kapillarelektrophorese mit Laser-induzierter Fluoreszenzdetektion (CE-LIF)
+ 
+- Zweidimensionale comprehensive Gaschromatographie mit flugzeitmassen-spektrometrischer Detektion (GCxGC-TOFMS) 
+Von diesen Methoden war nur die GCxGC-TOFMS uneingeschränkt für den spurenanalytischen Nachweis der Wirkstoffe geeignet. Für die gaschromatographische Bestimmung wurden diese mit Trimethylsulfoniumhydroxid (TMSH) in ihre Methylester überführt. Das Nachweisvermögen der Methode lag für die einzelnen Analyten im Bereich von 1,1 bis 14,7 μg/L. Neben dem hohen Trennvermögen ist bei der GCxGC-TOFMS die gute Absicherung der Analysenergebnisse besonders herauszustellen: die Retentionszeiten der beiden Dimensionen in Kombination mit den vollständigen Spektren ermöglichen die sichere Zuordnung der erhaltenen Signale zu den entsprechenden Analyten. Somit ist auch die Analyse von komplexen Wasserproben möglich, und die Gefahr von falsch positiven Nachweisen ist stark vermindert. 
+Die entwickelte GCxGC-TOFMS-Methode ließ sich problemlos auf Realproben übertragen. Hierzu wurden die Proben mittels Festphasenextraktion (SPE) an einer C18-Phase aufkonzen-triert. Dies gelang für Probenvolumina bis zu 500 mL mit Wiederfindungsraten zwischen 81 und 100%. Nach dem Anreicherungsschritt konnten Arzneimittelwirkstoffe aus den ver-schiedenen aquatischen Kompartimenten detektiert und mit Hilfe des Standardadditionsver-fahrens quantifiziert werden. Zur Bestimmung der Belastung eines Kläranlagenablaufs reichte die Aufkonzentration von 100 mL Probenvolumen, in dem fünf der sieben untersuchten Arzneimittelwirkstoffe in Konzentrationen zwischen 40 und 525 ng/L nachgewiesen werden konnten. Für die Analyse von Oberflächenwasser wurden 250 mL Rheinwasser aufkonzen-triert. Hier konnten Indometacin und Naproxen in Konzentrationen von 36 bzw. 19 ng/L de-tektiert werden. 
+Für alle anderen Verfahren ergaben sich im Verlauf der Untersuchungen Schwierigkeiten und Begrenzungen: 
+Zur Fluoreszenzdetektion der Wirkstoffe wurde zunächst eine Derivatisierungsreaktion erarbeitet, um den zur Verfügung stehenden Argon-Ionen-Laser (λem = 488 nm) nutzen zu können. Zu diesem Zweck musste eine Amidierungsreaktion optimiert werden, bei der die Carboxylgruppe der Arzneimittelwirkstoffe mit dem Aminanker des Fluoreszenzmarkers BODIPY® FL EDA (λex = 503 nm, λem = 510 nm) umgesetzt wurde. Verschiedene in der Lite-ratur beschriebene Reaktionsansätze im wässrigen Milieu verliefen trotz Variation der Umsetzungsparameter ohne Erfolg. In organischen Lösungsmitteln dagegen konnte für sechs der sieben ausgewählten Wirkstoffe eine Umsetzung nachgewiesen werden. Da die Reaktionsausbeuten allerdings nur gering waren, wurde ein Zweiphasensystem bestehend aus Toluol und HEPES-Puffer eingesetzt. Durch diese Reaktionsführung konnten die Arzneimittelwirkstoffe in guten Ausbeuten mit dem Fluoreszenzmarker umgesetzt werden. 
+Die Auftrennung der fluoreszenzmarkierten Arzneimittelwirkstoffe gelang mit der HPLC an einer C18-Säule. Mit der MEKC hingegen konnte die Trennung nicht für alle Derivate er-reicht werden; hier war die Trennleistung des Systems trotz Anwendung verschiedener Mi-zellbildner und Puffer nicht ausreichend. 
+Bei der Übertragung der Methode auf Realproben erfolgte die Probenanreicherung mittels SPE. Sowohl mit abselut Nexus®- als auch mit Bond Elut C18-Kartuschen ergaben sich gute Wiederfindungsraten. Allerdings traten bei der Kombination von SPE und anschließender Fluoreszenzmarkierung Interaktionen auf, die zu einer vermehrten Zersetzung des Fluoreszenzmarkers führten. Eine Detektion der markierten Wirkstoffe wurde aufgrund von vielen zusätzlichen Signalen in den Chromatogrammen respektive Elektropherogrammen unmög-lich. Somit muss für die beiden Fluoreszenzmethoden (HPLC-Fluoreszenzdetektion und CE-LIF) festgestellt werden, dass sie zwar generell für den Nachweis von Standards der Arzneimittelwirkstoffe geeignet sind, bei Realproben aber noch unüberwindbare Störungen einem spurenanalytischen Nachweis entgegenstehen.</abstract>
+                    <abstract type="content" lang="eng">In this work a number of chromatographic methods were tested for their suitability for the determination of pharmaceutical residues in surface water and effluents of sewage-treatment plants. The pharmaceutically active compounds selected were either non-steroidal anti-inflammatory drugs (Diclofenac, Ibuprofen, Indomethacin, Naproxen) or blood-lipid regulating substances (Bezafibrate, clofibric acid, Gemfibrozil). The following methods were investigated for the detection of the drug residues: 
+- high-performance liquid chromatography (HPLC) with fluorescence detection
+ 
+- capillary electrophoresis with laser-induced fluorescence (CE-LIF)
+ 
+- two-dimensional comprehensive gas chromatography with time-of-flight detection (GCxGC-TOFMS) 
+The only method which could be used for the residue analysis without any limitations was GCxGC-TOFMS. For the gas chromatographic determination, the substances were methylated with trimethylsulfonium hydroxide (TMSH). The method allows quantification of the analytes in the range of 1,1 to 14,7 μg/l. Besides the good separation capabilities of GCxGC-TOFMS, it is remarkable that this method provides confidence in the results: the retention times of the two dimensions, in combination with the complete mass spectra, allow confident assignment of the observed signals to the appropriate analytes. As a result, the analysis of complex water samples is possible, and the risk of false positive assignments is reduced. 
+The GCxGC-TOFMS method developed was applied to real samples without any difficulties. To this end, the samples were preconcentrated by solid phase extraction (SPE) with a reversed-phase C18 material. This was possible for sample volumes up to 500 ml and gave recoveries between 81 and 100%. With this enrichment step, it was possible to determine drug residues in various aquatic compartments. Standard addition was used to quantify the analytes exactly. For the determination of the substances in the effluent of a sewage-treatment plant, the preconcentration of 100 ml was sufficient. Five of the seven substances investigated could be detected. For the analysis of surface water, 250 ml of Rhine River water were preconcentrated. In this sample, Indomethacin and Naproxen could be detected in concentrations of 36 ng/l and 19 ng/l, respectively. 
+The other methods were subject to a number of difficulties and limitations which arose during the investigation: 
+A derivatization reaction was developed for the fluorescence detection of the pharmaceutically active substances, so that an available argon-ion laser (λem = 488 nm) might be used. To accomplish this, an amidation reaction had to be optimised, in which the carboxylic group of the drugs was coupled to the amino group of the fluorescent dye Bodipy® FL EDA (λex = 503 nm, λem = 510 nm). Several approaches to carrying out the reaction in aqueous solution, although taken from the literature, ended without success even after modification of the reaction parameters. In organic solvents, the derivatization could be shown to take place for six out of the seven substances studied. Because of the low reaction yield, a two-phase system consisting of toluene and HEPES-buffer was used. This procedure made it possible to obtain good reaction yields in the labelling of the carboxylic acids with the fluorescent dye. 
+The labelled pharmaceuticals were successfully separated by HPLC with a C18 column, whereas it was impossible to separate all the derivatives by MEKC, in spite of changing the buffer and the surfactants. 
+When the method was transferred to real samples, the preconcentration was carried out by SPE. Good recovery rates were obtained with both the abselut Nexus® and the Bond Elut C18 cartridges. However, on combining SPE with the ensuing fluorescence reaction, interactions could be observed which led to intensified decomposition of the fluorescent dye. Detection of the labelled pharmaceuticals was made impossible by a large number of additional signals which could be observed in the chromatograms or electropherograms. Consequently, it has to be stated that both methods based on fluorescence detection (HPLC with fluorescence detection and CE-LIF) are generally suitable for the analysis of standard solutions of the pharmaceuticals. At the moment, however, the trace analysis of real samples is rendered impossible by a number of interferences.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20050245</identifier>
+                    <identifier type="sys">HT014479072</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_775</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_775">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2005/moeschter/dc0508.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_775"
+            DMDID="DMD_wuppertal_elpub_775">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_775"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

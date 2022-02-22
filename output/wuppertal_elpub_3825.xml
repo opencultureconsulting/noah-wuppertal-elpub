@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3825">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Cosmic ray anisotropy study with the AMANDA Neutrino Telescope</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gurtner, Maria</displayForm>
+                        <namePart type="family">Gurtner</namePart>
+                        <namePart type="given">Maria</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Cosmic rays are particles and radiation hitting the Earth from space. Among them, protons make the largest part, but also heavier nuclei, electrons, photons and neutrinos are present. The bulk of cosmic rays are believed to origine from inside the galaxy, possible sources are supernova remnants. Still several questions remain open about origin, propagation, intensity distribution and its variety. This work presents the search for anisotropies within the arrival directions of the cosmic radiation and its possible variation over time. The data used in this work was recorded as background radiation by the AMANDA-experiment, a neutrino telescope located at the geographic South pole, between 2000 and 2006. For the complete period of data, a one-dimensional as well as a two-dimensional analysis are carried out. Furthermore, for each single year the data is analysed and the examination of a possible variation over time is executed. The results show a clear anisotropy signal consistent with results from other experiments. A variation of this signal over the observed time period could not be seen.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20131217-112856-9</identifier>
+                    <identifier type="sys">HT018127395</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3825</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3825">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2013/gurtner/dc1316.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3825"
+            DMDID="DMD_wuppertal_elpub_3825">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3825"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_384">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchungen zur Biosynthese der Propylprolin-Untereinheit des Antibiotikums Lincomycin A aus Streptomyces lincolnensis.</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Neußer, Dietmar</displayForm>
+                        <namePart type="family">Neußer</namePart>
+                        <namePart type="given">Dietmar</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2000-01-07</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Diese Arbeit beschäftigt sich mit der Analyse der Gene lmbB1, lmbB2 und lmbY, die Teile des Lincomycin A-Biosyntheseclusters von Streptomyces lincolnensis darstellen und deren Genprodukte an der Herstellung der Propylprolin (PPL)-Untereinheit beteiligt sind. Wenn die Gene lmbB1B2 gemeinsam in Escherichia coli überexprimiert wurden, dann setzten diese Zellen spezifisch L-Tyrosin und L-3,4-Dihydroxyphenylalanin (L-DOPA) zu einem gelb gefärbten Produkt um. Das alleine produzierte LmbB1-Protein katalysierte die Umwandlung von L-DOPA, aber nicht von L-Tyrosin. Das gereinigte LmbB1-Protein zeigte einen KM-Wert für L-DOPA von 258 µM. Die L-Tyrosin-umsetzende Aktivität konnte nur in vivo nachgewiesen werden und war von LmbB2 abhängig. Die Daten ließen den Schluß zu, daß LmbB1 eine spezifische extradiol-spaltende L-DOPA-2,3-Dioxygenase ist und LmbB2 eine L-Tyrosin-3-Hydroxylase repräsentiert. Das labile Produkt der Ringspaltung durch LmbB1 konnte weder mit Ammoniak abgefangen noch gereinigt werden. Es wird daher spekuliert, daß es eine heterozyklische Struktur besitzt. Das LmbY-Protein wies 24 - 29 %ige As-Sequenzidentität zu verschiedenen F420-abhängigen Reduktasen auf. Bei der Hybridisierung eines lmbY Fragmentes mit der chromosomalen DNA verschiedener Streptomyces-Stämme wurden eindeutige Signale bei allen Lincomycin-Produzenten erhalten, deren Muster sich in vier Gruppen einteilen ließen. Es wurden Knock-out-Mutanten des Gens lmbY in S. lincolnensis NRRL 2936 hergestellt, die einen Lincomycin–-Phänotyp zeigten. Die Mutanten ließen sich durch Fütterung mit PPL und nur durch die vollständige Transkriptionseinheit (Operon) lmbUYX in trans komplementieren. Durch Promotorprobe-Versuche wurde im Bereich zwischen -286 und -113 bp vor lmbU die Anwesenheit eines schwachen Promotors entdeckt. Die heterologe Expression von lmbY in S. lividans unter der Kontrolle des ermEp lieferte lösliches Protein. Die mit Poly-Histidin fusionierte Version des Enzyms wurde zu 96 - 98 % gereinigt. Die in S. lincolnensis gemessene NADPH:F420-Reduktase-Aktivität konnte in allen Mutanten mit zerstörtem lmbY (und/oder lmbX) noch nachgewiesen werden. Dadurch wurde diese Funktion für LmbY ausgeschlossen. Die verschiedenen Anhäufungsprodukte der hergestellten Mutanten konnten durch Fütterung von L-[U-14C]Tyrosin dünnschichtchromatographisch dargestellt werden und deren Rf-Werte bestimmt werden. Es gelang jedoch nicht, genügend Zwischenprodukt für einen Umsatz mit LmbY zu gewinnen. Zusammenfassend ist LmbY, wahrscheinlich auch LmbX, als eindeutig an der PPL-Biosynthese beteiligt einzuordnen.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20000016</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_384</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_384">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-478/d099914.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_384"
+            DMDID="DMD_wuppertal_elpub_384">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_384"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

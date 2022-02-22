@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1406">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Hilbert Schemes of Quiver Algebras</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Engel, Johannes</displayForm>
+                        <namePart type="family">Engel</namePart>
+                        <namePart type="given">Johannes</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Arbeit ist angesiedelt im Bereich der Darstellungstheorie von Köchern. Anstelle der üblichen Parametrisierung von Köchen bis auf Isomorphie betrachten wir eine Version, die um ein Zusatzdatum und eine Stabilitätsbedingung erweitert ist, dies liefert interessante geometrische Resultate und Eigenschaften. So geben wir bspw. eine Zellzerlegung für diese sog. glatten Modelle an. Außerdem liefert diese Herangehensweise eine kombinatorische Formel für Bettizahlen des so erhaltenen nicht-kommutativen Hilbertschemas und das Poincaré-Polynom. Weiterhin erhalten wir Funktionalgleichungen für die erzeugende Funktion der Bettizahlen. Im zweiten Teil der Arbeit werden Erzeugungs- und Vernichtungs-Operatoren in Borel-Moore-Homologie nilpotenter nicht-kommutativer Hilbert-Schemata erzeugt, die diese spezielle Homologie-Theorie zu einem geometrischen Modell eines Fock-Raums machen. Schließlich stellen wir eine Verbindung her zwischen einem vermuteten Faltungsprodukt in der Borel-Moore-Homologie und der nicht-kommutativen Invarianten-Theorie. Dazu betten wir diese Algebra in die Invarianten-Algebra der $SL_m$-Aktion auf der Tensor-Algebra eines Vektorraums ein.</abstract>
+                    <abstract type="content" lang="eng">The work in general deals with the representation theory of quivers. Instead of parametrising just isomorphism classes of representations, a framing datum will be added which basically consists of some additional linear maps and a stability condition. One obtains that the resulting moduli spaces are always smooth. As a main result, we construct an algebraic cell decomposition for a special class of smooth models. Besides, we obtain a combinatorial formula for the Betti numbers of the non-commutative Hilbert schemes, and therefore also for the corresponding Poincaré polynomial. As a third result, functional equations for the generating functions of the Betti numbers are obtained in this chapter. Another main result is the definition of generation operators in Borel-Moore homology using a technique called correspondences. In our case, they turn the direct sum of all homology groups of the non-commutative Hilbert schemes into a geometric model for the Fock space. Finally we present a link between the algebra structure on a vector space with a basis parametrised by trees and non-commutative Invariant Theory: We relate this algebra to the algebra of invariants under the operation of $\SL\left(V\right)$ on the tensor algebra of a vector space $V$.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20100375</identifier>
+                    <identifier type="sys">HT016449703</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1406</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1406">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2010/engel/dc1007.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1406"
+            DMDID="DMD_wuppertal_elpub_1406">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1406"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

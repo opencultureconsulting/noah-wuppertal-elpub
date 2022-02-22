@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_2648">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Analytische Parameter zur objektiven Qualitätsbewertung von Olivenölen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dierkes, Georg</displayForm>
+                        <namePart type="family">Dierkes</namePart>
+                        <namePart type="given">Georg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In this work an instrumental methods for classifying olive oils into the categories “native extra” and “non native extra” was set up. Furthermore objective methods for predicting fruitiness and bitterness/pungency of olive oil were developed. For building up a classification method, 24 relevant aroma active compounds were quantified in 95 olive oil samples of different quality. Based on these results, statistical evaluation by partial least squares discriminant analysis was performed. Important variables were concentrations of ethyl isobutanoate, ethyl-2-methyl butanoate, 3-methyl butanol, butyric acid, E,E-2,4-decadienal, hexanoic acid, guaiacol, 2-phenyl ethanol and the sum of the odor activity values of Z-3-hexenal, E-2-hexenal, Z-3-hexenyl acetate and Z-3-hexenol. Classification performed with these variables, predicted quality of 88% of the olive oils correctly. Prediction of olive oil fruitiness was performed using odor activity values of Z-3-hexenal, E-2-hexenal, Z-3-hexenylacetat and Z-3-hexenol as variables for partial least square regression. For prediction bitterness and pungency of olive oil areas of 25 peaks detected by a HPLC-MS profiling method were correlated with bitterness and pungency by partial least square regression. Six compounds (oleuropein aglycon, ligstroside aglycon, decarboxymethyl oleuropein aglycon, decarboxymethyl ligstroside aglycon, elenolic acid and elenolic acid methyl ester) show high correlations to bitterness and pungency. The last one is described for the first time in olive oil. The computed model was able to predict bitterness and pungency of olive oil in the error margin of the sensory evaluation (±0.5) for most of the samples.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20120305-132243-5</identifier>
+                    <identifier type="sys">HT017159695</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_2648</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_2648">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2012/dierkes/dc1202.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_2648"
+            DMDID="DMD_wuppertal_elpub_2648">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_2648"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

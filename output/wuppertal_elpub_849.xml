@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_849">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Quadratic rational maps: Dynamical limits, disappearing limbs and ideal limit points of Per n(0) curves</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kabelka, Anja</displayForm>
+                        <namePart type="family">Kabelka</namePart>
+                        <namePart type="given">Anja</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-01-10</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In this thesis we study the limiting dynamics of certain unbounded sequences in the moduli space of quadratic rational maps on . Given and c in the Mandelbrot set, let denote the unique quadratic rational map (up to conjugacy) with an attracting fixed point of multiplier λ that is hybrid equivalent to . Petersen proved that if c is in the p/q-limb of the Mandelbrot set, then tends to infinity in as λ tends to radially. Epstein showed that after normalizing and passing to a subsequence, the q-th iterate converges to a degree two rational map of the form . 
+
+ Our main goal is to determine how the limiting map GT depends on c. We prove that in the real case, where , the answer depends on whether is renormalizable or not, i.e. whether or not. If is renormalizable then the limiting map GT is real hybrid equivalent to . For all non-renormalizable parameters the limit is G−2. We also show that as λ tends to -1 the Julia set of (suitably normalized) converges to the Julia set of the limiting map GT . 
+
+ In preparation for these results, we prove that quite generally the quadratic limiting map of the q-th iterate is unique (it is independent of the choice of normalization). This result allows us to give an alternative, dynamical definition of DeMarco’s compactification of . We also determine the ideal limit points of the Perₙ(0) curves in .</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20080022</identifier>
+                    <identifier type="sys">HT015400985</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_849</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_849">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2007/kabelka/dc0719.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_849"
+            DMDID="DMD_wuppertal_elpub_849">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_849"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1003">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kulturelle Identität zwischen aufgehender und untergehender Sonne</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Chung, Jae-hee</displayForm>
+                        <namePart type="family">Chung</namePart>
+                        <namePart type="given">Jae-hee</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005-08-29</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In dieser Dissertation geht es um die kulturelle Identität in West und Ost und die Bedeutung der Kultur im Design. Obwohl die äußerliche Lebensweise des Menschen in der Welt zunehmend vereinheitlicht wird, kommt der feine Unterschied zwischen den Kulturen nicht abhanden. Denn die Kultur ist über mehrere Generationen gebildet worden, und wird als soziales Gen dem Menschen vererbt. Diese kulturelle Prägung des Menschen ist deshalb sowohl unterschiedlich, als auch unantastbar. Aber das Interesse für kulturelle Belange ist im letzten Jahrhundert im Namen der Modernisierung und der Rationalisierung in fast allen Bereichen vernachlässigt worden. Auch das Design hat hier keine Ausnahme gemacht, weil es ganz und gar vom Funktionalismus und damit vom Rationalismus beherrscht wurde. Diese einseitige Entwicklung hat zwangsläufig negative Folgen verursacht und sie war auffälliger im Design, weil es sich mit dem Menschen und seinen geistigen und körperlichen Tätigkeiten auseinandersetzt: Design, das die kulturelle Dimension übergeht, kann dem Menschen zwar physische Bequemlichkeit gewährleisten, aber nicht echten Komfort, der auf der Befriedigung sowohl der physischen, als auch der geistigen Bedürfnisse beruht. Ohne Berücksichtigung der Kultur berührt Design nur die Oberfläche des menschlichen Lebens, deshalb ist es unzureichend. Kultur taucht also als ein wichtiger Wert im Design gerade dort auf, wo die physischen Probleme als gelöst angesehen werden können. 
+Diese Arbeit vergleicht die geistigen und materiellen Kulturen in West und Ost. Deren Identitäten werden unter folgenden fünf Gesichtspunkten betrachtet: Dem Wesen des Subjekts und des Objekts, der Erkenntnis des Subjekts gegenüber dem Objekt, sowie den Verhältnissen zwischen Subjekt und Objekt, zwischen Objekt und Objekt, und zwischen Subjekt und Subjekt. Diese Studie erläutert die unterschiedliche Denk- und Handlungsweise in beiden Kulturen und zeigt deren engen Zusammenhang auf. Danach wird erörtert, wie die kulturellen Werte in der modernen Gesellschaft und im Design vertrieben worden sind. Hierbei wird sowohl die Rolle der Trennung von Zivilisation und Kultur betrachtet, als auch der Einfluss, den der Funktionalismus auf das Design hatte. Das daraus resultierende verfälschte Verhältnis zwischen dem Menschen und seinen Dingen wird ebenfalls beleuchtet. Zuletzt wird betrachtet, wie die kulturellen Werte wieder ins Design integriert werden können. Theoretische Grundlage sind dabei die westliche Dialektik und die östliche Yin-Yang-Lehre. Für die Designpraxis werden die verschiedenen Funktionen eines Produktes im Licht der Kultur erforscht. Diese Arbeit soll dem Verständnis der kulturellen Identitäten in West und Ost dienen und die Argumente für eine angemessene Integration der kulturellen Werte ins Design liefern.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Design und Kunst » Kommunikationsdesign"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20050284</identifier>
+                    <identifier type="sys">HT014511325</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1003</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1003">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbf/kommunikationsdesign/diss2004/chung/df0402.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1003"
+            DMDID="DMD_wuppertal_elpub_1003">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1003"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

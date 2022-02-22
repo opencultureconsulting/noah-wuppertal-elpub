@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5381">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>On some classes of q-plurisubharmonic functions and q-pseudoconcave sets</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Pawlaschyk, Thomas Patrick</displayForm>
+                        <namePart type="family">Pawlaschyk</namePart>
+                        <namePart type="given">Thomas Patrick</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">We introduce real q-convex functions on open subsets of the real Euclidean space. We study their properties and develop approximation techniques by continuous ones and by those who are real q-convex with corners. In the smooth case, a function is real q-convex if and only if its real Hessian has at most q negative eigenvalues. We compare these functions to their complex relatives: the q-plurisubharmonic functions defined on open sets of the complex Euclidean space. We show that each real q-convex function is q-plurisubharmonic. On the converse, each q-plurisubharmonic function, which is invariant in the imaginary part, is real q-convex. Another example for q-plurisubharmonic functions is given by those which are plurisubharmonic on leaves of a singular foliation by analytic sets of codimension q.
+
+ The q-plurisubharmonic functions are used to define q-pseudoconcave sets. These are closed subsets S of an open set D in the complex Euclidean space for which the negative logarithm of the distance function to S is q-plurisubharmonic on D minus S. We prove that (Hartogs) q-pseudoconcave graphs of certain continuous mappings locally admit a foliation by complex submanifolds of dimension q. We construct generalized convex hulls of compact sets with respect to subfamilies of q-plurisubharmonic functions and compare them to each other and to hulls already existing in the literature (such as Basener&apos;s hull or the rationally convex hull).
+
+ We verify that the Shilov boundary of a compact set for certain families of upper semi-continuous functions exists and coincides with the set of all peak points for the given family. As an application, we study the Shilov boundary of a convex body for q-plurisubharmonic functions and generalize Bychkov&apos;s result from 1981. More precisely, the complement of the Shilov q-boundary of a convex body K consists of all boundary points p with the following property: there exists an open neighbourhood U of p in the boundary of K such that each point z in U lies in some open part of a complex plane of dimension at least q+1.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20151210-101726-1</identifier>
+                    <identifier type="sys">HT018832739</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5381</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5381">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2015/pawlaschyk/dc1526.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5381"
+            DMDID="DMD_wuppertal_elpub_5381">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5381"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

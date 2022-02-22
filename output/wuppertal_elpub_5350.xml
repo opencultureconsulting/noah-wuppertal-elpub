@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5350">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Modelling of Credit Risk and Correlation Risk: Time-Dependent and Stochastic Correlation Models</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Teng, Long</displayForm>
+                        <namePart type="family">Teng</namePart>
+                        <namePart type="given">Long</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The degree of a relationship between the changes of two or more financial quantities in time can be measured by correlations, which play a key role in investing, trading, risk management and regulation. This thesis is divided into three parts and contains a wide range of topics related to the impact of financial correlation, its modellings and applications in finance.
+ The first part is devoted to briefly introduce basic notions of counterparty credit risk (CCR), credit value adjustment (CVA) and to study default dependence between counterparties in a credit default swap (CDS) contract. To compute the highly accurate bilateral CVA (BVA) on CDS, we employ tailored numerical methods to obtain the cumulative distribution function (CDF) of the integrated Cox- Ingersoll-Ross (CIR) process, which is demanded to to compute the survival probabilities of the counterparties. Furthermore, we develop a new formula which allows simultaneous defaults among counterparties, the simultaneous default risk can thus be regarded.
+ From the first part we get motivated to work on the dynamical (time-dependent) and stochastic correlation model in the next two parts. In the second part, we provide an appropriate and reasonable time-dependent correlation function and present the concept of dynamically (time-dependent) correlated Brownian motions (BMs) and its construction. As example, we apply this new time-dependent correlation function to price European options and Quanto options. We analyze the improvement by using a time-dependent correlation instead of a constant correlation.
+ As randomness features more generally, like moving from time-dependent interest rate to stochastic interest rate, from time-dependent volatility to stochastic volatility, in the last part we investigate how to model correlation as a stochastic process and its applications in finance. We provide a general stochastic correlation model and discuss several stochastic correlation processes. We apply stochastic correlation to price Quanto options and quantify the correlation risk caused by using a wrong (constant) correlation. Furthermore, we incorporate stochastic correlation into the Heston model and find, that the Heston model extended by introducing stochastic correlation provide a better fit to the skew and smile in the volatility surface that is visible in the market.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20151124-114230-6</identifier>
+                    <identifier type="sys">HT018819580</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5350</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5350">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2015/teng/dc1522.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5350"
+            DMDID="DMD_wuppertal_elpub_5350">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5350"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

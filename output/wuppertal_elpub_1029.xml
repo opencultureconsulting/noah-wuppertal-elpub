@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1029">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kindeswohl und Kindeswille in der Jugendhilfe</title>
+                        <subTitle>Zur Beteiligung von Kindern an Entscheidungen in den erzieherischen Hilfen am Beispiel von Fremdunterbringungen entsprechend § 33 SGB VIII</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kotthaus, Jochem</displayForm>
+                        <namePart type="family">Kotthaus</namePart>
+                        <namePart type="given">Jochem</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-07-31</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Diese Arbeit untersucht die Möglichkeiten einer Einbeziehung des Kindeswillens als Entscheidungsbasis der Hilfen zur Erziehung. Es wird eine argumentative Linie gezogen von einem sozialisationstheoretisch fundierten, das Kind weitgehend als Mangelwesen begreifenden und in der Sozialpädagogik aktiven bis hinzu einem modernen, an der sozialwissenschaftlichen Kindheitsforschung orientierten Kinderbild, welche dieses als kompetenten Akteur deutet.
+ Den Mitarbeitern der Jugendämtern fällt hier die besondere Verantwortung und Aufgabe zu, das Kind in der Wahrnehmung seiner Interessen zu unterstützen. Eine empirische Forschung, welche Auskunft gibt über den Stand der Forschungstransfers in die Praxis und die Möglichkeiten von Sozialpädagogen, Kinder zu beteiligen, liegt nicht vor. Zu diesem Zweck wird eine größere Anzahl von Jugendamtsmitarbeitern in Nordrhein-Westfalen zu ihren Einstellungen bezüglich der Partizipation von Kindern als Entscheidungskriterium befragt. Von dieser Grundlage aus kann ein realistisches Bild über die Bedeutung des Kindeswohls und des Kindeswillens in der Jugendhilfe gezeichnet werden.</abstract>
+                    <abstract type="content" lang="eng">This study is devoted to a field of work in German social work. It examines the possibilities and the difficulties of the child‘s participation in cases of ‚Hilfe zur Erziehung‘, a legislation supporting parents in the upbringing of their children.</abstract>
+                    <classification authority="ddc">370</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Human- und Sozialwissenschaften » Erziehungswissenschaften"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20070055</identifier>
+                    <identifier type="sys">HT015017704</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1029</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1029">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbg/paedagogik/diss2006/kotthaus/dg0603.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1029"
+            DMDID="DMD_wuppertal_elpub_1029">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1029"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

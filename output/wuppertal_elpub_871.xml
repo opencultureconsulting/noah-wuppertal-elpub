@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_871">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchung der Anregung und Ausbreitung planetarer Wellen in meteorologischen Analysen und einem Klima-Chemie-Modell</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mager, Fabian</displayForm>
+                        <namePart type="family">Mager</namePart>
+                        <namePart type="given">Fabian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004-06-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In der vorliegenden Arbeit wurde erstmals ein interaktiv gekoppeltes Klima-Chemie-Modell (ECHAM4.L39(DLR)/CHEM) mit Werkzeugen untersucht, die einen detaillierten Einblick in die Anregung, Ausbreitung, vertikale Struktur und dynamische Wirkung von planetaren Wellen in der Atmosphäre ermöglichen. Die verschiedenen Analysemethoden bedienen sich Zeitreihen räumlicher Fourierkoeffizienten aus Modellsimulationen oder Beobachtungsdaten, um daraus transiente und stationäre Wellenanteile nach zonalen Wellenzahlen zu extrahieren und ihre dynamischen Auswirkungen zu quantifizieren. Es zeigt sich, dass sich die Verfahren sehr gut zur Untersuchung und Bewertung einzelner dynamischer Prozesse eignen, die mit großskaligen Wellen in Zusammenhang stehen. Der Vergleich von Reanalysen des ECMWF mit einer Modellsimulation für das Jahr 1990 zeigt, dass das Modell sowohl die Varianzverteilung transienter Wellen auf die verschiedenen Wellenzahlen und Perioden als auch ihre vertikale Struktur zuverlässig simuliert; die Aktivität stationärer Wellen wird vom Modell ebenfalls qualitativ richtig abgebildet. Der Vergleich von drei Modellsimulationen für die Jahre 1960, 1990 und 2015 ergibt, dass das Modell den Einfluss der Nordatlantischen Oszillation auf transiente und stationäre Wellenmoden und damit auf die Stärke des nördlichen stratosphärischen Polarwirbels gut reproduziert.</abstract>
+                    <abstract type="content" lang="eng">This thesis presents the first investigation of planetary waves in an interactively coupled chemistry-climate model (ECHAM4.L39(DLR)/CHEM), with methods which allow a detailed insight into their forcing, propagation, vertical structure and dynamic impact on the atmosphere. The different analysis tools use time series of space Fourier coefficients from model simulations or observation data in order to extract transient and stationary wave parts by zonal wavenumbers and to quantify their dynamic effect. The results prove that the tools used are very well suited to investigate and estimate the impact of various dynamic processes related to large-scale waves. The comparison of reanalyses from ECMWF with a model simulation for the year 1990 show that the model reliably simulates the variance distribution of transient wave modes over wavenumbers and periods as well as their vertical structure; the model qualitatively reproduces the stationary wave activity. A comparison of three model simulations for the years 1960, 1990 and 2015 suggests that the model properly represents the influence of the North Atlantic Oscillation on transient and stationary wave modes and thereby on the northern stratospheric polar vortex.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20040297</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_871</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_871">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-977/dc0406.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_871"
+            DMDID="DMD_wuppertal_elpub_871">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_871"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

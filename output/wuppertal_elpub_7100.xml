@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_7100">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Development and characterization of a Fourier Transform based Quadrupole Ion Trap (FT-QIT) technique for process and residual gas analysis</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Brachthäuser, Yessica</displayForm>
+                        <namePart type="family">Brachthäuser</namePart>
+                        <namePart type="given">Yessica</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In modern analytical instrumentation, mass spectrometry (MS) plays a predominant role. Mass spectrometers reveal insight into the structure and composition of matter in numerous fields of application, ranging from food inspection via anti-doping controls and analysis of pharmaceutical products to air quality measurements, to name a few. A further important domain is process gas analysis. Monitoring of industrial processes with mass spectrometers improves the performance by increasing the quality and reproducibility of the optimum process conditions. Eventually, it is a matter of product quality, time and cost efficiency. Depending on the field of application, the requirements on the mass spectrometric setup significantly differ. In practice, the type of mass spectrometer, the sample and ionization method as well as the data processing need to be carefully aligned. 
+
+ The present work is embedded in a project, which focuses on the development of a mass spectrometer for applications in process and residual gas analysis. The project goals pursue a number of demanding requirements: Instrument compactness, instrument robustness, fast and highly sensitive analysis of trace gas components, mass resolution well above nominal masses and affordability. The entire project can shortly be described by: “From FT-QIT concept to the iTrap®”. It is an interdisciplinary collaboration developing a mass spectrometer that is based on a three dimensional Quadrupole Ion Trap (QIT) using Fourier Transform (FT) technique. Members of this collaboration are the department for electrical engineering and the department for physical and theoretical chemistry of the University of Wuppertal, Plasma Applications Consulting GmbH and, as head of this collaboration, Zeiss SMT GmbH. Measurements carried out within the framework of this work are used to support the progress from a custom laboratory setup based on the FT-QIT concept to a salable device: the iTrap®. 
+
+ Hence, this work focuses on the characterization of the laboratory setup to obtain input information for the development and operation of next generation instruments. Crucial operational parameters, the analytical performance, and comparisons with other mass spectrometric devices were carefully assessed. The potential of the FT-QIT as either a residual or a process gas analyzer within demanding gas matrices was proved with respect to a chemical understanding of the obtained mass spectra. 
+
+ In short: The FT-QIT concept and the entire setup have to be put through their paces.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170717-144524-6</identifier>
+                    <identifier type="sys">HT020147828</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_7100</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_7100">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2017/brachthaeuser/dc1715.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_7100"
+            DMDID="DMD_wuppertal_elpub_7100">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_7100"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

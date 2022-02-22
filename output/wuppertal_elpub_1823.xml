@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1823">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Aufklärung von Degradationsmechanismen von phosphoreszierenden organischen Leuchtdioden im Devicebetrieb</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sivasubramaniam, Varatharajan</displayForm>
+                        <namePart type="family">Sivasubramaniam</namePart>
+                        <namePart type="given">Varatharajan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Since the pioneering research work of C. W. Tang and S. A. VanSlyke in 1987, organic light emitting devices (OLEDs) have attracted a great attention due to their possible application as display components or as new light sources1. 
+To produce a full color display or a white light source, red, green and blue phosphorescent emitter combinations are required. So far, stable organic light emitting diodes with deep blue phosphorescent emitters could not be realized. 
+In this thesis the degradation mechanisms of blue phosphorescent OLEDs were investigated. The lifetime stability of devices containing FIrpic as blue emitter has been a major concern for organic blue emitting devices. To gain a deeper knowledge about the purity of FIrpic and how the purity is influenced by sublimation steps, non-sublimated and sublimated FIrpic were analyzed via high pressure liquid chromatography coupled with mass spectrometry (HPLC/MS). Moreover, a detailed chemical analysis was carried out for a complete blue emitting device consisting of hole transporting material 4,4’–Bis(N-(1-naphthyl)-N-phenyl-amino)biphenyl (α-NPD), an electron transporting material Bis(2-methyl-8-quinolinolato-N1,O8)-(1,1’-biphenyl-4-olato)aluminum (BAlq) and using a phosphorescent host-guest system with 4,4’,4’’-Tri(N-carbazolyl)triphenylamin (TCTA) as host and Bis(4,6-difluorophenylpyridinato-N,C2)picolinatoiridium (FIrpic) as guest molecule. Several isomerization products of the emitting material FIrpic were detected massspectrometrically in pristine devices. In addition, an increase of the concentration of these isomers and the formation of an additional isomer of the octahedral iridium complex FIrpic was detected in stressed devices. 
+Beside isomer formation and chemical degradation of the emitting material, changes in the ligand sphere of the cyclometalated complex, especially the cleavage of an electronwithdrawing group from one of the ligands of the heteroleptic phosphorescent emitter FIrpic could be monitored after the deposition and aging process. Moreover, an additional isomer of the degradation product (FIrpic - 1F) could be detected in aged devices. 
+Furthermore, the characteristics and chemical compositions of the hole transport material α-NPD after thermal evaporation process were investigated in detail. HPLC/MS results revealed that vacuum-deposited devices that containing α-NPD as a hole transporting material a chemical transformation is taking place. A new structural isomer of the hole transporting material was identified, and characterized using a highly specific and selective instrumentation of LC-MS(n) ion trap with atmospheric pressure photo ionization. 
+In this work it could be shown that not only octahedral iridium complexes but also organic compounds undergo chemical transformation and finally form new degradation products during the manufacturing process of blue phosphorescent OLEDs. 
+Interestingly, trace amounts of the degradation products of the hole transporting material α-NPD was observed as well, using HPLC/MS analysis. The dissociation of the N-C bond of α-NPD, which seems to prone to rupture during the evaporation and aging process, was in good accordance with the expeorimental LDI/TOF/MS results. 
+BAlq is often used as an electron transport material in phosphorescent organic lightemitting devices (PhOLED). Despite the significance of the lifetime of full color OLEDs in practical uses, little is known about the stability of aluminum (III) bis (2-methyl-8-quinolinate)-4-phenylphenolate (BAlq) in presence of humidity. To gain a deeper insight into a chemical failure of BAlq thin layer chromatography was applied. Overall, the reaction of BAlq with traces of H2O leads to the accumulation of 8-hydroxyquinaldine (8-Hq) and 4-phenylphenol. 
+Chemical reaction mechanisms of OLED materials during device operation can be monitored using laser desorption ionization (LDI) coupled with a time of flight mass spectrometer. The comparison of experimental data of pristine and aged devices revealed that new reaction products are formed during device operation. Crosslinking and coupling products of TCTA fragments to the α-NPD core were observed. The hole transporting material α-NPD and the host-molecule TCTA show chemical reactions in terms of oligomerization during device operation. Ten new reaction products were characterized via LDI/TOF/MS. Dissociation, isomerization, oligomerization and ligand exchange mechanisms were observed that take place under operation conditions. Rearrangement processes of the OLED materials in a driven device might have a considerable influence on the device performance and can limit the lifetime of the blue emission. 
+The different mechanistic pathways of the possible degradation products and reaction products could be a failure mode of organic electroluminescent devices that include phosphorescent metal complexes.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20110207-154757-3</identifier>
+                    <identifier type="sys">HT016705010</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1823</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1823">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2010/sivasubramaniam/dc1023.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1823"
+            DMDID="DMD_wuppertal_elpub_1823">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1823"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

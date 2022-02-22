@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_2806">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>KASCADE-Grande Measurements of Energy Spectra for Elemental Groups of Cosmic Rays</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Fuhrmann, Daniel</displayForm>
+                        <namePart type="family">Fuhrmann</namePart>
+                        <namePart type="given">Daniel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In 1958, 46 years after the discovery of cosmic rays by Hess, Kulikov and Khristiansen measured the “knee” of the cosmic ray spectrum, which is associated with a change of the index of the power law. Many decades passed, before in 2003 the KASCADE experiment clarified post hoc that this knee is caused by a change in the spectra of light cosmic ray mass groups. The knowledge about the composition of cosmic rays and the existence of specific structures in the energy spectrum around the knee is of fundamental importance for understanding things like the transition from galactic to extragalactic origin of cosmic rays, or the cosmic ray acceleration and propagation in general. 
+ The KASCADE-Grande experiment, an extension of the original KASCADE experiment, is dedicated to measure the energy spectra for elemental groups of cosmic rays at one or two orders of magnitude higher energies than its predecessor, namely in the energy range from 1016 eV to 1018 eV. It thereby enables the verification of a possible second knee expected at approximately 1017 eV. 
+ This work&apos;s primary objective is to determine the energy spectra of different cosmic ray mass groups by means of unfolding techniques applied to the KASCADE-Grande dataset. This analysis yields strong indications for a knee-like structure in the spectrum of the heavy component of cosmic rays (represented by iron) at about 8 * 1016 eV. For the first time, it is demonstrated experimentally that the sought-after second knee exists and is related to a change in the spectra of heavy cosmic ray mass groups. This insight contributes considerably to our understanding of cosmic ray physics.</abstract>
+                    <abstract type="content" lang="ger">Im Jahre 1958, 46 Jahre nach der Entdeckung der kosmischen Strahlung durch Hess, detektierten Kulikov und Khristiansen das sogenannte „Knie“ im Spektrum der kosmischen Strahlung, welches mit einer Veränderung im Index des Potenzgesetzes verknüpft ist. Viele Jahrzehnte vergingen bis im Jahre 2003 durch das KASCADE Experiment post hoc klargestellt werden konnte, dass dieses Knie durch eine Veränderung in den Spektren der leichten Massengruppen verursacht wird. Die Kenntnis von der Komposition der kosmischen Strahlung sowie der Existenz spezifischer Strukturen im Energiespektrum im Bereich des Knies ist von fundamentaler Bedeutung für das Verständnis von Dingen wie zum Beispiel dem Übergang von kosmischer Strahlung galaktischen zu extragalaktischen Ursprungs, oder deren Beschleunigung und Propagation im Allgemeinen. 
+ Das KASCADE-Grande Experiment, eine Erweiterung des ursprünglichen KASCADE Experiments, ist der Messung der Energiespektren einzelner Elementgruppen der kosmischen Strahlung, im Bereich einer oder zweier Größenordnungen höherer Energien als dessen Vorgänger, gewidmet. Es werden dabei Energien von 1016 eV bis 1018 eV abgedeckt. Das Experiment ermöglicht es dadurch die Existenz eines vermuteten zweiten Knies im Bereich von 1017 eV zu verifizieren. 
+ Die Bestimmung der Energiespektren verschiedener Massengruppen der kosmischen Strahlung durch Anwendung von Entfaltungsmethoden auf den KASCADE-Grande Messdatensatz ist das Hauptziel dieser Dissertation. Diese Analyse ergibt deutliche Hinweise auf die Existenz einer knieähnlichen Struktur im Spektrum der schweren Massengruppe (repräsentiert durch Eisen) bei Energien von ungefähr 8 * 1016 eV. Zum ersten Mal wurde experimentell nachgewiesen, dass ein zweites Knie existiert und mit einer Änderung im Spektrum der schweren Massengruppen verknüpft ist. Diese Erkenntnis trägt maßgeblich zu unserem Verständnis von der Physik der kosmischen Strahlung bei.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20120515-141648-9</identifier>
+                    <identifier type="sys">HT017226514</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_2806</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_2806">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-2923/dc1204.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_2806"
+            DMDID="DMD_wuppertal_elpub_2806">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_2806"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

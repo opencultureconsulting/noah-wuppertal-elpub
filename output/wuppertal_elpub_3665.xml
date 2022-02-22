@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3665">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Diels-Alder Reactions of Phencyclone and Coumarin Derivatives and Click Chemistry of Novel BODIPY Dyes for Fluorescence Detection</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Aydin, Engin Aytac</displayForm>
+                        <namePart type="family">Aydin</namePart>
+                        <namePart type="given">Engin Aytac</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Fluorescent dyes have been used frequently to label biomolecules for imaging and detection applications. Besides, non-fluorescent substances that present fluorescence emission after incorporation into click reactions, so called “fluorogenic click reactions”, are very useful in biological and chemical applications. The synthesis and investigation of the properties of novel dyes have been studied. Moreover, the click chemistry reactions with the purpose of fluorogenic applications were also investigated. The thesis starts with an introduction to the click reaction types applied to the fluorescence labeling and the fluorogenic reactions based on Huisgen 1,3-dipolar and Diels-Alder cycloadditions with the most important examples published in literature. 
+
+In this thesis, fluorogenic Diels-Alder reaction based on novel phencyclone derivatives have been developed and the optical properties of Diels-Alder adducts are discussed in detail. To the best of our knowledge, this is the first example of a fluorogenic Diels-Alder reaction, in which the diene part of the reaction is on the fluorogenic substance and the reaction between diene and dienophile brings the conjugation of the fluorogenic substance to provide “turn-on” fluorescence at room temperature. The crucial properties of this method are that the reaction allows to monitor Diels-Alder reaction by color change and up to 33-fold of fluorescence increase was achieved. Some nucleoside derivatives containing maleimide groups in order to incorporate into this fluorogenic Diels-Alder reaction were also developed and these “bio”-components were used as models and as a starting point for the development of bioorthogonal applications of fluorogenic Diels-Alder reaction. 
+
+Furthermore, new BODIPY dyes were designed with the purpose of using them in fluorogenic Huisgen 1,3-dipolar cycloaddition. Ortho-, meta- and para-azido substituted BODIPY derivatives have been synthesized and as expected, the ortho-azido-substituted BODIPY derivative presented relatively less fluorescence compared to the others. The click reaction with alkyne modified thymidine derivative promoted the fluorescence of this BODIPY derivative. The fluorescence enhancement was 14-fold. Moreover, the new synthetic approach of these BODIPY fluorophores permits to synthesize quite higher amounts of azidophenyl-substituted BODIPYs compared to literature procedures. 
+
+During the study to invent fluorogenic BODIPY derivatives, novel BODIPY dyes carrying nitro and amino groups in the BODIPY core were also produced. The synthetic approach and the investigation of optical properties of these new BODIPY derivatives are described. A nitro group is known for its fluorescence quenching properties, however, it is not able to quench BODIPY fluorescence in every situation, instead, it provides new fluorescence properties. 
+
+In conclusion, Diels-Alder cycloaddition and Huisgen 1,3-dipolar cycloaddition as click reactions were investigated for fluorescence detection. Moreover, novel phencyclone derivatives and new BODIPY based fluorophores were synthesized and their optical properties were studied.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20120821-144258-8</identifier>
+                    <identifier type="sys">HT017734765</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3665</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3665">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2012/aydin/dc1214.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3665"
+            DMDID="DMD_wuppertal_elpub_3665">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3665"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_195">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Design und Zeit</title>
+                        <subTitle>Kultur im Spannungsfeld von Entropie, Transmission, und Gestaltung</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Goppold, Andreas</displayForm>
+                        <namePart type="family">Goppold</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1999-09-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die vorliegende Arbeit stellt sich die Frage nach der &quot;Eigengesetzlichkeit&quot; der Kulturellen Transmission. Die Arbeit sucht eine neue Verknüpfung der natur-wissen-schaftlichen Erkenntnisse der dissipativen thermodynamischen Systeme, der Bio- und Neurosemiotik und der neuronalen Ästhetik. Es wird eine Systematik der kulturellen Transmission erarbeitet, mit einer diagrammatischen Darstellung der somatischen und extrasomatischen Faktoren, der Klassifikation der Medien, sowie mit umfangreichen Beispielen. Entwicklelt wird eine Morphologie der Dynamik und Transmission, auf Basis der Denktradition von Heraklit, Aristoteles, Nietzsche und Whitehead, sowie der Paticca Samuppada-Lehre des Buddha. Als Beispiel für die Darstellung einer essentiell (thermo-) dynamischen kosmischen Fundamentierung wird der Charakter des Mephistopheles in Goethes Werk &quot;Faust&quot; genauer untersucht. Die Arbeit gelangt zu einem Begriff der kulturellen, ontogenetischen Transmission, als Phänomen des Inter-Organischen, in der Semiosphäre. Diese ist eine Unterstruktur der planetaren Lebensvorgänge der Biosphäre: nämlich aller Kommunikations- und Interaktionsmuster. Bei den höheren tierischen Organismen wird sie auch Neuronale Resonanz genannt. Die durch die Zeit kumulierte Kommunikation und Interaktion der Organismen ist eine Transmissionsform von dynamischen, ontogenetischen Mustern der Bewegung und Aktivität, die sich seit Beginn des planetaren Lebens durch die Biosphäre fortpflanzen...</abstract>
+                    <classification authority="ddc">700</classification>
+                    <classification authority="ddc">100</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Design und Kunst » Kommunikationsdesign"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-19990123</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_195</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_195">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-301/d059901.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_195"
+            DMDID="DMD_wuppertal_elpub_195">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_195"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

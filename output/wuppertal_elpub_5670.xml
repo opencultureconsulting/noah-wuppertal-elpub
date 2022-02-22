@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5670">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Analyse und Optimierung eines tubularen Linearmotors in Sonderbauform für hydraulisch betätigte Kupplungs-Brems-Kombinationen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gruber, Sebastian Pascal</displayForm>
+                        <namePart type="family">Gruber</namePart>
+                        <namePart type="given">Sebastian Pascal</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die vorliegende Arbeit befasst sich mit der Analyse, Auslegung und Optimierung sowie der anschließenden Vermessung von Linearmotoren in Sonderbauform. Es handelt sich um zylinderförmige, permanenterregte, synchrone, nicht geblechte Linearmotoren mit konzentrierten Wicklungen, die auf sternförmigen Wicklungsträgern sitzen. Im Inneren der Läufer ist jeweils ein Hydraulikzylinder integriert. Der Aufbau ist Teil eines Gesamtsystems, bestehend aus einem herkömmlichen Servoumrichter und einer speziell entwickelten Winkel-Zeit-Regelung, welches das bisherige komplexe, nicht regelbare, ineffiziente System zur Betätigung einer hydraulischen Kupplungs-Brems-Kombination ersetzt. Hydraulische Kupplungs- Brems-Kombinationen werden beispielsweise in Pressen als Bindeglied zwischen Antriebs- und Abtriebsstrang verwendet. Um alle Anforderungen im Anfangsstadium der anwendungsbezogenen Entwicklung einbeziehen zu können, findet in einem ersten Schritt eine Analyse des zu ersetzenden Systems, des Aufbaus eines ersten Prototypen und dessen Einbindung in das Gesamtsystem statt. Im Anschluss erfolgt eine an die Anforderungen angepasste Auslegung der benötigten Baugrößen. Die Berechnungen basieren sowohl auf analytischen als auch auf numerischen Ansätzen, die in einem iterativen Prozess angeordnet sind. Die Auslegung und das gesamte Systemverhalten der einzelnen Baugrößen werden an einem Prüfstand, der den Antriebsstrang einer Presse nachbildet, getestet und validiert.</abstract>
+                    <abstract type="content" lang="eng">The present work is concerned with the analysis, design, optimization and measurement of a linear motor in special design. It is a matter of a tubular permanent magnet linear drive with radial magnetized magnet on an armature and discrete wound coils mounted on star-shaped winding carriers. A hydraulic cylinder is integrated inside the rotor. The structure is part of an overall system consisting of a conventional servo controller and a specially designed Angle-Time-Control, which serves to replace the conventional complex, uncontrollable and inefficient system for actuating a hydraulic clutch-brake combination. Hydraulic clutch Brake combinations are used in presses as a link in the powertrain. In the first step to respect all requirements for the development, an analysis of the system to be replaced, the structure of a first prototype and its engaging in the overall system is done. This is followed by a requirement proper design of required sizes. The calculations are based on both analytical and numerical approaches which are arranged in an iterative process. The development and the entire system behavior are tested and validated on a test bench which simulates the powertrain of a press.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20160330-095349-5</identifier>
+                    <identifier type="sys">HT018933154</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5670</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5670">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2016/gruber/de1601.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5670"
+            DMDID="DMD_wuppertal_elpub_5670">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5670"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

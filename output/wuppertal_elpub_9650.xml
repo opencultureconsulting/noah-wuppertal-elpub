@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9650">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zwischen Zeichenkunst und Mathematik: Die darstellende Geometrie und ihre Lehrer an den Technischen Hochschulen und deren Vorgängern in ausgewählten deutschen Ländern im 19. Jahrhundert</title>
+                    </titleInfo>
+                    <titleInfo lang="eng" type="translated">
+                        <title>Mathematics or drawing? - Descriptive geometry and its teachers at “Technische Hochschulen“ and their predecessors in selected German-speaking countries during the 19th century</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Benstein, Nadine</displayForm>
+                        <namePart type="family">Benstein</namePart>
+                        <namePart type="given">Nadine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Volkert, Klaus</displayForm>
+                        <namePart type="family">Volkert</namePart>
+                        <namePart type="given">Klaus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-08-13</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die vorliegende Dissertation beschäftigt sich mit der Funktion und Rolle der darstellenden Geometrie als Lehrfach in einem Teil des höheren technischen Bildungswesens, welches sich im 19. Jahrhundert im damaligen deutschsprachigen Gebietes herausbildete. Den Untersuchungen liegt die Annahme zugrunde, dass die darstellende Geometrie aufgrund ihrer engen Verbindung zu jenem eine Sonderstellung unter den mathematischen Disziplinen hatte bzw. bis heute hat, was auch darauf zurückgeführt werden kann, dass diese Disziplin nicht an Universitäten vertreten war. Wie sich diese Verbindung zum höheren technischen Bildungswesen im 19. Jahrhundert quantitativ niederschlug wurde anhand von Studienplänen der acht betrachteten Technischen Hochschulen bzw. deren Vorgängern untersucht. In diesem Kontext wurde ein Phasenmodell entwickelt, welches die sehr komplexen Entwicklungen des betrachteten höheren technischen Unterrichtswesens in drei Phasen bündelt. Als wichtigster Indikator für die Funktion und Rolle der darstellenden Geometrie als Lehrfach wurden in weiteren Untersuchungen die Lehrenden des Faches als Repräsentanten bzw. wissenschaftliche Funktionsträger der Disziplin betrachtet: Ihre eigene Ausbildung, ihre Publikationstätigkeit und ihre Karrierewege sollen Aufschluss über den Status der darstellenden Geometrie als Lehrfach im höheren technischen Bildungswesen im 19. Jahrhundert liefern.</abstract>
+                    <abstract type="content" lang="eng">The dissertation at hand deals with the function and role of descriptive geometry as an academic discipline, i.e. teaching subject, in parts of the higher technical education institutions that developed in the German-speaking countries during the 19th century. The investigations are based on the assumption that descriptive geometry had a special role among mathematical disciplines due to its exclusive connection to the technical education sector – it was not represented at universities. How this connection showed quantitatively during the 19th century was investigated with the help of curricula of eight “Technische Hochschulen” or their predecessors, respectively. In this context, a phase model was generated which divides the complex development process of these higher technical education institutions into three phases. Considered the most important indicator for the role and function of descriptive geometry as a teaching subject, the teachers (their own education, their careers and their publications) were examined in order to gain insights into the status of descriptive geometry in higher technical education during the considered time.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20190813-141836-4</identifier>
+                    <identifier type="doi">10.25926/y1s8-7806</identifier>
+                    <identifier type="sys">HT020190733</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9650</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9650">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2019/benstein/dc1917.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9650"
+            DMDID="DMD_wuppertal_elpub_9650">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9650"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

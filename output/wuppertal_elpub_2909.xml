@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_2909">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Conjugation on varieties of nilpotent matrices</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Boos, Magdalena</displayForm>
+                        <namePart type="family">Boos</namePart>
+                        <namePart type="given">Magdalena</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">We consider the conjugation-action of an arbitrary upper-block parabolic subgroup P of the general linear group (over C) on the variety of x-nilpotent complex matrices. We obtain a criterion as to whether the action admits a finite number of orbits and specify systems of representatives for the orbits in all finite cases. Furthermore, we give a set-theoretic description of their closures and examine them for minimal degenerations in case x=2. Concerning the action on the nilpotent cone, we obtain a generic P-normal form of the orbits which yields generic normal forms for the actions of the Borel subgroup B of upper-triangular matrices and of the standard unipotent subgroup U of B. We describe generating (semi-) invariants for the Borel semi-invariant ring as well as for the U-invariant ring. The latter is examined in more detail in terms of algebraic quotients by a toric variety closely related.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20120710-103808-3</identifier>
+                    <identifier type="sys">HT017314151</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_2909</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_2909">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-3019/dc1207.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_2909"
+            DMDID="DMD_wuppertal_elpub_2909">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_2909"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

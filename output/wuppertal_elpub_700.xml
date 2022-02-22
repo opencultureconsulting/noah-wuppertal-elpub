@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_700">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Auf der Spur der Sphinx - Sozioanalyse als erweiterter Rahmen zur Erforschung von Organisationskulturen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ahlers- Niemann, Arndt</displayForm>
+                        <namePart type="family">Ahlers- Niemann</namePart>
+                        <namePart type="given">Arndt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-01-25</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Diese Arbeit soll zum Entstehen einer Wahrnehmungs- und Erkenntniskultur für unbewusste Prozesse in Organisationen beitragen. Im Gegensatz zu der weithin vorherrschenden, durch Rationalität und Ökonomie geprägten Sichtweise von Organisationen und deren Kulturen wird hier von der Annahme ausgegangen, dass sie zugleich ein hohes Maß an Irrationalität aufweisen und durch weithin unbewusste Prozesse und Dynamiken bestimmt sind. Um diese eher verborgenen Dimensionen von Organisationen in den Blick zu nehmen und zu verdeutlichen, wird hier der Frage nachgegangen, inwieweit Organisationskulturen zum einen auf unbewussten Annahmen beruhen und sich so oftmals als dysfunktional für die Erreichung der Ziele und Aufgaben von Organisationen erweisen und wie sich diese unbewussten Anteile zum anderen verdeutlichen und bearbeiten lassen. Dieser Arbeit liegt eine sozioanalytische, interdisziplinären Betrachtungsweise von Organisationen und ihrer Kulturen zugrunde. Damit gelingt es dem Autor, eine neue und weiterreichende Perspektive für die Wirtschaftswissenschaften allgemein sowie für das Verständnis von Organisationskulturen aufzuzeigen. 
+
+ Ebenfalls erschienen unter selbigem Titel im Verlag &quot;Books on Demand&quot; Norderstedt 2007 
+ISBN-10: 3-8334-6253-1
+ISBN-13: 978-3-8334-6253-5</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20070037</identifier>
+                    <identifier type="sys">HT014985397</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_700</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_700">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2006/ahlers-niemann/db0601.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_700"
+            DMDID="DMD_wuppertal_elpub_700">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_700"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

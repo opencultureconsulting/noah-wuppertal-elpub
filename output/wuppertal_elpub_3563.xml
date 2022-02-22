@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3563">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Study of the Potential of the ATLAS Detector to Observe a Higgs Decay into t¯t in the Fully Hadronic Decay Mode</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Siebel, Anca-Mirela</displayForm>
+                        <namePart type="family">Siebel</namePart>
+                        <namePart type="given">Anca-Mirela</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In this thesis a pre-study of the search for heavy super-symmetric Higgs bosons H and A with the ATLAS experiment is presented. Studied is the fully hadronic decay channel into six jets via an intermediate top-antitop pair. Special consideration is paid to the improvement of the discovery potential by adding a b-tagging algorithm to the level 2 trigger system of ATLAS. The study is based on simulated events corresponding to an integrated luminosity of 35.8 inverse femtobarn. While with the standard trigger menu no exclusion limit on a Higgs contribution could be given, it was found that the addition of a b-tagging procedure to the trigger system allows for the exclusion of Higgs contributions for Higgs masses up to 720 GeV. A distinctive peak-dip structure due to interference effects, which was introduced into the simulated data for this study, proved to be crucial for the sensitivity to Higgs contributions.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20130605-115407-0</identifier>
+                    <identifier type="sys">HT017675942</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3563</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3563">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2006/siebel/dc0622.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3563"
+            DMDID="DMD_wuppertal_elpub_3563">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3563"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

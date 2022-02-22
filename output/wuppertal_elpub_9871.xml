@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9871">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchung von Lignin aus Papierabwässern mittels Py-GCxGC/TOF-MS und Ofenpyrolyse</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Netzel, Katrin</displayForm>
+                        <namePart type="family">Netzel</namePart>
+                        <namePart type="given">Katrin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-11-04</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Crude oil is a fossil resource and is extracted by exploitation of underground sources. With an annual worldwide production volume of approx. 4.5 billion tonnes in 2016, crude oil represents one of the most important fossil resources, in addition to coal and natural gas. Today, the largest fraction of crude oil is used for energy production. Oil consumption has risen strongly in the last century and crude oil extraction is becoming more and more complex and expensive. Due to limited crude oil resources, the critical assessment of CO2 emissions and the ever-increasing demand for energy, the need for clean energy sources and also alternative production-routes to platform chemicals are attracting growing attention. 
+In line with future sustainability demands the use of renewable biomass for materials and chemicals is becoming more and more relevant. Especially lignocellulosic biomass which does not compete with food or feed is a promising alternative, e.g. straw, grass and especially wood. Lignin, a raw material which naturally occurs as part of woody biomass is the second most abundant biopolymer in the world, accounting for approx. 30 % of wood. It is of particular interest to the chemical industry, as its structure is highly aromatic and it has a high carbon-to-hydrogen ratio. Methods to isolate cellulose from wood for papermaking are readily established in the paper and pulp industry. In this industry, modified lignin is obtained as a waste product in quantities of about 50 million tonnes per year worldwide. These technical lignins are primarily being burned to obtain additional process-energy and to recover the pulping chemicals. 
+To enable a material use of technical lignins in industry, the production of a uniform product is important. However, modified lignins usually have varied and high molecular weights and properties, depending on the pulping process and the type of lignocellulosic biomass. One possible approach to unify the different lignins is the pyrolytic decomposition process. As the functional aromatic structures are already present in lignin, the obtained pyrolysis oil could be used as a basis for platform chemicals and partially substitute crude oil. 
+The presented work shows the development and optimization of the analytical method Py- GCxGC/TOF-MS with the target to develop a powerful method for the analysis of lignin model compounds and technical lignins from paper production and to investigate the decomposition of higher molecular compounds. Organosolv lignin, kraft lignin and lignosulfonate waste liquors were chosen as representative samples for technical lignins. These selected technical lignins are analyzed using a flash pyrolysis technique (Py-GCxGC/TOF-MS), compared with each other and some parts of the pyrolysis products are qualified and quantified. Due to the exact qualification, the influences of the used process chemicals in paper production on the product spectrum can be identified. To allow a comparison with conventional pyrolysis techniques, all lignin substances are pyrolyzed by offline furnace pyrolysis. The comparing of the two techniques shows, insights for the technical implementation are gained. The target focus of this work is to understand the pyrolysis process under different conditions. Thereby enabling a better process-based control over the desired pyrolysis products in the future.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20191104-152318-9</identifier>
+                    <identifier type="doi">10.25926/bqxj-fs86</identifier>
+                    <identifier type="sys">HT020294780</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9871</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9871">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2019/netzel/dc1927.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9871"
+            DMDID="DMD_wuppertal_elpub_9871">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9871"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

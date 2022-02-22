@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5470">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entwicklung eines Verfahrens zur photogrammetrischen Verformungsmessung mittels handelsüblicher Digitalkamera und Systemidentifikation mit der Methode der inversen finiten Elemente</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Stephan, Christoph</displayForm>
+                        <namePart type="family">Stephan</namePart>
+                        <namePart type="given">Christoph</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Um die Standsicherheit und Funktionstüchtigkeit bestehender Bauwerke während ihrer gesamten Lebensdauer gewährleisten zu können, sind regelmäßige Untersuchungen und Bewertungen unerlässlich. Von besonderem Interesse sind dabei zerstörungsfreie Prüfmethoden, die beispielsweise auf Verformungs- oder Frequenzmessungen an der Struktur basieren.
+ Im ersten Teil dieser Arbeit werden Verfahren vorgestellt, die das Potenzial handelsüblicher Digitalkameras aus dem Jahre 2015 nutzen, um solche Messungen photogrammetrisch durchzuführen. Dazu wird die Position vorgegebener Punkte der Struktur in mehreren, nacheinander aufgenommenen Fotos des unverformten und verformten Zustands zunächst in Pixeln identifiziert und anschließend in echte Längeneinheiten umgerechnet. Die hierzu nötige genaue Kenntnis der Kamera und des Abbildungsvorgangs sowie dessen Invertierung werden eingehend erläutert.
+ Ein numerisches Verfahren zur Systemidentifikation bildet die Methode der inversen Finiten Elemente (iFEM), die im zweiten Teil dieser Arbeit vorgestellt und weiterentwickelt wird. Einer klassischen Modellierung mit Finiten Elementen werden zusätzliche Struktur- und Lastfreiheitsgrade hinzugefügt. Diese, sowie Abweichungen der rechnerischen Lösung von Messwerten, die an der bestehenden Struktur durchgeführt werden, werden mit Kosten bestraft, die es zu minimieren gilt. Es wird eine Erweiterung präsentiert, bei der die Kostenfunktion direkt minimiert wird, was unter anderem eine Berücksichtigung von Eigenfrequenzen als zusätzliche Messwerte und die Beschränkung von Freiheitsgraden erlaubt.
+ Im dritten Teil der Arbeit werden zunächst in einer Reihe von Laborversuchen die Leistungsfähigkeiten und Genauigkeiten der photogrammetrischen Messmethode und der iFEM untersucht. Verformungen können mit einer Genauigkeit von ±0,2 Pixel ermittelt werden. Unter Berücksichtigung der Auflösung der verwendeten Kamera und einer Breite des Messbereichs von 30 cm entspricht dies 0,008 mm. Ebenso kann die grundsätzliche Funktionstüchtigkeit der iFEM gezeigt werden. Allerdings bleibt die Methode bei einer Reihe von Anwendungen deutlich hinter den Erwartungen zurück.
+ Schließlich werden die Methoden bei realen Anwendungsbeispielen eingesetzt, um ihre Praxistauglichkeit zu demonstrieren.</abstract>
+                    <abstract type="content" lang="eng">Regular inspections and assessments of existing structures are indispensable for ensuring their stability and serviceability throughout their life span. Non-destructive testing methods based on displacement and frequency measurements are of particular interest for this purpose.
+ The first part of this work presents techniques using the potential of ordinary digital cameras from 2015 to perform those measurements photogrammetrically. The position of given points of the structure therefore is identified in pixels on several pictures in a row taken from the undeformed and deformed state, respectively. The pixel units are then transformed into true length units. A good understanding of the camera and the mapping process as well as its inversion is necessary and will thus be explained in detail. One numerical technique for system identification is the method of inverse finite elements (iFEM) which will be assessed and advanced in the second part of this work. Additional degrees of freedom for structural properties and loads are added to the classical finite element model. These, as well as the deviations of the calculated solution with respect to the measurements taken from the existing structure, are penalised by costs which need to be minimised. An extension is presented which directly minimises the cost function. Among other benefits, this allows to consider eigenfrequencies as additionally measured values and to constrain the degrees of freedom.
+ A number of laboratory tests are then carried out in the third part of this work to investigate the performance and accuracy of the photogrammetric measurement method and the iFEM. Displacements can be determined with an accuracy of ±0,2 pixels. This corrensponds to 0,008 mm considering the resolution of the camera and the width of the measuring range of 30 cm. The general functionality of the iFEM can be equally shown, but the method fails to live up to expectations for a series of applications.
+ Finally, the methods are applied to real examples of use to demonstrate their practicability.</abstract>
+                    <classification authority="ddc">624</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Architektur und Bauingenieurwesen » Bauingenieurwesen"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20160118-112918-7</identifier>
+                    <identifier type="sys">HT018875657</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5470</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5470">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/bauingenieurwesen/diss2015/stephan/dd1505.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5470"
+            DMDID="DMD_wuppertal_elpub_5470">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5470"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

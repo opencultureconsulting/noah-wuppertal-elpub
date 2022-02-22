@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_175">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Hugo von Hofmannsthal: &quot;Die Wege und Begegnungen&quot; sowie Reden und Ansätze zwischen 1901 und 1907. Kritische und kommentierte Edition.</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Heumann, Konrad</displayForm>
+                        <namePart type="family">Heumann</namePart>
+                        <namePart type="given">Konrad</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-08-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Dissertation legt eine kritische Edition von sechs Prosatexten des österreichischen Autors Hugo von Hofmannsthal (1874-1929) vor. 
+ Die Auswahl der edierten Texte umfaßt ein breites Spektrum. An Hofmannsthals Antwort auf eine Umfrage (&quot;Antwort auf eine Umfrage von Ernst Bernhard zum Problem der dichterischen Inspiration&quot;, 1901) schließen sich Materialien zu drei Vorträgen aus dem Jahr 1902 an, die sich stilistisch wie auch im Grad ihrer Ausarbeitung stark voneinander unterscheiden (&quot;Über Goethes dramatischen Stil in der &apos;Natürlichen Tochter&apos;&quot;; &quot;Ansprache / gehalten von Hugo von Hofmannsthal am Abend des 10. Mai 1902 im Hause des Grafen Karl Lanckoronski&quot;; &quot;Tasso / Vortrag für Lanckoronski&quot;). Darauf folgen flüchtige Notizen zu einem geplanten Aufsatz (&quot;Diese Rundschau&quot;, 1905/1907). Am Ende stehen zwei Fassungen einer überaus dichten Prosaarbeit, die erzählerische Züge hat (&quot;Die Wege und die Begegnungen&quot;, 1907/1917). 
+ Allen diesen Texten ist gemeinsam, daß sie auf je eigene Weise Ausdruck eines Umbruchs sind, der sich um 1900 in Hofmannsthals Lebensgeschichte wie auch in seinem künstlerischen Schaffen vollzog. 
+ Zu jedem Text wird eine Entstehungsgeschichte, eine Darstellung der Überlieferungssituation, die wichtigsten Varianten und Zeugnisse sowie ein Einzelstellenkommentar geboten. 
+ Die Dissertation wird gekürzt in den Band &quot;Reden und Aufsätze 2&quot; der Kritischen Hofmannsthal-Ausgabe eingehen (Hugo von Hofmannsthal: Sämtliche Werke. Kritische Ausgabe. Veranstaltet vom Freien Deutschen Hochstift. Frankfurt am Main, seit 1975), den der Autor gemeinsam mit Dr. Martina Schmidt (Wien)</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » Allgemeine Literaturwissenschaft"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20010403</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_175</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_175">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-214/d040103.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_175"
+            DMDID="DMD_wuppertal_elpub_175">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_175"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

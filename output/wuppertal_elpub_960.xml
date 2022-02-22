@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_960">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Beitrag zur Modellierung stochastischer Prozesse in der Sicherheits- und Zuverlässigkeitstechnik mittels Monte-Carlo-Simulation unter Berücksichtigung dynamischer Systemänderungen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hauschild, Jan</displayForm>
+                        <namePart type="family">Hauschild</namePart>
+                        <namePart type="given">Jan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-08-10</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Moderne elektronische Systeme im Kraftfahrzeug sind durch einen hohen Grad an Komplexität und Vernetzung von Informationen und Funktionen gekennzeichnet. Im Sinne einer realitätsnahen Sicherheits- und Zuverlässigkeitsanalyse gilt es, diese Systeme unter realen Feldbedingungen (zeitabhängiges Ausfallverhalten, physikalische Einflussgrößen wie Temperatur u.a.) zu prüfen und zu bewerten.
+ Unter Verwendung der Monte-Carlo-Simulation (MCS) wird gezeigt, wie sich solche Systeme, mit dem Ziel einer realitätsnahen Sicherheits- und Zuverlässigkeitsanalyse, als stochastische Prozesse modellieren und untersuchen lassen.
+ Im Rahmen sicherheits- und zuverlässigkeitstechnischer Untersuchungen können seltene Ereignisse mit Hilfe spezieller Verfahren zur Ergebnisschätzung und zur Varianzreduktion (gewichtete MCS) bewertet werden. Mit der Anwendung solcher Verfahren wird ein Beitrag zur Weiterentwicklung und Optimierung von bestehenden Simulationsalgorithmen geleistet.
+ Anhand der Untersuchung eines 2-Kanal-Rechnersystems wird gezeigt, wie sich der Einfluss der Temperatur auf die Lebensdauer des Systems abbilden und untersuchen lässt. Zu diesem Zweck wird die Systemtransporttheorie erstmalig um ein Schadensakkumulationsmodell erweitert.
+ Mit der Auswertung eigens generierter Daten werden die Modellparameter und das Ausfallverhalten des untersuchten 2-Kanal-Rechnersystems prognostiziert. Ziel des neuen temperaturabhängigen Prognosemodells ist es, zukünftig auf Basis von Entwicklungs- und Felddaten, Modellparameter zu erheben, mit denen sich realitätsnahe Untersuchungen durchführen lassen.</abstract>
+                    <abstract type="content" lang="eng">Modern electronic systems in motor vehicles are characterised by a high degree of complexity linking together plenty of information and functions. This type of system regarding safety and reliability analyses in reality, needs to be tested and investigated under realistic field conditions, for example time-dependent failure behaviour and physical parameters (temperature etc.).
+ It is being demonstrated by the use of Monte-Carlo-Simulation (MCS), how such a system can be modelled and investigated as stochastic processes aimed at analysing safety and reliability realistically.
+ In order to study the systems which have typically rare events, special techniques for estimating the mean and reducing the variance should be applied. In the scope of this study, application of such techniques makes a major contribution to the development of MCS algorithms.
+ It is being shown by 2-channel-control system studying, how the effect of temperature on system’s lifetime can be modelled and investigated. Furthermore, the system transport theory has been extended to cumulative damage model for these purposes.
+ The model parameters and failure behaviour of 2-channel-control system are predicted by analysing generated data. The goal of the new temperature-dependent prognosis model is to specify the model parameters from test- and field data in the future. Ultimately, these realistic model parameters are needed to perform realistic investigations.</abstract>
+                    <abstract type="content" lang="fre">Les systèmes électroniques modernes utilisés dans une automobile sont caractérisés par leur complexité et un réseau de fonctions et d’échange d’informations important. Dans le souci d’effectuer une analyse de sûreté de fonctionnement (fiabilité, sécurité) réaliste, il est nécessaire de tester et d’évaluer ce type de systèmes en tenant compte des conditions réelles d’utilisation telles les taux de défaillance variables, les paramètres physiques comme la température, etc…
+ Nous présentons comment modéliser et analyser de tels systèmes en les assimilants à des processus stochastiques et en utilisant la simulation de Monte-Carlo, ceci dans le but d’effectuer une étude de fiabilité ou de sécurité la plus réaliste possible.
+ Les événements rares relatifs à une étude de sûreté de fonctionnement peuvent être évalués grâce à l’utilisation de certains estimateurs statistiques et de méthodes de réduction de la variance. Ainsi, une contribution au développement et à l’amélioration des algorithmes est apportée.
+ La représentation et l’analyse de l’influence de la température sur la durée de vie d’un tel système sont illustrés à l’aide de l’étude d’un système constitué de deux microprocesseurs redondants. Par ailleurs, une approche innovante consiste à l’application du processus d’accumulation des dommages à la théorie des transports des systèmes.
+ L’évaluation de données simulées a permis d’estimer les paramètres du modèle du système composé de deux microprocesseurs redondants et d’en déduire le comportement de sa sûreté. Le nouveau modèle de prévision prenant en compte l’influence de la température a pour but d’estimer des paramètres, lesquels traduisent le plus fidèlement possible un comportement en situation réelle. Ils permettent ainsi une étude réaliste du système électronique. La base de l’information pourra être des données de tests ou des retours d’informations sur des utilisations en conditions réelles.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Maschinenbau und Sicherheitstechnik » Sicherheitstechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20070741</identifier>
+                    <identifier type="sys">HT015253212</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_960</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_960">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/sicherheitstechnik/diss2007/hauschild/dd0705.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_960"
+            DMDID="DMD_wuppertal_elpub_960">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_960"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_15180">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Synthese von neuartigen, Siloxan-substituierten, konjugierten Polymeren</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kosse, Matthias</displayForm>
+                        <namePart type="family">Kosse</namePart>
+                        <namePart type="given">Matthias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-08-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Im Rahmen der Arbeit wurden durch Kombination von konjugierten Polymeren und Siloxan-Seiten- bzw. Hauptkettensegmenten Polymere synthetisiert, welche die Eigenschaften beider Materialklassen miteinander vereinen. 
+Im ersten Teil der Arbeit wurden unterschiedliche siloxanhaltige Polyfluorene hergestellt. Hierbei wurden sowohl Fluoren-Siloxan-Blockcopolymere als auch Fluoren-Homopolymere mit Siloxan-Seitengruppen synthetisiert. 
+Für die Synthese der Copolymere wurden fünf unterschiedlich lange Siloxan-Blöcke verwendet, um einen Einfluss der Kettenlänge auf die Eigenschaften der Copolymere zu untersuchen. 
+Für die Homopolymere wurden als Seitenkette ein Tri- und ein Pentasiloxan verwendet, um auch hier den Einfluss der Länge der Siloxankette auf die Eigenschaften der Homopolymere zu untersuchen. 
+Hierbei wurde festgestellt, dass der Einbau der Siloxan-Gruppen sowohl einen Einfluss auf die thermischen Eigenschaften als auch auf die Löslichkeit der Homo- bzw. Copolymere hat. 
+Im zweiten Teil der Arbeit wurde ein siloxanhaltiges Leiterpolymer mittels des literaturbekannten Mehrstufenprozesses hergestellt, welches strukturell an das Poly(para-phenylen)-Leiterpolymer Me-LPPP von Scherf et al. angelehnt ist. Die gewünschte Siloxan-Funktionalität wurde hierbei über einen Diketonbaustein in das Leiterpolymer integriert. Auch hier konnte ein positiver Einfluss auf die Löslichkeit festgestellt werden. 
+Im dritten Teil der Arbeit wurden mit Hilfe der GRIM-Methode siloxanhaltige Polythiophene hergestellt, welche strukturell den literaturbekannten Polythiophenen von Mori et. al. ähneln. 
+Hierbei sollte durch Verlängerung der Siloxan-Seitenkette auf ein lineares Tri- bzw. Pentasiloxan untersucht werden, ob sich die in der Literatur beschriebene Löslichkeit der Polythiophene weiter verbessern lässt. 
+Im vierten Kapitel der Arbeit wurden unterschiedliche Donor-Akzeptor-Copolymere synthetisiert, welche alle über Siloxan-Seitenketten verfügen. Hierfür wurden zum einen CPDT-haltige Polymere hergestellt, bei denen die Siloxan-Gruppe über die CPDT-Einheit in das Polymer eingebaut wurde. Die Synthese wurde sowohl über die Direkt-Arylierung-Polykondensation (DAP) als auch über eine konventionelle Suzuki-Kreuzkupplung durchgeführt. Neben den CPDT-haltigen Polymeren wurden auch DPP-haltige Copolymere hergestellt, bei denen der Siloxan-Baustein über die DPP-Einheit in das Polymer eingebaut wurde. Bei allen hergestellten Donor-Akzeptor-Copolymeren wurde eine verbesserte Löslichkeit festgestellt, während bei den optischen Eigenschaften kein nennenswerter Einfluss festzustellen war.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20210824-113404-2</identifier>
+                    <identifier type="doi">10.25926/rjw7-ec80</identifier>
+                    <identifier type="sys">HT021088070</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_15180</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_15180">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2021/kosse/dc2114.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_15180"
+            DMDID="DMD_wuppertal_elpub_15180">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_15180"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

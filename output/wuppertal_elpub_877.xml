@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_877">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>B-Identifikation im Level 2 Trigger des ATLAS Experiments</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kootz, Andreas</displayForm>
+                        <namePart type="family">Kootz</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005-10-13</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Zur Zeit wird am europäischen Forschungszentrum für Teilchenphysik CERN der neue Proton-Proton-Speicherring LHC und die zugehörigen vier Experimente gebaut. Ziele der Experimente sind unter anderem der Nachweis des Higgs-Bosons sowie detaillierte Studien des top-Quarks. Um möglichst reine Datensätze zu erhalten wäre es hilfreich, diese Ereignisse bereits während der Datennahme möglichst effizient zu selektieren. Dabei würde es helfen, wenn b-Quark-Jets auf Trigger-Niveau erkannt werden könnten. 
+ 
+ Ziel der Arbeit war die Entwicklung eines Algorithmus zur Identifikation von b-Quark-Jets, welcher die Anforderungen des Level 2 Triggers erfüllt. 
+ 
+ Das erste Kapitel der Arbeit gibt einen Einblick in die wesentlichen Bestandteile des Standardmodells der Teilchenphysik. In den folgenden zwei Kapiteln wird der Beschleuniger und der ATLAS Detektor sowie das ATLAS-Triggersystem beschrieben. Kapitel vier beschreibt die Möglichkeiten der B-Jet-Identifikation sowie einen Vertexalgorithmus auf Basis der Perigee-Parametrisierung. Das fünfte Kapitel befasst sich mit Studien des verwendeten Datensatzes und mit Eigenschaften der Regions of Interest. Im letzten Kapitel wird der entwickelte B-Identifikations-Algorithmus beschrieben. Das Kapitel erläutert die einzelnen Phasen des Algorithmus und die zur b-Quark-Jet-Identifikation benutzten Observablen. Zum Schluss werden die erzielten Ergebnisse für verschiedene Observablen miteinander verglichen.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20050459</identifier>
+                    <identifier type="sys">HT014525482</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_877</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_877">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2005/kootz/dc0512.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_877"
+            DMDID="DMD_wuppertal_elpub_877">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_877"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

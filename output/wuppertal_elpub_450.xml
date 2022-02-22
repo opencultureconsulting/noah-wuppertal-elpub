@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_450">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchungen zum atmosphärenchemischen Verhalten von Formaldehydacetalen R-OCH₂O-R: Kinetische Untersuchungen, Produktanalysen und Ozonbildung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Thüner, Lars Peter</displayForm>
+                        <namePart type="family">Thüner</namePart>
+                        <namePart type="given">Lars Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2000-05-10</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Gasphasenchemie von verschiedenen Acetalen der allgemeinen Form R-OCH₂O-R wurde im Außenluft-Photoreaktor Euphore (V = 200 m³) in Valencia/Spanien und in einem Laborphotoreaktor (V = 1080 l) in Wuppertal/Deutschland untersucht. Die ermittelten OH-Geschwindigkeitskonstanten sind (in 10-11 cm³ Molekül-1 s-1): di-n-Propoxymethan 2,62±0,42; di-iso-Propoxymethan 3,87±0,40; di-n-Butoxymethan 3,47±0,18; di-iso-Butoxymethan 3,70±0,72; di-sek-Butoxymethan 4,95±0,51. Die OH-Geschwindigkeitskonstanten der Acetale sind vergleichsweise hoch, was durch eine Koordination des angreifenden OH-Radikals am Molekül bewirkt werden könnte. Produktuntersuchungen für die OH-initiierte Oxidation von sechs Acetalen R-OCH₂O-R (R = C₂-C₄) wurden durchgeführt und zeigen für alle Verbindungen analoge Abbauwege: Der Hauptreaktionskanal wird durch den OH-Angriff am α -C-Atom initiiert und führt nach einem C-C-Bindungsbruch zur Bildung eines Alkoxymethylesters und eines Alkoxyradikals. Der Bindungsbruch erfolgt selektiv zwischen α -C-Atom und der größeren Seitenkette unter Abspaltung des stabilsten Radikals, das weiter zu einem Aldehyd oder Keton reagiert. Der OH-Angriff an der zentralen OCH₂O-Gruppe findet nur in geringem Maße statt und führt zum Carbonat R-OC(O)O-R. Vergleichsexperimente zur Ozonbildung in der Euphore-Kammer haben gezeigt, daß die Acetale, obwohl sie hohe OH-Geschwindigkeitskonstanten besitzen, generell relativ &quot;unreaktiv&quot; sind und nur wenig HOₓ-Radikale im Reaktionssystem erzeugen. Das reaktivere Verhalten von Diethoxymethan und di-iso-Propoxymethan wird vermutlich durch die Bildung von Formaldehyd als Hauptabbauprodukt und dessen Photolyse bewirkt.</abstract>
+                    <abstract type="content" lang="eng">The gas phase chemistry of several different acetals R-OCH₂O-R was investigated both in the large-volume outdoor photoreactor Euphore (V = 200 m³) in Valencia, Spain and in a laboratory reaction vessel (V = 1080 l) in Wuppertal, Germany. The OH rate constant received are (in units of 10-11 cm³ molecul-1 s-1): di-n-propoxy methane 2.62±0.42; di-iso-propoxy methane 3.87±0.40; di-n-butoxy methane 3.47±0.18; di-iso-butoxy methane 3.70±0.72; di-sec-butoxy methane 4.95±0.51. The rate constants of the acetals are relatively high and might be accelerated by a co-ordination of the OH radical at the acetal molecule. Product studies have been made for the reactions of OH with six acetals R-OCH₂O-R (R = C₂-C₄) and show the same reaction tendencies for all the compounds: the main degradation pathway is initiated by OH attack at the α -C-atom of the side chain with C-C bond cleavage between α - and β -C-carbon atom leading to an alkoxy methyl ester and an alkoxy radical. the bond cleavage selectively occurs between the α -C-atom and the &quot;biggest&quot; moiety corresponding to the elimination of the most stable radical, which further oxidation forms an aldehyde or ketone. the OH attack at the central acetal moiety of the molecule takes place with a small percentage and forms the carbonate R-OC(O)O-R. Comparison-experiments on the ozone formation of the acetals were performed in the Euphore chamber. It seems that, in general, the acetals are quite &quot;inreactive&quot; and although they have high OH rate constants they do not produce much HOₓ radicals in the experimental reaction system. The more reactive behaviour observed for diethoxy methane and di-iso-propoxy methane seems to be caused by the formation of formaldehyde as their main product and its photolysis.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20000147</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_450</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_450">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-545/d090004.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_450"
+            DMDID="DMD_wuppertal_elpub_450">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_450"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

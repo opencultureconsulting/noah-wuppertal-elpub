@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_124">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entwicklung einer Testbatterie zur Erfassung kognitiver Funktionen und Dysfunktionen alkoholabhängiger Patienten</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Preuß, Michèle</displayForm>
+                        <namePart type="family">Preuß</namePart>
+                        <namePart type="given">Michèle</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003-05-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Langjähriger Alkoholkonsum führt zu einer großen Anzahl unterschiedlicher Veränderungen beim Menschen. Diese betreffen physiologische, emotionale und kognitive Bereiche. In dieser Arbeit wurde insbesondere die kognitiven Funktionen und Dysfunktionen untersucht. Es gibt eine Vielzahl von Tests, die Leistungsfähigkeiten im Kognitiven- oder im Verhaltensbereich erfassen. 
+
+Ziel dieser Untersuchung ist es, Vorschläge für eine Testbatterie zu machen, die die Unterschiede zwischen Alkoholkranken und Gesunden erfassen und so zu einer zuverlässigen Diagnose beitragen können. 
+
+Dazu wurde eine Reanalyse von drei in Wuppertal geschriebenen Diplomarbeiten aus den Jahren 1998 durchgeführt. Aus diesen drei Diplomarbeiten wurde die eine Datei mit „Buchholz„ (Buchholz, 1998) die andere Datei mit „Kückelhaus/ Wessing„ (Kückelhaus, 1998 und Wessing, 1998) bezeichnet. Beide Diplomandinnen Kückelhaus und Wessing untersuchten die gleichen Stichproben, jedoch wurden jeweils unterschiedliche Testverfahren durchgeführt. Es wurden 16 Testverfahren mit insgesamt 61 Variablen erhoben. Einige der Variablen wurden in beiden Datensätzen erhoben, andere nur in einem davon. Insgesamt wurden N = 70 Patienten untersucht. Im Datensatz Kückelhaus/Wessing wurden drei Gruppen unterteilt: die Nichtamnestischen Alkoholiker (Exp. 1), die Amnestischen Alkoholiker (Exp. 2) und die Kontrollgruppe. Bei der Datei Buchholz wurde zwischen Patienten und Kontrollgruppe unterschieden. 
+
+Zuerst wurden die Variablen daraufhin überprüft, ob sie zwischen den Gruppen unterscheiden können. Alle Variablen, die in beiden Datensätzen ein signifikantes Ergebnis erzielt hatten, wurden in die Auswahl für die Testbatterie aufgenommen.</abstract>
+                    <classification authority="ddc">150</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Human- und Sozialwissenschaften » Psychologie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20030161</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_124</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_124">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-320/d030204.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_124"
+            DMDID="DMD_wuppertal_elpub_124">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_124"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

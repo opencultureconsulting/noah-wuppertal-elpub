@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1026">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Motivation und Volition von Lehrkräften in Schulinnovationsprojekten</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schellenbach-Zell, Judith</displayForm>
+                        <namePart type="family">Schellenbach-Zell</namePart>
+                        <namePart type="given">Judith</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-08-05</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Viele Schulinnovationen werden im Bildungssystem über Projekte und deren Verbreitungsstrukturen an die Schulen vermittelt. Die Teilnahmemotivation von Lehrkräften stellt einen wesentlichen Einflussfaktor auf die Verbreitung der Innovation an den Schulen dar. Was aber motiviert Lehrkräfte, sich an Schulinnovationsprojekten zu beteiligen? Und wie schaffen es Lehrkräfte, längerfristig engagiert an einem Schulinnovationsprojekt beteiligt zu bleiben? Die vorliegende Arbeit versucht, eine Antwort auf diese Fragen zu finden und bezieht sich dabei auf die Theorien und Erkenntnisse der Lernmotivations-, Volitions- und Selbstregulationsforschung. Ein Schwerpunkt liegt dabei auf der Selbstbestimmungstheorie und der Interessentheorie, die verschiedene Bedingungen zur Entstehung von Motivation postulieren. Außerdem untersucht die vorliegende Arbeit die Wirksamkeit von metakognitiven Strategien und Strategien zur Motivationsregulation auf die Aufrechterhaltung der Motivation und die Volition der Lehrkräfte. Die Daten der Lehrkräfte (N = 168, MZP1/ N = 128, MZP2) wurden mit einem Fragebogen im Rahmen des BMBF-Projekts &quot;Chemie im Kontext&quot; erhoben. Den Fragestellungen wird sowohl in regressionsanalytischen Verfahren als auch mit Strukturmodellierungen nachgegangen. Dabei lassen sich sowohl die Relevanz, die Lehrkräfte dem Innovationsprojekt zuschreiben, als auch das Autonomieerleben innerhalb der Projektstruktur als wesentliche Einflussfaktoren auf die Motivation ermitteln. Außerdem zeigen bestimmte metakognitive Strategien und Strategien der Motivationsregulation deutliche Effekte auf die Aufrechterhaltung der Motivation und auf die Volition.</abstract>
+                    <classification authority="ddc">370</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Human- und Sozialwissenschaften » Erziehungswissenschaften"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20090756</identifier>
+                    <identifier type="sys">HT016025116</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1026</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1026">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbg/paedagogik/diss2009/schellenbach-zell/dg0902.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1026"
+            DMDID="DMD_wuppertal_elpub_1026">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1026"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

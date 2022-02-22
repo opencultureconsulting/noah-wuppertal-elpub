@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6840">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Korrelationen struktureller und elektronischer Eigenschaften in Kesterit-Dünnschichten, -Nanokristallen und -Solarzellen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Just, Justus</displayForm>
+                        <namePart type="family">Just</namePart>
+                        <namePart type="given">Justus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Elektrische Energie spielt im 21. Jahrhundert eine wesentliche Rolle bei der Befriedigung menschlicher Grundbedürfnisse, gleichwohl etwa 30% der Weltbevölkerung bislang keinen gesicherten Zugang zu Elektrizität besitzen. Voraussagen beziffern den Bedarf an elektrischer Energie bis 2050 auf über 40.000 TWh pro Jahr, was einer Verdopplung innerhalb der nächsten 35 Jahre gleichkäme. Eine Limitierung des atmosphärischen CO2-Gehaltes ist unter Beibehaltung des derzeitigen Anteils fossiler Energieträger an der Gesamtproduktion elektrischer Energie nicht zu erreichen und macht den Ausbau der Nutzung regenerativer Energieträger zwingend erforderlich. 
+Damit die Photovoltaik eine wesentliche Rolle bei der Bewältigung globaler Energieprobleme spielen kann, muss sie ökonomisch rentabler und konkurrenzfähig werden, insbesondere gegenüber der Nutzung fossiler Energieträger. Die Produktion elektrischer Energie mit einem heutigen polykristallinen Silizium-Solarmodul kostet kumuliert auf dessen Lebensdauer in Deutschland etwa 2-3 mal so viel wie die Produktion durch Verbrennung fossiler Energieträger wie der Braunkohle. Die Kosten für konventionelle Photovoltaik ergeben sich zum einen durch den hohen notwendigen Primärenergieeinsatz bei der Herstellung und zum anderen durch zeit- und kostenaufwendige Herstellungsverfahren und einen hohen Materialverbrauch. 
+Die fortschreitende Entwicklung von nicht-waferbasierter Dünnschichtphotovoltaik, die sog. Photovoltaik der 2. Generation, mit Solarzellen basierend auf Kupfer-Indium-Gallium-Diselenid (CIGSe) oder Cadmium-Tellurid (CdTe), stellt eine vielversprechende Alternative mit einer möglichen signifikanten Kostenreduktion dar. Der maximale Produktionsumfang von Photovoltaikmodulen auf einer Terawattskala ist jedoch durch die weltweiten Reserven der verwendeten Mineralien beschränkt: Bei vollständiger Verwendung der global erschlossenen Mineralienreserven ist die Produktion von CdTe- und CIGSe-basierten Photovoltaikmodulen auf eine Gesamtleistung von weniger als 6% des derzeitigen Verbrauchs elektrischer Energie limitiert. Noch weit vor der Erschöpfung der globalen Mineralienreserven wird jedoch ein signifikanter ökonomischer Nachteil durch die Verwendung seltener Rohmaterialien entstehen. Beispielsweise ist der Preis für Indium innerhalb der letzten 5 Jahre, u.a. in Folge der weitreichenden Nutzung von Indium bei der Herstellung von Flachbildschirmen, um knapp 100% gestiegen. 
+Diese Arbeit beschäftigt sich mit einem neuartigen und vielversprechenden Absorbermaterial für Dünnschichtsolarzellen: Kupferzinkzinnsulfid (CZTS) bzw. -selenid (CZTSe), sog. Kesterit1. Es besteht ausschließlich aus verhältnismäßig häufig vorkommenden Elementen und weist vergleichbare Materialeigenschaften wie die konventioneller Dünnschichtphotovoltaik auf. Auf Basis der weltweit erschlossenen Rohstoffreserven der enthaltenen Elemente ließen sich bereits mit dem heutzutage erzielten Wirkungsgrad CZTS-Module herstellen, deren Gesamtleistung den derzeitigen Energieverbrauch elektrischer Energie bei weitem übertrifft. 
+CZTS(e)2 besitzt als direkter Halbleiter mit einer ideal auf das terrestrische Sonnenspektrum anpassbaren Bandlücke zwischen 1,0 eV und 1,5 eV und einem Absorptionskoeffizienten von über 104 μm−1 bei gleichzeitig hoher chemischer Stabilität hervorragende Eigenschaften für die Anwendung als Absorbermaterial in Solarzellen.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170413-102655-0</identifier>
+                    <identifier type="sys">HT019313747</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6840</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6840">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2015/just/dc1540.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6840"
+            DMDID="DMD_wuppertal_elpub_6840">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6840"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_583">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Nichtlineare thermomechanische Spannungen und zugehörige Formänderungen in thermisch ungleichmäßig beanspruchten Stahlbau-Profilstäben</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hellmann, Karl</displayForm>
+                        <namePart type="family">Hellmann</namePart>
+                        <namePart type="given">Karl</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003-09-25</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Im Rahmen der vorliegenden Arbeit wird eine analytische Berechnungsmethode entwickelt, die es gestattet, thermomechanische Spannungen und zugehörige Formänderungen in thermisch ungleichmäsig beanspruchten Stahlbau-Profilen mit quasi-stationären Temperaturfeldern zu berechnen. Ausgehend vom thermisch spannungslosen linearen Temperaturverlauf wird mit Hilfe einer Differentialgleichung der durch die temperatur-abhängige Wärmeleitfähigkeit ,,l&apos;&apos; hervorgerufene nichtlineare Temperaturverlauf in ferritischen und austenitischen Stählen bei konstanter Wärmestromdichte beschrieben. 
+Den Übergang zu realen Temperaturfeldern bildet die Beschreibung der Temperaturverteilung mit Hilfe einer weiteren Differentialgleichung zweiter Ordnung in einem Flachstahl-Profil bei nicht konstanter Wärmestromdichte und nicht konstanter Wärmeübergangszahl. Die natürliche, unvermeidbare seitliche Wärmeabströmung an thermisch vertikal beanspruchten Profilen ruft nichtlinear begrenzte Temperaturfelder hervor, die durch Versuche und Temperaturfeldmessungen an ausgeführten Stahlkonstruktionen ermittelt und dargestellt werden. Die Auswertung dieser nichtlinearen Temperaturfelder unter Beachtung der Gleichgewichtsbedingungen und der Temperaturabhängigkeit der physikalischen Werkstoffkennwerte führt zur Berechnung von thermomechanischen Spannungen und zugehörigen Formänderungen. Dies wurde ermöglicht durch exakte Aufspaltung eines nichtlinearen Temperaturfeldes mit Hilfe des so genannten linearen resultierenden Nullspannungstemperaturverlaufs. 
+Zwecks Überprüfung der Genauigkeit der erarbeiteten Berechnungsmethode wurden die auf ein Hundertstel Millimeter genau am Versuchs-Flachstahl gemessenen Faserlängenänderungen und Durchbiegungen des Versuchs 19/IV abschliesend nachgerechnet. Die zugehörige Zeichnung spiegelt die Genauigkeit der Methode und das Faserverhalten wider.</abstract>
+                    <abstract type="content" lang="eng">In the scope of the present work, an algorithm is developed which enables the determination of thermomechanical stresses and strains in arbitrarily thermally demanded steel profiles. 
+
+Starting from the thermally stress-free linear temperature demand, the temperature curve in ferritic and austenitic steels is decribed for a constant heat flow density under use of a differential equation. The transition to real temperature fields is realized by the description of temperature curves in flat steels with variable heat flow density using a second differential equation. 
+The natural, unavoidable lateral heat emission of thermically demanded profiles causes nolinear temperature fields which have been determined and described by measurement of temperature fields and tests of real steel constructions. The analysis of the nonlinear temperature fields under consideration of equilibrium conditions and the temperature dependence of the material properties leads to the determination of thermomecanical stresses and strains. Therefore the exact decomposition of the nonlinear temperature field by use of the thermally stressfree linear temperature is needed. 
+In view of testing the exactness of the achieved determination method, the longtudal strain of the layers and the lateral deformations of the test 19/IV have been calculated. Compared to the measured results (exactness: 0.01 mm), the accompanying figure reflects the exactness of the method.</abstract>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Architektur und Bauingenieurwesen » Bauingenieurwesen"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20030399</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_583</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_583">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-679/d110305.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_583"
+            DMDID="DMD_wuppertal_elpub_583">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_583"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_15010">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Brennstoffzell-Systeme mit Fokus auf biologischen Brennstoffzellen: Entwicklung und Optimierung von schulgeeigneten Experimenten, Konzepten und Medien</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Grandrath, Rebecca</displayForm>
+                        <namePart type="family">Grandrath</namePart>
+                        <namePart type="given">Rebecca</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-07-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Motiviert durch die dringend notwendige Energiewende, das Bestreben der Einbindung von Bildung für nachhaltige Entwicklung (BNE) in Unterricht und die dortige Unterrepräsentation der Vielfalt von Brennstoffzellsystemen, wurden im Rahmen der vorliegenden Arbeit Schulversuche zu verschiedenen Niedertemperatur-Brennstoffzellsystemen (weiter-)entwickelt, konzeptuell und medial umgesetzt. Der inhaltliche Schwerpunkt lag auf den biologischen Brennstoffzellen, da diese trotz zunehmender Relevanz und beachtlicher Anwendungsperspektiven bislang im MINT-Unterricht unterrepräsentiert sind. So gehen aus der Arbeit lowcost Versuche zur mikrobiellen Brennstoffzelle mit Bäckerhefe in verschiedenen Zellgeometrien sowie ein Stapelaufbau einer mikrobiellen Brennstoffzelle mit Milchsäure-Bakterien hervor. Im Bereich enzymatischer Brennstoffzellen wurde sowohl ein in der Fachdidaktik vorgestelltes System mit beta-Glucoseoxidase und Laccase hinsichtlich der Schuleignung weiterentwickelt, als auch erstmals ein Aufbau zur enzymatischen Brennstoffzelle mit Lactase erarbeitet. Neben den skizzierten Systemen wurden auch Versuche zu alkalischen und alkoholischen Brennstoffzellsystemen in Lernsettings konzeptuell umgesetzt. Die Zielgruppen waren dabei sowohl Schüler:innen verschiedener Jahrgänge und Schulformen als auch Lehrkräfte. Zudem wurden begleitende analoge beziehungsweise digitale Medien entwickelt. Unter den entstanden Videos befinden sich Schulversuchsvideos, Videos zu Werdegängen von Forschenden der Universität Hohenheim sowie Einblicke in aktuelle Forschung zu mikrobiellen Brennstoffzellen. Sämtliche Begleitmaterialien der Lernsettings wurden jeweils in interaktive E-Books umgesetzt, sodass darin ein Erarbeiten ohne Medienbruch möglich ist. Die E-Books sind als Unterstützung, nicht als Ersatz zu Realexperimenten zu verstehen. Die jeweiligen Lernsettings und einhergehende Materialien wurden in der Praxis erprobt und unterliegen einer iterativen Optimierung durch Begleitevaluationen. Die aktuellen Fassungen werden auf Anfrage bereitgestellt. 
+Zusätzlich ist ein elektronischer Anhang als ZIP-Datei unter 
+http://doi.uni-wuppertal.de/Anhang_Dissertation_Grandrath/ verfügbar. 
+Eine tabellarische Übersicht des digitalen Anhangs finden Sie auf Seite 316 Dissertation.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20210720-101049-4</identifier>
+                    <identifier type="doi">10.25926/60fq-9c04</identifier>
+                    <identifier type="sys">HT021066822</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_15010</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_15010">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2021/grandrath/dc2106.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_15010"
+            DMDID="DMD_wuppertal_elpub_15010">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_15010"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

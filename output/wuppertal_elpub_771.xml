@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_771">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Darstellung und Anwendung von P,N-Liganden mit Imidazol-Rückgrat</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Figge, Axel</displayForm>
+                        <namePart type="family">Figge</namePart>
+                        <namePart type="given">Axel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-01-26</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">P,N-chelating systems are widely used ligands in catalytic reactions. Oxazoline containing systems such as PHOX-ligands are very important. In this work atropisomeric P,N-containing ligands based on an imidazol backbone are presented. BIMNAP (Sₐ-1), one of the first axial chiral P,N-ligand with imidazole backbone, was synthesised by separating the enantiomers by diastereoselective resolution. BIMNAP catalysed the asymmetric allylic substitution of diphenylallylacetate (100) with dimethylmalonate with 80 % yield and 94 % ee. Furthermore it was tested in the catalytic hydroboration of styrene and resulted in 50% ee in this reaction. Some other atropisomeric imidazole containing ligands with different substituents and a tetrazole containing ligand were easily produced but could not be separated into their enantiomers.
+ Besides, based on molecules of the chiral pool, new enantiomerically pure P,N-systems were designed. On a route adopted from Casey and Pfaltz PHIM related products were synthesised from aminoalkohols and 2-benzyloxy-naphthaline-1-carboxylic acid chloride, but they could not be purified to test them in catalysis. From L-proline and o-phenylendiamine diphenylphosphinamine- and alkylphosphinamiditesystems (Me. Et, i-Pr) were generated. These ligands catalysed the above mentioned asymmetric allylic substitution with 80 % yield and 74 % ee. The asymmetric hydroboration of styrene was catalysed with an enantiomeric excess up to 50 % ee.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20060013</identifier>
+                    <identifier type="sys">HT014627923</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_771</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_771">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2005/figge/dc0521.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_771"
+            DMDID="DMD_wuppertal_elpub_771">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_771"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

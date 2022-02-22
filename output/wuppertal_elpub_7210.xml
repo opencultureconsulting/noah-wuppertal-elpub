@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_7210">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Gesprächsanalyse im bilingualen, englischsprachigen Chemieunterricht als Diagnosemöglichkeit für kognitive Prozesse</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Geller, Heidrun</displayForm>
+                        <namePart type="family">Geller</namePart>
+                        <namePart type="given">Heidrun</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Bilingual teaching (Content and Language Integrated Learning) has long been established within the German school system. Whereas it is widely used to enhance the students’ use of a foreign language by providing authentic settings, its advantages for the teacher have not been investigated so far. The use of a foreign language within the CLIL classroom resulting in linguistic stumbling blocks is a great challenge for the learners. Consequently on the part of the learners a stronger reflection on the language use of the foreign and mother tongue and a higher demand of explanations occurs. The learning process is carried out in smaller steps. It is hypothesized that conversation analysis of the bilingual classroom discourse can give an insight into cognitive processes which cannot be gained by teaching in the mother tongue. 
+This thesis describes a qualitative study which focused on the analysis of the classroom discourse within modular bilingual teaching. A teaching sequence on the Neutralization Reaction has been developed and carried out in three different learning groups. The analysis has been carried out by audio taping and concept maps. The findings of this first teaching cycle were subsequently used in second to alter the teaching sequence. The new sequence was carried in three different learning groups. 
+Especially interruptions in the flow of speech, changes in the language use and repetitive speech patterns give rise to conclusions about the processing of abstract concepts. The study mainly focused on the learners’ use of the chemical shorthand. 
+The following conclusions could be drawn from this study: 
+- Bilingual teaching is a capable tool for the diagnosis of the students’ cognitive abilities 
+- In the phases when the foreign language is used the students undergo a deeper reflection of their language usage concerning their possibilities to express their chemical reasoning. 
+- Students tend to reason on the level of concrete operations and phenomena. For their reasoning they take into account the materials which are directly available to them. 
+- The students do not use the chemical shorthand as a universal method to express chemical information, thus contents cannot always be transferred between the languages aided by formulae. This results in a simultaneous use of both languages. 
+- It could be shown that pictorial imagination is an important strategy for the understanding of the symbolic and model level. 
+- Bilingual modular teaching can be introduced at different levels of ability when adequate scaffolding is provided.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170825-140745-2</identifier>
+                    <identifier type="sys">HT019450836</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_7210</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_7210">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2017/geller/dc1719.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_7210"
+            DMDID="DMD_wuppertal_elpub_7210">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_7210"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

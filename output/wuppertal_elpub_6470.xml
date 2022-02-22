@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6470">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Modeling Systemic Risk Contribution Using Copula</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hakwa Wemaguela, Brice</displayForm>
+                        <namePart type="family">Hakwa Wemaguela</namePart>
+                        <namePart type="given">Brice</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The financial crisis of 2008 highlighted the need for better regulation mechanisms for the stabilization of financial systems. The innovations in financial products and the evolution of financial market technologies and operations observed in the last decades do not only offer new opportunities but also imply systemic risks. They contributed to the establishment of interconnected financial systems in which the failure of certain single financial institutions (the so-called systematically important financial institutions: SIFI) can spread through contagion effects, thus causing the failures of other financial institutions and threatening the stability of a financial system. The regulatory authorities reacted to this problem by designing and implementing various new risk management concepts and tasks, such as 1) the estimation of the potential financial loss suffered by the financial system if a given financial institution defaults, 2) the identification of SIFIs 3) the calculation of individual bank’s contribution to resolution funds and 4) the elaboration and the performance of bail-in-operations. These tasks necessitate the development of financial risk measures that are based not only on individual losses in isolation, as are standard risk measures such as Value-at-Risk (VaR), but also consider loss dependency. One of the main tools proposed for this purpose is the CoVaR-method of Brunnermeier and Adrian [2011]. The CoVaR-method is based on the statistic CoVaR, which is defined as the VaR of one financial system conditional on the state of a given financial institution. The main contribution of this thesis is the development of methods for the computation of CoVaR in a wide variety of stochastic settings. We derive, using copula theory, a general formula for CoVaR, which takes into account all information on the involved distribution. This allows us to consider not only the normal but also the extreme part of the assumed distributions as well as different types of dependency structure. We make some illustrative applications and related analysis. Also, using the theory of elliptical distributions we derive an expression of CoVaR that is more accessible to financial practitioners. Both approaches allow us to consider not only Gaussian- but also non-Gaussian distribution. Furthermore, we highlight several inconsistencies in the CoVaR-method and suggest alternative approaches.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170103-113524-4</identifier>
+                    <identifier type="sys">HT019208649</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6470</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6470">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2016/hakwa/dc1633.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6470"
+            DMDID="DMD_wuppertal_elpub_6470">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6470"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

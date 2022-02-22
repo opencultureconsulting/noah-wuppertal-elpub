@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_278">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Messung der Vorwärts-Rückwärts-Ladungsasymmetrie von b-Quarks bei Energien nahe der Zo-Resonanz - Untersuchung von Ereignissen mit initialem b-Quark unter Verwendung der Jetladungstechnik mit dem DELPHI Detektor</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schwering, Britta</displayForm>
+                        <namePart type="family">Schwering</namePart>
+                        <namePart type="given">Britta</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1999-12-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Vorwärts-Rückwärts-Ladungsasymmetrie von b-Quarks wurde unter Verwendung des mittleren Ladungsflusses bestimmt. Dieser wurde mithilfe von 3 500 000 hadronischen Z Ereignissen, die mit dem DELPHI Detektor am LEP in den Jahren 1992 bis 1995 aufgezeichnet wurden, ermittelt. Die Messung wurde mit einem Datensatz durchgeführt, der durch Anwendung einer Impaktparameter-Methode an b-Quark Ereignissen angereichert wurde. Sie liefert folgende Resultate für die Vorwärts-Rückwärts-Ladungsasymmetrie von b-Quarks: A_FB (b-Quark) (89.55 GeV) = 0.068 +/- 0.018 (stat.) +/- 0.0013 (syst.) A_FB (b-Quark) (91.26 GeV) = 0.0982 +/- 0.0047 (stat.) +/- 0.0016 (syst.) A_FB (b-Quark) (92.94 GeV) = 0.123 +/- 0.016 (stat.) +/- 0.0027 (syst.) Die Ladungsseparation von b-Quarks, die für diese Analyse benötigt wird, wurde direkt mithilfe des b-angereicherten Datensatzes gemessen, während die Ladungsseparationen der anderen Quarkflavour mit einem Fragmentationsmodell bestimmt wurden, das präzise an die zur Verfügung stehenden Daten angepaßt wurde. Aus der Messung wird der Wert des effektive schwache Mischungswinkels bestimmt zu: sin² (theta_efflep) = 0.23186 +/- 0.00083 (tot.)</abstract>
+                    <abstract type="content" lang="eng">The forward-backward asymmetry for b quarks has been determined from the average charge flow measured in a sample of 3,500,000 hadronic Z decays collected with the DELPHI detector at LEP in 1992 - 1995. The measurement is performed in an enriched b-quark sample selected using an impact parameter tag and results in the following values for the forward-backward asymmetry for b-quarks: A_FB (b quark) (89.55 GeV) = 0.068 +/- 0.018 (stat.) +/- 0.0013 (syst.) A_FB (b quark) (91.26 GeV) = 0.0982 +/- 0.0047 (stat.) +/- 0.0016 (syst.) A_FB (b quark) (92.94 GeV) = 0.123 +/- 0.016 (stat.) +/- 0.0027 (syst.) The charge separation for b quarks required for this analysis is directly measured in the b tagged sample, while the charge separations for the other quark flavours are obtained from a fragmentation model precisely calibrated to data. The effective weak mixing angle is deduced from the measurement to be: sin² (theta_efflep) = 0.23186 +/- 0.00083 (tot.)</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-19990286</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_278</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_278">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-372/d089905.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_278"
+            DMDID="DMD_wuppertal_elpub_278">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_278"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

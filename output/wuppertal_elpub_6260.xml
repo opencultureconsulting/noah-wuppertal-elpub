@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6260">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Elektronenextraktionsschichten für invertierte organische Solarzellen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Trost, Sara</displayForm>
+                        <namePart type="family">Trost</namePart>
+                        <namePart type="given">Sara</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Eine wachsende Weltbevölkerung, zunehmende Industrialisierung von Schwellenländern und höhere Einkommen in Ländern der 3. Welt lassen den Weltenergiebedarf stetig steigen. Laut aktuellen Prognosen wird der globale Primärenergieverbrauch 2035 bis zu 37% im Vergleich zum Referenzwert des Jahres 2013 zunehmen. Bei Verwendung von fossilen Brennstoffen als bevorzugte Energieträger bedeutet dies einen Anstieg der Kohlendioxidemissionen um 25%. Hinsichtlich der Gefahren der globalen Erwärmung ein Szenario, welches für Millionen Menschen existenzbedrohend sein wird. Zusätzlich birgt das Ausrichten der globalen Energieinfrastruktur auf fossile Brennstoffe die Gefahr, dass weltweite Fördermaxima in Öl und Kohle bereits erreicht sind und somit eine Verknappung der Rohstoffe in absehbarer Zeit eintritt. 
+
+In Anbetracht dieser Prognosen wird es für zukünftige Generationen immer essenzieller, erneuerbare und emissionsarme Energiequellen zu erschließen. Neben Energie aus Wasserkraft, Biomasse, geothermaler Aktivität und Windkraft ist ein entscheidender Hoffnungsträger zur Lösung der bevorstehenden Energiekrise die Sonnenenergie. Die einfallende Sonnenenergie auf der gesamten Erdoberfläche beträgt 1,5x1018 kWh jährlich. Wird dies in Relation zum Weltprimärenergieverbrauch von 147.900 Mrd. kWh (2011) gesetzt, so übersteigt das Angebot an Solarenergie den Verbrauch um den Faktor 10.142. Abzüglich der globalen Wasseroberfläche, die 71% der Erde bedeckt und nur schwer für die Solarenergienutzung geeignet ist, fällt das 2.900 fache an benötigter Energie ein. Theoretisch würde eine Fläche von 700 Quadratkilometern in der Sahara ausreichen, um die Welt mit Energie zu versorgen.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20161103-140909-1</identifier>
+                    <identifier type="sys">HT019142613</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6260</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6260">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2016/trost/de1610.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6260"
+            DMDID="DMD_wuppertal_elpub_6260">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6260"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

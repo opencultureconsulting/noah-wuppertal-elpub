@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3961">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>religionsgeschichtliche Entwicklung Nordpalästinas von der Frühen Bronzezeit bis zum Ende der Eisenzeit am Beispiel des Tall Zira&apos;a</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gropp, Andrea Angela</displayForm>
+                        <namePart type="family">Gropp</namePart>
+                        <namePart type="given">Andrea Angela</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Ziel der Arbeit ist eine Darstellung der Religionsgeschichte Nordjordaniens auf Basis der archäologischen Hinterlassenschaften am Beispiel des etwa 10 km südöstlich des See Genezareth gelegenen Tall Zira&apos;a. 
+
+ Dieser seit 2001 vom Biblisch-Archäologischen Institut Wuppertal/seit 2004 auch vom Deutschen Evangelischen Institut für Altertumswissenschaft des Heiligen Landes archäologisch erforscht werdende Ort vereint auf etwa 5,8 Hektar eine ununterbrochene 5000jährige Siedlungsgeschichte von der Frühen Bronzezeit bis in die islamische Zeit. 
+
+ Aus allen Epochen stammen kultisch-religiöse Funde und Befunde, die fast ausnahmslos exakt stratifiziert und entsprechend gut datiert sind. Daher bietet sich hier die Möglichkeit, neben den auf die einzelnen Epochen bezogenen Aussagen zum kultischen Geschehen auch die Entwicklung des Kults auf dem Tall nachzuvollziehen. Als für die Arbeit relevante Funde und Befunde werden all diejenigen Objekte, die Rückschlüsse auf religiöse Praktiken oder Vorstellungen zulassen, verstanden. Diese werden beschrieben, mit Vergleichsstücken in Beziehung gesetzt und im Rahmen ihres kulturgeschichtlichen Kontextes interpretiert. 
+
+ Darüber hinaus wird auch die religionsgeschichtliche Entwicklung in der Region, d.h. in einem Radius von ca. 45 km um den Tall herum, anhand ausgewählter Orte untersucht. 
+
+ So entsteht zum einen sowohl eine auf die jeweilige Epoche bezogene regionale/allgemeine als auch eine lokale/konkrete Beschreibung der religiösen Entwicklungen. Zum anderen ergibt sich auf diese Weise ein Abriss der regionalen wie der lokalen Religionsgeschichte im Laufe der Bronze- und Eisenzeit.</abstract>
+                    <classification authority="ddc">200</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » Evangelische Theologie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20140528-100557-5</identifier>
+                    <identifier type="sys">HT018288682</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3961</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3961">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fba/evtheologie/diss2013/gropp/da1302.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3961"
+            DMDID="DMD_wuppertal_elpub_3961">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3961"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

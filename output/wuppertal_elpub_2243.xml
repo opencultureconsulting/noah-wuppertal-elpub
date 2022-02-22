@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_2243">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entwicklung und Erprobung des Hygrometer for Atmospheric Investigations</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Klostermann, Tim</displayForm>
+                        <namePart type="family">Klostermann</namePart>
+                        <namePart type="given">Tim</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Das Ziel dieser Arbeit ist die Entwicklung und Erprobung eines hochpräzisen in-situ Hygrometers für das Forschungsflugzeug HALO. Es basiert auf der Absorptionsspektroskopie mit durchstimmbaren Diodenlasern. Um Messungen in der Troposphäre und Stratosphäre zwischen 2 und 10000 ppmv durchführen zu können, werden zwei fasergekoppelte IR-Diodenlaser verwendet: Ein Laser im 1,4μm-Absorptionsband wird zur Messung von hohen Mischungsverhältnissen bis 10000 ppmv verwendet und einer im 2,6μm-Grundschwingungsband des Wassermoleküls zur Messung von niedrigen Mischungsverhältnissen von 2 bis 400 ppmv.
+ Zur berührungsfreien Messung der Wasserdampfkonzentration wurde eine offene Messzelle mit zwei Absorptionspfaden entwickelt. Diese wurde abweichend von der üblichen Anordnung einer Multipfadzelle nach Herriott als White-Zelle realisiert, um eine direkte Faserkopplung zu ermöglichen. Durch eine computergestützte Optimierung der Absorptionswege konnten die entstehenden Störungen soweit reduziert werden, dass die Nachweisgrenze durch die verwendeten Laser auf 266 ppmv begrenzt ist. Da Temperatur- und Druckmessungen in einer solchen Messzelle aufwendig sind, werden für die Auswertung der spektroskopischen Daten die Avionikdaten des Flugzeugs verwendet. Fluiddynamische Simulationen ergaben, dass die in der Messzelle entstehenden Strömungsfeldverzerrungen soweit unterdrückt wurden, dass ein maximaler Messfehler von 7,7% entstehen kann. Weiterhin konnte gezeigt werden, dass sich die Messzelle auch bei extremen Flugsituationen nicht dejustiert. Die Strahlung beider Laser wird per Single-Mode Glasfaser zur Absorptionszelle übertragen. Hierzu musste ein luftdichtes Gehäuse für den freistrahlenden 2,6μm Laser entwickelt werden, das unter anderem eine störungsarme Faserkopplung beinhaltet. Mit den für diesen Laser verwendeten fluorhaltigen Glasfasern wurden bis zum Beginn dieser Arbeit noch keine Erfahrungen in der IR-Spektroskopie gesammelt. Daher wurden diese Fasern genau charakterisiert. Hierbei wurde eine temperaturabhängige Dämpfung festgestellt. Diese erzeugt eine zusätzliche Dämpfung von bis zu -1,2 dB bei einer Temperatur von -80°C. 
+ Vergleichsmessungen des 1,4μm Spektrometer mit Referenzgeräten ergaben eine Abweichung von weniger als 2,5% in den Absolutwerten. Für das 2,6μm Spektrometer sind die Abweichungen bei großen Feuchten über 80 ppmv noch größer, wobei die Störquellen identifiziert werden konnten. Mit der erreichten Nachweisgrenze und dem noch vorhandenen Potential werden mit diesem Gerät hochpräzise Feuchtemessungen auf den HALO Missionen möglich sein.</abstract>
+                    <abstract type="content" lang="eng">The purpose of this thesis is the development and proving of a high precision in-situ hygrometer for the research airplane HALO which uses the Tunable Diode Laser Absorption Spectroscopy. To provide tropospheric and stratospheric measurements between 2 ppmv and 10000 ppmv two different lasers are implemented: One for high mixing ratios up to 10000 ppmv in the 1,4μm absorption band of the wate molecule and one for low mixingratios between 2 ppmv and 400 ppmv in the 2,6μm ground vibrational band.
+ For noncontact measurements of gas phase water an open path cell with two absorption paths has been developed. In contrast to the common Herriott setup of such a cell with multiple absorption paths this cell has been designed as a White cell to include a direct fiber coupling. By using a computational based optimization for the optical absorption paths the disruptive interfering effects could be reduced below a level of 266 ppmv which is given by the used lasers. Due to the technical difficulties by measuring temperature and pressure inside an open path cell the avionk data of the airplane will be used for the spectroscopical analysis. Fluid dynamical simulations revealed that the airflow disturbance could be reduced to an extend, that the originated errors would be equal or less than 7,7%. Furthermore a simulation could show that the cell would not be dealigned during extreme flight situations. The laser radiation of both lasers is transmitted by single mode fibers to the open path cell. To realize that a special airproof optical box was developed for the 2,6μm-Laser. This box contains the fiber coupling of the free laser beam and other spectroscopic compounents. Because there where no experiences by using the needed fluor based fibres for a spectrometer a characterization was done. In this connection a temperature dependent damping was ascertained. This causes an additional damping of up to -1,2 dB at low temperatures of -80°C.
+ Comparison measurements of the 1,4μm spectrometer with reference instruments showed a deviation of less than 2,5% in the absolute values. For the 2,6μm spectrometer the deviation was bigger for humidities greater than 80 ppmv, but the sources of interference was located. With the reached detection limit and the actual not utilised potential this instrument will provide high precision humidity measurements during the HALO campaigns.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20110822-114916-3</identifier>
+                    <identifier type="sys">HT016943010</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_2243</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_2243">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2011/klostermann/dc1109.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_2243"
+            DMDID="DMD_wuppertal_elpub_2243">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_2243"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_514">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Synthese, Reaktivität und Anwendung von maßgeschneiderten Phosphanliganden</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Liek, Christian</displayForm>
+                        <namePart type="family">Liek</namePart>
+                        <namePart type="given">Christian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003-03-19</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In the first part of the thesis the synthesis, the coordination chemistry and the reactivity of a ligand containing a triphenylphosphine and a phosphaalkene group are reported. Condensation of ortho-diphenylphosphinobenzaldehyd (9) with 2,4,6-tri-tert.-butyl-phenylphosphine yielded the σ2, σ3-diphosphorus chelating species 11 with an E-configurated phosphaalkene unit as indicated by analysis of the NMR-spectra. It was shown that E-11 forms stable Mo(0), Pd(II) and Pt(II) chelate complexes (13 - 15). Beside the addition of alcohols and the UV light induced E-/Z-isomerisation, 11 was reacted with various dialkylacetylenedicarboxylates yielding the unusual phosphirane/ phosphinine systems 19 - 21, bearing an ylidic phosphorus atom within the six-membered ring. Temperature dependent 1H-, 31P{1H}- and 13C{¹H}-NMR-spectra indicate a restricted rotation in 19 and 20. The ylidic character as well as the delocalisation within these molecules were also established via X-ray structural analysis of 20. 
+The second part of the work concerns the synthesis of new chiral, hydrophilic mono and bidentate phosphorus containing ligands. The sulfonated dibenzophosphole 24 was obtained by nucleophilic phosphination with NaPH₂. Alkylation of 24 with different chiral electrophiles yielded the novel bidentate water-soluble ligands 25 - 28 as pure enantiomers. The catalytic activity of these ligands was tested in the Rh(I)-catalyzed hydrogenation of acetamidocinnamicacidmethylester under biphase (H₂O/CH₂Cl₂) conditions. Furthermore, the homochiral phospholane (2R,5R)-31 was obtained by reaction of NaPH₂ with the cyclic sulfate (2S,5S)-29 in liquid ammonia followed by treatment of intermediate (2R,5S)-30 with n-BuLi in ether. Making use of the PH-functionality, it was possible to show the capability of 31 as a precursor for chiral ligands by reacting it with fluorobenzene derivatives bearing group activated C-F bonds (e.g. CN, COOLi, SO₃K) in ortho- or para-position. Multidentate ligands are accessible by addition of 31 to unsaturated compounds like 2-vinylpyridine and 1-vinylimidazole, yielding ligands with different hard-soft N, P donor sets. N-quarternization affords the corre-sponding phosphine substituted cations 42 and 43. 
+Using the cyclic sulfate (2S,5S)-29, it was also possible to synthesize the new hydrophilic chiral alkyl sulfates 44 - 46 by nucleophilic ring opening with various P-nucleophiles. Beside the solubility in water, chiral alkyl sulfates may act as precursers for new C₁- and C₂-symmetric chelating ligands.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20030138</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_514</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_514">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-609/d090211.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_514"
+            DMDID="DMD_wuppertal_elpub_514">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_514"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

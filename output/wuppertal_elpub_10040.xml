@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_10040">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>General Extrapolation Spaces and Perturbations of Bi-Continuous Semigroups</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Budde, Christian</displayForm>
+                        <namePart type="family">Budde</namePart>
+                        <namePart type="given">Christian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-05</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">A lot of well-known partial differential equations modeling physical systems, such as the heat equation, the Schrödinger equation or the wave equation, use temporal change of states. Evolution equation is an umbrella term for such equations that can be interpreted as differential laws describing the development of a system or as a mathematical treatment of motion in time. With a solution of an evolution equation, one can predict the future of the corresponding physical system which makes it deterministic. Evolution equations can be treated by an operator theoretical approach. They can be rewritten as so-called abstract Cauchy problems which are connected to strongly continuous operator semigroups on Banach spaces. However, Stochastic differential equations, Ornstein–Uhlenbeck processes or Feller processes, give rise to transition semigroups which are in general not strongly continuous. Here bi-continuous semigroups come into play, which form in fact the key subject of this thesis. The research on bi-continuous semigroups was motivated by the work of F. Kühnemund. In fact, she was the initiator for the development of the theory of bi-continuous semigroups. The main idea is to equip the underlying Banach space, on which the corresponding semigroup fails to be strongly continuous with respect to the norm, with an additional locally convex topology, which is compatible with the norm topology, such that the semigroup becomes strongly continuous with respect to this locally convex topology. The work of F. Kühnemund was followed by research by B. Farkas. He investigated perturbation theory for bi-continuous semigroups. In this thesis we introduce the concept of bi-continuous semigroups and the underlying structure, study the construction of extrapolation and intermediate spaces of non-densely defined operators, discuss different perturbation type theorems for bi-continuous semigroups and consider flows on networks in connection with bi-continuous semigroups.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20191205-110300-4</identifier>
+                    <identifier type="doi">10.25926/7ss7-bt33</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_10040</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_10040">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2019/budde/dc1937.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_10040"
+            DMDID="DMD_wuppertal_elpub_10040">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_10040"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

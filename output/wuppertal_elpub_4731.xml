@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_4731">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wuppertaler Expositions-Abschätzung: Konzept zur rechnerischen Beurteilung betrieblicher Gefahrstoffexpositionen unter Einbeziehung ausgewählter Brandschutzingenieurmodelle</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Pillar, Florian</displayForm>
+                        <namePart type="family">Pillar</namePart>
+                        <namePart type="given">Florian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die vorliegende Arbeit stellt das Konzept der &quot;Wuppertaler Expositions-Abschätzung&quot; (WEA) als Gesamtverfahren zur Beurteilung inhalativer Gefährdungen bei Tätigkeiten mit Gefahrstoffen vor. Das Konzept kombiniert das Brandschutzingenieurmodell &quot;Fire Dynamics Simulator&quot; (FDS) als Ausbreitungsrechnung methodisch mit Ansätzen des Arbeitsschutzes. Die Berücksichtigung des Ausbreitungsmodells beruht auf der differenzierten Analyse und Bewertung der Übertragungsmöglichkeit, welche sowohl die modellspezifischen Annahmen und Konzepte, aber auch wesentliche Rahmenbedingungen (u.a. gesetzliche Anforderungen, Umgebungsbedingungen, Arbeitsorganisation) einbindet. Die Übertragung und Ergänzung dient der Zielstellung, eine Möglichkeit zur rechnerischen Analyse und Bewertung stoffbezogener Tätigkeiten vorzulegen. 
+ Die WEA weist einen schrittweisen Aufbau auf. Dieser umfasst einzelne Module zur Informationsermittlung, Erfassung der Emission von Gefahrstoffen, Erfassung der Ausbreitung von Gasen sowie Bewertung der Tätigkeiten aufgrund der ermittelten ortsbezogenen Stoffkonzentrationen in der Arbeitsplatzluft. Neben dem Modell FDS im Modul zur Erfassung der Stoffausbreitung untersetzen verschiedene bekannte Ansätze die übrigen Module, deren Verknüpfung über angepasste Schnittstellen eine geschlossene Gesamtanwendung ermöglicht. Die modularen Konkretisierungen umfassen z.B. das Arbeitssystem-Modell (Informationsermittlung), Verdunstungsmodelle (Erfassung der Stoffemission) oder den Bewertungsansatz in Anlehnung an die Technische Regel für Gefahrstoffe (TRGS) 900 (Bewertung). 
+
+ Neben der Konzeptentwicklung bildet die Validierung der WEA den zweiten methodischen Kernaspekt der Arbeit. Dazu werden für unterschiedliche Betrachtungsfälle erhobene Messdaten als Referenzwerte mit Berechnungsergebnissen übereinstimmender Rahmenbedingungen verglichen. Untersuchungsgegenstände der Validierungsarbeiten sind im Besonderen die Genauigkeit bzw. Verwendbarkeit des Ausbreitungsmodells, aber auch die Überprüfung der Modulschnittstellen und -verknüpfungen sowie die Verwendbarkeit des Gesamtverfahrens als geschlossene Anwendung. 
+ Die Auswertung und Interpretation der Validierungsergebnisse belegen, dass das Modell FDS unter verschiedenen Anwendungsbedingungen (z.B. bekannte Emissions- und Lüftungsbedingungen bei flächiger Freisetzung) detaillierte und genaue Konzentrationsberechnungen der gasförmigen Stoffausbreitung ermöglicht. Die Untersuchungen weisen auch die formal korrekte Gestaltung der erforderlichen Schnittstellen nach. Da bei Einsatz von Verdunstungsmodellen zur Emissionsermittlung eine erhebliche Unterschätzung der gemessenen Stofffreisetzung auftritt, kann jedoch die validierte Verwendung sowohl der Verdunstungsmodelle als auch der geschlossenen, nur auf Berechnungen beruhenden Gesamtanwendung nicht belegt werden. Die Anpassung des entwickelten Konzepts stellt das Ergebnis der Arbeit dar: Der vorgeschlagene validierte Ansatz umfasst für Arbeitsschutz-Betrachtungen die Möglichkeit zur Konzentrationsberechnung auf Grundlage des Brandschutzingenieurmodells, die methodisch zu einem Gesamtablauf ergänzt ist. Neben verschiedenen Einsatzbedingungen wird auf Berechnungen zur Emissionsabschätzung verzichtet, die daher anderweitig (z.B durch vorgelagerte Messungen oder Analogiebetrachtungen) erfolgen muss.</abstract>
+                    <abstract type="content" lang="eng">The submitted approach introduces the concept &quot;Wuppertaler Exposure Assessment&quot; (WEA) as an integrated assessment tool for inhalative risks of occupational activities with hazardous substances. The concepts combines the fire engineering model &quot;Fire Dynamics Simulator&quot; (FDS) with processes of occupational health and safety studies methodically. FDS is used to calculate the gaseous dispersion in air without fire scenario. The differenced analysis and evaluation of model-specified assumptions, calculation concepts and fundamental framework conditions (e.g. legislative, environmental and work organisational requirements) justifies the model transfer. The study focusses on deducing an opportunity for risk assessments of hazardous substances solely based on calculations. 
+ The designed WEA has a stepwise structure and is divided in 4 conceptual modules to determinate informations, to capture emission and dispersion of substances and to assess inhalative exposures of occupants with determined, local-dependent concentrations in workplace air. The Model FDS specifies the module to capture the dispersion. Several well-known models are used to concretise another modules (e.g. model of working system for information determination, evaporation models in captures of emission and the evaluation concept of &quot;Technische Regel für Gefahrstoffe&quot; (TRGS) 900 for exposure assessment). 
+
+ Conceptual interfaces between the modules resp. models generate an integrated and cohesived proceeding. The approach deals with validation studies of the designed WEA in a second part. The validation compares measurement data of different scenarios as reference with results of separate modules and the integrated concept that are calculated with the same conditions resp. parameters. It determines especially the accuracy and applicability of FDS as a tool for calculations of gaseous dispersion in air. Furthermore the functionality of interfaces and the applicability of the WEA as cohesived proceeding are reviewed. 
+ Interpretation of validation studies shows applicability of FDS for calculating the gaseous dispersion in air with some conditions: For example detailed results are possible for known emission rates of an areal source and known room ventilation. Further the formal functionality of interfaces is verified. However the results of proven evaporation models underestimate measured emission rates with large differences, so the application of this emission models and as a consequence of cohesived WEA-proceeding just with calculations is non-validated. Because of that the research finding is an adjusted form of the WEA: the validated concept for occupational health and safety studies uses the fire engineering model as an opportunity to calculate localand time-dependent substanceous concentrations with defined rules for application. The methodical supplement waives the calculation of emission rates, which has to be estimated with other methods (e.g. with previous measurement or analogy formation).</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Maschinenbau und Sicherheitstechnik » Sicherheitstechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20150409-154729-8</identifier>
+                    <identifier type="sys">HT018638962</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_4731</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_4731">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/sicherheitstechnik/diss2015/pillar/dd1501.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_4731"
+            DMDID="DMD_wuppertal_elpub_4731">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_4731"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3884">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Charakterisierung und Einsatz des Luftprobensammlers MIRAH zur Untersuchung von Verhältnissen stabiler Kohlenstoffisotope in atmosphärischen flüchtigen organischen Verbindungen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>vom Scheidt, Marcel</displayForm>
+                        <namePart type="family">vom Scheidt</namePart>
+                        <namePart type="given">Marcel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Eine Vielzahl biogener und anthropogener Spurengase werden permanent in die Atmosphäre emittiert und beeinflussen komplexe Zusammenhänge von atmosphärischen Prozessen. Zur Untersuchung von Transport und Verteilung von Spurengasen eignen sich besonders flüchtige organische Verbindungen (VOC). VOC werden bei vielen biogenen und anthropogenen Prozessen emittiert. Zur Erforschung photochemischer Prozesse von VOC werden die stabilen Kohlenstoffisotopenverhältnisse (δ13C) in atmosphärischen VOC bestimmt. Die δ13C-Analyse erfordert hochpräzise Messinstrumente, welche bisher ausschließlich im Labor betrieben werden können. Aufgrund dieser Tatsache werden atmosphärische Luftproben für die δ13C-Analyse mit einem Probensammler gesammelt und die Bestimmung der δ13C-Werte erfolgt durch eine Analyse der Luftproben im Labor. 
+
+ Diese Arbeit befasst sich mit der Charakterisierung und dem Nachweis der Funktionstüchtigkeit des automatisierten Luftprobensammlers MIRAH (Measurements of Stable Isotope Ratios in Atmospheric Trace Gases on HALO). In einer ausführlichen Charakterisierung wird gezeigt, dass MIRAH für die Luftprobensammlung, zur δ13C-Analyse in atmosphärischen VOC, geeignet ist. Hierfür wurden unterschiedlichste Aspekte der Probennahme und Probenanalyse untersucht. Unter anderem wurden die Reinheit des Sammelsystems und Fraktionierungseffekte durch den Probensammler bestimmt. Außerdem wurden Auswirkungen von Ozon und Wasserdampf in der Probenluft auf die Messergebnisse untersucht. Durch den Einsatz eines beheizten Edelstahlrohres in der Einlassleitung wurde das Ozonmischungsverhältnis der Probenluft um 90 ± 0,6 % bezüglich des Ausgangswertes reduziert. Im Weiteren wurde die Lagerung der Probenluft in den Probenbehältern und das Beheizen der Probenbehälter vor der Analyse getestet. Die Charakterisierung zeigt, dass eine Luftprobensammlung mittels MIRAH zur Bestimmmung von atmosphärischen δ13C-Werten für beta-Pinen, Butanal, Ethylbenzol, Hexan, Isopren, Methacrolein, Methanol, Nonan, Oktan, o-Xylol, n-Pentanal und Toluol durchführbar ist. Unter Berücksichtigung der Ergebnisse aus der Charakterisierung wurden Messungen während der Feldmesskampagne PARADE (Particles and radicals: Diel observations of the impact of urban and biogenic emissions) durchgeführt. In 82 Außenluftproben wurden die δ13C-Werte von 19 VOC, verteilt über einen Sammelzeitraum vom 15.08.2011 bis zum 09.09.2011, analysiert. Die Messergebnisse von Methanol, Toluol, Ethylbenzol, m/p-Xylol, o-Xylol, Butanal und n-Pentanal wurden im Detail untersucht. Die Messergebnisse wurden mit bereits existierenden Studien verglichen. Außerdem wurde das photochemische Alter der Substanzen bestimmt und Rückschlüsse auf die Emissionsquellen gezogen. Die erzielten Ergebnisse liefern einen Beitrag zum Verständnis der isotopischen Zusammensetzung atmosphärischer VOC sowie deren Verteilung und Ausbreitung in der Atmosphäre.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20140306-163235-6</identifier>
+                    <identifier type="sys">HT018194505</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3884</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3884">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2013/vomscheidt/dc1323.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3884"
+            DMDID="DMD_wuppertal_elpub_3884">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3884"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

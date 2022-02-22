@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_2274">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Insekten-Neuropeptide: Struktur-Wirkungs-Untersuchungen, Konformationsanalysen und Peptidomimetika</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Zdobinsky, Tino</displayForm>
+                        <namePart type="family">Zdobinsky</namePart>
+                        <namePart type="given">Tino</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Insect neuropeptides have been isolated from a wide variety of insects. These small peptide hormones are involved in numerous essential regulation processes, such as growth, molting, metamorphosis, reproduction and diuresis. The neuropeptides and in particular their receptors represent promising targets for a novel generation of selective and environmentally beneficial insecticides. The myokinins form a large group of insect neuropeptides expressing myotropic and potent diuretic activities. Their short sequences and interference with vital physiological insect specific processes render the myokinins prime candidates for the design of metabolically stable peptidomimetics.
+ The first part of the thesis deals with the development of a valid binding model for the neuropeptide helicokinin I to its receptor of Helicoverpa zea, a serious agricultural pest. This includes a comprehensive receptor assay guided structure-activity study of helicokinin insect neuropeptides and first peptidomimetic analogues. In accordance to the &quot;membrane compartment theory&quot; the membrane bound conformation of helicokinin I and selected linear analogues are determined by NMR spectroscopy. Conclusions of the &quot;biological active&quot; conformation are drawn by comparing the membrane bound structures with the biological results. Further on, preferred conformations of the relevant neuropeptides tachykinin and Myosuppressin are elucidated.
+ The second part of this work describes the &quot;conformational design&quot;, using small cyclic helicokinin analogues. Five cyclopeptides of different size have been synthesized and studied in the receptor assay and by NMR spectroscopy in a membrane mimicking environment.
+ The last part of this dissertation focuses on the synthesis of tailor-made mimics of the C-terminal type-I β-turn in helicokinin I. Three new scaffolds have been carefully selected, based on molecular modeling studies and synthesized. The scaffolds have been integrated in the helicokinin sequence, and their ability to mimic the β-turn structure was studied by conformational analysis.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20110930-124836-2</identifier>
+                    <identifier type="sys">HT017017031</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_2274</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_2274">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2011/zdobinsky/dc1111.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_2274"
+            DMDID="DMD_wuppertal_elpub_2274">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_2274"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

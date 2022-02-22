@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_10912">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Lagrangian Simulation of StratosphericWater Vapour: Impact of Large-Scale Circulation and Small-Scale Transport Processes</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Poshyvailo, Liubov</displayForm>
+                        <namePart type="family">Poshyvailo</namePart>
+                        <namePart type="given">Liubov</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-09-07</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The atmospheric global circulation, also referred to as the Brewer-Dobson circulation, controls the composition of the upper troposphere and lower stratosphere (UTLS). The UTLS trace gas composition, in turn, crucially affects climate. In particular, UTLS water vapour (H₂O) plays a significant role in the global radiation budget. Therefore, a realistic representation of H₂O and Brewer-Dobson circulation, is critical for accurate model predictions of future climate and circulation changes.
+ This thesis is structured in two main parts: focussing on the (i) effect of model uncertainties (due to tropical tropopause temperature, horizontal transport and small-scale mixing) on stratospheric H₂O, and on the (ii) uncertainties in estimating Brewer-Dobson circulation trends from the observed H₂O trends.
+ The results presented here are based largely on stratospheric H₂O studies with the Chemical Lagrangian Model of the Stratosphere (CLaMS). Firstly, to investigate the robustness of simulated H₂O with respect to different meteorological datasets, we examine CLaMS driven by the ERA-Interim reanalysis from the European Centre of Medium-RangeWeather Forecasts, and the Japanese 55-year Reanalysis (JRA-55). Secondly, to assess the effects of horizontal transport, we carry out CLaMS simulations, with transport barriers, along latitude circles: at the equator, at 15° N/S and at 35° N/S. To investigate the sensitivity of simulated H₂O regarding small-scale atmospheric mixing, we vary the strength of parametrized small-scale mixing in CLaMS. Finally, to assess the reliability of estimated long-term Brewer-Dobson circulation changes from stratospheric H₂O, we apply different methods of calculating mean age of air trends involving two approximations: instantaneous entry mixing ratio propagation, and a constant correlation between mean age of air and the fractional release factor of methane. The latter assumption essentially means assuming a constant correlation between the mean age of air and the mixing ratio of long-lived trace gases.
+ The results of this thesis show significant differences in simulated stratospheric H₂O (about 0.5 ppmv) due to uncertainties in the tropical tropopause temperatures between the two reanalysis datasets, JRA-55 and ERA-Interim. The JRA-55 based simulation is significantly moister, when compared to ERA-Interim, due to a warmer tropical tropopause of approximately 2 K. Moreover, through introducing artificial transport barriers in CLaMS, we suppress certain horizontal transport pathways. These transport experiments demonstrate that the Northern Hemisphere subtropics have a strong moistening effect on global stratospheric H₂O. Interhemispheric exchange shows only a very weak effect on stratospheric H₂O. Small-scale mixing mainly increases troposphere-stratosphere exchange, causing an enhancement of stratospheric H₂O, particularly, along the subtropical jets in the summer hemisphere and in the Northern hemispheric monsoon regions. In particular, the Asian and American monsoon systems, during boreal summer, turn out as regions especially sensitive to changes in small-scale mixing.
+ The estimated mean age of air trends from stratospheric H₂O changes, in general, are strongly determined by the assumed approximations. Depending on the investigated region of the stratosphere, and the considered period, the error of estimated mean age of air trends can be large. Interestingly, depending on the period, the effects from both approximations can also be opposite, and may even cancel out.
+ The results of this thesis provide new insights into the leading processes that control stratospheric H₂O and its trends, and are therefore relevant for improving climate model predictions. Furthermore, the results of this work can be used for evaluating the uncertainties of estimated stratospheric circulation changes from global satellite measurements.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20200907-104252-6</identifier>
+                    <identifier type="doi">10.25926/9mcs-tm42</identifier>
+                    <identifier type="sys">HT020616783</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_10912</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_10912">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2020/poshyvailo/dc2010.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_10912"
+            DMDID="DMD_wuppertal_elpub_10912">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_10912"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

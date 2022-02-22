@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9060">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Photolumineszenz und Photochromie in Lösungen und in Feststoffmatrices – Interaktionsbox Photo-Mol</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Meuter, Nico</displayForm>
+                        <namePart type="family">Meuter</namePart>
+                        <namePart type="given">Nico</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-01-02</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In dieser Arbeit wurde der Experimentier- und Materialienkoffer „Photonen und Moleküle (Photo-Mol)“ für die Einbindung von Photoprozessen, insbesondere Fluoreszenz, Phosphoreszenz und Photochromie, in die Schulcurricula entwickelt. Die Experimente erfüllen die Anforderungen an einen sicherheitstechnisch unbedenklichen Einsatz von Experimenten erfüllt. Die Beobachtingen sind durch die augenscheinlichen stofflichen Veränderungen (Farbwechsel) didaktisch prägnant und durch die Verwendung unbedenklicher Chemikalien tauglich für den Einsatz im Unterricht. 
+Bei der Erforschung neuer Versuche zur Fluoreszenz und Phosphoreszenz wurden Untersuchungen dahingehend angestellt, welche Bedingungen für die Induzierung einer zum Schweratomeffekt analogen Wirkung in organischen Molekülen vorteilhaft sind. Dazu wurden zwei ähnliche Fluorophore (Esculin und Esculetin) in verschiedene anorganische und organische Matrizen eingebracht und die Änderungen sowohl der Fluoreszenz- als auch der Phosphoreszenzspektren untersucht. So konnte die Fähigkeit der Fluorophore Wasserstoffbrückenbindungen mit der Matrix auszubilden als ein wichtiges Kriterium für die Erzielung des genannten Effekts herausgearbeitet und bestätigt werden. 
+Bei der Entwicklung der Versuche zur Photochromie wurden verschiedene Feststoffmatrizen (Polystyrol PS, Polyvinylalkohol PVA, Polymethylmethacrylat PMMA und Gelatine) als rigides Medium für die Fixierung des molekularen Schalters Spiropyran/Merocyanin getestet und charakterisiert. Im Hinblick auf eine problemlose Umsetzung in der Lehre und im Unterricht hat sich dabei Polystyrol erwiesen. In dem Modellexperiment zur REDSOLFT-Nanoskopie, das in Zusammenarbeit mit Sebastian Spinnen erstmalig entwickelt wurde, eignet sich dagegen PMMA am besten. 
+Für die Aufwärtskonvertierung von Photonen wurde ein bisher in der Literatur nicht bekanntes Experiment entwickelt. Darin wird das Konzept der Triplett-Triplett-Annihilation mit TPFPP-Pt(II) und DPA in Lösung umgesetzt. Durch Aufbewahrung der sauerstofffreien Lösung in eine Ampulle war es außerdem möglich eine Probe herzustellen, die ohne großen Aufwand auch in Demonstrationsvorlesungen und auf Tagungen gezeigt werden kann. Die Aufwärtskonvertierung von grünem Licht hin zu blauem Licht in diesem Experiment erfüllt die Anforderungen an ein didaktisch prägnantes und wissenschaftlich konsistentes Experiment.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20190102-153948-6</identifier>
+                    <identifier type="sys">HT019990982</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9060</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9060">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2018/meuter/dc1821.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9060"
+            DMDID="DMD_wuppertal_elpub_9060">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9060"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

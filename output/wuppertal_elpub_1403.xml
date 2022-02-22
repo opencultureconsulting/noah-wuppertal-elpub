@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1403">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>LC-MS/MS-Methoden zur Rückstandsanalyse von Penicillinen, Cephalosporinen und Aminoglycosid-Antibiotika</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Becker, Matthias</displayForm>
+                        <namePart type="family">Becker</namePart>
+                        <namePart type="given">Matthias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In today’s livestock farming and milk production, therapeutic, metaphylactic and prophylactic use of ß-lactams (penicillins, cephalosporins) and aminoglycosides is inevitable. However, improper use of these antibiotics may lead to residues in milk and edible tissues and can cause human health hazards as well as technological problems in dairy industry. In general, antibiotics are unwanted components in food, and it has to be ensured that the consumer is not exposed to antibiotic residues at potentially harmful concentrations, i.e., above maximum residue limits (MRLs) according to Council Regulation (EEC) 2377/90. Therefore, efficient analytical methods are required to identify and to reliably quantify residues of these antibiotics. 
+
+In this study, sensitive and selective liquid chromatographic-tandem mass spectrometric (LCMS/ MS) methods were developed for fifteen ß-lactams (penicillins, cephalosporins) in bovine milk, muscle and kidney, for four aminoglycosides in bovine kidney and for the cephalosporin ceftiofur in bovine milk. Electrospray ionisation (ESI) proved to be suitable for the generation of positively ([M+H]⁺) and negatively charged ([M-H]⁻) gas phase ions for all compounds studied. The negative electrospray ionisation mode (ESI (-)) allowed a more sensitive analysis of the monobasic penicillins and the cephalosporin cefoperazone than the positive mode. All other compounds were measured with higher sensitivity using the positive electrospray ionisation mode (ESI (+)). 
+It was demonstrated that the ESI-mode leading to higher sensitivity was predictable by the Henderson-Hasselbalch equation considering the substance specific pKs and the pH of the eluent used for the chromatography. Collision induced dissociation (CID) with argon was used for fragmentation of the pseudomolecular ions to achieve the required selectivity for substance specific identification. 
+
+By using the LC-MS/MS technique, it was possible to reduce the complexity of the required cleanup procedures to a minimum of what is necessary with less selective methods. 
+The fifteen ß-lactams were extracted from the food samples with acetonitrile/water and cleanedup by a single reversed-phase solid phase extraction (SPE) step. Ceftiofur-related residues, bound to milk proteins, were liberated using dithioerythritol, then derivatized with iodacetamide and cleaned-up by a single reversed-phase SPE step. With the aminoglycosides it was sufficient to apply a simple ultrafiltration step for clean-up prior to the LC-MS/MS analysis. 
+
+A polar deactivated phenylether HPLC column was applicable for the chromatographic separation of all ß-lactams in the reversed-phase mode as well as for the chromatographic separation of the highly polar aminoglycosides in the hydrophilic interaction liquid chromatographic mode (HILIC). 
+
+Adverse effects on the ESI caused by co-eluting endogenous matrix components were investigated. Considerable signal suppression or enhancement effects could be observed for most of the compounds studied. The results demonstrated that these matrix effects depend highly on the type of matrix. 
+
+The methods for the ß-lactam antibiotics were validated closely to the EU requirements laid down in Commission Decision 2002/657/EC. Incurred ß-lactam and aminoglycoside residues in 24 samples from official food control, tested positive with a class-specific receptor test (Charm IItest), were identified and quantitatively analyzed using the developed LC-MS/MS methods. Benzylpenicillin and dihydrostreptomycine were the most prevalent residues. Furthermore, a cow suffering from postpartum metritis was treated with Excenel® RTU, containing ceftiofur hydrochloride as active component for 3 days. All milk samples obtained during medication were analyzed quantitatively. 
+
+CID-fragmentation studies were carried out on ceftiofur and desfuroylceftiofur using a triple quadrupole and an ion-trap mass spectrometer to allow the postulation of fragmentation pathways for these compounds.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20050106</identifier>
+                    <identifier type="sys">HT014334013</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1403</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1403">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1500/dc0501.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1403"
+            DMDID="DMD_wuppertal_elpub_1403">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1403"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

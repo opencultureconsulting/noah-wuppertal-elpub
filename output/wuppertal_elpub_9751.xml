@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9751">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Development, calibration and deployment of an airborne chemical ionization mass spectrometer for trace gas measurements</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Khattatov, Talat</displayForm>
+                        <namePart type="family">Khattatov</namePart>
+                        <namePart type="given">Talat</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-09-12</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Some ultra trace gas species present in the upper troposphere and lower stratosphere (UTLS) region at low part-per-billion and part-per-trillion mixing ratios are known to have a major effect on atmospheric chemistry and climate. Chlorine and bromine species causing strong ozone depletion and sulfur dioxide (SO₂) driving aerosol formation processes of high relevance to the global radiative budget are prominent examples. Nitric acid (HNO₃) is another species, which is quite important for particle formation and denitrification processes. In order to fully understand and reliably model the involved processes for climate predictions, spatially highly resolved in-situ measurements of these species are needed. Therefore robust instruments are required that can perform very sensitive and accurate measurements of ultra-trace species in the extremely challenging UTLS environment from balloons or favorably high-flying aircraft, which impose stringent mechanical and electrical constraints.
+ Here I describe the set-up, test, characterization, deployment, data analysis, and preliminary results of the new FunMass instrument tailored to the deployment on the high-flying research aircraft M-55 Geophysica. FunMass utilizes the established techniques of chemical ionization mass spectrometry (CIMS) in an unprecedented package pairing measurement sensitivity and accuracy with high versatility at reasonable instrumental weight and dimensions.
+ FunMass was set up based on a laboratory prototype [1]: the concept of its transfer stage with an ion funnel and its dielectric barrier discharge (DBD) ion source was adapted for the airborne version of the instrument. The ion funnel improves the sensitivity of the instrument at least by one order of magnitude and the DBD ion source is an excellent replacement for the logistically very challenging radioactive ion source, which is widely used for CIMS. A big advantage of the TOF-MS technique for airborne measurements is that it is capable of fast and simultaneous acquisition of full mass spectra and therefore measurements of many different ion species, which is very important since flight hours of research aircraft are a very limited resource.
+ FunMass has been characterized in detail for measurements of HNO&lt;3&lt;7sub&gt;, SO₂ and HCN with CO₃ – as the reagent ion, showing outstanding sensitivity. For SO₂ and HCN we report detection limits very close to the best published, and for HNO₃ almost one order of magnitude better than any other CIMS. FunMass was fully tested in the climate chamber at relevant stratospheric temperatures and pressures before its first fully operational deployment on board of M-55 Geophysica.
+ FunMass is calibrated in the laboratory for all targeted species employing a setup with high accuracy permeation devices. Due to the complications with the CIMS technique, it also has an in-flight calibration for at least one species to ensure accurate measurements.
+ A new software was developed for FunMass to take full control over the instrument during the flight and autonomously conduct measurements, as well as to handle abnormal situations, preventing possible instrument failures and damage of the equipment.
+ The first deployment of the FunMass instrument happened in Kathmandu, Nepal in July/August 2017 within the aircraft campaign of the STRATOCLIM project, which aimed to investigate the transport processes between the troposphere and the stratosphere during the Asian summer monsoon (ASM).
+ During its first campaign, FunMass successfully measured HNO₃ and HCN. First intercomparisons of these measurements with the data from other in-situ instruments on board of M-55 Geophysica and with measurements from remote sensing satellite-based instruments are presented in this work, emphasizing the high quality and resolution of the FunMass measurements.
+ Further measurements of HNO₃ and HCN in the UTLS region with FunMass can aid to improve the atmospheric models. The obtained HNO₃ and HCN data reveal several very interesting features that remain to be fully refined in further studies, which can help to improve the chemical and dynamical models of the atmosphere. FunMass has a great potential to contribute further high-quality data on the established and several additional chemical species of high relevance in the UTLS first of all SO₂ but also many nitrogen, chlorine, and bromine species employing alternate ionization schemes.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20190912-115903-7</identifier>
+                    <identifier type="doi">10.25926/d60p-tp53</identifier>
+                    <identifier type="sys">HT020173777</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9751</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9751">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2019/khattatov/dc1922.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9751"
+            DMDID="DMD_wuppertal_elpub_9751">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9751"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

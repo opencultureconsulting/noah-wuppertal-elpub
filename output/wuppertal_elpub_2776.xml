@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_2776">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>What Makes Nurses Intend To Leave Their Profession?</title>
+                        <subTitle>International Comparison</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Li, Jian</displayForm>
+                        <namePart type="family">Li</namePart>
+                        <namePart type="given">Jian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Background 
+The nurse shortage is an increasing problem worldwide, which has significant impact on quality of care and patient safety. It has been reported that most industrialized countries in America and Europe are or will be facing nursing shortages. However, the nurse shortage happens not only in developed countries, but also in developing countries, such as in China. In addition, the international East-West migration of nurses makes the situation worse in the less developed and developing countries. On the other hand, the premature departure increases the loss of nursing staff. What makes the nurses want to leave their profession? 
+
+Objectives 
+This study was to examine the impact of two established models of psychosocial stress at work (i.e. Job Strain model and Effort-Reward Imbalance model), together with job alternatives in labor market (employment opportunity) and individual resources (including age and health), on the newly developed intention to leave the nursing profession, using a prospective design of an international comparative study, the Nurses’ Early Exit (NEXT) Study. 
+
+Methods 
+7990 registered female nurses working in hospitals from eight countries (Germany, Italy. France, the Netherlands, Belgium, Poland, Slovakia, and China) who did not have intention to leave the nursing profession (ITL) at baseline were followed up one year, the logistic regression at both individual level and country level (multilevel modeling) was applied for data analyses. 
+
+Results 
+Generally, in the Netherlands and Belgium (the social-democratic European regime), nurses had lowest work stress, highest employment opportunity, best health condition, and lowest ITL; in Poland and Slovakia (the post-communist European regime), nurses reported highest work stress, lowest employment opportunity, worst health condition, and relative low ITL; while nurses from Germany, France, and Italy (the conservative-corporatist European regime) and China had relative high work stress, relative high employment opportunity, relative good health condition, and highest ITL. After controlling the differences between countries, it was found that young age, being single, poor health, effort-reward imbalance, and employment opportunity all significantly predicted an elevated risk of ITL. In country-specific analyses, the obvious divergence was observed. In the post-communist European regime, nurses had to stay at their current profession due to lack of employment opportunity in the market (so-called ‘locked-in’ situation); nurses from the social-democratic European regime, in contrast, reported good quality of psychosocial working conditions with easily available employment opportunity, thus weakening a link between stressful work and ITL; while in the conservative-corporatist European regime and China, both work stress and poor health contributed to nurses’ ITL. Notably, effort-reward imbalance played an important role in explaining the premature departure in nurses. 
+
+Conclusions 
+Findings suggest that improving the psychosocial work environment and health status may be helpful in retaining nurses, and consequently towards tackling nursing shortage internationally.</abstract>
+                    <subject>
+                        <topic>Risk factors</topic>
+                        <topic>Work stress</topic>
+                        <topic>Employment opportunity</topic>
+                        <topic>Self-rated health</topic>
+                        <topic>Intention to leave</topic>
+                        <topic>Nursing shortage</topic>
+                        <topic>International comparison</topic>
+                        <topic>Longitudinal study</topic>
+                    </subject>
+                    <classification authority="ddc">600</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20120416-112230-6</identifier>
+                    <identifier type="sys">HT017223644</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_2776</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_2776">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-2899/dd1202.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_2776"
+            DMDID="DMD_wuppertal_elpub_2776">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_2776"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

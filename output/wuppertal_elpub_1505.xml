@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1505">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zur Identifikation selbsterregter aeroelastischer Kräfte im Zeitbereich</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Neuhaus, Christian</displayForm>
+                        <namePart type="family">Neuhaus</namePart>
+                        <namePart type="given">Christian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The flow around a section of a line like slender structure, e.g. a mast or a wide spanned bridge, interacts with the section’s motion. Forces as a reaction of the flow induce deformations to the elastic structure. These deformations change the flow conditions around the section and therewith the resulting forces. The forces on the section due to the motion of the section itself are called aeroelastic or self excited forces. The interaction leads to a coupled aeroelastic system including the mechanical properties of the structure and the flow around it. Several phenomena may occur, related to the instability of the coupled system. Aeroelastic phenomena, depending on the respective mechanism, are called flutter, galloping and divergence. They play an important role in aeronautics from the beginning of the 20th century. The relevance of these phenomena for structures of civil engineering was disclosed by the disaster of the TACOMA NARROWS Bridge 1940. Henceforward a great amount of scientific work in civil engineering has been done and the aeroelastic stability is nowadays established for all vulnerable structures. The aeroelastic forces on an oscillating section can be described in the frequency and in the time domain. This is often realised using linearization around a mean angle of attack of the oncoming flow. The most common linear mathematical model is a time domain model using frequency dependent parameters, called Scanlan derivatives. The first part of this work presents the basic analytical models for the description of the self excited forces and a comparison of experimental methods for their determination. The consequences of the linearization on the applicability of the mathematical models approximating the aeroelastic forces are educed. In the second part a new experimental rig for the determination of SCANLAN derivatives using the forced vibration method is presented and analysed. It has been mounted in the boundary layer wind tunnel at Ruhr-Universität Bochum. This rig allows experiments in a wide frequency range and in three degrees of freedom. Sets of 18 SCANLAN derivatives for three section models are shown and analysed regarding the adaptability of instationary and quasi-steady theory. The interaction of self excited forces and forces as a result of vortex shedding is observed analogous to former studies. An identification of aeroelastic forces in the time domain, defined as indicial or step response functions, is presented in the third part of this work. Two main strategies are implemented and compared. An approximation of the frequency response functions, given by the measured SCANLAN derivatives, by rational functions using terminology of system theory and an identification in the time domain based on nonstationary motions of the section are presented. Difficulties and constraints due to the determination of time domain functions are worked out. The existence of indicial functions, derived in the frequency domain using rational function approximation, for a two degree of freedom model is verified in the time domain.</abstract>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Architektur und Bauingenieurwesen » Bauingenieurwesen"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20100820-102122-7</identifier>
+                    <identifier type="sys">HT016492708</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1505</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1505">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/bauingenieurwesen/diss2010/neuhaus/dd1002.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1505"
+            DMDID="DMD_wuppertal_elpub_1505">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1505"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

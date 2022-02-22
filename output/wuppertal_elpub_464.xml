@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_464">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Building Blocks for 2-Deoxy-L-Nucleosides</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Fazio, Fabio</displayForm>
+                        <namePart type="family">Fazio</namePart>
+                        <namePart type="given">Fabio</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-10-04</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The major topic of this work was the development of novel synthetic routes towards enantiomerically pure building blocks for 2-deoxy-L-ribose and non-natural L-nucleosides derived thereof, with their therapeutic importance outlined in Chapter 1. 
+In Chapter 2 the synthesis of enantiomerically pure R-(+)-5-benzyloxymethyl-5H-furan-2-one (1) is described, which we chose as chiral starting material for the synthesis of 2-deoxy-L-ribose. 1 was obtained from L-ascorbic acid in 5 steps and 26% overall yield. As an alternative 1 can also be obtained from R-(-)-benzylglycidol by either using PhSeCH₂CO₂H (2 steps, 61% overall yield) or PhSCH₂CO₂H (3 steps, 35% overall yield). 
+In Chapter 3 the synthesis of 2-deoxy-L-ribose and building blocks derived thereof starting from 1 is described. We were able to prepare 2-deoxy-L-ribose following two different routes: 
+The first route is based on previous experiments described by Fleming et al. related to the diastereoselective addition of silyl cuprate reagents to Michael systems, and to the fact that the silyl functions in the resulting derivatives can be transformed into the corresponding hydroxy groups with retention of configuration. We were able to synthesize 2-deoxy-L-ribose (4 steps, 28% overall yield from 1) and related building blocks in enantiomerically pure form. 
+The second route involves a) dihydroxylation of 1, b) selective protection of the 2-OH group and c) selective removal of this function. This way 2-deoxy-L-ribose was obtained from 1 in 5 steps with an overall yield of 18%. 
+In comparing the two routes we feel that the dihydroxylation route has several advantages in using a) simpler procedures, b) commercially available reagents and c) being faster. The only remaining drawback is the requirement for one additional step and a lower overall yield (18%) as compared to the silyl based procedure (28%). This is, in our opinion, more than compensated by the rapid and facile procedure. 
+In Chapter 4 the synthesis of two selected 2-deoxy-L-nucleosides is described. The Vorbrüggen procedure was used in the case of L-thymidine and the KI catalyzed procedure in the case of 2-deoxy-L-adenosine. In order to avoid equilibration between the pyranoside and furanoside forms of the free sugar, the 5-O-benzyl protected derivative 47 was employed. In order to demonstrate the usefulness of our building block having the backbone of 2-deoxy-L-ribose, we synthesized L-thymidine - a pyrimidine L-nucleoside- and 2-deoxy-L-adenosine, a purinic nucleoside. L-thymidine and 2-deoxy-L-adenosine were obtained in 48% and 30% overall yield, respectively. The major and unresolved remaining problem is the lack of diastereoselectivity in the coupling reactions leading to mixtures of α,β-anomers of the final nucleosides. 
+In Chapter 5 the instability of δ-lactones towards acid catalysis is investigated. The enantiomerically pure (≥98% ee) R-(+)-6-methyl-tetrahydro-pyran-2-one (87) was prepared via TFA catalyzed cyclization of the corresponding acid. It was observed that this δ-lactone converts into an equilibrium mixture with its trimer (90) (monomer/trimer 20:80) corresponding to a ΔG≅-0.8 kcal mol-1 if traces of TFA are still present in the final product. The transformation can be followed by ¹H and 13C-NMR. The structure of 90 was established by chemical correlation with the monomer and its molecular weight determined via its colligative properties. p-TsOH in contrast was shown to be a highly suitable catalyst for such cyclizations leading to pure and stable δ-lactones.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20010550</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_464</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_464">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-559/d090107.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_464"
+            DMDID="DMD_wuppertal_elpub_464">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_464"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

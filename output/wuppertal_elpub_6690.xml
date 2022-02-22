@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6690">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Investment, Growth, and Tax Morale: On the Role of Government Policy</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lai, Hung-Viet-Quoc</displayForm>
+                        <namePart type="family">Lai</namePart>
+                        <namePart type="given">Hung-Viet-Quoc</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">As the title of this dissertation suggests, I focus on the effect of government policies for the private sector. This dissertation studies the competing forces of the government in shaping fiscal and public policy. It also acknowledges its role in raising revenue to support long-term growth. I address three specific topics that currently challenge economic researchers while the focus of attention is twofold. First, this thesis focuses on evidence-based analysis of public policy. Second, it investigates the formation of attitudes of individuals towards taxes. Both focuses aim at ultimately enhancing economic outcomes. 
+In Chapter 3, Long-term effects of fiscal policy and economic convergence: Evidence from German bonus depreciation, we empirically investigate the effect of a bonus depreciation program on long-term firm growth of firms in Eastern Germany after German Unification. The German reunification required the government to facilitate the economic convergence of Eastern Germany to its Western counterpart, i.e. to increase growth in the Eastern part. One main component of the policy instruments was tax incentives. One of the largest interventions was the Development Area Law (DAL) that was used to subsidize business investment in the Eastern part of Germany. Using German administrative plant-level data from 1995 to 2008, we find that bonus depreciation induced investments lead to overinvestment behavior and hence lower growth for plants in Eastern Germany than for Western plants. This study makes use of exogenous variation in tax regulation to investigate the effect of taxes on firm growth through the channel of increased tax-incentivized business investment. Findings demonstrate a positive relationship building investments during the time of the tax incentive in Eastern Germany and growth in the long-run. This however does not hold for equipment investments. Thus, tax incentives to achieve economic convergence of Eastern and Western Germany have induced inefficient investment behavior but accommodated the necessary infrastructure in the new German market. 
+In Chapter 4, R&amp;D investment behavior during a crisis: What is the role of subsidies?, we empirically investigate the effect of public subsidies on R&amp;D activity of Swiss firms in the light of the financial crisis 2008. We analyze whether R&amp;D investment behavior during the crisis affects the effectiveness of public R&amp;D funds. This study goes beyond previous research on the effectiveness of subsidies by considering changes in firm behavior due to the crisis. Hence, we are able to analyze impact of the crisis and changes in firm behavior on the effectiveness of public subsidies on R&amp;D activity. The results indicate that crowding out might be driven by uncertainties of the economic crisis. Also, we find that firms keeping R&amp;D investment constant during the crisis may alleviate the crowding out. These findings illustrate the importance of considering economic fluctuations and its effect on firm behavior for the evaluation of public policy. 
+In Chapter 5, Social capital, religiosity, and tax morale, I empirically study the effect of social capital on tax morale. This study relates to previous attempts to explain tax compliance by shedding light on tax morale as the intrinsic motivation to pay taxes. The novelty of this study is the implementation of an instrumental variable approach. Using European individual-level data on socio-political and value-oriented survey, I estimate individuals attitudinal response towards taxes using an instrumental variable strategy, instrumenting for social capital with secularization and religiosity. 
+The results indicate a large effect of social capital on tax morale, consistent with the existing literature, but less reliable effects for less secularized countries. The findings point to the relevance of enhancing trust between citizens and the government to secure tax revenues. For policymakers on the level of local public finances, this result emphasizes the importance of considering tax morale in tax compliance strategies and the promotion of institutional trust among citizens instead of increasing audit rates and penalties. 
+While the topics of this dissertation might appear to be quite heterogeneous, the common and unifying feature of the three studies is the role of government policy in shaping behavior and attitudes of private entities.</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170222-155312-7</identifier>
+                    <identifier type="sys">HT019261970</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6690</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6690">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2016/lai/db1611.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6690"
+            DMDID="DMD_wuppertal_elpub_6690">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6690"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

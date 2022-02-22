@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_179">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="spa">
+                        <title>Entre la literatura fantástica y la novela histórica.</title>
+                        <subTitle>El escarabajo (1982) de Manuel Mujica Lainez.</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Merino Claros, Emilia</displayForm>
+                        <namePart type="family">Merino Claros</namePart>
+                        <namePart type="given">Emilia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004-03-02</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">spa</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Bereits der Titel der Studie &quot;Zwischen historischem Roman und phantastischer Literatur. Der Skarabäus von Manuel Mujica Lainez&quot; versucht deutlich zu machen, welche zwei grundlegenden Aspekte die Analyse des Romans bestimmen. Die zentrale These ließe sich etwa wie folgt pointieren: Der Text &quot;Der Skarabäus&quot; präsentiert sich als eine Variante der literarischen Folie „historischer Roman“. Die Kritik liest bereits einige andere Romane des Autors wie etwa Bomarzo (1962), El unicornio (1965), El laberinto (1974) vor dem Horizont der Tradition des „historischer Romans“. Die in der vorliegenden Arbeit herausgearbeitete Variation des Bezugsgenres in &quot;Der Skarabäus&quot; ergibt sich vor allem durch das Einbringen von Mustern der phantastischen Literatur. Es ist unverkennbar, dass der Text mit dem Moment des „belebten Unbelebten“ zunächst ein Grundmuster der traditionellen deutschen und französischen Phantastik des frühen 19. Jahrhunderts darstellt, aber es fehlt derjenige Aspekt, den Tzvetan Todorov in seiner Definition der littérature fantastique den des „doute“, also Zweifel, genannt hat, da von Anfang klar ist, dass die Hauptfigur, der sprechende Skarabäus, ein rein fiktives Moment darstellt. So ist es nicht möglich, die phantastischen Elemente in dem Roman von Mujica Lainez als Wiederaufnahme der Grundmuster der traditionellen Phantastik des frühen 19. Jahrhunderts zu betrachten. Aber auch die Analysekategorie des „realismo mágico“ bietet keine genügende Beschreibung für die Spezifik des Romans. Die vorliegende Arbeit bietet eine ausführliche Diskussion dieser Problematik, Der Verhältnis von &quot;Der Skarabäus&quot; zum Gattungsvorbild des „historischer Romans“ ist vor allem struktureller Natur und folgt den Mustern von Walter Scott: Es finden sich historisch authentische Szenarien, in denen fiktionale Figuren die Hauptfiguren und authentische Personen die Rollen von Nebenfiguren einnehmen. Gleichwohl wird versucht zu zeigen, dass man &quot;Der Skarabäus&quot; auch der „nueva novela histórica“ zurechnen könnte, wie sie im Lateinamerika in der zweiten Hälfte des 20. Jahrhunderts entstanden ist. Mein Hauptargument hierfür wäre die Präsenz unhistorischer, phantastischer Momente, die in den Varianten von Scott so nicht zu finden sind. Weitere Kapitel analysieren die Kontinuität zur klassischen Phantastik im Bereich des pikaresken Romans, und im Bereich dessen Referenzgenres, der menippeischen Satire. Mujicas Text weist zum einen die episodische Struktur der literarischen Folie auf (Der Skarabäus als Besitztum vieler und verschiedener ‚Herren’ und die tendenziell satirische „Perspektive von innen“), zum anderen legen die inhaltlichen und formalen Ähnlichkeiten mit El coloquio de los perros von Cervantes eine Analyse im Vergleich mit der Gattung des pikaresken Romans nahe. Dies weist dann auch den Weg zur Erörterung der Menippee als antikem Vorbild der Pikareske, im speziellen die Nähe des Schelmenromans zu den Metamorphosen oder Goldenen Esel des Apuleius.</abstract>
+                    <classification authority="ddc">860</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » Romanistik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20040095</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_179</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_179">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-289/d040105.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_179"
+            DMDID="DMD_wuppertal_elpub_179">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_179"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_907">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Radiative aspects in coupled nuclear fusion-fission processes</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Fiedler, Jens</displayForm>
+                        <namePart type="family">Fiedler</namePart>
+                        <namePart type="given">Jens</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-11-17</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Der Prozess der fusionsverstärkten Kernspaltung wird durch eine Vielzahl von wichtigen physikalischen Prozessen begleitet. Neben den Implosions- und Expansionsvorgängen unter Einwirkung nuklearer Spalt- und Fusionsprozesse, beeinflusst die bei hohen Temperaturen entstehende Wärmestrahlung das System zusätzlich. Die Grundlage der theoretischen Behandlung eines solchen Systems bilden die hydrodynamischen Gleichungen. Die Wechselwirkung zwischen Materie, Spalt- und Strahlungsprozessen wird durch die Neutronen- und Strahlentransportgleichung modelliert. Zusätzlich gilt des, den Fusionsprozess geeignet zu beschreiben. 
+Mit Hilfe des Programmsystems STEALTH-MCNP wird die gegenseitige Beeinflussung zwischen veränderlichen Materialdichten und Teilchen- bzw. Strahlungstransport numerisch untersucht. STEALTH simuliert den hydrodynamischen Verlauf der Modellanordnung und MCNP generiert die neutronenphysikalischen Größen. 
+In der vorliegenden Dissertation wurde erstmals der Einfluß der Wärmestrahlung in kernspaltungsgetriebenen Fusionsreaktionen untersucht. Dabei wurden Ein- und Mehrguppen-Strahlenwirkungsquerschnitte für Spaltelemente gefunden. Das Strahlentransportproblem wurde mit dem Ansatz der Strahlungswärmeleitung genähert. Für die Bestimmung der Wirkungsquerschnitte, die Behandlung des Strahlentransports und für die Beschreibung des Fusionsprozesses wurde ein lokales thermisches Gleichgewicht angenommen.</abstract>
+                    <abstract type="content" lang="eng">The process of fusion boosted fission goes along with a large amount of important physical processes. Beside implosion and expansion activities under influence of fission and fusion processes, the effect of heat radiation becomes important at high temperatures. Theoretically, such systems are described by the hydrodynamical equations. The interaction of matter, neutrons and radiation is determined by the neutron and radiation transport equation. Additionally, an adequate model for the fusion process is needed.
+ By the help of the program system STEALTH-MCNP the influence of material properties, neutron and radiation transport has been simulated numerically. STEALTH solves the hydrodynamical equations whereas MCNP provides the neutron physical quantities.
+ The impact of heat radiation in fission ignited fusion processes has been studied within this thesis. One- and multigroup approximations of the radiation cross sections for fissile materials have been found. The problem of radiation transport has been approximately solved by the radiation heat conduction formalism. The estimation of the radiation coefficients, the fusion model and the solution of the radiation transport problem are based on assuming the existence of a local thermal equilibrium.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20090997</identifier>
+                    <identifier type="sys">HT016141788</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_907</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_907">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2009/fiedler/dc0911.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_907"
+            DMDID="DMD_wuppertal_elpub_907">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_907"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

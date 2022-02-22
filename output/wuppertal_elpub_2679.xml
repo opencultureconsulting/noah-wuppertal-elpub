@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_2679">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>In-situ Charakterisierung dünner kryokondensierter Metallschichten durch Röntgenmethoden</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Markert, Christian</displayForm>
+                        <namePart type="family">Markert</namePart>
+                        <namePart type="given">Christian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die vorliegende Arbeit beschäftigt sich mit der Untersuchung der speziellen elektrischen und strukturellen Eigenschaften dünner kryokondensierter Metallschichten, d.h. Schichten, die bei Substrattemperaturen von typischerweise weniger als 100 K abgeschieden werden. Für die Schichtcharakterisierung wurde erstmals eine Kombination aus Leitfähigkeitsmessungen, Röntgenreflektometrie (XRR) und Röntgenabsorptionsspektroskopie bei streifendem Einfall (GIXAS) verwendet, was es ermöglichte eine Reihe wichtiger physikalischer Eigenschaften wie die Dichte, die Dicke, die Grenzflächenrauheiten und das Leitfähigkeitsverhalten der Schichten sowie die atomare Nahordnung der Schichtatome temperaturabhängig und mit hoher Genauigkeit zu bestimmen. Für die Durchführung der Experimente wurde im Rahmen dieser Arbeit eine transportable Ultrahochvakuum-Beschichtungsanlage aufgebaut, die es ermöglicht, dünne Metallschichten auf unterschiedlichen Substraten bei Depositionstemperaturen zwischen 20 K und 420 K aufzudampfen und über die genannten Analysemethoden im selben Temperaturbereich (z.B. während des Temperns) unter echten in-situ Bedingungen zu untersuchen. Die Durchführung der Experimente erfolgte dabei sowohl im institutseigenen Labor der Universität Wuppertal als auch an den beiden Synchrotronstrahlungsquellen DELTA in Dortmund und HASYLAB in Hamburg. Die Beschichtungsanlage, sowie der experimentelle Aufbau an den Speicherringen mit allen für die Messungen notwendigen Komponenten sind ebenso wie die Ergebnisse der Untersuchungen der 6 nm bis 40 nm dicken Gold- und Bismutschichten auf Floatglas-Substraten im Detail beschrieben.</abstract>
+                    <abstract type="content" lang="eng">The present work deals with the investigation of the special electrical and structural properties of thin cryocondensed metal films, i.e. films which are deposited at substrate temperatures of typically less than 100 K. For the first time a combination of electrical conductivity measurements, X-ray reflectometry (XRR) and grazing incidence X-ray absorption spectroscopy (GIXAS) was used for the film characterization. Theses methods allow a temperature depended and accurate determination of several important physical properties, such as the thickness, density, surface roughness and the resistivity behaviour as well as the atomic short range order structure of the films. For the realisation of the experiments, a transportable ultra high vacuum chamber was designed and built up. The chamber allows the deposition of thin metal films onto various substrates, at substrate temperatures between 20 K and 420 K and the film characterization in this temperature region (e.g. during annealing) under real in-situ conditions with the above mentioned methods. The measurements were performed both in the laboratory of the working group at the University of Wuppertal and at the synchrotron radiation sources DELTA in Dortmund and HASYLAB in Hamburg. The deposition chamber and the experimental setup at the storing rings with all important components as well as the results of the investigation of 6 nm to 40 nm thick gold and bismuth films are presented in this work.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20120312-121249-2</identifier>
+                    <identifier type="sys">HT017170487</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_2679</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_2679">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-2803/dc1124.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_2679"
+            DMDID="DMD_wuppertal_elpub_2679">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_2679"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

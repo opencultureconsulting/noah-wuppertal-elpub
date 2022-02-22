@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6900">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Search for Exotic Double Tracks with the IceCube Neutrino Telescope</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kopper, Sandro</displayForm>
+                        <namePart type="family">Kopper</namePart>
+                        <namePart type="given">Sandro</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">&lt;&gt;Physics theories beyond the Standard Model, like supersymmetry and models with extra dimensions, often invoke Z₂-symmetries in order to avoid new couplings that lead to unobserved new physics, like unnaturally fast proton decay. This gives rise to the possibility of heavy new particles being produced in pairs with the lightest of them being (meta-)stable. Thus, under favorable conditions, neutrinos in the PeV range can produce pairs of exotic, charged particles that can be seen in a km³-sized detector as two parallel, muon-like tracks with a track separation of a few hundred meters.
+ This thesis discusses methods for simulating and reconstructing these exotic double tracks for the case of the IceCube neutrino observatory located at the geographic South Pole. It deals with techniques to separate them from other air shower or neutrino-induced muon events in a model independent way.
+ The search for such events with data taken by the IceCube detector in its 79-string configuration between May 2010 and May 2011 resulted in no candidate events. This result can be used to derive limits that can be applied to explicit exotic models.
+ As this is the first analysis of its kind, the prospects and requirements of future double track searches are also addressed.</abstract>
+                    <subject>
+                        <topic>Supersymmetry</topic>
+                        <topic>UED</topic>
+                        <topic>Extra Dimensions</topic>
+                        <topic>IceCube</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170511-093419-2</identifier>
+                    <identifier type="sys">HT019326553</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6900</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6900">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2017/kopper/dc1707.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6900"
+            DMDID="DMD_wuppertal_elpub_6900">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6900"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

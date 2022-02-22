@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1016">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Arabeske Organisationsstruktur für Bildfassungen</title>
+                        <subTitle>Arabeske. Bildfassung. Watteau. Rohmer.</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bauer, Michaela</displayForm>
+                        <namePart type="family">Bauer</namePart>
+                        <namePart type="given">Michaela</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005-09-16</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Selbstdarstellungsstruktur der Oberflächenkonfiguration: &quot;Arabeske&quot; wird als Organisationsstruktur vorgestellt, um sie als ein Verfahren auszuweisen, das geeignet ist, die Bedingungen, Funktionen und Wirkungen von bestimmten Bildwerken zu fassen- insbesondere von Bildwerken, die selbst davon geprägt sind, bildlich-bildnerische Fassungen zu sein. 
+
+ Vorliegende Studie wurde als Ansatzstruktur entworfen. Sie soll nicht Schlüssel zum Verständnis von Sachverhalten, insbesondere von Bildwerken sein, sondern zielt auf Sichtbarwerden durch Verborgenhalten. Sie zielt nicht auf Schlussfolgerungen, sondern auf das Ausbreiten eines Milieus, das ein Bildwerk umgibt. 
+Damit diese Ansatzstruktur Öffnung auf etwas Bestimmtes sein kann und nicht beliebige Offenheit erzeugt, ist sie in der reflexiven Anwendung auf sich selbst zurückgewendet. Dazu werden einem Leser Motive bereitgestellt, die ihm den Blick auf ein bestimmtes Bildwerk öffnen. Die Motive werden als Ensembles angeordnet, die in Anpassung und Abweichung zueinander sowie zum Bildwerk stehen. Die dieser Anordnung entsprechende Gestaltformel ist die einer intermittierenden Wellenranke, das Grundmuster arabesker Ausgestaltungen. Indem eine arabeske Struktur tradierte Formen wiederholt und neu kombiniert, stellt sie sich selbst organisierend dar. Sie reflektiert sich als Fassung durch das Gefasste. 
+
+ Die Studie besteht aus zwei Teilen, die sich gegenseitig bedingen. 
+Im ersten Teil werden Bedingung, Funktion und Wirkung der Oberflächenkonfiguration &quot;Arabeske&quot;unter dem Stichwort &quot;Arabeske Bildfassung&quot; in sechs Komplexen dargelegt. Darin werden Ensembles aus Textexzerpten bildwissenschaftlicher Literatur von Rahmentexten umgeben, die je nach Lesart auch als ein, die Studie durchziehender, Haupttext aufgefasst werden können. Alphabetische Randmarkierungen weisen in den zweiten Teil der Studie. Sie kennzeichnen deren ersten Teil als Gerüst-Struktur für den zweiten Teil, in dem ersterer rückwirkend veranschaulicht wird. Im zweiten Teil der Studie verschiebt sich der Fokus der Betrachtung auf zwei Bildwerke: Auf das &quot;Ladenschild des Kunsthändlers Gersaint&quot; (1720) von Antoine Watteau und auf den Film &quot;Rendezvous in Paris&quot; (1994) von Eric Rohmer. Die Bildwerke werden in einem Blick aufgenommen, der sich auf den ersten Teil der Studie zurückwendet, um sich dann auf die Erstellung einer Bildfassung zu richten. Anvisiert wird dabei eine elektronische Bildfassung.</abstract>
+                    <classification authority="ddc">700</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Design und Kunst » Kunst"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20050375</identifier>
+                    <identifier type="sys">HT014518119</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1016</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1016">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbf/kunst/diss2004/bauer/df0403.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1016"
+            DMDID="DMD_wuppertal_elpub_1016">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1016"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

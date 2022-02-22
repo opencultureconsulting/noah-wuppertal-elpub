@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_8511">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>Problem der Unit-Nonresponse in Onlinebefragungen innerhalb einer Organisation: Die Wirkung ausgewählter Heuristiken zur Steigerung der Responserate</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Strauss-Ewerhardy, Sarah</displayForm>
+                        <namePart type="family">Strauss-Ewerhardy</namePart>
+                        <namePart type="given">Sarah</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-07-19</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Organisationsbefragungen dienen dazu, dass Informationen über Abläufe in einer Organisation sowie Einstellungen der Organisationsmitglieder erfasst und daraus Veränderungen oder Problemfelder innerhalb der Organisation aufgedeckt werden. Insbesondere das Problem der Unit-Nonresponse als ein Qualitätskriterium, spielt eine Rolle. Tritt die Unit-Nonresponse auf, so führt dies zu einer Reihe von negativen Konsequenzen. Dazu zählen eine geringere als die erwartete Stichprobengröße, wodurch der Stichprobenfehler zunimmt oder die Genauigkeit von Parameterschätzungen gefährdet wird, und die Gefahr des Nonresponse Bias, wodurch die Generalisierbarkeit und Validität der Ergebnisse gefährdet wird. Die in dieser Arbeit leitende Forschungsfrage lautet wie folgt: Erhöht der Einsatz von heuristischen Maßnahmen die Responserate verschiedener Unit-Nonresponsetypen in Onlinebefragungen innerhalb einer Organisation? Das vorrangige Ziel liegt darin herauszufinden, ob und wie die Responserate mit Hilfe von Heuristiken erhöht werden kann. Dabei wird zwischen den Respondenten, die sich in die potenziellen aktiven und passiven Unit-Nonrespondenten aufteilen lassen, sowie zwischen den aktiven und passiven Unit-Nonrespondenten unterschieden. Falls Unterschiede zwischen den Gruppen vorhanden sind, müssen diese identifiziert und hinsichtlich der Organisation analysiert werden. Ferner werden die Auswirkungen auf die Item-Nonresponserate sowie die zeitliche Komponente mit in die Analyse aufgenommen. Aus den Ergebnissen der Dissertation lassen sich praktische Implikationen für das Wirtschaftssystem ableiten, zudem werden weitere Forschungsfelder für die Hochschulforschung geöffnet.</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20180719-105149-7</identifier>
+                    <identifier type="sys">HT019769248</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_8511</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_8511">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2017/straussewerhardy/db1710.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_8511"
+            DMDID="DMD_wuppertal_elpub_8511">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_8511"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,87 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9810">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Rudolf Otto: ,Das Heilige. Über das Irrationale in der Idee des Göttlichen und sein Verhältnis zum Rationalen.&apos; Kritische Edition mit einem Modell zur textgenetischen Variantenverzeichnung prosaischer Texte</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Stäblein, Katharina</displayForm>
+                        <namePart type="family">Stäblein</namePart>
+                        <namePart type="given">Katharina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lukas, Wolfgang</displayForm>
+                        <namePart type="family">Lukas</namePart>
+                        <namePart type="given">Wolfgang</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-10-09</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Der Marburger systematische Theologe Rudolf Otto (1869–1937) hat sein Hauptwerk ,Das Heilige. Über das Irrationale in der Idee des Göttlichen und sein Verhältnis zum Rationalen’ (1917) in insgesamt 25 teils stark überarbeiteten zu Lebzeiten erschienen Auflagen hinterlassen. Der Forschung steht damit eine Vielzahl an Auflagen zur Verfügung, jedoch ermangelte es bisher einer kritisch gesicherten Textgrundlage. Die Verzeichnung dieses Textes stellt aus editionstheoretischer Sicht eine Herausforderung dar – besonders ob der Fülle der zu verzeichnenden Prosavarianten. Die Kritische Edition bietet ein eigens für die Edition von Das Heilige entwickeltes Variantenverzeichnungssystem, das den Nachvollzug der Textentwicklung durch die optische Aufbereitung wesentlich ermöglicht. Die Kritische Edition bietet so den Kerntext des Werkes in seiner genetischen Entwicklung von der ersten bis zur letzten autorisierten Druckauflage. Der ausführliche Editorische Bericht führt über die reine Offenlegung der editorischen Arbeit hinaus und bietet Ausführungen zur Auswertung der Varianten in Das Heilige und beleuchtet die Bedeutung von Materialisierung im editorischen Kontext, sowohl im Allgemeinen als auch im Speziellen.</abstract>
+                    <abstract type="content" lang="eng">The textcritical edition provides the text of the work ,The Idea of the Holy‘ by the German theologian Rudolf Otto in a synoptical presentation. Furthermore the edition reports about editorial decisions and sets a focus on materialisation in different editorial contexts.</abstract>
+                    <subject>
+                        <topic>Kritische Edition</topic>
+                        <topic>Prosa</topic>
+                        <topic>Prosaedition</topic>
+                        <topic>Variantenverzeichnung</topic>
+                        <topic>Rudolf Otto</topic>
+                        <topic>Das Heilige</topic>
+                        <topic>Textgenese</topic>
+                        <topic>Genese</topic>
+                        <topic>Material</topic>
+                        <topic>Materialisation</topic>
+                        <topic>Synopse</topic>
+                        <topic>Doppelseite</topic>
+                        <topic>Farbcodierung</topic>
+                        <topic>Editionswissenschaft</topic>
+                        <topic>Text</topic>
+                        <topic>Werk</topic>
+                        <topic>Fassung</topic>
+                        <topic>Terminologie</topic>
+                        <topic>Dynamik</topic>
+                        <topic>Variante</topic>
+                    </subject>
+                    <classification authority="ddc">800</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20191009-122027-6</identifier>
+                    <identifier type="doi">10.25926/sn7r-4n84</identifier>
+                    <identifier type="sys">HT020839896</identifier>
+                    <accessCondition type="use and reproduction">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9810</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9810">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fba/literaturwissenschaft/diss2019/staeblein/da1902.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9810"
+            DMDID="DMD_wuppertal_elpub_9810">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9810"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

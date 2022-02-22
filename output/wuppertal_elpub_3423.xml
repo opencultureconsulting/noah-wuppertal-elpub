@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3423">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zur Bemessung von Hohlprofilverbundstützen im Brandfall</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bergmann, Marco</displayForm>
+                        <namePart type="family">Bergmann</namePart>
+                        <namePart type="given">Marco</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Bemessung von Verbundstützen aus Stahl und Beton im Brandfall ist in DIN EN 1994-1-2 geregelt. Die Norm beschreibt hierzu drei verschiedene Arten von Bemessungsverfahren: Tabellarische, vereinfachte und allgemeine Bemessungsverfahren. Für kammerbetonierte I-Profile ist ein vereinfachtes Bemessungsverfahren in der Norm enthalten, das für die Handrechnung geeignet ist. Im Folgenden werden neue Verfahren für die vereinfachte Bemessung von ausbetonierten kreisrunden Hohlprofilen mit und ohne I-förmige Einstellprofile hergeleitet, die ebenfalls als Handrechnung durchgeführt werden können. Die entwickelten Verfahren orientieren sich in ihrer Methodik eng an den Berechnungsverfahren für Verbundstützen nach DIN EN 1994-1-1. Die aus der Temperaturbelastung resultierenden verschiedenen Streckgrenzen und thermischen Eigenspannungen werden durch eine von der Beflammungsdauer abhängige Einordnung des Querschnitts in das bekannte Knickspannungslinienspektrum berücksichtigt. Zur Herleitung der Verfahren werden in umfangreichen Parameteruntersuchungen jeweils zuerst die Temperaturfelder verschiedener Querschnitte auf der Grundlage von DIN EN 1994-1-2 bestimmt und vereinfachte Berechnungsmethoden für die Temperaturfeldberechnung abgeleitet. Für die oben beschriebene Einordnung werden für diese Querschnitte die Traglastkurven für verschiedene Branddauern unter Berücksichtigung der Eigenspannungen in den stählernen Querschnittsteilen gemäß DIN EN 1993-1-1 ermittelt. Hieraus wird eine über die Stützenlänge konstante, effektive Ersatzsteifigkeit zur Ermittlung der bezogenen Schlankheit abgeleitet, womit der Nachweis gemäß DIN EN 1994-1-2 geführt werden kann.</abstract>
+                    <abstract type="content" lang="eng">Structural fire design of circular hollow composite columns 
+The rules for the structural fire design of composite columns are compiled in DIN EN 1994-1-2, where three design methods are given: Table-based, simplified and general design methods. For partially encased I-sections a simplified method is given, which can be carried out by hand calculation. In the following a simplified method for the structural fire design of circular hollow composite columns combined with and without I-sections is described. The developed design method closely follows the design method for composite columns according to DIN EN 1994-1-1. With respect to different yield strengths across the cross section due to the temperature field and the stresses caused by thermal strains the cross section is classified to specific buckling curves on the base of the wellknown buckling curve spectrum of DIN EN 1994-1-1. For the development of the design method temperature fields of various cross sections are determined according to DIN EN 1994-1-2, from which simplified calculation methods for temperature fields are derived. For the classification mentioned above for each cross section the load bearing curve is determined with respect to the residual stresses according to DIN EN 1993-1-1. From that an effective bending stiffness for the determination of the related slenderness is derived, with which the calculations according to DIN EN 1994-1-2 can be carried out.</abstract>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Architektur und Bauingenieurwesen » Bauingenieurwesen"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20130408-144137-6</identifier>
+                    <identifier type="sys">HT017605478</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3423</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3423">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/bauingenieurwesen/diss2013/bergmann/dd1301.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3423"
+            DMDID="DMD_wuppertal_elpub_3423">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3423"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

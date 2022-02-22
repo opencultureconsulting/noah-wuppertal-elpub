@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_11511">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>System Theoretical Properties of linear port-Hamiltonian Systems on Infinite-dimensional Spaces</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kaiser, Julia Theresa</displayForm>
+                        <namePart type="family">Kaiser</namePart>
+                        <namePart type="given">Julia Theresa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-03-25</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">We consider a class of hyperbolic partial differential equations. This includes models of beams and waves as well as the transport equation and networks of nonhomogeneous transmission lines. We study infinite-dimensional linear port-Hamiltonian systems on a one-dimensional spatial domain with full boundary control and without internal damping and show that well-posed port-Hamiltonian systems are exactly controllable. Furthermore, we study the Riesz basis property of port-Hamiltonian systems. It is shown that the system operator is a discrete Riesz spectral operator if and only if it generates a strongly continuous group. Moreover, in this situation the spectrum consists of eigenvalues only, located in a strip parallel to the imaginary axis and they can decomposed into finitely many sets having each a uniform gap. In the last chapter equivalent conditions for contraction semigroup generation are derived for both infinite networks even of port-Hamiltonian systems of higher order and infinite-dimensional linear port-Hamiltonian systems of order one on the semi-axis.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20210325-145302-3</identifier>
+                    <identifier type="doi">10.25926/wp3p-y863</identifier>
+                    <identifier type="sys">HT021043120</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_11511</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_11511">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2021/kaiser/dc2101.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_11511"
+            DMDID="DMD_wuppertal_elpub_11511">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_11511"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

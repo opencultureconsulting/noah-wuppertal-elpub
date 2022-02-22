@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_876">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Schnelle Spurengasretrieval für das Satellitenexperiment Envisat MIPAS</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hoffmann, Lars</displayForm>
+                        <namePart type="family">Hoffmann</namePart>
+                        <namePart type="given">Lars</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-04-18</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Um die komplexen dynamischen und chemischen Vorgänge in der Erdatmosphäre zu verstehen sind mit Fernerkundungsmethoden gewonnene Meßdaten von großer Bedeutung. Einen kontinuierlichen, globalen Überblick über den Atmosphärenzustand verschaffen hierbei nur Satellitenexperimente. Deren umfangreiche und genaue Meßdaten werden zwingend benötigt zur Validierung und Verbesserung von Atmosphärenmodellen, in denen das tatsächlich vorhandene Wissen über viele Vorgänge innerhalb der Erdatmosphäre zusammengefaßt ist.
+ Seit März 2002 befindet sich der europäische Umweltforschungssatellit Envisat im All. Ein Instrument an Bord der Plattform ist MIPAS (Michelson Interferometer for Passive Atmospheric Sounding), das die am Erdhorizont entstehenden thermischen Eigenemissionen von atmosphärischen Bestandteilen wie Spurengasen, Aerosolen und Wolken vermißt. Aus den von MIPAS gemessenen Infrarot-Strahlungsspektren werden im sogenannten Retrievalprozeß die tatsächlich interessierenden Atmosphärenparameter wie Druck, Temperatur und Spurengaskonzentrationen abgeleitet. Kennzeichen von MIPAS ist das hohe spektrale Auflösungsvermögen, das die Auswertung besonders vieler verschiedener Spurengase ermöglicht.
+ Die Auswertung von Satellitendaten ist bereits aufgrund von deren Umfang ein sehr aufwendiger Vorgang. Allein während einer Erdumrundung liefert Envisat MIPAS etwa 300 Megabyte an Meßdaten. Bei zukünftigen Experimenten, wie dem von den Forschungszentren Jülich und Karlsruhe vorgeschlagenen Instrument GLORIA (Global Limb Radiance Imager for the Atmosphere), werden die anfallenden Datenmengen noch um mehrere Größenordnungen anwachsen. Eine wichtige Komponente in der Datenauswertung atmosphärischer Fernerkundungsmessungen ist das Vorwärtsmodell, mit dem die Messungen eines Instruments für einen gegebenen Atmosphärenzustand simuliert werden. Im Rahmen der vorliegenden Arbeit wurde das besonders schnelle und flexible Vorwärtsmodell JURASSIC (Juelich Rapid Spectral Simulation Code) entwickelt. Darauf aufbauend wurde ein innovatives Retrievalsystem entworfen, das außer zur Auswertung konventioneller Satellitenmessungen, wie denen von Envisat MIPAS, auch ein Grundbaustein bei der Auswertung zukünftiger Experimente wie GLORIA sein kann. Die Beschreibung von Aufbau und Anwendungsmöglichkeiten von JURASSIC und des darauf aufbauenden Retrievalsystems sind Gegenstand dieser Arbeit.
+ Das JURASSIC Retrievalsystem wurde eingesetzt, um die globale Verteilung der Fluorchlorkohlenwasserstoffe CFC-11 und CFC-12 aus Envisat MIPAS Strahlungsmessungen abzuleiten. Diese Gase werden im operationellen ESA Retrieval nicht ausgewertet. Die wissenschaftlichen Retrieval anderer Arbeitsgruppen umfassen meist nur einen kleinen Teil aller vorhandenen Messungen. Im Gegensatz dazu deckt die hier durchgeführte Ableitung den Zeitraum von Juli 2002 bis März 2004 vollständig ab. Möglich wird dies überhaupt erst, weil JURASSIC eine sehr schnelle Vorwärtsmodellierung erlaubt. Die abgeleiteten Daten wurden mit externen MIPAS Auswertungen verglichen sowie mittels unabhängiger Messungen validiert und sind damit für die weitere wissenschaftliche Auswertung geeignet.
+ CFC-11 und CFC-12 sind langlebige Spurengase, die besonders für dynamische Studien im Bereich der oberen Troposphäre und unteren Stratosphäre nützlich sind. Im Rahmen der Arbeit werden zonale Mittelwerte und Standardabweichungen analysiert, die wesentlich durch die mittlere residuale Zirkulation der Stratosphäre und die Aktivität planetarer Wellen beeinflußt sind. Die MIPAS Datensätze sind besonders hilfreich, da sie das Studium des saisonalen Verlaufs dieser Prozesse ermöglichen. Zusätzlich sind die im Rahmen der Arbeit abgeleiteten CFC-11 und CFC-12 Datensätze sehr gut geeignet, um Einzelereignisse mit außergewöhnlichen dynamischen Verhältnissen zu untersuchen. Exemplarisch betrachtet wird hier das antarktische Major Warming Event im September 2002, bei dem erstmalig eine Aufspaltung des Südpolarwirbels in zwei Teilwirbel beobachtet wurde. CFC-11 und CFC-12 Messungen während dieses Zeitraums werden mit einer Simulation des Atmosphärenmodells CLaMS (Chemical Lagrangian Model of the Stratosphere) verglichen, mit dem derartige Vorgänge besonders detailliert untersucht werden können.</abstract>
+                    <abstract type="content" lang="eng">Remote sensing measurements are most important to understand the complicated dynamical and chemical processes occurring in the Earth&apos;s atmosphere. Only the measurements made by space-borne experiments can give a continuous and global overview of the atmospheric state. Most exact and comprehensive measurements made by such experiments are necessary to validate and improve atmospheric models which combine the knowledge on numerous mechanisms in the atmosphere. Since March 2002 the instrument MIPAS (Michelson Interferometer for Passive Atmospheric Sounding) is operating aboard Envisat, which is the largest and most ambitious satellite ever built by the European Space Agency. MIPAS measures the thermal emissions of atmospheric constituents like trace gases, aerosols and clouds arising from the atmospheric limb. Within the retrieval process geophysical parameters like pressure, temperature, and trace gas concentrations are derived from these measurements. A special feature of MIPAS is its high spectral resolution which allows to gather information on a large number of atmospheric trace species. The analysis of remote sensing measurements made by satellite experiments is an extensive task as time-consuming radiative transfer calculations and substantial amounts of data are typically involved. Envisat MIPAS provides 300 megabyte of measurement data during a single orbit. For future experiments, e. g. the GLORIA instrument (Global Limb Radiance Imager for the Atmosphere) recently proposed by the research centers Juelich and Karlsruhe, the amount of data may even increase by several orders of magnitude. A very important component in the analysis of atmospheric remote sensing measurements is the forward model. It is used to simulate the measurements of an instrument for a given atmospheric state. The rapid and flexible forward model JURASSIC (Juelich Rapid Spectral Simulation Code) was developed as part of this thesis. An innovative retrieval processor was created based on JURASSIC that allows for the analysis of current satellite measurements, as e. g. made by Envisat MIPAS, but is also suited to be a basic module in the analysis of future experiments. The description of structure and possible applications of JURASSIC and the retrieval system are a principal topic of this thesis.
+ The JURASSIC retrieval system has been applied to derive the global distribution of the chlorofluorocarbons CFC-11 and CFC-12 from Envisat MIPAS measurements. These trace species are not part of the ESA operational retrieval at all. Scientific retrievals carried out by other working groups cover only rather limited sets of CFC-11 and CFC-12 data. Here, in contrast, the full measurement period from July 2002 to March 2004 is analyzed comprehensively. This could only be done, since the JURASSIC retrieval system allows for a very rapid processing of all these measurements. The derived CFC-11 and CFC-12 data are compared to external MIPAS retrievals and successfully validated using independent measurements. Hence, they are suited for further scientific analysis.
+ Being long-lived trace species, CFC-11 and CFC-12 are most useful for dynamical studies in the upper troposphere and lower stratosphere region. Zonal means and variances of these species have been analyzed. They are mainly influenced by the residual mean circulation of the stratosphere and the activity of planetary waves. MIPAS measurements are most useful as they allow to study the seasonal behavior of these processes. In addition, the derived CFC-11 and CFC-12 distributions are ideally suited to investigate strongly disturbed dynamical situations. An example is the antarctic major warming in September 2002, which led to a split of the antarctic polar vortex. Such an event has never been observed before. CFC-11 and CFC-12 measurements during this period compare well to simulations made by the atmospheric model CLaMS (Chemical Lagrangian Model of the Stratosphere), which allows to study the processes occurring in such events in great detail.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20060074</identifier>
+                    <identifier type="sys">HT014717912</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_876</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_876">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2005/hoffmann/dc0523.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_876"
+            DMDID="DMD_wuppertal_elpub_876">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_876"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3837">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Development and Application of a new Long Path Absorption Photometer (LOPAP) Instrument for the Sensitive Detection of NO₂</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Villena Tapia, Guillermo Harold</displayForm>
+                        <namePart type="family">Villena Tapia</namePart>
+                        <namePart type="given">Guillermo Harold</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">A compact and simple instrument for the sensitive detection of NO₂ in the atmosphere has been developed. NO₂ is sampled in a stripping coil by a selective chemical reaction, converted into a highly absorbing dye, which is detected by long path absorption in a liquid core waveguide. Several interferences were quantified in the laboratory, which so far can all be neglected. The significant interferences against HONO and O₃ were suppressed by using an upstream HONO/O₃ -scrubber. The instrument has a detection limit of 2 pptv, an accuracy of 10 % and a precision of 0.5 % for 3 min time resolution. Thus, the new NO2-LOPAP technique is more sensitive than known commercial NO₂ instruments. The new analyzer is much simpler to apply than other highly sensitive and selective NO₂ methods, e.g. LIF, DOAS, pulsed CRDS or REMPI methods. The new instrument allows an absolute calibration that can be easily performed with liquid nitrite standards, which is a significant advantage over other NO₂ measurement techniques, for which NO₂ calibration gas mixtures are typically necessary. The new instrument has been validated against the chemiluminescence technique during an urban field campaign and against the FTIR technique in a smog chamber under complex photosmog conditions. The data sets exhibit high correlation and excellent agreement. 
+
+ The instrument was used at an urban field site and direct NO₂ emissions, from engine combustion, were determined. A NO2/NOₓ ratio of (12 ± 1) % was determined, a ratio much higher than 10 years ago. This is explained by high NO₂ emissions from modern diesel vehicles and an increasing diesel vehicle fraction. The ratio is lower than that determined by using a chemiluminescence instrument, which is explained by interferences. The new NO2-LOPAP was also used in laboratory studies on the photolysis of nitroaromatic species. In contrast to a recent study on this topic, in which a luminol NO₂ instrument was used, a significant formation of NO₂ was observed besides formation of nitrous acid (HONO). Both applications demonstrate that the use of selective NO₂ instruments is of paramount importance for the quantification and interpretation of NO₂ sources in the atmosphere.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20140120-101638-4</identifier>
+                    <identifier type="sys">HT018147458</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3837</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3837">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2012/villenatapia/dc1234.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3837"
+            DMDID="DMD_wuppertal_elpub_3837">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3837"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

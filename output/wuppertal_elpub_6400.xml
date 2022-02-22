@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6400">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Synthese von polyazidierten organischen Verbindungen und deren Anwendung in der Darstellung von stickstoffhaltigen Heterozyklen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Erhardt, Hellmuth</displayForm>
+                        <namePart type="family">Erhardt</namePart>
+                        <namePart type="given">Hellmuth</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Von beta-Ketoestern abgeleitete geminale Diazide wurden synthetisiert und auf ihre Einsatzmöglichkeit zur Darstellung von stickstoffhaltigen Heterozyklen untersucht. Hierbei wurde gefunden, dass Ethyl-2,2-diazido-3-oxobutanoat unter den Bedingungen einer Kupfer(I)-katalysierten [3+2]-Cycloaddition einer Deacetylierung unter Freisetzung der korrespondierenden geminalen Bistriazole unterliegt. Aus diesen wurden durch eine decarbonylative Azidierung neuartige Azidomethylenbistriazole abgeleitet, welche in modularer Art und Weise den Aufbau geminale Tristriazole mit 1,4-Substitutionsmuster erlauben. Durch Thermolyse von geminalen Diaziden konnten 1,3,4-Oxadiazole bereitet werden, welche in der Anwesenheit eines tert-Butylesters unter Acylierung reagierten. Werden allylsubstituierte geminale Diazide in eine solche Thermolyse eingebracht, so gehen nicht 1,3,4-Oxadiazole aus dieser hervor, sondern 3-Hydroxypyridine. Die Anwendbarkeit dieser Methode wurde für beide Verbindungsklassen eingehend untersucht. Weiterhin urde eine Auswahl an geminalen Diaziden einer thermischen Untersuchung durchThermogravimetrie und differential scanning calorimetry unterzogen. Eine Methode zur Bestimmung des Azidierungsgrades für geminale Triazide, welche auf magnetresonanzspektroskopischen Untersuchungen beruht, wurde entwickelt.</abstract>
+                    <abstract type="content" lang="eng">Geminal diazides derived from beta-ketoesters have been synthesized and studied with regard to their usability for the synthesis of nitrogen containing heterocycles. It has been found that ethyl 2,2-diazido-3-oxobutanoate reacts under deacetylation under the conditions of a copper(I)-catalyzed [3+2]-cycloaddition to furnish the corresponding geminal bistriazoles. The obtained compounds gave rise to novel azidomethylene bistriazoles through decarbonylative azidation, which are suitable starting points for the modular synthesis of geminal tristriazoles with a 1,4-substitution pattern. Thermolysis of geminal diazides afforded 1,3,4-oxadiazoles, which in the presence of a tert-butyl ester reacted under acyl transfer from another geminal diazide. Allyl substituted geminal diazides did not react to the 1,3,4-oxadiazoles, but instead afforded 3-hydroxypyridines. The scope of this method has been studied for both substance classes. Furthermore, selected geminal diazides were studied with thermogravimetric and differential scanning calorimetric techniques. A method for the determination of the degree of azidation of geminal triazides with magnetic resonance spectroscopy has been developed.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20161208-095146-8</identifier>
+                    <identifier type="sys">HT019181572</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6400</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6400">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2016/erhardt/dc1630.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6400"
+            DMDID="DMD_wuppertal_elpub_6400">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6400"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

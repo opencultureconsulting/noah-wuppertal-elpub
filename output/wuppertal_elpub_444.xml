@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_444">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Synthesen und Untersuchungen zum Polymerisationsverhalten von Itaconsäurederivaten</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Rüdiger, Christine</displayForm>
+                        <namePart type="family">Rüdiger</namePart>
+                        <namePart type="given">Christine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2000-07-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Itaconsäure ist ein Derivat der Methacrylsäure und kann deshalb zu ähnlichen Polymeren verarbeitet werden. Da Copolymere aus Itaconsäuremonoestern und Itaconsäurediestern noch nicht untersucht worden sind, werden in dieser Arbeit die Copolymere von drei Itaconsäuremonoestern mit drei Itaconsäurediestern vorgestellt. 
+Durch radikalische Polymerisation von Itaconsäurederivaten in Gegenwart von Vernetzern wurden außerdem Hydrogele synthetisiert, deren Quellbarkeit in Abhängigkeit von der Temperatur untersucht wurde. 
+Verschiedene Itaconsäurederivate wurden durch enzymatisch katalysierte Veresterungen modifiziert. Aus dem Itaconsäuredi(6-hydroxyhexyl)ester können durch die Veresterung mit Dicarbonsäuren, wie z.B. Sebacinsäure, unter milden Bedingungen ungesättigte Polyester synthetisiert werden. Die Reaktion mit langkettigen aliphatischen Carbonsäuren liefert Monomere mit langen Esterseitenketten, die bei der Copolymerisation mit gängigen Monomeren, wie z.B. Styrol, einen erheblichen Weichmachereffekt zeigen. 
+Eine andere Methode, die erstmals auf Itaconsäurederivate angewendet wurde ist ihre Komplexierung mit Cyclodextrinen. Durch Komplexierung mit einem β-Cyclodextrin werden Itaconsäureester und Itaconsäureamide wasserlöslich und können so im wäßrigen Medium polymerisiert werden. Die Polymere sind ebenfalls wasserlöslich und fallen erst aus, wenn das Cyclodextrin enzymatisch abgebaut wird. Auf diesem Weg können höhere Molekulargewicht und höhere Umsätze erreicht werden, als durch die radikalische Polymerisation der Itaconsäurederivate im organischen Lösungsmittel.</abstract>
+                    <abstract type="content" lang="eng">Itaconic acid is a derivative of methacrylic acid. Therefore it can be polymerized to produce polymers with properties similar to poly(methacrylate). 
+The free radical copolymerization of monoitaconates with diitaconates has not been investigated so far and several examples - copolymerization of three monoitaconates with three diitaconates - are described in this thesis. The copolymerization parameters and the properties of the resulting polymers were determined. 
+Swellable hydrogels were produced by free radical copolymerization of monoitaconates with crosslinkers. To explore their swelling behavior, temperature dependent swelling experiments were carried out. 
+Enzyme catalyzed esterification was applied to itaconic acid derivatives. The enzymatic esterification of bis(6-hydroxyhexyl) itaconate with dicarboxylic acids like sebatic acid and adipic acid yielded polyesters. Bis(6-hydroxyhexyl) itaconate was also esterified with several fatty acids. The resulting monomers with long ester side chains were subjected to free radical polymerization. If small amounts of these esters are copolymerized with styrene they lower the glass transition temperature of polystyrene considerably. 
+Another method that has been applied to itaconic acid derivatives for the first time, is their encapsulation in cyclodextrin cavities. By formation of inclusion complexes with a β-cyclodextrin, itaconic acid esters and itaconic acid amides become water soluble. Water soluble polymers were obtained by their free radical polymerization in aqueous solution. 
+They showed higher molecular weights than itaconate polymers prepared by radical polymerization in organic solvents.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20000283</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_444</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_444">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fb09/diss2000/ruediger/d090010.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_444"
+            DMDID="DMD_wuppertal_elpub_444">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_444"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

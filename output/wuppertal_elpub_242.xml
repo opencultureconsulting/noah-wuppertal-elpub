@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_242">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kohomologie mit Schranken und Fortsetzung holomorpher Funktionen durch lineare stetige Operatoren</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schmitt, Matthias M.</displayForm>
+                        <namePart type="family">Schmitt</namePart>
+                        <namePart type="given">Matthias M.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-11-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In dieser Arbeit lösen wir die Korandgleichung δc = d mit Schranken für Koketten mit Werten in einer kohärenten Untermannigfaltigkeit eines endlichen Produktes der Strukturgarbe OᵖΩ, wobei Ω eine Steinsche Mannigfaltigkeit sei. Insbesondere wird die Existenz endlich vieler globaler Erzeuger nicht vorausgesetzt. Unser Ergebnis ist daher für die Idealgarbe JV ⊂ OCN von Keimen holomorpher, auf einer abgeschlossenen analytischen Untergarbe V ⊂ Cᴺ verschwindender Funktionen anwendbar. Obgleich wir hauptsächlich an den Abschätzungen für die Lösungen der Gleichung δc = d interessiert sind, führen die eingesetzten Techniken zu einem Beweis des klassischen Theorems B von Cartan für kohärente Untergarben von OᵖΩ, ohne das Mittag-Leffler Verfahren zu verwenden. Wir zeigen mit diesen Techniken einen Fortsetzungssatz für holomorphe Funktionen auf V mit Kontrolle des Wachstumsverhaltens. Als Folgerung konstruieren wir einen linear zahmen Fortsetzungsoperator H(V ) → H(CN) unter der Voraussetzung, daß H(V ) linear zahm isomorph zu dem Potenzreihenraum unendlichen Typs Λ∞(k1/ n ), n = dimCV, ist, wobei diese Voraussetzung auch notwendig ist. Hierbei verwenden wir für die Supremumnormen die Suprema über den Schnitten von V mit den Polyzylindern mit den Polyradien em, m ∈ IN. In [2] fragt Aytuna, wie weit und welcher Art Informationen über die komplexanalytische Struktur von V in der Fréchetraumstruktur von H(V ) enthalten sind. Wir zeigen, daß H(V ) genau dann linear zahm zu einem Potenzreihenraum unendlichen Typs ist, wenn V algebraisch ist.</abstract>
+                    <abstract type="content" lang="eng">In this thesis we solve the coboundary equation δc = d with bounds for cochains with values in a coherent subsheaf of some OᵖΩ, where Ω is a Stein manifold. In particular the existence of a finite set of global generators is not assumed. Our result applies therefore to the ideal sheaf JV ⊂ OCN of germs of holomorphic functions vanishing on a closed analytic submanifold V ⊂ CN. Although we are mainly interested in the estimates for the solutions of δc = d, the techniques used also lead to a proof for the classical Theorem B of Cartan for coherent subsheafs of some OᵖΩ, avoiding the Mittag-Leffler argument. We derive an extension theorem for holomorphic functions on V to entire functions, with control on growth behaviour. As a corollary we construct a linear tame extension operator H(V ) → H(CN) under the hypothesis that H(V ) is linear tamely isomorphic to the infinite type power series space Λ∞(k1/ n), n = dimCV; this condition is also necessary. Here the supnorms on H(V ) are taken over intersections of V with polycylinders of polyradii em, m ∈ IN. In [2] Aytuna asked how much, and what kind of, information about the complex analytic structure of V is carried by the Fréchet space H(V ). We prove that H(V ) is linear tamely isomorphic to a power series space of infinite type if and only if V is algebraic.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20010630</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_242</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_242">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-335/d070105.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_242"
+            DMDID="DMD_wuppertal_elpub_242">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_242"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

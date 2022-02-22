@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1055">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>politische Talkshow - ein Medium politischer Bildung?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wagner, Maren</displayForm>
+                        <namePart type="family">Wagner</namePart>
+                        <namePart type="given">Maren</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-11-05</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Demokratie lebt von politischer Partizipation - Voraussetzung für politische Partizipation ist politische Bildung. Doch die zunehmende Distanz der Bürger zur Politik schlägt sich auch in geringer Akzeptanz außerschulischer politischer Bildungsveranstaltungen nieder. Folglich stellt sich die Frage nach neuen Formen politischer Bildung.
+ In einer Mediengesellschaft ist das Wissen über Politik bei den meisten Bürgern eher Ergebnis medialer Politikvermittlung als klassischer Bildungsveranstaltungen. Das Fernsehen ist dabei von besonderer Bedeutung und politische Talkshows sind bei Fernsehzuschauern besonders beliebt. Doch kann Massenkommunikation, insbesondere in Form politischer Talkshows, überhaupt einen relevanten Beitrag zur politischen Bildung leisten?
+ Zur Beantwortung dieser Frage analysiert die Dissertation politische Bildung aus drei Perspektiven: der Öffentlichkeitstheorie (Jürgen Habermas), der Massenkommunikationsforschung (Stimulus-Response-Modell, Uses-and-Gratifications-Approach) und dem Fernsehprogrammformat &quot;Politische Talkshow&quot; (&quot;Sabine Christiansen&quot;, &quot;Maybrit Illner&quot;, &quot;hartaberfair&quot;).
+ Die Dissertation zeigt, dass politische Talkshows Funktionen der institutionalisierten politischen Bildung aufgreifen, vor allem die Informations- sowie Meinungs- und Willensbildungsfunktion, diese aufgrund der ihnen zugrunde liegenden Medienlogik jedoch nur auf niedrigem Niveau erfüllen. Trotz ihrer eingeschränkten Leistungen für die politische Bildung kann politischen Talkshows jedoch eine größere politische Bildungswirksamkeit zugesprochen werden als traditionellen Veranstaltungen der außerschulischen politischen Bildung, denn sie erreichen größere Bevölkerungsteile.</abstract>
+                    <abstract type="content" lang="eng">Democracy thrives on political participation - political education is an important prerequisite for political participation. But the increasing distance of citizens to politics is reflected in a low acceptance of extracurricular events of political education. Hence arises the question of new forms of political education.
+ In a media society the knowledge of most citizens about politics is rather the result of political mediacommunication than of classical events of political education: television is of particular importance and political talk shows are especially popular with viewers. But is mass communication (especially in the form of political talk shows) able to afford a relevant contribution to political education? To answer this question, the doctoral thesis analyses political education from three perspectives: public theory (Jürgen Habermas), mass communication research (stimulus-response model, uses-and-gratifications-approach) and the TV format &quot;political talk show&quot;.
+ The dissertation shows that political talk shows take up functions of institutionalized political education, especially the functions &quot;information&quot; and &quot;formation of political opinion and will&quot;. But they meet these functions only at a low level because of the underlying logic of media. Despite their limited benefits for political education, political talk shows are, however, of greater political effectiveness for education than traditional extracurricular events of political education, because they reach larger segments of population.</abstract>
+                    <classification authority="ddc">300</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Human- und Sozialwissenschaften » Soziologie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20080570</identifier>
+                    <identifier type="sys">HT015732572</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1055</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1055">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbg/soziologie/diss2008/wagner/dg0803.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1055"
+            DMDID="DMD_wuppertal_elpub_1055">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1055"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

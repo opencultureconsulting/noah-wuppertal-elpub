@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6320">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Work-Life Balance Strategien von Nachwuchswissenschaftlern - Eine empirische Analyse von Einflussfaktoren auf die Work-Life Balance Gestaltung in der Post-doc-Phase</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Müller, Ute</displayForm>
+                        <namePart type="family">Müller</namePart>
+                        <namePart type="given">Ute</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die vorliegende Arbeit untersucht die Work-Life Balance Strategien von Wissenschaftlern in der Post-doc-Phase. Anhand einer empirischen Untersuchung von insgesamt 455 Nachwuchswissenschaftlern wird der Einfluss von arbeitsbezogenen-, sozialen und persönlichen Faktoren auf die Anwendung physischer, kognitiver und relationaler Strategien zur Gestaltung der Schnittstellen zwischen Arbeit und Privatleben untersucht. Zur Erfassung aktiver Verhaltensweisen zur individuellen Work-Life Balance Gestaltung erfolgt im Rahmen der Studie die Konstruktion und Evaluation einer Work-Life Balance Strategie Skala. Die Datenanalyse wird anhand eines Strukturgleichungsmodells durchgeführt. Die Ergebnisse weisen darauf hin, dass besonders die Unterstützung von Vorgesetzten einen positiven Einfluss auf die Work-Life Balance Gestaltung von Nachwuchswissenschaftlern hat. Darüber hinaus zeigen sich signifikante Ergebnisse in Bezug auf Job Involvement und das Vorhandensein von Kindern, wohingegen für Befristung keine und Persönlichkeitsmerkmale nur geringe Zusammenhänge nachgewiesen werden können.</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20161121-114203-6</identifier>
+                    <identifier type="sys">HT019201950</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6320</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6320">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2016/mueller/db1604.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6320"
+            DMDID="DMD_wuppertal_elpub_6320">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6320"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

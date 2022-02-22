@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3897">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Optimierung der Laserionisation bei Atmosphärendruck und Aufbau einer SFC-APLI-Kopplung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Klink, Dennis</displayForm>
+                        <namePart type="family">Klink</namePart>
+                        <namePart type="given">Dennis</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Als leistungsstarke Ionisationsmethode für die massenspektrometrische Analyse polyzyklischer aromatischer Kohlenwasserstoffe (PAK) kann die Laserionisation bei Atmosphärendruck (APLI) eingesetzt werden. Die Ionisation erfolgt dabei über eine resonanzverstärkte Multiphotonenionisation, einem sogenannten 1+1-REMPI-Prozess, der eine selektive Ionisation und dadurch eine sensitive Analyse ermöglicht. Seit der Einführung der APLI im Jahr 2005 wurden Kopplungen mit chromatographischen Systemen wie der Hochleistungsflüssigkeitschromatographie (HPLC) oder der Gaschromatographie (GC) realisiert und erste Anwendungen demonstriert. Zur Erweiterung des Portfolios chromatographischer APLI-Kopplungen konnte mit der superkritischen Flüssigkeitschromatographie (SFC) ein neues System, die SFC-APLI-(TOF)MS, aufgebaut werden. Mit der neu entwickelten Kopplung wurden PAK im Gewebe der blauen Miesmuschel (mytilus edulis) über interne deuterierte Standards quantifiziert. Hierfür wurde das Muschelgewebe nach einem modifizierten QuEChERS-Protokoll extrahiert und ohne weitere Aufarbeitung oder Reinigung mittels SFC-APLI analysiert. Desweiteren ermöglicht die SFC-APLI-(TOF)MS eine einfache quantitative Bestimmung von 1-Hydroxypyren (1-HP) in Urin. 1-HP gilt als exzellenter urinärer Biomarker für PAK-Expositionen und kann mit der neuen Kopplung in relevanten Konzentrationen bestimmt werden. Die ermittelte Nachweisgrenze für 1-HP bei der Bestimmung mittels SFC-APLI-(TOF)MS beträgt 0,5 µg L-1 und liegt damit unterhalb der 1-HP-Konzentration, die im Urin exponierter Probanden gefunden wurde [254]. Zur Anreicherung von 1-HP und Abtrennung sehr polarer Urinbestandteile erfolgt eine einfache Extraktion mit einem C18-Festphasenmaterial. 
+
+ Zur Ionisation wird bei APLI ein festfrequenter KrF*-Excimerlaser mit einer Laserwellenlänge von λ = 248 nm genutzt. Solche Laser erzeugen hohe Kosten bei der Anschaffung und im Betrieb durch den oftmaligen Wechsel der sogenannten Premix-Gasmischung und durchzuführender Wartungsarbeiten. Als wartungsarme und kostengünstigere Alternative zum Excimerlaser kann ein frequenzvervierfachter diodengepumpter Festkörperlaser (DPSS-Laser) mit einem neodymdotierten Yttrium-Aluminium-Granat-Kristall (Nd:YAG) als Lasermedium (λ = 266 nm) eingesetzt werden, der zudem höhere Laserleistungsdichten erreicht. Der Einsatz des DPSS-Lasers kann für die Direktinfusions-, HPLC- und GC-APLI erfolgen. Das Laserstrahlprofil des DPSS-Lasers ist im Vergleich mit dem Profil des Excimerlasers deutlich kleiner. Hierdurch ergeben sich Kompromisse beim Nachweisvermögen, insbesondere bei HPLC-APLI. Aus der kleinen Beleuchtungsfläche resultiert eine signifikante Abhängigkeit von der Strahlposition im Quellenkörper, deren Ausrichtung auf ein gegebenes Analysenproblem optimiert werden muss. Die exakte Positionierung ist ebenfalls für eine optimale Nutzung der GC-APLI notwendig. Aufgrund der unterschiedlichen Absorptionsquerschnitte der Analyten für die verwendeten Laserwellenlängen ist ein direkter Vergleich von mit beiden Lasersystemen durchgeführten Analysen nicht möglich. Auch bei der Charakterisierung organischer Verbindungen zur Synthesekontrolle kann der DPSS-Laser eingesetzt werden und dabei mit dem Excimerlaser vergleichbare Ergebnisse erzielen. 
+
+ Die zur Kopplung von APLI und weiteren Ionisationmethoden wie der Elektrosprayionisation (ESI) oder der chemischen Ionisation bei Atmosphärendruck (APCI) mit chromatographischen Systemen und dem Massenspektrometer (MS) genutzte Multi-mode Ionisationsquelle (MPIS) kann durch die zusätzliche Verwendung von Heizelementen zur temperaturkontrollierten (TC)- MPIS erweitert werden. Das Temperieren der Ionenquelle erlaubt HPLC-Trennungen mit hohen Wasseranteilen im Eluenten ohne Defizite bei der Ionenausbeute durch Kondensation des Wassers. Weiterhin ermöglicht der Einsatz einer gerichteten Gasführung im Quellenkörper mit dem sogenannten elevated floor die Optimierung der Peakform und Peakbreite bei HPLCAPLI-(TOF)MS-Analysen. 
+ Das bei Massenspektrometern zur Verringerung von Kontaminationen des Einlassbereichs durch Neutralanalyten genutzte Drygas führt bei GC-APLI-(TOF)MS zu einer signifikanten Reduktion der Analytsignalintensität. Das Drygas strömt dem GC-Eluat diametral entgegen und verdrängt den Neutralanalyten noch vor der Ionisation. Eine Änderung der Gasführung durch modifizerte und neu gestaltete Bauteile des MS-Einlasssystems führte zu geringfügigen Verbesserungen der Signalintensität bei Nutzung des Drygases. Mit den evaluierten Einlassgeometrien ist der Einsatz von Drygas mit Kompromissen möglich, ein vollwertiger Ersatz zum Verzicht auf dieses Gas kann jedoch nicht geleistet werden. 
+
+ Nach der Theorie werden durch den Ionisationsmechanismus bei APLI ausschließlich Radikalkationen (M+·) gebildet. Die Ionisation erfolgt dabei sehr analytschonend und fragmentierungsarm. Kleine PAK bzw. besonders deren Alkylderivate erreichen den (TOF)MS-Detektor häufig als [M-H]⁺. Komplexere Verbindungen wie z. B. durch APLI-Ionisationslabel zugängliche Verbindungen zeigen im Massenspektrum die Bildung signifikanter Anteile an Fragmenten. Durch ab-initio-Berechnungen und Experimente mit einem Ionenfallen-MS konnte gezeigt werden, dass sowohl die Bildung des [M-H]⁺ als auch die Fragmentierung der derivatisierten Verbindungen auf kollisions-induzierter Dissoziation (CID) in der Ionenoptik des Flugzeit-MS zurückzuführen ist. Durch schonende Bedingungen bei der Ionenführung, wie sie beim verwendeten Ionenfallen-MS genutzt werden, kann die CID stark reduziert und die erwarteten Radikalkationen detektiert werden.</abstract>
+                    <abstract type="content" lang="eng">Atmospheric-pressure laser ionization (APLI) is a powerful method for the mass-spectrometric analysis of polycyclic aromatic hydrocarbons (PAH). The selective ionization is realized via a resonance-enhanced multi-photon ionization process and therefore makes possible a very sensitive analysis. APLI was presented in 2005 and has been hyphenated successfully to chromatographic separation techniques like high performance liquid chromatography (HPLC) and gas chromatography (GC). A number of applications have been demonstrated with these techniques. In order to expand the portfolio of chromatographic couplings to APLI, a new hyphenation setup of APLI and supercritical-fluid chromatography (SFC) was devised. With the new setup, PAH have been quantified in blue-mussel tissue (mytilus edulis) by means of internal deuterated standards. A modified QuEChERS protocol was used for extraction. The extract was analyzed by SFC-APLI without further purification or clean-up steps. SFC-APLI-(TOF)MS could also be used for a simple quantification of 1-hydroxypyrene (1-HP) in urine. 1-HP is an excellent and accepted urinary biomarker for PAH exposures and can be determined in relevant concentrations. The limit of detection for 1-HP by SFC-APLI-(TOF)MS was found to be 0.5 µg L-1, which is lower than the 1-HP concentrations found in exposed persons [254]. A simple extraction with a C18-solid phase was used to concentrate 1-HP and separate it from the highly polar matrix. 
+
+ In APLI, a fixed-frequency KrF*-excimer laser with a wavelength of λ = 248 nm is used for ionization. Purchasing and operating such lasers is cost-intensive, especially because the premix gas needs to be replenished often and the laser system requires considerable maintenance. A cheaper and more readily maintained alternative to these laser systems is a quadrupledfrequency diode-pumped solid-state laser (DPSS laser) with a neodymium-doped yttriumaluminum- garnet crystal as active laser medium λ = 266 nm); this provides a higher power density than the excimer-laser systems. Operating the DPSS laser allows analyses with either direct-infusion-, HPLC- or GC-APLI. The DPSS laser-beam is much narrower than the excimer beam and results in a loss of detection power, especially for HPLC-APLI. There is a significant dependency of the laser-beam position inside the source enclosure and the narrow laser beam, which therefore has to be well aligned for a given analysis. An exact position is needed for GC-APLI as well. Because absorption cross-sections are different for each analyte at a given laser wavelength, a direct comparison of analyses with the two laser systems is not possible. Excimer and DPSS lasers gave comparable results when used to characterize organic compounds for synthesis-control purposes. 
+
+ For hyphenation of APLI and other ionization methods, e. g. electrospray ionization (ESI) or atmospheric-pressure chemical ionization (APCI), to chromatographic systems and a mass spectrometer (MS), a multi-purpose ion source (MPIS) is used; this was further upgraded to a temperature-controlled (TC)-MPIS by the addition of heating elements. Controlling the temperature of the source enclosure makes possible HPLC separations with an eluent containing a high percentage of water without a loss in ionization efficiency through condensation of water. Furthermore, when an elevated floor is used for a directed gas flow in the source enclosure, the peak shape and peak width are optimized in HPLC-APLI-(TOF)MS analyses. In a mass spectrometer dry gas is used to reduce the contamination of the sample-inlet stage with neutral analyte. Applying dry gas in GC-APLI-(TOF)MS analyses results in a significant loss of analyte signal. The dry gas flow is directed diametrically against the GC effluent and forces out the neutral analyte before the ionization. Changing the gas direction by modified or newly constructed components of the MS inlet stage results in a slight improvement of signal intensity when dry gas is used. The inlet components evaluated allow the use of dry gas with compromises, but do not make complete relinquishment of the dry gas possible. 
+
+ As predicted in theory, the ionization by APLI results exclusively in radical cations (M+·). The ionization mechanism is furthermore very soft to the analyte molecule and does not lead to fragmentation. Small PAH molecules or especially their alkylated derivatives often arrive at the (TOF)MS detector as [M-H]⁺. Complex molecules, such as labeled compounds which have been made accessible to APLI analysis by derivatization with an APLI ionization label, undergo significant fragmentation. For both scenarios, ab-initio-calculations and experiments done with an ion-trap MS clarify the [M-H]⁺ formation and fragmentation as a result of collision-induced dissociation (CID) processes within the ion optical transfer stage of the time-of-flight MS. Under soft conditions for ion guiding, as used with the ion-trap MS, the CID rate is reduced, and the expected radical cations are detected.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20140331-143436-2</identifier>
+                    <identifier type="sys">HT018244171</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3897</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3897">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2013/klink/dc1324.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3897"
+            DMDID="DMD_wuppertal_elpub_3897">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3897"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

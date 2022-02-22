@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_10970">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Stimulated Emission and Lasing in Metal Halide Perovskites by Direct Thermal Nanoimprint</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Pourdavoud, Neda</displayForm>
+                        <namePart type="family">Pourdavoud</namePart>
+                        <namePart type="given">Neda</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-09-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">With astonishing optoelectronic properties comparable to the most prosperous inorganic semiconductors like GaAs, the class of organometal halide and all-inorganic perovskite semiconductors have emerged as highly interesting and inexpensive active material for tunable thin-film lasers. For lasing applications, there is the vision that these perovskites may overcome the typical limitations and loss mechanisms imposed by organic gain media. 
+For the realization of High-Q photonic resonator structures and waveguides, the perovskite active material needs to be patterned on the nanoscale with utmost control. When the work of this thesis started, the tremendous potential of metal halide perovskites for optoelectronic and photonic applications had not been unlocked partially because of the lack of suitable versatile nanopatterning techniques, to create resonator structures, waveguides, etc. with a maximum level of control and precision directly into perovskite layers. 
+In this work, we address the above mentioned issues and demonstrate for the first time that photonic nanostructures can be prepared by thermal nanoimprint lithography (NIL) directly into different types of perovskite at temperatures as low as 100 °C—a futile endeavour in case of established inorganic semiconductors like Gallium Arsenide (GaAs) or Gallium Nitride (GaN). A notable effect of the imprinting process is a substantial flattening of the initially very rough polycrystalline perovskite layers which affords a significantly lowered threshold for the onset of amplified spontaneous emission due to reduced scattering. Moreover, in optically pumped DFB laser structures, very low lasing thresholds are achieved. This direct NIL patterning of photonic structures into perovskite layers is expected to inspire not only the field of lasers but also other perovskite-based devices, such as LEDs and solar cells.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20200924-085950-5</identifier>
+                    <identifier type="doi">10.25926/b4j1-zj06</identifier>
+                    <identifier type="sys">HT020614183</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_10970</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_10970">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2020/pourdavoud/de2006.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_10970"
+            DMDID="DMD_wuppertal_elpub_10970">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_10970"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

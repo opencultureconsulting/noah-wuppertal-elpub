@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_914">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zur Aktivierung des Verbundtragverhaltens von Glaslaminaten</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sastré-Terrasa, Johannes (Hanno)</displayForm>
+                        <namePart type="family">Sastré-Terrasa</namePart>
+                        <namePart type="given">Johannes (Hanno)</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-12-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Für jedes konstruktiv planerische Handeln ist ein fundiertes Wissen über die Baustoffe primäre Voraussetzung. Das trifft für Glas, auf Grund der Komplexität des Materialverhaltens, im besonderen Maße zu. Diese Arbeit beschäftigt sich deshalb zunächst mit dem Werkstoff Glas, den Grundlagen zum schadensfreien Fügen von Glas sowie dem Verhalten seiner Fügepartner. Die wichtigste Methode, das Kleben von Glas, wird im Wesentlichen durch die viskoelastischen und temperaturabhängigen Eigenschaften der verwendeten Klebstoffe bestimmt. Für Verbundglasscheiben bedeutet diese Abhängigkeit, dass der Verbund bei einer Bemessung nicht berücksichtigt werden darf und die Scheiben deshalb deutlich schwerer werden bzw. eine geringere Spannweite erreichen. 
+
+Von der Idee ausgehend, einen konstruktiven und damit sicher kalkulierbaren Verbund zu entwickeln, werden die Eigenschaften von Glasscheiben mit einer am Rand bzw. an den Kanten angebrachten Kopplung experimentell und mit der Finiten Element Methode analysiert. Mit dieser Arbeit wird gezeigt, dass der &quot;Kantenschubverbund&quot; gute Realisierungschancen aufweist, da das lokale Spannungsniveau im Glas an den Kopplungselementen nicht wesentlich vom Spannungsniveau in vergleichbaren Verbundglasscheiben abweicht. Bei einer ersten Vergleichsbemessung konnte festgestellt werden, dass eine Glasersparnis von 15-30 % realisierbar ist. Auf Grundlage der konstruktiven Überlegungen zur Umseztung des Kantenschubverbundes, werden weitere Ansätze für den konstruktiven Glasbau entwickelt, welche Lösungen offerieren, dievom zeitabhängigen viskoelastischen Materialverhalten von Kunststoffen nicht beeinflusst sind.</abstract>
+                    <abstract type="content" lang="eng">A sound knowledge about the building materials is a prerequisite for every constructively planned action. Owing to the complexity of the material behaviour, this applies especially to glass. This treatise, thus, deals with the raw material glass, the basics for a flawless fitting of glass as well as the behaviour of its fitting constituents. The most important method - the gluing of glass - is mostly determined by the visco-elastic characteristics and those depending on the temperature of the utilised glue materials. For laminated glass panes, this dependency means that the lamination must not be taken into consideration and the panes, therefore, become seemingly heavier and attain a minor span. 
+
+According to the idea of developing a constructive and, therefore, calculable lamination, the characteristics of glass panes with a coupling on the edges will be analysed experimentally and by applying the finite element method. This paper will be showing that the lamination edge compound offers good chances for realisation as the local voltage level in the glass does not vary greatly from the voltage level in comparable lamination glass panes. With a primal calculation of comparison, it could be observed that a glass saving of 15-30% can be realised. On the basis of constructive contemplation about the implementation of the lamination edge compound, further approaches to the constructive glass construction will be developed, which will be offering plastic independently solutions as well.</abstract>
+                    <classification authority="ddc">720</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Architektur und Bauingenieurwesen » Architektur"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20080012</identifier>
+                    <identifier type="sys">HT015390505</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_914</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_914">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/architektur/diss2007/sastre/dd0710.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_914"
+            DMDID="DMD_wuppertal_elpub_914">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_914"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

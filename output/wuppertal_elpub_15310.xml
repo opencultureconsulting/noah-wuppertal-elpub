@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_15310">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Prediction Rating and Performance Improvement for Segmentation Networks by Time-Dynamic Uncertainty Estimates</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Maag, Kira</displayForm>
+                        <namePart type="family">Maag</namePart>
+                        <namePart type="given">Kira</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>java.lang.ArrayIndexOutOfBoundsException
+                    <name type="personal">
+                        <displayForm>Rottmann, Matthias</displayForm>
+                        <namePart type="family">Rottmann</namePart>
+                        <namePart type="given">Matthias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-11-19</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Image segmentation with neural networks is an essential task in environment perception. However, neural networks as statistical models produce probabilistic predictions, which are therefore prone to error with a certain probability. Thus, the reliability of neural networks in terms of prediction quality estimation and uncertainty quantification is of highest interest to prevent safety issues, in particular in safety critical applications like medical diagnosis and automated driving. In this thesis, we propose methods for prediction quality rating and performance improvement in terms of accuracy by using time-dynamic uncertainty estimates. Furthermore, we present a false positive detection method and a reduction approach minimizing non-detected objects of a neural network. We consider the problems of semantic segmentation, i.e., the pixel-wise classification of image content, and instance segmentation, which consists of categorizing as well as localizing objects by predicting each pixel that corresponds to a given instance. Our methods serve as post-processing steps, applicable to any semantic or instance segmentation network, which we test on different datasets and networks. The main focus of our methods lies on the application of automated driving. Using the availability of image sequences, we obtain further information of predictions without much effort for enhancing our approaches.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20211007-111502-8</identifier>
+                    <identifier type="doi">10.25926/jtyb-cd34</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_15310</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_15310">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2021/maag/dc2118.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_15310"
+            DMDID="DMD_wuppertal_elpub_15310">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_15310"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

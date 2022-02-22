@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_2427">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Analytik von Arzneimittelwirkstoffen und Untersuchung ihres Verhaltens während der Trinkwasseraufbereitung mit Ozon</title>
+                    </titleInfo>
+                    <titleInfo lang="eng" type="translated">
+                        <title>Analysis of pharmaceuticals and their behaviour during drinking water treatment with ozone</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Preuß, Bibiana</displayForm>
+                        <namePart type="family">Preuß</namePart>
+                        <namePart type="given">Bibiana</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die vorliegende Arbeit betrachtet das Vorkommen von Arzneimittelwirkstoffen in Fließgewässern und ihr Verhalten während der Trinkwasseraufbereitung. Es wurde eine Analysenmethode für ausgewählte Arzneimittel mit LC-MS/MS und online Clean-up entwickelt. Das Verhalten ausgewählter Arzneimittelwirkstoffe während der Ozonung wurde im Hinblick auf die Bildung von Transformationsprodukten und deren Analytik untersucht.</abstract>
+                    <abstract type="content" lang="eng">The present work examines the occurrence of pharmaceuticals in rivers and their behaviour during drinking water treatment. An analytical method for selected pharmaceuticals employing LC-MS/MS combined with an online clean-up was developed. A main focus was the study of selected pharmaceuticals during ozonation, the formation and analysis of transformation products.</abstract>
+                    <subject>
+                        <topic>Arzneimittel</topic>
+                        <topic>Analytik</topic>
+                        <topic>Trinkwasseraufbereitung</topic>
+                        <topic>Ozon</topic>
+                    </subject>
+                    <classification authority="ddc">540</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20111206-133545-9</identifier>
+                    <identifier type="sys">HT017068389</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_2427</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_2427">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2011/preuss/dc1117.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_2427"
+            DMDID="DMD_wuppertal_elpub_2427">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_2427"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

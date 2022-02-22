@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_725">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Studien zur Synthese von Cyclitolen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Temeltas, Engin</displayForm>
+                        <namePart type="family">Temeltas</namePart>
+                        <namePart type="given">Engin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005-02-16</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Cyclite - carbocyclische Verbindungen mit mehreren Hydroxylgruppen - treten in weiten Bereichen als Naturstoffe mit physiologischer Aktivität auf. 
+Die vorliegende Dissertation befasst sich mit der Herstellung von Cycliten. 
+Hierbei wurden sowohl klassische Verfahren als auch moderne Phosphor-basierende Synthesemethoden auf ihre Eignung zur Herstellung von Cycliten untersucht. 
+Die Ringschluss-Metathesereaktion konnte erfolgreich angewendet werden zur Herstellung eines Kondurit [148] sowie des Cyclohepten-Carbazuckers [150]. 
+Die Zucker-basierenden Verbindungen: Hex-5-enal [68], Ketoaldehyd [156] und Ketoolefin [157] wurden erfolgreich mit Samariumdiiodid (Kagan´s Reagenz) zu den Cyclopentanolen [163], [172] und [173] umgesetzt.</abstract>
+                    <abstract type="content" lang="eng">Cyclitols - carbocyclic compounds bearing several hydroxyl-groups - are widely found as natural compounds showing physiological activity. 
+This thesis deals with studies for the synthesis of cylitols. 
+During this work classical pathways as well as modern phosphorous-based synthetic methods have been examined for synthesis of cyclitols. 
+Ring-closing metathesis reaction was successfully applied in the synthesis of conduritol [148] and cycloheptene carbasugar [150]. 
+Sugar derived hex-5-enal [68], ketoaldehyde [156] and ketoolefine [157] have been successfully reacted with Samarium diiodide (Kagan´s reagent) to yield cyclopentanols [163], [172] and [173].</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20050079</identifier>
+                    <identifier type="sys">HT014290631</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_725</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_725">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-821/dc0416.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_725"
+            DMDID="DMD_wuppertal_elpub_725">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_725"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

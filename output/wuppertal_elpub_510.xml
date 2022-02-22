@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_510">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Neue Synthesewege zur Darstellung wasserlöslicher sulfonierter Phosphane</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kühnel, Michael</displayForm>
+                        <namePart type="family">Kühnel</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002-07-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In the first section of this work the influence of a SO₃M moiety on the Pd-catalysed P-C cross coupling reaction was examined. The reaction of PhPH₂, Ph₂PH and BnPH₂ with 1, 1a and L11 under comparable conditions is strongly influenced by the catalyst e. g. Pd(OAc)₂, [Pd(PPh₃)₄] or Pd₂(dba)₃/dppp (1:1) and the solvent used. In agreement with the generally accepted catalytic cycle for the Pd(0)-assisted P-C cross coupling reaction, the reaction rate is dependent on the position of the SO₃M moiety in the sulfonated iodobenzene derivatives employed. The rate determining step is the oxidative addition of the CAr-halogen bond to the catalytically active Pd(0)species. For the preparation of new water soluble diphenyl-naphthylphosphines threefold sulfonated iodonaphthalenes were synthesised as starting materials. Their structures were derived from the detailed analysis of their 13C-NMR spectra. During Pd-catalysed P-C cross coupling reaction between the hydroxy-iodoquinoline derivative L30 and Ph₂PH elimination of HI occurred, instead of the expected P-C-coupling product 11a the phosphinite 11a being formed. A similar de-iodination reaction was observed during the attempted Pd-catalysed P-C cross coupling of 12 and Ph₂PH, yielding 13. The molecular structure of 8-hydroxyquinoline-5-sulfonic acid 13 has been determined by x-ray structural analysis. A novel type of a amphoteric arylphosphine 15 could be obtained by Pd-assisted P-C cross coupling of the 4-bromo-benzene-sulfonamide 14 with Ph₂PH. 
+A new synthetic approach to phosphines bearing arylgroups with sulfonic acid ester substituents has been developed in the second part of this work, using bromo- and iodobenzene sulfonic acid esters as starting materials. Employing the 4-chlorophenylester 17a for the Pd-catalysed P-C cross coupling reaction with Ph₂PH gave the phosphine 28a. It was identified by x-ray structural analysis. By Pd-assisted arylation of PhPH₂ with one equivalent of the iodobenzene compound 17 the secondary phosphine 29 could be obtained in good yield. The potassium salts 32 to 34 were obtained by hydrolysis of the sulfonates 26 to 28a with KOH in DMSO almost quantitatively. The analogue sodium salts were synthesised using NaOH with addition of catalytic amounts of potassium hydroxide. The 4-chlorophenylester 28a showed a higher rate in the hydrolysis reaction compared with the corresponding phenylester 28. 
+The third part of this work was dedicated to the synthesis of phosphines with a 2,2’-bis(methylene)-biphenyl backbone. The Arbusow reactions of P(OⁱPr)₃, PhP(OⁱPr)₂ and PhP(OEt)₂ with L58 lead to the novel phosphonate 44 and the phosphinates 45/45a, respectively. Several approaches to the primary 46 and secondary phosphine 47 have been developed. 
+A new chiral phosphine 48 and a water soluble phosphine 50 of the BISBI-ligand have been synthesised by nucleophilic phosphination reactions. The lipophilic phosphorus compounds 44/44b, 45/45a and 48, 49 were identified by mass spectrometry and detailed ¹H-, 13C{¹H}- and 31P{¹H}-NMR spectroscopy.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20020241</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_510</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_510">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-605/d090202.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_510"
+            DMDID="DMD_wuppertal_elpub_510">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_510"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1759">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Philosophical and Historical Dimensions of Charles S. Peirce’s Self-Corrective Thesis (SCT)</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bakalis, Nikolaos</displayForm>
+                        <namePart type="family">Bakalis</namePart>
+                        <namePart type="given">Nikolaos</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Charles S. Peirce’s Self-corrective Thesis (SCT) is based on the idea that the progress in science is due to its methods, since they allow us our knowledge to grow and to take our mistakes out by gradual modification of our hypotheses. Particularly Peirce’s notion that scientific method consisted in four self-corrective aspects of scientific inference (abduction, deduction, qualitative and quantitative induction) is controversial in the history and philosophy of science. Supporters claim that all the aspects of scientific inference, introduced by Peirce, contribute to its self-correction, while critics claim that the justification for the selfcorrective character of scientific method is inadequate. Some critics argue that the justification for the self-corrective character of abduction is insufficient, while others claim that there is no deductive justification for the self-corrective character of induction. Some philosophers of science claim that from all four methods only quantitative induction is proved to be self-corrective, and as a result all scientific methods could be reduced to quantitative induction. In this project I explore Peirce’s proposed scientific methodology and discuss it in comparison with all these objections, so as to defend the SCT and distinguish the context of its validity. I appeal to the historical case of Chemical Revolution, namely the replacement of the phlogiston theory of Stahl by the Lavoisier’s oxygen theory, so as to shed new light upon this well-known episode in the history of science. Here I examine the historical data and discuss its interpretations by different methodological views (positivism, constructivism, falsificationism etc.), in order to evaluate the different aspects of the SCT (e.g. criteria of admissibility of the hypotheses, scientists’ skill, continuity of knowledge in scientific community etc.), so as to justify it.</abstract>
+                    <abstract type="content" lang="ger">Charles S. Peirce These der Selbstkorrektur wissenschaftlicher Folgerungen basiert auf dem Konzept, dass der Fortschritt in der Wissenschaft in ihren Methoden liegt, weil sie uns erlauben, unser Wissen zu erweitern und unsere Fehler durch allmähliche Modifizierung unserer Hypothesen zu verbessern. Besonders Peirce Ansicht, dass die wissenschaftliche Methode aus vier selbstkorrektiven Aspekten wissenschaftlicher Folgerung (Abduktion, Deduktion, qualitative und quantitative Induktion) besteht, ist in der Philosophie und Geschichte der Wissenschaft umstritten. Vertreter dieser These argumentieren, dass alle Aspekte wissenschaftlicher Folgerung, die Peirce eingeführt hat, zur Selbstkorrektur beitragen, während Kritiker behaupten, dass die Begründungen für die Selbstkorrektur der wissenschaftlichen Methode nicht hinreichend sind. Kritiker argumentieren, dass die Begründung des selbstkorrektiven Charakters der Abduktion mangelhaft ist, dass es keine deduktive Rechtfertigung für den selbstkorrigierenden Charakter der Induktion gibt oder dass von allen vier Methoden nur die quantitative Induktion beweisbar zur Selbstkorrektur führt. In diesem Projekt untersuche ich Peirce wissenschaftliche Methodologie und diskutiere sie in Gegenüberstellung mit den Einwänden, um die These der Selbstkorrektur zu verteidigen und den Kontext ihrer Berechtigung zu differenzieren. Ich beziehe mich auf den historischen Fall der Revolution in der Chemie, den Ersatz von Stahls Phlogistontheorie durch Lavoisiers Oxidationstheorie, um ein neues Licht auf diese wohlbekannte Episode in der Wissenschaftsgeschichte zu werfen. Die Interpretation der historischen Daten durch verschiedene methodologische Ansichten (Positivismus, Konstruktivismus, Falsifikationismus usw.) diskutiere ich, um die unterschiedlichen Aspekte der These der Selbstkorrektur (z.B. Zulässigkeitskriterien der Hypothesen, Geschicklichkeit der Wissenschaftler, Kontinuität des Wissens in der wissenschaftlichen Gemeinschaft) zu evaluieren.</abstract>
+                    <classification authority="ddc">100</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » Philosophie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20110107-110715-2</identifier>
+                    <identifier type="sys">HT016684946</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1759</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1759">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fba/philosophie/diss2010/bakalis/da1001.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1759"
+            DMDID="DMD_wuppertal_elpub_1759">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1759"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

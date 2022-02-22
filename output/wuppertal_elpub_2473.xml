@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_2473">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Ein </nonSort>
+                        <title>Beitrag zur Entwicklung einer Methodik zur Analyse der Verkehrsqualität in größeren Netzen bei vertretbarem Aufwand</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Seebo, Daniel</displayForm>
+                        <namePart type="family">Seebo</namePart>
+                        <namePart type="given">Daniel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Problemstellung 
+
+Zur Bewertung von Um- und Ausbaumaßnahmen von (Straßen-)Netzen gibt es sowohl für bundes- und landesweite Anwendungen als auch für regionale und lokale Anwendungen zahlreiche Verfahren. 
+
+Nur wenige der betrachteten Verfahren schließen jedoch eine Mängelanalyse mit ein. In keinem der betrachteten Verfahren mit Ausnahme des österreichischen Bundesverkehrswegeplans ist eine Methodik zur Findung von Maßnahmen enthalten. Es wird jeweils davon ausgegangen, dass bereits eine Sammlung von zu bewertenden Maßnahmen oder Projekten vorliegt. Diese kommt i. d. R. durch die Beteiligung der untergeordneten Behörden und Ämter sowie Vertreter der Öffentlichkeit zustande (Bottom- Up-Prinzip). 
+
+Das Problem bei diesem Prinzip spiegelt sich bei nahezu allen Verfahren wider: Werden Defizite im (Straßen-)Netz nicht im Rahmen einer systematischen Mängelanalyse erkannt und in entsprechende Projekte gefasst, so lassen sich diese Lücken im Rahmen des jeweiligen Bewertungsverfahrens nicht mehr füllen. Die Qualität der Ergebnisse der Bewertungsverfahren kann hierdurch trotz ständiger Weiterentwicklung der Verfahren immer nur so gut sein wie die vorausgegangene Maßnahmen- bzw. Projektfindung. 
+
+Zielsetzung 
+
+Zur Weiterentwicklung der Bewertungsverfahren ist daher nicht nur eine Verbreiterung der Zielsysteme, ein verkehrsträgerübergreifender Ansatz sowie eine höhere Transparenz erforderlich. Die Qualität von Bedarfsplänen ist in besonderem Maße von Verfahren zur systematischen Mängelanalyse abhängig. 
+
+In dieser Arbeit wird daher eine Methodik und ein Verfahren zum zielgerichteten Erkennen von Mängeln hinsichtlich der Verkehrsqualität in Straßennetzen entwickelt. Ziel ist eine anhand objektiver Kriterien nachvollziehbare Mängelanalyse der Verkehrsqualität in Straßennetzen bei vertretbarem Aufwand. Es ist in Abhängigkeit von den Zielen des jeweiligen Bedarfsplans als einer von mehreren Bausteinen der Mängelanalyse zu sehen, die als Grundlage einer systematischen Maßnahmenfindung dient.</abstract>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Architektur und Bauingenieurwesen » Bauingenieurwesen"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20111220-103840-2</identifier>
+                    <identifier type="sys">HT017084453</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_2473</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_2473">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/bauingenieurwesen/diss2011/seebo/dd1106.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_2473"
+            DMDID="DMD_wuppertal_elpub_2473">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_2473"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

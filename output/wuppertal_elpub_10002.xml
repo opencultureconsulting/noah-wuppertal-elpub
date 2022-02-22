@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_10002">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Automated Local Fourier Analysis (aLFA) and geometric multigrid for graphene</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kintscher, Nils</displayForm>
+                        <namePart type="family">Kintscher</namePart>
+                        <namePart type="given">Nils</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kahl, Karsten</displayForm>
+                        <namePart type="family">Kahl</namePart>
+                        <namePart type="given">Karsten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-09</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Local Fourier analysis is a commonly used tool to assess the quality and aid in the construction of geometric multigrid methods for translationally invariant operators. In the first part of this thesis we automate the process of local Fourier analysis and present a framework that can be applied to arbitrary, including non-orthogonal, repetitive structures. To this end we introduce the notion of crystal structures and a suitable definition of corresponding wave functions, which allow for a natural representation of almost all translationally invariant operators that are encountered in applications, e.g., discretizations of systems of partial differential equations, tight-binding Hamiltonians of crystalline structures, colored domain decomposition approaches and last but not least two- or multigrid hierarchies. Based on this definition we are able to automate the process of local Fourier analysis both with respect to spatial manipulations of operators as well as the Fourier analysis back-end. This automation most notably simplifies the user input by removing the necessity for compatible representations of the involved operators. Each individual operator and its corresponding structure can be provided in any representation chosen by the user. 
+ In the second part of this thesis we develop a geometric multigrid method for the tight-binding Hamiltonian of graphene. This tight-binding formulation leads to linear systems of equations which are maximally indefinite, i.e., with equal number of positive and negative eigenvalues and can be seen both as a discretization of a system of partial differential equations or a staggered discretization. We present a proof regarding the robustness and efficiency of the multigrid method via the previously developed framework.</abstract>
+                    <classification authority="ddc">518</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20191209-112655-0</identifier>
+                    <identifier type="doi">10.25926/0jm4-6y25</identifier>
+                    <identifier type="sys">HT020353629</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_10002</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_10002">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2019/kintscher/dc1938.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_10002"
+            DMDID="DMD_wuppertal_elpub_10002">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_10002"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

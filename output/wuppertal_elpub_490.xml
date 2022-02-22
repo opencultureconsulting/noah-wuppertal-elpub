@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_490">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Polymerisierbare Semi-Rotaxane auf Basis von Cyclodextrinen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Noll, Olaf</displayForm>
+                        <namePart type="family">Noll</namePart>
+                        <namePart type="given">Olaf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002-07-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Der erste Teil der Arbeit beschreibt die Synthese von Cyclodextrinkomplexen. Verschiedene hydrophobe methacrylamidhaltige Monomere wurden als Gast in den Hohlraum von Heptakis-(2,6-di-O-methyl)-β-cyclodextrin so eingeschlossen, dass wasserlösliche Komplexe entstehen. 
+Die Strukturen dieser Komplexe wurden durch NMR-, FT-IR-Spektroskopie und FAB-Massenspektrometrie nachgewiesen. Um den bevorzugten Aufenthaltsort der Cyclodextrine im Komplex zu bestimmen, wurde Tieftemperatur ¹H-NMR Spektroskopie eingesetzt. Aus diesen Daten konnte die Methacrylamid-Gruppe als bevorzugter Aufenthaltsort bestimmt werden. 
+Polymerisationsversuche der Monomer/Cyclodextrin-Komplexe in verschiedenen Medien haben gezeigt, dass die hydrophoben Monomere sehr gut in wässrigen Systemen polymerisieren, wenn sie mit Cyclodextrinen komplexiert werden. Insbesondere war eine signifikant höhere Polymerisationsgeschwindigkeit der Komplexe zu beobachten. Weiterhin waren die synthetisierten Polymere praktisch frei von Cyclodextrinen, so dass dieses Cyclodextrin in einem Kreislaufprozess immer wieder verwendet werden kann. 
+Im zweiten Teil der Arbeit wird die Veränderung der Gastmonomere beschrieben, um den Polymerisationsprozess in wässrigen Medien weiter zu untersuchen. Cholsäure wurde als Sperrgruppe in das Monomer eingeführt, um ein „abstreifen“ der Cyclodextrine zu verhindern. Mit den erlangten Daten konnte der Prozess der „Abstreifpolymerisation“ weiter verfeinert werden. Diese Ergebnisse konnten auch bei Verwendung von 3-amino-Cholsäure als Sperrgruppe bestätigt werden.</abstract>
+                    <abstract type="content" lang="eng">The first part of the thesis deals with the synthesis of cyclodextrin-complexes. Different kinds of hydrophobic methacryl amide monomers were incorporated as a guest into the cavity of heptakis(2,6-do-O-methyl)-β-cyclodextrin (Me₂-β-CD) as host yielding water compatible complexes. The structures of these complexes were proved by use of NMR spectroscopy, FT-IR and FAB mass spectroscopy. To determine the most preferred location of the cyclodextrin in the complexes, ¹H-NMR spectroscopy at low temperatures was applied. From that data it could be concluded, that the most preferred location of the Me₂-β-CD is close to the methacryl amide group. 
+Polymerisation experiments of the monomer/cyclodextrin-complexes in various mediums showed, that hydrophobic monomers polymerize very well in aqueous medium, if complexed with hydrophilic Me₂-β-CD. The obtained polymerisation rates of the complexes are significantly higher than the rates of the pure guests. In addition, the synthesized polymers were practically free of cyclodextrin, so that the cyclodextrin can be used in a circular process. 
+The second part of the thesis deals with the alteration of the guest monomers, in order to further investigate the polymerisation process. Cholic acid was used as a barrier group to prevent the cyclodextrin from unthreading. 
+It was found that 40% of the cyclodextrin remains in the new build polymer. From these results the process of the so called „unthreading-polymerisation“ could be further refined. It was possible to confirm these results with 3-amino-cholic acid as barrier group.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20020281</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_490</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_490">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-585/d090117.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_490"
+            DMDID="DMD_wuppertal_elpub_490">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_490"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

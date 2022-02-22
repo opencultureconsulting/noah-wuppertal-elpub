@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1383">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Prospects of a cross section ratio measurement of W and Z events as a function of the jet multiplicity with early ATLAS data</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sandhoff, Marisa</displayForm>
+                        <namePart type="family">Sandhoff</namePart>
+                        <namePart type="given">Marisa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Produktion von W und Z Bosonen zusammen mit Jets spielt eine zentrale Rolle beim ATLAS Experiment am &quot;Large Hadron Collider (LHC)&quot; des Europäischen Kernforschungszentrum CERN (Genf, Schweiz). Im Rahmen dieser Dissertation wurde eine Messung des Wirkungsquerschnitt-Verhältnisses von W+Jets und Z+Jets Ereignissen in Abhängigkeit der Jetmultiplitzität vorbereitet. Dieses Wirkungsquerschnitt-Verhältnis wird benötigt, um die W+Jets Normierung in der Top-Quark Analyse zu verbessern und um Monte-Carlo Ereignis-Generatoren und QCD Vorhersagen daran zu testen. Hierbei wurde der Schwerpunkt auf eine Analyse erster ATLAS Daten gelegt. Die Idee ist, dass die klar selektierbaren Z+Jets Ereignisse W+Jets Ereignissen sehr ähnlich sind und daher zur Abschätzung verwendet werden können. Im ersten Teil der Arbeit wurden daher die Ereignisstrukturen von W und Z Ereignissen verglichen. Der Vergleich bestätigte die erwartete Ähnlichkeit. Danach wurde die Messung des Wirkungsquerschnitt-Verhältnisses vorbereitet. Eine Abschätzung der Auswirkungungen systematischer Unsicherheiten wurde ebenfalls vorgenommen. Zuletzt wurden die W+Jets und Z+Jets Spektren von Detektor- und Rekonstruktionseffekten korrigiert, um einen direkten Vergleich von QCD Berechnungen und gemessenem Wirkunsquerschnitt-Verhältnisses zu ermöglichen.</abstract>
+                    <abstract type="content" lang="eng">The production of W and Z bosons in association with jets plays an important role at the ATLAS experiment at the &quot;Large Hadron Collider (LHC)&quot; situated at the &quot;European Organization for Nuclear Research&quot; CERN (Geneva, Switzerland). The work presented in this thesis prepared the measurement of the cross section ratio of W and Z events as a function of the jet multiplicity. This cross section ratio is needed to improve the W+jets normalization for top quark analyses and to test Monte Carlo generator and QCD predictions. It focused on a measurement using early ATLAS data. The idea of this analysis is to use the compatible event structures of W+jets and Z+jets events to estimate W+jets events from the easy selectable Z+jets event. Hence, first the event structures of W and Z events were compared proving that the event structures are very similar. Then a measurement of the cross section ratio was prepared. The consequences of systematic uncertainties on the measurement were also tested. In a final step the W+jets and Z+jets distributions were corrected for detector and reconstruction effects to be able to compare QCD calculations directly to the results.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20100341</identifier>
+                    <identifier type="sys">HT016427074</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1383</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1383">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2010/sandhoff/dc1006.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1383"
+            DMDID="DMD_wuppertal_elpub_1383">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1383"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

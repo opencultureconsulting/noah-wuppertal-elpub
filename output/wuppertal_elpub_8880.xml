@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_8880">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Tree-Grid Method</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kossaczký, Igor</displayForm>
+                        <namePart type="family">Kossaczký</namePart>
+                        <namePart type="given">Igor</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-10-29</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In this thesis we are concerned with the development of numerical schemes for solving the stochastic control problems and the related Hamilton-Jacobi-Bellman (HJB) equations. In the first part, we present the convergence theory and the standard finite difference methods (FDMs) used for solving HJB equations. We present then our result on non-existence of higher order monotone numerical methods. This result represents also the motivation for the numerical methods presented in this thesis. Rather than aiming for an high-order method, we focus on reducing the computational time. 
+The piecewise predicted policy timestepping method presented in this work represents a modification of the well-established piecewise constant policy timestepping method. The main idea of the method is reducing the control space based on the prediction computed on a coarse grid in order to reduce the computational time. We show the efficiency of the method on examples from finance. 
+The Tree-Grid methods represent the central topic of this thesis. The main essence of these methods is the combination of the tree structure, similar to that from trinomial tree methods, with the rectangular grid used in FDMs. We prove that these methods are unconditionally stable and convergent on an arbitrary grid. On the other hand, as the methods are explicit, they are faster and can be easily parallelized. We developed the methods for the cases of a one-dimensional and two-dimensional state variable, and have shown that for higher dimensions a monotone generalization is not feasible for a general problem. An additional advantage of the Tree-Grid method in the two-dimensional case is, that although the method uses a wide-stencil scheme, no interpolation is needed. For the case of a one-dimensional state variable, we developed a useful modification leading to a more efficient search for the optimal control. We tested all methods on examples from finance. 
+In the conclusion we also propose possible further research directions emerging from this thesis.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20181029-153921-8</identifier>
+                    <identifier type="sys">HT019861606</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_8880</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_8880">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2018/kossaczky/dc1815.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_8880"
+            DMDID="DMD_wuppertal_elpub_8880">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_8880"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

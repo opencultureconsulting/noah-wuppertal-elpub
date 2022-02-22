@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_373">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchungen zum Synthesepotential eines chiralen Glycinbausteins im Hinblick auf die Darstellung von α-N-Hydroxyaminosäuren und von neuen chiralen Nitroxylradikalen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hahn, Michael G.</displayForm>
+                        <namePart type="family">Hahn</namePart>
+                        <namePart type="given">Michael G.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1999-07-27</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In this work the synthesis of enantiomeric α-N-hydroxy-aminoacidmethylamides using the chiral spirocyclic glycine building block MMI (menthylidenmethylimidazolidinone) has been investigated. It could be shown that MMI as starting material enables the synthesis of the nitrone 12 and its substituted derivatives 15 as electrophilic amino-acid-equivalents. 12 and 15 are useful building blocks for the synthesis of α-N-hydroxy-aminoacidmethylamides exhibiting strong diastereoselectivities due to an efficient spiroasymmetric induction on nucleophilic addition of metalloorganic reagents and on reduction. A new improved procedure for the synthesis of the chain tautomere 21 has been obtained. This is an important product for the asymmetric synthesis of α-N-hydroxy-aminoacidmethylamides 23. After hydrolysis of the chain tautomere 21 and the MMI hydroxyl amines 14, 17 and 24 enantiomeric pure α-N-hydroxy-aminoacidmethylamides 23, ent-23 and 25 were obtained. Furthermore, a comparison with the established Oppolzer-system has been given. In another part of this work the MMI system has been investigated regarding its potential to create new chiral nitroxyl radicals. It could be shown that through starting with the building blocks 12 and 15 new chiral nitroxyl radicals 27c/h and 72 were obtained with high chemical yields and optical purity. While studying their characteristics for the use of asymmetric recombination of radicals the chiral nitroxyl radical 72 achieved higher diastereomeric excess than 27 c/h. The obtained selectivities, however, are not satisfactory, as they don’t exceed 25 % de yet.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-19990140</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_373</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_373">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-467/d099906.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_373"
+            DMDID="DMD_wuppertal_elpub_373">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_373"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

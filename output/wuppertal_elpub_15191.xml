@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_15191">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Time Reveals The Truth - More Efficient Constructions of Timed Cryptographic Primitives</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Chvojka, Peter</displayForm>
+                        <namePart type="family">Chvojka</namePart>
+                        <namePart type="given">Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-09-02</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The possibility to send information “into the future” has turned out to be surprisingly useful. It does not only allow revealing data at a required time which is needed for instance when publishing the results of a census or elections, but it helps to achieve properties that are difficult to achieve otherwise, e.g., ensuring that results of some protocol are unbiased. Currently, there are three known approaches that enable information to be kept secret until some specified future time has not passed. Historically the first approach suggested by May [May93] relies on a trusted entity which at a required time point essentially reveals the secret information. Later, the approach which requires execution of a sequential computation has been proposed by Rivest et al. [RSW96] who used the term Time-Lock Puzzle (TLP) to denote it. The third approach, known as Time-Lock Encryption (TLE) introduced by Liu et al. [LJKW18], aims to avoid both the dependency on a trusted entity and the need to perform a sequential computation. This thesis focuses on the latter two approaches with the objective of improving their practicality.
+ The main barrier in deploying time-lock encryption is that its constructions are not practical yet. Specifically, the only known construction of TLE requires Extractable Witness Encryption (EWE) and there are currently no efficient instantiations of this primitive. On the other hand, time-lock puzzles can be instantiated efficiently, however it is often necessary to encrypt several messages independently, which results in the wasting of computational resources.
+ To overcome the above-mentioned limitations, we observe that many applications allow for a trusted setup. Therefore we equip TLE and TLPs with a trusted setup and examine the possible efficiency gains. We denote TLE and TLPs with a trusted setup by Offline Time-Lock Encryption (OTLE) and Timed-Release Encryption (TRE), respectively.
+ Instead of focusing directly on OTLE, we introduce a new notion of Extractable Offline Witness Encryption (EOWE) which is extractable witness encryption with a trusted setup. OTLE can be directly built from EOWE in a similar way as TLE can be built from EWE. But since EOWE is a more general notion, it has also broader applicability than OTLE. We remark that the notion of Offline Witness Encryption (OWE) has been originally proposed by Abusalah et al. [AFP16], who build this primitive by combining indistinguishability obfuscation with a specific type of IND-CCA-secure Public-Key Encryption (PKE). The advantage of the resulting construction in comparison to existing constructions of witness encryption is that the most expensive computation is executed in the trusted setup which yields very efficient encryption. To build extractable OWE we proceed similarly as in [AFP16]. Concretely, we rely on extractability obfuscation in combination with a new variant of puncturable encryption [GM15] which we introduce. Additionally, by replacing extractability obfuscation with indistinguishability obfuscation in our construction, one directly obtains OWE, however with stronger security guarantees than the original construction. Moreover, we propose an efficient instantiation of a puncturable encryption scheme which results in a shorter ciphertext size than the original proposal of Abusalah et al.
+ The main idea of our timed-release encryption scheme is providing the ability to encrypt an arbitrary number of messages with respect to only one time-lock puzzle in a way that all these messages are decryptable using the solution of the puzzle. Hence, TRE achieves the so-called “solve one, get many for free” property, which has not been achievable before. We show that such an encryption scheme can be generically built from any TLP and any IND-CPA-secure PKE scheme. To further extend the capabilities and practicality of TRE, we propose a notion of sequential timed-release encryption (sTRE) which allows encryption of messages with respect to different time parameters. As a building block for sTRE we introduce a notion of sequential time-lock puzzle (sTLP). sTLP allows generation of puzzles which corresponds to an increasing sequence of time parameters. These puzzles can be solved using only one sequential computation which provides the solutions at points in time that are determined by time parameters. In this way, the task of solving puzzles can be delegated to a public server which makes TRE more economically and ecologically sustainable.
+ Lastly, we observe that our notion of TRE is similar to the concurrently introduced notion of Timed Public-Key Encryption (TPKE) by Katz et al. [KLX20] which has two types of decryption: slow decryption, with runtime determined by a time parameter, and fast decryption, with runtime independent of the time parameter. TPKE serves as a building block for non-malleable timed commitments and therefore it aims to provide non-malleability of ciphertexts. The known construction of TPKE has an inefficient encryption algorithm whose runtime is essentially the time that is necessary to solve the related time-lock puzzle and hence is proportional to the time parameter. We apply techniques used in constructing TRE to TPKE and obtain two constructions with efficient encryption. The first construction is generic with encryption time which depends logarithmically on the time parameter. The runtime of encryption in our second construction is independent of the time parameter, however, this construction is not generic.</abstract>
+                    <subject>
+                        <topic>time-lock encryption</topic>
+                        <topic>time-lock puzzle</topic>
+                        <topic>witness encryption</topic>
+                        <topic>offline witness encryption</topic>
+                    </subject>
+                    <classification authority="ddc">000</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20210902-111552-1</identifier>
+                    <identifier type="doi">10.25926/n2k9-cj05</identifier>
+                    <identifier type="sys">HT021110270</identifier>
+                    <accessCondition type="use and reproduction">CC BY-NC-ND 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_15191</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_15191">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/informatik/diss2021/chvojka/de2103.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_15191"
+            DMDID="DMD_wuppertal_elpub_15191">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_15191"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

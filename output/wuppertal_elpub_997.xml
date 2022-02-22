@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_997">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>Architekt Heinrich Plange (1857 - 1942) - Ein Baumeister des Unternehmertums in der bergischen Region</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kirchhoff, Axel</displayForm>
+                        <namePart type="family">Kirchhoff</namePart>
+                        <namePart type="given">Axel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005-09-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Heinrich Plange (geb. 1857 in Elberfeld / gest. 1942 in Wetter an der Ruhr) war als Regierungsbaumeister und Architekt in der bergischen Region tätig und hat hauptsächlich in Wuppertal-Elberfeld Villen für das Unternehmertum gebaut, die in beachtlicher Zahl und stattlicher Größe erhalten sind. 
+ Sein Vater Wilhelm Plange (1809-1879) tritt als Vizepräsident der Berg.-Märk.-Eisenbahn und Architekt in Erscheinung und zeichnet sich verantwortlich für den Bau der Schwelmer Kirche. Heinrich Plange macht nach seinem Studium bei Julius Carl Raschdorff an der TH in Berlin (1878-1880) durch eine Reihe von repräsentativen Villenbauten auf sich aufmerksam, die er in den Anfangsjahren in Bürogemeinschaft mit dem Architekten Fritz Hagenberg plant und errichtet. 
+ Seine gesellschaftlichen Beziehungen über die elitäre Casino-Gesellschaft in Elberfeld lassen Plange schnell zu einem Modearchitekten für die gehobene Gesellschaft werden. Stilistisch spiegelt er das architektonische Denken der gehobenen Bürgerschicht der Wupperregion wieder. 
+ Heinrich Plange hat zwischen 1889 und 1911 sechs Kirchen ausgeführt. Bemerkenswert ist, dass er mit einem Entwurf für die evangelische Kirche in Hagen-Wehringhausen sich gegen einen Architekten wie Peter Behrens durchsetzen konnte. Neben Villen und Kirchen sind Geschäftsbauten zu nennen, die einen Beitrag leisten zur Architektur im Rahmen des lebenskünstlerischen Aufbruchs um 1900.</abstract>
+                    <abstract type="content" lang="eng">Heinrich Plange (born 1857 in Elberfeld, died 1942 in Wetter an der Ruhr), worked as both a government and private architect in the „Bergisch“ region, where he mainly built residences for entrepreneurs, many splendid examples of which still exist today. 
+ His father, Wilhelm Plange (1809-1879), made a name for himself as vice-president of the Bergisch-Märkish Railway, but also worked as an architect, and was responsible for building the church in Schwelm. After studying with Julius Carl Raschdorff at the Technical University of Berlin (1878-1880), Heinrich Plange distinguished himself by designing a number of representative villas, which he initially planned and built in partnership with the architect Fritz Hagenberg. 
+ Thanks to his connections to potential clients through the exclusive Casino Society in Elberfeld, Heinrich Plange soon became a fashionable architect for the local high society. The style of his buildings reflects the architectural tastes of the higher classes in the Wupper region. 
+ Between 1889 and 1911, Heinrich Plange designed and built six churches. Especially noteworthy is that his design for the Protestant church in Hagen-Wehringhausen was even given preference over that of such a prominent rival as Peter Behrens. Besides villas and churches, Plange also created business buildings that contributed to the new style of architecture that was starting to come into fashion around 1900.</abstract>
+                    <classification authority="ddc">720</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Architektur und Bauingenieurwesen » Architektur"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20050427</identifier>
+                    <identifier type="sys">HT014510867</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_997</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_997">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbf/architektur/diss2004/kirchhoff/df0404.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_997"
+            DMDID="DMD_wuppertal_elpub_997">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_997"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

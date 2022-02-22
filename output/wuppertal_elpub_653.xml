@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_653">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Internetgestützte Unionsbürgerschaft in Europa - Vorschläge der Vermittlung -</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kuhlmann, Hanna Helene</displayForm>
+                        <namePart type="family">Kuhlmann</namePart>
+                        <namePart type="given">Hanna Helene</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-04-27</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">The presented work takes a look at to what extend the citizenship of the Union can be experienced by providing wide-ranging information and offering its status on the web. This work says that citizens can be animated to experience their citizenship of the Union by transparency, publicity as well as political processes, in line with reciprocation. 
+ The expanded political communication works as tool, which leads to creating political interest by the citizens and therefore accompanied, increased political activity on a European scale. The internet with its transnational scope and its approach to overcoming the existence of multiple languages is used as a medium. 
+ European publicity, created by the reciprocation of the internet, can be maintained by European institutions by creating public communication spheres. 
+ In those, it would be possible to communicate even such a highly complex system as the citizenship of the European Union, through a detailed consolidation of communicative effort by the European Union, as planned in the Weissbuch of the Plan D, tangibly.</abstract>
+                    <classification authority="ddc">320</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Human- und Sozialwissenschaften » Politikwissenschaft"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20090612</identifier>
+                    <identifier type="sys">HT015923428</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_653</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_653">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fba/politikwissenschaft/diss2008/kuhlmann/da0802.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_653"
+            DMDID="DMD_wuppertal_elpub_653">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_653"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

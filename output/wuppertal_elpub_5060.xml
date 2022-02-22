@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5060">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„Neuere Geometrie“ als Unterrichtsgegenstand der höheren Lehranstalten.</title>
+                        <subTitle>Ein Reformvorschlag und seine Umsetzung zwischen 1870 und 1920.</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kitz, Sebastian</displayForm>
+                        <namePart type="family">Kitz</namePart>
+                        <namePart type="given">Sebastian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die vorliegende Dissertation beschäftigt sich mit einem Reformvorschlag für den Geometrieunterricht, der im letzten Drittel des 19. Jahrhunderts zunächst breit diskutiert und anschließend in nahezu allen deutschen Ländern die Gestaltung der Lehrpläne beeinflusste, nämlich der Aufnahme der damals so genannten „Neueren Geometrie“ in den Unterricht der höheren Schulen. Da die Reformbewegung eng mit der Entstehung des „realistischen“ Bildungswesens verbunden war, gibt die Einleitung zunächst einen zusammenfassenden Überblick über die Veränderungen im deutschen Schulsystem zwischen 1870 und 1900, die zur Etablierung weiterer höherer Schulformen neben dem humanistischen Gymnasium führten. Im sich anschließenden ersten Kapitel wird sodann dargestellt, was im 19. Jahrhundert von fachlicher Seite unter „Neuerer Geometrie“ verstanden wurde, wobei sich die Ausführungen hauptsächlich auf die Aussagen damaliger Lehrbücher stützen. Im zweiten Kapitel sollen die Kritik am traditionellen Aufbau des Geometrieunterrichts nach Euklid und die Gründe für die Einführung der „Neueren Geometrie“ in den Schulunterricht thematisiert werden. Dabei kommt zu den bereits im ersten Kapitel dargestellten inhaltlichen Aspekten ein weiterer hinzu, nämlich unter „Neuerer Geometrie“ vorwiegend eine methodische Veränderung zu verstehen. Als Quellen dienen hier vor allem in der Zeitschrift für mathematischen und naturwissenschaftlichen Unterricht veröffentlichte Artikel und die Tagungsprotokolle der Fachverbände. Ein Blick in die damaligen Lehrpläne zeigt den sich einstellenden Erfolg der Reformer. Das dritte Kapitel vermittelt anhand von vier ausgewählten Lehrgängen einen Eindruck von den mit der Reform verbundenen Veränderungen, während im vierten Kapitel einige Vorschläge zu ihrer Weiterführung vorgestellt werden. Diese entwickelten sich nach der Aufnahme der „Neueren Geometrie“ in die Lehrpläne zu Beginn des 20. Jahrhunderts, konnten jedoch die sich abzeichnenden Tendenzen zu ihrer Verdrängung nicht aufhalten, sondern trugen im Gegenteil mit dazu bei. Die Grundlage der Betrachtung bilden hier wie schon in Kapitel 2 vor allem die Artikel der Zeitschrift für mathematischen und naturwissenschaftlichen Unterricht. Der Ausblick am Schluss der Arbeit stellt überblicksmäßig einige Vorschläge zur „Neueren Geometrie“ im Schulunterricht vor, die nach dem zweiten Weltkrieg veröffentlicht wurden.</abstract>
+                    <classification authority="ddc">516</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20150804-104417-8</identifier>
+                    <identifier type="sys">HT018723563</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5060</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5060">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2015/kitz/dc1509.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5060"
+            DMDID="DMD_wuppertal_elpub_5060">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5060"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

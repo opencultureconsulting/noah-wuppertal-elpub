@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_10390">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Modellgestützte Optimierung des Schutzsystems Explosionsklappe zur kontrollierten Druckentlastung verfahrenstechnischer Apparate bei Staubexplosionen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lorenz, Dirk</displayForm>
+                        <namePart type="family">Lorenz</namePart>
+                        <namePart type="given">Dirk</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Barth, Uli</displayForm>
+                        <namePart type="family">Barth</namePart>
+                        <namePart type="given">Uli</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-04-06</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Explosionsdruckentlastung mit Hilfe von Explosionsklappen ist eine weit verbreitete Technik, um die schädigende Wirkung von (Staub)explosionen auf Anlagen oder Gebäude zu begrenzen. Explosionsklappen haben Vor- und Nachteile gegenüber alternativen Systemen wie z.B. Berstscheiben. Solche Nachteile sind die Massenträgheit der Klappen, die Gefahr des Klappenabrisses aufgrund zu schwach ausgelegter Scharniere, störende Aufbauten auf Decken, Dächern oder Dachböden aufgrund der Präsenz von Explosionsklappen oder etwa Klappenverschlüsse, deren mechanische Eigenschaften das reproduzierbare, präzise Öffnen von Explosionsklappen bei einem definierten Ansprechdruck unmöglich machen. 
+ Gegenstand dieser Arbeit ist die Entwicklung von Lösungen, um Explosisonsklappen im Hinblick auf die genannten Nachteile zu optimieren. 
+ Basierend auf einer experimentellen Untersuchung der Kraftwirkung auf Explosionsklappenscharniere in Abhängigkeit von Klappenträgheitsmoment und Explosionsheftigkeit wird eine Modellrechnung entwickelt, mit der die mechanischen Größen, die während des Druckentlastungsvorganges an einer Explosisonsklappe auftreten, beschrieben werden können. Unter anderem liefert das Modell für jeden Zeitpunkt Winkelgeschwindigkeit und -beschleunigung der Klappe und damit die an den Klappenscharnieren angreifenden Kräfte. Dadurch ist es möglich, bereits während der Konstruktion von Explosionsklappen die zugehörigen Scharniere ausreichend stark auszulegen. 
+ Ein Verfahren für die Reichweitenberechnung abgerissener Explosionsklappen wird aufgezeigt: Sind Scharnierbruchlasten bekannt, liefert das Modell definierte Anfangsbedingungen für eine numerische Flugbahnberechnung. &lt; Darüber hinaus liefert das Modell den bei einer Staubexplosion in einem Behälter auftretenden reduzierten maximalen Explosionsdruck als Funktion der Explosionsklappeneigenschaften. Diese Daten werden für eine theoretische Abschätzung der Wirksamkeit bzw. Entlastungsfähigkeit von Explosionsklappen genutzt. 
+ Der Entstehungsprozess eines Explosionsklappentypus wird beschrieben, der ohne Aufbauten auf und um die Entlastungsöffnung herum auskommt. Für die Planung dieser Explosionsklappe wird die oben erwähnte Modellrechnung genutzt. 
+ Eine neuartige Explosionsklappe mit einem elektromagnetischen Verschluss wird unter Anwendung des eingangs beschriebenen Modells entwickelt. Die elektronische Klappensteuerung nutzt ein vom zu schützenden Behälter kommendes Druckmesssignal, um den Klappenverschluss bei Erreichen des Ansprechdrucks sehr schnell abzuschalten. Mit dieser Technik ist der Ansprechdruck präzise einstell-, realisier- und sehr gut reproduzierbar. 
+ Weiterhin wird dargelegt, wie mit Hilfe der eingangs erwähnten Modellrechnung EU-Baumusterprüfungen von Explosionsklappen großer Dimension im Modellmaßstab durchgeführt werden können.</abstract>
+                    <abstract type="content" lang="eng">Explosion pressure venting with the help of explosion doors is a widely used technique to contain the destructive consequences of (dust)explosions for installations, industrial plants or buildings. Like all technical devices, explosion doors have advantages and disadvantages as compared with alternative systems, such as rupture disks, to name just one example. Such disadvantages are the inertia of the explosion doors, the risk that an explosion door may be torn away due to the weak design of the hinges, or inconvenient structures on roofs, attics or lofts as a result of explosion doors or door locks being installed there, the mechanical properties of which prevent their reproducible, precise opening at a defined activation pressure. 
+ This paper deals with the development of solutions aimed at overcoming some of the disadvantages of explosion doors as referred to above. 
+ Based on an experimental study of the force acting on the hinges of explosion doors depending on their moment of inertia and blast intensity, a model calculation will be developed to describe the mechanical parameters occurring during the pressure venting at an explosion door. The model will, among other things, provide the explosion door&apos;s angular velocity and acceleration for each point in time and thus the forces acting on the hinges of the explosion doors. This will make it possible, as early as during the design phase, to construct sufficiently strong hinges for the explosion doors. 
+ The paper shows one method for calculating the reach of torn-off explosion doors: If the hinges&apos; breaking loads are known, the model will provide the initial conditions for calculating the accurate trajectory. 
+ In addition to that, the model will also provide the maximum reduced overpressure occurring at a dust explosion in a container as a function of the explosion door&apos;s properties. These data will be used for a theoretical estimation of the effectiveness or the venting capability of explosion doors. 
+ The paper describes the development of a type of explosion door that can do without any structures on or around the venting opening. The above mentioned model calculation will be used for planning and designing this explosion door. 
+ A novel explosion door with an electromagnetic locking device will be developed with the help of the model described above. The electronic door control uses a pressure measurement signal transmitted from the container to be protected, so that the locking mechanism of the explosion door can be deactivated very quickly, when the activation pressure has been reached. This technique and the relevant hardware make it possible to set the activation pressure precisely, realizable and very well reproducible. 
+ The paper also explains how type examinations of very large explosion doors can be carried out with the help of the above model calculation in the model scale.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Maschinenbau und Sicherheitstechnik » Sicherheitstechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20200406-080147-8</identifier>
+                    <identifier type="doi">10.25926/ctpa-yk19</identifier>
+                    <identifier type="sys">HT020439393</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_10390</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_10390">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/sicherheitstechnik/diss2020/lorenz/dd2001.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_10390"
+            DMDID="DMD_wuppertal_elpub_10390">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_10390"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

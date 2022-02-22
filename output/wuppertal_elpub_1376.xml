@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1376">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Möglichkeiten und Grenzen des modularen Ausbaus eines Kinetik-Surface Plasmon Resonanz-Instrumentes zur quantitativen Rückstandsanalytik</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dau, Greta</displayForm>
+                        <namePart type="family">Dau</namePart>
+                        <namePart type="given">Greta</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In this work, a Reichert single-channel surface plasmon resonance (SPR) apparatus, which originally was developed for kinetic analysis, was tested in the field of residue analysis. Parallel to the examination of the separate components this system is assembled of, these components were improved continuously in close cooperation with the manufacturing company and, thus, adjusted to the standards for residue analysis. For this purpose, diverse pumps, including pump syringes, were tested and, finally, the Reichert pump SR7500 with its own software was identified as pump that fulfilled most residue analytical needs. Similarly, maintenance, cleaning and support protocols were developed especially for the autosampler but also for the entire system. The performance characteristics of the Reichert system was compared to the Biacore Q apparatus, which is widely used in routine residue analytical laboratories. While the first was advantageous with regard to acquisition cost, the latter was superior with ease of use and reliability. The residue analytical work in this thesis was focused on beta-lactam antibiotics with the application of direct and indirect formats utilizing different biosensor surfaces including synthesis and characterization of different betalactam- protein conjugates for antibody-based SPR biosensor analysis.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20100339</identifier>
+                    <identifier type="sys">HT016410061</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1376</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1376">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1473/dc1005.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1376"
+            DMDID="DMD_wuppertal_elpub_1376">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1376"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

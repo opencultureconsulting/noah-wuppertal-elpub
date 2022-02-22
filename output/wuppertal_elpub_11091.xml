@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_11091">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Development of Analytical Methods to Investigate the Formation of Oxylipins during Oxidative Stress and Inflammation</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Rund, Katharina M.</displayForm>
+                        <namePart type="family">Rund</namePart>
+                        <namePart type="given">Katharina M.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schebb, Nils Helge</displayForm>
+                        <namePart type="family">Schebb</namePart>
+                        <namePart type="given">Nils Helge</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-11-13</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In the human body a vast number of oxidized polyunsaturated fatty acids (PUFA) is enzymatically and autoxidatively formed by conversion of n3- and n6-PUFA. Several of these oxylipins act as potent lipid mediators in the regulation of multiple physiological processes such as inflammation, endothelial and kidney function. However, the role of the overall oxylipin pattern is still only poorly understood. Thus, investigating the modulation of the oxylipin pattern in (patho)physiology, e.g. under oxidative stress or inflammation, or in response to dietary modulation, contributes to a better understanding of the functional role of oxylipins being both marker and mediator of the physiological status. In the first part of this thesis a comprehensive targeted LC-ESI(-)-MS/MS method is described for the sensitive and reliable quantification of a broad set of non-enzymatically and enzymatically formed oxylipins from all major formation branches derived from all biologically relevant PUFA precursors. In addition to the optimization of instrumental parameters, the influence of pre-analytical blood storage and transport conditions typically occurring in the clinical routine on the oxylipin pattern is characterized. In the second part of this thesis the established analytical method is applied to study the formation of oxylipins in the context of oxidative stress and inflammation. Focusing on the autoxidative formation of trans-epoxy-PUFA, the potential use of the trans/cis-epoxy-PUFA ratio as alternative oxidative stress marker is investigated. Therefore, this ratio is correlated with the formation of isoprostanes – common markers of oxidative stress – using (i) tert-butyl hydroperoxide as inducer of oxidative stress in three human carcinoma cell lines as well as in (ii) the in vivo model organism C. elegans and (iii) renal ischemia reperfusion injury in mice. Finally, the anti-inflammatory properties of n3-PUFA are investigated using a murine model of renal ischemia reperfusion injury causing both oxidative stress and inflammation. The modulation of the PUFA and oxylipin pattern is analyzed in combination with clinical and histological markers of kidney damage and inflammation.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20201113-112756-1</identifier>
+                    <identifier type="doi">10.25926/3ktm-wk43</identifier>
+                    <identifier type="sys">HT020691524</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_11091</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_11091">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/lebensmittelchemie/diss2019/rund/dc1954.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_11091"
+            DMDID="DMD_wuppertal_elpub_11091">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_11091"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

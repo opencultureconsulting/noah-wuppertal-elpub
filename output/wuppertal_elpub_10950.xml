@@ -1,0 +1,73 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_10950">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Reconstruction of Three-Dimensional Nerve Fiber Orientations from Histological Brain Sections in Three-Dimensional Polarized Light Imaging</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schmitz, Daniel</displayForm>
+                        <namePart type="family">Schmitz</namePart>
+                        <namePart type="given">Daniel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lippert, Thomas</displayForm>
+                        <namePart type="family">Lippert</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Axer, Markus</displayForm>
+                        <namePart type="family">Axer</namePart>
+                        <namePart type="given">Markus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-09-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Three-Dimensional Polarized Light Imaging enables to reconstruct nerve fiber orientations from polarimetric measurements of histological brain sections based on the birefringence of myelinated nerve fibers. Measurements of the brain sample from oblique views facilitate the retrieval of the three-dimensional orientation of the nerve fibers as well as the birefringence strength. The enhancement of this noise sensitive reconstruction represents the major motivation for this thesis. First, a novel and fast reconstruction algorithm based on a least squares approach is introduced. At the mesoscale an unprecedented comprehensive view of the human brain’s nerve fiber tracts is obtained based on the new reconstruction algorithm. Next, the reconstruction is further improved for very low signals utilizing a Bayesian estimator. Furthermore, as the parameter estimation is sensitive to noise, the uncertainty of the obtained parameter maps is studied. This results in the first nerve fiber orientation confidence estimates for Three-Dimensional Polarized Light Imaging. Finally, the developed analysis is applied at the microscale. A validation against higher-resolved volumetric measurements shows that individual fiber bundles can be reconstructed with high accuracy using the developed algorithms.</abstract>
+                    <abstract type="content" lang="ger">Das bildgebende Verfahren Three-Dimensional Polarized Light Imaging (3D-PLI) ermöglicht die Rekonstruktion von Nervenfaserorientierungen mithilfe polarimetrischer Messungen histologischer Gehirnschnitte basierend auf der Doppelbrechung myelinisierter Nervenfasern. Aufnahmen des Hirnschnitts von schrägen Perspektiven erlauben die Abschätzung der dreidimensionalen Faserorientierung sowie der Doppelbrechungsstärke. Die Verbesserung dieser rauschsensitiven Abschätzung ist das Ziel der vorliegenden Arbeit. Zuerst wird ein neuartiger Rekonstruktionsalgorithmus basierend auf dem Verfahren der kleinsten Quadrate entwickelt. Dieser möglicht auf der Mesoskala einen umfassende Darstellung der menschlichen Nervenfaserarchitektur. Zur Verbesserung der Rekonstruktion für sehr kleine Signale wird ein bayesscher Schätzer entwickelt. Weiterhin wird die Unsicherheit der rekonstruierten Gewebeeigenschaften untersucht. Dies ermöglicht zum ersten Mal die Abschätzung der Verlässlichkeit der in 3D-PLI ermittelten Nervenfaserorientierung. Schließlich werden die entwickelten Analysemethoden auf mikroskopische 3D-PLI Messungen mit schrägem Lichteinfall angewandt. Ein Vergleich mit höher aufgelösten volumetrischen Messungen zeigt, dass die Orientierung einzelner Nervenfaserbündel mit den entwickelten Algorithmen mit hoher Genauigkeit rekonstruiert werden können.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20200921-090438-8</identifier>
+                    <identifier type="doi">10.25926/15kc-t577</identifier>
+                    <identifier type="sys">HT020629541</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_10950</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_10950">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2020/schmitz/dc2012.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_10950"
+            DMDID="DMD_wuppertal_elpub_10950">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_10950"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

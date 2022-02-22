@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_8590">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zustandsidentifikation von Mittelspannungsnetzen für eine übergreifende Automatisierung der Mittel- und Niederspannungsebene</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dorsemagen, Felix</displayForm>
+                        <namePart type="family">Dorsemagen</namePart>
+                        <namePart type="given">Felix</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Zdrallek, Markus</displayForm>
+                        <namePart type="family">Zdrallek</namePart>
+                        <namePart type="given">Markus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Rehtanz, Christian</displayForm>
+                        <namePart type="family">Rehtanz</namePart>
+                        <namePart type="given">Christian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-09-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Dissertation befasst sich mit der Entwicklung von Verfahren zur Zustandsidentifikation im Mittelspannungsnetz, unter Berücksichtigung der geringen Datenbasis aufgrund dort existierender Messungen, und den vorhandenen, bereits implementierten Verfahren im Niederspannungsnetz, eine spannungsebenenübergreifende und vollständige Identifikation des Netzzustandes im Rahmen einer dezentralen Automatisierungsumgebung zu ermöglichen. Die entwickelten Verfahren sollen dabei unter Berücksichtigung von Wirtschaftlichkeitsrestriktionen, sicher und robust in Bezug auf den Ausfall von Kommunikations- und Messtechnik, kritische Netzzustände identifizieren, um auf dieser Grundlage eine Informationsbasis für eine koordinierte Spannungs- und Leistungsregelung in der gesamten Verteilungsnetzebene zu realisieren.</abstract>
+                    <subject>
+                        <topic>Verteilungsnetzautomatisierung</topic>
+                        <topic>Verteilnetzautomatisierung</topic>
+                        <topic>Smart Grids</topic>
+                        <topic>Zustandsidentifikation</topic>
+                        <topic>Grid State Identification</topic>
+                    </subject>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ddc">620</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20180903-103416-3</identifier>
+                    <identifier type="sys">HT019809188</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_8590</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_8590">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2018/dorsemagen/de1805.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_8590"
+            DMDID="DMD_wuppertal_elpub_8590">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_8590"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

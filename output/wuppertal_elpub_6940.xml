@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6940">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Development of Instrumental Analytical Methods for the Investigation of Omega-3 Fatty Acid Induced Effects on the Fatty Acid and Oxylipin Pattern</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ostermann, Annika I.</displayForm>
+                        <namePart type="family">Ostermann</namePart>
+                        <namePart type="given">Annika I.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">A growing body of evidence suggests positive effects of omega-3 polyunsaturated fatty acids, especially eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA) in cardiovascular and inflammatory diseases. However, the molecular mode of action is still not completely understood and controversies remain regarding the clinical efficiency of n3-PUFA. For the investigation of the (patho-)physiological role of omega-3 fatty acids, analytical methods are required allowing the reliable quantification of fatty acids and their oxidative metabolites – oxylipins – in biological samples, for example during onset and progression of diseases or induced by dietary intervention with omega-3 fatty acids. Thus, in the first part of this thesis analytical tools are established and the most suitable sample preparation procedures for quantification of fatty acids and oxylipins in plasma and tissues are identified and optimized. In the second part of the thesis the developed methods are applied to the characterization of the endogenous profile of fatty acids and oxylipins in two commonly used animal models for the investigation of omega-3 fatty acid biology: The time dependent increase in omega-3 fatty acids and oxylipins is described in a murine feeding study with a diet enriched in EPA and DHA and compared to transgenic fat-1 mice which are able to biosynthesize omega-3 from omega-6 fatty acids. Finally, the modulation of the cerebral fatty acid and oxylipin profile is investigated in detail and correlated with results from transcription analysis of enzymes from their respective metabolic pathways.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170518-112000-5</identifier>
+                    <identifier type="sys">HT019378129</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6940</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6940">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2017/ostermann/dc1708.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6940"
+            DMDID="DMD_wuppertal_elpub_6940">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6940"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

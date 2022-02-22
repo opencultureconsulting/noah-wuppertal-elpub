@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5380">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Exposure assessment of N-acetyl-4- aminophenol (paracetamol), the urinary major metabolite of the ubiquitous environmental contaminant aniline, with the tools of human biomonitoring</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Modick, Hendrik</displayForm>
+                        <namePart type="family">Modick</namePart>
+                        <namePart type="given">Hendrik</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Aniline is an important source material in the chemical industry (e.g. rubber, pesticides, and pharmaceuticals). The general population is known to be ubiquitously exposed to aniline. Thus, assessment of aniline exposure is of both occupational and environmental relevance. Knowledge on human metabolism of aniline is scarce. We orally dosed four healthy male volunteers (2 fast, 2 slow acetylators) with 5 mg isotope labelled aniline, consecutively collected all urine samples over a period of two days and investigated the renal excretion of aniline and its metabolites by LS-MS/MS and GC-MS.
+
+ After enzymatic hydrolysis of glucuronide and sulfate conjugates, N-acetyl-4-aminophenol was the predominant urinary aniline metabolite representing 55.7-68.9% of the oral dose, followed by the mercapturic acid conjugate of N-acetyl-4-aminophenol accounting for 2.5-6.1%. Acetanilide and free aniline were found only in minor amounts accounting for 0.14-0.36% of the dose. Overall, these four biomarkers excreted in urine over 48h post dose represented 62.4-72.1% of the oral aniline dose. Elimination half-lives were 3.4-4.3h for N-acetyl-4- aminophenol, 4.1-5.5h for the mercapturic acid conjugate and 1.3-1.6 and 0.6-1.2h for acetanilide and free aniline, respectively. Urinary maximum concentrations of N-acetyl-4-aminophenol were reached after about 4h hours and maximum concentrations of the mercapturic acid conjugate after about 6h, whereas concentrations of acetanilide and free aniline peaked after about one hour.
+
+ The present study is one of the first to provide reliable urinary excretion factors for aniline and its metabolites in humans after oral dosage, including data on the predominant urinary metabolite N-acetyl-4-aminophenol, also known as an analgesic under the name paracetamol/acetaminophen. 
+ 
+ KEY WORDS: Aniline, Paracetamol, Metabolism, Excretion factors, Urine, Exposure assessment</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20151210-085105-0</identifier>
+                    <identifier type="sys">HT018859788</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5380</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5380">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2015/modick/dc1525.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5380"
+            DMDID="DMD_wuppertal_elpub_5380">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5380"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

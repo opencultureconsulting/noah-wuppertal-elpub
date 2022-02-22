@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5940">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Simulation der Wirkung elektromagnetischer Felder im Terahertz-Frequenzbereich auf biologische Gewebe</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Spathmann, Oliver</displayForm>
+                        <namePart type="family">Spathmann</namePart>
+                        <namePart type="given">Oliver</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die kontinuierliche Entwicklung von neuen technischen Systemen, die den Terahertz (THz)-Frequenzbereich nutzen (Bsp.: Sicherheitsscanner, medizintechnische Geräte, Hochgeschwindigkeits-Datenübertragung) und durch deren elektromagnetische (EM) Feldemission Individuen potenziell exponiert werden können, macht eine quantitative Bewertung der biologischen Wirkung solcher Anwendungen notwendig. Für die Computersimulation der Wirkung von EM-Feldern auf biologische Gewebe im THz-Frequenzbereich wurde ein dreistufiges Verfahren entwickelt: 1. Nach der Erstellung eines geometrischen Modells des interessierenden Körperbereichs werden auf der Basis von Grundbestandteilen biologischer Gewebe mittels einer Mischtheorie die benötigten, in der Literatur nur rudimentär publizierten dielektrischen Materialdaten bestimmt und den verschiedenen Gewebearten zugeordnet. 2. Mit geeigneten numerischen Rechenverfahren wird die Exposition des Modells durch EM-Felder im THz-Frequenzbereich simuliert. 3. Über die resultierenden Verlustleistungen als Wärmequellen werden mit Hilfe eines Thermosolvers Temperaturprofile als Maß zur Beurteilung der Exposition herangezogen. Dieses Verfahren wird an Körpergeweben der menschlichen Haut sowie des Auges diskutiert. Hierzu wurden anhand von Physiologiestudien realistische Materialmodelle entwickelt, die relevante Elemente dieser Gewebe - je nach Objektgröße mit einer Ortsauflösung teilweise bis auf die biologische Zellebene - mit berücksichtigen. Die Ergebnisse der Computersimulationen werden in Form von räumlichen und zeitlichen Verläufen der elektrischen Feldstärke, der Spezifischen Absorptionsrate und der Temperatur beschrieben.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20160627-094233-4</identifier>
+                    <identifier type="sys">HT019014822</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5940</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5940">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2016/spathmann/de1605.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5940"
+            DMDID="DMD_wuppertal_elpub_5940">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5940"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

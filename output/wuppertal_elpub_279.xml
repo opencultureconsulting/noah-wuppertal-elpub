@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_279">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Simulation von Struktur und Strukturregulation von Chromatin</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wedemann, Martin Gero</displayForm>
+                        <namePart type="family">Wedemann</namePart>
+                        <namePart type="given">Martin Gero</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1999-12-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Bei höherentwickelten Organismen ist die DNA in hochkompakten Strukturen organisiert, die man als Chromatin bezeichnet. Dieses ist aus Nukleosomen aufgebaut, die durch Linker-DNA zu einer perlenkettenartigen Struktur verbunden werden. Nukleosomen bestehen aus DNA, die um spezielle Proteine gewickelt ist, den Histonen. In dieser Arbeit wird ein neuartiges Modell der Struktur von Chromatin vorgestellt. Es basiert auf dem Zick-Zack-Modell und vorangegangener Arbeit über superhelikale DNA und Polynukleosomen. DNA wird unter Vernachlässigung atomarer Details als flexible, elastische Kette modelliert. Die elektrostatische Wechselwirkung zwischen DNA-Segmenten wird durch die Debye-Hückel-Näherung beschrieben. Die Nukleosomen werden durch flache Zylinder repräsentiert, die durch Gay-Berne-Potential wechselwirken. DNA und Nukleosomen werden entweder direkt am Nukleosom oder am Nukleosomen-Stamm gekoppelt. Mit einem Metropolis-Monte Carlo-Verfahren werden repräsentative Ensembles von Konfigurationen erzeugt. Das Computerprogramm zur Simulation wurde in C++ zur Verwendung auf Parallelrechnern erstellt. Die simulierten Systeme enthalten 100 Nukleosomen gelöst in Wasser bei physiologischer Salzkonzentration. Modelle mit einer Repeat-Länge von 200 Basenpaaren (bp), bei denen die Linker-DNA am Nukleosomen-Stamm gekoppelt ist, reproduzieren charakteristische Eigenschaften der Fiber: Der berechnete Fiber-Durchmesser von 32 nm und die Massenbelegungsdichte von 6,2 Nukleosomen pro 11 nm Fiber-Länge sind in sehr guter Übereinstimmung mit den Literatur-Werten. Der experimentelle Wert des Neigungswinkels von DNA und Nukleosomen zur Fiber-Achse wird ebenfalls reproduziert. Die Persistenz-Länge der simulierten Fiber ist 260 nm, was mit den experimentellen Werten von 50-150 nm verträglich ist. Bei zufälligen, gaußverteilten Verdrehungswinkeln zwischen benachbarten Nukleosomen verringert sich die Persistenzlänge bei Vergrößerung der Breite der Verteilung. Der experimentell beobachtete Abfall der Massenbelegungsdichte bei Reduktion der Salzkonzentration wird qualitativ reproduziert. Polynukleosomen mit 212 bp Repeatlänge bilden ebenfalls Fibern. Die Eigenschaften einer Fiber mit einer kürzeren Repeat-Länge von 192 bp und einer Kopplung von DNA und Nukleosomen direkt am Nukleosom sind ebenfalls mit den experimentellen Werten vereinbar. Systeme mit diesem Typ von DNA-Nukleosom-Kopplung und einer Repeat-Länge von 217 bp bilden keine Fibern.</abstract>
+                    <abstract type="content" lang="eng">DNA in the nucleus of higher organisms is complexed with proteins into highly compact structures designated as chromatin. It is built of nucleosomes that are connected by linker DNA resulting in a bead-on-a-string like structure. Nucleosomes are formed by DNA wrapped around special proteins, the histones. A new model for the structure of chromatin is presented here. It is based on the zigzag model as well as previous work on superhelical DNA and polynucleosomes. DNA is modeled as a flexible elastic chain, neglecting atomic details. The electrostatic interaction between DNA segments is described by a Debye-Hückel-approximation. The nucleosomes are represented by flat disks which interact with each other through a Gay-Berne-potential. DNA and nucleosomes are linked either at the cylinder of the nucleosome-core-particle or at the nucleosome stem. Representative ensembles of configurations are created by a Metropolis Monte Carlo-algorithm. The simulation program was implemented in C++ for use with parallel computers. Simulations have been performed on polynucleosomes containing 100 nucleosomes at physiological ionic strength. For models with a linkage of the DNA at the nucleosome stem and a repeat length of 200 bp the characteristic experimental properties of chromatin have been reproduced: The calculated fiber diameter of 32 nm and the mass density of 6.1 nucleosomes per 11 nm fiber length are in agreement with experimental values from the literature. The experimental value of the inclination of DNA and nucleosomes to the fiber axis is also reproduced. The persistence length of the simulated fibers of 260 nm is compatible with the values of 50-150 nm estimated by experimental data. For random tilt angles between two nucleosomes chosen according to a Gaussian distribution the persistence length decreases with the increase of the width of the distribution. The experimentally observed decrease of the mass density with decreasing concentration of salt in the surrounding medium is reproduced qualitatively. Polynucleosomes with repeat lengths of 212 bp also form fibers whith the expected experimental properties. Systems with larger repeat length form fibers but the mass density is significantly lower than the measured value. The theoretical characteristics of a fiber with a repeat length of 192 bp where DNA and nucleosomes are connected at the core-particle are in agreement with the experimental values. Systems with the same type of linkage and a repeat length of 217 bp do not form fibers.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-19990323</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_279</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_279">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-373/d089906.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_279"
+            DMDID="DMD_wuppertal_elpub_279">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_279"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

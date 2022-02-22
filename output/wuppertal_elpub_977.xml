@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_977">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kapazitiv gekoppelte Hochfrequenz-Entladungen bei atmosphärischem Druck</title>
+                        <subTitle>Physik und Anwendungen für nichtthermische Plasmabehandlung von Polymeroberflächen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ignatkov, Andrej</displayForm>
+                        <namePart type="family">Ignatkov</namePart>
+                        <namePart type="given">Andrej</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-01-31</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Diese Arbeit befasst sich mit kapazitiv gekoppelten Hochfrequenzentladungen bei atmosphärischem Druck in atomaren Gasen wie He und Ar sowie deren Gemischen mit molekularen Gasen. Ziel der Arbeit ist die Untersuchung des Potentials sowie der Anwendbarkeit dieser Entladungen bezüglich der nicht-thermischen Oberflächenmodifikation (Hydrophilierung) von thermisch labilen Polymeren. 
+Es werden ausschließlich parallele Elektrodenanordnungen untersucht. Die Entladungen werden mit einer Frequenz von 13,56 MHz angeregt. Die Physik dieser Entladungen wird am Beispiel von He-Entladungen anhand von theoretischen und experimentellen Untersuchungen diskutiert. Die wesentlichen Charakteristiken dieser Entladungen wie Energie und Dichte der Ladungsträger, elektrische Felder sowie Randschichtdicken werden anhand relativ einfacher Diagnostikmethoden ermittelt. Der Einfluss solcher Parameter wie Gasfluss, seine Zusammensetzung, eingekoppelte Leistung sowie Elektrodenkonfiguration auf die Entladungseigenschaften wird untersucht. 
+Mit Hilfe der angewendeten Diagnostikmethoden zur Deutung der Veränderungen in der polymeren Oberfläche, insbesondere ihres energetischen Zustandes sowie theoretischer Modellrechnungen werden die Entladungseigenschaften mit den Behandlungseffekten verbunden. Ein simples qualitatives Modell des Behandlungsprozesses wird vorgeschlagen. Durch die gezielte Wahl der Parameter werden optimale Bedingungen des statischen Behandlungsprozesses von flachen Polypropylen-Werkstoffen gesucht. 
+Am Beispiel der Behandlung von Folien und Bändern wird das hohe Potential solcher Entladungen zur Oberflächenmodifikation von thermolabilen Polymeren aufgezeigt. Es werden konkurrenzfähige Behandlungsprozesse für flache Polypropylen-Werkstoffe vorgeschlagen, welche bei niedrigen Energiekosten langzeitstabile Behandlungen mit einem hohen Hydrophilierungsgrad ermöglichen.</abstract>
+                    <abstract type="content" lang="eng">This work concerns capacitively coupled high-frequency discharges at atmospheric pressure in atomic gases like helium and argon as well as their mixtures with molecular gases. The aim of this work is the investigation of the basic properties as well as the applicability of these discharges with regard to the non-thermal surface modification (hydrophilisation) of thermally sensitive polymers. 
+Parallel electrode configurations are examined exclusively. All discharges are operated at a frequency of 13.56 MHz. The physics of these discharges is discussed on the basis of He-discharges using theoretical and experimental investigations. Essential properties of these discharges like the energy and density of charged particles, electric fields as well as the electrode sheath thickness are determined with the help of relatively simple diagnostics methods. The influence of parameters like gas flow, gas composition, rf power coupled into the discharge as well as the electrode configuration on the discharge properties are examined. By using different diagnostics methods to interpret the changes of the polymer surface, in particular its energetic state, as well as theoretical model calculations, the discharge properties are linked with the treatment effects. A simple qualitative model of the treatment process is suggested. 
+Using a purposeful choice of the process parameters optimum conditions of a static treatment process of polypropylene materials are identified. The high application potential of such discharges concerning the surface modification of thermal sensitive polymers is demonstrated on the example of foils and tapes. Competitive treatment processes for flat polypropylene materials allowing longtime stable treatments with a high grade of hydrophilicity at low energy costs are proposed.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20070044</identifier>
+                    <identifier type="sys">HT014980781</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_977</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_977">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2006/ignatkov/de0604.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_977"
+            DMDID="DMD_wuppertal_elpub_977">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_977"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

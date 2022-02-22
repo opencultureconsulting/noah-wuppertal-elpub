@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5250">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Perturbative calculations for Standard Model precision physics: Higgs production and Yang-Mills gradient flow</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Neumann, Tobias</displayForm>
+                        <namePart type="family">Neumann</namePart>
+                        <namePart type="given">Tobias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In dieser Arbeit stellen wir Störungsrechnungen vor, die zu einem besseren Verständnis des Standardmodells führen. Nur mit solchen Rechnungen kann das Ziel erreicht werden, unerforschte und unerklärte Physik zu verstehen und zu finden.
+
+ Elektroschwache Symmetriebrechung geschieht durch einen Higgs-artigen Mechanismus und erreicht die Phase von Präzisionsmessungen. Im Rahmen dieser Arbeit verbessern wir die Zuverlässigkeit von Vorhersagen für differentielle und exklusive Wirkungsquerschnitte für den größten Higgs-Produktionskanal am Large Hadron Collider (LHC), Gluon-Fusion. Dies geschieht durch Abschätzung und Vorhersage von endlichen Topmassen-Effekten zum häufig benutzten Limes eines unendlichen schweren Top-Quarks. Weiterhin untersuchen wir die Higgs-Gluon-Kopplung in einer effektiven Theorie mit Dimension-5 und -7 Higgs-Gluon koppelnden Operatoren. Dies ermöglicht eine systematische Suche nach neuer Physik im Higgs Sektor, sowie Quantifizierung dieser.
+
+ Man glaubt, dass die Quantenchomodynamik (QCD), welche von höchster Wichtigkeit für Vorhersagen am LHC ist, die starke Wechselwirkung über alle Längenskalen beschreibt. Im QCD Gradientflow-Formalismus haben wir die erste Drei-Loop-Rechnung durchgeführt. Die betrachtete Observable ermöglicht es beispielsweise die Niederenergie-Region der QCD, welche sich auf die Gitter- Formulierung stützt, mit dem störungstheoretischen Hochenergie-Bereich zu verbinden. Insbesondere ist eine Definition einer laufenden Kopplung möglich, die es erlaubt αₛ(mZ) aus Niederenergie-Observablen, wie z. B. Hadron-Massen, zu gewinnen. Die Bestimmung von αₛ(mZ), für die wir die störungsrechnerische, mit Drei-Loop erreichbare Unsicherheit angeben, wird möglich, sobald entsprechende Daten aus einer Gitter-QCD-Rechnung verfügbar sind.</abstract>
+                    <abstract type="content" lang="eng">In this thesis we present perturbative calculations, leading toward a more thorough understanding of the Standard Model. Only with such calculations, the endeavor of unexplained and unexplored physics can be approached. 
+
+ Electroweak symmetry breaking proceeds through a Higgs-like mechanism and enters the phase of precision measurements. In this thesis we improve the reliability of differential and exclusive cross section predictions for the largest Higgs production channel at the Large Hadron Collider (LHC), gluon fusion. This is achieved by estimating and predicting finite top-mass effects to the commonly used heavy top limit. Furthermore, we study the Higgs-gluon coupling in an effective field theory of dimension-5 and -7 Higgs-gluon coupling operators, allowing for a systematic search and quantification of new physics in the Higgs sector. 
+
+ Quantum chromodynamics (QCD) is believed to describe the strong interactions over all length scales, and is of utmost importance for predictions at the LHC. In the framework of the QCD gradient flow, we present the first perturbative three loop calculation. The specific considered observable allows, for example, to bridge the low energy region of QCD, relying on the lattice formulation, to the perturbative high energy regime. In particular, a definition of a running coupling is possible, allowing an extraction of αₛ(mZ) from low energy observables such as hadron masses. This extraction, for which we estimate the perturbative three loop uncertainty, will be possible, once the data from lattice QCD is available.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20151005-111240-6</identifier>
+                    <identifier type="sys">HT018782332</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5250</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5250">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2015/neumann/dc1519.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5250"
+            DMDID="DMD_wuppertal_elpub_5250">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5250"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1047">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Stimmbasierte akustische Schläfrigkeitsdetektion (Acoustic Sleepeness Analysis)</title>
+                        <subTitle>Eine Signalverarbeitungsbasierte und Mustererkennungsalgorithmengestützte Verfahrensentwicklung</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Krajewski, Jarek</displayForm>
+                        <namePart type="family">Krajewski</namePart>
+                        <namePart type="given">Jarek</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-08-12</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Ziel der vorliegenden Arbeit ist die konzeptionelle Begründung und experimentelle Validierung eines Verfahrens zur akustischen Schläfrigkeitsmessung. Potenzielle Anwendungsfelder der Echtzeit-Detektion von Schläfrigkeitszuständen liegen in der unfallpräventiven Fahrerzustanderkennung, adaptiven Optimierung des Arbeits-Erholungs-Zyklus und der Komfortsteigerung von sprachgesteuerten Mensch-Maschine-Systemschnittstellen. Das zentrale Messprinzip der akustische Stimmanalyse stützt sich auf die Vorstellung, dass schläfrigkeitsinduzierte Veränderungen des Sprachproduktionsprozesses zu messbaren akustischen Veränderungen innerhalb der Stimmbereiche Prosodie, Artikulation und Stimmqualität führen. Dieser Beitrag gibt einen Überblick zu linguistisch-phonetischen Grundlagen, zentralen auditiv-perzeptiven und akustischen Beschreibungskategorien, schläfrigkeitsbedingten Stimmveränderungen, dem Machine-Learning-basierten Messprozedere sowie empirischen Validierungsbefunden der akustischen Schläfrigkeitsanalyse. 
+
+ Zur Validierung der akustischen Schläfrigkeitsmessung wurden in einer Schlafdeprivationsstudie (20.00 - 04.00; N=24) sowohl Sprachaufnahmen als auch selbst- und fremdberichtete Schläfrigkeitsratings (Karolinska Sleepiness Scale, KSS) erhoben. Das verwendete Sprachmaterial bestand aus aufsteigend komplexen linguistischen Einheiten (extrahierten Vokalen, Worten und ganzen phrasalen Einheiten). Für alle Spracheinheiten wurden 338 akustische Stimmkennzahlen berechnet. Der komplette Messprozess der hier vorgestellten Acoustic Sleepiness Analysis (ASA) folgt dem Ablauf der Mustererkennung (Aufnahme, Vorverarbeitung, Merkmalsberechnung, Dimensionalitätsreduktion, Klassifikation). Zu den erfolgreich eingesetzten Klassifikationsverfahren zählen Künstliche Neuronale Netze, Support Vector Machines und K-Nearest Neighbour Verfahren. Die Validitätskorrelationen von dichotomisierten vorhergesagten Schläfrigkeitszuständen und den selbstberichteten Schläfrigkeitsratings liegen für das erfolgreichste K-Nearest Neighbour Verfahren über alle Sprachmaterialien gemittelt bei durchschnittlich r = .55. Die Klassifikationsgenauigkeit der Schläfrigkeitsvorhersage befindet sich bei durchschnittlich 82.0%.</abstract>
+                    <abstract type="content" lang="eng">Detecting sleepiness states has been recognized as an important issue in the prevention of accidents. Thus, this paper describes a sleepiness detection approach based on analyzing acoustic speech features, the Acoustic Sleepiness Analysis (ASA). Sleepiness related changes in speech refer to three speech feature classes (a) &quot;prosody&quot; (flat intonation, low pitch), (b) &quot;articulation&quot; (slurred speech) and &quot;voice quality&quot; (nasalization, softening). The present dissertation provides an overview about linguistic-phonetical basics, auditive-perceptual and acoustic speech features, sleepiness induced speech changes, a machine learning based measurement procedure, and empirical validation of the Acoustic Sleepiness Analysis. 
+
+ We conducted a within-subject sleep deprivation design (N= 24; 8.00 p.m to 4.00 a.m). During the night of sleep deprivation a self-report sleepiness measure, Karolinska Sleepiness Scale (KSS) was used every hour just before the recordings to determine the sleepiness state. During the night, the subjects were confined to the laboratory and supervised throughout the whole period. In order to investigate sleepiness induced speech changes, a standard set of spectral and prosodic features (169 raw and 169 z-normalized features) were extracted from the sentences. After a wrapper-based forward selection (K-NN) was employed on the feature space in an attempt to prune redundant dimensions, different classification models were trained (LDA, MLP, SVM, KNN). The best model (1-Nearest-Neighbour) offers an average mean accuracy rate of 82.0% (Sensitivity = 63.4%; Specifity = 87.8%; r = .55) for the two-class prediction problem.</abstract>
+                    <subject>
+                        <topic>Schläfrigkeitsmessung</topic>
+                        <topic>Akustik</topic>
+                        <topic>Signalverarbeitung</topic>
+                        <topic>Sleepiness measurement</topic>
+                        <topic>speech acoustics</topic>
+                        <topic>signal processing</topic>
+                        <topic>machine learning</topic>
+                        <topic>pattern recognition</topic>
+                        <topic>Mustererkennung</topic>
+                    </subject>
+                    <classification authority="ddc">150</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20080379</identifier>
+                    <identifier type="sys">HT015643050</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1047</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1047">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbg/psychologie/diss2007/krajewski/dg0706.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1047"
+            DMDID="DMD_wuppertal_elpub_1047">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1047"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_4830">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Hydrolysis of Ti-containing alkoxides: Preparation, stabilization and characterization of TiO2 nanostructures</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Pfleiderer, Stefanie</displayForm>
+                        <namePart type="family">Pfleiderer</namePart>
+                        <namePart type="given">Stefanie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Titanium dioxide (TiO₂, titania) nanoparticles got great attention during the last decades due to a great field of possible applications. Under this directive, there had been intensive research in the past to learn about the factors which influence the effectiveness in these applications. In addition, there is a necessity to find preparation routes for optimal-structured nanoparticles. A possibility for the synthesis of nanostructures with tailored characteristics is the sol-gel process. The materials structure can be influenced by the chemical reaction environment (pH of reaction solution, the type of used electrolyte, dilution, water concentration, ect.).
+
+ In this work, a combination of different methods using x-rays is used to investigate the structure of sol-gel derived TiO₂, and TiO₂, -ZrO₂, nanostructured powders. The particle size of the crystallites is determined with x-ray diffraction (XRD), which also allows the determination of the type of crystalline phases. Unfortunately, XRD is not sensitive to amorphous fractions of the powders or small clusters of only a few nanometers size. X-ray absorption fine structure (XAFS) is sensitive to the amorphous as well as crystalline sample fractions and allows qualitative determination of the structure of the first small crystallites build in the powders during the synthesis as well as the structure of the samples after the crystallization process. Additionally, x-ray photoelectron spectroscopy (XPS) is applied to investigate the chemical composition of the prepared structures with respect to contaminations from additives in the synthesis step. 
+
+ The following investigations will focus on the preparation of titania materials suitable for applications in photocatalysis. In this context, it would be interesting to be able to stabilize the size and the crystalline phase of the nanostructures during the annealing process. An already common way to do this is the preparation of TiO₂, with additional oxides. In this thesis, TiO₂, -ZrO₂, materials are prepared, which are good photocatalysts. If only small amounts of zirconia (ZrO₂,) are included in these materials, the titania fractions will crystallize selectively, while zirconia fractions will stay amorphous. 
+
+ The first step of this work will be the preparation of samples with the same reaction environment but different TiO₂,:ZrO₂, ratios. Measurements of pure titania and zirconia samples will be presented for comparison with the mixed oxide powders. Limit TiO₂,:ZrO₂, ratios will be determined for the crystallization of the titania fractions as well as for the stabilization of crystallite size and phase. With a ratio determined to be suitable for the preparation of optimal structures for photocatalytic materials, different chemical reaction environments are tested with respect to the nanocrystalline structure of the resulting powders. Pure titania powders will also be prepared and investigated in the same reaction environments. Thus, the impact of the reaction conditions can be compared between pure titania, which is investigated in many publications, and the mixed oxides, which is less intensively studied up to now. 
+
+ Next to the bulk structure investigations with XRD and XANES, information about agglomerate structures can be collected by grazing-incidence small angle x-ray scattering (GISAXS). Photocatalytic tests with some of the samples were made by investigations of the decomposition of methylene blue under ultraviolet irradiation.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20150519-114621-2</identifier>
+                    <identifier type="sys">HT018647689</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_4830</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_4830">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2014/pfleiderer/dc1441.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_4830"
+            DMDID="DMD_wuppertal_elpub_4830">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_4830"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

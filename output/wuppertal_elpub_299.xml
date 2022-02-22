@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_299">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>η&apos;-Masse und String-Breaking-Signale in der vollen QCD</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Struckmann, Thorsten</displayForm>
+                        <namePart type="family">Struckmann</namePart>
+                        <namePart type="given">Thorsten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2000-09-04</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Im Rahmen von Rechnungen auf dem Gitter behandelt diese Arbeit 2 Aspekte des Vakuums der vollen QCD: Die η&apos;-Masse und die Suche nach String-Breaking-Signalen. Die Analysen wurden auf den SESAM/TχL QCD-Konfigurationen mit 2 (N=2) dynamischen Wilson-Fermionen bei β=5.6 durchgefuehrt. 
+ 
+Das Flavor-Singulett-Meson η&apos; erhaelt seine relativ grosse Masse durch Beitraege von nichtzusammenhaengenden Diagrammen. Die Berechnung dieser rauschigen 2-Loop-Korrelatoren ist jedoch numerisch sehr aufwendig. Es werden verschiedene Methoden und Verbesserungen zur Abschaetzung dieses Beitrages auf unseren Konfigurationen diskutiert. Die Verwendung von O(400) geschmierten, stochastischen Z₂-Quellvektoren macht den η&apos;-Propagator der Standardspektrumsmethodik zugaenglich. Es werden η&apos;-Observable extrahiert, welche nach chiraler Extrapolation um 15-25 Prozent unter den aus dem Experiment abgeleiteten N=2-Werten liegen. 
+ 
+Die Beobachtung von String-Breaking, des Zerfalls eines statischen Quark-Antiquark-Paares in ein Static-Light-Meson-Paar oberhalb eines bestimmten Abstandes, ist eine qualitative Eigenschaft von Simulationen der vollen QCD. Im Rahmen einer 2-Kanal-Mischungsanalyse werden Rausch-Signal-Verhaeltnisse von Amplituden des statischen Quarkpaar-Propagators und von Uebergangsmatrixelementen abgeschaetzt und verbessert. Wiederum zeigen geschmierte Operatoren signifikante Rauschreduktionen im relevanten Abstandsbereich.</abstract>
+                    <abstract type="content" lang="eng">Using lattice calculations this work concentrates on two aspects of the full QCD vacuum : The η&apos; mass and the search for signals of string breaking. Our analyses were done on the SESAM/TχL full QCD configurations with 2 (N=2) dynamical Wilson fermions at β=5.6. 
+ 
+The flavor singlet meson η&apos; should obtain its relatively large mass by large contributions from disconnected diagrams. The evaluation of these noisy two loop correlators is a numerically demanding task. We discuss various methods and improvements of quark loop estimation on our configuration sample. We find that the use of O(400) smeared stochastic Z₂ source vectors per configuration makes the η&apos; propagator accessible to standard spectrum methods. We extract η&apos; observables which, after chiral extrapolation, are 15-25 per cent below the pseudoexperimental N=2 values. 
+ 
+The observation of string breaking, the energetically favored decay of a static quark anti-quark pair into a static-light meson pair above a certain quark separation, should be a qualitative feature of full QCD simulations. In the framework of a two channel mixing anlaysis we estimate and improve noise to signal ratios of the static quark pair propagator and the transition amplitude. Again, smeared sources lead to a significant noise reduction at the relevant separations.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20000139</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_299</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_299">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-393/d080001.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_299"
+            DMDID="DMD_wuppertal_elpub_299">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_299"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

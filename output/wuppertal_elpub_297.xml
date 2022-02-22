@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_297">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Erkennung von Nichtlinearitäten und wechselseitigen Abhängigkeiten in Zeitreihen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schmitz, Andreas</displayForm>
+                        <namePart type="family">Schmitz</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-03-29</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">The present work addresses two central questions in the analysis of time series. The first part deals with methods to test for nonlinear structure in measured signals. Only a positive outcome of such a test justifies the application of the advanced techniques of nonlinear time series analysis. We will discuss some limitations and caveats of the popular method of surrogate data for nonlinearity tests. Further we present a new way to generate surrogate data that overcomes these caveats and features an extraordinary flexibility. This flexibility for the first time allows e.g. to test for nonlinearity in unevenly sampled time series. Further examples and applications of the new method are studied. 
+The second part of the present work deals with the analysis of dependencies between time series. This is motivated by the recently rising interest in synchronization phenomena of coupled chaotic systems. The central practical question is, whether one can tell the dominant direction of the coupling between two systems. Standard measures of interdependencies are not optimized to answer this question. To address this problem, two new concepts will be developed and discussed. The first measure is motivated by information theory and is called transfer entropy, while the second is oriented closer to synchronization itself. We shall demonstrate that we are indeed able to tell the direction of coupling by the asymmetry of the measures. Further investigations on unidirectionally coupled map lattices reveal further interesting properties. Finally we present some first applications to experimental data.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20010266</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_297</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_297">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-391/d080007.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_297"
+            DMDID="DMD_wuppertal_elpub_297">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_297"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

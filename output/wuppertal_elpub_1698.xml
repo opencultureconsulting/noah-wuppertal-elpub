@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1698">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Multiple Objective Optimization and Implications for Single Objective Optimization</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gorski, Jochen</displayForm>
+                        <namePart type="family">Gorski</namePart>
+                        <namePart type="given">Jochen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Taking the right decisions is one of the main aspects in everyday life. If a decision has to be made with respect to only a single criterion, it is often quite simple to find a satisfactory solution for the problem. However, only in rare cases important decisions are influenced by a single criterion. Often several independent and conflicting aspects have to be taken into account. Based on these different criteria, one is faced with the problem to find the &quot;best&quot; alternative among many possible decisions. This idea leads to the concept of multiple objective optimization, where optimality a of feasible solution is defined based on the Pareto-concept. In more detail, a solution of such a problem is called efficient, when there does not exist any other solution that is as good as the given one in all considered criteria and strictly better in at least one criterion.
+ While traditionally, methods from single objective optimization are used to determine efficient solutions of a given multiple objective problem, the reverse approach is taken in this work. In more detail, it is discussed how ideas from multiple objective optimization can be used to solve single objective problems, mainly focusing on two different aspects. On the one hand, solution concepts from multiple objective optimization are used to directly derive optimal solutions for single objective problems in the context of combinatorial optimization. On the other hand, improved versions of existing solution concepts for single objective problems are presented that exploit additional information induced by a multiple objective description of the considered single objective problem. In this context, problems from biconvex optimization are discussed in further detail.
+ In addition to this main topic several related aspects, especially from the field of (multiple objective) combinatorial optimization are discussed. For example, the connectedness of the efficient set for combinatorial problems like the shortest-path, the assignment or the knapsack problem is investigated. From a theoretical point of view the connectedness of efficient solutions is a powerful property since it allows the construction of the complete efficient set using simple neighborhood search techniques. It is shown in this work that the efficient set is non-connected for many classes of combinatorial problems but that there exist special versions of matroid and knapsack problems that satisfy this property.
+ Starting from results for combinatorial problems with bottleneck objectives a new kind of objective, the so-called k-max objective is introduced that generalizes the concept of a bottleneck function. Given a k-max optimization problem, not the largest cost coefficient of a feasible solution is of interest, but it is aimed to minimize the k-th largest among these coefficients. Based on general algorithms for solving multiple objective combinatorial problems with bottleneck and k-max objectives it is shown how these approaches can be used to solve constrained single objective problems as well as algebraic sum problems involving such objectives. In more detail, solution approaches for the minimum deviation problem, the balanced optimization problem as well as the k-sum optimization problem and generalized versions of these problems are presented.
+ Besides these topics from combinatorial optimization, continuous and mixed-integer optimization problems from the field of biconvex optimization are investigated. In this context, an optimization problem is called biconvex if its set of variables can be partitioned into two disjoint blocks such that the resulting two subproblems are convex with respect to one block if the other block is assumed to be fixed. It is well-known that local optimal solutions for biconvex problems can be found by alternately solving the two induced convex subproblems. In this work, ideas from multiple objective optimization are used to develop enhanced versions of this solution approach taking into account additional descent information contained in the block of fixed variables as a second criterion in the two different subproblems. Amongst others, several variants of this enhanced approach are presented and compared to the original search strategy by means of detailed numerical tests of the proposed algorithms at the example of a biconvex optimization problem from location theory.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20101129-120637-5</identifier>
+                    <identifier type="sys">HT016612877</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1698</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1698">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1847/dc1018.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1698"
+            DMDID="DMD_wuppertal_elpub_1698">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1698"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

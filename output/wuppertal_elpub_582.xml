@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_582">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Erdbauwerke für Hochgeschwindigkeitsstrecken mit Fester Fahrbahn - Konzept zur wirtschaftlichen und qualitätsgesicherten Erstellung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Engler, Michael</displayForm>
+                        <namePart type="family">Engler</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003-01-31</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Bei der Herstellung von Erdbauwerken für Neubaustrecken mit Fester Fahrbahn wird durch die maßgeblichen Richtlinien die Verwendung bindiger Böden beschränkt. Auf Grundlage der Regeln der Technik sowie ergänzender Versuchsverfahren können wirtschaftliche Konstruktionen, die die Verwendung der vorgenannten Böden vorsehen, auf ihre Funktionssicherheit hin geprüft werden, so dass deren Verwertung als Schüttmaterialien verantwortet werden kann. 
+ Die Anforderungen an den Unterbau einer Neubaustrecke mit Fester Fahrbahn erfordern im Bereich der freien Strecke über den üblichen Umfang hinaus umfangreiche Maßnahmen zur Qualitätssicherung. Diese Schritte sind vom Bauausführenden zur Sicherstellung der langfristigen Erfüllung aller Anforderungen an den Unterbau durchzuführen. 
+ Die vorliegende Arbeit gibt Lösungsansätze für die wirtschaftlichen und qualitätssichernden Aufgaben. 
+ Um eine möglichst große Effizienz zu erreichen, ist auf eine adäquate Projektstruktur und Vertragsform zu achten. Die Implementierung des Konzeptes in ein Qualitätsmanagementsystem nach der EN ISO 9001:2000 ist möglich.</abstract>
+                    <abstract type="content" lang="eng">Applicable guidelines restrict the use of binder soil in the production of earthworks for new firm tracks. On the basis of state-of-the-art technology as well as additional experimental procedures, it is possible to verify the reliable functionality of efficient constructions that include the use of the type of soil mentioned before so as to justify its use as fill material. 
+ The requirements with respect to the foundation of a new firm-track line will necessitate extensive quality assurance measures for open-track sections exceeding standard practices. These steps will have to be followed by the construction company in order to ensure that all requirements with respect to the foundation will be met over the long term. 
+ This dissertation provides possible solutions for the economic tasks as well as those linked to quality assurance. 
+ In order to obtain a maximum degree of efficiency, the project will have to be structured appropriately, and a proper form of contract will have to be selected. This concept can be integrated into a quality management system in accordance with EN ISO 9001:2000.</abstract>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Architektur und Bauingenieurwesen » Bauingenieurwesen"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20030043</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_582</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_582">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-678/d110301.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_582"
+            DMDID="DMD_wuppertal_elpub_582">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_582"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

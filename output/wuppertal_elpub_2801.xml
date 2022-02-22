@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_2801">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Programming and Industrial Control, Model-Based Predictive Control of 3-Level Inverters</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>AL Sheakh Ameen, Nael</displayForm>
+                        <namePart type="family">AL Sheakh Ameen</namePart>
+                        <namePart type="given">Nael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Mehrpunktwechselrichter erzeugen Ausgangsspannungen, die der Sinusform weit ähnlicher sind als die Ausgangsspannungen von üblichen 6-Puls-Wechselrichtern. In Anwendungen, in denen die Sinusform von entscheidender Bedeutung ist (z. B. bei der Energieversorgung von ländlichen Siedlungen oder Gehöften oder bei elektrischen Antrieben mit der Forderung nach geringer Drehmomentwelligkeit), würde diese Art von Umrichtern den Aufwand an notwendigen Ausgangsfiltern deutlich reduzieren.
+ Der wesentliche Nachteil von Mehrpunktwechselrichtern – der der Anwendung dieses Konzepts in der Industrie bisher im Wege steht – ist die im Vergleich mit Standard-Umrichtern hohe Anzahl von Leistungshalbleitern und die Notwendigkeit einer komplexen Regelung. Da in jedem Umrichterzweig eines Mehrpunkt-Wechselrichters mehrere Leistungshalbleiter in Serie geschaltet sind, braucht die Sperrspannung der einzelnen Leistungshableiter allerdings nicht so hoch zu sein wie bei Standard-Pulsumrichtern.
+ Der Preis für mehrere Leistungshalbleiter niedriger Nennspannung ist derzeit zwar immer noch höher als für einen einzelnen Leistungshalbleiter hoher Nennspannung – diese Differenz nimmt allerdings ab. Auch wenn nicht davon ausgegangen werden kann, dass der Preisunterschied vollständig verschwinden wird, ist zu erwarten, dass die Möglichkeit und Wahrscheinlichkeit der Anwendung von Mehrpunktwechselrichtern in solchen Fällen zunimmt, in denen die oben erwähnten Vorteile wichtig sind.
+ Das Hauptziel der vorliegenden Arbeit ist die Kombination eines Mehrpunktwechselrichters mit einem prädiktiven Regelverfahren, um ein bezüglich Aufwand und Nutzen optimiertes System zur Erzeugung dreiphasiger sinusförmiger Ausgangsspannungen zu erhalten.
+ Ein Modellbasierter Prädiktivregler (MPC) ist eine sogenannte long-range Prädiktivregelungs-Strategie; der Prädiktionshorizont umfasst mehr als einen Abtastzyklus.
+ Der bekannteste Nachteil von MPC für mehr als einen Prädiktionsschritt in industriellen Anwendungen ist die Komplexität der Online-Umsetzung, vor allem bei Anwendungen mit schnellen Abtastraten wie in elektrischen Antriebssystemen. Die hierfür notwendige Prozessorleistung steht in industriellen Umrichtern nicht zur Verfügung. Um diesen Nachteil auszugleichen, haben Morari et. al das MPC-Optimierungsproblem zu einem multi-parametrischen quadratischen Program umgewandelt. Durch die Lösung dieses mp-QP/-LP Problems erhält man die optimale Lösung als PWA-Funktion von Systemzuständen. In jedem Polytop (Region) des gesamten zulässigen Zustandsraums existiert nur eine einzige Optimal-Lösung, die als PWA-Funktion berechnet wird.
+ Um die Regelung praktisch zu realisieren muss man zuerst bestimmen, in welchem der berechneten Polytope der momentane Systemzustand liegt, und dann das entsprechende affine (lineare) Regelgesetz anzuwenden. Dadurch verringert sich die Implementierung des Optimierungsproblems auf eine einfache Suche in Lookup-Tabellen. Tondel et. al haben eine Strategie (Binärer Suchbaum) vorgestellt, um die eigentlich notwendige vollständige „Enumeration“ und online-Auswertung aller vorhandenen und nicht sortierten Polytope sehr effizient zu verkürzen. Durch diese Strategie ist es möglich, die sich ergebende Lookup-Tabelle auf ein EPROM zu speichern; hierdurch vereinfacht sich die Implementierung des modellbasierten Prädiktivreglers für die schnellen Abtastraten-Anwendungen bei Antriebssystemen. Eine Realisierung mit den derzeit zur Verfügung stehenden Mitteln ist dann möglich.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20120503-135944-0</identifier>
+                    <identifier type="sys">HT017284599</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_2801</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_2801">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-2917/de1201.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_2801"
+            DMDID="DMD_wuppertal_elpub_2801">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_2801"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

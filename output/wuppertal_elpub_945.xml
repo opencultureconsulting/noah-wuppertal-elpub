@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_945">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>On the Numerical Simulation of Friction-Isolated Structures</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jamali, Navid</displayForm>
+                        <namePart type="family">Jamali</namePart>
+                        <namePart type="given">Navid</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-02-18</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In den letzten Jahren sind viele Entwicklungen und Fortschritte im Bereich erdbebensicheres Bauen gemacht worden. Trotzdem hat in den vergangenen Jahren manch verheerendes Erdbeben, wie zum Beispiel in Bam (Iran, 2003) oder Kaschmir (Pakistan, 2005) massive Zerstörungen angerichtet. Das geschieht nicht nur in den Entwicklungsländern, sondern auch in den hoch entwickelten Ländern wie Japan, beispielsweise das Erdbeben in Kobe (1995). 
+Die Normen sind meistens ‘‘life-safety’’ orientiert. Das führt dazu, dass die Sanierung wegen des Schadensniveaus unwirtschaftlich oder gar unmöglich ist. Es gibt zwei Strategien um die Funktionalität eines Gebäudes im Falle eines Erdbebens erhalten zu können: 
+Nach der klassischen Strategie wird versucht durch plastische Reserve die Tragfähigkeit des Systems zu gewährleisten. Zahlreiche Gebäude, die nach diesem Prinzip konzipiert sind, haben in der Vergangenheit einer Erdbebenbelastung nicht standgehalten. Das war zum Beispiel auf Ausführungsmängel und geringe Baustoffqualität zurückzuführen. 
+Alternativ dazu versucht man durch gezielte konstruktive Maßnahmen die dynamischen Systemeigenschaften zu verändern, so dass die Erdbebenkräfte dissipiert bzw. reduziert werden können. Eine mögliche Maßnahme ist die Basisisolation. Dabei wird das Gebäude durch spezielle Lager, zum Beispiel Elastomerlager oder Reibelemente von den Fundamenten entkoppelt. 
+Sogenannte Reibpendelelemente sind spezielle Lager, die zur Basisisolation von Gebäuden eingesetzt werden. Sie besitzen eine gekrümmte Oberfläche um eine Zwangszentrierung der Lager zu gewährleisten. Ihre Oberfläche ist mit einer speziellen Beschichtung versehen, die den Reibungskoeffizient minimiert. Sobald die durch ein Erdbeben induzierten Kräfte den statischen Reibungswiderstand des Lagers überschreiten, lässt das Lager ein Gleiten des Gebäudes gegenüber dem Baugrund zu. In der vorliegenden Arbeit wird ein numerisches Modell zur Simulation von Systemen mit einem Reibpendellager entwickelt. Zunächst wurde ein einfreiheitsgerades System benutz, wobei das Verhalten des Gebäudes starr angenommen wird. Um die Wechselwirkung zwischen der Struktur und dem Lager zu berücksichtigen, wurde ein zweifreiheitsgerades System verwendet. Anschließend ist ein MDOF Planarmodell entwickelt worden, in dem mehrere zusätzliche Freiheitsgerade aktiviert werden, sobald das System anfängt zu gleiten. Die zusätzliche Freiheitsgerade dient dazu, die Reibelemente in Gleit-Phasen zu simulieren. Sobald das System wieder haftet, werden diese Elemente deaktiviert. Das Modell wird bezüglich des numerischen Aufwands optimiert. Um das numerische Modell zu verifizieren, mehrere praktische Anwendungen wurden mit diesem Modell simuliert.</abstract>
+                    <abstract type="content" lang="eng">In spite of considerable developments and modifications of earthquake-resistant design methods and much more conservative building norms, massive death and destructions have been reported after several great earthquakes in recent years. High developed countries are susceptible to earthquakes as well, as for example the unprecedented economical loss of Kobe earthquake (Japan, 1995). 
+Seismic building norms are mainly life-safety oriented. Providing a sufficient plastic reserve by a ductile design concept to guarantee the structural serviceability after a severe shaking has been proved to be very difficult to be implemented. In an alternative method, based on the concept of reduction of the earthquake-induced forces, structural properties are modified, instead of providing additional strength and stiffness. In friction pendulum isolated systems this can be done by means of several bearings sliding over concave contact surfaces, which are decoupling the system from its foundation. 
+In this study a numerical model is developed to simulate the response of such an isolated structure. First, assuming a rigid structural response, a one-degree-of-freedom model has been applied to simulate the response of a sliding bearing. The model is then improved to a two-degree-of-freedom system, to consider the interaction effect between a sliding bearing and the structure over it. Finally, a general multi-degree-of-freedom planar model is developed, in which several extra degrees-of-freedom, regarding the number of the isolators in the set, are activated, as soon as the set starts sliding. By sticking of some bearings, the corresponding degrees of freedom are deactivated. Hence, there are different system configurations in sticking and sliding phases. This makes the exact prediction of all phase changes during an analysis very important. By means of a developed adaptive time digitization algorithm extremely short time steps would be applied only in the case of possibility of a phase change. In this way numerical costs of the analysi can be reduced. As the nonlinearity of the response of such a system is only restricted to phase changes between time steps and in every single time step system properties do not change, modal analysis has been used to solve the set of differential equations, so that only the first few mode shapes governing the main part of the structural response are required to be considered. Results are then transformed back into the original space to be evaluated. To verify the numerical model, several practical cases have been simulated. Results are then compared with those reported in literature.</abstract>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Architektur und Bauingenieurwesen » Bauingenieurwesen"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20090093</identifier>
+                    <identifier type="sys">HT015853699</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_945</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_945">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/bauingenieurwesen/diss2008/jamali/dd0806.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_945"
+            DMDID="DMD_wuppertal_elpub_945">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_945"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_8151">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Retourenmanagement im Online-Handel</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Feider, Lena</displayForm>
+                        <namePart type="family">Feider</namePart>
+                        <namePart type="given">Lena</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-03-26</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Der Umgang mit Produktretouren stellt eine große Herausforderung im Online-Handel dar. Online-Händler bieten häufig eine großzügige Retourenpolitik an, da diese das Bestellverhalten der Kunden positiv beeinflussen kann. Gleichzeitig werden Anbieter durch kundenfreundliche Retourenkonditionen jedoch auch mit einer hohen Anzahl an Retouren und damit einhergehenden Kosten konfrontiert. Um einen Weg aus diesem Dilemma zu finden, müssen Online-Händler die Retourenproblematik aktiv in ihr Kundenmanagement integrieren. Die vorliegende Dissertation analysiert im Rahmen einer theoretisch-konzeptionellen Analyse sowie zweier empirischer Untersuchungen verschiedene Maßnahmen, die es Online-Händlern ermöglichen, Retouren zu senken, ohne dabei die Beziehung zum Kunden zu gefährden. Da bereits geringe Rückgänge in der Retourenquote einen erheblichen Einfluss auf die Profitabilität von Unternehmen haben können, leistet die Dissertation einen wesentlichen Beitrag für das Retourenmanagement von Online-Händlern.</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20180326-144837-1</identifier>
+                    <identifier type="sys">HT019644861</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_8151</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_8151">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2017/feider/db1707.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_8151"
+            DMDID="DMD_wuppertal_elpub_8151">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_8151"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

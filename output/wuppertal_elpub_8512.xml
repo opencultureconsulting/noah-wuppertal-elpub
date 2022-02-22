@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_8512">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Measurement of the Fiducial and Total Single Top-Quark t-Channel Production Cross-Sections with the ATLAS Detector at √s = 8 TeV</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Tepel, Phillipp</displayForm>
+                        <namePart type="family">Tepel</namePart>
+                        <namePart type="given">Phillipp</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wagner, Wolfgang</displayForm>
+                        <namePart type="family">Wagner</namePart>
+                        <namePart type="given">Wolfgang</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-07-25</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In dieser Arbeit werden Messungen des fiducial Produktionswirkungsquerschnitts und des totalen Produktionswirkungsquerschnitts der Einzel-Top-Quark und Top-Antiquark Erzeugung im t-Kanal präsentiert. Der t-Kanal ist der dominante Produktionsmechanismus einzelner Top Quarks am Large Hadron Collider (LHC). Die Messungen sind mit 20.2 fb−1 Proton-Proton Kollisionsdaten des ATLAS Detektors mit einer Schwerpunktsenergie von 8 TeV am LHC durchgeführt worden. 
+In dieser Analyse wird das Signal, nach einer schnittbasierten Vorselektion, mittels neuronaler Netze (NN) von den Untergrundprozessen getrennt. Der Wirkungsquerschnitt wird bezogen auf den zugänglichen Phasenraum gemessen (fiducial Wirkungsquerschnitt) und zusätzlich auf den gesamten Phasenraum extrapoliert (totaler Wirkungsquerschnitt). 
+Die fiducial Wirkungsquerschnitte werden mit einer Präzision von 5.8% (Top Quark) und 7.8% (Top Antiquark) gemessen. Die gemessenen Werte der totalen Wirkungsquerschnitte sind σ=56.7+4.3−3.8pb für die Top-Quark Produktion und σ=32.9+3.0−2.7pb für die Top-Antiquark Produktion. Es werden Vergleiche mit den Vorhersagen verschiedener Generatoren vorgenommen. 
+Das Verhältnis der totalen Wirkungsquerschnitte ergibt Rt=1.72±0.09. Der Messwert wird mit verschiedenen Vorhersagen von Partondichte Funktionen (PDFs) verglichen. Die Messung des Produktionswirkungsquerschnitts ermöglicht es, das CKM-Matrixelement Vtb zu bestimmen, ohne die Unitarität der CKM-Matrix vorauszusetzen. Es wird ein Wert von |Vtb| = 1.029 ± 0.048 gemessen.</abstract>
+                    <abstract type="content" lang="eng">Detailed measurements of t-channel single top-quark production cross-section are presented.  They use 20.2 fb−1 of data collected by the ATLAS experiment in proton–proton collisions at a centre-of-mass energy of 8 TeV at the LHC. Total and fiducial cross-sections are measured for both top-quark and top-antiquark production. 
+In this analysis, the signal is extracted from background processes, by employing a neural network based selection. The cross-sections are measured with respect to the visible phase-space (fiducial cross-section) and extrapolated to the full phase-space (total cross-section). 
+The fiducial cross-section is measured with a precision of 5.8% (top quark) and 7.8% (top antiquark), respectively. The total cross-sections are measured to be σ=56.7+4.3−3.8pb and σ=32.9+3.0−2.7pb for top-antiquark production, in agreement with the Standard Model prediction. In addition, the ratio of top-quark to top-antiquark production cross-sections is determined to be Rt=1.72±0.09. The cross-section ratio is compared with several PDF-set predictions. The measurement of the production cross-section enables the determination of the CKM-matrix element Vtb without assuming the unitarity of the CKM-matrix. The measured value of |Vtb| = 1.029 ± 0.048.</abstract>
+                    <subject>
+                        <topic>Single Top-Quark</topic>
+                        <topic>Cross-Section</topic>
+                        <topic>t-Channel</topic>
+                        <topic>Fiducial</topic>
+                        <topic>ATLAS</topic>
+                        <topic>CERN</topic>
+                        <topic>8 TeV</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20180725-084548-5</identifier>
+                    <identifier type="sys">HT019762583</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_8512</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_8512">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2018/tepel/dc1807.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_8512"
+            DMDID="DMD_wuppertal_elpub_8512">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_8512"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

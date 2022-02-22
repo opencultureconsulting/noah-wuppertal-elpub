@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_666">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Agensphrasen in deutschen Passivsätzen - Form, Funktion und Valenzstatus</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Tam, Sami</displayForm>
+                        <namePart type="family">Tam</namePart>
+                        <namePart type="given">Sami</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-10-31</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Ausgehend von Ansätzen zum Passiv, Agens und zur Valenz werden die Agensphrasen hinsichtlich ihrer Form, Funktion und ihres Valenzstatus beschrieben. Es wird gezeigt, dass die Anwendung der verschiedenen Agensformen – Agenspräpositionen wie von, durch, zwischen, mit, bei, seitens; desubstantivische Adjektive auf -lich, -isch, -ell wie gerichtlich, politisch, konjunkturell bzw. desubstantivische Adverbien auf -seits wie staatlicherseits; Korrelate und Pronominaladverbien wie dadurch, davon bzw. dadurch, dass..., wodurch – durch die passivischen Verbformen bzw. Passiv-Verbkomplexen bestimmt ist und dass sich die semantischen Funktionen von Agensphrasen als Urheber/Täter, Verursacher/Auslöser/Ursache, Vermittler, Mittel, Zustandsträger, Träger einer psychischen Aktivität bzw. einer Wahrnehmung aus den entsprechenden Verbalgeschehen ergeben, die durch die zugrunde liegenden Verben ausgedrückt werden. 
+Im Licht traditioneller Valenztheorien werden die Agensphrasen als obligatorische oder fakultative Ergänzungen eingestuft. Im Rahmen der in der Arbeit angenommenen multidimensionalen Valenztheorie wird der Valenzstatus von Agensphrasen nicht dichotomisch, sondern graduell aufgefasst und durch vier Kombinationen der Valenzdimensionen repräsentiert, die angeben, dass bestimmte Kontexte oder Faktoren zum einen die Realisierung bzw. Nichtrealisierung von Agensphrasen begünstigen, zum anderen spezifische formale Merkmale für die betreffenden Agensphrasen fordern.</abstract>
+                    <classification authority="ddc">430</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » Allgemeine Sprachwissenschaft"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20090042</identifier>
+                    <identifier type="sys">HT015896523</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_666</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_666">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fba/sprachwissenschaft/diss2005/tam/da0501.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_666"
+            DMDID="DMD_wuppertal_elpub_666">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_666"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

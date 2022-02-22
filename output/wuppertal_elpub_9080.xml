@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9080">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Muon density in extensive air showers measured with IceTop</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bindig, Daniel</displayForm>
+                        <namePart type="family">Bindig</namePart>
+                        <namePart type="given">Daniel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-01-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Astroteilchenphysik als relativ junger Forschungsbereich befasst sich mit den Eigenschaften der kosmischen Strahlung, die durch das Universum propagiert und zu einem geringen Bruchteil die Erde erreicht. Kosmische Strahlung setzt sich überwiegend aus Atomkernen verschiedenartiger chemischer Elemente, sowie weiterer Teilchen wie Elektronen, Positronen, Neutrinos und Photonen unterschiedlicher Wellenlängen zusammen. Die Entdeckung der kosmischen Strahlung durch Viktor Franz Hess im Jahre 1912 hat zahlreiche Fragen nach deren Quellen, Propagation, Energiespektrum und Zusammensetzung hervorgebracht, die auch heute noch Gegenstand aktueller Forschung sind. 
+Seit der Entdeckung kosmischer Strahlung wurden verschiedene Detektortypen zu ihrer Messung entwickelt. Beispielsweise messen auf Satelliten stationierte Detektoren kosmische Strahlung direkt, bevor Wechselwirkungen mit der Erdatmosphäre erfolgen. Da der differentielle Fluss kosmischer Strahlung einem Potenzgesetz folgend mit ungefähr α E -2.7 abnimmt, und satelittengestützte Experimente nur sehr kleine effektive Flächen haben, kann der Nachweis kosmischer Strahlung höherer Energien nur durch erdgebundene Detektoren stattfinden. Dies geschieht indirekt über den Nachweis von Luftschauern. Dabei handelt es sich um Teilchenkaskaden, die entstehen, sobald Teilchen kosmischer Strahlung auf die Erdatmospäre treffen und eine Lawine von physikalischen Prozessen initiieren. Die in Luftschauern produzierten Teilchen sind elektromagnetischer, myonischer, und hadronischer Natur. Insbesondere die Anzahl der Myonen im Luftschauer weist eine starke Abhängigkeit von der Masse des Primärteilchens auf. 
+Basierend auf gemessenen Detektorsignaturen und Luftschauersimulationen lassen sich Rückschlüsse auf die Eigenschaften des ursprünglichen Teilchens der kosmischen Strahlung ziehen, wie beispielsweise Energie und Masse. Die Kenntnis des Energie- und Massenspektrums wiederum erlaubt das Bestätigen oder Ausschließen verschiedener Modelle, die die Produktion kosmischer Strahlung in Quellen und die Propagation durch das Universum beschreiben, und damit Vorhersagen für das Energie- bzw. Massenspektrum treffen. 
+Die in dieser Arbeit genutzten Daten stammen von IceTop, die Oberflächenkomponente des am Südpol stationierten IceCube-Detektors. IceTop besteht aus 81 Stationen mit jeweils zwei Tanks. Jeder Tank ist mit klarem Eis gefüllt, sowie mit zwei Photomultipliern ausgestattet, die Cherenkovlicht messen, das von geladenen Teilchen beim Durchqueren des Tanks erzeugt wird. 
+In dieser Arbeit wird die Myondichte auf IceTop-Niveau als Funktion der Energie des Primärteilchens bestimmt. Die dazu genutzte Methode wird zunächst mit Hilfe von Luftschauersimulationen basierend auf dem hadronischen Wechselwirkungsmodell SIBYLL2.1 entwickelt. Diese Simulationen werden genutzt, um in der IceTop-Detektorsimulation Signale zu generieren. Die Rekonstruktion des Luftschauers anhand dieser Signale liefert essentielle Charakteristika, wie zum Beispiel die ursprüngliche Richtung des einfallenden Teilchens, der Auftreffpunkt der Schauerachse im Detektor, und eine Schätzung der Energie des einfallenden Teilchens. Nach der Rekonstruktion wird die Anzahl der simulierten Schauer durch ausgewählte Qualitätsschnitte reduziert. Die verbleibenden Luftschauer werden gruppiert nach Bins in Zenithwinkel und Energieschätzer. 
+Um Myonen im Luftschauer zu isolieren, werden die Detektorsignaturen in IceTop mit Hilfe der Detektosimulation nach Signal und Untergrund aufgetrennt. Ist mindestens ein Myon für das Triggern eines Tanks verantwortlich, wird dieser Tank als Signal klassifiziert, andererseits als Untergrund. Die Signalkomponente wird weiter herausgearbeitet, indem Schnitte auf die gemessene Ladung in einem Tank, und dessen Abstand zur Schauerachse entwickelt werden. Es wird gezeigt, dass sich durch diese Schnitte der Anteil vom Signal an allen aufgezeichneten Ereignissen erhöht. 
+Basierend auf den Schnitten werden zwei Schätzer für die wahre Anzahl der Myonen im Luftschauer angegeben. Diese beziehen sich auf die laterale Verteilung der Tankladung und die laterale Verteilung der Tankanzahl, d.h. Tanks die eine Ladung registrieren. Gemessen an den systematischen Unsicherheiten ist die laterale Verteilung der Tankanzahl robuster als die Tankladung; deshalb wird nur diese im weiteren Verlauf verwendet. 
+Das angewandte Verfahren beinhaltet zunächst die Umwandlung des Schätzer für die Myonzahl in einen Schätzer für die Myondichte. Anschließend werden Umrechnungsfaktoren berechnet, die es ermöglichen, den Schätzer für die Myondichte auf die wahre Myondichte zu skalieren, die aus den Luftschauersimulationen bekannt ist. Analog werden aus den gemessenen Daten der Saison 2012 / 2013 basierend auf dem mit der Simulation entwickelten Verfahren ebenfalls Schätzer für die Myondichte bestimmt, die schließlich mit Hilfe der Kalibrationsfaktoren auf die Myondichte in den Daten skaliert werden. Das finale Ergebnis ist die Myondichte als Funktion der rekonstruierten Energie, d.h. der Energie des Primärteilchens. Da das angewandte Verfahren von den Luftschauersimulationen abhängt, ergeben sich beispielsweise systematische Unsicherheiten aufgrund der hadronischen Wechselwirkungsmodelle, der Masse des simulierten Primärteilchens, oder von Schnee auf dem Detektor.</abstract>
+                    <abstract type="content" lang="eng">Cosmic Rays are particles that are accelerated from astrophysical sources and being propagated through the universe. When Cosmic Rays strike particles of the Earth&apos;s atmosphere, they undergo interactions which trigger a cascade of particles travelling to the Earth&apos;s surface. This air shower carries constituents of different types, such as hadrons, electrons, and muons. Measurements of these constituents can be compared with air shower simulations, in order to draw conclusions on the properties of the initial Cosmic Ray particle, such as nuclear mass, energy, and direction. In particular, the number of muons shows a dependance on the nuclear mass. 
+ In this work, the detector signatures provided by the IceTop detector are analyzed. IceTop is the surface part of the IceCube detector situated at the South Pole. It consists of 81 stations ordered in a grid-like structure. Each station comprises two tanks filled with clear ice. Charged particles passing through ice produce Cherenkov light which is detected by photomultiplier tubes. 
+ In this analysis a method is provided which allows the determination of muon number densities based on measured detector signatures. Initially, this method is developed on air showers simulated with the hadronic interaction model SIBYLL2.1, and having zenith angles between 0° and 36.9°. These air showers are subject to detector simulation and reconstruction, and undergo a selection of quality cuts. The selected set of simulated air showers is separated into bins in zenith angle and estimated energy. For each remaining air shower, the detector signatures are subclassified into signal and background, depending whether they contain muons or not. 
+The signal content of air showers is carved out by introducing energy and zenith angle dependent cuts on the tank charge and its distance to the shower axis. After the application of these cuts, two muon number estimators are defined basing on lateral charge and hit distributions. Systematic studies show that the latter is more robust against changes in simulation. 
+Using a conversion, the muon number estimator is transformed into a muon number density estimator, which is related to the true muon density known from air shower simulations. Finally, the muon number density in experimental data, recorded during the 2012/2013 season, is calculated by applying the conversion derived from simulations, on muon number density estimators derived from data. The result is the muon number density as function of reconstructed primary energy. Since the conversion is derived from air shower simulations, systematic uncertainties such as the hadronic interaction model or the primary mass propagate onto the final result.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20190128-120513-9</identifier>
+                    <identifier type="sys">HT019962036</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9080</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9080">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2018/bindig/dc1822.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9080"
+            DMDID="DMD_wuppertal_elpub_9080">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9080"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

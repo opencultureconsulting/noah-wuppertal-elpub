@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_2376">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„Drum prüfe, wer sich (ewig) bindet…“ Scrutiny in Paarbeziehungen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dörfler, Rebecca</displayForm>
+                        <namePart type="family">Dörfler</namePart>
+                        <namePart type="given">Rebecca</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Angesichts der immensen Bedeutung, die der Qualität unserer Paarbeziehungen für unser physisches und psychisches Wohlbefinden zukommt, sollten Menschen bestrebt sein, ein akkurates Verständnis über den „Status Quo“ ihrer Paarbeziehung zu haben. Um zu diesem Verständnis zu gelangen, sollten sie sich von Zeit zu Zeit sorgfältig mit ihrer Partnerschaft auseinandersetzen und diese einer genauen Prüfung unterziehen. Von Hassebrauck und Sedikides (2002) wurde in diesem Zusammenhang das Konstrukt „Relationship Scrutiny“ eingeführt, eine systematische Beziehungsanalyse, bei der die Partnerschaft mit der mentalen Repräsentation einer typischen guten Paarbeziehung verglichen und anhand dessen die Beziehungsqualität evaluiert wird. In der vorliegenden Dissertation wurde in fünf empirischen Studien ein Selbstberichtinstrument zur Erfassung von Relationship Scrutiny (das revidierte Relationship Scrutiny Inventar, RRSI) entwickelt und validiert. Das RRSI wurde dann eingesetzt, um Vorhersagen über die Auftretensbedingungen von Relationship Scrutiny im Beziehungsalltag zu prüfen. Übereinstimmend mit früheren Befunden konnte hierbei zunächst belegt werden, dass niedriger Beziehungsqualität eine besondere Rolle für das Bedürfnis nach einem akkuraten Verständnis der Partnerschaft zukommt. Daneben konnte erste Evidenz gefunden werden, dass Relationship Scrutiny auch vor dem Hintergrund wichtiger Entscheidungen im Beziehungsverlauf, sowie angesichts sich bietender extradyadischer romantischer Alternativen variiert. Basierend auf diesen Befunden fokussiert die Diskussion auf die Einordnung des Konstrukts Relationship Scrutiny in das Forschungsfeld der sozialen Kognition in intimen Beziehungen.</abstract>
+                    <abstract type="content" lang="eng">Given that the quality of our romantic relationships plays a crucial role for our psychological and physical well-being, people should strive for an accurate understanding of their romantic relationships’ “status quo”. In order to attain such an understanding, it is assumed that people focus on their romantic relationship from time to time and subject it to a thorough examination. In this regard, Hassebrauck and Sedikides (2002) introduced the construct “relationship scrutiny”, meaning a systematic analysis of the romantic relationship, during which the relationship is compared to the mental representation of a typical good romantic relationship and is then evaluated as to its quality. In this doctoral thesis, which is based on five empirical studies, a self-report instrument measuring relationship scrutiny (called the revised relationship scrutiny inventory, RRSI) was developed and validated. The RRSI was then used to test predictions about the preconditions of relationship scrutiny in the daily routine of romantic relationships. Consistent with pre-existing findings, the relevance of low relationship quality for the need of an accurate understanding of one’s romantic relationship could be corrobated. Besides, initial evidence supporting the hypothesis that relationship scrutiny also varies against the background of important relationship decisions as well as in the face of extra-dyadic romantic alternatives was found. Based on these findings the discussion focuses on embedding the relationship scrutiny construct into the research field of social cognition.</abstract>
+                    <classification authority="ddc">150</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Human- und Sozialwissenschaften » Psychologie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20111111-124833-4</identifier>
+                    <identifier type="sys">HT017043767</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_2376</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_2376">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbg/psychologie/diss2011/doerfler/dg1102.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_2376"
+            DMDID="DMD_wuppertal_elpub_2376">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_2376"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

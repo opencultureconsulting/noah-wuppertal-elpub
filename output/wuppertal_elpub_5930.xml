@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5930">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Ergodicity properties of affine term structure models and applications</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Trabelsi, Chiraz</displayForm>
+                        <namePart type="family">Trabelsi</namePart>
+                        <namePart type="given">Chiraz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The aim of this thesis is to study the ergodicity properties of affine term structure models as well as the practical applications. 
+
+ First, we consider the affine term structure model called the Cox-Ingersoll-Ross model (abbreviated CIR). This model was introduced in 1985 by John C. Cox, Jonathan E. Ingersoll and Stephen A. Ross as an alternative model to overcome the disadvantage of Vasicek model, in which the interest rate can become negative. We show the positive Harris recurrence of the CIR process, from which we get an ergodicity results for a transformation of the CIR process. This is applied in the calibration of the parameters of a credit migration model. 
+
+ Later we focus on an extension of the CIR model that is obtained by adding jumps, namely the basic affine jump-diffusion (BAJD). This model has been introduced by Duffie and G\^{a}rleanu as an extension of the CIR model with jumps. We derive a closed formula for the transition densities of the BAJD. Note that this fact has already been discovered in a special case by Filipovi´c \cite{MR1850789}. Further, we prove the positive Harris recurrence and the exponential ergodicity of the BAJD, and calibrate the transformation of it. 
+
+ Another extension of the classical CIR model including jumps is the jump-diffusion CIR process (shorted as JCIR). This is introduced with the help of a pure-jump Lèvy process. We find a lower bound on the transition densities and we show the existence of a Foster-Lyapunov function from which we derive the exponential ergodicity. 
+
+ Finally, we investigate some properties of non affine term structure models.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20160624-084201-9</identifier>
+                    <identifier type="sys">HT019024405</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5930</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5930">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2016/trabelsi/dc1611.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5930"
+            DMDID="DMD_wuppertal_elpub_5930">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5930"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

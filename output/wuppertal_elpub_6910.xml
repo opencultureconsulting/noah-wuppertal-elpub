@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6910">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wie sind Vorstände motiviert? Eine Studie zur Ermittlung impliziter Motive der Unternehmenslenker ausgewählter DAX-Konzerne</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Marno, Feliks</displayForm>
+                        <namePart type="family">Marno</namePart>
+                        <namePart type="given">Feliks</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Seit mehr als fünf Jahrzehnten werden Zusammenhänge zwischen impliziten Motiven (Anschluss, Leistung, Macht) und dem Führungsverhalten sowie seinen wirtschaftlichen und sozialen Folgen wissenschaftlich untersucht. Die beiden Forschungsfelder (Motivations- und Führungsforschung) sind durch eine sehr hohe Komplexität geprägt. Bis heute existiert keine allgemeingültige Theorie der Führung, da u.a. die Anzahl intra- und interpersoneller sowie situativer Einflussfaktoren auf das Verhalten von Führungskräften und ihrer Mitarbeiter sehr hoch ist. Fachübergreifend wurde das Konzept der Motivation in der Führungsforschung nur ansatzweise analysiert.
+
+ Die vorliegende Arbeit untersucht mit einem interdisziplinären Ansatz implizite Motive ausgewählter Vorstandsvorsitzender von DAX-Konzernen. Bedingung für die Aufnahme in die Studie war es, dass die Konzerne im Zeitraum von 2007 bis 2011 dem Deutschen Aktienindex (DAX) zugehörten und vom gleichen Vorstandsvorsitzenden geführt wurden. Die impliziten Motive wurden durch die Auswertung von Interviews mit Vorständen mittels des Systems von Winter (1994) erhoben. Interviews haben sich in einem Auswahlverfahren als eine geeignete Quelle für die motivationale „Ferndiagnose“ erwiesen.
+
+ Die Studie ging von der Annahme aus, dass Vorstandsvorsitzende von DAX- Konzernen ein stark ausgeprägtes implizites Machtmotiv, ein gering ausgeprägtes implizites Anschlussmotiv und eine hohe Aktivitätshemmung (entspricht dem „leadership motive pattern“, „LMP“ nach McClelland &amp; Boyatzis, 1982) aufweisen, die nach Yukl (2010) von einem mittelstarken impliziten Leistungsmotiv ergänzt werden. Entgegen der Annahme waren das implizite Machtmotiv gering und das implizite Leistungsmotiv stark ausgeprägt. Wie angenommen, waren das implizite Anschlussmotiv gering und die Aktivitätshemmung hoch. Obwohl diese Motivkonstellation für Manager großer Unternehmen in der theoretischen und empirischen Motivationsforschung nicht typisch ist, hat die Analyse des aktuellen Forschungsstandes gezeigt, dass es vereinzelt Studien gibt, in denen die gleiche Motivkonstellation wie in der vorliegenden Studie bei Unternehmenslenkern nachgewiesen wurde (z.B. Chusmir &amp; Azevedo, 1992).
+
+ Die Erkenntnisse dieser Studie können neben weiteren zahlreichen Faktoren (z.B. Persönlichkeitseigenschaften, fachliche und soziale Kompetenzen, Führungsfähigkeiten, Unternehmenssituation) bei der Auswahl und Bewertung von Konzernführungskräften berücksichtigt werden.</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170511-112020-2</identifier>
+                    <identifier type="sys">HT019328399</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6910</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6910">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2017/marno/db1703.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6910"
+            DMDID="DMD_wuppertal_elpub_6910">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6910"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

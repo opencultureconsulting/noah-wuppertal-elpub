@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_890">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Reconstruction of the Primary Energy Spectrum from Fluorescence Telescope Data of the Pierre Auger Observatory</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Geenen, Heiko</displayForm>
+                        <namePart type="family">Geenen</namePart>
+                        <namePart type="given">Heiko</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-11-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Mit dem Pierre Auger Experiment wird zur Zeit das größte Luftschauerexperiment betrieben. Es befindet sich noch im Aufbau und die finale Konzeption sieht zwei Detektionsstandorte in den USA und Argentinien vor, um somit volle Himmelsabdeckung zu erlangen. Ziel des Experimentes ist es, die Energie, Art und Herkunft der ultrahoch-energetischen kosmische Strahlung mit zwei komplementäre Nachweistechniken zu untersuchen. Die Detektoranordnung auf der Südhemisphäre besteht zur Zeit (Stand Jul. 2007) aus mehr als 1400 Wasser-Cherenkovdetektoren am Boden (870 g cm-2). Die Fertigstellung des 3000 km² großen Oberflächendetektorkomplexes ist für Ende 2007 anvisiert mit einer finalen Konfiguration von mehr als 1600 ausgebrachten Tanks. Die Atmosphäre darüber kann mit 24 Fluoreszenz-Teleskopen beobachtet werden, die sich in vier Gebäuden am Rand des Oberflächenkomplexes befinden. In klaren mondlosen Nächten ist es mit dieser Anordnung möglich hybride Messungen von longitudinaler Schauerentwicklung und lateraler Teilchen-Dichteverteilung eines Schauers am Boden durchzuführen. Seit Februar 2007 sind alle Fluoreszenzteleskope in Betrieb. Ziel dieser Arbeit ist, das Energiespektrum der kosmischen Strahlen im Bereich von einigen 1017 eV bis hin zu 1020 eV zu rekonstruieren. Dies erlaubt einen Überlapp mit spektralen Resultaten anderer Experimente zu niedrigen Energien hin. Die Hybriddetektion liefert eine sehr genaue Geometrierekonstruktion und dadurch bedingt, eine gute Energieauflösung. Die Energieschwelle ist jedoch durch den Bodenkomplex auf &gt;1018 eV limitiert. Der Vorteil von monokularen Fluoreszenzdetektor Ereignissen (FD-mono) liegt darin, dass die Energieschwelle niedriger ist und im interessanten Bereich von 1017 eV liegt. Zusätzlich ist die momentane Statistik an FD-mono Ereignissen etwa anderthalb mal größer als von Hybridereignissen. Die Energieauflösung der FD-mono Ereignisse ist schlechter im Vergleich zu Hybridereignissen und die Detektorakzeptanz ist stark energieabhängig. Deshalb ist es für die Bestimmung des Energiespektrums nötig, Entfaltungsprozeduren anzuwenden, die sowohl die Effekte der limitierten Akzeptanz als auch der limitierten Auflösung berücksichtigen. Für diese Analyse wurden die FD-mono Ereignisse rekonstruiert. Das Rekonstruktionsverhalten wurde validiert und die Genauigkeit der Simulation durch Daten-MC Vergleiche in charakteristischen Observablen quantifiziert. Die Qualität verschiedener Entfaltungsansätze wurde verglichen und der Gold-Algorithmus ausgewählt. Zur finalen Entfaltung wurde ein besonderes MC-Sample mit Hilfe der Methode des importance samplings produziert. Die Unsicherheiten des finalen entfalteten Energiespektrums wurden mit Hilfe einer frequentistischen Betrachtungsweise abgeschätzt. Die absolute Energieskala des rekonstruierten Energiespektrums stimmt mit dem Kascade Grande Experiment bei 1017.5 eV innerhalb von 5% überein. Unterhalb von 1019 eV ist die Übereinstimmung mit dem HiRes Experiment innerhalb von 7%. Eine Knöchelstruktur im Spektrum der kosmischen Strahlung wird bei 1018.5 eV beobachtet. Die Ergebnisse werden diskutiert.</abstract>
+                    <abstract type="content" lang="eng">The Pierre Auger Observatory is the largest extensive air-shower (EAS) experiment in operation. It is still being constructed, and the final configuration will have detectors at the two sites Argentina and USA observing both celestial hemispheres. The aim of the experiment is to determine the energy, composition and origin of ultra-high energy cosmic-rays (UHECR) using two complementary detection techniques. The detector at the southern site presently contains more than 1400 (Jul. 2007) water-Cherenkov detectors at ground level (870 gcm-2). Completion of the 3000 km² large detector array is expected by the end of 2007 with finally more than 1600 tanks. The atmosphere above the site is observed by 24 fluorescence telescopes located in four buildings at the boundary of the array. During clear moon-less nights, this configuration permits hybrid measurement of both longitudinal development of an EAS and lateral particle density at ground. All fluorescence telescopes are fully operational since February 2007. The aim of this work is to reconstruct the cosmic ray energy spectrum between a few 1017 eV up to 1020 eV. This would provide an overlap to spectral results from other experiments at lower energies. The hybrid detection provides an accurate geometry determination and thereby a good energy resolution. However, the energy threshold is limited to the threshold of the surface array: larger than a few 1018 eV. The advantage of FD-monocular events (FD-mono) is a lower energy threshold in the aimed 1017 eV regime. In addition, the present FD-mono exposure is about 1.5 times larger than the hybrid one. However, the energy resolution of FD-mono events is worse compared to hybrid, and the detector acceptance is strongly energy dependent. Therefore, the determination of the energy spectrum requires an unfolding procedure, which considers both the limited acceptance and the limited resolution. In this analysis the FD-mono data are reconstructed. The reconstruction performance is validated and the simulation accuracy is quantified in terms of data-MC agreement of characteristic observables. The performance of different unfolding approaches are compared and the Gold algorithm is selected. For the final unfolding a dedicated kernel-MC is generated using the method of importance sampling. The uncertainties of the final unfolded energy spectrum are estimated using a frequentist approach. The absolute energy scale of the measured energy spectrum agrees with the Kascade Grande experiment within 5% at 1017.5 eV. The agreement with the HiRes experiment below 1019 eV is 7%. An ankle structure is observed at about 1018.5 eV. Results are discussed.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20070880</identifier>
+                    <identifier type="sys">HT015367600</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_890</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_890">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2007/geenen/dc0715.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_890"
+            DMDID="DMD_wuppertal_elpub_890">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_890"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

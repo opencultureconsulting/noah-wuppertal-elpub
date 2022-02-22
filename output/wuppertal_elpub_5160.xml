@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5160">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Model-based Algorithm Development with Focus on Biosignal Processing</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Yao, Yu</displayForm>
+                        <namePart type="family">Yao</namePart>
+                        <namePart type="given">Yu</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In recent years, the development of cheap and robust sensors combined with the ever increasing availability of the internet led to a revolution in information technology, giving rise to an amount of data, which was unimaginable just a decade ago. This explosion in data lead to an increased demand for algorithms for processing this data. However, an often overlooked aspect is that with ever sophisticated algorithms there is associated a demand for equally sophisticated mathematical modelling. In this thesis, we explore the interaction between algorithm design and modelling. 
+ Although, the models and methods discussed here are not limited to any single domain of application, we will base our discussion on example applications from the domain of biomedical engineering. This is because the analysis of physiological time series is characterised by two problems which help to highlight the importance of modelling. First, the high noise level of biological signals requires strong regularization, which can be provided via a model. Second, in many medical applications the value of interest is not directly observable. Thus, these latent variables have to be estimated, e.g. with the help of a model. 
+ In the course of our discussion, we will encounter two major modalities. The rst one is Ballistocardiography (BCG), a modality often used in home monitoring applications, which is based on simple pressure sensors, yielding a scalar signal. The second modality is functional magnetic resonance imaging (fMRI), a complex and highly sophisticated method, capable of generating images of brain functionality. 
+ In the rst half of this thesis, we will focus on signal separation and denoising methods for BCG. The performance of these methods is then veried with model generated data, which provides a very common example of how modelling interacts with algorithm design. However, the relationship between algorithms and modelling goes much deeper, since new insights gained through better signal processing methods can also inspire new models. This can be seen from the improved probabilistic BCG model, which emerged from the results of the BCG signal separation and denoising method. Finally, the new model opens the possibility for probabilistic higher level analysis of the BCG signal, which exemplies how improvements in modelling leads to improved algorithms. 
+ In the latter half of the thesis, we will focus on embedded clustering for fMRI data, which allows us to perform model inversion and clustering at the same time. Here we see that although there are great dierences between the two modalities BCG and fMRI, the model based approach reveals how methods developed for BCG can be applied to fMRI. This again demonstrates the importance of a model based view on algorithm design.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20150904-110417-0</identifier>
+                    <identifier type="sys">HT018776042</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5160</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5160">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2015/yao/dc1515.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5160"
+            DMDID="DMD_wuppertal_elpub_5160">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5160"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_298">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Nichtbeschattbarkeit durch Dimensionsvariabilität in dynamischen Systemen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sinde, Erik</displayForm>
+                        <namePart type="family">Sinde</namePart>
+                        <namePart type="given">Erik</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-02-16</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Numerical simulations of dynamical systems often rely inexplicitely on the hypothesis that the simulated pseudo-trajectory represents a true trajectory of the system in the sense that both the pseudo-trajectory and the true trajectory stay close to each other for arbitra-rily long time. This is guaranteed to hold for hyperbolic systems by the shadowing lemma (Anosov 1967, Bowen 1975). However, this is not the case in general. Virtually, all real systems which physicists encounter, are nonhyperbolic, and in most systems the shado-wing property does not hold. Dynamical systems with unstable dimension variability have recently gained interest as a source both of nonhyperbolicity and nonshadowability. Some recent publications[7] claim that the nonshadowability due to unstable dimension variability is particularly severe. 
+
+In this work for a very simple dynamical system driven by one out of three input systems is investigated. Numerical evidence is presented, that all the combined systems are prac-tically unshadowable due to the same mechanism, although only two of them can have unstable dimension variability, the third being a quasiperiodic map which has no periodic orbits. 
+
+In order to show numerically for the first and second input system that both singly and doubly unstable periodic orbits are embedded into the attractor, a new method is applied to one of the systems to show that the attractor fills a region of the phase space densely. This method consists of iterating particular lines which are known to be subsets of the attractor instead of points and consecutively applying a Poincaré surface-of-section-like technique. For one of the studied maps this can reduce the dimensionality of the system by one. 
+
+For the three model systems, the probability distribution of the shadowing times is inve-stigated through simulation. Additionally, a new deterministic measure to quantify the severeness of nonshadowability due to unstable dimension variability is introduced and applied to the model systems. This quantity estimates by how many digits the calculus precision has to exceed the required closeness to a true trajectory on average for a given trajectory length. It is argued and verified numerically that for the case of unstable dimen-sion variability the number of additionally needed calculus precision digits is proportional to the logarithm of the trajectory length. Thereby even pseudo-trajectories with arbitrarily small one step errors cannot be shadowed by true trajectories for arbitrarily long time. 
+
+The nonshadowability can however in the same time be rigorous and very small, so that for some practical purposes this system can be regarded as almost shadowable. On the other hand, the same mechanism can produce similar results for systems where unstable dimension variability does not occur. In those systems there is an upper limit to the addi-tionally needed calculus precision. This limit can be so large that for practical purposes this system behaves as a nonshadowable one although it is shadowable in the sense of the shadowing lemma.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20010124</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_298</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_298">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-392/d080004.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_298"
+            DMDID="DMD_wuppertal_elpub_298">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_298"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

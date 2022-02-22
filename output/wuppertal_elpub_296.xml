@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_296">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Messung und Modellierung von Gezeitenwellen in der mittleren Erdatmosphäre: Ergebnisse des CRISTA–Experiments</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Oberheide, Jens</displayForm>
+                        <namePart type="family">Oberheide</namePart>
+                        <namePart type="given">Jens</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-04-10</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">High resolution stratospheric and mesospheric temperature measurements from the CRyogenic Infrared Spectrometers and Telescopes for the Atmosphere (CRISTA) ex-periment taken during the Space Shuttle missions STS 66 in November 1994 and STS 85 in August 1997 are analyzed for tidal signatures in the altitude range from 20-90 km. Background fields corresponding to the flight conditions are deduced from the CRISTA data and used as input to an updated version of the Global Scale Wave Model (GSWM) that includes revised tidal heating and dissipation schemes. The CRISTA background fields include temperature, ozone, pressure, mass density and geostrophic wind fields (in geostrophic balance with the CRISTA temperatures). These model updates signifi-cantly improve the agreement with the CRISTA observations at all latitudes and al-titudes. The determination of the GSWM capability for reliable predictions of phases and amplitudes of the migrating diurnal tide when realistic atmospheric background conditions are used, provides some guidance in the way such models should be used in the future. Furthermore, the understanding of the diurnal cycle of chemical active species requires an accurate tidal prediction, due to the temperature dependencies of the reactions and the transport processes associated with the tides.
+ An examination of remaining observation/model differences shows the need for an improved dissipation scheme in the GSWM model but also provides insight in non-linear wave-wave coupling processes. Particularly the wind field update accounts for the most profound model improvements. Daily maps of horizontally and vertically resolved geostrophic wind fields are inferred from CRISTA temperature and pressure data. The comparisons with ground based, and balloon- and rocket borne measurements show that geostrophic wind fields taken from high spatial resolution satellite borne measurements are a good approximation for the prevailing winds up to mesopause heights. Therefore, they may be used as an input for further modeling efforts particularly in the mesosphere where no wind data from standard analyses are available.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20010270</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_296</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_296">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-390/d080008.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_296"
+            DMDID="DMD_wuppertal_elpub_296">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_296"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_7300">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Beiträge zu der Wirkung von tieffrequentem Lärm auf den Menschen und zu einer abgestimmten aktiven Lärmminderung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Weigler, Tobias</displayForm>
+                        <namePart type="family">Weigler</namePart>
+                        <namePart type="given">Tobias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Menschen reagieren unterschiedlich auf tieffrequenten Lärm (TFL). Während viele nicht beeinträchtigt werden, gibt es immer wieder Einzelpersonen, welche auch auf tieffrequente Schallereignisse mit geringem Schalldruckpegel reagieren und in manchen Fällen über Schlaflosigkeit, Konzentrationsschwäche und in seltenen Fällen sogar Angstzustände klagen. Dieses Phänomen ist schon länger bekannt, gewinnt aber immer mehr an Bedeutung, da mit vielen neuen Technologien oft auch Lärm verbunden sein kann. So rücken zum Beispiel mit Blockheizkraftwerken und Windenergieanlagen potenzielle Quellen von tieffrequentem Lärm näher in die moderne Wohnlandschaft hinein. Gerade in ruhigen Wohngebieten wird dies besonders auffällig, da hier andere Lärmquellen wie Personen- oder Verkehrslärm seltener vertreten sind.
+ In dieser Arbeit werden neuartige Ansätze für Hörversuche vorgestellt, welche die hervorgerufene Lästigkeit bewerten sollen. Dabei ist das Ziel der Untersuchungen zum einen Ursachen für die besondere Bewertung der empfundenen Belastung einzelner, für tieffrequenten Lärm sensitiver Personen aufzutun, zum anderen die Versuchsmethodik genauer zu betrachten und ihre Anwendbarkeit in potentiellen späteren und größer angelegten Hörtests zu bewerten. Mit Hilfe der hier vorgestellten multimodalen Testmethoden wird die kombinierte Wirkung von auditiven und visuellen Reizen ebenso untersucht wie das gemeinsame Auftreten von Lärm und Vibration. Es wird gezeigt, dass die Kombination solcher Reize sowohl verstärkende Wirkung haben, als auch die Wahrnehmung der Einzelreize verschleiern kann. In dem abschließenden Hörversuch wird das Elektroenzephalogramm (EEG) als Testmethode eingeführt, um eine von der Probandeneinschätzung unabhängigen Versuchsverlauf zu erhalten und weitere Einblicke in die Reaktion des Menschen auf tieffrequente auditive Stimuli zu gewinnen. Dabei wird deutlich, dass in den Gehirnreaktionen, welche bei einigen Probanden auffällige Unterschiede zum Rest der Versuchsgruppe aufweisen, ein Indiz auf die besondere Wahrnehmung von TFL liegen kann. Weiter wird der verstärkende Einfluss, den Eigenschwingungen in Wohnräumen (sog. Raummoden) auf tieffrequenten Schall ausüben, gezeigt. Dies kann zu einer erhöhten Belastung bei ohnehin schon empfindlicheren Personen führen. Um dem entgegen zu wirken wird die Methode der aktiven Lärmkontrolle (ANC) eingeführt. Dabei wird hier der neue Ansatz vorgestellt, ein ANC System durch lineare Prädiktionsmethoden zu erweitern, so dass für Raummoden eine verbesserte Dämpfungswirkung erzielt werden kann.</abstract>
+                    <abstract type="content" lang="eng">Different people react to low frequency noise (LFN) in different ways. While some are not bothered at all, other persons react to low frequency noise even with small sound pressure levels and sometimes suffer from insomnia, lack of concentration and even anxiety states. This phenomenon is known for some time, but continuously gains importance because many new technologies are connected to new noise sources. Block-type thermal power stations and wind energy plants are becoming part of our living environment rapidly and are known to emit LFN. This becomes more of a problem for quieter areas where the noise is not masked by other, more common sources like traffic.
+ In this thesis new approaches for listening tests considering said noises are proposed. One goal of these studies is to gain insight into some peoples special low frequency noise perception. The other is to develop and evaluate different new test methods for these listening tests for use in studies yet to be planned. Using the proposed tests the combined effect of auditory and visual stimuli are examined as well as the simultaneous presentation of low frequency noise and vibration. It will be shown that combined stimuli can enhance each others perception as well as shadow a less prominent stimulus. The last listening test conducted uses an electroencephalogram (EEG) to obtain the perceived annoyance in another then the subjects statement. Within this study occur special EEG patterns for some subjects sensitive to LFN, indicating a particular LFN perception.
+ Furthermore the amplification of low frequency sound pressure inside of rooms by their natural resonance is elaborated. This can lead to enhanced LFN perception in sensitive people. To counter this behaviour a new approach for active noise control (ANC) systems in closed rooms is introduced using linear prediction methods resulting in enhanced damping of dominant room modes.</abstract>
+                    <subject>
+                        <topic>Acoustics</topic>
+                        <topic>Low frequency noise</topic>
+                        <topic>Active Noise Control</topic>
+                    </subject>
+                    <classification authority="ddc">600</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170927-095341-1</identifier>
+                    <identifier type="sys">HT019461517</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_7300</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_7300">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2016/weigler/de1615.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_7300"
+            DMDID="DMD_wuppertal_elpub_7300">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_7300"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_518">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Flüssigkristalline Polymere und Copolymere auf Thiophenbasis</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Asawapirom, Udom</displayForm>
+                        <namePart type="family">Asawapirom</namePart>
+                        <namePart type="given">Udom</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003-08-08</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Im Rahmen dieser Arbeit wurde die Synthese und Charakterisierung neuartiger konjugierter Homo- und Copolymere aus Thiophen-Bausteinen diskutiert, die potentielle Anwendungsmöglichkeiten in organischen Feldeffekttransistoren (OFETs) besitzen. Zur Darstellung dieser Polymere wurden verschiedene übergangsmetallkatalysierte Aryl-Aryl-Kupplungsmethoden eingesetzt. 
+ Die elektronreichen Thiophen-Analoga der Polyfluorene (PF), sog. Poly(cyclopentadithiophen)e (PCPDT), wurden erfolgreich durch reduktive Polykondensation dargestellt. PCPDT weist eine niedrige Energielücke von ca. 2,2 eV (vgl. PF ca. 3,3 eV) auf. Die Bandlücke kann durch statistische Copolymerisation mit Fluoren-Monomeren fein abgestimmt werden. 
+ 
+ Die nächsten Zielpolymere waren Fluoren/Oligothiophen- bzw. Fluoren/Dithienylvinylen-Copolymere. Ein Teil dieser Copolymere zeigt die Existenz stabiler, nematisch flüssigkristalliner Phasen, die sich bei Übergangstemperaturen im Bereich zwischen 219 und 233°C ausbilden. Die Art der Seitenketten spielt dabei nur für den Wert der Glasübergangstemperatur eine Rolle. Mit zunehmender Länge der Seitenketten sinkt die Glasübergangstemperatur, während sie mit zunehmender Länge des Oligothiophen-Blocks steigt. Die Glasübergangstemperaturen der Fluoren/Oligothiophen-Copolymere liegen dabei zwischen 67 und 120°C. Eine Reihe der Copolymere zeigen ein ausgeprägtes Transistorverhalten, welches mit dem von Poly(3-alkylthiophen) als Standard verglichen wurde. Die Ladungsträgerbeweglichkeiten der Copolymere im unorientierten Zustand liegen im Bereich von 3×10-5 bis 9×10-4 cm²/Vs. Erste Orientierungsversuche der Copolymere auf organischen Photoorientierungsschichten (PAP) verliefen erfolgreich. Dabei wurden in Absorptions maximale dichroitische Verhältnisse von bis zu 15 beobachtet. 
+ Desweiteren konnten ABA-Triblockcopolymere aus Thiophen- und Fluoren-Bausteinen erstmals in einer neuartigen, mehrstufigen Syntheseroute hergestellt werden. Die Länge des mittleren Fluoren-Blockes wurde über das Mol-Verhältnis von monofunktionellen Endcappern zu bifunktionellem Fluoren-Monomer eingestellt. AFM-Aufnahmen der Blockcopolymere auf Quarzträgern zeigen nach Temperung bei 150°C die Bildung von Nanostrukturen in Form von isolierter Polymerinseln mit einem Durchmesser von 50-250 nm an. Diese Eigenschaft kann bei der Konstruktion organischer Solarzellen auf Polymerbasis ausgenutzt werden.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20030350</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_518</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_518">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-613/d090304.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_518"
+            DMDID="DMD_wuppertal_elpub_518">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_518"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

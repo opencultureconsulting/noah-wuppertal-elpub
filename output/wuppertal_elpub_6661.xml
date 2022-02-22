@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6661">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Elektrochemische Abscheidung und Charakterisierung von Polymeren auf FTO beschichteten Gläsern</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Rendón Enríquez, Ibeth Nathaly</displayForm>
+                        <namePart type="family">Rendón Enríquez</namePart>
+                        <namePart type="given">Ibeth Nathaly</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Es wurden mehrere leitende Polymere durch potentiostatisch oxidative Elektropolymerisation (Chronoamperometrie) mit einem selbstgebauten Potentiostat, der mit einer 3-Elektroden-Anordnungs-Zelle verbunden war, synthetisiert. Die Monomere und die jeweiligen Polymere wurden mit einem kommerziellen Potentiostat/Galvanostat cyclovoltammetrisch charakterisiert. Optische und morphologische Eigenschaften der abgeschiedenen Polymerschichten wurden durch UV-VIS-Spektralphotometrie (elektrochromes Verhalten) bzw. durch Tapping-Modus der Rasterkraftmikroskopie (RKM) charakterisiert. Mit den synthetisierten Polymeren wurden elektrochrome Fenster und organische Bilayer-Solarzellen gebaut und untersucht.</abstract>
+                    <abstract type="content" lang="eng">Conducting polymers were synthesized by potentiostatic oxidative electropolymerization (chronoamperometrie) using a homemade potentiostat connected to a 3-electrode cell. The monomers and their corresponding polymers were cyclovoltammetric characterized using a commercial potentiostat/galvanostat. Optical and morphological properties of polymer films deposited on fluor tin oxide (FTO) electrodes were characterized by UV-VIS spectrophotometry (electrochromic behavior) and tapping mode atomic force microscopy (AFM), respectively. The synthesized polymer films were used in the fabrication of electrochromic windows and organic bilayer solar cells.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170210-143302-1</identifier>
+                    <identifier type="sys">HT019288400</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6661</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6661">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2016/rendonenriquez/dc1637.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6661"
+            DMDID="DMD_wuppertal_elpub_6661">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6661"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

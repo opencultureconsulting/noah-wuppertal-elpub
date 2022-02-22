@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_884">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Anbindung der Detektorkontrolle des ATLAS-Pixeldetektors an das Datennahmesystem und die Conditions-Datenbank sowie erste Studien zur Rekonstruktion von K0s Zerfällen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Imhäuser, Martin</displayForm>
+                        <namePart type="family">Imhäuser</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-07-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Im Jahr 2007 wird am europäischen Kernforschungszentrum CERN mit dem LHC der bislang leistungsfähigste Speicherring der Welt mitsamt vier Großexperimenten seinen Betrieb aufnehmen. Das ATLAS-Experiment wird mit einem Universaldetektor eines dieser Experimente sein. Durch die steigende Komplexität und zunehmende Größe der Teilchendetektoren sind die Anforderungen an eine Überwachung und Kontrolle der Experimente nur noch durch umfangreiche und leistungsstarke Detektorkontrollsysteme zu erfüllen. 
+Neben der Einbindung der Detektorgeometrie in das Detektorkontrollsystem des ATLAS Pixeldetektors als geografischer Ansatz, richtet sich der Hauptaugenmerk dieser Arbeit auf die Anbindung des Pixel Detektorkontrollsystems an das ATLAS Datennahmesystem und die Behandlung der Kommunikation zwischen beiden Systemen sowie die Untersuchung einer Speichermethode von Kenngrößen in einer Conditions-Datenbank. 
+Nachdem in Kapitel 1 ein kurzer Überblick über die zugrunde liegende Physik gegeben wird, befasst sich Kapitel 2 mit der Beschreibung des Large Hadron Colliders und des ATLAS-Experiments. Die allgemeine Architektur und die Organisation des ATLAS Detektorkontrollsystems wird in Kapitel 3 beschrieben. Anschließend werden die Komponenten des Pixel Detektorkontrollsystems vorgestellt. Die Definition des geografischen Ansatzes ist Thema von Kapitel 4. Kapitel 5 widmet sich der Kommunikation zwischen dem Pixel Detektorkontrollsystem und dem Datennahmesystem des ATLAS-Experiments. Die Anbindung der Pixel Detektorkontrolle an eine Conditions-Datenbank wird in Kapitel 6 diskutiert. Die vorliegende Arbeit abschließend, befasst sich Kapitel 7 mit einer Analyse des Zerfalls K0s-&gt;pi+pi- und erörtert die daraus resultierenden Ergebnisse.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20060341</identifier>
+                    <identifier type="sys">HT014795616</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_884</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_884">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2006/imhaeuser/dc0608.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_884"
+            DMDID="DMD_wuppertal_elpub_884">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_884"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

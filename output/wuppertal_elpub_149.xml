@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_149">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Arbeit im Call Center - Tätigkeitsstrukturen, Belastungen und Ressourcen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Timm, Elke</displayForm>
+                        <namePart type="family">Timm</namePart>
+                        <namePart type="given">Elke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003-08-05</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Call Center-Dienstleistungen sind in Deutschland zu einem bedeutenden Wirtschaftsfaktor gewachsen und nehmen mittlerweile einen hohen Stellenwert auf dem Markt ein. Während sich eine Vielzahl von Untersuchungen im Call Center-Bereich mit den technischen oder betriebswirtschaftlichen Aspekten von Call Center-Organisationen beschäftigt, werden in dieser Dissertation die Arbeits- und Tätigkeitsstrukturen im Telefonservice aus arbeitspsychologischer Perspektive beleuchtet. 
+ Im Vordergrund steht die Analyse und Bewertung der Arbeitsanforderungen sowie der personalen und organisationalen Ressourcen im Call Center. Zusammenhänge zwischen der Situation am Arbeitsplatz und dem Verhalten bzw. Wohlbefinden der Beschäftigten werden theoretisch beschrieben und empirisch untersucht. Dabei zeigt sich, dass viele der untersuchten Arbeitsplätze nur geringe Anforderungen an die Beschäftigten stellen und die Arbeit durch kurzzyklische, routinierte Arbeitsabläufe mit wenig Tätigkeitsspielräumen gekennzeichnet ist. Kommunikationsanforderungen sind sowohl in qualitativer als auch quantitativer Hinsicht relativ hoch, wodurch gerade Neueinsteiger häufig fehlbeansprucht sind. 
+ Um differenzierte Aussagen über das Belastungs- und Beanspruchungspotenzial von Call Center-Arbeit treffen zu können, wird ein Klassifizierungsschema für Call Center-Tätigkeiten vorgeschlagen, das neben den Arbeitsbedingungen auch Tätigkeitsstrukturen erfasst. In Abhängigkeit der Tätigkeitstypen können verschiedene Aufgabenschwerpunkte sowie unterschiedliche Belastungspotenziale nachgewiesen werden, die unterschiedliche Ansätze zur Gestaltung von Arbeit im Call Center implizieren.</abstract>
+                    <classification authority="ddc">150</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Human- und Sozialwissenschaften » Psychologie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20030328</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_149</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_149">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-322/d030301.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_149"
+            DMDID="DMD_wuppertal_elpub_149">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_149"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

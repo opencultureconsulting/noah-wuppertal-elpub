@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3831">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Analyse fettchemischer Produkte mittels comprehensiver zweidimensionaler Flüssigchromatographie gekoppelt mit der Massenspektrometrie (LCxLC-MS)</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Elsner, Victoria</displayForm>
+                        <namePart type="family">Elsner</namePart>
+                        <namePart type="given">Victoria</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Fatty alcohol derivatives are used as surfactants and applied in commercial formulations like laundry detergents, cleaning agents or cosmetic products as complex mixtures. Different classes of surfactants are combined in formulations to improve the properties of the product such as cleaning capacity or foam formation. Furthermore, the individual surfactant classes already consist of a complex mixture of homologues because of the raw materials used and the production process. Due to the complexity of this kind of samples, an analytical method is necessary which can detect all individual substances as well as qualify and quantify them. 
+
+ In this work, it has been shown that complex mixtures consisting of anionic, nonionic and amphoteric surfactants can be separated with HILIC by substance class. Furthermore, a separation by EO homologues was achieved for the ethoxylated substances while a separation by alkyl chain length distribution was only obtained for the betaines. In addition, the application of a reversed phase material showed a very good separation by alkyl chain length distribution whereas the substance classes could not be separated from each other. The use of different organic mobile phases can also lead to a separation by EO homologues, if needed. But exemplified by a special phase material for the analysis of surfactants, it was shown that the onedimensional separation by substance class, alkyl chain length distribution and EO homologues of a complex surfactant mixture leads to coelutions and a very complicated data evaluation. 
+
+ Since the one-dimensional separation did not lead to the desired result, comprehensive two-dimensional liquid chromatography (LCxLC) was implemented. Firstly, the Neue test was carried out for a closer characterization of the reversed phase materials used. While the separation in the first dimension was performed by polar interactions of a HILIC phase, a C₈ diol phase showed the highest orthogonality when used as second dimension. With this column combination, a separation by substance class and EO homologues was achieved in the first dimension, while the separation in the second dimension led to a further separation by alkyl chain length distribution. Finally, the developed method allowed the separation of about 110 individual substances. 
+
+ The LCxLC method was successfully applied to the analysis of several real samples from the home care sector. Furthermore, analyses for the determination of the reproducibility of peak area and retention time showed that the reproducibility of the retention time in the first dimension is dependent on the retention time. Apart from a small sector in the chromatogram where broad signals were obtained, the reproducibility of the retention time in the first dimension resulted in values below 10%. The retention time in the second dimension showed a very good reproducibility with a relative standard deviation below 7% for all substances. Concerning the reproducibility of the peak area, a relative standard deviation below 7% was achieved for fatty alcohol ethoxylates (FAEO), fatty alcohol ether sulfates (FAES) and betaines. For the fatty alcohol sulfates (FAS) and alkyl polyglucoside (AG), higher values were achieved, which is due to an insufficient and non-reproducible ionisation. Regarding the betaines and fatty alcohol ethoxylates, it was shown that a quantification of the surfactants in complex mixtures is possible with an external calibration or the standard addition method.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20140113-115443-6</identifier>
+                    <identifier type="sys">HT018166662</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3831</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3831">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2013/elsner/dc1319.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3831"
+            DMDID="DMD_wuppertal_elpub_3831">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3831"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

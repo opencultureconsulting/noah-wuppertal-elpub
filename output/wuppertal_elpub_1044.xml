@@ -1,0 +1,66 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1044">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Eine </nonSort>
+                        <title>methodisch-programmatische Arbeit zur psychologischen Meinungsforschung</title>
+                        <subTitle>Multivariate Zusammenhänge und kausale Einflüsse in der Einstellung gegenüber Gentechnik und Genforschung</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Marfels, Britta</displayForm>
+                        <namePart type="family">Marfels</namePart>
+                        <namePart type="given">Britta</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-08-06</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Am Beispiel von Variablen aus dem Gebiet der Meinungsforschung wird exemplarisch eine umfassende Anwendung multivariater Verfahren zur Datenauswertung vorgestellt. Trotz der häufigen multivariaten Methodik in der nicht-experimentellen psychologischen Forschung finden Verfahren, die über die Faktorenanalyse hinausgehen, wie z.B. Diskriminanz- und Kanonische Analysen sowie die verschiedenen Formen der Kausalanalysen nur selten Anwendung. Noch seltener werden die bei diesen Verfahren anfallenden weiterführenden Daten, wie z.B. die Faktorscores über die Versuchspersonen, untersucht, obwohl Faktorscores Zerlegungen der Ausgangsvariablen in zumeist linear voneinander unabhängige Basisvariablen darstellen. 
+
+ Mit dieser Arbeit soll gezeigt werden, welche Möglichkeiten der Informationsgewinnung die wichtigsten und erschöpfendsten multivariaten Verfahren bieten, wenn sie in einer gestaffelten Folge der Exploration eines Verbandes gegebener Datensätze zum Einsatz kommen. 
+
+ Gegenstand der Studie ist die Akzeptanz der Genforschung von Patienten mit chronisch entzündlichen Darmerkrankungen und einer nicht erkrankten Kontrollgruppe (N=608). Für die Untersuchung wurde ein neuer Einstellungsfragebogen mit 165 Aussagen aus verschiedenen Bereichen der Gentechnik entwickelt. Neben der ungerichteten multivariaten Auswertung wurden nicht-lineare kausale Zusammenhänge mit der Kausal-Dominanz-Analyse (CDA) von Lehmann (1980) untersucht.</abstract>
+                    <abstract type="content" lang="eng">Based on variables used in opinion polls, the present study offers an example of the broad application of multivariate methods for data analysis. Despite the frequent use of multivariate methods in non-experimental psychological research, methods that go beyond factor analysis, such as discriminant, canonical or various forms of causal-dominance analysis are only rarely used. Even less common is the investigation of additional data that stem from such multivariate techniques, such as factor scores, even though factor scores represent decompositions of the original input variables into base components that are linearly independent. 
+
+ The present study aims to demonstrate the potential for information retrieval offered by the most important and most exhaustive multivariate approaches when they are applied in an exploratory manner to given data in a hierarchical order. 
+
+ The topic of this study is the acceptance of genome research by patients suffering from chronic inflammatory intestinal diseases in comparison with a healthy control group (N=608).To test their attitudes, a new questionnaire containing 165 items on various aspects of genome research was developed for this project. In addition to non-directional multivariate analysis, non-linear causal relationships were examined through the causal-dominance analysis (CDA) developed by Lehmann (1980).</abstract>
+                    <classification authority="ddc">150</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Human- und Sozialwissenschaften » Psychologie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20070739</identifier>
+                    <identifier type="sys">HT015264107</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1044</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1044">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbg/psychologie/diss2006/marfels/dg0606.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1044"
+            DMDID="DMD_wuppertal_elpub_1044">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1044"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

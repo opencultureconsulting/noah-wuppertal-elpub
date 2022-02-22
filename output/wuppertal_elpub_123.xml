@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_123">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Interaktives, problemlösendes Denken im vernetzten Computerspiel</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kraam-Aulenbach, Nadia</displayForm>
+                        <namePart type="family">Kraam-Aulenbach</namePart>
+                        <namePart type="given">Nadia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003-05-05</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Innerhalb der regen Diskussion zur Wirkung von Computerspielen ist die Untersuchung interaktiver Denk- und Problemlösungsprozesse in virtuellen Spielwelten bisher vernachlässigt worden. 
+Dabei handelt es sich um einen bedeutenden Aspekt dieses Mediums, weil insbesondere in Strategiespielen problemlösendes Denken vom Spieler gefordert wird und die Bewältigung der im Spielverlauf auftretenden Probleme den Reiz der Computerspiele ausmacht. Der Grund, warum der spezielle Aspekt interaktives Denken im vernetzten Computerspiel bisher generell in die Forschungsbemühungen nicht einbezogen worden ist, liegt u.a. in der Komplexität des Untersuchungsgegenstandes. Die fortschreitende Entwicklung der Computertechnologie ermöglicht es den Programmierern der Bildschirmspiele immer komplexere, anspruchsvollere Strategiespiele im Mehrspielermodus zu entwickeln, die eine neue Form der Interaktivität zulassen. Der Spieler muss nicht mehr die starren, algorithmisch festgelegten Operationen des Computergegners nachvollziehen, sondern das Spielgeschehen wird um menschliche Handlungsmöglichkeiten erweitert und kann sich ein wenig aus der Begrenztheit computergenerierter Handlungssequenzen lösen. Um diese Forschungslücke zu schließen, war eine differenzierte empirische Untersuchung zur Erforschung des Umgangs mit komplexen Problemen notwendig. 
+Die vorliegende Arbeit analysiert, wie interaktive Denk- und Problemlöseprozesse speziell in Strategiespielen im Netzwerkmodus ablaufen. Der Fokus meiner Fragestellungen richtet sich dabei auf die Interaktionsanalyse und das Ermitteln von Einflussfaktoren auf den Spielerfolg. 
+Die empirischen Ergebnisse belegen, dass sich erfolgreiche Spieler durch spezifische kognitive Leistungen auszeichneten.</abstract>
+                    <classification authority="ddc">150</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Human- und Sozialwissenschaften » Psychologie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20030181</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_123</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_123">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-319/d030203.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_123"
+            DMDID="DMD_wuppertal_elpub_123">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_123"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

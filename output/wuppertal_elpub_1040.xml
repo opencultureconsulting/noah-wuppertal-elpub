@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1040">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Evaluation von Gedächtnisfunktionen bei Patienten mit Schizophrenie unter Verwendung funktioneller Magnetresonanztomografie</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Heinze, Sibylle</displayForm>
+                        <namePart type="family">Heinze</namePart>
+                        <namePart type="given">Sibylle</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005-06-06</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Ziel der vorliegenden Arbeit war die Untersuchung der Gedächtnisfunktionen von Patienten mit Schizophrenie im Vergleich zu gesunden Kontrollpersonen mittels funktioneller Magnetresonanztomografie (fMRT) unter Verwendung eines Wortlisten-Lernparadigmas. Es wurde davon ausgegangen, dass Patienten eine niedrigere Behaltensleistung für Wörter als Kontrollpersonen aufweisen. Im Zusammenhang hierzu wurde erwartet, dass Patienten mit Schizophrenie sich gegenüber gesunden Kontrollprobanden während des verbalen Encodierens durch verminderte Aktivierung linksfrontaler und –temporaler Hirnregionen auszeichnen. 
+Die Patienten gaben von den im Rahmen der fMRT-Untersuchung zu lernenden Wortlisten signifikant weniger Wörter wieder als die gesunden Kontrollpersonen. Das erfolgreiche verbale Encodieren ging innerhalb der Kontrollgruppe mit linkstemporaler, medial frontaler sowie rechtstemporaler, -parietaler und –occipitaler Aktivierung einher. Dieses Aktivierungsmuster lässt auf eine räumlich-visuelle Verarbeitung der Wörter seitens der Kontrollpersonen schließen, welche mit einer höheren Behaltensleistung assoziiert ist. 
+Innerhalb der Patientengruppe ging das erfolgreiche verbale Encodieren einher mit linksfrontaler, -temporaler und parietaler Aktivierung sowie mit Aktivierung des anterioren Gyrus cinguli. Dieses Aktivierungsmuster entspricht den oftmals von gesunden Kontroll-personen während des verbalen Lernens aktivierten Regionen – mit allerdings gering ausgeprägter Aktivierung des Frontalcortex. Die zusätzliche Aktivierung des anterioren Gyrus cinguli innerhalb der Patientengruppe lässt eine erhöhte Anstrengung der Patienten während des erfolgreichen Encodierens vermuten.</abstract>
+                    <abstract type="content" lang="eng">Aim of the present study was the investigation of verbal memory function in patients with schizophrenia. Patients and healthy volunteers were instructed to learn word lists during an event-related functional magnetic resonance imaging (fMRI) measurement. Patients with schizophrenia were expected to reproduce a lower number of words than controls. Furthermore, it was hypothesized that patients with schizophrenia showed less left prefrontal and left temporal activation during successful verbal encoding compared to controls. 
+Patients with schizophrenia reproduced significantly less words than healthy controls. In controls, successful verbal encoding was related to bilateral temporal, medial frontal, right parietal, and right occipital activation. This pattern of activation might be interpreted as visuo-spatial processing of words associated with higher memory performance. In patients, successful verbal encoding was related to left prefrontal, left temporal, left parietal and anterior cingulate activation. This pattern of activation has partly been reported for healthy controls during verbal encoding – including larger clusters of frontal activation. The additional anterior cingulate activation in patients might reflect their increased effort during successful verbal encoding.</abstract>
+                    <classification authority="ddc">150</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Human- und Sozialwissenschaften » Psychologie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20050162</identifier>
+                    <identifier type="sys">HT014443831</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1040</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1040">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbg/psychologie/diss2005/heinze/dg0502.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1040"
+            DMDID="DMD_wuppertal_elpub_1040">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1040"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

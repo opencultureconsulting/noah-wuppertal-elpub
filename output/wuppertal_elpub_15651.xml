@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_15651">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Studien zur Totalsynthese von Presilphiperfolan-1-ol und Synthese von Estradiolderivaten für die Radionuklidtherapie</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jaschinski, Marcel Andreas</displayForm>
+                        <namePart type="family">Jaschinski</namePart>
+                        <namePart type="given">Marcel Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-17</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Der erste Teil der vorliegenden Dissertation umfasst Untersuchungen zur Totalsynthese des Sesquiterpens Presilphiperfolan-1-ol. Die Naturstoffklasse zeichnet sich durch ein ungewöhnliches kompaktes Trizykloundecan-Grundgerüst aus, das als Grundstruktur für den Aufbau vieler weiterer natürlicher Sequiterpene dient. Eine Gold(I)-katalysierte Pinakolkaskadenreaktion als Schlüsselschritt ermöglichte den Aufbau der bizyklischen Hydropentalen-Einheit des Naturstoffs in korrekter relativer Steroeokonfiguration. Außerdem konnten mit dieser und einer NIS-vermittelten Variante die syn-selektive Carbozyklisierung von 6-Brom- und 6-Chlor-1,5-Eninen zu bizyklischen Vinylhalogeniden demonstriert werden. Diese Methode konnte zur Bildung des synthetisch herausfordernden Trizyklus mittels Heck-Reaktion angewendet werden. 
+ Der zweite Teil der Dissertation setzt sich mit der Synthese von Estradiolderivaten für die Radionuklidtherapie auseinander und wurde in Kooperation mit Prof. Dr. Schomäcker (AG Radiochemie, Radiopharmazie und Strahlenbiologie, Uniklinik Köln) durchgeführt. Die Entwicklung neuer Radiopharmaka für die moderne Radionuklidtherapie bei Brustkrebs stand hierbei im Fokus. Durch Affinitätsmessungen der synthetisierten iodierten Estradiolderivate wurden Struktur-/Wirkungsbeziehungen am Estrogenrezeptor Alpha ermittelt. Neben der Derivatisierung der 17-Alpha-Position wurden Substiutionen mit alkylischen und fluorierten Bausteinen in 11-Beta-Position vorgenommen.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20220117-113834-2</identifier>
+                    <identifier type="doi">10.25926/pb1j-2p16</identifier>
+                    <identifier type="sys">HT021212015</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_15651</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_15651">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2021/jaschinski/dc2129.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_15651"
+            DMDID="DMD_wuppertal_elpub_15651">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_15651"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

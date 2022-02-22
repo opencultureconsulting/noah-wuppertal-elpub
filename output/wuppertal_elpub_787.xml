@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_787">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Bestimmung von Alkylpolyglucosiden in komplexer Matrix mittels MEKC-PAD und GCxGC-(TOF)MS</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hübner, Jane</displayForm>
+                        <namePart type="family">Hübner</namePart>
+                        <namePart type="given">Jane</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-06-05</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In the work presented here, two independent methods were developed for the analysis of alkylpolyglucosides (APGs) in technical mixtures and in commercial products. The methods are based on micellar electrokinetic chromatography with pulsed amperometric detection (MECC-PAD) and two-dimensional gas chromatography with mass-spectrometric detection (GCxGC-MS). While, of the two detection principles applied, MECC-PAD exhibits high selectivity for the analysis of the APGs, GCxGC-(TOF)MS, because of its high separative power, makes possible the collection and quantification not only of the APGs, but also, after appropriate sample preparation, of other classes of tensides. 
+For carrying out the MECC-PAD analysis, a detection cell was designed, with which disturbances of the detection signal could be eliminated. This made possible routine measurements with high reproducibility. An important step in the separation and optimization of the method was the use of two different electrolytes for the separation and detection. During the APG investigations two separation buffers were used: 
+Dehydol LS 50 (2500 mg/mL); SDS (12 mM) in Na₂HPO₄ (10 mM; pH 9.5)
+ Na-tetradecylsulfonate (3 mM); Brij 58 (5000 mg/mL); in Na₂HPO₄ (10 mM; pH 9.5); ACN 25 %(v/v) 
+Separation buffer (1) was suitable for the determination of short-chained APGs in technical products without sample preparation. The analysis of APG®-220 (Cognis Deutschland GmbH &amp; Co. KG) resulted in 16.18 ± 0.31 % n-octyl-α-D-glucopyranoside (αC₈) and 8.22 ± 0.26 % n-octyl-ß-D-glucopyranoside (ßC₈) and confirmed thereby quite well the manufacturer` data (23.26 % αßC₈). The detection limit of the method were to 0.070 g/L (αC₈) and 0.075 g/L (ßC₈). With neither separation buffers was it not possible to achieve complete separation of all homologues and anomers. Thus the separation of anomers with the separation buffer (1) succeeded up to αßC10, but all higher homologues were detected unseparated as a single signal. Although separation buffer (2) permitted homologue separation up to αßC12, no separation of anomers could be observed. This separation buffer was preferred because with it the homologue distribution in technical and commercial products could be determined. 
+With GCxGC-(TOF)MS the separation limits of the MECC-PAD could be overcome. In the case of the APGs, the sample preparation amounted to nothing more than silylation. Thus not only the homologues (discrimination according to alkyl chain length and number of glucose units) and anomers (α,ß), but even the pyranosides and furanosides could be separated completely from each other. In addition, the high peak capacity and the better detection limit of GCxGC-(TOF)MS made possible the determination of other tenside classes like fatty alcohol ethoxylates (FAEO) and cocamidopropylacetobetaines (CAPB) in a single run. In order to determine the fatty alcohol sulfates (FAS) and fatty alcohol ether sulfates (FAES) at the same time, the samples had to be hydrolyzed before the silylation. In an excellent confirmation of the manufacturer&apos;s data, the analysis of a model shampoo (Cognis Deutschland GmbH &amp; Co. KG) resulted in 1.96 ± 0.02 % (APG), 2.5 ± 0.4 % (FAEO), 4.5 ± 0.03 % (CAPB) and 6.5 ± 1.2 % (FAES).</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20070615</identifier>
+                    <identifier type="sys">HT015184023</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_787</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_787">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2007/huebner/dc0706.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_787"
+            DMDID="DMD_wuppertal_elpub_787">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_787"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

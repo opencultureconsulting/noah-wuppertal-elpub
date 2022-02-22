@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_262">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Theoretische Konzepte der Zeitreihenanalyse und Anwendungen auf die Signalklassifikation in technischen Systemen.</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Güttler, Stefan</displayForm>
+                        <namePart type="family">Güttler</namePart>
+                        <namePart type="given">Stefan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1999-07-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Gegenstand dieser Arbeit ist die Entwicklung und Anwendung einiger Konzepte der Zeitreihenanalyse auf technische Problemstellungen. Unser Interesse an technischen Systemen entsteht aus der Idee, Anwendungsmöglichkeiten der nichtlinearen Zeitreihenanalyse auf realistische Probleme von &quot;mittlerer Komplexität&quot; zu untersuchen, d.h. auf Fragestellungen bei realen Systemen, die nur eine begrenzte Anzahl (effektiver) Freiheitsgrade und eine begrenzte Nichtstationarität aufweisen. Zwei Probleme werden hier betrachtet: Die Fehlerfrüherkennung bei Induktionsmotoren durch Überwachung des Statorstroms und die automatische Qualitätskontrolle von elektrischen Schiebedächern durch Klassifikation von Körperschallsignalen. 
+Der erste Teil dieser Arbeit ist theoretisch und enthält einige Grundlagen und Konzepte für den mehr angewandten zweiten Teil. Wir geben zunächst einen Überblick über lineare und quadratische Zeit-Frequenz Darstellungen, welche sich als geeigneter Ausgangspunkt für beide untersuchten Probleme erweisen. Hierbei sind im Hinblick auf die Signalanalyse die Eigenschaften von gefensterten Fourier- und Wavelettransformationen, insbesondere die Zeit-Frequenz Auflösungscharakteristik dieser Abbildungen von Interesse. Da in allen Anwendungen nur endliche, diskret abgetastete Zeitreihen zur Verfügung stehen, wird anschließend der genaue Zusammenhang zwischen der diskreten und kontinuierlichen Version dieser Transformationen diskutiert, wofür das Shannonsche Samplingtheorem den Verknüpfungspunkt bildet. Für die Klassifikation von experimentellen Daten anhand extrahierter Merkmale werden schließlich Schätzer für den Bayeschen Fehler, d.h. den minimalen Fehler, der in einer Klassifikationsstatistik erzielt werden kann, eingeführt.
+Wir stellen eine neue Methode zur Fehlerfrüherkennung bei Induktionsmotoren vor, wozu das Konzept der geometrischen Signaltrennung im Merkmalsraum eingeführt wird: Während einer Trainingsperiode werden Teilstücke der Zeitreihe von einer Phase des Statorstroms in Merkmalsvektoren in einem Merkmalsraum transformiert. Nach Definition einer lokalen Metrik im Merkmalsraum können Merkmalsvektoren, die während des Betriebs &quot;on-line&quot; berechnet werden, mit den Trainingsvektoren verglichen werden, welche die erlaubten Betriebszustände des Motors repräsentieren. Falls im Merkmalsraum keine Nachbarn der Testvektoren in der Trainingsdatenbasis existieren, ist der zugehörige Betriebszustand unbekannt und wird als fehlerhaft angenommen, falls er über eine gewisse Zeitdauer besteht. Wechselnde Umwelteinflüsse stellen hierbei das Hauptproblem dar, wofür die geometrische Methode eine Lösung bietet: Durch Kombination der Informationen aus zwei Merkmalsräumen können die Umweltbedingungen während des Betriebs teilweise herausgerechnet werden; diese Korrektur erlaubt die statistisch signifikante Trennung von unbekannten Umwelteinflüssen und Fehlern. Wir führen als nächstes einen Merkmalsvektor zur automatischen akustischen Qualitätskontrolle ein. Hierzu wird das Schließgeräusch von elektrischen Schiebedächern aufgenommen. Wir suchen nicht explizit nach den Merkmalen der Zeitreihen, welche gute und fehlerhafte Produkte unterscheiden, sondern nutzen die Eigenschaft aus, daß die Informationen zur Fehlererkennung vom menschlichen Gehör, d.h. von Experten, aufgelöst werden können. Wir approximieren die Zeit-Frequenz Auflösungscharakteristik des menschlichen Gehörs durch eine Wavelettransformation und definieren eine verallgemeinerte (Rest-) Klasse von Wavelettransformationen, welche es erlaubt, im Zeitraum zu mitteln, ohne die zeitaufgelösten Informationen zu verlieren. Durch diesen Mittelungsprozeß können Rauschen und statistische Fluktuationen hinreichend reduziert werden, um die für die Klassifikation der Signale relevanten Merkmale hervorzuheben. Wir studieren die Eigenschaften der Merkmalsvektoren zunächst anhand künstlicher Signale. Die folgende Anwendung auf die Schiebedachdaten bestätigt (qualitativ) diese Ergebnisse.</abstract>
+                    <abstract type="content" lang="eng">Subject of this work is the development and application of some concepts of time series analysis to technical systems. Our interest in technical systems arises from the idea to study applications of nonlinear time series analysis to fully realistic problems of &quot;intermediate complexity&quot;, i.e. to systems which have a limited number of (effective) degrees of freedom and limited nonstationarity. Two problems are treated here: The induction motor failure detection using stator current monitoring and the automatic quality control of sliding sunroofs by classifying structure-born sound signals. 
+The first part of this work is theoretical and contains some background material for the more applied second part. We give an overview over linear and quadratic time-frequency representations, which turn out to be a suitable starting point for both treated problems. From the viewpoint of signal analysis we focus on the properties of windowed Fourier- and wavelet transforms, especially the time-frequency resolution characteristics. Subsequently the relation between the continuous and discrete version of these transforms are thoroughly discussed, for which Shannon&apos;s sampling theorem provides the connection. For the classification of feature vectors calculated from experimental time series we finally introduce estimators for the Bayes error, i.e. the smallest error which can be achieved in a classification statistics. We present a new method for on-line induction motor failure detection, where the concept of geometrical signal separation in feature space is introduced: A set of observations from a single phase of the stator current is transformed into feature vectors in a feature space. After establishing a local metric in the feature space close neighbours of the present vector are searched for in a data basis representing the allowed states of the motor. In their absence the present state is a novelty, which is considered as a failure if it persists for a certain time. Varying environmental conditions turn out to be the main problem during fault sensing. The geometric method offers a solution for that by combining the information of two feature spaces. This correction allows for our data the statistically significant separation of unknown environmental conditions and motor failures.
+We next introduce a feature vector for automatic acoustic quality control. For this purpose the sliding noise of electric sunroofs was recorded. We do not explicitely search for the features of the time series which distinguish good from defective products, but take advantage of the fact that the information being relevant for failure detection can be resolved by the human ear, i.e. by experts. We approximate the time-frequency resolution of the ear by a wavelet transform and define a generalized class of wavelet transforms, which can be averaged in the time domain without loosing the time-resolved information. By this averaging process statistical fluctuations and noise are reduced sufficiently to reveal the features of the signals for the aimed classification. We first study the properties of the feature vectors using artifical signals. The subsequent application to the sliding sunroof data confirms (qualitatively) these results.</abstract>
+                    <abstract type="content" lang="ger">Datei d089902b.pdf = korrigierte Fassung vom 10.04.2000</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-19990113</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_262</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_262">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-356/d089902.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_262"
+            DMDID="DMD_wuppertal_elpub_262">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_262"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

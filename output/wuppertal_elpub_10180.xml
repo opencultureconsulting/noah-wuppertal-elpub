@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_10180">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Belastungserleben und Bewältigungsstrategien bei Unterrichtsstörungen in der Grundschule aus der Perspektive von Lehrkräften und Schülerschaft</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Van Wickeren, Martin</displayForm>
+                        <namePart type="family">Van Wickeren</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-01-27</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Unterrichtsstörungen gelten insbesondere dahingehend als problematisch für einen gelingenden unterrichtlichen Lehr-Lern-Prozess, als dass sie neben einer Reduktion der Unterrichtsqualität sowohl für Lehrkräfte als auch für Schülerinnen und Schüler mit Belastungserleben assoziiert sind, was in der bisherigen Forschung für weiterführende Schulformen aufgezeigt werden konnte (Klusmann et al., 2008; Scherzinger et al., 2017; Wettstein et al., 2017). Die vorliegende Arbeit untersucht, inwiefern Unterrichtsstörungen auch im Grundschulbereich im Zusammenhang mit Belastungserleben stehen und wie Grundschullehrkräfte und Grundschülerinnen und Grundschüler ein Belastungserleben bei Unterrichtsstörungen bewältigen. Die Ergebnisse der quantitativen Fragebogen-Untersuchung (N = 133 Lehrkräfte und N = 432 Grundschüler/innen) lassen erkennen, dass ein signifikant positiver Zusammenhang zwischen Unterrichtsstörungen und emotionaler Erschöpfung bei Grundschullehrkräften (ß = .22) und Grundschüler/innen (ß = .24) besteht. Für Grundschullehrkräfte erweisen sich vor allem auf der Handlungsebene Klassenführungstechniken und auf der emotional-kognitiven Ebene hohe Selbstwirksamkeitserwartungen und kognitive Neubewertung als funktionale Bewältigungsstrategien, um ihr Belastungserleben im Zusammenhang mit Unterrichtsstörungen zu reduzieren. Für Grundschülerinnen und Grundschüler gehen das Erleben einer effizienten Klassenführung und hohe Selbstwirksamkeitserwartungen mit geringerer Belastung einher.</abstract>
+                    <subject>
+                        <topic>School of Education/Institut für Bildungsforschung » Dissertationen</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20200127-142623-7</identifier>
+                    <identifier type="doi">10.25926/gq1n-g716</identifier>
+                    <identifier type="sys">HT020400105</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_10180</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_10180">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/se/diss2019/vanwickeren/se1901.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_10180"
+            DMDID="DMD_wuppertal_elpub_10180">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_10180"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

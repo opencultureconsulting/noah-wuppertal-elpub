@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3493">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Experimental determination of the partitioning coefficient of nopinone as a marker substance in organic aerosol</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Steitz, Bettina</displayForm>
+                        <namePart type="family">Steitz</namePart>
+                        <namePart type="given">Bettina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Atmosphärische Aerosole haben einen wesentlichen Einfluss auf die Strahlungsbilanz, die chemischen Prozesse innerhalb der Atmosphäre und damit auf das Erdklima. Sie sind relevant in verschiedenen Umweltprozessen und beeinflussen die menschliche Gesundheit. Sekundäre organische Aerosole machen in vielen Gebieten einen Großteil der Gesamtaerosolmasse aus und bestimmen daher die Eigenschaften der Aerosole. Die vielfältige und komplexe chemische Zusammensetzung sekundärer organischer Aerosole erschwert genaue Analysen ihrer Bildung und ihres chemischen Verhaltens. Diese Informationen sind unter anderem wichtig für die globale und lokale Klimamodellierung. Ein wesentlicher Punkt in derzeitigen Modellen ist die Vorhersage der Menge an organischer Materie innerhalb der Atmosphäre. Hierbei von großer Bedeutung ist ein ausführliches Verständnis der Bildungsprozesse sekundärer organischer Aerosole aus Oxidationsprozessen biogener volatiler organischer Verbindungen. Die Partitionierung der semivolatilen Oxidationsprodukte zwischen Aerosolgas- und Aerosolpartikelphase wird durch den temperaturabhängigen Partitionierungskoeffizienten beschrieben. Dessen experimenteller Ermittlung widmet sich diese Arbeit.
+ Hierfür wurde eine neuartige Messmethode zur verbindungsspezifischen Analyse organischer Aerosole verwendet. Das Aerosol Collection Module (ACM) ist ein neuentwickeltes Intrument zur Sammlung von Aerosolpartikeln, ihrer Überführung in die Gasphase durch thermische Desorption und zum Transfer in einen angekoppelten Gasphasendetektor zur anschließenden Analyse. In dieser Arbeit wurde das ACM erstmals mit einem hochauflösenden PTRToF- MS (Proton Transfer Reaction-Time of Flight-Mass Spectrometer) gekoppelt und in α-, und β-Pinen Ozonolyse Experimenten an der AIDA Kammer des Karlsruher Instituts f&#127;ur Technologie (KIT) angewendet. Für die Datenanalyse wurden Auswerteroutinen basierend auf Auswertungsprogrammen für Aerosol Massenspektrometer (AMS)-Daten entwickelt. Für Nopinon, das Hauptprodukt der β-Pinen Ozonolyse, wurde der Partitionierungskoeffizient in Abhängigkeit der Temperatur bestimmt. Dafür wurden zwei experimentelle Verfahren durchgeführt, einerseits die Kopplung des PTR-ToF-MS mit dem ACM, andererseits Messungen mit dem PTR-ToF-MS mit und ohne Partikelfilter. Für die Partitionierungskoeffizienten aus den ACM-Messungen konnte ein Temperaturverhalten entsprechend theoretischer Überlegungen zur Gas-zu-Partikel Partitionierung aus der Literatur nachgewiesen werden. Ein Vergleich zwischen den Messwerten und anhand von Literatur berechneten Werten zeigt, dass der experimentell bestimmte Partitionierungskoeffizient etwa 1 Größenordnung oberhalb der berechneten Werte liegt. Daraus lässt sich folgern, dass die Menge an Nopinon in der Aerosolpartikelphase in der Theorie unterschätzt wird. Da experimentelle Daten zu den Partitionierungskoeffizienten in der Literatur rar sind, w&#127;aren weiterführende Untersuchungen der Partitionierungskoeffizienten auch anderer Substanzen mit Hilfe der Verbindung aus ACM und PTR-ToF-MS wünschenswert. Dies würde einen Abgleich der theoretischen Betrachtungen mit experimentellen Ergebnissen ermöglichen und schließlich zu einer Verbesserung im Verständnis der Bildung und somit der Vorhersage von sekundärem organischem Aerosol führen.</abstract>
+                    <abstract type="content" lang="eng">Atmospheric aerosols have a significant influence on the radiation budget and chemical processes in the atmosphere. Thus, they have an impact on climate. They are relevant in many environmental processes and influence human health. In many regions, secondary organic aerosol (SOA) makes a major contribution to the total aerosol mass. Therefore, SOA significantly influences aerosol properties. The complex and versatile chemical composition of SOA makes the analysis of its formation and chemical behavior difficult and thus complicates global and local climate modeling. One major issue in current models is the prediction of the organic matter in the atmosphere. For this, a detailed understanding of SOA formation from volatile organic compounds (VOCs) is of importance. VOCs undergo oxidation in the atmosphere which results in the formation of semivolatile organic compounds. These partition between the gas and the particle phase. The compoundspecific gas-to-particle partitioning can be described with the temperaturedependent partitioning coefficient. This work is dedicated to its experimental determination.
+ To this end, a new measurement technique for compound-specific analysis of organic aerosol was used. The Aerosol Collection Module (ACM) is a newly developed instrument which collects aerosol particles, converts them into the gas phase via thermal desorption and transfers them to a gas phase detector for further analysis. In this work, the ACM was coupled to a high-resolution Proton Transfer Reaction-Time of Flight-Mass Spectrometer (PTR-ToF-MS) for the first time and used in α-, and β-pinene ozonolysis experiments at the AIDA chamber of the Karlsruhe Institute of Technology (KIT). For the data analysis, routines were developed based on Aerosol Mass Spectrometer (AMS) data analysis. The partitioning coefficient of nopinone, as the major β-pinene ozonolysis product, and its temperature dependence was determined. For this purpose, two experimental approaches were employed: the coupling of ACM and PTR-ToF-MS, and measurements using the PTRToF- MS with and without particle filter. The temperature dependence of the partitioning coefficient derived from ACM and PTR-ToF-MS was comparable to the theoretical temperature dependence found in literature. A comparison with calculated partitioning coefficients following theory showed that the experimental partitioning coefficients of this work were about one order of magnitude higher. This leads to the conclusion that the amount of nopinone in the aerosol particle phase is underestimated by theory. As literature on experimentally derived partitioning coefficients is sparse, further investigations of the partitioning coefficient of other substances with the combination of ACM and PTR-ToF-MS could help to improve the understanding of SOA formation and, thus, SOA prediction.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20130507-115637-3</identifier>
+                    <identifier type="sys">HT017638071</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3493</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3493">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2012/steitz/dc1232.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3493"
+            DMDID="DMD_wuppertal_elpub_3493">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3493"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

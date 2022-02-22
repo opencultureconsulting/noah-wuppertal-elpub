@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_605">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Konsistenz in hybriden wissensbasierten Systemen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hagemann, Sabine</displayForm>
+                        <namePart type="family">Hagemann</namePart>
+                        <namePart type="given">Sabine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2000-02-07</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die vorliegende Arbeit beschäftigt sich mit der Frage nach der Widerspruchsfreiheit (Konsistenz) von wissensbasierten Programmsystemen (im folgenden kurz als Systeme bezeichnet). Um ein zuverlässiges Verhalten der Systeme zu gewährleisten, muß das verwendete Wissen widerspruchsfrei repräsentiert werden. Bei der Wartung in Form von Ergänzungen und Änderungen des implementierten Wissens ist die Konsistenzwahrung von entscheidender Bedeutung, da ein wissensbasiertes System über Jahre oder gar Jahrzehnte hinweg kompetent sein soll. Hier ist Hilfe in Form von algorithmischen Testverfahren für die Konsistenz der Wissensbasis unabdingbar. Ausgehend von bestehenden Definitionen der Konsistenz in Datenbanken, klassischen Deduktionssystemen und regelbasierten Systemen wird untersucht, in wie weit Testverfahren aus diesen Bereichen für hybride wissensbasierte Systeme anwendbar sind. Es wird gezeigt, daß die bei der Prädikatenlogik angewandte Connection Graph Proof Procedure unter bestimmten Bedingungen auch für regelbasierte Systeme verwendet werden kann. Da die Interpretation des Konsistenzbegriffes stark kontextabhängig ist, müssen bei hybriden Systemen alle verwendeten Wissensrepräsentationsformen einbezogen werden. Für die Bereiche Regelkonsistenz, Frame- oder Objektkonsistenz und Prozedurkonsistenz werden daher jeweils spezifische Konsistenzbedingungen erarbeitet und daraus Anforderungen an die Struktur der Frames sowie die Syntax der Regeln und Prozeduren abgeleitet. Parallel zur notwendigen Definition einer &quot;Gesamtkonsistenz&quot; erfolgt die Entwicklung eines geeigneten Testverfahrens. Durch das hier entwickelte Verfahren der schrittweisen Inferenz ist es einem Entwickler möglich, während der Konsistenzprüfung die Quellen von erkannten Inkonsistenzen zu bearbeiten und die Auswirkungen auf die Gesamtkonsistenz sofort zu testen.</abstract>
+                    <abstract type="content" lang="eng">The subject of this work is the question for the consistency of knowledge-based program systems (described briefly as systems in the following). To ensure a reliable behavior of the systems, the used knowledge must be represented consistently. At the maintenance in form of additions and changes of the implemented knowledge the consistency preservation is of decisive meaning since a knowledge-based system shall be competent over years or even decades. Help is indispensable in form of algorithmic method of Based on existing definitions of the consistency in data bases, classic deduction systems and rulebased systems the methods of testing from these areas gets examined, if they are applicable for hybrid knowledge-based systems as well. It is shown that the Connection graph Proof Procedure applied at the predicate logic can be used under definite conditions also for rulebased systems. Since the interpretation of the consistency concept strongly is context-dependent, all used forms of knowledge representation at hybrid systems must be examined. For the areas of rule consistency, frame or object consistency and procedure consistency specific consistency conditions are worked out and therefore requirements are derived on the structure of the frames as well as on the syntax of rules and procedures. The development of a suitable method of testing parallelly is carried out to the necessary definition of a &quot;complete consistency&quot;. By the method of gradual (stepwise) inference developed here it is possible for a developer to manipulate the sources of recognized inconsistency during the consistency exam and to test the effects on the complete consistency immediately.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20000050</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_605</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_605">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-701/d139904.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_605"
+            DMDID="DMD_wuppertal_elpub_605">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_605"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

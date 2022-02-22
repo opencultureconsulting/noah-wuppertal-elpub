@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9131">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Bewertung von Flexibilitätsoptionen in Mittelspannungsnetzen</title>
+                    </titleInfo>
+                    <titleInfo lang="eng" type="translated">
+                        <title>Evaluation of Flexibility Options in Medium-Voltage Grids</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kornrumpf, Tobias</displayForm>
+                        <namePart type="family">Kornrumpf</namePart>
+                        <namePart type="given">Tobias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Zdrallek, Markus</displayForm>
+                        <namePart type="family">Zdrallek</namePart>
+                        <namePart type="given">Markus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-02-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Der fortschreitende Transformationsprozess des Energieversorgungssystems führt zu einer erheblich steigenden Anzahl von Erzeugungsanlagen, Speichersystemen und neuer Lasten im Verteilnetz. Gleichzeitig erfordert das Gesamtsystem mehr Flexibilität, um die Volatilität der Stromerzeugung durch Wind- und Photovoltaikanlagen bestmöglich auszugleichen. Beide Entwicklungen haben massive Auswirkungen auf die zukünftige Planung und den Betrieb von Verteilnetzen. Die Flexibilität einzelner Akteure kann bei einer rein marktorientierten Betriebsweise neue Netzengpässe verursachen, aber gleichermaßen durch eine netzdienliche Betriebsweise bestehende Netzengpässe auflösen. Um Ineffizienzen im Gesamtsystem zu vermeiden, ist es daher erstrebenswert, das Zusammenspiel von Netz und Markt tiefergehend zu analysieren und Rahmenbedingungen zu schaffen, die eine bestmögliche Nutzung der vorhandenen Flexibilitätspotentiale erlauben. Die vorliegende Arbeit setzt an dieser Schnittstelle an und stellt ein Verfahren für die Analyse und Bewertung des netzdienlichen Einsatzes von Flexibilitätsoptionen in Mittelspannungsnetzen vor. Den Kern der Arbeit bildet die Verknüpfung eines eigenständigen, generischen Anlagenmodells mit einem Netzmodell. Das entwickelte Anlagenmodell basiert auf dem Power Nodes Modeling Framework, das für die Berücksichtigung von sektorenübergreifenden Aspekten erweitert wurde. Das Modell eignet sich für die Modellierung komplexer Anlagen, die sowohl mehrere Flexibilitätsoptionen als auch nicht flexible Prozesse aufweisen. Das Netzmodell dient zur Berechnung der verbleibenden Netzkapazität bzw. des Flexibilitätsbedarfs am Netzverknüpfungspunkt der Flexibilitätsoptionen. Hierfür wird in einem neuartigen Ansatz ein Optimal-Power-Flow-Berechnungsverfahren für die Anwendung in MS-Netzen geeignet modifiziert. Mit den OPF-Berechnungen lassen sich die Netzkapazitätsgrenzen unter Berücksichtigung sämtlicher Grenzwerte (Knotenspannungen und Betriebsmittelauslastungen) des Netzgebiets bestimmen. Die Anwendung der Modelle erfolgt auf zwei reale Mittelspannungsnetze unter Berücksichtigung von Szenarien zur Entwicklung der Versorgungsaufgabe bis 2035. Auf Basis von Jahressimulationen in viertelstündlicher Auflösung erfolgt eine detaillierte Analyse der verbleibenden Netzkapazitäten, des Flexibilitätsbedarfs und der Auswirkungen auf den marktorientierten Betrieb der Flexibilitätsoptionen. Aus den umfangreichen Simulationsergebnissen werden allgemeine Erkenntnisse für die Netzplanung, den Netzbetrieb, die Flexibilitätsbereitstellung durch Anlagenbetreiber und die Weiterentwicklung des regulatorischen Rahmens abgeleitet.</abstract>
+                    <abstract type="content" lang="eng">The ongoing transformation process of the energy supply system is leading to a considerable increase in the number of decentralized generation facilities, storage systems and new loads on distribution level. At the same time, the overall system requires more flexibility in order to balance out the volatility of power generation from wind and photovoltaic plants in the best possible way. Both developments have a massive impact on the future planning and operation of distribution grids. The flexibility of individual players in a purely market-oriented mode of operation can cause new grid bottlenecks, but can also resolve existing grid bottlenecks through a grid-compatible mode of operation. In order to avoid inefficiencies in the overall system, it is therefore desirable to analyse the interaction between grid and market in greater depth and to create regulatory conditions that allow the best possible use of the existing flexibility potentials. This work presents a procedure for the analysis and evaluation of the grid-compatible use of flexibility options in medium-voltage grids. The core of the work is the linking of an independent, generic plant model with a grid model. The developed plant model is based on the Power Nodes Modeling Framework, which has been extended to consider cross-sectoral aspects. The model is suitable for the modelling of complex plants, which have several flexibility options as well as inflexible processes. The grid model is used to calculate the remaining grid capacity or the flexibility requirement at the grid connection point of the flexibility options. For this purpose, an Optimal Power Flow (OPF) calculation method is modified in a novel approach for use in MV grids. With the OPF calculations, the grid capacity limits can be determined taking into account all limit values (node voltages and branch currents). The models are applied to two real medium-voltage grids under consideration of scenarios for the development of the supply task until 2035. On the basis of annual simulations in quarter-hourly resolution, a detailed analysis of the remaining grid capacities, the flexibility requirements and the effects on the market-oriented operation of the flexibility options is performed. From the extensive simulation results, general findings for grid planning, grid operation, flexibility provision by plant operators and the further development of the regulatory framework are derived.</abstract>
+                    <subject>
+                        <topic>Flexibilität</topic>
+                        <topic>Flexibilitätsoptionen</topic>
+                        <topic>Netzberechnung</topic>
+                        <topic>Netzplanung</topic>
+                        <topic>Smart Grids</topic>
+                        <topic>Optimal-Power-Flow</topic>
+                        <topic>Anlagenoptimierung</topic>
+                    </subject>
+                    <classification authority="ddc">600</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20190220-103325-6</identifier>
+                    <identifier type="sys">HT019981928</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9131</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9131">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2019/kornrumpf/de1901.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9131"
+            DMDID="DMD_wuppertal_elpub_9131">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9131"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

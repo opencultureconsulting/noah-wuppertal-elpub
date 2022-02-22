@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_978">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Antriebssystem für höchste Geschwindigkeiten</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Thur, Joachim</displayForm>
+                        <namePart type="family">Thur</namePart>
+                        <namePart type="given">Joachim</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-08-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In der vorliegenden Arbeit wird ein Antriebssystem mit drehgeberloser feldorientierter Regelung vorgestellt, mit dem eine permanenterregte Synchronmaschine bei Drehzahlen von über 600.000 Umin-1 betrieben werden kann. Auf den Einsatz eines Signalrechners im Regelungszweig wird vollständig verzichtet. Das Antriebskonzept ist speziell für den Einsatz in Hochgeschwindigkeitsbohrstationen der Leiterplattenfertigung gedacht. 
+Aufgrund der fehlenden Rechenleistung können feldorientierte Regelstrategien, die auf Rotorkoordinaten basieren, nicht verwendet werden. Die feldorientierte Regelung ist daher in Ständerkoordinaten ausgeführt. Der Ständerfluss wird nicht als kontinuierliches Signal ausgewertet, sondern nur in seinem Vorzeichen betrachtet. Zur Flusserfassung wurden besondere Strategien entwickelt. Die Vorzeichen enthalten die Information über die absolute Lage des Rotors und seine Drehgeschwindigkeit. Die regelungstechnische Rekonstruktion dieser Informationen aus den Vorzeichen geschieht mittels eines adaptiven digitalen Phasenregelkreises. Für die Drehzahlregelung wurde ein Mehrkanalregler entworfen. 
+Es wird ein sehr spezielles Antriebssystem mit kleiner Leistung und hoher Grundschwingungsfrequenz betrachtet. Daher wurde die Leistungsendstufe sowohl mittels der in der Antriebstechnik üblichen Pulswechselrichtertechnik als auch mit einem linearen Verstärker realisiert. Beide Varianten wurden vergleichend untersucht. 
+Es entstand ein funktionsfähiger Hochgeschwindigkeitsantrieb, der an verschiedenen Maschinentypen mit Drehzahlen bis 300.000 Umin-1 erfolgreich getestet wurde. Derart hohe Drehzahlen konnten mit bestehenden Antriebslösungen bisher nicht erreicht werden.</abstract>
+                    <abstract type="content" lang="eng">This work presents a novel field oriented high-speed drive system without the need of a speed sensor. It is designed for PM-Synchronous machines capable of speeds up to 600000 rpm and beyond. The control system is designed to work without the need of any signal processor. Thus the architecture is very special, it is designed and optimized for the use in high-speed PCB-Drilling stations. 
+Due to the leak of computing power it is impossible to use field oriented control strategies in rotor coordinates. Hence, the control system operates in stator coordinates. To achieve field orientation, the signs of the stator flux signals are detected and processed. To achieve best performance a special strategy for enhanced signal detection was developed. Processing the sign signals with an adaptive phase-locked loop, the information of rotor position and speed can be reconstructed to provide field orientation. For enhanced speed control a multi-channel speed controller is implemented. 
+Concerning the small power range of the drive system and the very high fundamental frequency of the machine, the power stage was designed using both methods, PWM-Technique and Analogue-Technique. Both were well investigated to find the optimum solution for the given power and frequency range. 
+Throughout the entire term of the project a complete drive system was developed, build up and tested. Several different machines with speeds up to 300000 rpm were successfully operated. The realized speed range for the target application is not covered by the drive systems available today.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20060420</identifier>
+                    <identifier type="sys">HT014828295</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_978</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_978">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2006/thur/de0601.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_978"
+            DMDID="DMD_wuppertal_elpub_978">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_978"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

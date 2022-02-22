@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_899">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Computer Simulation of the Stockmayer Fluid</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bartke, Jörg</displayForm>
+                        <namePart type="family">Bartke</namePart>
+                        <namePart type="given">Jörg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-04-17</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Das Gas-isotrope/ferroelektrische Flüssigkeits-Phasenverhalten wurde für das Stockmayer-Fluid mit Hilfe von Molekulardynamik-Simulationen für eine große Auswahl von Dipolstärken untersucht. Im Gegensatz zu früheren Ergebnissen, die auf Monte-Carlo-Techniken basierten, konnte kein Verschwinden der Gas-Flüssigkeits Koexistenz für große Dipolstärken beobachtet werden. Obwohl die Bildung reversibler Dipolketten die Lage des kritischen Punktes stark beeinflusst, führt sie nicht zu dessen Verschwinden. Zusätzlich zu den Simulationsergebnissen wird eine Theorie präsentiert, die die Abhängigkeit des Gas-Flüssigkeits kritischen Punktes im Stockmayer-Fluid von der Dipolstärke beschreibt. Die Theorie basiert auf der Flory-Huggins Gittertheorie für Polymere in Verbindung mit einem Transfermatrix-Modell für isolierte Ketten von reversibel gebundenen dipolaren Teilchen. Wir zeigen, dass die Verschiebung des kritischen Punktes in Abhängigkeit von der Kettenlänge, stark dem Verhalten des kritischen Punktes in gewöhnlichen Polymersystemen ähnelt. Speziell das Abfallen der kritischen Dichte mit steigender Dipolstärke ist eine Konsequenz aus der Existenz von reversiblen Dipolketten am kritischen Punkt. Des Weiteren wurden die dielektrischen Eigenschaften des Stockmayer-Fluids untersucht und die Temperatur des Übergangs von isotroper zur ferroelektrisch geordneter Flüssigkeit in reduzierten Einheiten bestimmt. Diese ist für einen großen Bereich von Dipolstärken gültig.</abstract>
+                    <abstract type="content" lang="eng">The gas-isotropic liquid-ferroelectric liquid phase behavior of the Stockmayer fluid is studied using Molecular Dynamics simulation over a wide range of dipole strengths. In our simulations we do not observe the disappearance of the isotropic gas-isotropic liquid coexistence at high dipole strength contrary to earlier findings based on Monte Carlo techniques. Even though the formation of reversible dipole chains strongly affects the location of the critical point, it does not lead to its disappearance. In addition to the simulation results we present a theory explaining the dependence of the gas-liquid critical point in the Stockmayer fluid on the dipole strength. The theory is based on the Flory-Huggins lattice description for polymer systems in conjunction with a transfer matrix model for isolated chains of reversibly assembled dipolar particles. We find that the shift of the critical point as function of dipole strength, also observed in computer simulation, strongly resembles the critical point shift as function of chain length in ordinary linear polymer systems. In particular the decrease of the critical density with increasing dipole strength is a consequence of the existence of reversible chains near criticality. Furthermore, the dielectric properties of the Stockmayer fluid are studied and the temperature for the transition from isotropic liquid to ferroelectric liquid is expressed in reduced units, valid over a wide range of dipole strengths.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20080158</identifier>
+                    <identifier type="sys">HT015518050</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_899</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_899">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2008/bartke/dc0803.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_899"
+            DMDID="DMD_wuppertal_elpub_899">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_899"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

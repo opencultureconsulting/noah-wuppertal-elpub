@@ -1,0 +1,80 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_4880">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Deflated Shifted Block Krylov Subspace Methods for Hermitian Positive Definite Matrices</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Birk, Sebastian</displayForm>
+                        <namePart type="family">Birk</namePart>
+                        <namePart type="given">Sebastian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Frommer, Andreas</displayForm>
+                        <namePart type="family">Frommer</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lang, Bruno</displayForm>
+                        <namePart type="family">Lang</namePart>
+                        <namePart type="given">Bruno</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This thesis considers the task of computing solutions of families of large sparse linear systems that differ by a shift with the identity matrix and have several different right-hand sides at the same time. We explore the applicability of existing Krylov subspace methods for solving shifted systems and methods for solving systems with multiple right-hand sides. Moreover, we develop methods that, based on deflated block Lanczos-Type processes, exploit both features---shifts and multiple right-hand sides---at once and tackle well-known problems that multiple right-hand sides can bring along. We present numerical evidence that our methods can be superior as compared to applying other iterative methods, in typical situations.</abstract>
+                    <abstract type="content" lang="ger">Diese Arbeit beschäftigt sich mit dem Lösen großer dünnbesetzter linearer Gleichungssysteme, deren Systemmatrizen um Vielfache der Einheitsmatrix verschoben sind und die gleichzeitig mehrere rechte Seiten umfassen. Wir untersuchen, wie gut sich eine Reihe von bestehenden Krylov-Unterraumverfahren zum Lösen dieser Gleichungssysteme eignet. Weiterhin entwickeln wir Verfahren, die beide Eigenschaften---sowohl das Verschieben um Vielfache der Einheitsmatrix als auch mehrere rechte Seiten---ausnutzen können und die auf deflationierten Block-Lanczos-Prozessen beruhen, die mit bekannten Problemen beim Lösen von Gleichungssystemen mit mehreren rechten Seiten umgehen können. Wir führen numerische Tests durch, die zeigen, dass unsere Verfahren in einigen Anwendungsfällen bestehenden Verfahren überlegen sind.</abstract>
+                    <subject>
+                        <topic>CG method</topic>
+                        <topic>block Krylov subspaces</topic>
+                        <topic>multiple right-hand sides</topic>
+                        <topic>multiple shifts</topic>
+                        <topic>deflation</topic>
+                        <topic>Quantum Chromodynamics (QCD)</topic>
+                        <topic>sparse linear systems</topic>
+                    </subject>
+                    <classification authority="ddc">518</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20150601-100922-3</identifier>
+                    <identifier type="sys">HT018668704</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_4880</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_4880">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2015/birk/dc1505.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_4880"
+            DMDID="DMD_wuppertal_elpub_4880">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_4880"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

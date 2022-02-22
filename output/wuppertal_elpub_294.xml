@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_294">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchung präparativer Einflüsse auf die Mikrostruktur und die Transporteigenschaften von YBa₂Cu₃O₇₋δ -Stufenkantenkontakten</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hill, Frank</displayForm>
+                        <namePart type="family">Hill</namePart>
+                        <namePart type="given">Frank</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-02-05</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Josephson junctions are the key elements of unique superconducting electronic devices like extremely sensitive magnetometers, tunable microwave and three-terminal devices and very fast (f ~ 100 GHz) digital circuits. The large energy gap of high-temperature superconductors (HTS) promises improved performance of Josephson devices compared to the established Nb/Al₂O₃/Nb technology. Unfortunately, HTS Josephson junctions still suffer from poor reproducibility, which impedes large-scale integration. Optimised preparation processes are therefore strongly required. The research described in this thesis focused on YBa₂Cu₃O7-δ (YBCO) step-edge junctions, which are based on the natural formation of junctions at grain boundaries, involve comparatively simple preparation processes and have the potential for large-scale integration. More than 1000 junctions of 2-60 µm width were prepared on 10x10 mm² LaAlO₃ substrates. UV lithography combined with an additional photoresist postbake and a new two-step Ar⁺ ion etching process yielded steep and very smooth substrate steps of up to 560 nm height. The 200 nm thick YBCO films were deposited by DC-sputtering at a set of pressure and temperature values at Wuppertal, or by off-axis laserablation at the &apos;Forschungszentrum Jülich&apos;. Simultaneous patterning of the YBCO microbridges and the gold contact pads improved the junction reproducibility. An AFM analysis of the sputtered YBCO films at the &apos;Free University of Amsterdam&apos; revealed a low, but highly temperature dependent, surface diffusion constant Dₛ ~ 10-14 - 10-13 cm²/s during film growth. This result is one to two orders of magnitude lower than the value derived for off-axis laserablation. It could be shown by TEM analysis at Jülich that the poor surface diffusion led to a high density of crystal defects and to a deep trench in the film near the lower edge of the substrate step, where one of the two grain boundaries is formed. The current-voltage characteristics (IVC) of the low-temperature sputtered junctions were flux-flow-like, with a low Tc ≤ 30 K and a yield ≤ 30%, independent of the film-thickness-to-step-height ratio and other preparation parameters. In contrast, the IVCs of the laserablated junctions could be described well by the resistively-shunted junction model, with typical parameters Tc of 88 K, characteristic voltage IcRₙ of 2.1 mV at 4.2 K and 0.24 mV at 77 K, a yield ≥ 90%, and a statistical spread at 4.2 K of as low as σ (Jc)=16.8%, σ (RₙA)=18.8% and σ (IcRₙ)=7.4%. The shape of the IVCs, the critical temperature, yield, reproducibility, microwave sensitivity and magnetic field modulation of the critical current were found to depend sensitively on the YBCO deposition process. It could be concluded from a comparison between laserablated and low- and high-temperature sputtered junctions that both their transport properties and microstructure improved with increasing surface diffusion. The observed scaling law IcRₙ ∞ Jcᵖ with p ≈ 0.5 and slightly non-linear IVCs at high voltages indicated that resonant tunneling through one localised state was the dominant quasiparticle transport mechanism in all investigated junctions. Metallic point contacts, which give rise to a subharmonic energy gap structure in the dI/dV characteristics, were observed in O₂-deficient step-edge junctions. The measurements were analysed in the framework of an extended Octavio-Tinkham-Blonder-Klapwijk model, yielding a high energy gap Δ = 30-33 meV and Δ /kTc = 3.8 - 4.2 in the superconducting electrodes adjacent to the barrier. The typical low IcRₙ &lt;&lt; Δ of HTS junctions is therefore, at least in this case, not due to a suppressed energy gap, but attributed to the barrier itself. Since sputtered bicrystal junctions appeared to be much more sensitive to defects at the substrate grain boundary than laserablated bicrystal junctions, Dₛ has to be considered a key parameter to optimise any HTS grain boundary junction engineering.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20010098</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_294</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_294">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-388/d080003.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_294"
+            DMDID="DMD_wuppertal_elpub_294">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_294"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

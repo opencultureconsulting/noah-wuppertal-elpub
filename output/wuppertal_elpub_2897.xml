@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_2897">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Novel Approaches for the Lipid Modification of Carbohydrates-Syntheses, Surface-Active Properties and Supramolecular Self-Assemblies</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Nandi, Sukhendu</displayForm>
+                        <namePart type="family">Nandi</namePart>
+                        <namePart type="given">Sukhendu</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Nature, and in this context agriculture, is providing a wealth of renewable and highly useful raw materials like fats and oils, plant proteins and carbohydrates. By selective combination of their molecular constituents (e.g. fatty acids, glycerol, amino acids, carbohydrates) a wide variety of surface active materials can be prepared. All of them, due to their molecular constitution being potentially highly biodegradable, continue to evoke considerable interest and are emerging as an important classes of bio-based materials on account of their potential applications in the fields of cosmetics, food processing and as emulsifiers and supramolecular gelators. 
+Environmental problems caused by human activities, such as the consumption of fossils raw materials and the emissions of greenhouse gases are well-recognised and calls have been made for immediate measures to develop a more sustainable society worldwide. Attention has also been made to the quest for sustainability within the field of chemistry. The concept of green chemistry based on renewable resources is being introduced into the production of chemicals in order to reduce the impact on the environment by replacing petroleum-based resources with renewable feedstock and by making chemical processes more efficient. 
+Thus in this thesis we describe the syntheses of surfactants, emulsifiers and self-assembled supramolecular gelators based on renewable raw materials and studies of their physicochemical properties. Key reaction thereby is the conversion of naturally occurring hydroxycarboxylic acids (malic and tartaric acid) with fatty acid chlorides into the corresponding O-acylated hydroxycarboxylic acid anhydrides. These molecules are excellent electrophiles and hence undergo ring opening reaction with a wide variety of readily available nucleophiles (e.g. mono- and disaccharides, sugar alcohols and ascorbic acid) to generate a library of combination products with an enormous diversity in properties. The described combination products can be obtained in just two steps and in view of their amphiphile nature they may prove to be useful as surfactants for the preparation of oil in water emulsions in e.g. food industry and cosmetics.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20120705-103153-3</identifier>
+                    <identifier type="sys">HT017316206</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_2897</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_2897">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-2998/dc1201.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_2897"
+            DMDID="DMD_wuppertal_elpub_2897">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_2897"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1050">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Motivdispositionen und die Teilaufgaben der Handlungssteuerung</title>
+                        <subTitle>Ein Alternativ-Modell zum Rubikon-Modell der Handlungsphasen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mraz, Rolf</displayForm>
+                        <namePart type="family">Mraz</namePart>
+                        <namePart type="given">Rolf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-05-18</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Das Rubikon-Modell der Handlungsphasen (Heckhausen, 1986) blendet die Bedeutung von Motiven für die motivationale Handlungssteuerung aus und ignoriert die Unterscheidung zwischen aufsuchender und meidender Motivation. In der vorliegenden Arbeit wird ein revidiertes Modell motivationaler Handlungsteuerung vorgeschlagen. Das revidierte Modell sagt vorher, dass Hoffnungs- und Furchtmotivierte sich durch ihre (funktionale vs. dysfunktionale) Steuerungslagen und deren Dynamik, durch ihre Handlungsziele und in der Differenziertheit ihrer Handlungspläne unterscheiden. In zwei Studien wurden die Vorhersagen des revidierten Modells geprüft. In der ersten Studie wurde die Vorhersage geprüft, dass die Ausprägung der Hoffnungs- und Furchtkomponenten der Motive Leistung, Anschluß, Macht mit der Wahl aufsuchender bzw. meidender Ziele positiv korreliert. Für die Hoffnungskomponenten der Motive wurde die Erwartung bestätigt, für die Furchkomponenten nicht. In der zweiten quasi-experimentellen Studie wurden die Vorhersagen des revidierten Modells in einem anschlußthematischen Kontext geprüft und weitgehend bestätigt: Hoffnungs- und Furchtmotivierte weisen signifikant unterschiedliche Steuerungslagen und eine andere diesbezügliche Dynamik auf, Furchtmotivierte zeigen im Vergleich zu Hoffnungsmotivierten meidende Zielakzentuierungen und eine signifikant geringere Klarheit in ihren Handlungsplänen. Die Diskussion erfolgt unter zwei Aspekten. Erstens: die fehlende Bestätigung zentraler Postulate des Rubikon-Modells. Zweitens: die notwendige Differenzierung zwischen Hoffnungs- und Furchtmotivierten bei der Beschreibung und Untersuchung motivationaler Handlungssteuerung.</abstract>
+                    <abstract type="content" lang="eng">The Rubicon-model of action phases (Heckhausen, 1986) ignores the relevance of personal motives for motivational action control, as well as the distinction between approach and avoidance motivation. In this doctoral dissertation a revised model of motivational action control is presented. This revised model predicts, that hope and fear motivated persons differ with regard to their control-mode (functional vs. dysfunctional), dynamics of control-mode, their prefered action goals and their differentiation-level of action plans. In two studies the revised model was tested. Study I tested the prediction, that hope motivated (achievement, affiliation, power) prefer approach goals, whereas fear motivated prefer avoidance goals. Results confirmed expectations for hope motivated, but not for fear motivated. Quasi-experimental study II tested, and widely confirmed, predictions of the revised model in an affiliation motivation context: Hope and fear motivated differed significantly in their control-mode and dynamics of control-mode, also fear motivated tended to avoidance goals and reported less differentiated action plans. Discussion concentrated on two topics: First, the missing confirmation of central hypotheses of the Rubicon-model. Second, the need to differentiate between hope and fear motivated when describing (modeling) or empirical investigating motivational action control.</abstract>
+                    <classification authority="ddc">150</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Human- und Sozialwissenschaften » Psychologie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20090632</identifier>
+                    <identifier type="sys">HT015939783</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1050</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1050">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbg/psychologie/diss2008/mraz/dg0806.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1050"
+            DMDID="DMD_wuppertal_elpub_1050">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1050"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

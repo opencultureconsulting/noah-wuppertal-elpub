@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1843">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Eine </nonSort>
+                        <title>Präsentation des Invariantenrings bezüglich simultaner Konjugation von Matrizen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hoge, Torsten</displayForm>
+                        <namePart type="family">Hoge</namePart>
+                        <namePart type="given">Torsten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Für die im Titel genannten Invariantenringe sind minimale Präsentationen (d.h. minimales Erzeugendensystem und notwendige Relationen) nur in sehr kleinen Fällen bekannt. In dieser Arbeit wird eine minimale Präsentation für den Fall von Tripeln von 3x3 Matrizen bestimmt. 
+
+Die Relationen werden Grad für Grad durch Lösen von linearen Gleichungssystemen bestimmt. Damit stellt sich die Frage, wie viele Grade zu überprüfen sind. 
+
+ Hier spielt die Cohen-Macaulay Eigenschaft dieser Invariantenringe die entscheidende Rolle. Zunächst lässt sich damit eine obere Schranke für den Grad der benötigten Relationen ableiten. Ferner ermöglicht diese Eigenschaft einen effizienten Vergleich der Hilbertreihe des Invariantenringes mit der Hilbertreihe des schon bestimmten Kandidaten. 
+
+ Im Anschluss daran wird der Relationenbrüter eingeführt, der eine sehr kompakte Darstellung der Relationen ermöglicht.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20110211-155430-7</identifier>
+                    <identifier type="sys">HT016711262</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1843</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1843">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2010/hoge/dc1025.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1843"
+            DMDID="DMD_wuppertal_elpub_1843">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1843"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

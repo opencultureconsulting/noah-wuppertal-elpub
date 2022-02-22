@@ -1,0 +1,66 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_807">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchungen zur Biosynthese von Capsaicinoiden</title>
+                        <subTitle>Vorkommen und Einfluss von Acyl-Thioestern auf das Fettsäuremuster der Vanillylamide in Capsicum spp.</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Thiele, Roland</displayForm>
+                        <namePart type="family">Thiele</namePart>
+                        <namePart type="given">Roland</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-10-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Plants of the genus Capsicum (e.g. bell pepper and chili pepper) are among the oldest cultivated plants. Their fruits are used as spice for over 8000 years, as archaeological findings on millstones and pottery show. Pungency, a quality criterion in chili, is caused by a group of vanillylamides, the capsaicinoids. They are a unique category of alkaloids restricted to the genus Capsicum. More than 30 capsaicinoids, differing only in the fatty acid structures, have been described. 
+
+Capsaicinoids are synthesised by an enzymatic condensation of vanillylamine, a phenyl propanoid intermediate, and saturated and trans-monounsaturated fatty acids of medium chain length. The formation of the characteristic methyl-branched fatty acids starts from valine, leucine and isoleucine respectively their corresponding 2-oxocarboxylic acids. During the acyl chain elongation the intermediate is probably bound to acyl carrier protein (ACP). The enzyme capsaicin synthase (CS) accepts the fatty acids as Coenzyme A (CoA) derivatives. No further modifications of the fatty acid moieties are taking place after the condensation to the amide. Several enzymes, involved in capsaicin biosynthesis, are well characterised but the regulation of the pathway is not fully understood. 
+
+Considering the economic and agricultural importance of this pathway, it is surprising that relatively little is known, about how environmental influences affect the capsaicin content at the molecular level, concerning the pools of precursors required for pungency accumulation in chili. Hence control points for breeding species with a more evenly capsaicinoid content and defined pattern are searched for by several research groups. 
+
+Our research aim to detect the postulated acyl-ACP and acyl-CoA derivatives in placenta tissue, the place of capsaicinoid biosynthesis. By a modified method according to Kopka et al., it was possible to extract, separate and identify the acyl-thioesters, such as acyl-ACP, by selective formation of acyl-butylamides and subsequent analysis by gas chromatography/mass spectrometry. The reaction is specific for thioester-linked acyl groups in aqueous solution. In order to obtain plants of defined origin, capsicum plants were cultivated in the university’s own greenhouse. 
+
+Precursors of capsaicin, dihydrocapsaicin and nordihydrocapsaicin have been detected in two different species of capsicum spp. as acyl-thioesters in a narrow time slot during adolescence. They are present in picomolar range and their distribution pattern matches with the capsaicinoid pattern determined in parallel by liquid chromatography. 
+
+It was the first time that an unsaturated fatty acid moiety has been found in the acyl-ACP pool and thereby gives hints of the existence of a desaturase activity close to the enzymatic chain elongation of the fatty acids charcteristic for capsaicinoids.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20080466</identifier>
+                    <identifier type="sys">HT015712572</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_807</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_807">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2008/thiele/dc0816.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_807"
+            DMDID="DMD_wuppertal_elpub_807">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_807"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

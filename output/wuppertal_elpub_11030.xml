@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_11030">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wirkung der Mitwirkung - Messung der Effektivität von Bürgerbeteiligung am Beispiel der Stadt Heidelberg</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Nebenführ, Pascal</displayForm>
+                        <namePart type="family">Nebenführ</namePart>
+                        <namePart type="given">Pascal</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-10-27</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Seit den Protesten rund um den Bau des Bahnprojekts Stuttgart 21 werden Politik und Verwaltung auf kommunaler Ebene mit beständig stärker werdenden Beteiligungswünschen der Bürgerinnen und Bürger konfrontiert. Aber auch in der internationalen Partizipationsforschung taucht der Begriff der Bürgerbeteiligung in den letzten zehn bis 15 Jahren immer beharrlicher auf. In direkter Reaktion hierauf befasst sich die Stadt Heidelberg, als eine der ersten Kommunen deutschlandweit, seit dem Jahr 2010 intensiv mit der Beteiligung ihrer Bürgerinnen und Bürger am politischen Entscheidungsfindungsprozess. Die deutschsprachige Forschung allerdings konzentriert sich lediglich auf die inhaltliche Ausgestaltung von Bürgerbeteiligung anhand einer Vielzahl an Handbüchern, Checklisten und Leitlinien für die kommunale Praxis. Wissenschaftliche Überlegungen zu deren Wirksamkeit werden so gut wie gar nicht angestellt. Die Dissertation „Wirkung der Mitwirkung - Messung der Effektivität von Bürgerbeteiligung am Beispiel der Stadt Heidelberg -“ von Pascal Nebenführ geht aufgrund dessen anhand einer quantitativen Datenanalyse der Fragestellung nach, welchen Grad an Effektivität Bürgerbeteiligung in der Stadt Heidelberg innehat. Der Autor entwickelt hierfür zuerst eine an Benjamin Barbers (1994) starker Demokratie orientierte normative Definition von Bürgerbeteiligung. Anschließend werden, bezugnehmend auf die Publikationen von Archon Fung (2003) sowie Lyn Carson und Phillip Hart (2005), Beurteilungsdimensionen effektiver Bürgerbeteiligung (Empowerment, Efficacy, Inclusion und Quality) entworfen. Darauf aufbauend konstruiert der Autor ein empirisches Messmodell, welches im letzten Teil der Arbeit anhand von Primär- und Sekundärdaten auf die Stadt Heidelberg angewandt wird. Als Ergebnis der Arbeit zeigt sich unter anderem, dass die Effektivität von Partizipationsverfahren von vielen unterschiedlichen Einflussfaktoren und Parametern abhängig ist, die nicht alle einer Messung zugeführt werden können. Zudem wird deutlich, dass Kommunen vorrangig bei den Beurteilungsdimensionen Inclusion und Quality ansetzen müssen, um die Wirksamkeit von Bürgerbeteiligung zu erhöhen. Beispielsweise durch den Partizipationsprozess begleitende Maßnahmen wie eine aleatorische Teilnehmerauswahl oder die Zahlung von Aufwandsentschädigungen. Der Autor kommt abschließend zu der Überzeugung, dass die Kombination aus normativen und quantitativen Untersuchungen das Verständnis von Bürgerbeteiligung auf kommunaler Ebene erheblich verbessern wird.</abstract>
+                    <classification authority="ddc">320</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Human- und Sozialwissenschaften » Politikwissenschaft"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20201027-112819-3</identifier>
+                    <identifier type="doi">10.25926/e8jz-s766</identifier>
+                    <identifier type="sys">HT020661340</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_11030</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_11030">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbg/politikwissenschaft/diss2020/nebenfuehr/dg2003.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_11030"
+            DMDID="DMD_wuppertal_elpub_11030">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_11030"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

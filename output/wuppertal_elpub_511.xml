@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_511">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>C₁- und C₂ symmetrische zweizähnige chirale Phosphane mit starrem Rückgrat</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kühner, Uwe</displayForm>
+                        <namePart type="family">Kühner</namePart>
+                        <namePart type="given">Uwe</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003-03-18</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Novel chiral C₁- and C₂-symmetric chelating phosphine catalyst-ligands with rigid aromatic backbones (1,2-phenylene and 1,8-naphthalene) were developed and checked by both allylic Pd-catalysed stereoselective substitution and Rh(I)-catalysed hydrogenation reaction. Furthermore, 1,2-bisphosphinoacenaphtylenes and -acenaphtenes were synthesized. 
+Chiral C₁-symmetric 1-diphenylphosphino-2-phospholanobenzenes were obtained by consecutive metallation and alkylation of the novel 1-diphenylphosphino-2-phosphinobenzene. 
+A chiral C₂-symmetric P,P-ligand was synthesized by twofold lithiation of 1,8-dibromonaphthaline and subsequent reaction with the chiral (2R,5R)-1-chloro-2,5-dimethylphospholane. P,N-ligands bearing either chiral phospholane or chiral phosphetane moieties were obtained from the novel primary 1-dimethylamine-8-phosphinonaphthaline by consecutive metallation and alkylation. Various P,N-ligands containing a chiral (2R,5R)-2,5-dimethylpyrrolidine moiety were accessible from the novel 1-bromo-8-((R,R)-α’-dimethylpyrrolidino)naphthalene by lithiation and subsequent phosphination with various chlorophosphines. 
+1,2-bisphosphinoacenaphthylenes were synthesized by twofold lithiation-phosphination of 1,2-dibromoacenaphthylene with the corresponding chlorophosphines. Reduction of bis(diphenylphospino)acenaphthylene with zinc in acetic acid afforded cis-bis(diphenylphosphino)acenaphthene.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20030115</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_511</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_511">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-606/d090210.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_511"
+            DMDID="DMD_wuppertal_elpub_511">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_511"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

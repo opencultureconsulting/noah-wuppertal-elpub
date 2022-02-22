@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_606">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Anwendung feldtheoretischer Verfahren auf Untersuchungen zur Wirkung hochfrequenter elektromagnetischer Felder auf Mensch und Umwelt</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Streckert, Joachim</displayForm>
+                        <namePart type="family">Streckert</namePart>
+                        <namePart type="given">Joachim</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1999-10-04</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Arbeit befasst sich mit der Exposition biologischer Systeme und mit der Störeinkopplung in implantierte Herzschrittmacher durch hochfrequente elektromagnetische Felder. Grundlage der erstgenannten Problematik sind verschiedene, gemeinsam mit Physiologen, Medizinern und Biologen geplante und durchgeführte Experimente. Da im menschlichen Körper sehr viele komplexe Prozesse ablaufen, von denen vermutet wird, dass sie im Prinzip duch elektromagnetische Felder beeinflusst werden können, ist es unverzichtbar, solche Untersuchungen zunächst auf Teilprozesse oder zelluläre Subsysteme des Körpers zu beschränken und mit kultiviertem biologischen Material oder Versuchstieren spezifizierter Eigenschaften zu arbeiten. Dementsprechend reichte die Spanne der Testobjekte bei den hier beschriebenen Experimenten von einzelnen Zellen mikroskopischer Abmessungen über Zellkulturen und lebende Kleintiere bis hin zu Versuchspersonen. Konkreter Gegenstand der Untersuchungen waren der Ca-Ionentransport durch Zellmembranen, das Wachstumsverhalten menschlicher Blutzellen, die Melatoninsynthese von Hamstern und das Schlafverhalten menschlicher Probanden unter dem Einfluss von Mobilfunksignalen bei 900 MHz bzw. 1800 MHz, wobei die elektromagnetische Belastung der Testobjekte jeweils bis an die Grenze der nach internationalen Sicherheitsbestimmungen zulässigen Werte für elektrische und magnetische Feldstärken, Leistungsdichten und Absorptionsraten (SAR) reichen sollte. Die Erzeugung der dazu erforderlichen elektromagnetischen Felder ist ein komplexes Problem, dessen Lösung von verschiedenen Parametern wie Anzahl, Größe, Form und innerer Struktur der Testobjekte, ihrer unmittelbaren Umgebung, den Eigenschaften des Versuchsraums, der Expositionsfrequenz, usw. abhängt. Entsprechend unterschiedlich waren die Anforderungen an die hier zu erstellenden Hochfrequenz-Expositionsanlagen, deren technische Konzipierung und Realisierung geschildert wird. Im Vordergrund der Arbeiten stand die Erzielung einer möglichst homogenen Exposition der an einer Versuchsreihe beteiligten Testobjekte, um eine hohe Qualität der späteren statistischen Auswertung zu gewährleisten. Für Testobjekte kleiner Abmessungen wurden vorzugsweise geschlossene Messzellen verwendet, die als Wellenleiter dimensioniert waren. Benutzte Bauformen waren die Rechteckhohlleitung und die radiale Parallelplattenleitung. Für die mit Menschen durchgeführten Experimente wurde ein Absorberraum aufgebaut, in dem durch ein Antennensystem ein im Bereich des Kopfes der Testperson eindeutig definiertes Expositionsfeld erzeugt wurde. Die Expositionseinrichtungen wurden mit Hilfe analytischer und numerischer Feldberechnungsverfahren konzipiert und optimiert und nach ihrem Aufbau durch Kontrollmessungen geeicht. Für die Testobjekte wurden geeignete Modelle entworfen, um die räumlichen Feld- und SAR-Verteilungen durch numerische Computer-Simulationen mit Hilfe Finiter-Differenzen-Verfahren im Zeitbereich ermitteln zu können. Die Einkopplung hochfrequenter elektromagnetischer Felder in den menschlichen Körper hat neben möglichen biologischen Effekten unter bestimmten Bedingungen störende Auswirkungen auf die Funktionsweise medizinischer Implantate. Am Beispiel eines Herzschrittmachers wird diese EMV-Problematik für Expositionsfelder, die typische Fernfeldsituationen von Mobilfunk-Basisstationsantennen des D-Netzes wiedergeben, behandelt. Dazu wird nach numerischen Berechnungen der elektrischen Feldverteilungen in einem differenziert aufgebauten Körpermodell mit Hilfe eines Integralgleichungsverfahrens die Leerlaufspannung am Eingang der Herzschrittmacher-Elektronik bestimmt und mit aus der Literatur bekannten Grenzwerten verglichen. Die Expositionsfelder wurden in Frequenz, Polarisationsrichtung und Ausbreitungsrichtung bezüglich der Körperachse variiert. Der Herzschrittmacher wurde mit umfangreichen Parameterkombinationen im Hinblick auf die Implantationsposition und die Länge bzw. den Verlauf der Schrittmacher-Elektrode modelliert.</abstract>
+                    <abstract type="content" lang="eng">The subject of this work is the exposure of biological systems and the disturbance of implanted cardiac pacemakers by radio frequency electromagnetic fields. The former is considered on the basis of different experiments that were planned and performed together with physiologists, medicines, and biologists. As many complex processes are running within the human body, which are suspected to be principally affected by electromagnetic radiation, it is necessary to limit such investigations to parts of the body or to cellular subsystems and to use biological material in culture or animal subjects with specified properties. Accordingly, the range of test objects investigated in the mentioned experiments covers isolated cells, cultivated biological material, living animals, and human test persons. In detail, exposure setups in the frequency region of 900 and 1800 MHz were developed for electroencephalogram experiments with humans, long-term investigations of melatonin production in rodents, growth rate investigations of human blood cells and Calcium ion transport experiments through heart muscle cell membranes. In each case the electrical and magnetical field strengths, power densities and specific absorption rates (SAR) were chosen to match the maximum values recommended by international standards concerning human health. The achievement of an intended electromagnetic rf exposure is a complex problem that depends on various parameters such as the number, size, shape and inner structure of the test objects, their direct environment, the properties of the test room, the exposure frequency etc. Likewise, the special requirements to be fulfilled by the respective exposure devices were very different. The technical concept and implementation of such exposure setups are described in detail. The basic demand is an exposure of all specimen as uniform as possible in order to assure a high level of statistical power. For objects of small dimensions closed chambers were applied being dimensioned as rectangular or radial waveguides. For the investigations with human test persons an anechoic chamber was built up with an antenna system that generated a uniquely defined electromagnetic field in the head region. The exposure devices were concepted and optimized with help of analytical and numerical methods of electromagnetic theory. After implementation the setups were calibrated by measurements. In order to evaluate the spatial field and SAR-distributions inside the biological samples, computer models of the exposure devices including the test objects were developed and numerical codes, e.g. the finite difference method in time domain, were applied. Apart from biological effects the coupling of radio frequency electromagnetic fields into the human body may adversely influence the behaviour of medical implants under certain conditions. This problem of electromagnetic interference is treated for the example of a cardiac pacemaker considering typical far-field situations of mobile communication base station antennas. After calculation of the field distribution within a differentiated body model the open-circuit voltage at the input of the pacemaker is determined by means of an integral equation representation and compared with measured threshold values known from the literature. Frequency, polarization and propagation direction of the exposure fields were varied. The pacemaker was modeled with a large range of different parameters concerning implantation position and length and path of the pacemaker electrode.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-19990192</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_606</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_606">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-702/d139901.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_606"
+            DMDID="DMD_wuppertal_elpub_606">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_606"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1358">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Organisationale Reaktionen auf Krisen - Eine Analyse der Wirkungszusammenhänge aus Legitimitätsperspektive</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Breitsohl, Heiko</displayForm>
+                        <namePart type="family">Breitsohl</namePart>
+                        <namePart type="given">Heiko</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Krisen sind seltene, wirkungsvolle Ereignisse, welche die Existenz der betroffenen Organisation gefährden. Ausgehend von der Beobachtung, dass Organisationen auf verschiedene Art und mit unterschiedlichem Erfolg auf Krisen reagieren, stellt sich die Frage, welche Reaktionen geeignet sind, solchen Situationen zu begegnen. Die vorliegende Arbeit analysiert die Wirkungszusammenhänge von Krisenreaktionen aus Legitimitätsperspektive, wobei die Interaktion zwischen Organisation und Anspruchsgruppen im Vordergrund steht. Zunächst wird anhand von Computersimulationen untersucht, welche Rolle die wahrgenommene Angemessenheit sowie das Timing von Krisenreaktionen spielen. Es wird gezeigt, dass beide Faktoren nichtlineare Effekte auf die Krisenbewältigung aufweisen. Daran anschließend werden die konzeptionellen Grundlagen der Krisenforschung aus Legitimitätsperspektive vertieft und systematisiert. Als empirische Ergänzung werden die Ergebnisse zweier qualitativer Studien präsentiert. Sie zeigen, dass Organisationskrisen mit einem Verlust an Legitimität verbunden sind. Darüber hinaus finden sich Hinweise auf die Wirksamkeit verschiedener Krisenreaktionen, wobei die Bedeutung des Timings bestätigt wird. Insgesamt leistet die Arbeit einen wertvollen Beitrag zum Verständnis der sozialen Dimension von Organisationskrisen.</abstract>
+                    <abstract type="content" lang="eng">Crises are rare, impactful events threatening the existence of the affected organization. Based on the observation that organizations react to crises in various ways and with differing degrees of success, it remains unclear what kinds of reactions are effective in handling threatening events. This thesis analyzes the causal relationships of reactions to crises from a legitimacy perspective, with an emphasis on the interaction between the organization and its stakeholders. First, computer simulation is used to explore the role of reactions’ appropriateness and timing. It is demonstrated that both factors have nonlinear effects on overcoming crises. Then, the conceptual basis of crisis research from a legitimacy perspective is extended and systematized. Finally, empirical evidence from two qualitative studies is presented. Organizational crises were found to be linked to a loss in legitimacy. Furthermore, results suggest differences in efficacy for certain reactions to crises, while timing appears to be particularly important. Overall, the thesis contributes to the understanding of the social dimension of organizational crises.</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ddc">300</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20100038</identifier>
+                    <identifier type="sys">HT016203741</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1358</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1358">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2009/breitsohl/db0901.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1358"
+            DMDID="DMD_wuppertal_elpub_1358">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1358"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

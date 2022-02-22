@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1398">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Auf Takagi-Faktoren basierende Präkonditionierung des CSYM-Verfahrens</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Fischer, Sigrid Marion</displayForm>
+                        <namePart type="family">Fischer</namePart>
+                        <namePart type="given">Sigrid Marion</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Notwendigkeit, Gleichungssysteme mit einer großen komplex symmetrischen Matrix zu lösen, wächst in verschiedenen Anwendungsgebieten. Im Rahmen dieser Arbeit wird das CSYM-Verfahren untersucht, das die komplexe Symmetrie der Matrix nutzt, und dadurch nur etwa den halben Speicherbedarf und Rechenaufwand hat wie Iterationsverfahren für allgemeine Matrizen. Gegenüber anderen Verfahren mit kurzen Rekursionen hat das CSYM-Verfahren zudem die sehr wichtige Eigenschaft, dass kein verfrühter Abbruch auftreten kann. Damit ist das CSYM-Verfahren von besonderer Bedeutung für das Lösen von größeren Gleichungssystemen mit komplex symmetrischer Matrix. 
+ Die vorliegende Arbeit beschäftigt sich damit, für das CSYM-Verfahren geeignete Klassen von Präkonditionierern zu finden. Für die Präkonditionierung des CSYM-Verfahrens reicht es nicht aus, einen symmetrischen Präkonditionierer zu wählen, sondern er muss symmetrisch faktorisiert vorliegen. Zunächst untersuchen wir die Änderungen der Singulärwerte der ursprünglichen Matrix bei beidseitiger Präkonditionierung und leiten daraus Forderungen an einen guten Präkonditionierer ab. Die Untersuchung der Transformation zwischen verschiedenen Faktorisierungen des gleichen Präkonditionierers hilft bei der Beantwortung der Frage, welche Faktorisierung bei einem festen Präkonditionierer optimal ist. Dabei liefert der Takagi-Faktor die besten Ergebnisse. Als konkrete Anwendungen werden das CSYM-Verfahren mit Deflation und mit faktorisierten Block-Präkonditionierern untersucht.</abstract>
+                    <abstract type="content" lang="eng">In various application fields it becomes more and more important to solve large linear system with complex symmetric matrices. In this work we consider CSYM that takes into account the complex symmetry of the matrix, and so needs about half the storage and computational cost of iterative methods for general matrices. In contrast to other methods with short recursions CSYM has the important property that an early breakdown cannot occur. Thus CSYM is of special interest for solving larger linear systems with complex symmetric matrices. 
+ This work focuses on finding an appropriate class of preconditioners for CSYM. To precondition the CSYM method with a symmetric preconditioner we have to factorize it symmetrically. First we examine how the singular values of the original matrix change by the application of a two sided preconditioner and deduce some properties a good preconditioner should have. Analysis of transformations between different factorizations of a fixed preconditioner provides an answer to the question which factorization might be optimal. Here the Takagi factor outperforms the others. As applications we consider CSYM with deflation and with factorized block preconditioners.</abstract>
+                    <subject>
+                        <topic>Iterative methods for linear systems</topic>
+                        <topic>Complex symmetric matrices</topic>
+                        <topic>Singular values</topic>
+                        <topic>Preconditioning</topic>
+                        <topic>Takagi factorization</topic>
+                        <topic>Deflation</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20060062</identifier>
+                    <identifier type="sys">HT014707431</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1398</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1398">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2006/fischer/dc0602.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1398"
+            DMDID="DMD_wuppertal_elpub_1398">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1398"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

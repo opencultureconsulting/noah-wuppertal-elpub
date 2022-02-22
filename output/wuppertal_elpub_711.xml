@@ -1,0 +1,81 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_711">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Herstellung eines Adsorbers für proteingebundene Toxine durch Modifikation von PA6-Mikrofiltrationsmembranen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Benfer, Andreas</displayForm>
+                        <namePart type="family">Benfer</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004-06-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Durch Aktivierung der Aminoendgruppen von PA6-Mikrofiltrationsmembranen und anschließender Ligandenimmobilisation konnte eine Vielzahl neuartiger Affinitätsmembranen hergestellt werden. 
+
+Die Membranaktivierung erfolgte mittels verschiedener Methoden. Die Umsetzung der terminalen Aminogruppen mit Diglycidylethern von OEGs führte zu epoxyaktivierten Membranen, die durch unterschiedliche Spacerlänge zwischen Membranoberfläche und reaktiver Ankergruppe gekennzeichnet waren. 
+
+Weiterhin wurde eine Membranaktivierung durch Synthese von dendritischen Strukturen erarbeitet, wodurch eine Erhöhung der Ankergruppendichte zur Immobilisation kleiner Liganden erzielt werden konnte. 
+
+Die aktivierten Membranen wurden zur Immobilisation von Serumalbumin, Glucoseoxidase (GOx), Reaktivfarbstoffen und β-Cyclodextrinderivaten genutzt. 
+
+Die enzymatische Aktivität der erhaltenen GOx-immobilisierten Membranen hing stark von der Art der vorausgegangenen Aktivierung ab. Die höchsten Aktivitäten konnten für Membranen gefunden werden, die durch eine niedrige Ankergruppendichte gekennzeichnet waren. Diese Membranen erlauben Anwendungen als Membranreaktoren für die selektive Oxidation von Zuckern oder pathogenen Substanzen in menschlichem Blut. 
+
+Farbstoff- und β-Cyclodextrinimmobilisierte Membranen wurden durch Aufzeichnung von Gleichgewichtsisothermen bezüglich ihrer Adsorptionskapazität für Bilirubin untersucht. 
+
+Die besten Kapazitäten konnten bei Verwendung β-Cyclodextrinimmobilisierter Membranen beobachtet werden. Es kann ein hohes Potential dieser Systeme für Anwendungen innerhalb einer extrakorporalen Plasmatherapie von Patienten mit Leberschäden erwartet werden.</abstract>
+                    <abstract type="content" lang="eng">Novel affinity membranes were prepared by activation of nylon microfiltration membranes and subsequent ligand immobilisation. 
+
+Membrane activation was achieved by different methods. Conversion of terminal amino groups of nylon polymer with various diglycidyl ethers of OEGs led to epoxy activated membranes which were characterised by different spacer length between membrane surface and reactive anchor group. 
+
+Activation was also achieved by building up dendritic structures in order to amplify the number of anchor points for immobilisation of small ligands. Subsequent addition of acryloyl chloride and polyamines to the amino end groups led to high anchor group densities. 
+
+Ligand immobilisation was carried out by coupling serum albumin, glucose oxidase (GOx), reactive dyes and β-cyclodextrin derivatives to activated nylon membranes. 
+
+Enzymatic activity of GOx immobilised membranes depended on type and density of anchor points. Highest enzymatic activities were found in case of coupling GOx to membranes with low anchor point densities. 
+
+Obtained enzyme immobilised membranes disclose applications as membrane reactors for selective oxidation of sugars or pathogen substances in human blood. 
+
+Adsorption capacity for bilirubin was examined for reactive dye and β-cyclodextrin immobilised membranes by recording equilibrium isotherms. 
+
+Best adsorption capacities for bilirubin were observed for β-cyclodextrin immobilised membranes which were prepared by coupling isothiocyanate derivatives of β-cyclodextrin to amino functional membranes. High potential for application within extracorporeal plasma treatment of patients suffer from hyperbilirubinemia can be expected for a derived membrane adsorber.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20040259</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_711</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_711">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-807/dc0302.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_711"
+            DMDID="DMD_wuppertal_elpub_711">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_711"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

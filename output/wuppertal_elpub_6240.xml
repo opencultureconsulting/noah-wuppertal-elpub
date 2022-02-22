@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6240">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Atomic oxygen derived from SCIAMACHY O(¹S) and OH airglow measurements in the Mesopause region</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Zhu, Yajun</displayForm>
+                        <namePart type="family">Zhu</namePart>
+                        <namePart type="given">Yajun</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Atomic oxygen plays a crucial role in the photochemistry and energy balance of the mesopause region. In particular, it is the most abundant reactive species and an important quantity in the derivation of temperature, ozone and other constituents in this part of the atmosphere. This work deals with the derivation of the atomic oxygen abundance from SCIAMACHY (Scanning Imaging Absorption spectroMeter for Atmospheric CHartographY) O(1S) green line and OH(9-6) band nightglow measurements from 2003 to 2011. 
+
+ There are two different photochemical models available, which describe O(1S) green line volume emission rates, namely the ETON and Khomich models. Differences between the two models and their implication on the derivation of atomic oxygen abundance are discussed. Two atomic oxygen datasets are derived from SCIAMACHY O(1S) green line measurements at 90–105 km. Analyses are performed on abundance uncertainties owing to rate constants and background atmosphere (i.g., temperature and total density), as well as abundance differences (up to around 20%) arising from the different model schemes. One photochemical model is used to simulate SCIAMACHY OH(9-6) band measurements and the resulting atomic oxygen abundance is derived at 80–96 km. Induced abundance uncertainties, as a result of uncertainties in rate constants and background atmosphere, are 20% at 80 km, which rise intensively up to 90% at 96 km.Atomic oxygen datasets derived from SCIAMACHY measurements show a consistent picture with each other. These derived datasets agree within 20% to the atomic oxygen data derived from WINDII (Wind Imaging Interferometer) O(1S) and OH nightglow measurements, whereas atomic oxygen data derived from simultaneously measured SABER (Sounding of the Atmosphere using Broadband Emission Radiometry) OH nightglow emissions are around 30–50% larger than the SCIAMACHY and WINDII data. The effect of the 11-year solar cycle is clearly evident in the atomic oxygen data. An investigation is conducted on the solar maximum/minimum (max/min) differences imprinted in SCIAMACHY and SABER atomic oxygen abundances. The differences vary in a range of 8–18% and depend on latitude. One striking feature is that the solar cycle variation increases with altitude at 90–105 km. The solar cycle variation is discussed using HAMMONIA (Hamburg Model of the Neutral and Ionized Atmosphere) model data. The model suggests that the 11-year solar cycle observed in the atomic oxygen abundance is mostly caused by total density variations (about 6–11% at 90–105 km) compared to volume mixing ratio (vmr) variations (3%). Thus, the atomic oxygen solar max/min variation is primarily driven by the total density compression/expansion variations during the solar cycle, rather than different atomic oxygen volume mixing ratios relevant to photolysis rates.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20161019-092721-7</identifier>
+                    <identifier type="sys">HT019136165</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6240</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6240">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2016/zhu/dc1625.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6240"
+            DMDID="DMD_wuppertal_elpub_6240">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6240"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

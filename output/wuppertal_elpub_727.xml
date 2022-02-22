@@ -1,0 +1,123 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_727">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Abbau von Chloraromaten in Pseudomonas putida GJ31 und seinen Abkömmlingen - Charakterisierung von Genclustern auf den Plasmiden</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Zerlin, Kay Frank Thorsten</displayForm>
+                        <namePart type="family">Zerlin</namePart>
+                        <namePart type="given">Kay Frank Thorsten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005-01-05</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In dieser Arbeit wurde die Organisation der Gene des meta-Weges und des Benzoat-Abbaus in P. putida GJ31 untersucht. Insbesondere wurde das Plasmid pKW1 durch Cluster-Analyse näher untersucht, um seine Organisation und Struktur weiter aufzuklären. Hierbei war es hilfreich, Abkömmlinge von P. putida GJ31 mit veränderten Eigenschaften in die Untersuchungen mit einzubeziehen. Dies waren P. putida GJ31* und P. putida QM1. 
+- Aus P. putida GJ31 und seinen Abkömmlingen P. putida GJ31 und P. putida QM1 wurden die Plasmide pKW1, pKW2 und pZSG1 isoliert und ihre Größe (189 kbp, 180 kbp und 181 kbp) nach Restriktionen festgestellt.
+
+ 
+- Für das Plasmid pKW1 konnte mit PCR-Experimenten nach Götz et al. (1996) gezeigt werden, dass es nicht zu den Inkompatibilitätsgruppen IncP, IncW, IncQ und IncN zählt.
+
+ 
+- Es konnte in P. putida GJ31 nebem dem cbzTEXG-Cluster und dem meta-Operon in dieser Arbeit ein dritter Gencluster auf pKW1 mit Genen kodierend für Enzyme des meta-Weges sequenziert werden (nahINLOMKJX-Cluster). Dabei wurden auf rund 5,9 kbp Sequenz sieben vollständige offene Leserahmen und ein unvollständiger offener Leserahmen gefunden. Den offenen Leserahmen konnten durch Sequenzvergleiche folgende enzymatische Funktionen zugewiesen werden: nahI (unvollständig): 2-Hydroxymuconsäuresemialdehyd-Dehydrogenase, nahN: 2-Hydroxymuconsäuresemialdehyd-Hydrolase, nahL: 2-Oxopent-4-enoat-Hydratase, nahO: Acetaldehyd-Dehydrogenase, nahM: 2-Oxo-4-hydroxypentanoat-Aldolase, nahK: 4-Oxalocrotonat-Decarboxylase, nahJ: 4-Oxalocrotonat-Tautomerase, nahX: unbekannte Funktion.
+
+ 
+- Die Gene nahO (Acetaldehyd-Dehydrogenase) und nahK (4-Oxalocrotonat-Decarboxylase) konnten erfolgreich exprimiert und somit die ihnen auf Grund von Sequenzvergleichen zugewiesene Funktion durch enzymatische Untersuchungen bestätigt werden.
+
+ 
+- Es konnte in P. putida GJ31 stromabwärts des cbzTEXG-Clusters auf pKW1 eine rund 5,5 kbp große Nukleotidsequenz isoliert werden, die als Transposonbereich Tn5501 identifiziert wurde. Den zwei offenen Leserahmen dieser Sequenz wurde nach Sequenzvergleichen folgende enzymatische Funktion zugewiesen: tnpR: Resolvase, tnpA4: Transposase. Außerdem konnten zwei Inverted repeads an den Rändern des Transposonbereiches identifiziert werden.
+
+ 
+- In P. putida GJ31 konnte eine rund 2,1 kbp große Nukleotidsequenz mit einem offenen Leserahmen isoliert werden. Dem offenen Leserahmen dieser Sequenz wurde nach Sequenzvergleichen folgende enzymatische Funktion zugewiesen: aldA: Chloracetaldehyd-Dehydrogenase. Nach erfolgreicher Expression in E. coli konnte die enzymatische Funktion von AldA nachgewiesen werden. AldA aus P. putida GJ31 ist eine NADH-abhängige und CoA-unabhängige Chloracetaldehyd-Dehydrogenase.
+
+ 
+- Es konnte in P. putida GJ31 und P. putida GJ31* der Gencluster benRXABC auf pKW1 bzw. pKW2 sequenziert werden. Dabei wurden in P. putida GJ31 auf rund 5,9 kbp Nukleotidsequenz fünf vollständige und ein unvollständiger offener Leserahmen und in P. putida GJ31* auf rund 5,1 kbp Nukleotidsequenz vier vollständige und ein unvollständiger Leserahmen sequenziert und identifiziert. Den offenen Leserahmen konnten durch Sequenzvergleiche folgende enzymatische Funktionen zugewiesen werden: GJ31-ORF: unbekannte Funktion, benR: Regulator, benX: unbekannte Funktion, benA: Benzoat-Dioxygenase-Untereinheit-A, benB: Benzoat-Dioxygenase-Untereinheit-B, benC (unvollständig): Benzoat-Dioxygenase-Ferredoxin-Reduktase.
+
+ 
+- Es wurde festgestellt, dass sich die Nukleotidsequenzen von benR aus P. putida GJ31 und P. putida GJ31* in zwei Positionen unterscheiden.
+
+ 
+- Auf Grund der Mutation der Nukleotidsequenz von benR in Stamm GJ31 zu seinem Abkömmling Stamm GJ31*, ist die Aminosäuresequenz der Regulatoren gleichermaßen in zwei Positionen verändert. Die Induktion von benR in P. putida GJ31 und Stamm GJ31* mit Benzoat und 3-Chlorbenzoat wurde nach Cowles et al. (2000) untersucht. Das Experiment erbrachte keine Unterschiede in der Induktion von BenR in P. putida GJ31 und P. putida GJ31* mit Benzoat oder 3-Chlorbenzoat als Induktor.
+
+ 
+- Durch Messung von Umsatzraten mit verschiedenen Benzoaten konnte die Benzoat-Dioxygenase-Aktivität in P. putida GJ31 und in Stamm GJ31* verglichen werden. Die Umsatzraten für die verschiedenen Benzoate waren in beiden Stämmen gleich.
+
+ 
+- Durch Messung von Enzymtests wurde die Induktion der DHB-Dehydrogenase und der Catechol-2,3-Dioxygenase durch Benzoat und 3-Chlorbenzoat in P. putida GJ31 und Stamm GJ31* untersucht. 3-Chlorbenzoat führt in Stamm GJ31* im Gegensatz zum Wildstamm GJ31 zur Induktion der DHB-Dehydrogenase.
+
+ 
+- In Stamm QM1 wurde nachgewiesen, dass fast 9 kbp der Nukleotidsequenz des cbzTEXG-Clusters ausgeschnitten und vermutlich ersetzt worden sind. P. putida QM1 verfügt nicht über den nahINLOMKJX- aber wie P. putida GJ31 und Stamm GJ31* auch über den benRXABC-Cluster.</abstract>
+                    <abstract type="content" lang="eng">The main topic of this thesis was the organization of the meta pathway genes and of the genes for benzoate degradation in P. putida GJ31. By cluster analysis it was assumed that it might be possible to clear further details of organization and structure of plasmid pKW1. In this study it was helpful to include progenies of P. putida GJ31 such as P. putida GJ31* and P. putida QM1 with different capabilities. 
+- The plasmids pKW1, pKW2 and pZSG1 were isolated from P. putida GJ31, P. putida GJ31* and P. putida QM1 and were obtained to have a size of 189 kbp, 180 kbp and 181 kbp by restriction analysis respectively.
+
+ 
+- Plasmid pKW1´s incompatibility group was analyzed by PCR-experiments reported by Götz et al. (1996) and was recognized not to be IncP, IncW, IncQ or IncN.
+
+ 
+- A third gene cluster named nahINLOMKJX coding for meta pathway enzymes was sequenced on pKW1. Its supplements cbzTEXG-cluster and meta-operon which are located on pKW1, too. There were seven complete open reading frames and one incomplete one obtained from 5.9 kbp nucleotide sequence. Sequence alignments identified the following functions for the respective open reading frames: nahI (incomplete): 2-hydroxymuconic semialdehyde dehydrogenase, nahN: 2-hydroxymuconic semialdehyde hydrolase, nahL: 2-oxopent-4-enoate hydratase, nahO: acetaldehyde dehydrogenase, nahM: 2-oxo-pentanoate aldolase, nahK: 4-oxalocrotonate carboxylase, nahJ: 4-oxalocrotonate tautomerase, nahX: unkown function.
+
+ 
+- The genes nahO (acetaldehyde dehydrogenase) and nahK (4-oxalocrotonate carboxylase) were successfully expressed in E. coli. The functions were proved by enzymatic activity tests.
+
+ 
+- Downstream of the cbzTEXG-cluster on pKW1 in P. putida GJ31 a 5.5 kbp complete nucleotide sequence was obtained. It was identified as a Tn5501 like transposon domain. Through sequence alignments it was possible to allocate the following functions to the two complete open reading frames of Tn5501 in P. putida GJ31: tnpR: resolvase, tnpA4: transposase.
+
+ 
+- In P. putida GJ31 a 2.1 kbp complete nucleotide sequence containing one complete open reading frame was obtained. This open reading frame aldA was proven to be a chloroacetaldehyd dehydrogenase. After the successful expression in E. coli the function of AldA was tested. AldA is a NADH-dependent and CoA-independent chloroacetaldehyd dehydrogenase.
+
+ 
+- In P. putida GJ31 and P. putida GJ31* the benRXABC gencluster on pKW1 and pKW2 respectively were sequenced. Thereby the nucleotide sequence with a size of 5.9 kbp in P. putida GJ31 contains five complete open reading frames and one incomplete one. The obtained 5.1 kbp nucleotide sequence in P. putida GJ31* contains four complete and one incomplete open reading frames. Through sequence alignments it was possible to allocate the following functions to the respective open reading frames: GJ31-ORF1: unkown function, benR: regulator, benA: benzoate dioxygenase subunit-A, benB: benzoate dioxygenase subunit-B, benC (incomplete): benzoate dioxygenase ferredoxin reductase.
+
+ 
+- A difference in two positions of the benR nucleotide sequence in P. putida GJ31 and strain GJ31* was identified.
+
+ 
+- The mutation of two nucleotides of benR in P. putida GJ31* compared to benR in wildstrain GJ31 lead to a change of two positions of the aminoacid sequence of the regulator BenR in P. putida GJ31*. The induction of benR in P. putida GJ31 and strain GJ31* with benzoate and 3-chlorobenzoate was analyzed by the method reported by Cowles et al. (2000). There were no differences by the induction of BenR with benzoate or 3-chlorobenzoate in P. putida GJ31 and strain GJ31*.
+
+ 
+- The turnover rates with different substituted benzoates were measured to be a specific benzoate dioxygenase activity with P. putida GJ31 and stain GJ31*. The tunrover rates with this benzoates were the same in both strains.
+
+ 
+- The inductions of the cis-dihydrodiolbenzoate (DHB) dehydrogenase and the catechol 2,3-dioxygenase with benzoate and 3-chlorobenzoate were tested by measuring the enzymatic activity. 3-Chlorobenzoate caused in strain GJ31* the induction of the DHB dehydrogenase in contrast to wildstrain GJ31.
+
+ 
+- In P. putida QM1 was found, that about 9 kbp nucleotide sequence of the cbzTEXG-cluster were cut out and substituted. P. putida QM1 is not equipped with the nahINLOMKJX- but with the benRXABC-cluster like P. putida GJ31.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20050013</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_727</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_727">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-823/dc0414.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_727"
+            DMDID="DMD_wuppertal_elpub_727">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_727"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

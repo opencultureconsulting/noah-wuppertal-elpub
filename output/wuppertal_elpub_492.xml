@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_492">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchungen zur Darstellung von Iminozuckersystemen auf Nojirimycinbasis über zentrale Bausteine</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ostrowski, Jens</displayForm>
+                        <namePart type="family">Ostrowski</namePart>
+                        <namePart type="given">Jens</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002-05-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">As carbohydrates are important for a large variety of biological functions, the development of specific inhibitors of glycosidases and glycosyl transferases has become a major field for synthetic organic chemists. One group of these inhibitors is known as iminosugars. These resemble normal sugar molecules, except that the ring oxygen is replaced by nitrogen. In this thesis the bicyclic compound “Aza-iso-levoglucosenone” 42 is envisioned as a flexible key compound that offers the opportunity to synthesize a large variety of polyhydroxylated piperidines of the nojirimycin type. The structure of 42 is reminiscent of another “Building-Block” often used in the synthesis of natural products, the well-known iso-levoglucosenone. Its functionality is derived from a structurally biased rigid bicyclic framework. The 1,6-anhydro bridge supersedes the necessity for protecting groups at the anomeric carbon and the primary hydroxy group at C-6. Furthermore the β-D-face of the molecule is hindered. This selectivity, observed in iso-levoglucosenone, is also present in compound 42 and augments its great potential as a versatile key compound. 42 was synthesized by a novel route starting from furyl glycine which gave access to the molecule in large quantities. 42 could be functionalized by several transformations of the carbonyl group and the double bond as well. From these reactions a large number of precursors for iminosugars could be obtained. In the second part, several routes were developed to known and unknown iminosugars of the nojirimycin type. The first synthesis demonstrates the application of 42 to the facile preparation of the known 1-deoxygulonojirimycin in only eight steps which is one of shortest synthesis ever published. In the second preparation racemic 143 is obtained in only three steps from 42. This molecule represents a new potential glycosidase inhibitor with an interesting substitution pattern at C-4 and is the first member of a new family of nojirimycin derivatives. Finally the first synthesis of enantiopure (+)-148 is developed. The key step is a stereoselective addition of benzyl alcohol to the double bond. Reduction and deprotection led to (+)-1,3-dideoxygulonojirimycin 148 in only five steps. Potentially this reaction sequence could be modified to enable the synthesis of all four isomers of this class. In summary it could be shown that 42 provides multiple paths to hydroxylated piperidine compounds of nojirimycin type.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20020200</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_492</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_492">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-587/d090116.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_492"
+            DMDID="DMD_wuppertal_elpub_492">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_492"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

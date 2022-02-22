@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5990">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Stabilisation of Infinite-Dimensional Port-Hamiltonian Systems via Dissipative Boundary Feedback</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Augner, Björn</displayForm>
+                        <namePart type="family">Augner</namePart>
+                        <namePart type="given">Björn</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">A large class of partial differential equations describing the evolutionary dynamics of strings and beams, e.g. the wave equation, the Euler-Bernoulli beam model or the Timshenko beam model, may be written in the abstract port-Hamiltonian form. Within this Ph.D. thesis we investigate properties of these equations on that abstract level, in particular we are interested in well-posedness (in the semigroup sense) and asymptotic behaviour, i.e. asymptotic or exponential energy decay. We consider both the cases of static and dynamic boundary feedback and also distinguish between the linear and the nonlinear case. The abstract results are then applied to the aforementioned examples of beam equations.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20160719-090307-4</identifier>
+                    <identifier type="sys">HT019059445</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5990</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5990">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2016/augner/dc1613.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5990"
+            DMDID="DMD_wuppertal_elpub_5990">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5990"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

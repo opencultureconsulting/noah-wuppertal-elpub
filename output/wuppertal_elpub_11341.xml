@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_11341">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Design and synthesis of luminescent poly(arylene vinylene)s and poly(arylene enthynylene)s</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Geisler, Isabell Sophia</displayForm>
+                        <namePart type="family">Geisler</namePart>
+                        <namePart type="given">Isabell Sophia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Scherf, Ullrich</displayForm>
+                        <namePart type="family">Scherf</namePart>
+                        <namePart type="given">Ullrich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-02-11</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Luminescent conjugated polymers like poly(arylene vinylene)s (PAV) and poly(arylene ethynylene)s (PAE) have been widely studied due to their versatile applicability, for example as chemosensors or as active component of light emitting diodes. Therefore, a synthetic challenge is to design and develop optimised polymers of increased efficiency. 
+In the first part of this work side and main chains of poly(arylene vinylene)s were varied systematically to obtain soluble conjugated polymers of intrinsic microporosity (C-PIM) and aggregation-induced emission (AIE) activity. The obtained polymers were compared for understanding the structural requirements for the desired combination of properties. To get a deeper insight, model compounds were synthesized and used for comparison. The resulting poly(arylene vinylene)s showed SBET surface areas of up to 417 m²g-1 and AIE effects leading to high fluorescence efficiency. One polymer was applied in explosive sensing experiments where it proved its high sensitivity towards picric acid with a very low detection limit of 1.5 ppm. Furthermore, a N-carbazolyl-substituted poly(arylene vinylene) was electrooxidatively cross-linked and the influence of the cross-linking on optical properties and SBET surface areas was investigated. 
+In the second part of this work a soluble poly(anthrylene ethynylene) was synthesized by a novel procedure. The polymer was characterized and compared to a monomeric model compound. Fluorescence anisotropy measurements revealed that the defined transition dipole moment of anthracene is blurred by the incorporation of the anthryl units into the polymer chain.</abstract>
+                    <abstract type="content" lang="ger">Lumineszente, konjugierte Polymere wie zum Beispiel Poly(arylenvinylen)e (PAV) und Poly(arylenethynylen)e (PAE) wurden dank ihrer vielfältigen Einsatzmöglichkeiten, wie zum Beispiel als Chemosensoren oder als aktive Komponente in Leuchtdioden, eingehend studiert. Aufgrund dessen ist die Herausforderung nun optimierte Polymere zu entwickeln die die vorhandenen Materialien in ihrer Effizienz noch übertreffen. 
+Im ersten Teil dieser Arbeit wurden die Haupt- und Seitenketten von Poly(arylenvinylen)en systematisch variiert mit dem Ziel ein lösliches, konjugiertes Polymer mit intrinsischer Mikroporosität und einem aggregationsinduziertem Emissionseffekt zu erhalten. Die so erhaltenen Polymere wurden charakterisiert, um Rückschlüsse auf die Struktur-Eigenschaftsbeziehungen ziehen zu können. An geeigneter Stelle wurden Modellverbindungen synthetisiert und zum Vergleich eingesetzt, um beobachtetes Verhalten tiefergehend zu analysieren. Die so erhaltenen Poly(arylenvinylen)e zeigten spezifische BET-Oberflächen bis zu 417 m²g-1 und aggregationsinduzierte Emissionseffekte mit hohen Fluoreszenzquantenausbeuten. Anhand von Sprengstoffdetektionsexperimenten mit Pikrinsäure konnte für eines der Polymere eine sehr hohe Nachweisgenauigkeit mit einer unteren Grenze von 1.5 ppm gezeigt werden. Zusätzlich wurde ein N-carbazolyl-substituiertes Poly(arylenvinylen) elektrooxidativ vernetzt und der Einfluss der Vernetzung auf die optischen Eigenschaften und die spezifischen BET-Oberflächen des resultierenden Netzwerkes untersucht. 
+Im zweiten Teil dieser Arbeit wurde ein lösliches Poly(anthracenethinylen) mittels einer neu entwickelten Methode synthetisiert. Das Polymer wurde charakterisiert und mit einer monomeren Modellverbindung verglichen. Durch Messung der Fluoreszenzanisotropie konnte gezeigt werden, dass das definierte Übergangsdipolmoment des Anthracens durch Integration der Struktur in die Polymerkette verwischt.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20210211-113009-5</identifier>
+                    <identifier type="doi">10.25926/9t2n-ay93</identifier>
+                    <identifier type="sys">HT020834208</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_11341</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_11341">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2020/geisler/dc2022.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_11341"
+            DMDID="DMD_wuppertal_elpub_11341">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_11341"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

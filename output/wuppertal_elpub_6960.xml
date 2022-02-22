@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6960">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Einfluss von körperlicher Aktivität und Leistungsfähigkeit auf die Stoffwechselerkrankung Diabetes – unter besonderer Berücksichtigung von Glukosestoffwechsel und kardialer autonomer Funktion</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Röhling, Martin</displayForm>
+                        <namePart type="family">Röhling</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Bewegungsmangel zählt, neben Fehlernährung und einer genetischen Prädisposition, zu den bedeutendsten Risikofaktoren für die Entstehung von Typ-2-Diabetes. 
+ Demgegenüber weisen mehrere epidemiologische Studien auf einen positiven Zusammenhang zwischen kardiorespiratorischer Fitness und der Lebenserwartung hin bzw. auf einen negativen Zusammenhang zwischen körperlicher Aktivität und der Typ-2-Diabetesprävalenz. 
+ Bewegung bzw. ein aktiver Lebensstil haben daher eine bedeutende Rolle sowohl in der Prävention als auch in der Therapie des Typ-2-Diabetes. Darüber hinaus weisen Interventions- sowie prospektive Kohortenstudien daraufhin, dass körperliche Aktivität bzw. eine gesteigerte körperliche Leistungsfähigkeit zu einer Reduktion bzw. Vermeidung Diabetes-assoziierter Komplikationen führt.
+ Dennoch ist die Wirksamkeit von körperlichem Training unter Berücksichtigung der Faktoren Intensität, Umfang und Modalität nur unzureichend erforscht. Auch ist der Einfluss von akutem sowie chronischem Training auf den Glukosestoffwechsel unter Berücksichtigung inflammatorischer Signalwege nicht vollends verstanden.
+ Im Verlauf der Diabeteserkrankung können sich Diabetes-assoziierte Komorbiditäten entwickeln, die einen erheblichen Einfluss auf den Therapieansatz zur Behandlung der Stoffwechselerkrankung nehmen können. Insbesondere beeinflusst das Vorliegen einer kardialen autonomen Neuropathie (CAN, engl.: cardiac autonomic neuropathy) die Ausrichtung der Sporttherapie bei Diabetes, da Kontrollparameter, wie die Herzfrequenz oder der Blutdruck, unter Umständen dysreguliert sind und die Wahrscheinlichkeit für ein kardiales Ereignis erhöht ist.
+ Speziell im frühen Verlauf der Diabeteserkrankung wurde der Einfluss der körperlichen Leistungsfähigkeit und Aktivität auf die Begleiterkrankung der CAN noch nicht untersucht.
+ Zwei Übersichtsarbeiten und eine Originalarbeit (Querschnittsanalyse) untersuchen daher den Zusammenhang von körperlicher Aktivität und Fitness auf Glukosestoffwechsel und kardialer autonomer Funktion bei Patienten mit Diabetes.
+ Die Ergebnisse der kumulativen Dissertation verdeutlichen die Notwendigkeit von körperlicher Aktivität und Leistungsfähigkeit in der Therapie des Diabetes.</abstract>
+                    <classification authority="ddc">610</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Human- und Sozialwissenschaften » Sportwissenschaft"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170522-094536-4</identifier>
+                    <identifier type="sys">HT019340452</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6960</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6960">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbg/sportwissenschaft/diss2017/roehling/dg1701.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6960"
+            DMDID="DMD_wuppertal_elpub_6960">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6960"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

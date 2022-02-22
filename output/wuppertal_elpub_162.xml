@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_162">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Deutschlandberichterstattung der Vie Intellectuelle (1928 - 1940)</title>
+                        <subTitle>Studien zur Sicht Deutschlands in der französischen Publizistik der Zwischenkriegszeit</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Klose, Martina</displayForm>
+                        <namePart type="family">Klose</namePart>
+                        <namePart type="given">Martina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2000-11-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">La Vie intellectuelle, eine von den französischen Dominikanern herausgegebene Zeitschrift, gehörte in den 30er Jahren zu den bedeutendsten Meinungsführern der katholischen Presselandschaft. Sie berichtete über alle Themen des Zeitgeschehens in Frankreich und im Ausland, doch hatte die Berichterstattung über Deutschland einen hohen Stellenwert. In diesen Artikeln spiegelt sich ein Deutschlandbild, das repräsentativ für diese Jahre ist. Die 30er Jahre sind für Frankreich und Deutschland ein Zeitraum, in dem die Nachwirkungen des Ersten Weltkriegs schon die Gefahr eines erneuten Krieges aufkommen lassen. Die Vie intellectuelle deckt eben diese Jahre ab, denn sie beginnt ihr Erscheinen 1928, als in Deutschland die Weimarer Republik noch nicht zu Ende ist, und stellt es 1940 mit dem Einmarsch der Deutschen in Paris ein, bevor sie 1945 unter veränderten Vorzeichen ein neues Leben beginnt. Das Bild, das sich die Vie intellectuelle vom deutschen Nachbarn macht, ist insofern besonders interessant, weil es auf einer Perspektive beruht, die in der Forschung bisher nur wenig Beachtung gefunden hat, nämlich der katholischen. Die Beschäftigung damit ergänzt die Forschung über die französisch-deutschen Beziehungen in den 30er Jahren um ein wichtiges Element. Auf jeden Fall leistet das Studium dieser Zeitschrift einen Beitrag zum besseren Verständnis beider Völker - der Franzosen in ihren aufgewühlten 30er Jahren und der Deutschen in Republik und Diktatur. Es handelt sich bei dieser Arbeit um eine solche mit landeswissenschaftlichem Thema: Das Deutschlandbild in Frankreich. Gleichzeitig hat die Arbeit Berührung mit der Literaturwissenschaft, die ja für die Literatur im weiteren Sinn zuständig ist: z.B. für den journalistischen Artikel, die Reportage, das Feuilleton. Die Jahre zwischen 1928 und 1940 haben in Frankreich eine reiche Dokumentation über Deutschland hervorgebracht. Ein Teil davon soll dem Leser hier vorgestellt werden. Damit er einen Eindruck von der Zeitschrift bekommt, soll aber zunächst sie selbst charakterisiert werden und zwar innerhalb ihres zeitgenössischen Umfeldes, wozu Ausführungen über ihre Entstehungsgeschichte und ihre Bedeutung als französisches Presseorgan gehören. Danach führen Bemerkungen zum deutsch-französischen Verhältnis zwischen den zwei Weltkriegen in die thematische Problematik ein. Hierbei werden auch die Beziehungen zwischen französischen und deutschen Katholiken unter die Lupe genommen, weil sie von der Zeitschrift als besonders wichtig erachtet wurden. Ein Blick auf den Forschungsstand macht die Bedeutung der Arbeit innerhalb der wissenschaftlichen Auseinandersetzung sichtbar. Im Anschluß daran wird die Methode vorgestellt, nach der die Quellen erfaßt und ausgewertet wurden. Es folgt der Hauptteil der Arbeit, der die Analyse des Materials und ihre Ergebnisse beinhaltet. Die Schlußbetrachtung bringt zunächst einen Vergleich zwischen Deutschland und Frankreich, den Vie intellectuelle über all die Jahre unausgesprochen mitschwingen läßt und der hier auf den Punkt gebracht werden soll. Dann faßt der Rückblick die wichtigsten Ergebnisse zusammen und unterzieht sie einer abschließenden Bewertung.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » Allgemeine Literaturwissenschaft"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20000430</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_162</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_162">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-277/d040003.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_162"
+            DMDID="DMD_wuppertal_elpub_162">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_162"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

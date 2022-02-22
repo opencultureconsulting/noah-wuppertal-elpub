@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_258">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Loadbalancing auf Parallelrechnern mit Hilfe endlicher Dimension-Exchange-Verfahren</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Arndt, Holger</displayForm>
+                        <namePart type="family">Arndt</namePart>
+                        <namePart type="given">Holger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003-08-06</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Ziel von Loadbalancing-Verfahren auf Parallelrechnern ist es, eine gegebene Lastverteilung iterativ auszugleichen, wobei auf jedem Prozessor zunächst ein anderer Lastwert vorliegt. Betrachtet werden ausschließlich Nächste-Nachbar-Verfahren: In jedem Schritt kommuniziert ein Prozessor nur mit seinen direkten Nachbarn. 
+Loadbalancing-Verfahren lassen sich im Wesentlichen in zwei Klassen aufteilen: Diffusions- und Dimension-Exchange-Verfahren. Während erstere für das All-Port-Modell konzipiert sind, bei dem ein Prozessor an alle Nachbarn gleichzeitig Lasten versenden kann, sind letztere an das One-Port-Modell angepasst, bei dem zu jedem Zeitpunkt mit nur einem Nachbarn kommuniziert wird. Beide Arten können als Verfahren zur Lösung bestimmter singulärer Gleichungssysteme angesehen werden. 
+In den letzten Jahren sind endliche Diffusionsverfahren entwickelt worden, für die gezeigt werden konnte, dass sie l₂-minimale Flüsse erzeugen. In der vorliegenden Arbeit werden neue endliche Dimension-Exchange-Verfahren entwickelt, die auf einer Kantenfärbung des zu Grunde liegenden Graphen beruhen. Diese sind oftmals schneller und numerisch stabiler als entsprechende Diffusionsverfahren. Die von den neuen Verfahren berechneten Flüsse sind nicht minimal, aber es wird gezeigt, dass sie beschränkt sind. Für einige spezielle Graphen können diese Schranken mit Hilfe von Graphmatrizen exakt bestimmt werden. 
+Außerdem werden spezielle Verfahren für Produktgraphen vorgestellt sowie ein Scheduling-Verfahren, das auf der Einfärbung des Graphen basiert.</abstract>
+                    <abstract type="content" lang="eng">Load balancing on parallel computers aims at equilibrating some initial load which is different from one processor to another. Only nearest neighbour algorithms are considered: in each step a processor communicates only with its direct neighbours. 
+Load balancing algorithms can be divided basically into two classes: diffusion and dimension exchange. Whereas the first is appropriate for the so-called all-port-model where a processor can send tokens to all its neighbours at a time, the latter relies on the one-port-model. Both kinds of algorithms can be viewed as methods for solving certain singular linear systems. 
+In the last few years finite diffusion algorithms have been developed and it has been proven that they compute l₂-minimal flows. In the present thesis new finite dimension exchange methods are presented that are based on edge-colourings of the underlying graph. These are often faster and numerically more stable than their diffusion counterparts. The flows computed by the new methods are not minimal but it can be shown that they are bounded. For some special graphs these bounds can be explicitly determined by an analysis of the matrices representing the graph. 
+Additionally special algorithms for product graphs are presented as well as a scheduling technique based on the colouring of the graph.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20030347</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_258</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_258">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-352/d070301.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_258"
+            DMDID="DMD_wuppertal_elpub_258">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_258"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

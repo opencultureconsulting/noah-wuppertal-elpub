@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6730">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Exakte Optimierungsverfahren für die Reihenfolgeplanung in der automobilen Zulieferkette</title>
+                    </titleInfo>
+                    <titleInfo lang="eng" type="translated">
+                        <title>Exact optimization approaches for a scheduling problem in the automotive supply chain</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Göpfert, Paul</displayForm>
+                        <namePart type="family">Göpfert</namePart>
+                        <namePart type="given">Paul</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bock, Stefan</displayForm>
+                        <namePart type="family">Bock</namePart>
+                        <namePart type="given">Stefan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Arminger, Gerhard</displayForm>
+                        <namePart type="family">Arminger</namePart>
+                        <namePart type="given">Gerhard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Aus einer praktischen Problemstellung zur Reihenfolgeplanung von Produtkionsaufträgen in der automobilen Zulieferkette wird ein Optimierungsproblem abgeleitet. Wesentliche Eigenschaften des Optimierungsproblems (Materialverfügbarkeit, Rüstzeiten, Vorrangbeziehungen und Fälligkeiten) werden hinsichtlich der daraus erwachsenden Komplexität analysiert und Eigenschaften zulässiger Lösungen ermittelt. Ein exakter Branch-and-Bound-Ansatz sowie ein Branch-and-Price-and-Cut-Ansatz werden zusätzlich zu ganzzahligen Optimierungsmodellen als Verfahren zur Bestimmung von optimalen Lösungen vorgestellt. Das Hauptaugenmerk bei der Entwicklung des Branch-and-Bound-Ansatzes liegt in der Bestimmung von zulässigen unteren Schranken für das Problem. Im Branch-and-Price-and-Cut-Ansatz wird eine neue Art der Zerlegung von Ein-Maschinen-Scheduling-Problemen in ein Masterproblem und mehrere Unterprobleme vorgestellt, die die vorhandenen Vorrangbeziehungen in Form von Ketten ausnutzt. Die Verfahren werden mittels computergestützter Experimente für Instanzen mit bis zu 15 Produkten und 75 Aufträgen bei verschiedenen Settings für Rüstzeiten und Zeitfenster evaluiert. Es ergibt sich eine deutliche Überlegenheit des Branch-and-Bound-Verfahrens gegebenüber der IP-Standardsoftware sowie dem Branch-and-Cut-and-Price-Ansatz hinsichtlich der Rechenzeit und der resultierenden Optimalitätslücke für nicht optimal gelöste Probleminstanzen.</abstract>
+                    <abstract type="content" lang="eng">The problem setting at an automotive supplier company motivates the consideration of a special single machine scheduling problem. The structure and complexity given by the problems&apos; properties such as material availability constraints, setup times, precedence relations and deadlines is investigated. Common properties of feasible solutions are identified. A Branch and Bound Approach and a Branch and Price and Cut Approach are proposed in addition to Integer Programming based optimization models. The development of the Branch and Bound approach focuses on lower bounds derived from different properties of the problem. For the Branch and Price and Cut approach a new decomposition scheme for single machine scheduling problems is given based on the presence of precedence relations. The algorithms are evaluated by a computational study on instances with up to 15 products and 75 jobs with different setup times and time windows. The tests indicate the superiority of the Branch and Bound Approach over the IP-based approach as well as the Branch and Price and Cut approach with regard to CPU time and the optimality gap obtained.</abstract>
+                    <classification authority="ddc">338</classification>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170308-094231-8</identifier>
+                    <identifier type="sys">HT019263445</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6730</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6730">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2016/goepfert/db1612.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6730"
+            DMDID="DMD_wuppertal_elpub_6730">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6730"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

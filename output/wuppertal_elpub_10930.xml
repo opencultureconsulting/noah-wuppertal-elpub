@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_10930">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Three Papers in Risk-Factors and Asset Allocations</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Erling, Marco</displayForm>
+                        <namePart type="family">Erling</namePart>
+                        <namePart type="given">Marco</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-09-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The thesis „Three Papers in Risk-Factors and Asset Allocations“ consists of three studies: first, a Kalman smoother is used to identify sensitivities between macroeconomic and other factors to returns of the precious metals of gold, silver, platinum and palladium. All results point to strong time-dependencies. A Dynamic Time Warping approach finally compares sensitivities for pairs of precious metals to a specific factor and finds higher similarities between platinum and palladium compared to other pairs. A modified version of a factor risk parity concept in a multi asset framework is set up in the second and third part. Less important components of a PCA are allowed to float which increases flexibility and allows to add further portfolio constraints, leading to convex polytopes to describe the entire set of solutions. The analysis of those portfolios including a larger backtest setup is done for the case of the standard deviation in the second study as well as the expected shortfall in the third study.</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20200910-120532-1</identifier>
+                    <identifier type="doi">10.25926/6t2f-2r87</identifier>
+                    <identifier type="sys">HT020637101</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_10930</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_10930">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2020/erling/db2004.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_10930"
+            DMDID="DMD_wuppertal_elpub_10930">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_10930"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

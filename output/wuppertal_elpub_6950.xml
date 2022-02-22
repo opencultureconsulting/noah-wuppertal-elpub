@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6950">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Multigrid methods for highdimensional, tensor structured continuous time Markov chains</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sokolović, Sonja</displayForm>
+                        <namePart type="family">Sokolović</namePart>
+                        <namePart type="given">Sonja</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This thesis is about computing the stationary distribution of homogeneous continuous time Markov chains (which leads to solving a linear system with right-hand size zero) by a multigrid approach. The difficulty when dealing with these kinds of problems is the so-called curse of dimensionality. Therefore it is important that the multigrid approach exploits the naturally given tensor structure of these models for being an efficient iterative solver, and also to use a low-rank format, for example to guarantee an efficient matrix-vector multiplication. In this thesis, the Tensor Train format is the format of choice. For the construction of a multigrid hierarchy which maintains the tensor structure, the elements of a convergence analysis of multigrid methods are considered first, and then each ingredient of the multigrid method is discussed separately, with the focus on its capability to be used for tensor structured problems. As an extension of this structure-reliant choice of ingredients, an adaptive construction of the entries of the interpolation operator is also considered. 
+
+ Overall, there is a therefore a variety of different choices for each ingredient, which are then tested and judged by numerical tests. Furthermore, it turns out that a combination with the tensor solver Alternating Minimal Energy (AMEn) can overcome the limitations of both the tensorized multigrid method and AMEn. Further numerical tests are performed for analyzing the efficiency of this combination.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170519-115607-9</identifier>
+                    <identifier type="sys">HT019338041</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6950</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6950">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2017/sokolovic/dc1709.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6950"
+            DMDID="DMD_wuppertal_elpub_6950">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6950"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

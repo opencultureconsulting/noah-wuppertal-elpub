@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_856">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Krylov subspace methods for shifted unitary matrices and eigenvalue deflation applied to the Neuberger Operator and the matrix sign function</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schäfer, Katrin</displayForm>
+                        <namePart type="family">Schäfer</namePart>
+                        <namePart type="given">Katrin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-10-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Wir untersuchen Iterationsverfahren für geshiftete unitäre Matrizen. Zwei Versionen der Arnoldi Methode werden präsentiert. Für unitäre Matrizen erzeugen diese Methoden Basen von Krylov Unterräumen mit kurzer Rekursion. In Kombination mit der Minimal Residual oder einer Galerkin Bedingung erhalten wir so vier Krylov Unterraum Verfahren zur Lösung linearer Gleichungssysteme mit geshifteten unitären Matrizen. Drei dieser Methoden (SUOM, SHUMR und SUMR) sind bekannt. Wir vervollständigen die Methoden um die noch fehlende Kombination aus isometrischer Arnoldi Methode mit einer Galerkin Bedingung, SUFOM (shifted unitary FOM). Zusätzlich geben wir einen genaueren Einblick in die theoretische Grundlage von SUOM und SHUMR als bisher in der Literatur zu finden ist. Schließlich nehmen wir eine änderung an SHUMR vor, die das Verfahren breakdown-frei macht. 
+
+Wir untersuchen multishift Methoden um rationale Approximationen an die Matrix Signums Funktion zu berechnen. Wir konzentrieren uns hierbei auf Methoden für nicht-hermitesche Matrizen im Hinblick auf den Neuberger Overlap Operator mit chemischem Potential. Um die Konvergenz zu beschleunigen verwenden wir Eigenwert Information. Zwei Varianten der Deflation von Eigenwerten, Schur Deflation und LR Deflation, werden vorgestellt. Die Idee ist, Krylov Unterräume um einige Schur- oder Eigenvektoren zu Eigenwerten mit kleinem Realteil zu erweitern. Diese Deflations Methoden werden auf multishift Versionen von FOM, GMRES, BiCG und QMR angewandt um die rationale Approximation von sign(Q)v zu beschleunigen. Für die Methoden mit langer Rekursion, FOM und GMRES, untersuchen wir restarts um die Speicheranforderungen zu begrenzen. In diesem Fall werden also restarts, multishifts und Deflation kombiniert. Schließlich wird mit Hilfe der Information aus der Eigenwert Deflation die Anzahl der Pole in der rationalen Approximation der Matrix Signums Funktion reduziert. Es zeigt sich, dass dies nur für die LR Deflation möglich ist.</abstract>
+                    <abstract type="content" lang="eng">We investigate iteration methods for shifted unitary matrices. Two versions of the Arnoldi method are presented. For unitary matrices these methods build Krylov subspace bases whith short recurrences. In combination with the minimal residual or Galerkin condition we obtain four Krylov subspace methods to solve linear systems with shifted unitary matrices. Three of these methods (SUOM, SHUMR and SUMR) are already known. We complete the set of methods by combining the isometric Arnoldi method with a Galerkin condition, resulting in SUFOM (shifted unitary FOM). In addition, we give a more detailed theoretic foundation for SUOM and SHUMR than found in the literature up to now. Finally, we modify SHUMR and present a breakdown-free version. 
+
+We invesigate multishift methods to compute rational approximations to the matrix sign function. We concentrate on methods for non-hermitian matrices with regard to the Neuberger overlap operator at non-zero chemical potential. To accelerate convergence we use eigenvalue information. Two variants of eigenvalue deflation, Schur-deflation and LR-deflation are presented. The idea is to augment Krylov subspaces by some Schur vectors or eigenvectors to eigenvalues with small real part. These deflation methods are applied to multishift versions of FOM, GMRES, BiCG, and QMR to accelerate the rational approximation of sign(Q)v. For the long recurrence methods FOM and GMRES we investigate restarts to limit storage requirements. In this case we combine thus restarts, multishifts and deflation. Finally we reduce the number of poles for the rational approximation of the matrix sign function using the information of the eigenvalue deflation. It turns out that this is only possible for LR-deflation. 
+
+We give numerical results for the methods presented. The shifted unitary methods are tested with the Neuberger overlap operator at zero chemical potential. The deflation methods are tested for the rational approximation of the matrix sign function for a non-hermitian matrix, the Dirac operator at non-zero chemical potential.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20080520</identifier>
+                    <identifier type="sys">HT015713766</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_856</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_856">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2008/schaefer/dc0817.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_856"
+            DMDID="DMD_wuppertal_elpub_856">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_856"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

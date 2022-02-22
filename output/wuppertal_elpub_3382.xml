@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3382">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Performance Diagnostics Quantitative Methods to Provide Training Consequences</title>
+                        <subTitle>Empirical Study to Development and Evaluation Field Team Sports</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hassan, Ibrahim</displayForm>
+                        <namePart type="family">Hassan</namePart>
+                        <namePart type="given">Ibrahim</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Football codes sports have been many studies, which investigated the physical fitness profiles of these sports, but especially in the case of soccer. However, some physical fitness components of these sports are poorly understood. Furthermore, there are individuals who have competed at elite level in soccer and rugby union. There are a few studies have been compared the physical fitness characteristics of elite level players in each of the football codes. Therefore, the current study describe a physical fitness profile for soccer and rugby players, and determine if there are any differences in theses fitness characteristics between both field team sports. 
+
+Twenty-eight players participated in this study. Both field team sports play at high-level competitions. Fourteen of them are soccer players from a Bundesliga Club (age 24.57 ± 4.33 years; height 1.85 ± 0.07 m; weight 83.86 ± 8.5 kg; BMI 24.50 ± 1.45 kg.m-2), and the other fourteen are international rugby players from DRV federation (age 24 ± 3.94 years; height 1.81 ± 0.05 m; weight 91.05 ± 12.16 kg; BMI 27.77 ± 2.33 kg.m-2). All players completed performance diagnostic tests in speed, strength and endurance aerobic capacity in the season break phase. 
+
+The results showed significant difference in BMI and physical fitness characteristics (speed, strength and endurance) between soccer and rugby players, although no significant difference observed in anthropometric (age, height, and weight), speed (non-linear sprint 8 m, 22 m and 2.Ch), strength (1RMbp and 1RMbs) and endurance aerobic capacity (VO2max test). In conclusion, the results together with collected results from the literatures revealed significant differences between soccer and rugby union sports, and indicate that the demands of both field team sports are different. This difference should be considered by those designing the conditioning fundamentals of training programmes for these sports.</abstract>
+                    <classification authority="ddc">796</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Human- und Sozialwissenschaften » Sportwissenschaft"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20130227-164847-6</identifier>
+                    <identifier type="sys">HT017574451</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3382</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3382">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbg/sportwissenschaft/diss2013/hassan/dg1301.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3382"
+            DMDID="DMD_wuppertal_elpub_3382">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3382"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

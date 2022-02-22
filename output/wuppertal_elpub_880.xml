@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_880">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Measurement of the W boson helicity in tt decays</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schmitt, Christian</displayForm>
+                        <namePart type="family">Schmitt</namePart>
+                        <namePart type="given">Christian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005-12-07</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Ziel dieser Dissertation ist die Messung des Anteils an W Bosonen mit positiver Helizitaet aus Top-Antitop Zerfällen. Die Daten für diese Analyse wurden mit dem D0 Detektor am Fermilab Tevatron in den Jahren 2002-2004 aufgezeichnet. Sie entsprechen einer integrierten Luminositaet von ca. 230 inversen pb. Die Messung benutzt den Zerfallswinkel theta zwischen dem geladenen Lepton und der (negativen) Flugrichtung des b-Quarks im Ruhesystem des W Bosons. Um den Winkel theta zu rekonstruieren, wird das Top-Antitop System mit Hilfe eines kinematischen Fits rekonstruiert, wobei die Masse des W Bosons und des Top Quarks als Nebenbedingungen ausgenutzt werden. Der Vergleich zwischen der erwarteten Verteilung in cos(theta) aus Monte Carlo Simulationen fuer verschiedene Anteile an rechtshaendigen W Bosonen, f+, mit der Verteilung in den Daten ergab das folgende Resultat fuer f+: f+ = -0.10 +- 0.17(stat) +- 0.07 (syst). Dieses Ergebnis schliesst theoretische Modelle die einen sehr grossen V+A Anteil im elektroschwachen geladenen Strom des Top Zerfalls vorhersagen aus.</abstract>
+                    <abstract type="content" lang="eng">The subject of this thesis is the measurement of the fraction of W bosons with positive helicity in top-antitop events recorded by the D0 detector at the Fermilab Tevatron collider during the years 2002-2004. The data corresponds to an integrated luminosity of about 230 inverse pb. The measurement makes use of the decay angle theta between the charged lepton and the (negative) b quark direction in the rest frame of the W boson. To obtain the angle theta, the top-antitop system and its decay products are reconstructed using a kinematic fit with constraints on the mass of the W boson and of the top quark. By comparing the expectation for cos(theta) from Monte Carlo samples with different fractions of right-handed W bosons, f+, with the distribution obtained in data, the following result for f+ has been obtained: f+ = -0.10 +- 0.17(stat) +- 0.07 (syst). This effectively rules out theoretical models which predict a pure or very high V+A contribution in the weak charged current interaction of the top quark. Together with a similar analysis using only events where no b-jets could be identified, this result has been published in Physical Review D.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20050717</identifier>
+                    <identifier type="sys">HT014584723</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_880</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_880">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2005/schmitt/dc0514.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_880"
+            DMDID="DMD_wuppertal_elpub_880">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_880"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

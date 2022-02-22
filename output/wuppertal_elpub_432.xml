@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_432">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Synthese und Eigenschaften hydrophiler Arylphosphate</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hingst, Martin</displayForm>
+                        <namePart type="family">Hingst</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2000-12-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This work presents a new and efficient approach to hydrophilic aromatic phosphines, the palladium-catalyzed P-C coupling reaction. By coupling of primary and secondary phosphines with a great variety of different functionalized aromatic halocarbons a number of novel phosphines (12, 14-32, 34) bearing electron rich (-NH₂, -OH, -CH₃) as well as electron poor substituents (-COOR, -COOH, -SO₃H) are accessible. Even multifunctional phosphines with a combination of equal (e. g. 24, 30) or different substituents (e. g. 25, 27) at the aromatic groups can be obtained in good to high yields. The required catalyst concentrations are low (0.05-0.2 mol%), and no formation of side products is observed. 
+The coupling reactions of Ph₂PH with aromatic halocarbons can simply be initiated by addition of Pd(OAc)₂ as a precatalyst, whereas the corresponding reactions of PhPH₂ need Pd(0) complexes that contain chelating phosphine ligands as a catalyst. It has been shown that a solution of Pd(dba)dppp, which is easily prepared in situ of Pd(dba)₂ and dppp, is satisfying for that purpose. 
+In contrast to alternative methods the Pd-catalysed coupling of primary phosphines like PhPH₂ with one equivalent of an aromatic halocarbon (e. g. 3-iodo-4-methylbenzoic acid) offers a direct route to secondary phosphines like 34 without the need of protecting groups at the phosphorus atom or excess of the educt phosphine. Further reaction of 34 with 3-iodobenzoic acid yields the p-chiral phosphine 35. 
+Reaction of 5-diphenylphosphinosalicylic acid 16 with phenylboronic acid affords 36, an interesting ligand with a Lewis acceptor function at the boron atom. In the presence of NEt₄OH 16 is converted by B(OH)₃ into the chiral bidentate phosphine 37 which forms with [(nor)RhCl]₂ the chiral binuclear Rhodium complex 44. 
+Reactions of the sulfonated phosphine ligands 38 and 39 with the Rhodium precursors [Rh(CO)₂Cl)]₂ and [Rh(C₂H₄)₂Cl)]₂ in the biphasic medium toluene/H₂O lead to the hydrophilic Rhodium complexes 40-43, the latter being a water soluble derivative of the Wilkinson catalyst. 
+The catalytic properties of a selection of the obtained phosphine ligands (12, 13, 17, 18, 30) under the conditions of the Shell Higher Olefin Process have been investigated, showing 5-diphenylphosphinoanthranilic acid 18 being able to form an active catalyst. 
+The synthesized compounds were characterized by ¹H-, 13C- and 31P-NMR spectroscopy, elemental analyses , IR- and mass spectra. The structures of 16 and 33 have been determined by X-ray crystallography.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20000505</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_432</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_432">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-526/d090019.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_432"
+            DMDID="DMD_wuppertal_elpub_432">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_432"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

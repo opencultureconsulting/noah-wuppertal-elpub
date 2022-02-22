@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_4300">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Referenden als Kontrollinstrument? Ein alternativer Mechanismus demokratischer Kontrolle in vergleichender Perspektive am Beispiel Italiens und Irlands</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Capretti, Anna</displayForm>
+                        <namePart type="family">Capretti</namePart>
+                        <namePart type="given">Anna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lietzmann, Hans J.</displayForm>
+                        <namePart type="family">Lietzmann</namePart>
+                        <namePart type="given">Hans J.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bergem, Wolfgang</displayForm>
+                        <namePart type="family">Bergem</namePart>
+                        <namePart type="given">Wolfgang</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Bedeutung von direktdemokratischer Verfahren ist in den vergangenen Jahren immer größer geworden. Dabei stehen vor allem die Fragen von Legitimation und Partizipation im Mittelpunkt. Eher vernachlässigt wurde dagegen die Frage nach den Kontrollwirkungen innerhalb der Akteursstrukturen eines politischen Systems. Geht man von einem engen Begriff der Kontrolle als Entscheidung zur Überprüfung der Entscheidung Dritter aus, so ist das Referendum ein Akt der politischen Kontrolle. Effektive Kontrolle wird dort ausgeübt, wo der Kontrollakteur eine Überprüfung anhand zuvor feststehender Kontrollmaßstäbe vornimmt. Die politischen Systeme Italien und Irland ähneln sich nicht zuletzt aufgrund der starken Verankerung des katholischen Glaubens in der Gesellschaft; gleichzeitig verfügen beide Länder über eine umfangreiche Referendumspraxis zu den religiös-moralischen Fragen der Abtreibung, der Ehescheidungen und zur politischen Gestalt als Republik. Unterschiede bestehen jedoch in der Form der Auslösung des Referendums: Während in Irland das Referendum nur zu Verfassungsänderungen durch das Parlament ausgelöst wird, können Gesetze in Italien aus der Mitte der Bevölkerung zu Fall gebracht werden. Nach dem methodischen Design einer most-similar-systems Analyse wird die Hypothese überprüft, ob die Art der Initiierung des Referendums die Kontrollwirkung beeinflusst. Anhand des theoretischen Frameworks von George Tsebelis&apos; Vetospielertheorie wird überprüft, ob das fakultative Referendum eher in der Lage ist, eine effektive politische Kontrolle auszuüben. Dies geschieht anhand einer qualitativen Abschätzung des Kontrollmaßstabes der aufgeklärten Präferenz des Medianwählers. Anders als die Kontrolle an der rule of law durch die Supreme Courts ist die Präferenz des Medianwählers der Maßstab der demokratischen Mehrheit. Es zeigt sich, dass in beiden politischen Systemen grundsätzlich eine effektive Kontrolle stattfindet. Während in Italien jedoch das Referendum seit den 1980er Jahren durch sinkende Abstimmungsbeteiligung und dadurch ungültige Referenden an Bedeutung verloren hat, führte in Irland die Ablehnung von Änderungen, die von der politischen Mehrheit gewünscht sind, mehrfach zu Wiederholungsabstimmungen, bis der gewünschte neue Status Quo erreicht war. In beiden Ländern ist dabei die Bedeutung der Ausgewogenheit der politischen Debatte im Vorfeld von Bedeutung. D.h. die Verzerrung der Präferenz des Medianwählers als Kontrollmaßstab gehört zu den wichtigsten Konfliktpunkten bei der Durchführung von Referenden.</abstract>
+                    <subject>
+                        <topic>Kontrolle</topic>
+                        <topic>Direkte Demokratie</topic>
+                        <topic>Referendum</topic>
+                    </subject>
+                    <classification authority="ddc">320</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20141105-160542-5</identifier>
+                    <identifier type="sys">HT018469641</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_4300</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_4300">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbg/politikwissenschaft/diss2013/capretti/dg1302.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_4300"
+            DMDID="DMD_wuppertal_elpub_4300">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_4300"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

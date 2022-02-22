@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_2397">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Neuropsychologische Funktionen bei Schizophrenie: Zusammenhang mit persistierender Positivsymptomatik</title>
+                    </titleInfo>
+                    <titleInfo lang="eng" type="translated">
+                        <title>Neuropsychological function in schizophrenia: correlation with persistent positive symptoms</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Loos-Jankowiak, Stephanie</displayForm>
+                        <namePart type="family">Loos-Jankowiak</namePart>
+                        <namePart type="given">Stephanie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011-11-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Ziel der vorliegenden Studie ist die Untersuchung des Zusammenhangs schizophrener Positivsymptomatik mit kognitiven Defiziten. Bisher wurden keine klaren Nachweise solcher Zusammenhänge erbracht, doch wurden vorherige Untersuchungen vorrangig an Patienten mit ausgeprägter Negativ- oder Mischsymptomatik durchgeführt. Für die vorliegende Untersuchung wurden hingegen 52 Patienten des schizophrenen Spektrums und persistierender Positivsymptomatik selektiert. Darüber hinaus sollte mittels clusteranalytischer Methode das Vorhandensein kognitiver Subtypen und die Bedeutung einer erhöhten Bereitschaft zur externalen Quellenattribution bei schizophrener Positivsymptomatik untersucht werden. Die neuropsychologische Testbatterie erfasste die kognitiven Funktionsbereiche Aufmerksamkeit, verbales Lernen und Gedächtnis, Arbeitsgedächtnis und Exekutivfunktionen. Die Dimensionen und Ausprägungen schizophrener Symptomatik wurden mittels der PANSS erfasst. Die vorliegende Patientenstichprobe wies vergleichbar mit anderen schizophrenen Subpopulationen Defizite in einer Vielzahl kognitiver Funktionen mit Akzentuierung exekutiver Funktionsdefizite und der Informationsverarbeitungsverlangsamung auf. Die Positivsymptomatik war nicht mit den kognitiven Defiziten assoziiert. Ein Zusammenhang der produktiv schizophrenen Symptomatik mit einer verringerten Fähigkeit der kontextuellen Zuordnung von Erinnerungen wurde nicht aufgezeigt. Veränderungen im Evaluationsprozess der Entscheidungsfindung in Richtung eines liberalen Antwortverhaltens liegen tendenziell vor. Der kognitiven Variabilität produktiver Patienten liegen kognitive Subtypen zugrunde. Die kognitiven Profilcharakteristika zeigten Extremcluster, wie sie auch schon vorher gefunden wurden. Differenzielle Charakteristika der kognitiven Subtypen in demografischen, klinischen und psychopathologischen Parametern konnten nicht systematisch aufgezeigt werden. Die vorliegenden Ergebnisse lassen keinen Schluss auf gemeinsame neuro-pathologische Prozesse kognitiver Defizite und schizophrener Positivsymptomatik zu. Die Ergebnisse betonen die Bedeutung von Denkfehlern bei produktiv schizophrener Psychopathologie. Die kognitive Variabilität scheint die Heterogenität der Schizophrenie nicht zu bedingen.</abstract>
+                    <subject>
+                        <topic>Schizophrenie</topic>
+                        <topic>Positivsymptomatik</topic>
+                        <topic>kognitive Defizite</topic>
+                        <topic>Neuropsychologie</topic>
+                    </subject>
+                    <classification authority="ddc">150</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20111128-123317-2</identifier>
+                    <identifier type="sys">HT017054201</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_2397</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_2397">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbg/psychologie/diss2011/loosjankowiak/dg1103.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_2397"
+            DMDID="DMD_wuppertal_elpub_2397">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_2397"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

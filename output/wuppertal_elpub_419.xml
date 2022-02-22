@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_419">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Chalkonhaltige Polymere</title>
+                        <subTitle>Synthese, Charakterisierung und Photochemie von chalkonhaltigen Kammpolymeren sowie Oxidationspolymerisation von Aminochalkonen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Goretzki, Christian</displayForm>
+                        <namePart type="family">Goretzki</namePart>
+                        <namePart type="given">Christian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-02-08</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The first part of the present work describes the synthesis, characterization and the 
+photochemical behaviour of new comb-like polymers bearing chalcone (1,3- 
+diphenyl-2-propen-1-one) groups in the side chains. The photochemical analysis of 
+these polymers showed that homopolymers, in which the chalcone group is directly 
+attached to the main chain, showing only the E/Z-isomerization during the irradiation 
+with UV-light; while building in MMA-units in the chain, retardet the reaction. Building 
+in different spacers between the main chain and the chalcone group, causes the 
+polymers with 5- respectively 7 CH₂-units to be done during the irradiation 
+a E/Z-isomerization and a [2+2]-photocycloaddition. 
+ Further could the synthesis of a polyrotaxan with radical polymerization be 
+realized. The prove of the existence of the complex would be realized with the help 
+of NMR-spectroscopy and FAB-measurement. The comparison of the complex with a 
+model compound showed prominent signal shifts, different solutionsattributs and a 
+differenciated thermical behaviour, too. The photochemical analysis demonstated 
+also that the complex did only the isomerization during the irradiation with UV-light, 
+while the model compound showed beside also a crosslinking reaction. 
+ The radical polymerisation of methacrylmonomers, which included the 3-(9- 
+anthracenyl)-1-phenyl-2-propen-1-one group, could not be realized. This group 
+inhibited in a still unknown way any chainstarting and so the polymerization. 
+ The second part of the work is occupied in the enzymic polymerization of 
+aminochalcons with HRP/H₂O₂. It could be shown, that proper aminochalcones, 
+according to the period of reaction, react to oligomeres, polymers and insoluble 
+products. These products are seen as thermicalstable polymers until ca. 300 °C.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20010100</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_419</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_419">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-513/d090026.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_419"
+            DMDID="DMD_wuppertal_elpub_419">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_419"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

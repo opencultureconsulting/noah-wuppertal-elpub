@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1048">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Wirkung von Aufmerksamkeitsfokussierung versus Ablenkung auf die Komponenten der Angstreaktion während der Konfrontation mit phobischem Reizmaterial</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schmid-Leuz, Barbara</displayForm>
+                        <namePart type="family">Schmid-Leuz</namePart>
+                        <namePart type="given">Barbara</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-06-12</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Aufgrund der diskrepanten Datenlage zur Wirkung von Aufmerksamkeitsfokussierung vs. Ablenkung innerhalb der Konfrontationsbehandlung wurde deren Wirkung auf die verschiedenen Angstkomponenten untersucht. An der Untersuchung nahmen 63 zahnbehandlungsphobische Patienten teil. Die Patienten wurden randomisiert in eine der beiden Behandlungsbedingungen, entweder Konfrontation unter Aufmerksamkeitsfokussierung oder Konfrontation unter Ablenkung, eingeteilt. Subjektive Maße der Zahnbehandlungsangst und Herzratenreaktion auf phobische Bilder wurden vor und nach der Behandlung sowie bei der Nachuntersuchung, Angst- Depressions- und Selbstwirksamkeitsmaße vor der Behandlung und bei der Nachuntersuchung erhoben. Vier Wochen nach Abschluss der Laboruntersuchung wurden die Patienten telefonisch befragt, ob sie sich in zahnärztliche Behandlung begeben hatten. Es wurde angenommen, dass Aufmerksamkeitsfokussierung auf phobisches Reizmaterial im Vergleich zur Ablenkung zu beschleunigter Habituation der Herzratenreaktion innerhalb der Sitzung führt. Diese Annahme konnte nicht bestätigt werden. Patienten beider Bedingungen zeigten bereits bei der Prä-Messung rasche Habituation der physiologischen Reaktion. Weiter wurde angenommen, dass Ablenkung im Vergleich zu Aufmerksamkeitsfokussierung zu stärkerer Besserung der subjektiven Angst führt. Die subjektive Angst reduzierte sich jedoch von der Prä- zur Post-Messung in beiden Gruppen signifikant. Bezüglich der state-Angst konnte in der Ablenkungsbedingung ein signifikanter Anstieg beobachtet werden. Hier zeigte sich die Aufmerksamkeitsfokus-Bedingung der Ablenkungsbedingung überlegen. Das Vermeidungsmaß Lauschdauer veränderte sich in keiner der Bedingungen über drei Messzeitpunkte. Im Anschluss an die Behandlungsstudie ließen sich ca. 2/3 der Patienten zahnärztlich behandeln.</abstract>
+                    <classification authority="ddc">150</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Human- und Sozialwissenschaften » Psychologie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20080248</identifier>
+                    <identifier type="sys">HT015568138</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1048</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1048">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbg/psychologie/diss2007/schmid-leuz/dg0705.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1048"
+            DMDID="DMD_wuppertal_elpub_1048">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1048"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

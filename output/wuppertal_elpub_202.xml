@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_202">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>Gebrauch der verschiedenen Druckmedien im zeitgenössischen Künstlerbuch</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Salem, Tarek Mahmoud Nabih Mohamed</displayForm>
+                        <namePart type="family">Salem</namePart>
+                        <namePart type="given">Tarek Mahmoud Nabih Mohamed</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002-05-16</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Das Künstlerbuch ist keine Entdeckung des 20. Jahrhunderts. Schon vor der Erfindung des Buchdruckes gibt es hervorragende Ausformulierungen des Zusammenspiels von Text und Bild, wie z.B. mittelalterliche Stundenbücher, Bibeltexte und in Ägypten das Totenbuch. Mit dem aufkommenden Buchdruck eröffnete sich ein weites Feld. Gleich in der Frühzeit des Buchdruckes finden wir hervorragende Künstler, die Bücher mitgestalten, die weit darüber hinausgehen über das, was wir konventionelle Illustration nennen, z.B. Albrecht Dürer und William Blake. In meinem Kapitel über die Geschichte des gedruckten Buches werde ich darauf eingehen und versuchen aufzuzeigen, wie sich das illustrierte Buch zu dem entwickelt, was wir heute Künstlerbuch nennen. 
+In der ersten Hälfte des 20. Jahrhundert erlebte das Künstlerbuch im Rahmen der internationalen Bewegung eine Blütezeit. So ähnlich formulierte es Stefan Gronert. Seither tritt das Künstlerbuch immer mehr in den Vordergrund. Viele zeitgenössische Künstler benutzen das Buch, um mit ihren Betrachtern zu kommunizieren. Dadurch entstanden neue Wege der Interaktion von Bild und Text. 
+Künstlerbücher spielen eine besondere Rolle in unserer Welt. Sie bringen neue Formen und Ideen der Kunst hervor. Die Künstler, die diese Kunstform benutzt haben, zeigen uns in ihren Werken eine Einheit mit literarischen Texten, Zeichnungen und verschiedene Arten von Druckmedien auf. Sie wirken durch sich selbst, sind somit keine Massenprodukte, sondern haben ihren eigenen Charakter. Man kann den Inhalt nicht einfach lesen und verstehen, sondern man wird gezwungen ihn näher anzuschauen, jede Seite für sich neu zu entdecken und zu erfassen. „Das Künstlerbuch ist kein Kunstbuch. Das Künstlerbuch ist kein Buch über Kunst. Das Künstlerbuch ist ein Kunstwerk“. 
+Die verschiedenen Künstlerbücher werden in der heutigen Zeit als riesiger, formloser Raum empfunden, der alle Interessen wie Formen, Vorstellungen und Technologien in sich vereint, vom Buch als ideographischer Gleichwertigkeit des Wortes bis hin zum Buch als Werk der visuellen Kunst. Andererseits gibt es auch Bücher, bei denen hauptsächlich die Form zur Buchkunst führt. Diese Form besteht aus dem Zusammenspiel zwischen Bild und Text, Farben und Materialien, Druck und Einband. Die Literaten haben einen großen Anteil an der Gestaltung eines Buches. Diesen kann man besonders für drei Bereiche feststellen: dem Schreiben an sich, der Art der Illustration und der Gestaltung des Buchäußeren. ... ...</abstract>
+                    <classification authority="ddc">700</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Design und Kunst » Kunst"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20020198</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_202</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_202">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-311/d050103.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_202"
+            DMDID="DMD_wuppertal_elpub_202">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_202"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

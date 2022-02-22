@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9350">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Pricing and risk premia in German electricity markets</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Valitov, Niyaz</displayForm>
+                        <namePart type="family">Valitov</namePart>
+                        <namePart type="given">Niyaz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-05-27</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This dissertation focuses on pricing and risk premia in electricity markets and addresses three specific topics related to the German market zone. 
+ The first two studies investigate research questions related to the German day-ahead electricity market, whereas the third study focuses on the intraday electricity market.
+ To this end, this thesis applies econometric methods to get better insight into price building on wholesale markets. 
+The first study of this dissertation presents estimates for the price elasticity of demand in the European Power Exchange (EPEX) day-ahead market using average hourly wind speed as an instrumental variable for the market price. 
+ The identification strategy is based on an institutional change from that of renewable energy sources (RES) having to be traded exclusively on spot markets. 
+ It is argued that wind speed is a valid instrument after this change, but not before, when RES may have influenced the market price also from the demand side. 
+ The results suggest that the average price elasticity of demand in the EPEX day-ahead market is about –0.43 in the period from 2010 to 2014, and the absolute value of the point estimates declined over time. 
+The second study of this dissertation revisits risk premia in the German day-ahead market for electricity. Besides replicating the study by Viehmann (2011), it makes the following contributions to the literature: First, it extends the original analysis with data of more than three preceding years. 
+ Second, this paper investigates the impact of the introduction of negative prices on risk premia. Replicating the results, the study confirms the presence of risk premia in the German day-ahead electricity market. 
+ While estimates of mean hourly risk premia can be replicated, the study does not reproduce respective Newey-West standard errors, leading to remarkable differences between significance levels reported in the original study and in the replication. 
+ Going beyond the results in Viehmann (2011), this study considers the impact of negative prices on risk premia. The results of an econometric analysis suggest that the introduction of negative prices reduced the risk premia remarkably when compared to a period with positive prices. 
+The third study of this dissertation investigates the impact of information regarding unplanned power plant outages on German intraday electricity prices. 
+ To distinguish between private and public information, the content of relevant market messages is divided into periods before and after their publication and tested to determine whether this asymmetry affects the intraday price. 
+ The results of an econometric analysis suggest that a reduction of the lead time enhances the possibilities of traders reacting to unplanned non-usabilities. 
+ Furthermore, the results point to an asymmetric impact of information about power plant outages on the average intraday price. Consequently, trading with private knowledge about these non-usabilities may distort electricity prices.</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20190527-085247-0</identifier>
+                    <identifier type="sys">HT020075140</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9350</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9350">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2019/valitov/db1903.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9350"
+            DMDID="DMD_wuppertal_elpub_9350">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9350"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

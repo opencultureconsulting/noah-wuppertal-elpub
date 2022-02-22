@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_8910">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Nationalstereotypen im deutsch-syrischen Verhältnis</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Greer, Mona</displayForm>
+                        <namePart type="family">Greer</namePart>
+                        <namePart type="given">Mona</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-11-06</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Im kollektiven Gedächtnis der Deutschen und Araber sind tiefe Spuren durch Jahrtausende reziproker Wahrnehmung zu finden. Diese Studie untersucht die gegenseitigen Stereotype in der europäisch-deutschen und arabisch-syrischen Gesellschaft und Kultur vor dem historischen Hintergrund der arabisch-europäischen Beziehungen und gegenseitig geprägten Selbst- und Fremdbilder. Die aktuell vorherrschenden Stereotype im deutschen und syrischen Raum, die anhand einer empirischen Befragung mittels Eigenschaftslistenverfahren in Syrien und Deutschland ermittelt wurden, führten zu Ergebnissen, die als Baustein im Bereich der Stereotypenforschung beider Länder, besonders für Syrien, gelten. Auffälligerweise stellen die Medien und die Lehrwerke eine Hauptquelle für die Verbreitung von Nationalstereotype in dieser Studie dar. 
+Ein ergänzendes Untersuchungsfeld dieser Studie in der Erforschung der Nationalstereotype über Syrien sind die Printmedien. Die Studie zeigt unter anderem, dass neue Nationalstereotype entstehen können, die von aktuellen politischen Prozessen bedingt sind. Als Letztes stellt die Arbeit die Rolle des Unterrichts und der DaF-Lehrwerke in der Behandlung und Überwindung von Stereotypen und Vorurteilen in den Fokus. Dies geschieht nicht nur auf theoretischer Basis. Es wird zudem anhand der Befragungsergebnisse ein Kulturassimilator für syrische und deutsche Fremdsprachenlerner entwickelt. Die praktische Umsetzung soll über die Sensibilisierung gegenüber Stereotypen und kulturell geprägten Missverständnissen zur interkulturellen Kommunikation in Syrien und Deutschland beitragen und gleichzeitig eine Orientierungshilfe für die Fremdsprachlerner bieten.</abstract>
+                    <classification authority="ddc">430</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » Germanistik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20181106-143538-1</identifier>
+                    <identifier type="sys">HT019861793</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_8910</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_8910">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fba/germanistik/diss2016/greer/da1603.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_8910"
+            DMDID="DMD_wuppertal_elpub_8910">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_8910"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

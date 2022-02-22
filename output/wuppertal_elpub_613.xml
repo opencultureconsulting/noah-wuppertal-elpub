@@ -1,0 +1,73 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_613">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Verfahren der digitalen Kompensation von Unsymmetrien der analogen Quadraturmischung in OFDM-Empfängern</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schuchert, Andreas</displayForm>
+                        <namePart type="family">Schuchert</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-09-19</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Als breitbandiges Verteilmedium für Multimedia-Inhalte mit portabler und mobiler Empfangsmöglichkeit kann die terrestrische digitale Rundfunkübertragung eine wesentliche Rolle in der künftigen informations- und wissensbasierten Gesellschaft spielen. Ein Schlüsselfaktor für die Akzeptanz des DVB-T-Systems (Digital Video Broadcasting - Terrestrial) ist die preisgünstige Verfügbarkeit von Endgeräten, die den Nutzen und Vorteil der digitalen Übertragungstechnik für den Verbraucher erkennbar werden lassen. 
+ Aus wirtschaftlicher Sicht ist daher der Chip- und Endgeräteproduzent bestrebt, durch standardisierte Produktplattformen mit hoher Integrationsdichte und wenig chipexternen Bauelementen die Herstellungskosten zu minimieren und die Entwicklung gleichzeitig einem breiten Anwendungsspektrum zuzuführen. 
+ Aus systemtechnischer Sicht stellt der terrestrische Funkkanal erhöhte Anforderungen an die Robustheit des Nachrichtensystems. Durch das in der DVB-T-Spezifikation festgeschriebene OFDM-Übertragungsverfahren (orthogonal frequency division multiplexing) wird diesen schwierigen Empfangsverhältnissen wirksam begegnet. 
+ Die Verknüpfung der wirtschaftlichen Gesichtspunkte mit den systemtechnischen Eigenschaften des OFDM-Verfahrens führt mit Zielrichtung auf ein direktmischendes Empfangskonzept zu Empfänger-Architekturen, die die oben genannten Anforderungen nach hoher Integrationsdichte und systemtechnischer Flexibilität erfüllen. Die zentrale Funktion der Quadraturdemodulation zur Rückgewinnung der informationstragenden Basisbandsignale aus dem empfangenen Bandpass-Signal wird in diesen Empfangskonzepten in analoger Schaltungstechnik ausgeführt. Die Quadraturmischung ist daher aufgrund technologiebedingter Ungenauigkeiten im Herstellungsprozess mit Amplituden- und Phasenunsymmetrien zwischen den Quadraturkomponenten behaftet (IQ-Verzerrungen). 
+ Die vorliegende Arbeit liefert Ergebnisse und Lösungen zu folgender im Kontext der breitbandigen OFDM-Übertragung aktuellen, aber in der Literatur bisher nur ungenügend betrachteten Fragestellung: • Wie wirken sich die dem Zeitsignal zugefügten IQ-Unsymmetrien auf die Signalqualität der OFDM-Unterträgeramplituden im Frequenzbereich aus? • Können diese IQ-Verzerrungen durch nachgelagerte digitale Kompensationsalgorithmen in einem OFDM-Empfänger beseitigt werden? 
+ Aufbauend auf einer detaillierten mathematischen Darstellung der durch Amplituden- und Phasenunsymmetrie verzerrten OFDM-Unterträger werden zwei neuartige Kompensationsverfahren erarbeitet. Beide Korrekturmechanismen beseitigen die dem analogen Zeitbereichssignal zugefügten Verzerrungen auf digitaler Ebene im Frequenzbereich. Dabei wird von den zur Schätzung des linear verzerrten Kanals mitgesendeten Pilotträgern Gebrauch gemacht. Das Verfahren der separaten Kompensation detektiert und kompensiert den IQ-Beitrag der Verzerrungen unabhängig von den durch Mehrwegeempfang hervorgerufenen linearen Kanalverzerrungen. Es kann somit in bestehende digitale Empfänger als zusätzliche Funktionseinheit integriert werden. Das zweite Verfahren beruht auf einer adaptiven Frequenzbereichsentzerrung. Es wird eine Filterstruktur abgeleitet, mit der sowohl die linearen als auch die durch die IQ-Unsymmetrie verursachten Verzerrungen gemeinsam beseitigt werden. Die Einstellung der Filterkoeffizienten erfolgt iterativ zunächst in einer pilotträgerbasierten Trainingsphase. Nach hinreichender Konvergenz geht die Koeffizientenadaption in einen entscheidungsgestützten Nachführmodus über. 
+ In Simulationsmodellen nach DVB-T-Standard wird die Wirksamkeit der entworfenen Verfahren am praktischen System nachgewiesen und deren Grenzen unter realen Ausbreitungsbedingungen aufgezeigt. 
+ In Beantwortung der oben aufgebrachten Fragestellung lassen sich damit die Ergebnisse der Arbeit wie folgt zusammenfassen: • Für Modulationsformen mit bandbreiteneffizienten, höherstufigen Signalkonstellationen besteht die Notwendigkeit einer IQ-Fehlerkompensation. • In einem OFDM-Empfänger lassen sich die IQ-Verzerrungen effizient mit Methoden der digitalen Signalverarbeitung auf Frequenzbereichsebene kompensieren. 
+ Die gewonnen Erkenntnisse stellen einen Beitrag zur Entwicklung eines hochintegrierten OFDM-Empfängers dar, indem das Zusammenwirken von digitaler Basisband-Signalverarbeitung unter Anwendung des OFDM-Konzepts und analoger Schaltungstechnik effizient genutzt wird. Das Verständnis der durch die Systemrandbedingungen vorgegeben Auswirkungen auf die Signalqualität fließt unmittelbar in die funktionale Architektur der digitalen Signalverarbeitung ein. Dadurch kann im Hinblick auf eine wirtschaftliche Gesamtlösung ein Ausgleich zwischen den Genauigkeitsanforderungen an analoge Schaltungskomponenten und dem Anteil der digitalen Signalverarbeitung angestrebt werden.</abstract>
+                    <abstract type="content" lang="eng">Digital terrestrial broadcasting will play an important part as broadband distribution medium for multimedia content allowing portable and mobile reception. The key to success of the DVB-T transmission system (Digital Video Broadcasting - Terrestrial) is the availability of low-cost receivers for consumer applications which clearly demonstrate to the end user the benefits of digital transmission techniques. 
+From an economic point of view the chip- and the device manufacturers are trying to minimize production cost by developing standardized platforms with high integration density and dispensing with chip-external components. 
+From a system design point of view the terrestrial transmission channel imposes strong requirements in terms of robustness to the communication system. The specified DVB-T system uses OFDM (orthogonal frequency division multiplexing) as an attractive solution to combat the signal impairments caused by multipath reception. 
+The combination of economic interests and OFDM system characteristics will make possible the application of the direct conversion principle in future tuner devices and will lead to digital receiver architectures which meet the requirements of high silicon integration potential offering flexibility in order to implement various standards. Within these designs the key functionality of quadrature mixing is done by analog circuits. Inaccuracies in the manufacturing process of analog components cause amplitude- and phase imbalances between the quadrature branches of IQ downconverter. 
+In the context of broadband OFDM transmission this work provides results and new solutions to following questions of current interest: • What effect do IQ imbalances, introduced to the time domain signal, have on the complex-valued subcarrier amplitudes in the frequency domain? • Is it possible to remove the IQ distortions by subsequent post-processing with digital compensation algorithms? 
+Based on a detailed mathematical description of the amplitude and phase imbalance two novel digital compensation schemes are derived. Both mechanisms remove the IQ distortionon subcarrier level in the frequency domain. The algorithms exploit the pilot subcarriers which are being transmitted for the reason of channel estimation. 
+The scheme of separate compensation detects and compensates the IQ imbalance part of the signal distortion independently of the linear distortion part caused by multipath reception. Therefore it can easily be integrated in existing receiver architectures as additional function. 
+The second scheme is based on adaptive frequency domain equalization. An adaptive filter network structure is derived, which simultaneously removes both the linear distortions and the IQ imbalance effects. During a training phase the coefficient adaptation is done iteratively with the aid of pilot subcarriers. After sufficiently accurate convergence the algorithm switches in a decision directed tracking mode in order to equalize the complex valued amplitudes at data subcarrier positions. 
+The effectiveness of both compensation algorithms is underlined with simulation results based on practical implementations of the DVB-T system. 
+The results of this work can be summarized as follows: • For higher order bandwidth efficient modulation schemes there is a necessity for IQ imbalance compensation. • In an OFDM receiver it is possible to remove the IQ distortion efficiently in the frequency domain by means of digital signal processing. 
+The findings represent a contribution to the development of highly integrated OFDM receivers. The effective interaction of analog RF-circuits and digital baseband signal processing allows an overall cost-effective receiver structure. The investigations demonstrate that it is possible to reduce the amount of chip-external components and lower the requirements to the analog front end in terms of accuracy while maintaining the overall system performance.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20010529</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_613</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_613">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-709/d130104.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_613"
+            DMDID="DMD_wuppertal_elpub_613">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_613"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

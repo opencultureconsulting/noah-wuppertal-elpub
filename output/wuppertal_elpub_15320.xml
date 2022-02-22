@@ -1,0 +1,66 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_15320">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entwicklung eines Vorgehenskonzeptes zum modellbasierten agilen Anforderungsmanagement (Requirements Engineering und Requirements Management) für Organisationen – REMOt</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mistler, Marian</displayForm>
+                        <namePart type="family">Mistler</namePart>
+                        <namePart type="given">Marian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-10-05</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Unternehmen stehen aufgrund des dynamischen Marktumfeldes im industriellen Zeitalter vor der Herausforderung, neue oder sich ständig ändernde Anforderungen in der Organisation umzusetzen. Dies führt zu der alltäglichen Aufgabe von Unternehmen, neue Geschäftsprozesse in ihrer Organisation zu implementieren oder alte zu analysieren und umzustrukturieren. 
+ Diese Situation beinhaltet drei signifikante Problemfelder, die innerhalb dieser Arbeit herausgestellt werden. Das erste Problemfeld besteht in der Handhabung der immer weiter zunehmenden Anforderungsvielfalt durch diverse Stakeholder an Organisationen in der Produktion. Darunter fällt beispielsweise das stetige Erlassen und Modifizieren von neuen oder alten Normen und Gesetzen. Weiterhin wird mit dem zweiten Problemfeld, das Beherrschen der Organisationskomplexität aufgezeigt. Das bedeutet u.a., bei Änderungen in der Organisation zu erkennen, welchen Einfluss diese über die gesamte Wertschöpfungskette auf Bestandteile der Organisation haben. Das dritte Problemfeld stellt die Fähigkeit von Organisationen zur Agilität dar, da diese eine flexible Aufnahme und Anpassung an neue oder sich ändernde Anforderungen gewährleisten soll. 
+ Diese Problemfelder führen in ihrer Gesamtheit zur Hauptzielstellung, ein Vorgehenskonzept zum modellbasierten agilen Anforderungsmanagement (Requirements Engineering und Requirements Management) für Organisationen (REMOt) neu zu entwickeln. Zur Erreichung der Hauptzielstellung sind Forschungsfragen aus den Problemfeldern abgeleitet und Teilzielstellungen (TZ) definiert. Unter Nutzung der Teilzielstellungen und auf Basis einer umfangreichen Recherche von nationalen und internationalen Veröffentlichungen sowie geförderten Forschungsvorhaben kann die wissenschaftliche Lücke aufgezeigt werden. 
+ Das neu entwickelte REMOt Vorgehenskonzept beruht auf dem Systems Engineering Ansatz und kann drei formulierte Teilzielstellungen miteinander vereinen. Dazu wird zuerst ein grobes REMOt Vorgehenskonzept durch den Generic Systems Engineering Ansatz hergeleitet. Es ermöglicht ein modular aufgebautes Vorgehen, um die Anforderungsvielfalt durch das Anforderungsmanagement systematisch zu reduzieren. Außerdem zieht es ein Metamodell in den Phasen des Vorgehenskonzeptes heran, um die Komplexität von soziotechnischen Systemen modellbasiert zu minimieren. Darüber hinaus können Methoden sowie Werkzeuge über Module des Vorgehenskonzeptes integriert werden, um punktuell eine flexible Aufnahme von Anforderungen über den Problemlösungsprozess zu ermöglichen (TZ1). Im Zuge dessen wird der e-DeCoDe Ansatz als Metamodell für Organisationen ausgewählt und hinsichtlich der Betrachtung von Organisationskomplexität und Agilität modifiziert. Somit entsteht das REMOt Organisationsmodell, das durch eine modulare Architektur Agilität für organisationale Strukturen gewährleistet (TZ2). Ergänzend wird der REMOt Baukasten entwickelt, der agile Methoden und Werkzeuge für jede Phase des REMOt Vorgehenskonzeptes beinhaltet. Das bedeutet, dass der REMOt Baukasten im Zusammenspiel mit dem REMOt Organisationsmodell die notwendige Flexibilität besitzt, Anforderungen, Problemstellungen und Informationen mit einzubeziehen. Dies dient je nach Phase zur Systemdefinition, Erhebung, Gewichtung oder Validierung, um die Organisationentwicklung zu analysieren und zielgerichtet anzupassen (TZ3). 
+ Das innovative REMOt Vorgehenskonzept wird in dieser Arbeit an zwei industriellen Unternehmen erprobt und validiert. Somit kann aufgezeigt werden, wie das REMOt Vorgehenskonzept Unternehmen hilft, systematisch die Anforderungsvielfalt und Organisationskomplexität durch die Erhebung und Modellierung realitätsnaher Geschäftsprozesse zu reduzieren. Weiterhin wird mit der Anwendung demonstriert, wie die Modularität des REMOt Vorgehenskonzeptes Agilität ermöglicht.</abstract>
+                    <abstract type="content" lang="eng">Due to the dynamic market environment, companies are faced with the challenge of implementing new or constantly changing requirements in the organization. It leads to the situation that the analysis, restructuring, or even implementation of new business processes within the organization becomes an everyday task of the company. 
+ However, this situation leads to three significant problem areas that were identified in this dissertation. The first problem area contains the handling of the ever-increasing variety of requirements by various stakeholders of organizations in the production, such as the continuous enactment and modification of new or old standards and laws. The second problem area is the mastering of organizational complexity. Among other things, this means to understand the impact of organizational changes on the individual elements of the organization across the entire value chain. The third problem area emphasizes the ability of organizations to be agile, by ensuring their adaption flexibility to new or changing requirements. 
+ These problem areas lead in their entirety to the main objective of developing a new concept for model-based agile Requirements Engineering and Requirements Management for Organizations (REMOt). In order to achieve the main objective, research questions are derived from the problem areas and partial objectives are defined. By using the partial objectives, the scientific gap can be pointed out, based on an extensive research of national and international publications and also promoted research projects. 
+ The newly developed REMOt concept is based on the Systems Engineering approach and combines three defined partial objectives. Therefore, a basic REMOt concept can be derived from the Generic Systems Engineering approach. It enables a modularly structured procedure so that the variety of requirements can be systematically reduced by the Requirements Engineering and Requirements Management. Furthermore, it creates an interrelation with a meta-model for certain phases in order to minimize the complexity of socio-technical systems on a model-based foundation. Besides, methods and tools can be integrated through modules and enable a flexible inclusion of requirements via the problem-solving process (partial objective 1). In this context, the e-DeCoDe approach is selected as a meta-model for organizations and can be modified considering organizational complexity and agility. Thus, the REMOt organization model is created, which ensures agility for organizational structures through a modular architecture (partial objective 2). In addition, the REMOt toolbox is developed which contains agile methods and tools for each phase of the REMOt concept. This means that, depending on the phase, the REMOt toolbox, in combination with the REMOt organization model, provides the necessary flexibility to systematically collect, analyze and adapt requirements, problems, and information for the system definition, elicitation, weighting, or validation within the organizational development (partial objective 3). 
+ The innovative REMOt concept is being tested and validated at two industrial companies. Thus, it can be shown how the REMOt concept helps companies to systematically reduce the variety of requirements and organizational complexity by the elicitation and modeling of realistic business processes. Furthermore, the use-cases demonstrate how agility is enabled by the modularity of the problem-solving process through the REMOt concept and the REMOt organization model in interaction with the REMOt toolbox.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Maschinenbau und Sicherheitstechnik » Maschinenbau"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20211005-103111-2</identifier>
+                    <identifier type="doi">10.25926/zftc-t276</identifier>
+                    <identifier type="sys">HT021149175</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_15320</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_15320">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/maschinenbau/diss2021/mistler/dd2104.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_15320"
+            DMDID="DMD_wuppertal_elpub_15320">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_15320"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

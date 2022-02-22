@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_2826">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Commissioning of the ATLAS Pixel Detector optical data transmission and studies for readout of the ATLAS IBL and future trackers</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dopke, Jens</displayForm>
+                        <namePart type="family">Dopke</namePart>
+                        <namePart type="given">Jens</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Die Hochenergiephysik beschäftigt sich mit der mikroskopischen Struktur der Materie. Das in diesem Rahmen definierte Standardmodell der Teilchenphysik versucht die Bausteine der Materie sowie ihre Wechselwirkungen zusammenzufassen. Seit seiner Niederlegung in den späten 60er Jahren besteht das Standardmodell alle an ihm durchgeführten Tests, zuletzt durch den erfolgreichen Nachweis der Existenz des Top Quarks im Jahre 1995. Seitdem versuchen Teilchenphysiker den letzten Baustein des Standardmodells zu finden, das Higgs-Boson. Das 2. Kapitel der vorgelegten Arbeit wird den, durch das Standardmodell vorgegebenen, Rahmen diskutieren und einen Überblick über aktuelle Themen der Teilchenphysik geben.
+ Die derzeit grösste Maschine der Teilchenphysik, der Large Hadron Collider am CERN, wird zusammen mit dem ATLAS Experiment in Kapitel 3 eingeführt.
+ Der Rahmen dieser Dissertation ist das innerste Subsystem von ATLAS, den ATLAS Pixel Detektor. In einem sensitiven Volumen von nur 5 millionstel des gesamten ATLAS Detektors, liefert der Pixel Detektor ungefähr 80% aller Auslesekanäle. Im speziellen wird in Kapitel 4 nicht nur der Pixel Detektor, sondern vor allem sein optisches Auslesesystem behandelt.
+ Diese Arbeit setzt sich mit der Installation, Konfiguration und Leistung des ATLAS Pixel Optolinks, der optischen Auslese, auseinander und führt dann über zu der optischen Auslese des ersten ATLAS Upgrades, des Insertable B-Layers. Kapitel 5 beschreibt die Mechanismen zur Evaluierung und Optimierung der Pixel Datenübertragung und zieht daraus Erkenntnisse für die Datenübertragung des Insertable B-Layers. In Kapitel 6 wird dann der, noch in Entwicklung befindliche, Insertable B-Layer sowie dessen Auslesesystem diskutiert.
+ Abschliessend gibt Kapitel 7 einen Überblick der derzeitlichen Entwicklung von Auslesesystemen, sowie der Problematik der Datenauslese an künftigen Collider Experimenten mit stark erhöhter Luminosität.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20120524-093935-7</identifier>
+                    <identifier type="sys">HT017237888</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_2826</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_2826">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-2936/dc1128.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_2826"
+            DMDID="DMD_wuppertal_elpub_2826">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_2826"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

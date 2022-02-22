@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_504">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Synthese neuer Materialien zur Beschichtung von Kieselsäuren für die Kautschukindustrie</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Rettig, Karsten</displayForm>
+                        <namePart type="family">Rettig</namePart>
+                        <namePart type="given">Karsten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-03-07</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die vorliegende Arbeit beschreibt die Synthese neuer Materialien für kieselsäuregefüllte Kautschukprodukte. Zu diesem Zweck wurden Derivatisierungen mittels En-Reaktion an 1,5,9-Cyclododecatrien als niedermolekulare Modellsubstanz durchgeführt. Eine Röntgenstrukturanalyse gab Aufschluß über die Regioselektivität des Enophil-Angriffs. Dies wurde durch geometrieoptimierte Berechnungen bestätigt. Weitere Veresterungen mit Methacrylsäure und eine Amidierung mit einem komplexen Aminosilan wurden durchgeführt. Das Methacrylat konnte unter anionischen Bedingungen homo- bzw. copolymerisiert werden. Das Aminosilan wurde als Verstärkeradditiv bei Vulkanisationen eingesetzt und auf seine Verwendbarkeit in physikalischen Tests hin untersucht. Eine andere Methode um bifunktionelle Additive für Kautschuk/Kieselsäure Systeme zu erhalten, beschreibt die Synthese aromatischer Oligosulfonether mit polaren Gruppen in der Seitenkette und olefinischer Funktionalitäten in der Hauptkette. Um Vernetzungen bei der Umsetzung zu vermeiden wurden bisphenolische Prämonomere hergestellt. Desweiteren führten Derivatisierungen des p-Carboxystyrols mit 6-Aminohexansäure bzw. 11-Aminoundecansäure zu neuen funktionellen Monomeren, welche radikalisch polymerisiert werden konnten. Enzymatische Veresterungen an beiden Monomeren mit primären bzw. sekundären Alkoholen wurden abschließend durchgeführt.</abstract>
+                    <abstract type="content" lang="eng">The present work shows the synthesis of new materials for rubber compounds with silica fillers. For this purpose new studies about the modification of 1,5,9-Cyclododecatriene as a low molecular model-compound of polybutadiene were carried out. Derivatization with paraformaldehyde and maleic acid anhydride by &quot;En-reaction&quot; resulted in new materials. An x-ray analysis showed the exact regioselectivity of the enophilic attack. This was also proven by molecular modeling calculations. 
+Further esterifications with methacrylic-acid and amidification with a complex aminosilane were carried out. The resulting methacrylic monomer was subjected to homo- and co-polymerization under anionic conditions. The aminosilane compound was subjected to vulcanization experiments with extensively physical property measurements to the resulting rubber materials. 
+Another method to get bifunctional additives for rubber/silica systems has been the synthesis of aromatic oligosulfonethers with acid- or estergroups in the sidechain and olefinic groups in the mainchain. To avoid crosslinking new premonomers were synthesized. 
+Furthermore new fattylike monomers of carboxystyrene were synthesized by condensation of carboxystyrene with 6-aminohexanoic- and 11-aminoundecanoic acid with help of CDI. Enzyme catalyzed esterification with primary and secondary alcohols were applied to both monomers. By free radical polymerization new polymers could be obtained.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20010199</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_504</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_504">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-599/d090101.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_504"
+            DMDID="DMD_wuppertal_elpub_504">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_504"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

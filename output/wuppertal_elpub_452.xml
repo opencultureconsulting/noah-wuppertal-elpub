@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_452">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entwicklung und Anwendung einer automatisierten HPLC-Methode mit gekoppelter on-line Dialyse</title>
+                        <subTitle>Metabolismus, Verteilung und Elimination dreier Tetracycline bei Legehennen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Zurhelle, Georg</displayForm>
+                        <namePart type="family">Zurhelle</namePart>
+                        <namePart type="given">Georg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2000-10-09</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Es wird die Entwicklung und Anwendung einer automatisierten analytischen Methode zur Analyse von Proben mit gewachsenen Rückständen an Tetracyclinen (OTC, TC, CTC), sowie die Ergebnisse mehrer Medikationsstudien mit Tetracyclinen bei Legehennen beschrieben. Hierzu wurden Medizinalfutter, Vollei-, Eigelb-, Eiklar- and Blutplasmaproben untersucht. Die Probenvorbehandlung beschränkte sich auf einen Homogenisations- und Verdünnungsschritt. Die Probenaufarbeitung erfolgte mittels on-line Dialyse und einer on-line Festphasenextraktion (erweitertes ASTED® -System), gefolgt von einer HPLC-Trennung mit anschließender UV- oder Fluoreszenz- oder MS-MS-Detektion. Die Futterproben wurden nur mit einer sauren Lösung extrahiert, bevor sie mittels HPLC analysiert wurden. Die automatisierte Methode trug nicht zur Bildung von analytischen Artefakten bei. Bei Proben, die aus den Medikationsstudien stammten, wurden nicht nur die Muttersubstanzen sondern auch die 4-Epimeren der Tetracycline und die vorläufig als N-Desmethylderivate des OTC, TC und des ICTC bezeichneten Metaboliten bestimmt. Ihre absoluten Rückstandskonzentrationen im Ei änderten sich täglich und je nach Henne, aber die Anteile der 4-Epimeren und der N-Desmethylderivate an der Summe aller Rückstände, die auf die Medikation mit einem Wirkstoff zurückzuführen waren, waren in Eiklar- und Eigelbproben konstant. In Plasma- und Eigelbproben wurden die gleichen Metaboliten bestimmt. In Eiklarproben wurden überwiegend nur die Muttersubstanzen, sowie geringe Anteile an 4-Epimeren und weitere noch unbekannte Metaboliten ermittelt. Das ICTC war der Hauptmetabolit des CTC in allen untersuchten Matrices. Aufgrund der Ergebnisse eines in-vitro Experimentes wird eine enzymatische in vivo Bildung der N-Desmethylderivate diskutiert (P450 System), während die in vivo Bildung von ICTC und die der 4-Epimeren von TC, OTC, CTC and ICTC wahrscheinlich durch pH-Wert, Zeit und Temperatur beeinflußt wird.</abstract>
+                    <abstract type="content" lang="eng">Tetracyclines are veterinary drugs. The development of an automated analytical method for the analysis of samples with incurred residues of tetracyclines and the results of these analyses are described. Hen´s feed, whole egg, egg yolk, egg white and blood plasma samples were analyzed. Sample pretreatment is restricted to homogenisation and a dilution step. Cleanup is by on-line dialysis and on-line solid phase extraction utilizing an extended ASTED® system, followed by HPLC with UV or fluorescence detection with post-column pH adjustment and confirmational analysis by LC-MS-MS. The feed samples were only extracted with an acid solution prior to HPLC analysis. The automated method produces no analytical artefacts. After analyzing samples with incurred residues signals not only for the parent compounds but also for the 4-epimers and for the tentatively identified N-demethyl-derivates of OTC, TC and ICTC appeared. Their concentrations changed daily and with every hen, but the ratios of the metabolites to the sum of all residues remained constant in the egg samples, with a remarkable difference between white and yolk. In plasma and egg yolk samples the same metabolites were found. In egg white only the parent compounds, a low ratio of 4-epimers and other still unidentified metabolites were found. ICTC was the principal metabolite of CTC in all investigated matrices. With an in vitro experiment the formation of 4-epimers and ICTC was observed, but no formation of the N-demethyltetracyclines. Therefore the formation of the desmethyl-derivates is discussed to take place in vivo (P450 system), and the formation of ICTC and the 4-epimers of TC, OTC, CTC and ICTC are discussed to be formed in vivo due to pH value, time and temperature.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20000404</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_452</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_452">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-547/d090014.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_452"
+            DMDID="DMD_wuppertal_elpub_452">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_452"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

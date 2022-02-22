@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9520">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Model Study of Charm Loop Effects</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Cali, Salvatore</displayForm>
+                        <namePart type="family">Cali</namePart>
+                        <namePart type="given">Salvatore</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-07-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Viele Gittersimulationen der Quanten Chromodynamik (QCD) werden gegenwärtig mit Nf =2+1 dynamischen, leichten Quarks (up, down, strange) durchgeführt. Das kann als gute Näherung der vollen QCD bei Energien weit unterhalb der Charm Quark Masse angesehen werden, die bisher wichtige Ergebnisse und Vorhersagen in der Elementarteilchenphysik geliefert hat. Allerdings würde eine vollständigere Simulation zusätzlich ein dynamisches Charm Quark einbeziehen (Nf = 2+1+1 QCD), um systematische Effekte, die durch dessen Vernachlässigung hervorgerufen werden, zu eliminieren, und um Charm Physik besser zu verstehen. 
+In dieser Dissertation wollen wir die dynamischen Charm Quark Effekte in der QCD berechnen. Zu diesem Zweck arbeiten wir mit einem vereinfachten Modell statt mit der vollen QCD. Wir simulieren zwei Theorien: Nf = 0 QCD und QCD mit Nf = 2 dynamischen Quarks mit der Masse eines Charm Quarks. Die dynamischen Charm Effekte werden aus dem Vergleich der Nf = 0 und der Nf = 2 QCD extrahiert. Als Gitter Diskretisierung benutzen wir Wilsons Plaquette Wirkung und Wilson Fermionen mit einem twisted-mass Term, beim maximalen Twist, sowie mit einem clover Term, dessen Koeffizient nichtperturbativ bestimmt wurde. Die Abwesenheit leichter Fermionen erlaubt uns, sehr feine Gitterabstände (0.017 fm ≲ a ≲ 0.049 fm) zu realisieren, die für zuverlässige Kontinuumsextrapolationen eine entscheidende Rolle spielen. 
+Im Kontinuum berechnen wir Größen sowohl ohne eine explizite Charm Quark Abhängigkeit, wie das statische Quark Potential, als auch mit einer expliziten Charm Quark Abhängigkeit. Zu letzteren zählen etwa die Massen und Zerfallskonstanten vom Charmonium, die Feinstrukturaufspaltung oder die Renormierungsgruppen invariante Quark Masse. Zum Beispiel finden wir, dass für die Hyperfeinaufspaltung (mJ/ψ − mηc)/mηc , wobei mηc und mJ/ψ die Massen des pseudo-skalaren Mesons ηc und des Vektormesons J/ψ bezeichnen, die Relativen Effekte eines dynamischen Quarks bei etwa 2% liegen. In der über die statische Kraft definierten starken Kopplung sehen wir eindeutige Effekte eines dynamischen Charm Quarks, sobald der Abstand zwischen den statischen Quarks auf unterhalb von 0.13 fm fällt.</abstract>
+                    <abstract type="content" lang="eng">At present, many lattice simulations of Quantum Chromodynamics (QCD) are carried out using Nf = 2+1 dynamical light quarks (up, down, strange). This setup has so far provided important results and predictions in Particle Physics and can be considered a good approximation of full QCD at energies much below the charm quark mass. However, a more complete setup would include a dynamical charm quark (Nf = 2+1+1 QCD), since it eliminates systematic effects due to the “quenching” of the charm quark in Nf = 2+1 QCD simulations and also leads to a better understanding of charm physics. 
+In this thesis we want to compute the loop effects due to a dynamical charm quark in QCD. For this purpose, instead of working in full QCD we study a simplified setup. We simulate two theories: Nf = 0 QCD and QCD with Nf = 2 dynamical quarks at the charm mass. The dynamical charm effects are extracted from the comparison of Nf = 0 and Nf = 2 QCD. For the lattice discretization we use the Wilson plaquette gauge action and twisted mass Wilson fermions at maximal twist including a non-perturbatively determined clover term. The absence of light quarks allows us to reach extremely fine lattice spacings (0.017 fm ≲ a ≲ 0.049 fm), which are crucial for reliable continuum extrapolations. 
+We compute in the continuum both quantities without an explicit charm-quark dependence, like the static quark potential and the strong coupling derived from the static force, and quantities with an explicit charm-quark dependence, like charmonium masses and decay constants, the hyperfine splitting and the renormalization group invariant quark mass. For example, for the hyperfine splitting (mJ/ψ −mηc)/mηc , where mηc and mJ/ψ denote the masses of the pseudoscalar meson ηc and vector meson J/ψ respectively, we find that the relative effects of a dynamical charm quark are around 2%. In the strong coupling determined from the static force we clearly see the effects of a dynamical charm as soon as the distance r between the static quarks becomes smaller than 0.13 fm.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20190703-093913-4</identifier>
+                    <identifier type="doi">10.25926/n9mr-f664</identifier>
+                    <identifier type="sys">HT020148082</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9520</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9520">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2019/cali/dc1909.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9520"
+            DMDID="DMD_wuppertal_elpub_9520">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9520"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

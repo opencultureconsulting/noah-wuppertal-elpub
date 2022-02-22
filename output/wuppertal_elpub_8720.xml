@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_8720">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Search for Partners of the Top Quark with the ATLAS Experiment</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Küchler, Jan</displayForm>
+                        <namePart type="family">Küchler</namePart>
+                        <namePart type="given">Jan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-09-11</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This dissertation presents searches for partners of the top quark based on 36 fb-1 pp-collision data recorded at a centre-of-mass energy of 13 TeV with the ATLAS experiment at the LHC.
+ Top quark partner particles are motivated in many models of physics beyond the Standard Model. The two scenarios considered are a vector-like top quarks, as well as a supersymmetric top squark. For each of these two models, one analysis is presented. The background processes are normalised in dedicated control regions. 
+ No excess above the Standard Model expectation is observed and 95% CL limits on the production cross-sections are derived. The observed (expected) lower limit on the vector-like top quark mass is 1.16 TeV (1.17 TeV) for decays into a Z boson and a top quark. For pair-produced top squarks decaying into top quarks, top squark masses up to 940 GeV are excluded (1020 GeV expected).</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20180911-111630-0</identifier>
+                    <identifier type="sys">HT019816622</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_8720</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_8720">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2018/kuechler/dc1813.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_8720"
+            DMDID="DMD_wuppertal_elpub_8720">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_8720"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

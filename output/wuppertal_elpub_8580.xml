@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_8580">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Waveform-relaxation methods for ordinary and stochastic differential equations with applications in distributed neural network simulations</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hahne, Jan</displayForm>
+                        <namePart type="family">Hahne</namePart>
+                        <namePart type="given">Jan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-07-27</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This thesis deals with the efficient solution of large systems of ordinary and stochastic differential equations with waveform-relaxation techniques in the context of spiking neural network simulators. Parallel spiking neuronal network simulators make use of the fact that the dynamics of neurons with chemical synapses is decoupled for the duration of the minimal network delay and thus can be solved independently for this duration. We include two fundamental new features in these simulators that require continuous interaction between neurons: electrical synapses, so-called gap junctions, and rate models, which describe neurons or entire populations of neurons in terms of continuous variables, e.g. firing rates. The main achievements of this thesis are the identification of suitable waveform-relaxation methods, their efficient implementation in the existing structures of the parallel simulator NEST and their numerical and theoretical analysis.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20180727-140556-2</identifier>
+                    <identifier type="sys">HT019762553</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_8580</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_8580">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2018/hahne/dc1809.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_8580"
+            DMDID="DMD_wuppertal_elpub_8580">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_8580"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

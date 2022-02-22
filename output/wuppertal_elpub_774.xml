@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_774">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchungen an einem neuen spirocyclischen Glycinbaustein, abgeleitet von Menthon</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kotthaus, Andreas F.</displayForm>
+                        <namePart type="family">Kotthaus</namePart>
+                        <namePart type="given">Andreas F.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005-06-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In this work the use of a new spirocyclic N,N-acetal (iso-MI) derived from glycinamide and (-)-menthone with special regard to the synthesis of enantiomerically pure α-amino acids was investigated.
+ It was shown that iso-MI is a highly valuable building block for the flexible synthesis of several glycine anion equivalents and nitrone- and imine-derivates as cation equivalents. Side chains were easily introduced via these building blocks and in most cases the reactions occured under high stereocontrol from the side anti to the isopropyl group of the menthyl ring.
+ Due to the possibility to use different protecting groups, the release of amino acids caused no problems. In case of the lactimether-protected system 29, releasing occurred under very mild conditions. Starting from iso-MI, amino acids with bulky side chains like adamantlyglycine as well as racemisation sensitive amino acids like vinylglycine were thus synthesized with high enantiomeric excess. 
+ Furthermore a very effective chiral derivatizating reagent (DNFB-iso-MI) was synthesised from iso-MI to determine the enantiopurity of amino acids by HPLC with a nonchiral reversed phase column.
+ A further application investigated in this work is the use of iso-MI and MMI as organocatalysts. It was shown exemplarily that MMI catalyses a Diels-Alder reaction between 1,3-cyclohexadiene and acrolein with good yields and enantiomeric excess.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20050214</identifier>
+                    <identifier type="sys">HT014423172</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_774</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_774">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2005/kotthaus/dc0506.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_774"
+            DMDID="DMD_wuppertal_elpub_774">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_774"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

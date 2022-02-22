@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_587">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entwicklung eines Rechenverfahrens für keilgezinkte Rahmenecken und Biegeträger ohne oder mit Zwischenstück aus Brettschichtholz oder Holzwerkstoffplatten</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wiegand, Tobias</displayForm>
+                        <namePart type="family">Wiegand</namePart>
+                        <namePart type="given">Tobias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003-05-06</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Keilgezinkte Rahmenecken und Biegeträger mit oder ohne Zwischenstücken werden aus Brettschichtholz- und Holzwerkstoffabschnitten hergestellt, die mittels Universalkeilzinken-verbindungen (UKZV) gestoßen werden. In UKZV werden die zu verbindenden Abschnitte in einer quer zur Systemachse verlaufenden, über die gesamte Querschnittshöhe gefrästen Keilzinkung miteinander verklebt. 
+Traglastversuche sind sehr aufwändig. Es wird daher ein Rechenmodell zur Abschätzung der Tragfähigkeit unter Berücksichtigung streuender Werkstoffeigenschaften entwickelt. Das Rechenmodell besteht aus einem Simulations- und einem Finite-Elemente-Programm. 
+Im Simulationsprogramm wird der Aufbau der Brettschichtholz- und Holzwerkstoffbauteile nachvollzogen. Mit den statistischen Verteilungen der Holzeigenschaften unter Berücksichtigung wuchsspezifischer und produktionsabhängiger Regelmäßigkeiten können theoretisch beliebig viele Träger mit unterschiedlich verteilten Eigenschaften simuliert werden. Es wird ein orthotropes Materialgesetz und ein Bruchkriterium gewählt, dass die auftretenden mehrachsigen Spannungszustände berücksichtigt. 
+Im FE-Programm wird die Last so gesteuert, dass am Ende jeder Laststufe ein Teilbereich ausfällt. Anhand empirischer Versagenskriterien wird überprüft, ob die Traglast des Gesamtsystems erreicht ist. 
+Anhand von Traglastversuchen konnte die Richtigkeit des Programms bestätigt werden. 
+Mit Hilfe durchgeführter Simulationen wurde ein Bemessungsvorschlag formuliert.</abstract>
+                    <abstract type="content" lang="eng">Portal-frame-corners and beams can be made of wooden components jointed with large-finger-joints (LFJs). LFJs are finger joints through the full cross-sectional area at the end of wooden components bonded together at any angle. The wooden components are usually made of glued-laminated-timber (glulam). In order to strengthen the member, glued blocks of wood-based-panels having the same width can be inserted as corner pieces between two glulam-components. 
+The testing of finger-jointed members is costly. Therefore a simulation model has been developed in order to calculate the ultimate loads of simulated frame-corners and beams taking into account the variability of the relevant material properties. The simulation-model consists of a simulation-module and a calculation-module based on the method of finite-elements. 
+The simulation-module reproduces the steps of the production. The wooden members are divided into “cells”. For each cell random values are taken from the known statistical distributions. The simulation model in hand takes into consideration the influence of combined stresses and orthotropic material properties. 
+Inside the calculation-module the stepwise load is calculated in a way, that at the end of each loadstep one cell fails. At the end of each load step it is checked wether the failure-load of the system has reached. 
+The simulation-programm has been checked by some large-scale testing. 
+Based on a large number of simulations a calculation-scheme has been found.</abstract>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Architektur und Bauingenieurwesen » Bauingenieurwesen"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20030197</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_587</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_587">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-683/d110302.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_587"
+            DMDID="DMD_wuppertal_elpub_587">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_587"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

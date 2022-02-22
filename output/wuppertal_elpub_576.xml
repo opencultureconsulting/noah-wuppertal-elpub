@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_576">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Computergestützte Methode für das Entwerfen von Tragkonstruktionen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Maas, Michael</displayForm>
+                        <namePart type="family">Maas</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-03-06</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Bei der Planung von Aufgaben des allgemeinen Hochbaus kommt dem Entwurf der Tragkonstruktion eine bedeutende Rolle zu. Aufgrund vielschichtiger Anforderungen an das Bauwerk sollte der Tragwerksentwurf im Dialog zwischen Architekt und Bauingenieur entstehen. 
+Die vorliegende Arbeit untersucht zunächst die Entwurfsprozesse der Planungsbeteiligten, vorwiegend während der Konzeption des Tragwerkes. Es wird geprüft, welche Werkzeuge, insbesondere welche modernen Informationstechnologien, zum Einsatz kommen. Auch die Einflüsse dieser Hilfsmittel auf die Ausbildung von Architekten und Bauingenieuren werden aufgezeigt. 
+Die vorgenommene Analyse des Entwurfsprozesses zeigt u.a. die im Folgenden erläuterte Problematik in den Konzeptphasen des Entwurfes auf. Die Entwurfsverfasser sind aufgefordert, sehr früh Aussagen bezüglich Mengen, Gestaltung und Kosten zu treffen. Antworten auf der Basis gesicherter Planungsgrundlagen können in dieser Phase der Bearbeitung nicht gegeben werden. Hier sind die Planer auf Schätzungen angewiesen. 
+Die in dieser Arbeit dokumentierte Entwicklung geeigneter Werkzeuge dient vorrangig dazu, in der Konzeptphase der Planung Hilfestellungen geben zu können. 
+Es wurden zwei sich ergänzende Programme entwickelt und exemplarisch Module als Hilfsmittel zu bestimmten Fragestellungen erstellt. 
+Ein Zweig der Entwicklungen ist das Programm VORWEIS. Es dient der Vordimensionierung verschiedener Bauelemente des Hochbaus. Für häufig auftretende Fälle können, mit einem Minimum an Eingabeaufwand, sehr genaue Aussagen bezüglich der Bauteilabmessungen getroffen werden. Es ist so konzipiert, dass es sowohl von Bauingenieuren als auch von Architekten eingesetzt werden kann. Aufgrund einer Ergebnisausgabe in Varianten können einfache Tragsystementscheidungen leichter als bisher getroffen werden. 
+Der zweite Zweig der Entwicklung ist die Wissensvermittlungssoftware TRAGKO. Hier wurden Module mit &quot;Wissensinhalten&quot; geschaffen, die unter Nutzung der Möglichkeiten moderner Informationstechniken Grundlagenwissen vermitteln. Unter anderem können Nutzer sich bei Bedarf hiermit Informationen erschließen, die für den gezielten Einsatz von VORWEIS hilfreich sind. Im Planungsablauf können mit diesen Programmen in der Praxis wie in der Ausbildung Effizienzsteigerungen erzielt werden. Insbesondere unterschiedliche Entwurfsvarianten können damit fundierter als bisher beurteilt werden.</abstract>
+                    <abstract type="content" lang="eng">During the planning phase of general building construction, the structural design plays an important role. Due to the multiplicity of requirements the building must fulfill, the structural design should be developed through dialogue between the architect and the civil engineer. 
+This thesis examines initially the design process of those involved in the planning phase, with particular emphasis on the conception of the structural design. The tools used in this process, particularly with regard to Information Technology, will be investigated. Furthermore, the influence of these tools on the training of architects and civil engineers will be shown. 
+The analysis of the design process highlights the following problem in the conception phase. The designers are required to make statements regarding quantities, form and costs at a very early stage. Answers established on a secure planning-basis cannot be given at this phase of the working process. Instead, the designers are reliant on the use of estimates. 
+The development of appropriate tools documented in this thesis serves as an aid in the conception phase of the design process. 
+Two complementary programs were developed and specimen modules established to aid in specific queries. A branch of the development is the program VORWEIS. It enables the predimensioning of various structural elements of building construction. 
+In the case of regularly occurring scenarios it is possible, with a minimum of input, to obtain very precise statements concerning the dimensions of structural elements. It is so conceived to be of use to both engineers and architects. Due to the variety of solutions, simple decisions in the planning of the structural design can be made easier than before. 
+The second branch of development is the Computer based training software TRAGKO. The software here is based on &quot;Knowledge-Modules&quot; which, through the use of modern Information Technology, can be used to convey the fundamentals of knowledge. A possible application is the acquisition of general information in order to carry out more specific analysis with the program VORWEIS. 
+With these programs it is possible to improve efficiency in the planning stage both in practice and in training. In particular, design-alternatives can be assessed more thoroughly than before.</abstract>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Architektur und Bauingenieurwesen » Bauingenieurwesen"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20010145</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_576</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_576">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-672/d110101.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_576"
+            DMDID="DMD_wuppertal_elpub_576">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_576"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

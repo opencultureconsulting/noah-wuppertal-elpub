@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_335">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Bestimmung der Newtonschen Gravitationskonstanten G</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kleinevoß, Ulf</displayForm>
+                        <namePart type="family">Kleinevoß</namePart>
+                        <namePart type="given">Ulf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002-03-12</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The value of the Newtonian Gravitational constant G has interested physicists for more than 200 years and except for the speed of light, it has the longest history of measurements. But although G is the aim of experimentalists for such a long time, it is the least well known fundamental constant. At the end of 1998 the CODATA even decided to increase the uncertainty of the accepted value for the gravitational constant from 128 ppm to 1500 ppm. This remarkable step of increasing the uncertainty instead of decreasing was made to reflect the discrepancies between recent experiments, which span a wide range of more than 0.7 %. Motivated by this fact and the uniqueness of the Wuppertaler experiment concerning distance range and method, strong efforts were performed in order to minimize the uncertainties and to determine a realistic estimate for the Newtonian constant and the remaining errors.
+ The heart of the experiment is an open Fabry-Pérot resonator, which is formed by two reflectors. On each outer side of the reflectors a 576 kg brass mass is placed, coinciding with the axis of the resonator. The two masses are moved symmetrically and simultaneously from a reference to a measuring position near the reflectors. This causes the distance between the reflectors of the cavity to change due to the change in gravitational force acting on them. The measured quantity is the change in the resonant frequency of the resonator arising from the change in its length of approximately 13 nm. Because the resulting shift in the resonance frequency is measured as a function of the field masses position, Newton’s inverse-square law can be tested between the ranges of 0.7 m and 2.1 m.
+ This thesis describes the results of a search for further systematical errors and the reduction of known uncertainties. A correction function for the tilt of the experiment due to deformation of the ground by the brass masses was determined, which enabled us to reanalyse the results of older measurements. Also, the dependence on the alignment between the resonantor and the waveguides was reduced and an active temperature stabilization was installed. Therefore, systematic uncertainty could be reduced by more than an order of magnitude compared to the previous measurements. As a result, the Newtonian Gravitational constant has been determined with a relative accuracy of 147 ppm to be 
+ &lt; G &gt; = ( 6:67422 ± 0:00049 ± 0:00085 ) . 10-11 [m³ kg-1 s-2]. (1) 
+ In addition it puts new constraints on the excluded regions for non-Newtonian gravity in the range between 0.1 m to 1 m. The value itself is in good agreement with the latest measurements of other groups.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20020143</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_335</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_335">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-429/d080201.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_335"
+            DMDID="DMD_wuppertal_elpub_335">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_335"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

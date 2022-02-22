@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1454">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Satellitengestützte Schwerewellenmessungen in der Atmosphäre und Perspektiven einer zukünftigen ESA Mission (PREMIER)</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Höfer, Sebastian</displayForm>
+                        <namePart type="family">Höfer</namePart>
+                        <namePart type="given">Sebastian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-07-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Schwerewellen spielen eine Schlüsselrolle bei den Zirkulationen in der mittleren Atmosphäre. Um das Verständnis von Schwerewellen und deren Wechselwirkungen mit der Atmosphäre zu verbessern, werden globale, hoch aufgelöste Messdaten benötigt. Die Erkenntnisse die aus solchen Daten gewonnen werden können, werden auch die Verbesserung von Klimavorhersagemodellen fördern.
+ In der vorliegenden Arbeit werden die vom European Centre for Medium-Range Weather Forecasts (ECMWF) bereitgestellten Temperaturdaten der operationellen Analyse in Hinblick auf das darin enthaltene Schwerewellenspektrum mit gemessenen Daten des Sounding of the Atmosphere using Broadband Emission Radiometry (SABER) Satelliteninstrumentes verglichen. Die Validierung der ECMWF-Daten wird zeigen, dass im Modell orographisch angeregte Schwerewellen in der Troposphäre und unteren Stratosphäre um einen Faktor zwei unterschätzt werden. Zudem werden die Untersuchungen zeigen, dass Schwerewellen mit orographischen Quellen im ECMWF-Modell deutlich besser wiedergegeben werden als konvektiv angeregte Schwerewellen. Durch Konvektion angeregte Schwerewellen werden im ECMWF-Modell aufgrund der Gitterauflösung unterdrückt, sind aber mit geringer Amplitude vorhanden. Des Weiteren wird gezeigt, dass die Wellen im Modell generell oberhalb von 50 km stark gedämpft werden.
+ Der validierte ECMWF-Datensatz kann genutzt werden, um Messungen eines zukünftigen Satelliteninstrumentes zu simulieren. Bei der Untersuchung der Daten des Infrared Limb Imager (ILI) zeigt sich, dass mit diesem neuen Instrument in der Zukunft Temperaturdaten mit einer räumlichen Auflösung bereitgestellt werden, die es ermöglicht, Schwerewellenimpulsfluss richtungsabhängig zu bestimmen. Der Impulsfluss, der via Temperaturamplituden bestimmt wird, ist in guter Übereinstimmung mit den Ergebnissen, die direkt auf ECMWF-Winddaten beruhen. In diesem Ergebnis zeigt sich deutlich, das große Potential der ILI-Daten in Hinblick auf globale Messungen von Schwerewellen und die Ableitung von Schwerewellenparametern. Die Möglichkeit richtungsabhängigen Impulsfluss ableiten zu können, kann in Zukunft zur Verbesserung globaler Zirkulationsmodelle der Atmosphäre beitragen.</abstract>
+                    <abstract type="content" lang="eng">Gravity waves play a key role in middle atmosphere dynamics. For an improved understanding of gravity waves and their interactions with the atmosphere, global modeling and measurements with high resolution are required.
+ In this work we validate the gravity waves resolved in ECMWF (European Centre for Medium-Range Weather Forecasts) model-data by comparison with gravity wave analysis of global satellite observations by SABER (Sounding of the Atmosphere using Broadband Emission Radiometry). The validation of the model-data shows that the modeled wave amplitudes are lowered by a factor of two in the troposphere and lower stratosphere. Above 50 km altitude, the vertical resolution of ECMWF is reduced and accordingly the gravity waves are strongly damped. It is also shown that gravity waves with orographic sources are better represented in the model-data than convectively exited waves. Gravity waves with convective sources are suppressed by the resolution of the model and are only represented with small amplitudes.
+ The validated ECMWF-data set can be used to simulate measurements of a future Infrared Limb Imager (ILI). The investigation of the ILI-data shows that the measurement resolution is sufficient to calculate gravity wave momentum flux in both horizontal directions and that it will be possible to receive information about the propagation direction of the waves. The validated model-data are also used to improve the assumptions made by using temperature data to receive gravity wave momentum flux.
+ The results of this study shows clearly the high potential of ILI-data for global measurements of gravity waves and the retrieval of gravity wave parameters. In particular momentum flux depending on the propagation direction of the waves will improve global circulation models.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20100381</identifier>
+                    <identifier type="sys">HT016449792</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1454</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1454">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2010/hoefer/dc1008.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1454"
+            DMDID="DMD_wuppertal_elpub_1454">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1454"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_15290">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Vorwissen und Gründungsmotivation als Determinanten für die Ideenherkunft von unternehmerischen Gelegenheiten – Eine qualitativ-explorative Studie zu Unterschieden zwischen einmaligen und habituellen Gründern</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kuttig, Kathrin</displayForm>
+                        <namePart type="family">Kuttig</namePart>
+                        <namePart type="given">Kathrin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-09-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Als Beitrag zum Forschungsfeld des Entrepreneurship wird in dieser Arbeit untersucht, welchen Einfluss das individuelle Vorwissen bzw. die individuellen Erfahrungswerte sowie die persönliche Motivationslage eines Entrepreneurs auf die Ideenfindung für die eigene Unternehmensgründung hat, und inwiefern sich Einfach- und Mehrfachgründer dabei unterscheiden. Für die Untersuchung des Sachverhaltes wird zunächst die einschlägige Literatur ausführlich beleuchtet. Anschließend erfolgt die Erhebung und Auswertung von Primärdaten. Es wurden 18 Interviews mit Einfach- und Mehrfachgründern geführt und die Sachverhalte anhand der qualitativen Inhaltsanalyse untersucht. Es wird eine Typologie erstellt und vier polythetische Typen aus den Daten abgeleitet. Die Typen werden in einem zweidimensionalen Merkmalsraum anhand der Gründungshäufigkeit (Einfach- vs. Mehrfachgründer), der Gründungsmotivation (entrepreneurship-inhärent vs. entrepreneurship-kohärent) und der Herkunft der Gründungsidee (schlüssig vs. erratisch) unterschieden. Die erstmaligen Gründer werden anhand ihrer Gründungsmotivation in Pragmatiker und Gläubige unterteilt. Die Ideenquelle für die Pragmatiker ist die vorherige Arbeitsstelle. Die Ideenquelle für die Gläubigen ist das familiäre bzw. nahe persönliche Umfeld. Die Gruppe der habituellen Gründer werden ebenfalls anhand ihrer Gründungsmotivation in die Getriebenen und die Stringenten unterteilt. Für die Ideenquelle der Getriebenen lässt sich kein gemeinsamer Nenner ableiten: sie haben ein entrepreneurship-kohärentes Gründungsmotiv und ein thematisch erratisches Gründungsverhalten und bei der Ideenherkunft keine Gemeinsamkeit. Die Stringenten erhalten die Idee für ihre erste Gründung aus der vorherigen Arbeitsstelle, welche sie jedoch im Gegensatz zu den Pragmatikern mit der Gründung thematisch weiterentwickeln. Die Ideen für die weiteren Gründungen der Stringenten ergeben sich aus der ersten Gründung, bspw. durch die Weiterentwicklung eines Themas oder durch die Umsetzung eines Kundenwunsches. Nach der ausführlichen (Zusammenhangs-)analyse der verschiedenen Typen erfolgt die Ableitung von Hypothesen aus dem Datenmaterial sowie Vorschlägen zur Operationalisierung. Die Arbeit schließt mit weiterführenden Gedanken zu Implikationen für die Entrepreneurship- Forschung und -Praxis sowie Limitationen und weiteren sich daraus ergebenden Forschungsaspekten. 
+Die Dissertation besteht aus zwei Bänden (da2110.pdf, da2110a.pdf)</abstract>
+                    <subject>
+                        <topic>Entrepreneur</topic>
+                        <topic>Entrepreneurship</topic>
+                        <topic>Opportunity Recognition</topic>
+                        <topic>Habitual Entrepreneur</topic>
+                        <topic>Founding Motivation</topic>
+                        <topic>Locus of Idea</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20210923-122045-1</identifier>
+                    <identifier type="doi">10.25926/58nv-8d11</identifier>
+                    <identifier type="sys">HT021163146</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_15290</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_15290">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-14281/db2110.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_15290"
+            DMDID="DMD_wuppertal_elpub_15290">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_15290"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

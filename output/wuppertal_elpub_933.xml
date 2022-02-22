@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_933">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Innovation der Kleinbetriebe des Metallbaus</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Fischer, Wilhelm</displayForm>
+                        <namePart type="family">Fischer</namePart>
+                        <namePart type="given">Wilhelm</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-05-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Jahrzehnte beruflicher Erfahrung in der Leitung eines kleinen Metallbaubetriebs als Allround-Bauingenieur wurden analysiert und zu einer umfassenden Konzeption &quot;Innovation der Kleinbetriebe des Metallbaus&quot; verdichtet. 
+Der alltägliche Einsatz eines CAD-Hochleistungssystems stellte sich als derart komplex heraus, dass das gesamte Betriebsgeschehen untersucht werden musste, inklusive nachweisbarer Synergieeffekte. 
+In der &quot;Grundlagenermittlung&quot; wird die bedeutende Zahl der Arbeitsplätze in kleinen industriellen und handwerklichen Betrieben des Metallbaus belegt. Das Ausschöpfen ihres Marktpotentials kristallisierte sich als eines der Hauptprobleme heraus. 
+Der Schlüssel zum Sprung diese Leistungsfähigkeit auszunutzen liegt beim Einsatz und der souveränen Bedienung von Gewerke übergreifenden CAD-Hochleistungssystemen im Betrieb. 
+Dabei zeigte die Trendanalyse des Marktes, dass der Markt anspruchsvoller Bauaufgaben wächst. 
+Universitäten haben die Schlüsselstellung Bauingenieure auszubilden, die den &quot;Wisenstransfer&quot;, dieser Innovationen, in die Betriebe ermöglichen. 
+Die Berufsschulausbildung muss sich auch diesen Herausforderungen stellen. Weiterbildungsangebote und Beratungstätigkeiten sind gleichermaßen erforderlich wie die Beantwortung nach der Finanzierungsfrage. 
+Konzipierte und konkret in der Praxis erprobte Innovationen für kleine Metallbaubetriebe sind für alle Beteiligten eine unternehmerische Herausforderungen zur überlebenswichtigen Neugestaltung des Berufs.</abstract>
+                    <abstract type="content" lang="eng">Decades of professional experience in managing a small metal-construction company as an all-round construction engineer has been analysed and condensed into a comprehensive concept entitled &quot;Innovation in small companies in the metal-construction industry&quot;. 
+The day-to-day use of a high performance CAD system was so complex that the entire work-flow of the production had to be analysed, including identifiable synergy effects. 
+In the &quot;Preliminary Research&quot;, it became evident that the number of jobs provided by small industrial and technical companies is significant. It was discovered that one of the main problems lay in exploiting the benefits of their market potential. 
+The key to increasing this potential lies in the efficient application of high performance CAD systems integrating all the systems within the company. 
+The trend analysis shows that the market for sophisticated construction options is growing. 
+Universities hold a key position in the training of construction engineers who can bring knowledge and innovative ideas to the work place. 
+Vocational training colleges must also take up this challenge. Training courses and career advice as well as financial advice are all equally important. 
+The introduction of well conceived, tried and tested innovations into small metal-construction companies presents an entrepreneurial challenge in redesigning the business and is a key to the survival of this branch of industry.</abstract>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Architektur und Bauingenieurwesen » Bauingenieurwesen"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20060129</identifier>
+                    <identifier type="sys">HT014741471</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_933</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_933">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/bauingenieurwesen/diss2006/fischer/dd0602.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_933"
+            DMDID="DMD_wuppertal_elpub_933">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_933"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

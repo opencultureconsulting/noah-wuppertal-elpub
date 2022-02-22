@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_631">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Verbesserung des Sicherheitsniveaus der Binnen-Fahrgastschiffe in Europa</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Füngerlings, Friedrich</displayForm>
+                        <namePart type="family">Füngerlings</namePart>
+                        <namePart type="given">Friedrich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-10-11</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Arbeit vermittelt einen Überblick über die Fahrgastschifffahrt und den Personentransport in Deutschland und Europa und die hierfür geltenden Vorschriften im technisch-administrativen Bereich. Hiervon ausgehend wird das vorhandene Sicherheitsniveau ganzheitlich betrachtet und zwar erstmals umfassend und anhand einer alle denkbaren Gefährdungen für die Menschen an Bord von Fahrgastschiffen und vergleichbaren Fahrzeugen erfassenden Gefährdungsanalyse. Demgegenüber erfolgten in der Vergangenheit Änderungen der Vorschriften nur in Detailbereichen und aufgrund des zu verzeichnenden Unfallgeschehens.
+ Aufbauend auf den Ergebnissen der Gefährdungsanalyse wird ein umfassender Vorschlag für notwendige Ergänzungen und Änderungen bzw. Überarbeitungen der Bestimmungen für die Zulassung und den Betrieb der Fahrzeuge erarbeitet und einzeln begründet. Schlußendlich wird dargestellt, welchen Weg diese Vorschläge bis zur Umsetzung in den einschlägigen Verordnungen nehmen müssen und welche Chancen ihnen auf diesem Weg eingeräumt werden</abstract>
+                    <abstract type="content" lang="eng">This paper gives an overview to the passenger shipping and other passenger traffic on inland waterways in Germany and Europe and also to the prevailing regulations in the technical and administrative field. Following thereon, the present safety-level is looked at first time totaly and basing on an analysis of danger regarding all rationalized danger for people on board of passenger vessels and comparable vessels. Compared to the past changings of regulations were made only in details and only following to the summation of accidents.
+ Basing on the results of the analysis of danger a comprehensive proposal for necessary complementation, changing or revision of the rules for building approval and operation of vessels is worked out and proved in details. Finaly it is shown, what kind of way these proposals shall go to be conversed in the rules and how much chances this conversion will have.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Maschinenbau und Sicherheitstechnik » Sicherheitstechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20010530</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_631</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_631">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-727/d140102.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_631"
+            DMDID="DMD_wuppertal_elpub_631">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_631"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

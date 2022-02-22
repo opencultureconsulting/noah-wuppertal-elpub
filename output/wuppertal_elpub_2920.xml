@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_2920">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Neue Donor-Akzeptor-Copolymere und Polyelektrolyte auf Perylenbasis</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dolfen, Daniel</displayForm>
+                        <namePart type="family">Dolfen</namePart>
+                        <namePart type="given">Daniel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Erforschung organischer Solarzellen (OSC) mit Fullerenderivaten als Akzeptormaterial ist in den letzten Jahren erheblich vorangeschritten und es wurden immer wieder neue Rekordeffizienzen erreicht. Durch den Einsatz von Polymeren an Stelle von Fullerenderivaten als Akzeptorkomponente könnten weitere Fortschritte gemacht werden. Geeignete konjugierte Polymere absorbieren im sichtbaren und nahen Infrarotbereich des Spektrums und können das Sonnenspektrum besser ausnutzen. Bis jetzt ist es aber noch nicht gelungen, Solarzellen nur aus Polymeren herzustellen, die mit OSCs auf Fullerenbasis konkurrieren können. Vielversprechende Kandidaten, die Probleme der all-Polymer Solarzellen zu überwinden, werden im ersten Kapitel dieser Arbeit vorgestellt. Dazu werden Naphthalin- und Perylendiimide als elektronenarme Bausteine in sogenannten Donor-Akzeptor Polymeren zusammen mit verschiedenen elektronenreichen Bausteinen eingesetzt. Literaturbekannte Polymere dieser Art zeichnen sich besonders durch hohe Elektronenleitbeweglichkeiten aus und erfüllen damit eine wichtige Voraussetzung für den Einsatz als Akzeptorpolymer. Durch den Einsatz dieser Polymere in all-Polymer Solarzellen konnten Effizienzen von bis zu 1,15 % in einem &quot;bulk-heterojunction&quot; Aufbau erreicht werden. 
+
+Im zweiten Kapitel dieser Arbeit wird ein neues Polyamin und verschiedene Polyelektrolyte vorgestellt, die aus Perylen-Einheiten im Polymerrückgrat aufgebaut sind. Sie verbinden dabei die optischen Eigenschaften von Perylen mit den physikalischen Eigenschaften von Polyelektrolyten. Das Aggregationsverhalten in Abhängigkeit von Lösungsmitteln und der Konzentration wurde untersucht und mit Hilfe von Absorptions- und Fluoreszenzspektren diskutiert. Das Polyamin wurde polymeranalog quaternisiert und sowohl in ein Polykation als auch in ein Polyzwitterion überführt. Von den neuen Polyammoniumverbindungen werden ebenfalls Aggregations- und Deaggregationsverhalten, sowie deren Solvathochromie untersucht. Ein möglicher Einsatz in Biosensoren wird diskutiert.</abstract>
+                    <abstract type="content" lang="eng">All-polymer solar cells (all-PSCs) use conjugated polymers instead of fullerene derivatives as acceptor component in organic photovoltaics (OSCs). With this a couple of advantages are accompanied like absorption in the visible and near IR region of the solar spectrum and therefor enhanced light harvesting capabilities. Because in all-PSCs both materials of the bulk-heterojunction are polymers and, hence, show comparable physical characteristics better processing properties are expected. In spite of those advantages all-PSCs are far behind their fullerene counterparts in terms of efficiencies. Within the first part of this thesis novel D-A polymers which consist of naphthalene and perylene diimides as electron deficient building blocks and various electron rich building blocks are described. Since polymers with rylene diimides in the main chain exhibit high electron mobilities those polymers are promising candidates to overcome the problems of all-PSCs. The polymers described here show efficiencies up to 1,15 % in such devices. 
+
+In the second part new soluble polyamine and polyammonium salts with main-chain perylene units were synthesized. They combine the qualities of perylene as a dye with the physical properties of polyelectrolytes. The optical properties are studied with regard to aggregation and de-aggregation effects as well as their solvatochromic behavior. The polyamine is subsequently converted into cationic and zwitterionic polyelectrolytes. Their optical properties are studied as well with special attention to solvent and concentration effects as well as surfactant influences. Their potential use as biosensors is discussed.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20120710-163151-4</identifier>
+                    <identifier type="sys">HT017304275</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_2920</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_2920">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-3021/dc1209.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_2920"
+            DMDID="DMD_wuppertal_elpub_2920">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_2920"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

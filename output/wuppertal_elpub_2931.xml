@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_2931">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Clouds and aerosol in infrared radiative transfer calculations for the analysis of satellite observations</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Griessbach, Sabine</displayForm>
+                        <namePart type="family">Griessbach</namePart>
+                        <namePart type="given">Sabine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">High-altitude clouds play an important role in the Earth’s atmosphere. Polar stratospheric clouds are involved in processes leading to polar ozone destruction. The radiative impact of cirrus clouds is one of the least understood processes affecting the climate. Aside from this, clouds and aerosols affect the measured spectra of remote sensing instruments such as the Michelson Interferometer for Passive Atmospheric Sounding Envisat (MIPAS). In this thesis, the JUelich RApid Spectral SImulation Code (JURASSIC), which is a spectrally averaging forward model, was substantially extended by implementing a scattering module to account for scattering on aerosols and clouds. The new code was carefully cross-checked at a high spectral resolution with the well-established line-by-line models Reference Forward Model (RFM) and the Karlsruhe Optimized and Precise Radiative transfer Algorithm (KOPRA). The comparison shows that JURASSIC agrees with RFM within the MIPAS noise equivalent radiance. At several line centres, larger differences were found up to a factor of 7 of the noise equivalent radiance at the 792 cm−1 CO₂ line centre. The difference between RFM and KOPRA was as much as a factor of 55 of the noise equivalent radiance at this line centre. This may have implications for temperature retrievals in the troposphere. The microphysical properties of stratospheric and tropospheric aerosol and cloud particles required for the scattering calculations are collected. The single scattering properties and their effect on simulated spectra are studied. Because of the large variability of the tropospheric aerosol it is found that tropospheric aerosol extinction coefficients in the infrared generally should not be scaled from one wavelength to another. Instead it is suggested that the extinction coefficient for every wavelength should be calculated. Due to the lack of information on the vertical profile of aerosol log-normal parameters, which are of great value not only for remote sensing applications, but also for climate modelling and cloud simulations, a new climatology is compiled from published lognormal distributions. A first study on the detectability and discrimination of measured volcanic ash particles of the Eyjafjallajökull eruption with MIPAS demonstrates that MIPAS is able to detect and discriminate volcanic ash. The MIPAS measurements are used to assess the quality of the predictions of the location of the ash cloud by the EURopean Air pollution Dispersion model (EURAD). It was found that the model predicts ash cloud filaments where no particles are detected in MIPAS. Further, for several profiles the model overestimates the altitude of the ash layer by up to 3 km. The spectra of profiles in which clouds are detected, however, resemble ice cloud spectra. No unambiguous ash cloud spectrum could be identified in MIPAS observations.</abstract>
+                    <abstract type="content" lang="ger">Hochreichende Wolken spielen eine wichtige Rolle in der Erdatmosphäre. Polare Stratosphärenwolken sind nachweislich verknüpft mit den Ozonabbauprozessen, die zum Ozonloch führen. Der Einfluss von Cirruswolken auf den Strahlungshaushalt ist einer der am wenigsten verstandenen Klimafaktoren. Außerdem beeinflussen Wolken die von Fernerkundungsinstrumenten wie Michelson Interferometer for Passive Atmospheric Sounding Envisat (MIPAS) gemessenen Spektren. Um bei der Auswertung der Spektren die Streuung von Strahlung an Aerosol- und Wolkenteilchen berücksichtigen zu können, wurde in dieser Arbeit das spektral integrierende Vorwärtsmodell JUelich RApid Spectral SImulation Code (JURASSIC) wesentlich erweitert, indem ein Streumodul entwickelt wurde. Der neue Code wurde sorgfältig mit den anerkannten monochromatisch rechnenden Modellen Reference Forward Model (RFM) und Karlsruhe Optimized and Precise Radiative transfer Algorithm (KOPRA) verglichen. Der Vergleich zeigt, dass JURASSIC sehr gut mit RFM übereinstimmt. Die Abweichungen waren meist kleiner als die rauschäquivalente Strahlungsdichte. An einigen Linienzentren gab es größere Abweichungen, die die rauschäquivalente Strahlungsdichte bis um das Siebenfache überschritten, wie im Fall des CO₂ Linienzentrums bei 792 cm−1. Allerdings überschreiten die Unterschiede zwischen RFM und KOPRA an diesem Linienzentrum die rauschäquivalente Strahlungsdichte um das 55fache. Diese großen Unterschiede dürften Auswirkungen auf Temperaturretrieval in der Troposphäre haben. Die mikrophysikalischen Eigenschaften von stratosphärischem und troposphärischem Aerosol und Wolken, die für die Berechnung der Streuparameter benötigt werden, wurden zusammengetragen. Die Streuparameter sowie ihre Auswirkungen in simulierten Spektren wurden systematisch untersucht. Wegen der großen Variabilität des tropsphärischen Aerosols können Extinktionskoeffizienten nicht mit hoher Genauigkeit von einer Wellenlänge auf eine andere skaliert werden. Vielmehr sollte die Berechnung explizit für die gewünschte Wellenlänge durchgeführt werden. In Ermangelung von vertikal aufgelösten Klimatologien von troposphärischen Aerosolgrößenverteilungsparametern wurde eine Datenbank von publizierten Lognormal-Verteilungen erstellt. Diese Datenbank ist nicht nur für Fernerkundungsanwendungen von großem Wert, sondern auch für Klimamodellierungen und Wolkensimulationen. Eine erste Studie zur Detektierbarkeit und Identifizierbarkeit von vulkanischem Aerosol des Ausbruchs des isländischen Vulkans Eyjafjallajökull mit MIPAS wurde durchgeführt. Es zeigte sich, dass MIPAS in der Lage ist, die vulkanischen Aerosolpartikel zu detektieren und von Wolken zu unterscheiden. Bei der Analyse der vermeintlich aschehaltigen gemessenen Spektren zeigte sich, dass keine eindeutigen Aschesignaturen vorhanden waren. Vielmehr wurden Cirruswolken beobachtet. Im Rahmen dieser Studie wurde die Qualität der Ascheausbreitungssimulationen des EURopäischen Ausbreitungs- und Depositionsmodells (EURAD) überprüft. Es konnte gezeigt werden, dass EURAD die Asche zum Teil an den falschen geographischen Koordinaten und in zu großen Höhen simuliert.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20120713-120656-7</identifier>
+                    <identifier type="sys">HT017312773</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_2931</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_2931">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-3031/dc1130.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_2931"
+            DMDID="DMD_wuppertal_elpub_2931">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_2931"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

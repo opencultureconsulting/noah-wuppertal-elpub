@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_715">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Capsaicinoide in Capsicum-Früchten definierter Herkunft und ihre Stabilität bei Verarbeitung und Lagerung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hiepler, Constanze</displayForm>
+                        <namePart type="family">Hiepler</namePart>
+                        <namePart type="given">Constanze</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004-06-08</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Capsaicinoids are found only in the fruits of Capsicum plants. While their biosynthesis is largely established, accumulation and degradation are still not completely understood. Some study groups assume hot pepper peroxidases are responsible for the degradation. 
+
+In a two year study the capsaicinoid contents of more than 400 individual fruits, representing the whole harvest of seven plants, were investigated with regard to dependence on fruit age and fruit position. Capsaicinoid contents in fruits of the same plant harvested at the same day differed considerably, although mean values and range were similar in both years. Due to the wide heterogeneity no dependence of capsaicinoid levels on fruit age or node position was observed. The statistical evaluation illustrated the problem to obtain representative values. Highly varying pungency contents of individual fruits may lead to mistakes when taking samples which are composed of only a small number of fruits for the observation of biosynthesis, degradation curves and environmental influences. In future experiments heterogeneity and natural fluctuation in individual fruits have to be considered during planing and evaluation. 
+
+The storage of minced and homogenised fruit material showed that enzymes take part in the reduction of capsaicinoid content. Storage parameters that are favourable to peroxidases led to a fast loss of pungency. Intensity of degradation varied with fruit age: minced material from young fruits showed the fastest and strongest loss of capsaicinoids, while capsaicinoids in material from old fruits were not degraded. Subsets of isozymes expressed at different times and locations, e. g. outer cuticle of the pericarp, may contribute. 
+Cellular disruption was always a pre-requisite, an enzymatic metabolism in the intact fruit was not observed.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20040280</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_715</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_715">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-811/dc0405.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_715"
+            DMDID="DMD_wuppertal_elpub_715">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_715"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

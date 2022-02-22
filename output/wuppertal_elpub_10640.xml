@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_10640">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Voruntersuchungen für eine mechatronische Produktentwicklung von elektronischen Gas-Luft-Verbünden</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Resch, Sabrina</displayForm>
+                        <namePart type="family">Resch</namePart>
+                        <namePart type="given">Sabrina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-07-08</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Entwicklung des europäischen Erdgasnetzes in den letzten Jahrzehnten hat dazu geführt, dass Unternehmen wie die Firma Vaillant GmbH vor immer größeren Herausforderungen gestellt werden, um eine stets sichere und effiziente Verbrennung gewährleisten zu können. Die Diversität in der Gasqualität fordert voll-gasadaptive Verbrennungsregelungssysteme in Gas-Heizgeräten. Ziel dieser Arbeit ist es, das bestehende Verbrennungsregelungssystem basierend auf der Messung eines Ionisationsstromes hinsichtlich einer Vergrößerung der Modulationsbandbreite zu optimieren. Dazu wurde das gesamte mechatronische System bestehend aus Brenner, Gebläse, Gasventil und einer Ionisationselektrode zur Überwachung der Verbrennungsgüte auf Größen untersucht, die sich für eine Erweiterung des Systems eignen.</abstract>
+                    <abstract type="content" lang="eng">In the last few decades, the development of the European natural gas network has posed growing challenges for companies such as Vaillant GmbH in order to ensure a safe and efficient combustion. The diversity in gas quality calls for a full gas-adaptive combustion control system in gas heating appliances. The aim of this work is to optimize the existing combustion control system based on measuring an ionization current in order to increase the modulation bandwidth. For this purpose, the entire mechatronic system consisting of burner, fan, gas valve and an ionization electrode for monitoring the combustion quality was examined for variables suitable for an extension of the system.</abstract>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20200708-103228-0</identifier>
+                    <identifier type="doi">10.25926/pstq-ze66</identifier>
+                    <identifier type="sys">HT020539651</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_10640</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_10640">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2020/resch/de2002.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_10640"
+            DMDID="DMD_wuppertal_elpub_10640">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_10640"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

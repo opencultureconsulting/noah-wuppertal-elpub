@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_256">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Schnelle hoch genaue Einschließung von Werten arithmetischer Ausdrücke mit beliebiger vorgegebener Genauigkeit</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Rogat, Axel</displayForm>
+                        <namePart type="family">Rogat</namePart>
+                        <namePart type="given">Axel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003-11-04</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Das von Andreas Steins 1995 entwickelte Wiederberechnungsverfahren zur numerisch verifizierten Einschließung von Werten reeller arithmetischer Ausdrücke mit beliebiger vorgegebener Genauigkeit wird korrigiert und verbessert. Als Implementations-Grundlage wird eine neue, wesentlich beschleunigte dezimale Intervall-Fließpunkt-Arithmetik mit dynamischer Mantissenlänge für Grundrechenarten und die üblichen Standardfunktionen entwickelt. Die Realisierung von Arithmetik und Einschließungsverfahren als rechnerunabhängige und in vielen Parametern konfigurierbare C++-Klassenbibliotheken wird beschrieben.</abstract>
+                    <abstract type="content" lang="eng">We correct and improve the recomputation method for the numerically verified inclusion of values of real arithmetic expressions with arbitrary precision, developed in 1995 by Andreas Steins. As a basis for the implementation of the algorithm, we develop a new vastly accelerated decimal interval floating point arithmetic with dynamic mantissa length for the basic arithmetic operations and the usual standard functions. We describe the implementation of arithmetic and inclusion algorithm as system-independent C++ class libraries, configurable in many parameters.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20030445</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_256</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_256">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-350/d070206.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_256"
+            DMDID="DMD_wuppertal_elpub_256">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_256"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

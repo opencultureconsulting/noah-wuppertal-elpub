@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_8780">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Rolle von Humanressourcen und Personalmanagement bei der Entstehung von Unternehmenskrisen - Entwicklung einer Typologie von Krisenunternehmen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Tomm, Janina</displayForm>
+                        <namePart type="family">Tomm</namePart>
+                        <namePart type="given">Janina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-09-27</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In der Literatur zum Thema Unternehmenskrisen sind die Rolle der Humanressourcen und des Personalmanagements bisher weitestgehend unbeachtet geblieben. Die vorliegende Arbeit zeigt einen theoretisch fundierten Ansatz zur Exploration dieses Themengebiets auf. Im Rahmen einer strukturierenden sowie einer typenbildenden Inhaltsanalyse werden Fälle von Unternehmenskrisen untersucht und herausgearbeitet, welche Schwächen sich im Personalbereich identifizieren lassen und welche Wirkung sie im Rahmen der Krisenentwicklung entfalten. Als Ergebnis der Studie ergibt sich eine Typologie von Krisenunternehmen mit unterschiedlichen Problemstrukturen im Personalbereich sowie daraus resultierenden charakteristischen Krisenverläufen. Typ I repräsentiert Unternehmen mit nachhaltigen Problemen in den Humanressourcen. Typ II bildet Unternehmen mit Widerständen gegen Wandel ab. Typ III stellt Unternehmen mit Stimmungsumschwung dar. In Typ IV finden sich schließlich Unternehmen mit Problemen durch Zielunklarheit. Die Ergebnisse der Untersuchung zeigen die Relevanz des Themas Personal bei der Entstehung und Entwicklung von Unternehmenskrisen auf und bieten Anknüpfungspunkte für weiterführende Studien zur Erschließung des Forschungsgebiets. Für die Restrukturierungspraxis bieten sie zudem einen ersten empirisch fundierten Ansatz zur Analyse von Krisenursachen im Personalbereich.</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20180927-100031-6</identifier>
+                    <identifier type="sys">HT019825054</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_8780</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_8780">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2017/tomm/db1712.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_8780"
+            DMDID="DMD_wuppertal_elpub_8780">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_8780"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

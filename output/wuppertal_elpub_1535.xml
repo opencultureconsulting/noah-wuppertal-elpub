@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1535">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Qualifizierungsmessungen des Spannungsversorgungssystems sowie Konzeptionierung einer Zustandsmaschine für die Detektorkontrolle des ATLAS-Pixeldetektors</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schultes, Joachim</displayForm>
+                        <namePart type="family">Schultes</namePart>
+                        <namePart type="given">Joachim</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In den kommenden 10 Jahren wird am europäischen Kernforschungszentrum CERN in Genf der LHC zusammen mit seinen Experimenten - darunter ATLAS als das größte - in Betrieb sein und Daten liefern.
+ Als Teil des ATLAS Spurdetektors wird ein Silizium Pixeldetektor mit über 80 Mio. Kanäle eingesetzt, der sich direkt am Wechselwirkungspunkt befindet. Um den zuverlässigen Betrieb über den gesamten Zeitraum zu gewährleisten stellen das Versorgungssystem und das Kontrollsystem des ATLAS-Pixeldetektors in diesem Zusammenhang wichtige Bausteine dar. Entsprechende Untersuchungen des Versorgungssystems, die innerhalb eines umfangreichen Testsystems, dem so genannten Systemtest, mit nahezu allen endgültigen Komponenten durchgeführt wurden, und die Auswirkungen auf den Pixeldetektor sind Gegenstand dieser Arbeit. Ein weiterer Punkt dieser Arbeit ist die Weiterentwicklung der Detektorkontrollsystems-Software unter Berücksichtigung der verschiedenen Teilsysteme. Ein Schwerpunkt stellt dabei die Konzeptionierung der erforderlichen Zustandsmaschine, als Schnittstelle für die Benutzer und die Anbindung an das Datennamesystem dar, wobei die Erfahrungen aus dem Betrieb des Systemtests in das Konzept der Bestimmung der Zustände mit eingeflossen sind.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20090082</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1535</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1535">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1685/dc0724.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1535"
+            DMDID="DMD_wuppertal_elpub_1535">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1535"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

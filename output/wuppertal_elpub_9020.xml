@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9020">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Performance tests of depleted CMOS sensors for application at HL-LHC</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Riegel, Christian Johann</displayForm>
+                        <namePart type="family">Riegel</namePart>
+                        <namePart type="given">Christian Johann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-05</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The ATLAS detector is the biggest experiment operated at the Large Hadron Collider at CERN. In the context of the ATLAS upgrade program for the High-Luminosity LHC, a new ATLAS Inner Tracker is designed. The increasing requirements in radiation hardness lead to the investigation of new silicon sensor technologies. Depleted Monolithic Active Pixel Sensors produced in commercial CMOS imaging processes are considered to be a promising alternative to hybrid pixel sensors. Containing the complete readout chain in one chip, there is no need for the expensive flip-chip assembly, resulting in cost reduction and material savings.
+ The TowerJazz Investigator test chip, produced in a 180nm imaging process, showed the remarkable performance of a low-capacitance design before irradiation. In order to increase the performance after irradiation, a process modification for enhanced depletion was tested. In the context of this thesis, a dedicated test setup was built and irradiated sensors of the Modified Process were investigated in laboratory measurements as well as in different testbeam campaigns. Source scans were used to analyse the analogue signals created in the pixel cell in dependence of geometric parameters. X-ray fluorescence experiments gave inside into the pixel gain, and measurements at the DIAMOND synchrotron facility allowed systematic investigation of charge sharing between neighbouring pixels, both before and after irradiation.
+ The hit-detection efficiency of the sensors produced in the Modified Process was measured at the CERN SPS testbeam using a high-resolution telescope.
+ The Modified Process proved the aimed enhancement in depletion and a significant improvement in performance after irradiation. Based on the obtained results, sensors produced in this technology are a highly promising option for the outer layers of the future ATLAS ITk.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20181205-110315-0</identifier>
+                    <identifier type="sys">HT019908566</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9020</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9020">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2018/riegel/dc1819.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9020"
+            DMDID="DMD_wuppertal_elpub_9020">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9020"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

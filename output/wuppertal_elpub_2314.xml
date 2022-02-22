@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_2314">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Räumlich und zeitlich aufgelöste Photoionisierung als Werkzeug zur Charakterisierung von Atmosphärendruckionenquellen in der Massenspektrometrie</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lorenz, Matthias</displayForm>
+                        <namePart type="family">Lorenz</namePart>
+                        <namePart type="given">Matthias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Current research efforts in applied mass spectrometry for routine chemical analyses mainly focus on the development of novel methods for liquid chromatographic hyphenation. This hyphenation is inherently requiring the ionization stage to be held at elevated pressure and thus the gas dynamical separation of the ion source from the mass analyzer. It then becomes necessary to collect ions and guide them toward the first sampling orifice of the differential pressure reduction cascade. Bulky designs and spatial offsets in the analyte path through the ion source both contribute to a spacious analyte distribution and thus aggravate the challenge of sampling ions. In other words, the volume with a significant contribution to the ion acceptance is spatially rather confined. 
+ This thesis is concerned with the development and description of spatially and temporally resolved atmospheric pressure laser ionization (APLI) as a tool supporting the analytical application of the young technique as well as the current efforts in further ion source development. The photo-ionization method utilizing pulsed laser radiation allows to spatially and temporally confining the conversion of the molecular analyte to an ionic species. The interpretation of the data describing the spatial distribution of sensitivity within ion sources thus provides information on the ion transport in the atmospheric pressure section. Further support can be deduced from experimental data on ion transport times and their spatial and temporal distributions. 
+ Systematic measurements regarding the spatial distribution of ion acceptance have been performed using commercially available mass spectrometers from the manufacturers Bruker Daltonics and Waters. Both instruments are equipped with ion sources utilizing different approaches for pressure reduction and a rather different geometrical outline. Experimental data provide information on the sensitivity distribution and highlight the strong impact of various ion source parameters on the processes of ion production and ion guidance at atmospheric pressure. In addition to pointing to favorable conditions for routine analytical application, the results of this work direct further ion source development by indicating a strong impact of the gas dynamics prevailing in the source enclosure on achievable ion yield and signal-to-noise ratio. Experimental data on transport times and the unexpectedly large ion residence time within the ion source provide further support for the strong importance of gas dynamics in current atmospheric pressure ion source designs. 
+ In this work the relevant physical properties contributing to the sensitivity distribution are evaluated. The gathered data provide the experimental basis for the validation of derived set-ups and novel ion source designs. Further, the gathered data support current computational modelling activities. The transport within atmospheric pressure ion sources is a function of the prevailing gas dynamics and primarily determined by the geometrical properties and the neutral gas flows. However, the ion trajectories are shaped under the further influences of the desolvation process and the specific forces on charged particles. The deconvolution of this complex interaction and the numerical simulation of ion transport pose a challenge for modelling approaches. Current research in this field is targeted at gathering a comprehensive picture of the ion source operation in such a way as to eventually enable application-oriented planning, design and manufacturing of atmospheric pressure ion sources.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20111014-145040-5</identifier>
+                    <identifier type="sys">HT017016963</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_2314</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_2314">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2010/lorenz/dc1031.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_2314"
+            DMDID="DMD_wuppertal_elpub_2314">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_2314"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

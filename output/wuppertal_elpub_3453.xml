@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3453">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Gilead - Eine biblisch-archäologische Konstruktion der Eisenzeit Nordjordaniens (1200-520/450 v.Chr.)</title>
+                    </titleInfo>
+                    <titleInfo lang="ger" type="translated">
+                        <title>Band 1: Textteil</title>
+                    </titleInfo>
+                    <titleInfo lang="ger" type="translated">
+                        <title>Band 2: Anhänge</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Heyneck, Markus</displayForm>
+                        <namePart type="family">Heyneck</namePart>
+                        <namePart type="given">Markus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-10-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In dieser Arbeit wird eine biblisch-archäologische Konstruktion der Eisenzeit Nordjordaniens/ Gileads (ca. 1200-520/450 v.Chr.) vorgenommen. Dabei besteht das Ziel in einer systematischen Darstellung und Auswertung des aktuellen, in den letzten 15 Jahren stark vorangeschrittenen Forschungsstandes. 
+
+ Hierzu werden folgende Quellen untersucht: 
+1. die relevanten geologischen und geographischen Quellen, 
+2. die Surveyergebnisse zu über 324 relevanten (SBZ 2-)EZ 1-2(-PZ)-Ortschaften, 
+3. die publizierten Ausgrabungsergebnisse zu über 37 (SBZ 2-)EZ 1-2(-PZ)-Ortschaften, 
+4. die zahlreichen, ebenfalls bislang noch nicht in einem derart großen Zusammenhang behandelten, biblischen Quellen zur Eisenzeit Nordjordaniens. 
+
+ Eigene Ergebnisse werden speziell zu vier zentralen, in der Forschung diskutierten Fragen geboten: 
+1. zur Frage nach der Relevanz und historischen Auswertbarkeit von archäologischen und biblischen Quellen (`Minimalisten-Maximalisten-Debatte´), 
+2. zur Frage nach dem angemessenen chronologischen Gliederungssystem für die Eisenzeit Palästinas (`High Chronology-Low Chronology-Debatte´), 
+3. zur Frage nach der Historizität der biblischen `David- und Salomo-Überlieferungen´, 
+4. zur Frage nach den siedlungs- und wirtschaftsgeschichtlichen Entwicklungen in der EZ 2c (Niedergang/Aufstieg?). 
+Bei all diesen Problemstellungen werden Mittelpositionen vertreten.</abstract>
+                    <classification authority="ddc">220</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » Evangelische Theologie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20130412-120125-3</identifier>
+                    <identifier type="sys">HT017610211</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3453</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3453">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-3572/da1203.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3453"
+            DMDID="DMD_wuppertal_elpub_3453">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3453"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

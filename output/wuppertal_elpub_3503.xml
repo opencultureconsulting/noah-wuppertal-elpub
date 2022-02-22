@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3503">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Monetary Policy and Its Impact on the Economy</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sun, Rongrong</displayForm>
+                        <namePart type="family">Sun</namePart>
+                        <namePart type="given">Rongrong</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The recent financial crisis and recession have revived debates about the role of monetary policy. Understanding of how monetary policy works is crucial for successful policy-making in terms of whether monetary policy has the potential to stimulate and/or stabilize the economy. This thesis examines rationales behind different economic schools on monetary policy and their policy application in a systematic way. Chapter Two, “Literature Review”, summarizes what we have known about monetary policy and particularly, highlights problems faced by researchers in estimating the effects of monetary policy. Chapter Three, “Nominal Rigidity and the Output-Inflation Tradeoff”, takes a deep look at the rationales for two different schools – the new classical economics and the Keynesian economics. Chapter Four, “Does Monetary Policy Matter in China? A Narrative Approach”, continues with the Chinese case and tests whether the prediction of the Keynesian non-neutrality of monetary policy holds there as well. Chapter Five, “Monetary Policy and European Unemployment”, checks policy implications of the monetarist school. We evaluate the impact of monetary policy in line with the monetarist doctrines on European unemployment.</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20130524-095129-3</identifier>
+                    <identifier type="sys">HT017675912</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3503</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3503">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2012/sun/db1202.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3503"
+            DMDID="DMD_wuppertal_elpub_3503">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3503"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

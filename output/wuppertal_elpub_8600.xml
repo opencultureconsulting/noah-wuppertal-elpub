@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_8600">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Anlageberatung und Behavioral Finance - Analyse des Anlageverhaltens privater Kapitalanleger im Kontext der Inanspruchnahme von Anlageberatungsleistungen unter Einbeziehung der verhaltensorientierten Finanzierungslehre</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Boes, Florian</displayForm>
+                        <namePart type="family">Boes</namePart>
+                        <namePart type="given">Florian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-08-02</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Private Kapitalanleger haben in Deutschland grundsätzlich die Möglichkeit, sich im Kontext einer Kapitalanlage von einer Bank beraten zu lassen oder die Anlageentscheidung selbständig zu treffen. In beiden Fällen können sie zudem verschiedentlich den Anomalien und Irrationalitäten der Behavioral Finance-Theorie unterliegen. Ziel dieser Arbeit ist es, möglichst umfängliche Erkenntnisse über das Anlageverhalten und die Person des deutschen privaten Kapitalanlegers, in Abhängigkeit der Inanspruchnahme von Beratungsdienstleistungen, zu gewinnen. Daneben wird das Anlageverhalten auch aus dem Blickwinkel der Behavioral Finance-Forschung analysiert. Zu diesem Zweck fließen umfangreiche Wertpapierdaten von 27.064 privaten Investoren in die verschiedenen Untersuchungen ein. Es zeigt sich, dass das Anlageverhalten privater Kapitalanleger gerade im Kontext der Diversifikation von Kapitalanlagen weitestgehend unabhängig von der Inanspruchnahme von Anlageberatung deutliches Optimierungspotenzial aufweist. Aus dem Blickwinkel der verhaltensorientierten Finanzierungslehre lässt sich beispielsweise der Home Bias-Effekt bei den untersuchten privaten Investoren deutlich nachweisen.</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20180802-154144-1</identifier>
+                    <identifier type="sys">HT019772071</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_8600</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_8600">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2018/boes/db1803.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_8600"
+            DMDID="DMD_wuppertal_elpub_8600">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_8600"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

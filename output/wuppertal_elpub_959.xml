@@ -1,0 +1,102 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_959">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>H-unendlich-Methode für lineare Deskriptorsysteme mit nicht-properem Übertragungsverhalten</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bernhard, Dirk</displayForm>
+                        <namePart type="family">Bernhard</namePart>
+                        <namePart type="given">Dirk</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-02-27</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Deskriptorsysteme sind mathematische Modelle technischer Prozesse, die durch Differential- und algebraische Gleichungen beschrieben werden. Dadurch erlauben sie einen wesentlich besseren physikalischen Einblick in das Verhalten dynamischer Systeme als die meist abstrakte Formulierung im Zustandsraum. Dieser Vorteil wird jedoch durch vermehrte Schwierigkeiten bei der Analyse und Synthese derartiger Systeme erkauft.
+ Bei Deskriptorsystemen mit nicht-properem Übertragungsverhalten hängt das Eingangs-/ Ausgangsverhalten im Zeitbereich von höheren Ableitungen der Eingangsgrößen ab. Nicht-properes Übertragungsverhalten kann nur bei Deskriptor-Realisierungen mit höherem Index auftreten [1], [2].
+ Mit der H∞-Methode kann ein Regler entworfen werden, der unter Vorgabe von dynamischen Gewichtungsfunktionsmatrizen gutes Führungs- und Störverhalten aufweist und gleichzeitig robust gegenüber Parameterunsicherheiten ist.
+ Das Ziel der Arbeit ist die Untersuchung der Anwendbarkeit bekannter H∞-Methoden auf Regelstrecken, die als Deskriptorsystem vorliegen und nicht-properes Übertragungsverhalten zeigen. In dieser Arbeit werden zwei H∞-Lösungsansätze in Deskriptorform diskutiert [3], [5]. Die Analyse beider Ansätze führt zu einer Erweiterung der Regularitätsbedingungen, die Voraussetzung zur Lösung des nicht-properen H∞-Problems ist. Dabei führt der in der Arbeit vorgeschlagene Ansatz nicht nur zu einer rein mathematischen Lösung des nicht-properen H∞-Problems, sondern vor allem zu einem technisch realisierbaren H∞-Regler. Eine der Voraussetzungen zur Lösung des Problems ist der Entwurf von Formfiltern, die ein nicht-properes Übertragungsverhalten einer Regelstrecke in ein properes Übertragungsverhalten überführen. Das Verfahren wird in dieser Arbeit als Methode der &quot;Properisierung&quot; bezeichnet. Diese Methode dient dem Entwurf von Formfiltern auf der Grundlage von Systeminformationen einer bestimmten Deskriptorsystem-Darstellung, der so genannten &quot;Weierstraß-Kronecker-Normalform&quot;.
+ Der nicht-propere H∞-Entwurf in Deskriptorform und die Methode der &quot;Properisierung&quot; werden an einem Anwendungsbeispiel aus der sicherheitstechnischen Regelungstechnik veranschaulicht. Das Anwendungsbeispiel basiert auf einem Benchmark-Problem [4], mit welchem die aktive Dämpfung von Gebäudeschwingungen, verursacht durch Erdbeben, simuliert werden kann.
+
+ [1] Müller, P. C.: Linear-Quadratic Optimal Control of Non-Proper Descriptor Systems.
+ Proc. MTNS 2000, Perpignan, 2000.
+ [2] Müller, P. C.: Optimal Control of Proper and Nonproper Descriptor Systems.
+ Archive of Applied Mechanics 72, 2003.
+ [3] Rehm, A.; Allgöwer, F.: H Control of Descriptor Systems with high Index.
+ IFAC World Congress, Beijing, P. R. China, Vol. D, S. 31-37, 1999.
+ [4] Spencer, B. F., Jr.; Christenson, R. E.; Dyke, S. J.: Next Generation Benchmark Control Problems for Seismically Excited Buildings.
+ Proc. 2nd World Conf. on Structural Control, Vol. 2, S. 1135-1360, 1999.
+ [5] Takaba, K.; Morihira, N.; Katayama, T.: H Control for Descriptor Systems - A J-Spectral Factorization Approach.
+ Proc. 33rd Conf. on Decision and Control, Lake Buena Vista, FL, S. 2251-2256, 1994.</abstract>
+                    <abstract type="content" lang="eng">Descriptor systems are mathematical models, consisting of differential and algebraic equations, of technical processes. Thus, descriptor systems allow for a significantly better insight into the physical behaviour of dynamic systems compared to descriptions given in the state-space which are often very abstract. But this advantage is bought at the expense of increased difficulties concerning analysis and synthesis.
+ The input-/output behaviour of descriptor systems with non-proper transfer behaviour depends on higher derivatives of the inputs in the time domain. Therefore, non-proper transfer behaviour only appears in descriptor systems of higher index [1], [2].
+ The H∞-approach allows for the design of a controller that features a good response- and disturbance reaction by the presetting of dynamical weighting matrices and coinstantaneous a robustness concerning parameter uncertainties.
+ The aim of this thesis is to check the applicability of known H∞-approaches to closed loop controlled systems given in descriptor form with non-proper transfer behaviour. Two H∞-methods of resolution in descriptor form [3], [5] are discussed. The analysis of the methods leads to an extension of the regularity conditions which are pre-conditions for the solution of non-proper H∞-problems. The proposed approach does not result in a pure mathematical solution of the non-proper H∞-problems though. It rather leads to a realizable H∞-controller. One of the pre-conditions for the solution is the design of form filters transferring the non-proper transfer behaviour of the plant into a proper one. This method is called &quot;properization&quot;. Properization is used to design form filters on the basis of system information given by a special representation of the descriptor system, the so-called &quot;Weierstraß-Kronecker&quot; normal form.
+ The non-proper H∞-design and the properization are illustrated by an example out of safety control engineering. This example is based on a benchmark [4] simulating the active damping of building vibrations. 
+
+ [1] Müller, P. C.: Linear-Quadratic Optimal Control of Non-Proper Descriptor Systems.
+ Proc. MTNS 2000, Perpignan, 2000.
+ [2] Müller, P. C.: Optimal Control of Proper and Nonproper Descriptor Systems.
+ Archive of Applied Mechanics 72, 2003.
+ [3] Rehm, A.; Allgöwer, F.: H Control of Descriptor Systems with high Index.
+ IFAC World Congress, Beijing, P. R. China, Vol. D, S. 31-37, 1999.
+ [4] Spencer, B. F., Jr.; Christenson, R. E.; Dyke, S. J.: Next Generation Benchmark Control Problems for Seismically Excited Buildings.
+ Proc. 2nd World Conf. on Structural Control, Vol. 2, S. 1135-1360, 1999.
+ [5] Takaba, K.; Morihira, N.; Katayama, T.: H Control for Descriptor Systems - A J-Spectral Factorization Approach.
+ Proc. 33rd Conf. on Decision and Control, Lake Buena Vista, FL, S. 2251-2256, 1994.</abstract>
+                    <abstract type="content" lang="fre">Les systèmes-descripteurs sont des models mathématiques, qui decrivent des processus techniques des équations différentielles et algébriques. C&apos;est pour cela que les systèmes dynamiques sont décrits d&apos;une manière plus precise que par la description plus abstracte dans l&apos;espace des états. Cependant l&apos;inconvenient se presente dans la difficulté de l&apos;analyse et la synthèse de ce sorte de système.
+ Le comportement d&apos;entrée et de sortie des systèmes-descripteurs linéairs avec transmission non-propre depend des dérivées plus hautes de grandeurs d&apos;entrée. Une transmission non-propre peut se produire seulement au cas où les systèmes-descripteurs ont un index plus haut [1], [2].
+ Avec la mèthode H∞ on peut élaborer un régulateur, qui se laisse bien guider avec l&apos;aide des matrices de fonction d&apos;évaluation. Ce regulateur ne soumit pas facilement aux erreurs et il n&apos;est pas sensible aux paramètres incertains.
+ Le but de cette dissertation est l&apos;examination de l&apos;applicabilité des mèthodes H∞ connues sur un système réglé, qui existent comme des systèmes descripteurs avec transmission non-propre. Cette dissertation discute deux H∞-solutions possibles, qui ont la forme d&apos;un descripteur [3], [5]. L&apos;analyse des deux possibilités mêne à une augmentation des conditions de regularité comme une condition pour resoudre des problèmes de H∞ non-propre. Pourtant la possibilité proposée dans cette dissertation ne presente pas une solution seulement mathématique des H∞-problèmes non-propres, mais surtout elle mêne à la réalisation technique d&apos;un H∞-régulateur. Pour resoudre ce problème il est nécessaire de créer des filtres de forme, qui transfèrent une transmission non-propre d&apos;un système réglé en une transmission propre. Le procédé dans cette dissertation sera nomé la mèthode &quot;properisation&quot;. Cette mèthode sert à la création des filtres de forme sur la base des informations d&apos;un certain système-descripteur, connu comme &quot;Weierstraß-Kronecker&quot; forme normale.
+ Les linéaments H∞ non-propre et la mèthode de &quot;properasition&quot; seront concrétisés par un exemple de pratique des techniques de sécurité. Cet exemple de pratique se base sur un test d&apos;évaluation [4], avec lequel on simule l&apos;amortissement actif des mouvements oscillatoires des immeubles provoqués par des séismes. 
+
+ [1] Müller, P. C.: Linear-Quadratic Optimal Control of Non-Proper Descriptor Systems.
+ Proc. MTNS 2000, Perpignan, 2000.
+ [2] Müller, P. C.: Optimal Control of Proper and Nonproper Descriptor Systems.
+ Archive of Applied Mechanics 72, 2003.
+ [3] Rehm, A.; Allgöwer, F.: H Control of Descriptor Systems with high Index.
+ IFAC World Congress, Beijing, P. R. China, Vol. D, S. 31-37, 1999.
+ [4] Spencer, B. F., Jr.; Christenson, R. E.; Dyke, S. J.: Next Generation Benchmark Control Problems for Seismically Excited Buildings.
+ Proc. 2nd World Conf. on Structural Control, Vol. 2, S. 1135-1360, 1999.
+ [5] Takaba, K.; Morihira, N.; Katayama, T.: H Control for Descriptor Systems - A J-Spectral Factorization Approach.
+ Proc. 33rd Conf. on Decision and Control, Lake Buena Vista, FL, S. 2251-2256, 1994.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Maschinenbau und Sicherheitstechnik » Sicherheitstechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20080088</identifier>
+                    <identifier type="sys">HT015458227</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_959</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_959">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/sicherheitstechnik/diss2007/bernhard/dd0711.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_959"
+            DMDID="DMD_wuppertal_elpub_959">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_959"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

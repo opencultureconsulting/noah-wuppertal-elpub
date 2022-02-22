@@ -1,0 +1,73 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_611">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchungen zur Kopplung von herkömmlichen LANs über ATM-Netze und deren Integrationsmöglichkeiten</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gjergji, Naim</displayForm>
+                        <namePart type="family">Gjergji</namePart>
+                        <namePart type="given">Naim</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-11-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In den letzen Jahren ist der Bedarf an Bandbreite bzw. Übertragungsrate enorm gestiegen. In allen Bereichen der Wirtschaft, der Industrie, der Verwaltung und der Wissenschaft entwickelt sich ein Bedarf nach schnellerer und multimedialer Kommunikation, wofür eine größere Bandbreite benötigt wird, (wie Sprache, Daten, Bewegtbild, Videoemail, Simulation physikalischer und chemischer Vorgänge). Deshalb sind viele Untersuchungen an LAN-Netzen durchgeführt worden und als Ergebnis sind LAN-Netze mit einer Übertragungsrate von 100 Mbit /s bis zu 1 Gbit/s entstanden.
+ Die größten Nachteile der damaligen und heutigen LAN-Typen sind die Einschränkungen in den räumlichen Ausdehnungen und in der Anzahl der Arbeitsplätze. Um die räumlichen Ausdehnungseinschränkungen zu überwinden, werden die LANs miteinander gekoppelt.
+ Eine Lösung für die Kopplung der LANs über große Entfernungen bietet das ATM-Netz (Asynchronous Transfer Modus), das eine verbindungsorientierte Vermittlungstechnik verwendet.
+ Ein Vorteil der LAN Vernetzung über ATM besteht darin, dass für die unterschiedlichen LAN-Typen (wie z.B. Ethernet, Token Ring, FDDI) eine Integration möglich ist. Dabei wird die Bandbreite einer Physikalischen Leitung auf mehrere virtuelle ATM-Verbindungen aufgeteilt, mit denen die logischen ATM-Kanäle durch die einzelnen LAN-Typen individuell belegt werden können.
+ Bei jedem Lösungsversuch LANs und ATM zu koppeln bzw. zu integrieren muss es wenigsten möglich sein, die besten Eigenschaften des ATM-Netzes, wie die Flexibilität der Bandbreite und der Ausdehnung sowie die QoS Parameter auszunutzen.
+ Die bisherigen Entwicklungen, machen es klar, dass die wesentlichen Eigenschaften des ATM-Netzes bei der Kopplung bzw. der Integration mit LANs noch nicht ausgenutzt sind. Diese Eigenschaften müssen in zukünftigen Verfahren, bzw. in weiteren Entwicklungen der vorhandenen Verfahren ausgenutzt werden, um eine Integration zwischen beiden Netze zu erreichen. Jede Entwicklung, die das nicht berücksichtigt, ist keine Lösung oder nur eine vorläufige Lösung.
+ Um einen solchen Schritt in der Kopplung bzw. Integration zwischen LAN und ATM zu ermöglichen, ist in der vorliegenden Arbeit eine Kopplungseinheit entwickelt worden, die innerhalb eines CL-Servers eingesetzt werden kann. Durch diese Netzkopplungseinheit können die QoS-Parameter des ATM-Netzes recht gut ausgenutzt werden.
+ In der theoretischen Analyse und der Simulation werden die QoS-Parameter, die Verlustwahrscheinlichkeit, die mittlere Wartezeit, der Variationskoeffizient der mittleren Wartezeit, die Standardabweichung, die Warteschlangenlänge und der Auslastungskoeffizient der reservierten Bandbreite berücksichtigt. Diese Untersuchungen werden an den bedeutendsten LAN-Typen, dem Ethernet und dem Token Ring durchgeführt.
+ Um die erwünschte Bandbreite zu ermitteln, sind zwei Verfahren untersucht worden. Die Verkehrsmessungsverfahren Der Pufferfüllstandsverfahren 
+Die Bandbreitenmessung bzw. die Überwachung des Pufferzustands wurde periodisch mit dem vorgestellten Algorithmus durchgeführt. Die Periode bzw. das Zeitintervall wurde abhängig von der Paketlänge und der Bitrate des verwendeten LAN Typs gewählt. Ferner wurde die Fenstergröße in gewissem Maße durch die Puffergröße und die Bandbreitreservierungsstrategie bestimmt. Bei der Ermittlung der erwünschten Bandbreite durch den Pufferfüllstand zeigt sich bei der Fenstergröße keine strenge Unterschwelle wie bei der Bandbreitenmessung.
+ Der Einfluss der Antwortzeit auf die Leistungsparameter der Netzkopplungseinheit hängt von der verwendeten Bandbreitenreservierungsstrategie, vom ATM-Verkehrstyp und vom zu koppelnden LAN-Typ ab. Die Antwortzeit beeinflusst das Ethernet mehr als die Token-Ring Netze.
+ Die mittlere Wartezeit ist bei Token-Ring größer als bei Ethernet, da Token-Ring große Pakete verwendet, die selbstverständlich mehr Zeit zur Bearbeitung und Übertragung benötigen.
+ Durch die Warteschlangenlänge kann die Netzkopplungseinheit dem ATM-Netz die erwünschte Puffergröße anzeigen. Die ATM-Knoten zwischen CL-Servern reservieren den Speicherplatz gemäß der Wartenschlangenlänge in der Netzkopplungseinheit; das bedeutet, dass die Wartenschlangenlänge als Kriterium bei der Pufferreservierungsstrategie verwendet wird.
+ Bei diesem Bandbreitenreservierungsverfahren muss ein Kompromiss zwischen mittlerer Verzögerung, Verlustwahrscheinlichkeit und Auslastungskoeffizient gemacht werden, um die reservierte Bandbreite rational zu nutzen und die Verlustwahrscheinlichkeit unter einem bestimmten Wert zu halten.
+ Beim Pufferfüllstandsverfahren wird die erwünschte Bandbreite durch den Pufferlastzustand ermittelt. Wird als Pufferschwelle 30% der Puffergröße verwendet, um eine zusätzliche Bandbreite zu veranlassen, dann ist die Verlustwahrscheinlichkeit in der Netzkopplungseinheit kleiner als % 0.001 . Die Verlustwahrscheinlichkeit nimmt besonders stark zu, falls die Schwelle des Puffers größer als 70% angenommen wird. Bei festegelegter Pufferschwelle ist Token-Ring 16 empfindlicher als die beiden anderen Typen.
+ Wenn die Netzkopplungseinheit feststellt, dass die erwünschte Bandbreite kleiner als die vorhandene Bandbreite ist, dann soll ein Teil der vorhandenen Bandbreite wieder freigegeben werden. Die Verlustwahrscheinlichkeit ist bei Verwendung der Pufferschwelle sehr viel niedriger als bei der Verkehrsmessung, da beim Pufferschwellen-Verfahren ein Teil der vorhandenen Bandbreite nur freigegeben wird, wenn der Puffer leer ist. Das geschieht nur, wenn die erwünschte Bandbreite eine längere Zeit kleiner als die vorhandene Bandbreite ist. Deshalb wird die Verlustwahrscheinlichkeit beim Pufferschwellen- Verfahren nur im geringen Maße durch den RDF-Koeffizient beeinflusst.
+ Bei Multimedia Anwendungen werden die Pakete mit unterschiedlicher Größe und mit unterschiedlichen Anforderungen an die QoS-Parameter eintreffen, deshalb werden die Leistungsparameter der Netzkopplungseinheit in Abhängigkeit von der Paketgröße untersucht.
+ Die Leistungsparameter der Netzkopplungseinheit werden aber auch von der Spitzenbitrate innerhalb der Fenstergröße beeinflusst. Dies wird bei der von Vakil entwickelten Gleichung berücksichtigt. Da bei dieser Bandbreitenreservierungsstrategie die Verluste bei Ethernet, Token-Ring 4 und Token-Ring 16 fast denselben Wert haben, kann sie bei unterschiedlichen LAN Typen verwendet werden.
+ Die Ergebnisse zeigen, dass für Multimedia Anwendungen und für die Kopplung der unterschiedlichen LAN-Typen über dieselbe Netzkopplungseinheit eine Bandbreitenreservierungsstrategie gemäß der vorgestellten Kelly-Gleichung eine gute Lösung ist, da bei dieser Bandbreitenreservierungsstrategie außer der mittleren Bitrate und der Spitzenbitrate innerhalb der Fenstergröße auch die Verlustwahrscheinlichkeit und die Warteschlangenlänge berücksichtigt sind.
+ Der Einsatz des ATM-Netzes als Backbone-Netz zur Kopplung herkömmlicher von einander weit entfernter LAN-Netze ist die beste Lösung. Im lokalen Bereich ist das ATM-Netz in der gegenwärtigen Phase nicht als Ersatz der herkömmlichen LANs zu betrachten, sondern mehr als Ergänzung hierzu. Die Kopplung zwischen den herkömmlichen LAN-Netzen und dem ATM-Netz bzw. deren Integration stellt nur einen weiteren Schritt dar, alle Telekommunikationsnetze, wie herkömmliche LAN-Netze, Schmalband–Netze, X.25 und Frame Relay zu integrieren.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20010618</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_611</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_611">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-707/d130105.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_611"
+            DMDID="DMD_wuppertal_elpub_611">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_611"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

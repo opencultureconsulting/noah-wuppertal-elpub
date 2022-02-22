@@ -1,0 +1,80 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_10760">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Algorithms for massively parallel generic hp-adaptive finite element methods</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Fehling, Marc</displayForm>
+                        <namePart type="family">Fehling</namePart>
+                        <namePart type="given">Marc</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Arnold, Lukas</displayForm>
+                        <namePart type="family">Arnold</namePart>
+                        <namePart type="given">Lukas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bangerth, Wolfgang</displayForm>
+                        <namePart type="family">Bangerth</namePart>
+                        <namePart type="given">Wolfgang</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-08-25</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Efficient algorithms for the numerical solution of partial differential equations are required to solve problems on an economically viable timescale. In general, this is achieved by adapting the resolution of the discretization to the investigated problem, as well as exploiting hardware specifications. For the latter category, parallelization plays a major role for modern multi-core and multi-node architectures, especially in the context of high-performance computing. Using finite element methods, solutions are approximated by discretizing the function space of the problem with piecewise polynomials. With hp-adaptive methods, the polynomial degrees of these basis functions may vary on locally refined meshes. We present algorithms and data structures required for generic hp-adaptive finite element software applicable for both continuous and discontinuous Galerkin methods on distributed memory systems. Both function space and mesh may be adapted dynamically during the solution process. We cover details concerning the unique enumeration of degrees of freedom with continuous Galerkin methods, the communication of variable size data, and load balancing. Furthermore, we present strategies to determine the type of adaptation based on error estimation and prediction as well as smoothness estimation via the decay rate of coefficients of Fourier and Legendre series expansions. Both refinement and coarsening are considered. A reference implementation in the open-source library deal.II is provided and applied to the Laplace problem on a domain with a reentrant corner which invokes a singularity. With this example, we demonstrate the benefits of the hp-adaptive methods in terms of error convergence and show that our algorithm scales up to 49,152 MPI processes.</abstract>
+                    <abstract type="content" lang="ger">Für die numerische Lösung partieller Differentialgleichungen sind effiziente Algorithmen erforderlich, um Probleme auf einer wirtschaftlich tragbaren Zeitskala zu lösen. Im Allgemeinen ist dies durch die Anpassung der Diskretisierungsauflösung an das untersuchte Problem sowie durch die Ausnutzung der Hardwarespezifikationen möglich. Für die letztere Kategorie spielt die Parallelisierung eine große Rolle für moderne Mehrkern- und Mehrknotenarchitekturen, insbesondere im Kontext des Hochleistungsrechnens. Mit Hilfe von Finite-Elemente-Methoden werden Lösungen durch Diskretisierung des assoziierten Funktionsraums mit stückweisen Polynomen approximiert. Bei hp-adaptiven Verfahren können die Polynomgrade dieser Basisfunktionen auf lokal verfeinerten Gittern variieren. In dieser Dissertation werden Algorithmen und Datenstrukturen vorgestellt, die für generische hp-adaptive Finite-Elemente-Software benötigt werden und sowohl für kontinuierliche als auch diskontinuierliche Galerkin-Verfahren auf Systemen mit verteiltem Speicher anwendbar sind. Sowohl der Funktionsraum als auch das Gitter können während des Lösungsprozesses dynamisch angepasst werden. Im Besonderen erläutert werden die eindeutige Nummerierung von Freiheitsgraden mit kontinuierlichen Galerkin-Verfahren, die Kommunikation von Daten variabler Größe und die Lastenverteilung. Außerdem werden Strategien zur Bestimmung des Adaptierungstyps auf der Grundlage von Fehlerschätzungen und -prognosen sowie Glattheitsschätzungen vorgestellt, die über die Zerfallsrate von Koeffizienten aus Reihenentwicklungen nach Fourier und Legendre bestimmt werden. Dabei werden sowohl Verfeinerung als auch Vergröberung berücksichtigt. Eine Referenzimplementierung erfolgt in der Open-Source-Bibliothek deal.II und wird auf das Laplace-Problem auf einem Gebiet mit einer einschneidenden Ecke angewandt, die eine Singularität aufweist. Anhand dieses Beispiels werden die Vorteile der hp-adaptiven Methoden hinsichtlich der Fehlerkonvergenz und die Skalierbarkeit der präsentierten Algorithmen auf bis zu 49.152 MPI-Prozessen demonstriert.</abstract>
+                    <subject>
+                        <topic>FEM</topic>
+                        <topic>HPC</topic>
+                        <topic>hp-adaptive</topic>
+                        <topic>deal.II</topic>
+                    </subject>
+                    <classification authority="ddc">000</classification>
+                    <classification authority="ddc">518</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20200825-101144-2</identifier>
+                    <identifier type="doi">10.25926/068q-d104</identifier>
+                    <identifier type="sys">HT020832359</identifier>
+                    <accessCondition type="use and reproduction">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_10760</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_10760">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/bauingenieurwesen/diss2020/fehling/dd2005.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_10760"
+            DMDID="DMD_wuppertal_elpub_10760">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_10760"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

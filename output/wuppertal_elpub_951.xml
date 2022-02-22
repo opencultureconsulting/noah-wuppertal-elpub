@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_951">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Güte der visuellen und auditiven Geschwindigkeitsdiskriminierung in einer virtuellen Simulationsumgebung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Scholz, Stephan</displayForm>
+                        <namePart type="family">Scholz</namePart>
+                        <namePart type="given">Stephan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004-10-04</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Der Mensch hat insbesondere im Straßenverkehr ständig die Aufgabe, Bewegungsgeschwindigkeiten von Fahrzeugen einzuschätzen und sein Verhalten situationsbedingt darauf abzustimmen. In der vorliegenden Arbeit wurde zum einen untersucht, wie gut der Mensch anhand des Seh- und Hörsinns die Bewegungsgeschwindigkeiten von Fahrzeugen unterscheiden kann, und ob sich diese Fähigkeit durch die Kombination beider Sinne verbessert. Zum anderen wurde der Frage nachgegangen, welchen Einfluss die Bewegungsgeschwindigkeit von Fahrzeugen auf die Diskriminierungsleistung des Menschen hat.
+ Bei der vorliegenden Studie handelt es sich um eine wahrnehmungspsychologische Untersuchung in einer virtuellen Simulationsumgebung, bei der die Güte der Geschwindigkeitsdiskriminierung unter Variation der Geschwindigkeitsgrößenordnung und der Darbietungsform bei insgesamt 45 Versuchspersonen individuell bestimmt wurde. Als Kenngröße für die Güte der auditiven und visuellen Geschwindigkeitsdiskriminierung wurde anhand der gewichteten Up-Down-Methode die Diskriminierungsschwelle ermittelt, bei der mit 75%iger Wahrscheinlichkeit eine Geschwindigkeitsdifferenz zwischen zwei Fahrzeugen richtig erkannt wird. Der Versuch wurde auf der Basis eines 3x3-faktoriellen Versuchsplans durchgeführt, bei dem die beiden unabhängigen Variablen Geschwindigkeitsgrößenordnung und Darbietungsform zwei Messwiederholungsfaktoren darstellen. Die Geschwindigkeitsgrößenordnung variiert dabei zwischen den drei Stufen 120, 60 und 30 km/h (Standardreiz). Bei der Darbietungsform wird zwischen visueller, visuell -akustischer und akustischer Darbietung unterschieden. Zur Beantwortung der Frage, inwieweit sich die Faktorvariationen auf die Güte der Geschwindigkeitsdiskriminierung auswirken, wurden die Versuchsdaten mit Hilfe von unterschiedlichen Verfahren der deskriptiven Statistik und der Inferenzstatistik analysiert. Ergänzend wurde der Einfluss von individuellen Merkmalen der Probanden auf die Diskriminierungsleistung untersucht.</abstract>
+                    <abstract type="content" lang="eng">In traffic human beings constantly have to approximate the speed of vehicles in motion and to adjust their behaviour accordingly. The following thesis deals with two aspects: First, how well are human beings able to differentiate the speed of vehicles by means of their visual and audio senses, and are they able to improve their ability by combining these two senses. Second, the question of the influence of speed of vehicles on humans&apos; ability to discriminate the speed of vehicles is discussed.
+ The following thesis is an analysis of psychological perception in a virtual simulation environment, in which the quality of velocity discrimination was assessed individually due to the varying order of velocity and the altering types of presentation with 45 test subjects. The parameter for the quality of the visual and audio velocity discrimination was the threshold at which the velocity difference of two vehicles, with a probability of 75%, is correctly perceived. The parameter was determined by using the weighted updown method. The experiment was conducted on the basis of a 3x3 factorial experiment plan. In this plan, the two within factors were the independent variables order of velocity and type of presentation. The order of velocity varies between the three levels, 120 km/h, 60 km/h and 30 km/h (standard impulse). The types of presentation are visual, both visual and acoustic, and acoustic. In order to answer the question to what extent the factor variation has an effect on the quality of the velocity discrimination, the research data was analysed by means of different methods of descriptive and inferential statistics. In addition, the impact of individual features of test subjects on the ability to discriminate the speed of vehicles was analysed.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Maschinenbau und Sicherheitstechnik » Sicherheitstechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20040464</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_951</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_951">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1057/dd0304.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_951"
+            DMDID="DMD_wuppertal_elpub_951">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_951"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

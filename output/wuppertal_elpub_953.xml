@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_953">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Optimierung der Neutronenstromdichten komplexer Target-Moderator-Reflektor-Anordnungen einer MW-Spallationsneutronenquelle unter dem Aspekt der Strahlenschutzsicherheit</title>
+                        <subTitle>Monte-Carlo-Simulationen zum Zeitverhalten gepulster Neutronenfelder</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Haft, Bettina</displayForm>
+                        <namePart type="family">Haft</namePart>
+                        <namePart type="given">Bettina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005-09-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Diese Arbeit beschäftigt sich mit der Darstellung und Diskussion wellenlängen- und zeitabhängiger Neutronenstromdichten, die für ein materialabhängiges, dreidimensionales Geometriekonzept der geplanten Europäischen Spallationsquelle ESS mittels Monte-Carlo- Simulationen ermittelt wurden. Diese Ergebnisse dienen zur späteren Beurteilung der Leistung und dementsprechender technischer und strahlenschutzmäßiger Auslegung der gewählten Target-Moderator-Reflektor-Konzepte und Neutronenexperimente. 
+Die verwendete Monte-Carlo-Methode beschreibt die Neutronenproduktion, den Neutronentransport und die nach Neutronenwechselwirkung im Moderator zu erwartenden Neutronenausflüsse an der Moderatoroberfläche über den gesamten Energiebereich von der Protoneneinschußenergie im GeV-Bereich bis hinunter zu den Energien im kalten Bereich (meV-Bereich). Der Schwerpunkt der Berechnungen liegt auf der Ermittlung der Neutronenausflüsse aus verschiedenen Moderatorkonzepten. Es wurden beide geplanten ESSTargetstationen berücksichtigt: Sowohl die Kurzpulstargetstation SPTS (Protonenpulsdauer: 50µs) als auch die Langpulstargetstation LPTS (Protonenp ulsdauer: 2 ms). 
+Bei der SPTS wurden Wasser- und Wasserstoffmoderatoren untersucht in drei verschiedenen Konzepten: gekoppelt, entkoppelt, entkoppelt und vergiftet. Bei der LPTS wurden nur gekoppelte Moderatoren betrachtet (ein Wasser- und ein Wasserstoffmoderator). Weiterhin werden beim Wasserstoffmoderator die Auswirkung verschiedener Ortho-para-Verhältnisse auf die zu erzielenden Neutronenstromdichten untersucht und ein Vergleich zwischen den Ergebnissen mit einem 100%para-Wasserstoff und einem Festmethanmoderator gezogen. Außerdem wurden Berechnungen für alternative Moderatorkonzepte durchgeführt. 
+Der Vergleich zwischen den Monte-Carlo-Ergebnissen für die ESS mit Resultaten für andere Spallationsquellen zeigt ähnliche Neutronenintensitätsspektren bezüglich Form und auch Höhe, wenn auf die gleiche Leistung normiert wird, jedoch wird die ESS mit 5MW pro Targetstation als leistungsstärkste Spallationsneutronenquelle geplant. 
+Eine Betrachtung der zusätzlichen Nutzung der ESS als Bestrahlungseinrichtung für Fusionsmaterialien ergab, daß ähnliche Schädigungsraten wie bei dem geplanten Fusionsreaktor DEMO erzielt werden können. 
+Am Ende werden die berechneten Ergebnisse in Hinblick auf die Leistungsfähigkeit der verschiedenen Moderatorkonzepte diskutiert, und es wird ein Ausblick für die Zukunft wird am Ende gegeben.</abstract>
+                    <abstract type="content" lang="eng">This thesis is concerning the presentation and discussion of wavelength and time depending neutron current densities, which have been calculated with Monte Carlo simulations for a material depending three dimensional geometry concept of the planned European spallations source ESS. This results can be used for a later justification of the power and the technical and radiation safety construction of the choosen target moderator reflector assembly and neutron experiments. 
+The applied Monte Carlo method describes the neutron production, the neutron transport and the neutron output at the moderator surface coming out of the moderator after certain neutron interactions. It includes the whole energy range starting with the incident proton energy in GeV region coming down to energies in the cold region of some meV. 
+The concentration of the calculations is on the neutron output for different moderator concept. Both planned ESS target station have been considered: The short pulse target station SPTS (proton pulse length: 50 µs) and the long pulse target station LPTS (proton pulse length: 2ms). 
+For the SPTS water and hydrogen moderators have been investigated in three different concepts: coupled, decoupled and decoupled with additional poisoning. For the LPTS only coupled moderators have been regarded (one water and one hydrogen moderator). 
+Furthermore for the hydrogen moderator the effect on the gained neutron current densities with different ortho para ratios have been considered and a comparison has been made between the results of a 100%para hydrogen moderator and a solid methane moderator. In addition calculations have been succeeded for alternative moderator concepts. 
+The comparison between Monte Carlo results for the ESS and for other spallation sources shows similar spectra of neutron intensities relating form and hight, if the results are normalized to the same power, but the ESS is planned as the most powerful spallations source with 5 MW each target station. 
+The consideration of an additional use of the ESS as radiation station for fusion materials shows similar damage rates as the planned fusion reactor DEMO. 
+At the end a discussion of the calculated results follows with special focus on the power of different moderator concepts and a look into the future.</abstract>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Maschinenbau und Sicherheitstechnik » Sicherheitstechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20050415</identifier>
+                    <identifier type="sys">HT014513399</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_953</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_953">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/sicherheitstechnik/diss2004/haft/dd0412.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_953"
+            DMDID="DMD_wuppertal_elpub_953">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_953"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

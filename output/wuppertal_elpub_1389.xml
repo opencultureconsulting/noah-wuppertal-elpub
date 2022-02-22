@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1389">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Optimierte Betriebsführung von Windenergieanlagen durch Energiespeicher</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Völler, Steve</displayForm>
+                        <namePart type="family">Völler</namePart>
+                        <namePart type="given">Steve</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Integration von Windenergie hat in der deutschen Energieversorgung einen zentralen Stellenwert. Die Vergütung wird derzeit über das &quot;Erneuerbare Energien Gesetz&quot; (EEG) geregelt, wodurch sichere Vergütungssätze festgelegt sind. Dadurch gibt es wenig Anreiz für die Windparkbetreiber, in einen marktorientierten Wettbewerb einzutreten. Durch die Degression der Vergütungssätze, steigende Energiepreise und die notwendige Teilnahme an Netzdienstleistungen wird dies jedoch unvermeidlich. Die fluktuierende und unsichere Einspeisung behindert diese Zielrichtung, bei der jedoch Speicher Abhilfe schaffen können. 
+In der Arbeit wird untersucht, welche neuen Vergütungsmöglichkeiten der Windenergie in Verbindung mit verschiedenen Speichersystemen im Energiemarkt offen stehen und wie sich für den Betreiber das Betriebsergebnis erhöhen lässt. Dazu werden Szenarien erstellt, in denen die Windenergie z.B. über das EEG oder an einer Energiebörse verkauft wird oder der Windpark Regelleistung bereitstellt. Der Speicher dient zum einen der Maximierung der Erlöse durch Handel von Energie sowie durch zeitversetztes Einspeisen und zum anderen dem Ausgleich von Fluktuationen und der Haltung einer konstanten Einspeiseleistung. Als weiterer Anreiz dienen Vergütungen für Systemdienstleistungen, Netzengpassmanagement oder für vermiedene EEG-Einspeisung. 
+Die Ergebnisse im Vergleich zur reinen EEG-Vergütung zeigen, dass sich bereits heute die Marktteilnahme von Windenergieanlagen im liberalisierten Markt als bessere Alternative darstellen kann. Dabei können Speicher die Teilnahme technisch unterstützen und zum Teil auch zusätzlich das Betriebsergebnis steigern.</abstract>
+                    <abstract type="content" lang="eng">The integration of wind energy has a great significance for the energy supply of Germany. Nowadays the compensation is regulated by the &quot;Renewable Energy Act&quot; (EEG), so the operators get a reliable and fix payment. Due to this, there is no incentive for operators to participate in a competitive energy market. Nevertheless, this will be mandatory because of a decline in compensation over the years, raising energy prices and the need for participation of wind park operators in system services. The participation in these energy markets is constricted by the fluctuating and uncertain character of wind energy. At this point energy storage can be of avail. 
+For this reason the aim of this work is to find new compensation possibilities for wind energy operators in combination with different energy storage. Furthermore there is an analysis as to how the operation result of the operators can be raised by participating at energy markets. For this purpose scenarios will be set up, in which the operators also participate e.g. in an energy exchange or system services besides getting the fix payment from of the EEG. The storage is used to maximise the income by trading energy but also to smoothen the fluctuations or to feed in a constant power. As an additional incentive the operators also have the option to receive extra compensation by participating in system services and congestion management or by reducing the energy paid by the EEG. 
+The results - compared to exclusive compensation by the EEG - show that it is already possible today to integrate wind energy economically in the energy market and that this can be the better alternative to the EEG. Here storage can assist technical requirements and they can, to some extent, raise the operation result, too.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20100097</identifier>
+                    <identifier type="sys">HT016246670</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1389</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1389">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1486/de0906.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1389"
+            DMDID="DMD_wuppertal_elpub_1389">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1389"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

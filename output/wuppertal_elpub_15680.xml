@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_15680">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Role of Genomic Integrity in Mn-Induced Neurotoxicity - Mechanistic investigations of Mn-induced oxidative stress, DNA damage, DNA repair, and neurodegeneration in two different model systems</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Nicolai, Merle Marie</displayForm>
+                        <namePart type="family">Nicolai</namePart>
+                        <namePart type="given">Merle Marie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bornhorst, Julia</displayForm>
+                        <namePart type="family">Bornhorst</namePart>
+                        <namePart type="given">Julia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Manganese (Mn) is an essential trace element needed as a cofactor for many cellular processes, but (chronic) overexposure of the transition metal has been associated with various adverse neurological effects. Mn is omnipresent in food and drinking water; a deficiency is therefore not of concern. However, due to the rising industrial use of Mn as a transition metal and the resulting environmental pollution, Mn uptake is constantly increasing, and overexposure has become more relevant, not only in an occupational setting but also for the general population, leading to a rapidly evolving research interest in Mn-induced neurotoxicity. Oxidative stress, meaning the imbalance of reactive oxygen and nitrogen species (RONS) formation and degradation, has been identified as one of the main pathways in Mn toxicity. Mn-induced oxidative stress can affect many diverse cellular mechanisms, which eventually may cause Mn-induced neurotoxicity. Despite the ongoing research, the underlying mechanisms of Mn-induced neurotoxicity, key targets of the Mn-induced oxidative stress and the neurodegeneration itself are not yet fully understood. 
+ This work was conducted to investigate the link between oxidative stress and neurotoxicity after Mn overexposure further, focussing hereby on RONS-induced DNA damage, DNA damage response, and DNA repair. For this, the multicellular model organism Caenorhabditis elegans (C. elegans) was used for studying genomic integrity in an entire organism, and dopaminergic-like differentiated Lund human mesencephalic neuronal (LUHMES) cells were used to focus the research on the genomic integrity in neuronal cells.
+ The first part of this work consisted of developing novel methods for assessing oxidative stress and genomic integrity in C. elegans. The nematode has gained increasing recognition in research regarding oxidative stress, DNA damage and DNA repair, but methods for measuring specifically genotoxicity in C. elegans are still scarce. 
+ Cardiolipins (CLs) are exclusively located in mitochondria and therefore offer a unique relevance regarding oxidative stress, mitochondria dysfunction, and related diseases. Due to their location and the high level of unsaturation of these lipids, CL oxidation products (CLox) can be an early and sensitive biomarker for oxidative stress. 
+ Utilising online two-dimensional liquid chromatography hyphenated with high-resolution mass spectrometry (2D-LC-HRMS), the CL and CLox distributions in C. elegans were determined. The method was then tested on its applicability as an oxidative stress marker by provoking RONS formation in C. elegans using tert-butyl hydroperoxide (tBOOH). The results proved a concentration-dependent formation of oxidised CL after tBOOH treatment and confirmed the great potential of this method for CLox analysis as a feasible and sensitive marker of oxidative stress.
+ For genotoxicity assessment in C. elegans, we developed a reliable and practicable lysis method and adapted the alkaline unwinding (AU) assay to the nematode matrix. This allows investigations of DNA damage by measuring the percentage of double-stranded DNA (dsDNA) and calculating the DNA strand breaks as a marker for genomic integrity. Utilising C. elegans for genotoxicity assessment allows working within the niche of less transferable in vitro and costlier rodent experiments. This novel approach of the established in vitro AU assay was validated using the genotoxic substances bleomycin (BLM) and tBOOH as positive controls, and the method proved to be highly meaningful and reproducible. Therefore, the AU assay in C. elegans is a reliable genotoxicity test within the 3R concept (reduction, refinement, and replacement of animal experiments) and can be used to complement the classic genotoxicity bacterial, cell culture, or rodent experiments by a multicellular model organism. 
+ After method development, the effects of Mn on oxidative stress, DNA damage, and DNA repair were analysed in C. elegans to elucidate the mode of action of Mn-induced neurodegeneration. For this, worms were exposed to MnCl2 and bioavailability and lethality were assessed for optimal concentration finding for genotoxicity testing. DNA damage induction was analysed by measuring DNA strand breaks using the AU assay and measuring the formation of 8-oxo-7,8-dihydroguanine (8oxodG). Different deletion mutants were then used to investigate the role of DNA damage response induction (via analysis of poly(ADP-ribosyl)ation (PARylation)) and the oxidative DNA damage-specific DNA repair (base excision repair) in Mn-induced toxicity. The results illustrate a Mn uptake that is dose- and time-dependent and correlates directly with the lethality rate of exposed C. elegans. Measuring the DNA damage and gene expression of BER-involved enzymes revealed a decrease in genomic integrity and induction of DNA repair after excessive Mn exposure. Additionally, we were able to show that the poly(ADP-ribose) glycohydrolase 1 (parg-1) accounts for most of the glycohydrolase activity in C. elegans. Collectively, these results highlight the vital role of genomic integrity in Mn-induced neurotoxicity and broaden the molecular understanding of the underlying pathways. 
+ The last part of this work consisted of similar investigations as those described above, but by changing the model system, we were able to focus the research specifically on neurotoxicity instead of global effects. Previous in vivo studies observed that Mn accumulation in the brain occurs mainly in dopamine-rich regions, indicating that dopaminergic neurons are a primary target for Mn-induced neurotoxicity. Using LUHMES cells, assessment of Mn bioavailability, cytotoxicity, DNA damage induction, DNA repair, and consequences of Mn overexposure on the neurite network in dopaminergic-like neurons was possible. Thus, conclusions about the neurotoxicity of Mn can be drawn. Measurements of bioavailability and cytotoxicity indicated a concentration-dependent uptake and cytotoxic effect again. The formation of DNA damage (8oxodG and DNA strand breaks) showed, likewise to C. elegans investigations, a significant dose- and time-dependent increase after Mn exposure. Analysing PARylation and DNA repair gene expression implies induction of the DNA damage response that is not regulated on a transcriptional level. The neuronal outgrowth is also adversely affected by Mn overexposure, as this was shown by a significant degradation of the neuronal network.
+ Altogether, these results confirm the important role of adverse effects of Mn and Mn-induced oxidative stress on the genomic integrity, globally in an entire organism, but also specifically in post-mitotic dopaminergic-like neurons.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20220124-113612-9</identifier>
+                    <identifier type="doi">10.25926/fy3d-jn84</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_15680</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_15680">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2021/nicolai/dc2130.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_15680"
+            DMDID="DMD_wuppertal_elpub_15680">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_15680"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5040">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Modulation of the Cyclooxygenase Branch of the Arachidonic Acid Cascade by Polyphenols</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Willenberg, Ina</displayForm>
+                        <namePart type="family">Willenberg</namePart>
+                        <namePart type="given">Ina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">The intake of fruits and vegetables is associated with beneficial effects on human health. Polyphenols are discussed to play a key role in this process. Several in vitro studies suggest an anti-inflammatory effect of polyphenols mediated by a modulation of the cyclooxygenase-2 (COX-2) activity. However, the low bioavailability of polyphenols is a limiting factor for their effects in vivo. Therefore, the first part of this thesis aims to investigate the bioavailability of the resveratrol oligomers ?-viniferin and hopeaphenol. Microsomal incubations were applied to study the metabolic stability of both oligomers. The intestinal absorption was investigated in the Caco-2 cellular transwell system. The second part of the thesis aims to comprehensively characterize the effects of polyphenols on COX-2 activity in a tiered approach. For this purpose a fast online-solid phase extraction-liquid chromatography method with mass spectrometric detection was developed for the quantification of the COX products thromboxane B2, prostaglandin E2, and prostaglandin D2. Applying this method, the effects of selected polyphenols on COX-2 were investigated in three different in vitro test systems: (i) enzyme assay, (ii) a cancer cell line, and (iii) lipopolysaccharide (LPS) stimulated primary human monocytes. In the next step, a suitable in vivo model for the characterization of COX-2 inhibitory effects was identified based on targeted metabolomics of the arachidonic acid cascade. With this approach changes in oxylipin pattern in different animal models of inflammation were characterized. Finally, the in vivo relevance of the COX-2 activity modulation by polyphenols was investigated in LPS induced murine sepsis. The results of the experiments showed that despite a moderate in vitro activity the selected polyphenols were not able to reduce COX-2 activity in vivo. Extrapolating from the animal model to humans, the results suggest that an effect of food polyphenols on COX-2 activity in acute inflammation is unlikely.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20150724-111634-7</identifier>
+                    <identifier type="sys">HT018721731</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5040</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5040">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2015/willenberg/dc1508.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5040"
+            DMDID="DMD_wuppertal_elpub_5040">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5040"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

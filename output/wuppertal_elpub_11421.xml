@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_11421">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Koordinierte, teilautarke Regelung von Mittelspannungsnetzen unter Einsatz dezentraler Automatisierungslösungen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Korotkiewicz, Kamil</displayForm>
+                        <namePart type="family">Korotkiewicz</namePart>
+                        <namePart type="given">Kamil</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Zdrallek, Markus</displayForm>
+                        <namePart type="family">Zdrallek</namePart>
+                        <namePart type="given">Markus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-03-11</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Im Rahmen der Energiewende erfährt das elektrische Energieversorgungssystem eine zunehmende Dezentralisierung der Leistungseinspeisung im Zusammenhang mit der fortwährenden Integration von erneuerbaren Energien in die Verteilungsnetze. Neben dieser strukturellen Änderung findet zudem ein fundamentaler Wandel der Netznutzungssituationen durch die Volatilität der Verfügbarkeit erneuerbarer Energien sowie das veränderte Nutzerverhalten aufgrund von neuartigen, leistungsintensiven Verbrauchern statt. Da das Energieversorgungssystem für derartige Situationen historisch nicht ausgelegt wurde, stehen insbesondere Verteilungsnetzbetreiber in ihrer Netzführungsaufgabe vor nie dagewesenen Herausforderungen. Zunehmend treten kritische Situationen in Form von Grenzwertverletzungen des zulässigen Spannungsbandes sowie der Betriebsmittelauslastung auf, die nach konventionellem Ansatz kostenintensive Netzverstärkungsmaßnahmen erfordern. Die Dissertation knüpft an jüngste innovative Ansätze zur Bewältigung der neuen Herausforderungen in Verteilungsnetzen im Rahmen der Energiewende an. Sie befasst sich schwerpunktmäßig mit der Entwicklung von Verfahren zur Zustandsregelung in Mittelspannungsnetzen. Zu Zwecken der Spannungshaltung und des Engpassmanagements wird eine Spannungs- und Stromregelung konzipiert, die den Netzzustand in kritischen Situationen mit korrektiven Maßnahmen beeinflusst. Für die direkte Spannungsregelung wird eine kaskadierte Regelung des HS/MS-Transformators ausgelegt, wodurch gegenüber dessen konventionellem Betrieb ein optimierter Ansatz erreicht wird. Darüber hinaus dient der netzdienliche Einsatz von steuerbaren Netzteilnehmern als Aktoren einem dynamischen Last- und Einspeisemanagement zur selektiven Zustandsregelung. Eine Zustandsoptimierung ergänzt die Zustandsregelung um ein aktives Verfahren zur Optimierung der erforderlichen Maßnahmen, indem die abgeregelte Energie kontinuierlich minimiert wird. Die Implementierung der entwickelten Verfahren erfolgt auf einer Automatisierungseinheit im dezentralen Ansatz und wird für den echtzeitfähigen Einsatz ausgelegt. Die grundlegende Modellbildung erfolgt daher auf der Grundlage eines sensitivitätsbasierten Netzmodells und trägt mit ihrer Unabhängigkeit von einer rechenintensiven Leistungsflussberechnung zur Laufzeitoptimierung bei. Mithilfe eines geeigneten Interaktionskonzeptes wird der entwickelte Ansatz in eine ganzheitliche Regelungsstrategie überführt, die den hierarchischen und kooperativen Austausch mit vor- und nachgelagerten Netzebenen vorsieht. Das Konzept verfolgt die Umsetzung von Vorgaben aus dem vorgelagerten HS-Netz sowie den Einsatz von automatisierten, nachgelagerten NS-Netzen als zusätzliche Aktoren. Auf diese Weise wird die Koordination einzelner, teilautark betriebener dezentraler Automatisierungslösungen realisiert, die schließlich die Umsetzung einer ganzheitlichen Regelungskaskade innerhalb des Verteilungsnetzes ermöglicht. Die Wirksamkeit der erzielten Ergebnisse wird in einer praktischen Applikation anhand einer simulativen Validierung sowie anhand von Erfahrungen aus einem Feldtest in einem deutschen Verteilungsnetz unter realen Bedingungen demonstriert.</abstract>
+                    <abstract type="content" lang="eng">In the context of the ongoing transformation process, the electrical power system is experiencing an increasing decentralization of power generation in conjunction with the progressive integration of renewable energies into the distribution grids. In addition to this structural transition, fundamental changes in grid utilization result from the volatility of renewables along with evolving consumption behavior due to new types of power-intensive loads. Since the power system was not historically designed for such situations, distribution system operators in particular are facing unprecedented challenges in their grid management task. Increasingly, critical situations are occurring in the form of limit violations of the permissible voltage range as well as capacity utilization of electrical components, which require cost-intensive grid reinforcement measures according to the conventional approach. The dissertation ties in with recent innovative approaches to cope with the new challenges in distribution grids in the context of the energy transition. It is focused on the development of methods for state control in medium-voltage grids. For voltage maintenance and congestion management purposes, a voltage and current control is designed to affect the grid state in critical situations with corrective measures. For direct voltage regulation, a cascaded control of the HV/MV-transformer is designed, which achieves an optimization compared to its conventional operation. In addition, the grid-serving regulation of controllable plants as actuators allows a dynamic load and generation management for a selective state control. A state optimization enhances the state control with an active procedure for optimization of the required measures by continuously minimizing the energy reduction. The implementation of the developed methods is carried out on an automation unit in a decentralized approach with the intention of a real-time operation. The system model is therefore designed by a sensitivity-based grid model and contributes to runtime optimization with its independence from a computationally intensive power flow calculation. Within an appropriate interaction concept, the developed approach is transferred into a holistic control strategy that enables hierarchical and cooperative interactions with electrical grids on the super- and subordinate voltage levels. The concept aims for the execution of requests from the upstream HV-grid and the involvement of automated downstream LV-grids as additional actuators. In this way, the coordination of semi-autarkic decentralized automation systems is realized, which finally grants the implementation of a holistic control cascade within the distribution system. The effectiveness of the described approach is demonstrated in a practical application both with a simulative validation as well as an extensive field test in a German distribution grid under real conditions.</abstract>
+                    <subject>
+                        <topic>Regelungstechnik</topic>
+                        <topic>Mittelspannungsnetz</topic>
+                        <topic>Verteilungsnetz</topic>
+                        <topic>Koordinierte Regelung</topic>
+                    </subject>
+                    <classification authority="ddc">600</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20210311-113454-8</identifier>
+                    <identifier type="doi">10.25926/v3r6-6439</identifier>
+                    <identifier type="sys">HT021124877</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_11421</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_11421">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2020/korotkiewicz/de2010.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_11421"
+            DMDID="DMD_wuppertal_elpub_11421">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_11421"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

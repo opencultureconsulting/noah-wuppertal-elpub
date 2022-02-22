@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_319">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Datengetriebene Modelle stochastischer dynamischer Systeme - am Beispiel hydrodynamischer Turbulenz</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ragwitz, Mario</displayForm>
+                        <namePart type="family">Ragwitz</namePart>
+                        <namePart type="given">Mario</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This thesis deals with the development of data driven models for stochastic dynamical systems based on measured time sequences. Reconstruction of deterministic dynamical systems from time series is a well established technique, whereas only very few methods exist in the case of a nonlinear stochastic setting. The need for such algorithms arises in a variety of fields, such as physics, biology, economics, or meteorology. First we derive a method to construct Fokker-Planck- and Langevin-equations from time series, if all relevant dynamical variables are measured. The latter assumption, however, is unrealistic in many applications. Therefore we discuss, whether it is possible to embed a scalar time series in a stochastic setting and, if so, how to choose the correct parameters. This leads us to novel time series predictors for Markovian-processes. The performance of these algorithms is demonstrated by numerical examples.
+ In the second part of this work we apply the techniques developed in the first section to hydrodynamic turbulence and the problem of predicting the fluctuations in wind energy production. For a hydrodynamic flow with pronounced coherent structures, nonlinear phase space methods prove to have significantly higher predictive power within such structures than ordinary linear schemes. This knowledge is then applied to time series of atmospheric surface wind velocities and of the power output of a wind turbine. In these cases as well, strong turbulent fluctuations are clearly better predicted by nonlinear methods than by linear ones. This fact has relevant applications for the control of rotor blades of wind turbines as well as for the regulation of conventional power supplies.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20020053</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_319</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_319">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-413/d080109.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_319"
+            DMDID="DMD_wuppertal_elpub_319">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_319"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1884">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>On some homological conjectures for finite dimensional algebras</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Skorodumov, Denis</displayForm>
+                        <namePart type="family">Skorodumov</namePart>
+                        <namePart type="given">Denis</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Let A be a mild k-algebra over an algebraically closed field k, i.e. A is representation-finite or distributive of minimal representation-infinite type. Let S be a simple A-module of finite projective dimension. We establish the strong no loop conjecture for A, which claims that S has only split self-extensions, i.e. the quiver of A has no loop at the vertex corresponding to S. More generally we show that only a small neighborhood of the support of the projective cover of S has to be mild.
+ Furthermore some reduction techniques are developed for the stronger no loop conjecture and the finitistic dimension conjecture.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20110225-103745-4</identifier>
+                    <identifier type="sys">HT016724575</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1884</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1884">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2011/skorodumov/dc1102.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1884"
+            DMDID="DMD_wuppertal_elpub_1884">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1884"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

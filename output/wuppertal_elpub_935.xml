@@ -1,0 +1,86 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_935">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Beitrag zur Berechnung von Hebungen quellfähiger Böden</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Siboyabasore, Pierre Célestin</displayForm>
+                        <namePart type="family">Siboyabasore</namePart>
+                        <namePart type="given">Pierre Célestin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-05-02</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Hauptziel der vorliegenden Arbeit ist die Beschreibung und die Vorhersage der Hebung von ungesättigten quellfähigen Böden infolge Wasseraufnahme. Dafür werden unter anderem einige der in der Literatur gefundenen Klassifizierungen von quellfähigen Böden gegenübergestellt. Die Anwendung auf die untersuchten Böden, nach dieser Klassifizierungen zeigt, daß es manchmal widersprüchliche Beurteilungen der Quellfähigkeit gibt. 
+
+ Einige Modelle, die in der Literatur vorgeschlagen wurden, um die Quellung eines Bodens möglichst genau und anhand bodenmechanischen Standardkenngrößen quantifizieren zu können, werden ebenfalls vorgestellt. Diese Modelle liefern für die untersuchten Böden deutliche Abweichungen zwischen den berechneten und den im Labor ermittelten Werten. 
+
+ Ein Rechenmodell für die Abschätzung der Quellverformungen wurde in dieser Arbeit vorgeschlagen. Dieses Modell berücksichtigt die im Boden einwirkenden Spannungen, und die Änderung des Wassergehaltes in jedem Element des Bodens. Ausgangspunkt ist, daß die Quellung in einem Element des Bodens von der Feuchtezunahme abhängig ist. Dafür ist die Bestimmung des Wassergehaltes w(z)in jedem Element des Bodens zu einem bestimmten Zeitpunkt erforderlich. 
+
+ Aus den bodenmechanischen Eigenschaften berechnet man einerseits die Feuchtefront zs mit dem Gesetz von Green und Ampt, und andererseits den Wassergehalt w(z) in jedem Element das zwischen der Bodenoberfläche und der Feuchtefront liegt [0£ z £ z5] nach dem modifizierten Gesetz von Ibragimov und al. 
+
+ Die für die Bestimmung des Wassergehaltes notwendigen Funktionen der hydraulischen Leitfähigkeit des ungesättigten Bodens k(q ) und der Diffusivität D(q ) können mit den von Van Genuchten vorgeschlagenen Formeln aufgestellt werden. 
+
+ Die Parameter des vorgeschlagenen Rechenmodells der Quellverformungen können durch einfache Laborversuche (Ödometer) ermittelt werden. 
+
+ Das vorgeschlagene Rechenmodell ist durch die Benutzung der von Osman in situ in der Region von Medani im Sudan erhaltenen Versuchsergebnisse überprüft worden. Die berechneten und die gemessenen Werte stimmen annähernd überein. Das vorgeschlagene Modell ist schließlich auf die untersuchten Böden angewendet worden, um deren Hebungen vorherzusagen.</abstract>
+                    <abstract type="content" lang="eng">Principal purpose of the present work is the description and the forecast of the heave of unsaturated swelling soils due to water absorption. For that, some classifications of swelling soils found in the literature are compared. The application to the soils used in this study, according to these classifications, shows some contradictory results of the swelling potential. 
+
+ Some models, which are suggested in the literature in order to be able to quantify the swelling potential as exactly as possible and on the basis of standard mechanical properties of the soil are presented. These models supply clear deviations between the calculated and the determined values in laboratory for the used soils. 
+
+ A calculation model to estimate the swelling deformations has been suggested in this work. This model considers the stress in the soil, and the change of the water content in each element of the soil. One important point to underline hier by is that the swelling potential depends on the water content increase in an element of the soil. That why the determination of the water content in each element of the soil at a given time is necessary. 
+
+ From the mechanical properties of the soil two elements must be calculated: on one hand, according to the Green and Ampt law, the wetting front zs, and on the other hand, according to the modified law of Ibragimov, the water content in each element which lies between the soil surface and the wetting front [0£ z £ z5]. 
+
+ The functions of the hydraulic conductivity of the unsaturated soil k(q ) and those ot diffusivity D(q ), required for the determination of the water content can be calculated with the formulas suggested by Van Genuchten. 
+
+ The parameter of the suggested model of the swelling deformations can be determined by simple laboratory tests. 
+
+ In order to examine the the suggested model the results of Osman gathered from field experiments in Sudan have been used. Computed values are in good agreement with the results of the field experiments. The suggested model has been finally applied to the soils used in this study in order to forecast their heave.</abstract>
+                    <subject>
+                        <topic>water infiltration</topic>
+                        <topic>wetting front</topic>
+                        <topic>swelling soil</topic>
+                        <topic>unsaturated soil</topic>
+                        <topic>heave prediction</topic>
+                    </subject>
+                    <classification authority="ddc">620</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20060093</identifier>
+                    <identifier type="sys">HT014733733</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_935</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_935">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/bauingenieurwesen/diss2006/siboyabasore/dd0601.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_935"
+            DMDID="DMD_wuppertal_elpub_935">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_935"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

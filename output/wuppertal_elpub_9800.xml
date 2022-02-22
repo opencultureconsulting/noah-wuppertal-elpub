@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9800">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Phloembeladung und Zuckertransport in ausgewählten Gymnospermen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Fink, Daniel</displayForm>
+                        <namePart type="family">Fink</namePart>
+                        <namePart type="given">Daniel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-09-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Für Bäume wird eine passive Phloembeladung angenommen, welche bei den Gymnospermen und basalen Angiospermen als der ursprüngliche Mechanismus angesehen wird. Da in den letzten Jahren immer mehr Saccharose-Transporter in verschiedenen Angiospermen-Baumarten gefunden und mit der Phloembeladung in Verbindung gebracht werden konnten, wurden in dieser Arbeit die Gymnospermen Picea abies (H. KAARST), Ginkgo biloba (L.) und Gnetum gnemon (L.) sowie die basale Angiosperme Magnolia kobus (DC.) hinsichtlich ihres Phloembeladungs-Mechanismus und Zuckertransports untersucht. 
+Es konnten zum ersten Mal Saccharose-Transporter in Gymnospermen identifiziert werden. Dabei handelt es sich um zwei komplette Sequenzen aus dem Nadelbaum P. abies (PaSUT1 und PaSUT2) und drei SUT-Sequenzen aus G. biloba. Des Weiteren konnten eine partielle Sequenz in der Gymnosperme G. gnemon (GgSUT2), sowie zwei Teilsequenzen in der basalen Angiosperme M. kobus (MkSUT2 und MkSUT4) gefunden werden. Mittels quantitativer Echtzeit-PCR wurde die Expression der Transporter im Jahresverlauf und in Licht/Dunkel Verhältnissen untersucht. Es zeigte sich, dass alle Transporter in allen Geweben und zu jeder Jahreszeit unterschiedlich stark exprimiert wurden. Die Ergebnisse des Licht/Dunkel-Experimentes zeigten, dass die Expression der Transporter sowohl diurnal, als auch circadian vom Licht beeinflusst wird. Gleichzeitig wurde der Zucker- und Stärkegehalt (non structural carbohydrates, NSC) der Gewebe bestimmt um Einblicke in das Zusammenspiel zwischen SUT-Expression und NSC zu gewinnen. Neben der Expression konnten beide SUT von P. abies in der Nadel durch in-situ-Hybridisierung lokalisiert werden, PaSUT1 im Transfusionsparenchym und PaSUT2 im Phloem. Dies lässt die Annahme zu, dass es einen aktiven Saccharose-Transport im pre-phloem-pathway, sowie eine aktive Phloembeladung gibt. 
+Für die Laubblatt-tragenden Gymnospermen G. biloba und G. gnemon konnten hingegen noch keine genaueren Aussagen zum Phloembeladungs-Mechanismus getroffen werden. Obwohl in G. biloba die Expression von je einem SUT der drei Typen nachgewiesen werden konnte, war die biochemische Charakterisierung der Transporter mittels Hefekomplementation bisher nicht erfolgreich. Die Bestimmung der Verteilung der Photoassimilate in den subzellulären Kompartimenten von Mesophyllzellen der source-Blätter für G. gnemon und der basalen Angiospermen M. kobus zeigte eine ähnliche Verteilungen zu der anderer Angiospermen-Baumarten, die mit der apoplastischen Phloembeladung assoziiert werden. Im Gegensatz zu M. kobus war es noch nicht möglich, Phloemsaft von G. biloba und G. gnemon mit der Laser-Aphid-Technik zu sammeln, aber unter der Annahme, dass die Phloemkonzentration in dieser Baumart ähnlich zu der anderer Baumarten ist, wäre auch die Saccharose-Konzentration im Phloem höher als im Cytosol der Mesophyllzellen. Die Hypothese, dass bei G. gnemon ebenfalls aktive Schritte an der Phloembeladung beteiligt sind, wurde durch die verminderte Zuckerausscheidung aus PCMBS-behandelten angeschnittenen Blättern unterstützt.</abstract>
+                    <classification authority="ddc">570</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Biologie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20190923-134143-6</identifier>
+                    <identifier type="doi">10.25926/nm1b-v103</identifier>
+                    <identifier type="sys">HT020297320</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9800</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9800">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/biologie/diss2019/fink/dc1923.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9800"
+            DMDID="DMD_wuppertal_elpub_9800">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9800"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

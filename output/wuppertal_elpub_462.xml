@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_462">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Atmospheric Degradation Mechanisms of Organic Sulphur Compounds</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Arsene, Cecilia</displayForm>
+                        <namePart type="family">Arsene</namePart>
+                        <namePart type="given">Cecilia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002-01-29</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">A detailed product study has been performed on the OH radical initiated oxidation of dimethyl sulphide (DMS) and dimethyl sulphoxide (DMSO) under different conditions of temperature, partial pressure of O2 and NOx concentration. 
+
+The products of the OH radical initiated oxidation of DMS have been investigated under NOx free conditions at temperatures of 284, 295 and 306 ± 2 K and the O2 partial pressures of 20, 200 and 500 mbar. The major identified sulphur-containing products were DMSO, SO2 and methane sulphonic acid (MSA). Evidence has been found for the formation of methane sulphinic acid (MSIA) in considerable yield. Formation of methane thiol formate (MTF) and carbonyl sulphide (OCS) has been also observed. The variation of the formation yield of DMSO and SO2 with temperature and O2 partial pressure has been found to be consistent with a mechanism involving both addition and abstraction channels of the initial reaction. The found formation yields of DMSO for 284 K (46.3 ± 5.0 %), 295 K (34.8 ± 7.6 %) and 306 K (24.4 ± 2.8 %), at 200 mbar O2, give evidence for the predominance of the addition pathway at low temperature. High overall molar formation yields of SO2, about 90 % at all temperatures, leads to the conclusion that further oxidation of the products in both the addition and abstraction channels results mainly in SO2 production under the experimental conditions of this study. 
+
+The major sulphur-containing products identified in the presence of NOx were SO2, DMSO, dimethyl sulphone (DMSO2), MSA, methane sulphonyl peroxy nitrate (MSPN) and OCS. The variation of the product yields with NOx concentration at different temperatures was also found to be consistent with the occurrence of both addition and abstraction channels. It was found that increasing the initial NO concentration depresses the DMSO, SO2 and OCS formation yields and enhances those of DMSO2, MSA and MSPN. The branching ratio for DMSO formation was found to decrease with increasing initial NO and to decrease with increase of the temperature. This behaviour is expected for a reaction sequence involving formation of a thermally unstable peroxy radical adduct and its subsequent reaction with NO with formation of an oxy-alcoxy species which can react with molecular O2 to form DMSO2. The molar formation yield of SO2 was found to decrease with increasing both the temperature and initial NOx. 
+
+A study of the gas phase oxidation of DMSO by OH radicals has been performed under conditions similar to those for DMS. Formation of MSIA in a very high yield was found. The results show quite definitely that MSIA is the major oxidation product of DMSO and that its measured yield is independent of the reaction conditions. Formation of DMSO2, SO2, MSA and MSPN has been observed. The observed behaviour of these products supports a formation mechanism involving secondary chemistry of MSIA initiated either by OH or by peroxy radicals.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20020060</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_462</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_462">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-557/d090111.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_462"
+            DMDID="DMD_wuppertal_elpub_462">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_462"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

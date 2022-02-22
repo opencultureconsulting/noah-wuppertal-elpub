@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1386">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Beitrag zur dynamischen Fehlerbaumanalyse ohne Modulbildung und zustandsbasierte Erweiterungen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schilling, Simon J.</displayForm>
+                        <namePart type="family">Schilling</namePart>
+                        <namePart type="given">Simon J.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Fehlerbaumanalyse (FTA) ist eine etablierte Methode zur quali- und quantitativen Modellierung des Ausfallverhaltens von Systemen bzgl. Zuverlässigkeit und funktionaler Sicherheit. 
+Die FTA kann als Boolesche, statische Methode dynamische Effekte im Ausfallverhalten nicht oder nur mit statischen Näherungen modellieren. 
+Der in dieser Arbeit beschriebene neue Ansatz erweitert die Boolesche Logik der FTA um ein Zeitkonzept und dadurch die FTA um die Abbildung von Ereignissequenzen zur Temporale Fehlerbaumanalyse (TFTA). 
+Temporal-logische Ereignis-Beziehungen werden mit den Booleschen Operatoren AND, OR, NOT sowie den neuen temporalen Operatoren PAND und SAND ausgedrückt. 
+Ausgehend von der statischen FTA beschreibt diese Arbeit Regeln für die TFTA, mit denen sich temporallogische Terme in eine Temporale Disjunktive Normalform (TDNF) überführen und in dieser TDNF auch disjunkte Terme erzeugen lassen. Die vorliegende Arbeit beschreibt zudem die Quantifizierung temporaler Ausfallfunktionen ohne Transformation in den Zustandsraum. 
+Es werden zwei Näherungsverfahren vorgestellt, mit denen sich die exakten probabilistischen Ergebnisse mit verringertem Aufwand annähern lassen. 
+Die Vorgehensweisen werden an Beispielen unterschiedlicher Komplexität demonstriert. Zu den Vorteilen der TFTA zählen die Modellierung dynamischer Effekte auf allen Ereignisebenen des Fehlerbaums, ihre vollständige qualitative Analyse sowie Quantifizierung und Analyse ohne Methodenwechsel.</abstract>
+                    <abstract type="content" lang="eng">Fault tree analysis (FTA) is a well established method for qualitative and probabilistic reliability and safety analysis. 
+Fault trees are Boolean models and thus do not support modelling of dynamic effects like sequence dependencies. 
+The new temporal fault tree analysis (TFTA) described in this work extends the FTA in order to take sequence dependencies into account. 
+The TFTA is based on a new temporal logic which adds a concept of time to the Boolean logic. 
+This allows modelling of temporal relationships between events using Boolean operators (AND, OR, NOT) and two new temporal operators (PAND and SAND). 
+This temporal logic aims at transforming temporal terms into a temporal disjunctive normal form (TDNF), which then may be transformed further to be mutually exclusive. 
+This form is well suited for quantification, too. 
+Several examples are provided which explain each step in detail. 
+Furthermore, there are two probabilistic approximation methods described, which allow a significant reduction of the calculatory effort. 
+One significant aspect of the new TFTA described in this work is the possibility to take sequence dependencies into account for qualitative and probabilistic analyses without state-space transformations. 
+Among others, this allows for modelling of event sequencies at all levels within a fault tree, a real qualitative analysis similar to the FTA&apos;s cutset analysis, and quantification of sequence dependencies within the same model.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Maschinenbau und Sicherheitstechnik » Sicherheitstechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20100070</identifier>
+                    <identifier type="sys">HT016234777</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1386</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1386">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1483/dd0904.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1386"
+            DMDID="DMD_wuppertal_elpub_1386">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1386"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

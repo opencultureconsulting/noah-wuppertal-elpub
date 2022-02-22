@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1638">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Simulation von Sorptionsphänomenen an ionischen Grenzflächen und in Polymernetzwerken</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Oyen, Enno</displayForm>
+                        <namePart type="family">Oyen</namePart>
+                        <namePart type="given">Enno</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Mittels klassischer Molekulardynamik werden im 1. Teil der Arbeit chemisch realistische Modelle für wäßrige Kochsalzlösungen an der NaCl (001)-Grenzfläche bei 1 bar und im allg. bei 298 K simuliert. Mit einer polarisierbaren Version des starren SPC/E-Wassermodells, dem SPC/E-P-Modell, werden die Struktur und Dynamik gelöster Ionen an der Grenzfläche und im Lösungsinneren untersucht: Verteilung und Beweglichkeit der Ionen senkrecht und parallel zur Grenzfläche, Hydratationszahlen. Die Natriumionen werden selektiv an der metastabilen Grenzfläche adsorbiert, was ihre Beweglichkeit stark vermindert. Solch eine starke exotherme Na-Adsorption wird bei entsprechenden Simulationen mit dem SPC/E-Modell nicht beobachtet. Beim SPC/E-P-Wasser werden auch Dipolmomentprofile berechnet. Im 2. Teil der Arbeit werden grobe Modelle für regelmäßig verknüpfte kovalente Polymernetzwerke durch binäre Lennard -Jones-Mischungen gequollen. Gel und Lösungsmittel werden mit einer Molekulardynamik-Monte-Carlo-Hybridmethode in zwei getrennten Schachteln simuliert und dabei mit dem Teilchenüberführungsschritt des Gibbs-Ensemble-Monte-Carlo-Verfahrens chemisch äquilibriert. Signifikante Finite-size-Effekte verschiedener Geleigenschaften und der Dichte trockener Netzwerke werden mit einer hier hergeleiteten Beziehung eliminiert. Quellungs- und Trennungseigenschaften werden als Funktion der Temperatur, des Drucks und der Lösungszusammensetzung erhalten. Kleinere Teilchen werden stets bevorzugt absorbiert. Schlagwörter: Natriumchloridkristall Natriumchloridlösung NaCl(001)-Grenzfläche Molekulardynamik Smooth-particle-mesh-Ewald-Methode selektive Adsorption bevorzugte Adsorption Polymernetzwerk Netzwerkquellung Monte-Carlo Hybridverfahren Zwei-Schachtel-Simulation Finite-size-Effekte selektive Absorption bevorzugte Absorption</abstract>
+                    <abstract type="content" lang="eng">In the 1st part of the thesis, classical molecular dynamics is used to simulate chemically realistic models of aqueous rock-salt solutions at the NaCl (001)interface at 1 bar and generally at 298 K. Employing a fluctuating charges version of the rigid SPC/E water model, the SPC/E-P model, structural and dynamical properties of dissolved ions at the interface and in the bulk solution are calculated: distributions and mobilities of ions perpendicular and parallel to the interface, hydration numbers. Sodium ions are adsorbed selectively at the metastable interface, which reduces their mobility strongly. Such an intense exothermic Na adsorption is not observed in analogous simulations using the SPC/E model. In the case of SPC/E-P water, dipole moment profiles are calculated also. In the 2nd part of the thesis, coarse-grained models of regular, covalently bonded polymer networks are swollen by binary Lennard-Jones mixtures. Gel and solvent phase are simulated in two separate boxes, using a molecular-dynamics--Monte Carlo hybrid technique and obtaining chemical equilibrium between the boxes via the particle transfer step of Gibbs ensemble-Monte Carlo. Various properties of gels and the density of dry networks show significant finite-size effects, which are eliminated using a relation derived here. The swelling behaviour and selectivity of absorption are studied, depending on temperature, pressure and solvent composition. Smaller particles are always absorbed preferentially. Keywords: sodium chloride crystal sodium chloride solution NaCl(001) interface molecular dynamics smooth particle mesh Ewald method selective adsorption preferential adsorption polymer network network swelling Monte Carlo hybrid technique two-box simulation finite-size effects selective absorption preferential absorption</abstract>
+                    <subject>
+                        <topic>Natriumchloridkristall</topic>
+                        <topic>Natriumchloridlösung</topic>
+                        <topic>NaCl(001)-Grenzfläche</topic>
+                        <topic>Molekulardynamik</topic>
+                        <topic>Smooth-particle-mesh-Ewald-Methode</topic>
+                        <topic>selektive Adsorption</topic>
+                        <topic>bevorzugte Adsorption</topic>
+                        <topic>Polymernetzwerk</topic>
+                        <topic>Netzwerkquellung</topic>
+                        <topic>Monte-Carlo</topic>
+                        <topic>Hybridverfahren</topic>
+                        <topic>Zwei-Schachtel-Simulation</topic>
+                        <topic>Finite-size-Effekte</topic>
+                        <topic>selektive Absorption</topic>
+                        <topic>bevorzugte Absorption</topic>
+                        <topic>sodium chloride crystal</topic>
+                        <topic>sodium chloride crystal</topic>
+                        <topic>NaCl(001) interface</topic>
+                        <topic>molecular dynamics</topic>
+                        <topic>smooth particle mesh Ewald method</topic>
+                        <topic>selective adsorption</topic>
+                        <topic>preferential adsorption</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20101103-113517-0</identifier>
+                    <identifier type="sys">HT016590799</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1638</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1638">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2010/oyen/dc1015.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1638"
+            DMDID="DMD_wuppertal_elpub_1638">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1638"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_4280">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Verbindung von Ästhetik und Metaphysik bei Hegel, Schopenhauer und Adorno</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Berkau, Benjamin</displayForm>
+                        <namePart type="family">Berkau</namePart>
+                        <namePart type="given">Benjamin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Aus einer dem Freiheits- und Aufklärungsstreben in kantischer Tradition entsprechenden Perspektive wird innerhalb dieser Dissertation nach einer freiheits- wie autonomiestiftenden Einheit von Ästhetik und Metaphysik, Philosophie und Kunst sowie Schönheit und Wahrheit gesucht. Dies geschieht anhand der Analysen dieser einzelnen Elemente sowie ihrer Synthese in Kunstwerken aller Formen wie Gattungen und diese – als materielle Manifestationen von Geist, Ideen und anderer metaphysischer Kategorien zu verstehenden – Werke nachvollziehenden sowie sie philosophisch reflektierenden ästhetischen Theorien. Exemplarisch für derartige Theorien werden die Ästhetiken Hegels, Schopenhauers und Adornos einzeln dargestellt, untersucht und auch untereinander in historische bzw. philosophiegeschichtliche, (kunst-)philosophische sowie einander ergänzende Beziehungen gesetzt. Dabei spielen auch kunst- und literaturgeschichtliche Aspekte sowie Werke und Untersuchungen bedeutender Zeitgenossen aus Philosophie, Literatur und anderen Künsten eine Rolle. Die grundlegende Intention ist, den ewig währenden Konflikt von Ideal und Wirklichkeit, Metaphysik und materieller „Realität“, künstlerisch hervorgebrachter Schönheit bzw. Idealität und der Hässlichkeit sowie Boshaftigkeit bis prosaischen Ödnis der realen Welt darzustellen und kritisch zu reflektieren. Dies wird anhand der zunehmend sozial-, positivismus- und verdinglichungskritischen Philosophien (und darin vor allem der ästhetischen Theorien) Hegels, Schopenhauers und Adornos deutlich gemacht. Diese Theorien begleiten aus besorgt-kritischer, aber auch idealistisch-kämpferischer Sicht den beschleunigten, in Vielem rücksichtslosen und zerstörerischen Instrumentalisierungs- und Rationalisierungsprozess im Zuge der Moderne des 19. und 20. Jahrhunderts, der sich durch zunehmende Technisierung, Depersonalisierung und unnatürliche Entmenschlichung auszeichnet. Als Gegengewicht und teilweise sogar als (Er-)Lösung in Bezug auf diesen Prozess und Konflikt, diese (Fehl-)Entwicklungen und Diskrepanzen, werden die Werke der Kunst sowie die Kunst- und teilweise Naturschönheit in den Ästhetiken der drei Autoren zu bedeutenden Trägern von Idealem, Metaphysischem und Humanem bis Humanistischem. Sie schaffen, gewährleisten und retten die Einheit von Idealem und Realem, Schönem und Wahrem sowie Ausdruck und Gehalt in einer zeitlos bis zunehmend disharmonischen, destruktiven und erkalteten Welt. In unterschiedlichen Graden – vom „absoluten“, scheinbar affirmativ-positiven Welt-, Ideen- und Kunstverständnis Hegels über die „pessimistische“, doch zugleich humanistische Willensmetaphysik sowie bedeutende Kunst- und Musiktheorie Schopenhauers bis hin zur zugleich neomarxistischen wie postidealistischen und -modernen, (hochgradig sozial-, ökonomisierungs- und wissenschafts-)„kritischen Theorie“ Adornos. Die Dissertation zeichnet diesen Weg nach und sucht in den Werken der Autoren sowie auch an sich nach Missständen, kontrastierenden (ewigen wie zu rettenden) Idealen, kritisch-alternativen Fragen, Antworten und notwendigen, völlig einzigartigen sowie durch nichts zu ersetzenden künstlerischen Ausdrucksformen, Lösungen und Freiräumen im Prisma der Verbindung von Ästhetik und Metaphysik.</abstract>
+                    <classification authority="ddc">100</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » Philosophie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20141022-105845-4</identifier>
+                    <identifier type="sys">HT018434601</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_4280</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_4280">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fba/philosophie/diss2014/berkau/da1402.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_4280"
+            DMDID="DMD_wuppertal_elpub_4280">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_4280"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

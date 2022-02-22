@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6370">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Polyfluorene und Polythiophene für das Umwickeln von einwandigen Kohlenstoff-Nanoröhren</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Fritsch, Martin</displayForm>
+                        <namePart type="family">Fritsch</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Obwohl Kohlenstoffnanoröhren (CNTs) schon länger bekannt sind, sind diese erst seit den letzten zwei Dekaden von großem Interesse für die Wirtschaft und Wissenschaft geworden. Zukünftige Applikationen von einwandigen Kohlenstoffnanoröhren (SWNTs) in elektronischen (Nano)-Bauteilen sind eng verknüpft mit der Verfügbarkeit von reinen, halbleitenden SWNTs und deren definierte Positionierung auf passenden Substraten. Kommerziell verfügbare CNT-Rohgemische enthalten sowohl metallische als auch halbleitende Nanoröhren mit unterschiedlichen Durchmessern und Chiralitäten. Obwohl viele Methoden, wie Dichtegradientenzentrifugation, Dielektrophorese und Dispergierung mit Tensiden oder polaren Biopolymeren, entwickelt wurden, ist das sogenannte Polymer-wrapping mit konjugierten Polymeren eine der vielversprechendsten Reinigungs- und Trennmethoden. Das Verfahren umfasst Entbündeln und Dispergieren von SWNTs durch Umwickeln mit semiflexiblen, konjugierten Polymeren wie Poly(9,9-dialkylfluoren)e (PFx) oder regioreguläre Poly(3-alkylthiophen)e (rrP3AT). Gleichzeitig erfolgt eine Trennung der SWNTs nach Durchmesser und Chiralität. Dabei wechselwirkt das π-konjugierte Polymerrückgrat mit der zweidimensionalen, Graphen-artigen π-Elektronen-Oberfläche der CNT. Die solubilisierenden Alkylseitenketten mit optimaler Kettenlänge unterstützen das Entbündeln und die Dispergierung in organischen Lösungsmitteln. Gezieltes strukturelles Design der konjugierten Polymere ermöglicht eine selektive Dispergierung von SWNTs mit kleinen und großen Durchmessern oder SWNTs mit einer spezifischen Chiralität. Die Selektivität des Dispergierungsprozesses kann durch eine Kombination von Absorptions-, Photolumineszenz- und Photolumineszenzanregungs-Spektroskopie überwacht werden. Ferner ermöglichen diese Methoden die Identifizierung von SWNTs mit spezifischen chiralen Indizes [(n,m)]. Die Methode des Polymer-wrappings ermöglicht die Generierung von SWNT-Dispersionen, die exklusiv halbleitende Kohlenstoffnanoröhren beinhalten. 
+
+Für diese Arbeit wurden dafür Fluoren-Homo- und Copolymere mit funktionalisierten Seitengruppen, funktionalisierten Kettenenden oder mit Pyridin-basierten Untereinheiten (Kapitel 2), sowie langkettige, regioreguläre P3ATs (Kapitel 3) synthetisiert und charakterisiert. Als geeignete Strategie für eine besser definierte Positionierung von SWNTs können reaktive Seitengruppen im Polymer für kontrolliertes Ankern auf geeigneten Substraten (z.B. durch Selbstorganisation mittels Schwefel-Gold-Wechselwirkungen) verwendet werden. Zu diesem Zweck wurde eine Reihe von Thiol-haltigen PFs mit variierendem Thiol-Gehalt (Kapitel 2.7.2) synthetisiert. Die Experimente zum SWNT-wrapping wurden von meinen Kollegen am Zernike Institute for Advanced Materials in Groningen unter Supervision von Prof. Maria Loi durchgeführt. Aus vielversprechenden SWNT-Dispersionen wurden dabei Kohlenstoffnanoröhren-basierte Feld-Effekt-Transistoren (CNT-FETs) hergestellt und studiert.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20161123-103539-5</identifier>
+                    <identifier type="sys">HT019201789</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6370</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6370">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2016/fritsch/dc1627.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6370"
+            DMDID="DMD_wuppertal_elpub_6370">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6370"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

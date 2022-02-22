@@ -1,0 +1,66 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_11730">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Design Thinking und organisationale Veränderungen. Eine Fallstudie in der Unternehmenspraxis der Volkswagen Aktiengesellschaft</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Augsten, Andrea</displayForm>
+                        <namePart type="family">Augsten</namePart>
+                        <namePart type="given">Andrea</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-05-19</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Established industrial companies fear losing the leading market positions due to increasing digitalization as new, digital business models with short development cycles compete increasingly with established procedures and processes. As a representative of the automotive industry, Volkswagen Group is addressing these changes and inherent challenges by introducing its employees to new ways of working. The aim, in this case, is to contribute to maintaining market relevance and remain profitable through creative innovation. Therefore, several novel methods and techniques are being tested, Design Thinking being one of them.
+ Design Thinking aims to integrate the perspective and needs of users into the development process to design products, services and systems that customers find attractive and purchase. The academic interest in Design Thinking developed in two neighboring disciplines with two different foci: design science and management theory. The design discourse emerged in the 1950s in the Anglo-Saxon region and understands Design Thinking as a systemic, creative activity of professional designers, which is also often referred to as a mindset. The management discourse is much younger and developed only in the 2000s. In this discourse, Design Thinking is de-scribed as a method of innovation development. In practice, both origins and under-standings are little known, instead, employees are asked to learn Design Thinking and other new ways of working. They often attend training courses lasting several days and then apply what they have learned in their everyday work, or at least try to. So, they attribute an understanding of Design Thinking only in the application. How-ever, all these aspects lead to an often-overlooked problem: A discrepancy exists between the form of application attributed to Design Thinking on the one hand and the ascriptive function on the other. It seems unclear to users what exactly Design Thinking is and what it is good for. The uncertainty about how they should under-stand Design Thinking - method or mindset - makes it difficult for them to under-stand what the objective is.
+ Sabine Junginger (2016) provides a model that combines application form and function. She distinguishes between the application of Design Thinking as a technique and as a method and strategic art, whereby only the application as a strategy can lead to changes at a systemic company level. In the current emergence of De-sign Thinking, it has not yet been researched whether and to what extent a technical-methodical manifestation also promotes changes on a strategic management level or whether its effectiveness tends to lie on an operational and tactical level. There is a need for research into precisely these aspects - the related questions are investigated through an explorative, empirical study in the form of an industrial promotion using Volkswagen as a case study. For this purpose, the study maps the unfolding of De-sign Thinking in its application in the company. It analyses the data collected in the field in a qualitative procedure based on the knowledge-driven research style of Grounded Theory to determine which understandings and functions of Design Thinking employees develop in corporate practice and which tensions they experience as users. Combined with the potential for change, the study answers the leading research question: To what extent does Design Thinking contribute to organizational change in existing corporate practice if Design Thinking is understood and applied as a method?
+ The findings show that the application of Design Thinking as a technique and method challenges employees. Applying principles such as collaboration and humancentredness in a corporate context that functions according to contrary principles creates tensions. Employees perceive this discrepancy but feel little ability to resolve the resistance on their own. Instead, they adhere closely to schematic specifications and process sequences but see little need to adapt these to their organisational circumstances and objectives in a meaningful way. The case study shows that the application as a technique and method did not lead to sustainable strategic organisational changes. Nevertheless, the form of the application provides information about the extent to which the inner workings of the organisation impede the application of new, creative and agile ways of working. The resistance and obstacles encountered can be seen in four areas of tension, which in turn offer starting points for more far-reaching changes.
+ The introduction of Design Thinking at VW shows that the application acts as an intervening foreign body in the established corporate practice. This conspicuous-ness brings many employees into contact with new methods and techniques, lets them look at their previous work from a new perspective and may motivate them to change on an individual level. For possible changes on a strategic corporate level, the findings can be understood as organisational user research. They offer starting points and insights into how structures, processes and procedures in an organisation can be changed if a transformation to a more human-centred organisation is strategically aimed for.</abstract>
+                    <subject>
+                        <topic>Design Thinking</topic>
+                        <topic>Change</topic>
+                        <topic>Organization</topic>
+                        <topic>Narrative</topic>
+                        <topic>Design Management</topic>
+                    </subject>
+                    <classification authority="ddc">600</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20210519-101353-9</identifier>
+                    <identifier type="doi">10.25926/r9th-tj60</identifier>
+                    <identifier type="sys">HT021115777</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_11730</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_11730">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbf/industrialdesign/diss2021/augsten/df2101.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_11730"
+            DMDID="DMD_wuppertal_elpub_11730">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_11730"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

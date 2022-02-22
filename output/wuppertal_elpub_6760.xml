@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6760">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Enhancing the Signal Interpretation and Microscopical Hardware Concept of 3D Polarized Light Imaging</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wiese, Hendrik</displayForm>
+                        <namePart type="family">Wiese</namePart>
+                        <namePart type="given">Hendrik</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">3D Polarized Light Imaging (3D-PLI) ist ein bildgebendes Verfahren, das in den Neurowissenschaften benutzt wird um die anatomische Konnektivität des (menschlichen) Gehirns auf mesoskopischer und mikroskopischer Auflösung zu studieren. Dazu wird in 3D-PLI die komplexe Nervenfaserarchitektur des Gehirns durch 3D Vektorfelder modelliert, die auf Basis polarimetrischer Messungen von ungefärbten histologischen Gehirnschnitten berechnet werden.
+ In dieser Arbeit sind Algorithmen entwickelt worden, die eine unabhängige Datenanalyse der polarimetrischen Messungen auf der Mesoskala ermöglichen. Durch die Ergänzung der standardisierten 3D-PLI Messkette um Messungen mit einem verkippten Probentisch ermöglichen diese Algorithmen eine höhere Genauigkeit bei der Bestimmung von Orientierungsvektoren. In einer Machbarkeitsstudie wurde untersucht, wie diese Algorithmen die Erforschung der Faserarchitektur des menschlichen Gehirns unterstützen. Um die entwickelten Algorithmen auch im mikroskopischen Bereich nutzen zu können, wurde im zweiten Teil dieser Arbeit ein Beleuchtungssystem mit schiefem Lichteinfall für die 3D-PLI Mikroskopie entwickelt. Hierzu wurde der optische Aufbau des Beleuchtungssystems entworfen und optimiert. In einer Machbarkeitsstudie wurde nachgewiesen, dass dieses Beleuchtungssystem eine Datenbasis liefert, die äquivalent zu den Daten genutzt werden kann, die mit Hilfe des verkippbaren Probentisches im mesoskopischen Bereich gemessen werden. Durch diese neuen Methoden in der 3D-PLI Mikroskopie ist es nun möglich, die in dieser Arbeit entwickelten Algorithmen sowohl im mesoskopischen als auch im mikroskopischen Bereich zu nutzen und in zukünftigen Studien die Datenanalyse zu erweitern.</abstract>
+                    <abstract type="content" lang="eng">Three Dimensional Polarized Light Imaging (3D-PLI) is a neuroimaging technique that is used to study the structural connectivity of the human brain at the meso- and microscale. In 3D-PLI, the complex nerve fiber architecture of the brain is modeled by 3D orientation vector fields that are derived from polarimetric measurements of unstained histological brain sections.
+ In this thesis, a new algorithmic framework for an unbiased data interpretation of the polarimetric measurements at the mesoscale has been developed. By extending standard 3D-PLI measurements to include data acquired with a tiltable specimen stage, this new framework facilitates an enhanced accuracy of reconstructed orientation vectors. In a proof of concept study the capabilities of the new algorithms were explored and it has been shown how these algorithms can be employed to investigate the fiber architecture of the human brain.
+ In order to extend the developed framework to the microscale, the second part of this thesis is dedicated to the implementation of an oblique illumination system for 3D-PLI microscopy. For this purpose, the optical setup of the illumination has been designed and optimized. A proof of concept measurement provided evidence that the acquired data is equivalent to that acquired with a tiltable specimen stage. With this new capability in 3D-PLI microscopy it is now possible to extend the application of developed algorithms to the microscale and facilitate even more complex data analytics in the future.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170313-100800-9</identifier>
+                    <identifier type="sys">HT019455612</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6760</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6760">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2016/wiese/dc1640.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6760"
+            DMDID="DMD_wuppertal_elpub_6760">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6760"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

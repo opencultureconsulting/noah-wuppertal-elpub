@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1371">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Investigation of the Tropospheric Oxidation Capacity and Ozone Photochemical Formation in the City of Santiago de Chile -Field Measurements and Modelling Study-</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Elshorbany, Yasin</displayForm>
+                        <namePart type="family">Elshorbany</namePart>
+                        <namePart type="given">Yasin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">he oxidation capacity and ozone photochemical formation of the highly polluted urban area of Santiago de Chile has been evaluated during two field measurements campaigns during summer and winter from March 8 – 20 and from May 25 – June 07, 2005, respectively. The OH radical budget was evaluated in both campaigns employing a simple quasi-photo stationary-state model (PSS) constrained with simultaneous measurements of HONO, HCHO, O₃, PAN, NO, NO₂, j(O¹D), j(NO₂), 13 alkenes and meteorological parameters. In addition, a zero dimensional photochemical box model based on the Master Chemical Mechanism (MCMv3.1) has been used for the analysis of the radical budgets and concentrations of OH, HO2 and RO₂. Besides the above parameters, the MCM model has been constrained by the measured CO and other volatile organic compounds (VOCs) including alkanes and aromatics. 
+Total production and destruction rates of OH and HO₂ in winter were about two times lower than that during summer. Simulated OH levels by both PSS and MCM models were similar during the daytime for both, summer and winter indicating that the primary OH sources and sinks included in the simple PSS model are predominant. On a 24 h basis, HONO photolysis was shown to be the most important primary OH radical source comprising 52 % and 81 % of the OH initiation rate during summer and winter, respectively followed by alkene ozonolysis (29 % and 12.5 %), photolysis of HCHO (15 % and 6.1 %), and photolysis of O3 (4 % and &lt;1 %), respectively. 
+During both summer and winter, there was a balance between the secondary production (HO₂ + NO) and destruction (OH + VOC) of OH radicals indicating that initiation sources of RO₂ and HO₂ are no net OH initiation sources. This result was found to be fulfilled also for other studies investigated. Seasonal impacts on the radical budgets are also discussed. 
+The photochemical formation of ozone during the summer campaign carried out from March 8 – 20, 2005 has been investigated using an urban photochemical box model based on the Master Chemical Mechanism (MCMv3.1). The model has been constrained with the same set of the measured parameters used to simulate the radical budgets (see above) except O₃, NO₂ and PAN. The O₃-NOₓ-VOC sensitivities have been determined by simulating ozone formation at different VOC and NOₓ concentrations. 
+Ozone sensitivity analyses showed that photochemical ozone formation is VOC-limited under average summertime conditions in Santiago. The results of the model simulations have been compared with a set of potential empirical indicator relationships including H₂O₂/HNO₃, HCHO/NOy and O₃/NOz. The ozone forming potential of each measured VOC has been determined using the MCM box model. The impacts of the above study on possible summertime ozone control strategies in Santiago are discussed.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20100064</identifier>
+                    <identifier type="sys">HT016224721</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1371</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1371">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1468/dc0915.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1371"
+            DMDID="DMD_wuppertal_elpub_1371">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1371"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

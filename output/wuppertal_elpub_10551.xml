@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_10551">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Retrieval of atmospheric quantities from remote sensing measurements of nightglow emissions in the MLT region</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Chen, Qiuyu</displayForm>
+                        <namePart type="family">Chen</namePart>
+                        <namePart type="given">Qiuyu</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-06-02</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In the mesosphere and lower thermosphere (MLT) region, atomic oxygen and hydrogen are the most abundant reactive trace species and play crucial roles in the photochemistry and energy budget. Meanwhile, the MLT region is profoundly influenced by atmospheric dynamics, and tides and gravity waves are the key features thereof, which can be characterized by, e.g., temperature distributions and variations. A common way for the detection of these atmospheric quantities in the MLT region is by means of remote sensing of airglow emissions from ground or space.
+ The aim of this work is to offer new insight into atmospheric parameters and distributions in the MLT region. It is focused on constituent and temperature sounding of this region, and presents the retrieval and analysis of atomic oxygen and hydrogen as well as temperature profiles from hydroxyl (OH) and oxygen atmospheric band (O₂ Aband) nightglow observations. Atomic oxygen and hydrogen abundances are obtained from satellite limb radiance measurements of nightglow emissions in the near-infrared region. Temperature profiles are inferred from the rotational structure of nightglow emission lines in a broad spectral region, including observation data from a groundbased instrument and also in-orbit validation data from a new instrument applying the Spatial Heterodyne Interferometer (SHI) technology.
+ A new dataset of nighttime atomic oxygen density [O] and atomic hydrogen density [H] is derived from the OH(8-4) band emission. The dataset is derived from the atmospheric background radiation observed by the Global Ozone Monitoring by Occultation of Stars (GOMOS) instrument aboard Envisat and with measurements of the Sounding of the Atmosphere using Broadband Emission Radiometry (SABER) instrument aboard the Thermosphere Ionosphere Mesosphere Energetics and Dynamics (TIMED) satellite for the atmospheric background. Raw data are reprocessed into monthly zonal mean values. The dataset spans from 70° S to 70° N in latitude and from 80 km to 100 km in altitude, covering a time period from May 2002 to December 2011 at local times from 10 p.m. to 12 p.m.. The atomic oxygen density peaks at about 95 km and the maximum concentration is in the range of 3-8 x 1011 atoms cm-3, while the atomic hydrogen density reaches the peak at around 83 km with a value of 1-4 x 10⁸ atoms cm-3, depending on latitude and season. The annual oscillation (AO), semiannual oscillation (SAO) and the solar cycle impact are clearly visible in the data. This new GOMOS dataset conforms to other published datasets and is consistent with the [O] and [H] datasets obtained from the Scanning Imaging Absorption Spectrometer for Atmospheric CHartographY (SCIAMACHY) OH airglow measurements within ± 20 %.
+ The nocturnal mesospheric temperature is obtained from ground-based measurements of the OH(3-1) band emission layer centered near 87 km. The temperature dataset is derived from observations by the GRound-based Infrared P-Branch Spectrometer (GRIPS-F) instrument located inWuppertal. The temperature profiles fluctuate over the course of night, and the absolute amplitude is varying with season.
+ For space-based atmospheric observations, a growing trend are miniaturized instruments, which can fly on a nano-satellite platform, e.g., CubeSat. The SHI is a promising technology which fits into this context. With this technology, a minimized limb sounder, Atmospheric Spatial Heterodyne Interferometer Next Exploration (AtmoSHINE), is developed in our research group for temperature detection in the MLT region. An in-orbit demonstration was conducted and the first data analysis is presented herein. The global temperature distribution for the mesopause region is retrieved from measurements of O₂ A-band nightglow emissions. The AtmoSHINE measurements are acquired from four in-orbit tests of the commissioning phase, and the regular observation period of four days. The derived temperature profiles cover the altitude region of around 84 to 96 km with a vertical resolution of 2 km, and its vertical distribution reaches, as expected, its minimum value near the mesopause region. Intercomparisons of the AtmoSHINE measurements with the coincident Optical Spectrograph and Infrared Imager System (OSIRIS) and SABER measurements indicate a general consistency in the observed limb radiances and derived temperature profiles.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20200602-131802-0</identifier>
+                    <identifier type="doi">10.25926/w7ds-9196</identifier>
+                    <identifier type="sys">HT020518052</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_10551</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_10551">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2020/chen/dc2004.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_10551"
+            DMDID="DMD_wuppertal_elpub_10551">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_10551"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

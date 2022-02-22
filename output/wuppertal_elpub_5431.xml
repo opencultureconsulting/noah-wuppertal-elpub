@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5431">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Julius Plücker - Leben und Werk eines analytischen Geometers im 19. Jahrhundert</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Plump, Mechthild Ulrike</displayForm>
+                        <namePart type="family">Plump</namePart>
+                        <namePart type="given">Mechthild Ulrike</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Julius Plücker (1801 - 1868) gilt in der breiteren Wissenschaftsgeschichte hauptsächlich als Experimentalphysiker. Dagegen wurde seine mathematische Forschung von der jüngeren wissenschaftsgeschichtlichen Forschung weniger berücksichtigt. Dabei steht Plücker paradigmatisch für einen Aspekt der Entwicklung der Geometrie im 19. Jahrhundert: der analytischen Methode. In der vorliegenden Dissertation wird daher das mathematische Werk Plückers aus historischer Sicht untersucht, sowie seine geometrischen Auffassungen und Innovationen herausgearbeitet (Kapitel 8 - 14). Plückers mathematisches Werk ist stark auf den Bereich der analytischen Geometrie fokussiert, daher wird in Kapitel acht ein kurzer Überblick über die Geschichte der analytischen Geometrie gegeben. Im Anschluss daran wird in den Kapiteln neun und zehn die Bedeutung der &quot;analytischen Methode&quot; für Plücker herausgearbeitet sowie seine damit in Verbindung stehende Auffassung des Verhältnisses von Analysis und Geometrie. Die Kapitel 11 bis 14 greifen exemplarisch besondere Themen von Plückers Forschung heraus. Da die bisher vorliegenden Biographien Plückers in vielem den aktuellen historiografischen Standards nicht entsprechen, liefert der erste Teil dieser Dissertation außerdem eine Darstellung von Plückers Leben (Kapitel 2 -7). Der Fokus dieser Biographie liegt auf den äußeren Bedingungen mathematisch-naturwissenschaftlichen Arbeitens in Deutschland im 19. Jahrhundert.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20160108-145525-6</identifier>
+                    <identifier type="sys">HT018856696</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5431</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5431">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2014/plump/dc1442.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5431"
+            DMDID="DMD_wuppertal_elpub_5431">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5431"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

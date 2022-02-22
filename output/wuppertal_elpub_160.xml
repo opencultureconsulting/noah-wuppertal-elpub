@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_160">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Gabriel García Márquez und Simón Bolívar im Labyrinth der Geschichte</title>
+                        <subTitle>Die politische Dimension des historischen Romans El general en su laberinto</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Beutler-Tackenberg, Ingrid</displayForm>
+                        <namePart type="family">Beutler-Tackenberg</namePart>
+                        <namePart type="given">Ingrid</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2000-07-07</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">García Márquez&apos; biographischer Roman über den lateinamerikanischen Freiheitshelden Simón Bolívar hat bei seinem Erscheinen zu heftigen Kontroversen geführt, denn der Text steht in einem spannungsreichen Verhältnis zum offiziellen Bild des &apos;Befreiers&apos; im lateinamerikanischen Selbstverständnis. Er ist Ausdruck der Skepsis des Autors sowohl gegenüber dem romantischen Konzept des &apos;Helden&apos; als auch dem geschichtsphilosophischen des &apos;welthistorischen Individuums&apos;. Als historischer Roman mit dem expliziten Anspruch auf historiographische Genauigkeit nimmt El general en su laberinto einerseits eine Sonderstellung im bisherigen Œuvre García Márquez&apos; ein, andererseits weist der Text intertextuelle Bezüge insbesondere zu einem Frühwerk des Autors (El coronel no tiene quien le escriba) auf und erlaubt Rückschlüsse sowohl auf dessen Position innerhalb aktueller ästhetischer und historiographischer Theoriedebatten als auch auf seine politische Haltung. Ambivalente und tragische Aspekte dominieren in der deheroisierenden Darstellung des &apos;Libertador&apos;, dessen Stellenwert als Identifikationsfigur der lateinamerikanischen Geschichte jedoch nicht angetastet, sondern eher unterstrichen wird. Die symbolische Infrastruktur des biographischen Romans korreliert mit der gegenwartspolitischen Bedeutung, die der Autor dem Protagonisten beimißt. Unterschwellige Anspielungen auf den kubanischen Regierungschef F. Castro und Thematisierung der Genese der Auslandsverschuldung lateinamerikanischer Staaten lassen den Schluß zu, daß der Autor mit seiner fiktionalen Biographie auch politische Ziele verfolgt.</abstract>
+                    <abstract type="content" lang="eng">On its publication, García Márquez&apos; fictionalized biography of the Latin American hero of independence, Símon Bolívár, brought about strong controversies. In fact, the novel depicts a rather unusual &apos;liberator&apos; as compared to his official image in Latin American history. It is a manifestation of the author&apos;s scepticism concerning the romantic conception of the &apos;hero&apos; as well as towards the &apos;world-historic individual&apos; of Hegelian philosophy of history. El general en su laberinto being a historical novel, explicitely based on exact historical investigation, it holds an exceptional place within the work of García Márquez; on the other hand intertextual relations are recognizable between El general en su laberinto and the author&apos;s early novel El coronel no tiene quien le escriba. Thus, El general en su laberinto allows to draw conclusions with respect to the author&apos;s position in present-day debates on aesthetical and historiographical theories as well as to his political standpoint. Ambivalent and tragical aspects dominate in the description of the liberator&apos;s life and deeds, nonetheless, this &apos;human touch&apos; far from diminishing his importance in Latin American history even contributes in underscoring it. The symbolic infrastructure of the biographical novel correlates with the political impact which the author conveys to the protagonist. Subtle allusions to the Cuban president F. Castro as well as reiterated references to the beginning of the now fatal financial indebtedness of Latin America to foreign states suggest that with this fictional biography the author also pursues political aims.</abstract>
+                    <classification authority="ddc">460</classification>
+                    <classification authority="ddc">860</classification>
+                    <classification authority="ddc">100</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » Romanistik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20000291</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_160</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_160">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-290/d040001.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_160"
+            DMDID="DMD_wuppertal_elpub_160">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_160"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

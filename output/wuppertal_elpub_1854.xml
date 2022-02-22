@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1854">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>›Beeinflussung der öffentlichen Meinung‹. Hugo von Hofmannsthals Austriaca 1914–1917.</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kaluga, Katja</displayForm>
+                        <namePart type="family">Kaluga</namePart>
+                        <namePart type="given">Katja</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die nach den Prinzipien der Kritischen Ausgabe Sämtlicher Werke Hugo von Hofmannsthals (Frankfurt am Main 1974ff.) erarbeitete Edition 13 ausgewählter politischer und historischer Schriften Hofmannsthals leistet Grundlagenforschung: Sie bietet einen kritisch edierten Text und einen umfangreichen Apparat, in dem die Aufsätze durch eine die historisch-politischen und biographischen Aspekte berücksichtigende Darstellung ihrer jeweiligen Entstehung kontextualisiert werden. Ergänzt wird dies durch Quellennachweise, Sacherläuterungen, Wiedergabe von Varianten und briefliche Zeugnisse. Neben Aufsätzen über die politische Bedeutung von Franz Grillparzer, dem Prinzen Eugen von Savoyen und Maria Theresia bietet die Edition u.a. drei bislang unpublizierte Texte Hofmannsthals, die »Vorrede zu den Grundsätzen des ›Dienstagvereins‹« (1914), »Über die Beeinflussung der öffentlichen Meinung in Deutschland« (1915) und »Gedanken über eine österreichische Vereinigung zur Verbreitung politischer Bildung« (1916). Exemplarisch wird an diesen und den anderen Aufsätzen sichtbar, wie sich der Dichter als inoffizieller Mittler in die politische Kommunikation zwischen dem Deutschen Reich und Österreich-Ungarn einschaltete, um das krisenhafte Verhältnis der beiden Staaten auf eine neue Basis gegenseitigen Verstehens zu stellen und für das Fortbestehen der Donaumonarchie zu wirken.</abstract>
+                    <abstract type="content" lang="eng">This edition of 13 political and historical essays by Hofmannsthal accomplishes basic research: According to the principles of the Kritische Ausgabe Sämtlicher Werke Hugo von Hofmannsthals (Frankfurt am Main 1974ff) it offers critically reviewed texts and with and a substantial commentary, in which the essays are contextualized by giving a wider view of historical, political and biographical aspects in regard to their presentation and respective development. It includes a bibliography of manuscripts and prints until the poet’s death, detailed explanations as well as the reproduction of versions and testimonials, for example letters. After the essays about the political impact of people like Austrian poet Franz Grillparzer, military commander Prince Eugen of Savoy and Empress Maria Theresia, this edition offers three so far unpublished essays by Hofmannsthal, &quot;Vorrede zu den Grundsätzen des &apos;Dienstagvereins&apos;&quot; (1914), &quot;Über die Beeinflussung der öffentlichen Meinung in Deutschland&quot; (1915) and &quot;Gedanken über eine österreichische Vereinigung zur Verbreitung politischer Bildung&quot; (1916). 
+The essays illustrate, for example, how the poet acted as an unofficial mediator in the political difficulties between the German Reich and Austria-Hungary, and tried to position this crisis-laden relationship between the two states on a new basis of mutual understanding.</abstract>
+                    <classification authority="ddc">430</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » Germanistik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20110215-124243-7</identifier>
+                    <identifier type="sys">HT016880275</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1854</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1854">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fba/germanistik/diss2011/kaluga/da1101.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1854"
+            DMDID="DMD_wuppertal_elpub_1854">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1854"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

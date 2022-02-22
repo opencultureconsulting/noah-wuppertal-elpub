@@ -1,0 +1,84 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6631">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Ein </nonSort>
+                        <title>Beitrag zur Homogenitätsbewertung mittels Druckverfahrens erzeugter Schichten unter Berücksichtigung der Farbwahl</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Raabe, Timo</displayForm>
+                        <namePart type="family">Raabe</namePart>
+                        <namePart type="given">Timo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Jung, Ulrich</displayForm>
+                        <namePart type="family">Jung</namePart>
+                        <namePart type="given">Ulrich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Urban, Peter</displayForm>
+                        <namePart type="family">Urban</namePart>
+                        <namePart type="given">Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wilhelm, Helmut</displayForm>
+                        <namePart type="family">Wilhelm</namePart>
+                        <namePart type="given">Helmut</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Welche Farbe ist für die Bewertung der Homogenität von gedruckten Schichten geeignet? Mit dieser Fragestellung befasst sich die vorliegende Arbeit. Ein kurzer Überblick über bestehende Verfahren zur Homogenitätsbewertung und deren Korrelation zur visuellen Einschätzung dient als Einstieg in die Thematik. Darauf aufbauend erfolgt eine physikalische Betrachtungsweise auf die Auswirkungen von Schichtdickenschwankungen. Das unter dem Lambert-Beer-Gesetz bekannte Modell zur Beschreibung der Lichtintensitätsabnahme während des Durchgangs einer Strahlung durch ein Medium führt letztlich zu einer Gleichung, die den Zusammenhang zwischen den Auswirkungen von Schichtdickenschwankungen und der Farbmittelkonzentration näher beschreibt. Bei bekannter Schichtdicke einer mittels Druckverfahrens erzeugten Schicht wird mit einer berechenbaren Farbmittelkonzentration ein maximal möglicher Kontrast und somit eine erhöhte Sichtbarkeit von Unregelmäßigkeiten erreicht. Neben den physikalischen Betrachtungen spielen physiologische Aspekte bei der Wahl einer Farbe zur Homogenitätsbewertung eine ebenso wesentliche Rolle. So hat sich herausgestellt, dass das Kontrastsehvermögen im mittleren Wellenlängenbereich besonders stark ausgeprägt ist und somit prinzipiell Farben mit hohem Absorptionsanteil (beispielsweise Cyan oder Magenta) in diesem Bereich geeignet sind. Für eine messtechnische Auswertung von ungleichmäßigen Schichten sind, aufgrund einer hohen Korrelation zur visuellen Wahrnehmung, auf einem farbmetrischen Delta L basierende Größen zu empfehlen.</abstract>
+                    <abstract type="content" lang="eng">What color is suitable for assessing the homogeneity of printed layers? This is the question of the present thesis. First, a small overview of the current existing procedures for the homogeneity valuation and their correlation to visual examination are provided. Based on this, the physical effects on coating thickness fluctuations will be focused. A modell called Lambert-Beer’s law – that describes the decrease of light intensity while light is passing through a medium – leads to an equation that describes the connection between the effects of coating thickness fluctuations and the concentration of colorants. For a known coating thickness a maximal possible contrast and an enhanced visibility of irregularities is achieved. Apart from the physical considerations physiological aspects of color selection have to be considered in homogeneity valuation as well. It emerged very clearly that while the contrast sensitivity in the medium wavelength range is particularly pronounced – and therefore colors with high absorption (for instance cyan or magenta) are suitable for this range – difference in brightnesses, based on a colormetrical Delta L, are increasingly stronger perceived.</abstract>
+                    <subject>
+                        <topic>Homogenität Druck Gleichmäßigkeit Druckschichten</topic>
+                    </subject>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Medientechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170214-141656-7</identifier>
+                    <identifier type="sys">HT019242186</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6631</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6631">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/medientechnik/diss2016/raabe/de1612.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6631"
+            DMDID="DMD_wuppertal_elpub_6631">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6631"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

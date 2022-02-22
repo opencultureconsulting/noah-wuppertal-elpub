@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9820">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Simulation and measurement of the Forward Beam Monitor detector signal for the KATRIN experiment</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Haußmann, Norman</displayForm>
+                        <namePart type="family">Haußmann</namePart>
+                        <namePart type="given">Norman</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-10-09</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The aim of the KArlsruhe TRItium Neutrino (KATRIN) experiment is to measure the effective neutrino mass with a sensitivity of 0.2 eV (90% C.L.). In order to achieve that, high precision beta spectroscopy from tritium beta decay is performed close to the endpoint of tritium. This requires a high luminosity source. To reach the sensitivity goal, the systematic uncertainties of the experiment, such as the stability of the beta Source, have to be known and kept at a low level. One component to monitor the source stability is the Forward Beam Monitor (FBM). The monitoring is done with two silicon p-i-n-diodes detecting the beta electrons from the Source. 
+The goal of this thesis is to simulate the expected detector signal of the FBM and compare against first measurements performed with the KATRIN experiment in summer 2018. In order to simulate the Forward Beam Monitor detector signal, a response matrix approach is utilized. Thus, the simulated beta emission spectrum is split into energy and polar angle bins. Each set of events is propagated separately through the experiment. As a beta electron is bent by magnetic fields and undergoes different scattering processes its polar angle and energy can be changed. This leads to a certain probability of beta electrons from an initial energy and polar angle bin to be distributed into different energy and polar angle bins. Probabilities are calculated for the propagation through each component of the experiment, which is essential for the simulation of the FBM detector signal. 
+The results of the rate simulation and the detected rate of beta electrons agree. The spectral shape and intensity of the beta electrons above 8 keV are also comparable. Additionally, the FBM is able to scan the transversal beta flux distribution on a two-dimensional plane. Therefore, the radial dependency of the rate is simulated, which also agrees with the measured rate. 
+In this thesis, the different steps that need to be taken in order to simulate the FBM detector spectrum are presented as well the simulation challenges. A new approach into simulating the scattered beta spectrum of the source, which can be utilized in future for neutrino mass analyses and source models, is also presented.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20191009-085446-9</identifier>
+                    <identifier type="doi">10.25926/8q1y-6752</identifier>
+                    <identifier type="sys">HT020244444</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9820</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9820">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2019/haussmann/dc1924.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9820"
+            DMDID="DMD_wuppertal_elpub_9820">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9820"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

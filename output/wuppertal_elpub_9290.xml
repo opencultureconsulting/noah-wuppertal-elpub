@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9290">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>A </nonSort>
+                        <title>Quantitative Approach to Tower Crane Selection and Positioning on Construction Sites</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dienstknecht, Michael</displayForm>
+                        <namePart type="family">Dienstknecht</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Briskorn, Dirk</displayForm>
+                        <namePart type="family">Briskorn</namePart>
+                        <namePart type="given">Dirk</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bock, Stefan</displayForm>
+                        <namePart type="family">Bock</namePart>
+                        <namePart type="given">Stefan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-05-02</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Tower cranes are a key factor in construction projects from both an operational and an economic perspective as they are the predominant lifting equipment and are among the most expensive construction equipment. A literature review revealed that the academic literature lacks appropriate problem formulations and optimization approaches despite of tower cranes&apos; real-world importance. 
+The thesis at hand addresses this gap and introduces two optimization problems concerning the selection and on-site location of tower cranes, namely the tower crane selection and positioning problem (TCSPP) and the tower crane selection and positioning problem in a grid (TCSPP-GRID). Both are focused on a set of crane types differing in their specifications, i.e. rental cost, maximum operating height and maximum weight-dependent lifting radius. Cranes need to be selected and located on a given polygonal construction site in order to cover pairs of supply and demand areas with polygonal ground plans. Demand areas, in addition, have a certain height which may prevent certain crane types from serving the pair associated with the respective demand area and they have a maximum load weight to be lifted at any point of the demand and the supply area. When locating cranes it has to be taken into account that a crane may neither be located in a supply or a demand area nor in crane type-specific forbidden areas of polygonal ground plan (e.g. due to ground conditions). A pair is said to be covered if at least one crane can establish an uninterrupted lift path for the pair&apos;s maximum weight between any two points of the demand and supply areas corresponding to the pair. The objective is to find a minimum cost selection of cranes and their on-site locations so that each crane is in a feasible position and each pair is covered by at least one crane. 
+In the TCSPP, cranes may be located continuously in every point not occupied by a demand, supply or forbidden area and a pair is considered to be covered by a specific crane if both the demand and the supply area are completely within the crane&apos;s maximum operating radius for the pair&apos;s maximum load weight and if the crane has sufficient operating height. The problem is shown to be NP-complete. We prove that we can restrict ourselves to a finite set of potential crane locations without loss of optimality which, in turn, allows us to employ the classic set cover problem for solving an instance of the TCSPP. The approach is computationally tested and analyzed and turns out to perform favorably. 
+The TCSPP-GRID, in contrast to the TCSPP, respects crane interdependencies in terms of minimum distances and crane interferences as well as interferences of cranes with given on-site obstacles. However, cranes may not be located continuously, but may only be positioned at the intersection points of a grid being laid over the construction site. The problem is proven to be NP-hard despite of this artificial discretization. We show how to derive inputs that allow for linear models from the given, mainly geometric instance data. Four mixed-integer linear programming formulations are presented as well as a branch and bound approach. A computational study is conducted comparing the performance of the branch and bound approach and standard solver CPLEX based on the mixed-integer models. It is found that the former turns out to compete favorably against the latter.</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20190502-113205-9</identifier>
+                    <identifier type="sys">HT020061058</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9290</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9290">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2019/dienstknecht/db1901.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9290"
+            DMDID="DMD_wuppertal_elpub_9290">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9290"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_442">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Ein </nonSort>
+                        <title>neuartiger, flexibler Zugang zu myo-Inositolphosphaten und -derivaten aus para-Benzochinon</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Plettenburg, Oliver</displayForm>
+                        <namePart type="family">Plettenburg</namePart>
+                        <namePart type="given">Oliver</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-01-05</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Enantiopure inositol derivatives, especially inositol phosphates are a special target of scientific efforts due to their outstanding importance in means of signal transduction. Therefore flexible and unambiguous synthetic routes are required to prepare synthetic samples to study their biological meaning. In this work, a new de-novo-stragegy for the preparation of inositol phosphates and derivatives is presented. In the first part, several myo-inositol phosphates are prepared starting from different C₂-symmetrical building blocks. Among others, a new very short and effective route to Ins(1,4,5)P₃ is presented. The key step of this synthesis is the selective protection of the axial hydroxy-group in 1,4-dibenzylinositol. A selective 3-benzylation of this compound was also established. A 2-desoxy-analogue of Ins(1,4,5)P₃ was prepared via regioselective hydroboration of a C-C-double bond in a conduritol-B-derivative. Other synthetic targets which were synthesized were for example the optical antipodes Ins(1,4,5,6)P₄ / Ins(3,4,5,6)P₄, Ins(1,2,3,4)P4 / Ins(1,2,3,6)P₄ and the meso-compound Ins(1,3,4,5,6)P₅. In the second part of this work the number of accessible inositol phosphate isomeres was drastically increased by desymmetrization of conduritol-B-derivatives. The opportunities offered by this strategy could be demonstrated by successful preparation of Ins(4,5,6)P₃, Ins(1,3,4,5)P₄ and several InsP₅-derivatives. In a third part, the advantages of an epoxide-based strategy for inositol synthesis could be demonstrated by the straightforward synthesis of several azido- and amino-inositol derivatives. Among these, an amino-inositolpentakissulfate was prepared, which turned out to be a potent inhibitor of a phytase from dictyostelium discoideum and should be suitable for preparation of materials for affinity chromatography. In another section a new route to allo- and chiro-inositol derivatives is presented, starting from conduritol-E and -F derivatives. Moreover, some new building blocks could also be prepared, which should give access to neo- and chiro-inositol derivatives in subsequent works. Finally in cooperation with biochemists the use of regiospecific enzymes for selective dephosphorylation of InsP₄-isomers was examined to synthesize enantiopure inositol trisphosphates. Three different enzymes have been used to prepare five InsP₃-isomers, among these two enantiomeric pairs, in good yields and excellent isomeric purity. There is no example in literature so far, reporting similar conversions.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20000260</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_442</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_442">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-537/d090024.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_442"
+            DMDID="DMD_wuppertal_elpub_442">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_442"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

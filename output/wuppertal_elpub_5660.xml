@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5660">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Tomographic retrieval of atmospheric trace gases observed by GLORIA</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Blank, Jörg</displayForm>
+                        <namePart type="family">Blank</namePart>
+                        <namePart type="given">Jörg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The Gimballed Limb Observer for Radiance Imaging of the Atmosphere (GLORIA) is a novel remote sensing instrument combining an imaging infrared Fourier transform spectrometer with a highly flexible gimbal mount. Spectra with a unique spatial and spectral resolution are measured with a 2-D detector array. Air masses can be observed from different directions by turning the instrument&apos;s line of sight in the gimbal frame. 
+ In December 2011 the instrument flew for the first time on the high flying Russian M-55 Geophysica research aircraft over Kiruna (Sweden). There was a very strong and cold polar vortex with several filamentary structures at its boundary which were within the operation radius of the aircraft. This thesis focuses on the retrieval of temperature and several important trace gases from measurements obtained during the ESSenCe campaign and compares them to 3-D model calculations of the atmosphere. The results show the presence of a filamentary structure of less than 1 km vertical extent, which is only visible due to the high vertical resolution of 300 m provided by GLORIA and is not fully resolved in the comparison data. 
+ In summer 2012, GLORIA flew on the German HALO research plane during the TACTS and ESMVal campaigns. The large range of the aircraft allowed the inclusion of multiple closed loop flight tracts during the campaign, in which GLORIA made measurements with high spatiotemporal resolution. For the first time, it was possible to test the 3-D tomographic retrieval technique on GLORIA data. This technique yields 3-D trace gas fields with good horizontal resolution in every direction and thus information on very fine structures in trace gas distributions.</abstract>
+                    <abstract type="content" lang="ger">Der Gimballed Limb Observer for Radiance Imaging of the Atmosphere ist ein neuartiges Fernerkundungsinstrument, dass ein abbildendes Fourier-Transformations-Infrarot-Spektrometer mit einer leicht beweglichen kardanischen Aufhängung vereinigt. Der 2-D Detektor erlaubt es Spektren mit einer einzigartigen räumlichen und spektral Auflösung zu messen. Luftmassen können aus verschiedenen Richtungen aufgenommen werden indem man die Sichtlinie des Instrumentes mithilfe des Kardanrahmens ändert. 
+ Im Dezember 2011 wurde das Messgerät zum ersten Mal auf dem hochfliegendem russischem Forschungsflugzeug M-55 Geophysica über Kiruna (Schweden) eingesetzt. Am Rand des sehr kalten und starken Polarwirbels lagen mehrere Filamente, von denen sich einige in der Reichweite des Flugzeuges befanden. Aus den Messungen der ESSenCe Kampagne wurden Werte für Temperatur und verschiedene wichtige Spurengase abgeleitet und mit 3-D Modellen der Atmosphäre verglichen. Es wird eine filamentäre Struktur mit einer vertikalen Ausdehnung von weniger als 1 km beschrieben, die nur durch die hohe vertikale Auflösung von GLORIA sichtbar wird und in den Vergleichsdaten nicht vollständig aufgelöst wird. 
+ Während des Sommer 2012 wurde GLORIA auf dem deutschen HALO Forschungsflugzeug für die TACTS und ESMVal Kampagnen eingesetzt. Die große Reichweite dieses Flugzeuges erlaubte es mehrere geschlossene Kurven zu fliegen, in denen GLORIA mit hoher räumlich-zeitlicher Auflösung gemessen hat. Mit dieser Technik können 3-D Spurengasfelder mit guter horizontaler Auflösung abgeleitet werden, in denen sehr feine Strukturen aufgelöst werden können. In dieser Arbeit wird die 3-D Tomographie zum ersten Mal auf echte Messdaten angewandt.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20160318-114633-8</identifier>
+                    <identifier type="sys">HT018957811</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5660</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5660">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2013/blank/dc1332.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5660"
+            DMDID="DMD_wuppertal_elpub_5660">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5660"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

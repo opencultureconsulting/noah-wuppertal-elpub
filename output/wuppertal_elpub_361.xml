@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_361">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchung tiefliegender Elektronenzustände der Hauptgruppe V-Halegonide und Hydride(Deuteride) mittels Fourier-Transform-Emissionsspektroskopie</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Beutel, Markus</displayForm>
+                        <namePart type="family">Beutel</namePart>
+                        <namePart type="given">Markus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2000-03-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Emission spectra of the a¹Δ(a2) → X³Σ⁻(X₂1) and b¹Σ⁺(b0⁺) → X³Σ⁻(X₁0⁺, X₂1) electronic transitions of monohydrides(-deuterides) and monohalides of group Va elements in the visible and near-infrared spectral region have been studied using a high-resolution Fourier-transform spectrometer. The radicals were mostly generated and excited by chemical reactions and energy transfer processes in fast-flow systems. Emission spectra from such chemical sources are virtually free of background continua and atomic lines and thus allow observation of very weak molecular spectra. In the Hund&apos;s case (a/b) limit, the a¹Δ → X³Σ⁻ and b¹Σ⁺→ X³Σ⁻ transitions are forbidden by spin and orbital momentum selection rules. For heavier species, the transitions gain intensity by spin-orbit mixing of the electronic states but the spectra still are very weak. Due to their long radiative lifetimes, molecules in the metastable a¹Δ and b¹Σ⁺ states are of potential interest as energy carriers and reactants in chemical and photochemical systems. Previously, the a¹Δ→ X³Σ⁻ transitions had been observed for four of the lighter molecules only (NH, NF, NCl, NBr). In the present work, this transition has been measured for 14 other molecules of these groups (PH(PD), AsH(AsD), SbH(SbD), BiH(BiD), AsCl, AsBr, AsI, SbF, SbCl, SbBr, SbI, BiCl, BiBr, BiI). Analyses of medium-resolution spectra yielded the electronic energies and vibtrational constants of the a¹Δ states. For the hydrides and deuterides, the spectra could be measured at high resolution (0.02 cm-1). Rotational analyses of the bands yielded very accurate rotational constants as well as spin-spin splitting and spin-rotation interaction parame-ters for the ground states and the a¹Δ excited states. For most of the 25 molecules of these groups the b¹Σ⁺ → X³Σ⁻ transitions were known from low-resolution studies. A number of these transitions could be measured at high resolution (PCl, PBr, PI, ...) and, for the first time, rotational analyses of the bands could be performed. In the case of AsI, both subsystems, b → X₁ and b → X₂, have been observed and the hitherto un-known spin-spin splitting of the X³Σ⁻ ground state has been determined. Different theoretical approaches for Hund&apos;s coupling cases (b) and (c) were applied to describe the X³Σ⁻ ground states and the relative line intensities in the b0+→X₁0⁺ and b0+→X₂1 subsystems of the b¹Σ⁺→ X³Σ⁻ transitions. A computer program was developed which allowed to simulate the band structures of all transitions. It was found that case (b) is universally applicable, whereas the case (c) formalism is only suited for very large spin-spin and spin-orbit interaction (λ &gt; 100 cm-1). Because of their very large rotational constants resulting in broad and clear band structures, the hydrides are very well suited to demonstrate the gradual transition from Hund&apos;s case (b) to case (c) with increasing spin-orbit coupling. Some systematic trends in the relative line intensities of the five branches of b¹Σ⁺ → X³Σ⁻ transitions have been demonstrated by systematically varying the molecular parameters and electric dipole transition moments in simulated spectra.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20000099</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_361</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_361">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-455/d099919.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_361"
+            DMDID="DMD_wuppertal_elpub_361">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_361"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

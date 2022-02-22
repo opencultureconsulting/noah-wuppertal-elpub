@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_812">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Influence of Oxidative Stress, Carcinogens and Cloning on DNA methylation determined by Capillary Electrophoresis</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>El-Zeihery, Dalia</displayForm>
+                        <namePart type="family">El-Zeihery</namePart>
+                        <namePart type="given">Dalia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-12-15</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">DNA methylation is an epigenetic modification established during embryogenesis and reset during development. Aberrant DNA methylation patterns have frequently been associated with carcinogenesis, with a general loss of genomic 5-methylcytosine and a hypermethylation of particular genes. Therefore, the analysis of the genomic methylation level (5-meC) would provide a comprehensive tool for the correlation between 5-meC-mediated biological variations and cancer development as well as other cell abnormalities.
+ Capillary electrophoresis coupled with laser induced fluorescence detector (CE-LIF) is the method used in the whole work for the analysis of DNA modifications and requires the presence of the phosphate group in the 3&apos; position of 2&apos;-deoxyribose of the nucleotide to be analysed after its derivatisation with the fluorescent marker BODIPY. Therefore, the first section in this study focused on the synthesis of the modified 8-oxo-2&apos;-deoxyguanosine-3&apos;-monophosphate (8-oxo-dGMP) nucleotide, its characterisation with ESI-MS and its detection by CE-LIF. 8-Oxo-dGMP is used as biomarker for oxidative stress to assess the influence of oxidative stress on the methylation level. A correlation between oxidative stress (8-oxo-dGMP) and promotion of carcinogenesis was established via another biomarker, the methylation level, but further studies are necessary for verification.
+ The second part of this work was the study of the change of methylation level in response to several carcinogens either natural products such as aristolochic acid (AA) or environmental pollutants - 3-nitro-benzanthrone (3-NBA), benzo[Α]pyrene B[Α]P and 4-aminobiphenyl (4-ABP) - in either in-vivo or in-vitro studies in order to find whether there is a correlation between the methylation level and the carcinogen-adduct formation. The results showed different patterns in the methylation level according to the tested organ, confirming a specificity of the methylation level that can distinguish different tissues. The variability of the methylation level among several analysed tissues provides insight into the role of related biological factors in cancer formation via epigenetic modification.
+ Finally, a great part of this work focused on the determination of the DNA methylation level in clones of Simmental and Holstein breeds of cattle and in Simmental twins to clarify some epigenetic approaches toward cloning. Successful somatic cell nuclear transfer (SCNT) cloning is compatible with the birth of live offspring in a wide range of mammalian species; however the low overall efficiency of the technology could be related to the failure of epigenetic reprogramming. Clones that survive into adulthood, in contrast, are judged to be normal, and the epigenetic marks required for their normal development are assumed to have been retained; however, the epigenetic status of such healthy adult clones has never been investigated. CE-LIF analysis revealed that individual methylation levels of circulating white blood cells of bovine clones ranged from 4.4 % to 6.9 % with significant differences between the mean 5-meC levels of Holstein and Simmental clones (6.50 % ± 0.01 % and 5.09 % ± 0.02 %,&lt; P &lt; 0.001). In addition, in order to judge the contribution of SCNT to the variability of individual 5-meC levels, further analyses were carried out to compare Simmental clones with 12 sets of similarly aged female monozygotic Simmental twins experimentally generated from bisected fertilised embryos as well as to compare Holstein clones with the mother nuclear donor cows. The methylation level of clones is higher than the nuclear donor animals or in contemporary monozygotic twins. The absolute deviations of 5-meC values of individual SCNT clones from their genotype means were five times as high as in twins. Finally, it is concluded that global DNA methylation levels of leukocytes of healthy adult clones are in fact highly variable between individuals of the same genotype and between genotypes of different breeds that call for an in-depth analysis of genetic and epigenetic risks associated with SCNT cloning.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20091025</identifier>
+                    <identifier type="sys">HT016178117</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_812</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_812">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2009/elzeihery/dc0912.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_812"
+            DMDID="DMD_wuppertal_elpub_812">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_812"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

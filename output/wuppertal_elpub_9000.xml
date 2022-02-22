@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9000">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Climate Change Mitigation Behaviour: Theory and Empirical Analysis</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Udalov, Vladimir</displayForm>
+                        <namePart type="family">Udalov</namePart>
+                        <namePart type="given">Vladimir</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-01-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This thesis investigates different kinds of climate change mitigation behaviour, which range from a general support of environmental policy to concrete energy-saving activities in selected countries. Making use of comprehensive national and international survey data, the analysis has several objectives: It identifies possible determinants of individuals’ renewable energy support and analyses the impact of experiences with natural disasters on individuals’ choice between economic growth and environmental protection. Moreover, the focus is on the role of environmental motivations behind direct daily energy-saving behaviour. The empirical results reveal that various kinds of climate change mitigation behaviour are not only driven by a mixture of environmental and non-environmental/economic motivations but also depend on external circumstances such as natural disasters. Since CO2 emission dynamics stem to some extent from the choices people make every day in their roles as consumers, investors and citizens, the new findings presented are also quite useful from a policy perspective.</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20190128-093510-6</identifier>
+                    <identifier type="sys">HT019956934</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9000</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9000">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2018/udalov/db1805.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9000"
+            DMDID="DMD_wuppertal_elpub_9000">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9000"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

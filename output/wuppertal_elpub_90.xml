@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_90">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Klaviere und Flügel aus dem Wupperthale</title>
+                        <subTitle>Instrumentenbau in der Wupperregion und am Niederrhein während des 19.Jahrhunderts am Beispiel der Orgel- und Klavierbauerfamilie Ibach</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Speer, Florian</displayForm>
+                        <namePart type="family">Speer</namePart>
+                        <namePart type="given">Florian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2000-07-27</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">RUD. IBACH SOHN ist die älteste produzierende Klavierfabrik der Welt und wird heute von der Gründerfamilie in der siebten Generation geführt. Die Dissertation beschreibt den Weg des Unternehmens über die ersten einhundert Jahre, vom Ende des 18. bis zum Ende des 19. Jahrhunderts. Für das 19. Jahrhundert ergeben sich zwei Entwicklungsperioden: eine Zeit handwerklicher Instrumentenfertigung bis etwa 1869 und eine Zeit industrieller Produktion, die ihren Höhepunkt kurz vor dem Ersten Weltkrieg hat. Im Mittelpunkt der Untersuchung stehen vornehmlich wirtschaftsgeschichtliche, kulturgeschichtliche und genealogische Aspekte, so z.B. die Inhaberfamilie, die technische Entwicklung des Produkts, Finanzierungsfragen, Absatzprobleme und Export, Situation der Arbeitnehmerschaft, Rohstoffbeschaffung, Ausstellungswesen, den Beginn der ersten Hersteller-Verbandsorganisationen sowie künstlerisches Instrumentendesign. Besonderes Interesse verdienen die zahlreichen brieflichen Kontakte zwischen Ibach und einzelnen Komponisten und Pianisten.</abstract>
+                    <abstract type="content" lang="eng">RUD. IBACH SOHN is the oldest producing piano factory in the world and is managed by the founders family until today. The dissertation describes the way of the enterprise during the first hundred years, from the end of the 18th until the end of the 19th century. The 19th century is to classify in two evolution periods: a time of handicraft piano manufacturing until approximately 1869 and a time of industrial production that has its highest level just before World War I. Economy, cultural and genealogical aspects are central points of the investigation, as e.g. the Ibach-family, the technical evolution of the pianos, funds troubles, retail problems and export, the situation of the employees, procurement of raw material, exhibitions, the beginning of the first manufacturers associations as well as artistic instrument design. The numerous contacts between Ibach and a lot of composers and pianists are gaining particular interest.</abstract>
+                    <classification authority="ddc">900</classification>
+                    <classification authority="ddc">780</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » Geschichte"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20000317</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_90</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_90">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-285/d020002.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_90"
+            DMDID="DMD_wuppertal_elpub_90">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_90"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

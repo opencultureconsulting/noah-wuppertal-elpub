@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_7080">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Qualität naturwissenschaftlich-technischer Lernumgebungen für Kinder und Jugendliche - Die außerschulische Lernumgebung Junior Uni im Vergleich zur Schule</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schächt, Annika</displayForm>
+                        <namePart type="family">Schächt</namePart>
+                        <namePart type="given">Annika</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Ebenso wie die Unterrichtsqualität ist die Qualität von außerunterrichtlichen institutionellen Lernumgebungen bedeutsam für deren Wirksamkeit. Jedoch existieren trotz zunehmender Bedeutung dieser Lernumgebungen bislang kaum fundierte Studien zu ihrer Qualität. Um diese Forschungslücke zu reduzieren, wurde in einer explorativen Studie die Qualität der Wuppertaler Junior Uni im Vergleich zu schulischen Angeboten untersucht. In dieser außerschulischen Lernumgebung melden sich Teilnehmer zwischen vier und zwanzig Jahren interessengeleitet zu Kursen an. Durch kleine Gruppengrößen sowie einen hohen Praxisanteil und Alltagsbezug sollen Teilnehmer aller sozialen Schichten bezüglich ihrer motivationalen und kognitiven Entwicklung gefördert werden. 
+ In einem ersten Schritt wurden Qualitätsmerkmale der Junior Uni-Kurse entwickelt, indem die lernförderlichen Merkmale der Unterrichtsforschung mit empirisch ermittelten Qualitätsmerkmalen aus Sicht der Junior Uni in einem gemeinsamen Arbeitsmodell zusammengefasst wurden. Es beschreibt, inwieweit die Merkmale der Lehrperson und der Lernumgebung sowie Merkmale der Lernenden und Kontextfaktoren zu Wirkungen auf Seiten der Lernenden führen. Zur Untersuchung des Arbeitsmodells wurden Fragebögen zur Erfassung dieser Merkmale in den MINT-Kursen (Mathematik, Informatik, Naturwissenschaften und Technik) aus Sicht der 11-14-jährigen Junior Uni-Teilnehmer mithilfe von zwei Vorstudien entwickelt. 
+ Nach den Ergebnissen der anschließend durchgeführten Hauptstudie nahmen die Teilnehmer die Merkmale der Lehrperson und die Qualität der einzelnen Junior Uni-Kurse ähnlich wahr. Entsprechend den Annahmen des Arbeitsmodells hingen die Merkmale der Lehrperson positiv mit der Kursqualität sowie mediiert über die Qualität und das aktuelle Interesse mit der Entwicklung der Teilnehmer zusammen. Die Merkmale der Lehrperson und die Qualität der Junior Uni-Kurse wurden von den Lernenden unter Berücksichtigung der Gruppenzusammensetzung deutlich positiver beurteilt als die des schulischen Unterrichts, während sich die Junior Uni kaum von den schulischen AGs unterschied. Die motivationalen und emotionalen Merkmale sowie das Selbstkonzept der Junior Uni-Teilnehmer änderten sich im Mittel während und nach Ende des Kurses nicht, auch die Merkmale der Schüler erwiesen sich im Unterricht und in den AGs als stabil. Die Entwicklung des einzelnen Teilnehmers hing von der von ihm wahrgenommenen Kursqualität ab, wobei eine überdurchschnittliche Qualität zu einer positiven und eine unterdurchschnittliche Qualität zu einer negativen Entwicklung führten. Als besonders förderliche Merkmale für die Entwicklung erwiesen sich die kognitive Aktivierung, die Authentizität der Inhalte und das aktuelle Interesse.</abstract>
+                    <subject>
+                        <topic>School of Education/Institut für Bildungsforschung » Dissertationen</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170706-095711-9</identifier>
+                    <identifier type="sys">HT019395218</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_7080</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_7080">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/se/diss2017/schaecht/se1701.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_7080"
+            DMDID="DMD_wuppertal_elpub_7080">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_7080"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

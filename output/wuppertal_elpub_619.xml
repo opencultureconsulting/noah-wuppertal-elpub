@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_619">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Grundlagen zur Auslöschung von Schallfeldern durch Antischall unter Verwendung eines zweidimensionalen Ansatzes</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Trimpop, Mattias</displayForm>
+                        <namePart type="family">Trimpop</namePart>
+                        <namePart type="given">Mattias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003-06-25</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In dieser Arbeit wird ein Antischallsystem nach dem Feedforward-Verfahren vorgestellt. Es wird konsequent aus dem Kirchhoffschen Integral entwickelt, untersucht und ist für den Echtzeitbetrieb implementiert.
+ Zahlreiche Untersuchungen zur Messtechnik und zur Realisierbarkeit der numerischen Umsetzung sind im Rahmen dieser Arbeit erbracht worden. Zur Auslegung, Optimierung und Prüfung des Systems wurde ein Simulationsprogramm erstellt, mit dessen Hilfe bereits im Vorfeld eine technische Realisation anhand aussagekräftiger Kriterien geplant werden kann. Die Simulationen zeigen, dass die von außen in einen definierten Feldbereich einfallenden Schallfelder, auch Primärfelder genannt, mit diesem System hinreichend im Sinne der Zielsetzung minimiert werden können. Neben stationären Primärfeldern können auch sowohl zeitlich als auch örtlich instationäre Geräusche gedämpft werden.
+ Dieses stellt einen Fortschritt im Vergleich zu den üblichen Systemen dar, die auf einen kleinen räumlichen Bereich oder spektral begrenzt sind oder nur für stationäre Geräusche ausgelegt sind.
+ Es wurden Methoden zur Bestimmung des minimal nötigen Aufwandes entwickelt und untersucht, wie bei gegebener Feldgröße eine gewünschte Dämpfung erreicht werden kann.
+ Für die häufig vorkommende Situation eines dreidimensionalen Schallfeldes, das in der Höhe (nahezu) konstant ist wurde gezeigt, dass die für die Antischallquellen (Sekundärquellen) theoretisch anzusetzenden Linienquellen in der Praxis in hinreichender Näherung durch Punktquellen ersetzt werden können.
+ Im Hinblick auf die Realisierung mittels digitaler Signalprozessorsysteme wurde der Algorithmus auf mögliche Serialisierungen und Parallelisierungen hin untersucht. Es wurde gezeigt, dass je nach Anzahl der Sekundärquellen der Algorithmus unterteilt werden kann, um die Rechenlast auf mehrere Prozessoren verteilen zu können. Die Aufteilung kann sich dabei ganz nach der verfügbaren Struktur der Rechenkapazität richten.
+ Praktische Untersuchungen im Experiment haben nicht nur gezeigt, dass sich die Ergebnisse der Simulation praktisch umsetzen lassen, sondern auch, dass ein PC-System mit aktuell üblicher Rechenleistung in der Lage ist, den Antischallalgorithmus für Konfigurationen bis etwa 16 Sekundärquellen in Echtzeit auszuführen. Die aufgezeigten Grenzen des Systems sind im Wesentlichen bedingt durch die Grenzen z. Z. handelsüblicher Hardware. Diese Grenzen werden sich zusammen mit der allgemeinen Weiterentwicklung der Hardware erweitern und den praktischen Einsatz dieses Antischallsystems weiter begünstigen. 
+ Eine abschließende psychoakustische Betrachtung des Systems zeigt, dass bei einer Optimierung nicht allein die physikalischen Zusammenhänge, sondern auch die Eigenschaften des menschlichen Gehörsinns beachtet werden sollten. Erst der Einbezug von psychoakustischen Messgrößen wie der A-bewertete Schalldruckpegel oder der Lautheit führen dem eigentlichen Ziel dieser Arbeit näher, dem Menschen eine &quot;Zone der Ruhe&quot; zu verschaffen.</abstract>
+                    <abstract type="content" lang="eng">This work presents an active noise system using the feedforward method. It is based on the Kirchhoff integral. The system is developed and implemented to be used in real time applications.
+ Many examinations are done for the measurement techniques and for the realisation of the numerical implementation. A simulation program is developed to evaluate, optimise and check the system. With this program the realisation of this system can be planned by meaningful values. Simulations show that the incoming sound waves in a defined area (primary fields) are minimised in a sufficient way. Not only stationary primary fields but also time- and local non stationary fields are attenuated.
+ So, this system yields a progress in comparison with the usual active noise systems, which are limited to a small area, on a small frequency range or on stationary fields.
+ Methods to determine the minimum requirements are developed. These methods are used to examine, how a wanted attenuation to a given area can be archived. It is shown that for the common situation of a three dimensional sound field that is nearly constant in height, the theoretical needed line sources (secondary sources) can be replaced by point sources in a sufficient manner.
+ The algorithm is examined with respect on the realisation by digital signal processor systems on possible serialisations and parallelisations. It is shown that the algorithm can be divided to share the needed calculation power on more than one processor. This depends on the number of secondary sources. The sharing process can be easily adapted to the structure of the given hardware.
+ Practical experiments show that the simulation results can be realised in real life. Personal computers with actual usual calculation power are able to calculate this algorithm in real time for up to 16 secondary sources. The found limitations of the active noise system are mainly given by the limitations of the actual available hardware. The common technical progress will widen these limitations in the future and will favour this system thereby.
+ A concluding psycho acoustical examination of the system shows that the optimisation process should not only be done on physical aspects but also on the properties of the human ear. Only to include psycho acoustical values like the A-weighted levels or the loudness leads to the goal of this work: to supply people with an area of silence.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20030249</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_619</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_619">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-715/d130301.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_619"
+            DMDID="DMD_wuppertal_elpub_619">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_619"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

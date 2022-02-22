@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_2700">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>All-Conjugated Diblock Copolyelectrolytes</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gutacker, Andrea</displayForm>
+                        <namePart type="family">Gutacker</namePart>
+                        <namePart type="given">Andrea</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Within this thesis, new all-conjugated, cationic diblock copolyelectrolytes, based on polyfluorene and polythiophene blocks, have been successfully synthesized. Their photophysical properties and aggregation behavior have been studied in solution and in the solid state. Especially PF2/6-b-P3MAHT shows a significant solvatochromatic effect in THF/water mixtures. Bilayer-based vesicles (polymersomes) with diameters of several microns have been observed for PF2/6-b-P3PyHT and PF2/6-b-P3TMAHT diblock copolymers. Using solvents of different polarity (THF versus methanol) leads to a tunable self-assembly for PF6NBr-b-PFO with a different arrangement of the components within the vesicle walls. Because of the resulting control on the formed nano-scaled arrangement CPEs are also promising materials for an incorporation into optoelectronic devices. The application of P3TMAHT and PF2/6-b-P3TMAHT as thin electron extraction layers of BHJ-type organic solar cells leads to an increase of the PCE from ca. 5.3 to ca. 6.5%. Further on, PF6NBr-b- PFO has been used as thin electron injection layer of OLEDs. Such CPEs are promising candidates for improving the electron injection into the organic layers of OLEDs. 
+
+Furthermore, ionic surfactants, organic acids or biomolecules as DNA lead to a selective quenching and/or a characteristic red shift of the polythiophene-based emission band of PF2/6-b-P3TMAHT in due to a conformational re-organization. In this perspective PF2/6-b- P3TMAHT seems to be a very attractive material for sensors/biosensor applications.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20120403-101217-5</identifier>
+                    <identifier type="sys">HT017196434</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_2700</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_2700">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-2847/dc1125.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_2700"
+            DMDID="DMD_wuppertal_elpub_2700">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_2700"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_267">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Analytische Beiträge zum Raum-Zeit-Chaos: von gekoppelten Abbildungen zum Isingmodell</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schmüser, Frank</displayForm>
+                        <namePart type="family">Schmüser</namePart>
+                        <namePart type="given">Frank</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1999-10-29</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Diese Arbeit ist ein Beitrag zum Verständnis hochdimensionaler chaotischer Dynamik bzw. des Raum-Zeit-Chaos. Auf diesem Gebiet, in dem die Wechselwirkung vieler Freiheitsgrade untersucht wird, kommen Konzepte der Nichtlinearen Dynamik und der Statistischen Mechanik zur Anwendung. Es gibt hier noch viel Unverstandenes, da erfolgreiche Begriffe für niedrigdimensionale Systeme bzw. für Systeme im Gleichgewicht oft nicht mehr anwendbar sind. Coupled Map Lattices (CMLs) sind Modellsysteme für hochdimensionale chaotische Dynamik, die Ende der 80er Jahre eingeführt wurden. Dabei werden viele chaotische Abbildungen auf einem Gitter gekoppelt. Im Gegensatz zu vielen existierenden numerischen Untersuchungen wird in dieser Arbeit ein analytischer Zugang verfolgt, nämlich eine Störungstheorie um ein exakt lösbares Modell herum. Das hier studierte CML Tε, δ ist konstruiert in Analogie zum Miller-Huse-Modell, das einen kontinuierlichen Phasenübergang auf einem zweidimensionalen Gitter zeigt. Das CML Tε, δ ist auf einem eindimensionalen Gitter definiert und hängt von zwei Parametern ab, der Deformation δ der chaotischen Abbildung und der Kopplung ε zwischen den Abbildungen. Die Störungstheorie ist eine gültige Beschreibung, solange ε, δ &lt;&lt; 1 . Die CML-Dynamik wird durch ein Wechselspiel der beiden Parameter bestimmt. Ich erhalte vier Regionen des Parameterraums mit unterschiedlicher ergodischer Dynamik. Die Zahl und Größe der koexistierenden Attraktoren variiert beträchtlich zwischen den Regionen. Die Bifurkationslinien des CMLs können analytisch berechnet werden. Durch ein Coarse graining erhält man eine statistische Perspektive auf das CML Tε, δ . Auf dieser Ebene erhalte ich eine stochastische Spindynamik, für die ich eine Mastergleichung ableiten kann. Es gibt drei Arten von Spinflips mit unterschiedlichen Übergangswahrscheinlichkeiten. Das CML ist auf der coarse grained Ebene ein kinetisches Isingmodell, wobei die Kopplung antiferromagnetisch oder ferromagnetisch sein kann. Wegen dieses Zusammenhangs mit dem Isingmodell kann dem CML auch eine Temperatur zugeordnet werden. Einige Eigenschaften des CMLs werden durch die Beziehung zu den wohlbekannten kinetisches Isingmodell erhellt. Insbesondere kann die transiente Dynamik des CMLs als ein Relaxationsprozeß zum antiferromagnetischen Grundzustand des Isingmodells verstanden werden.</abstract>
+                    <abstract type="content" lang="eng">This work is a contribution to the field of high dimensional chaos, in particular spatio-temporal chaos. An interplay between concepts from nonlinear dynamics and statistical mechanics is natural in an area in which the dynamics of many interacting degrees of freedom is studied. This area poses still many challenges for our understanding, since successful concepts from low dimensional dynamical systems or equilibrium statistical mechanics are often not applicable any more. Coupled map lattices (CMLs) are model systems for high dimensional chaotic dynamcis that have been introduced in the 80s. In these systems many chaotic maps are coupled on a lattice. In contrast to many mainly numerical studies of CMLs, I here pursue an analytical approach, namely a perturbation theory in the near of an exactly solvable CML. The CML Tε, δ which is studied in this work is inspired by the Miller Huse CML that shows a continuous phase transition on a two dimensional lattice. The CML Tε, δ which is defined on a one dimensional lattice depends on two parameters, the deformation δ of the map on each lattice site and the coupling e between neighbouring maps. Perturbation theory is valid, if ε δ &lt;&lt; 1 . The dynamics of the CML is determined by an interplay between the two parameters. I find four regions in the (ε, δ) plane with different ergodic behaviour of the CML. The number and size of the coexisting attractors differ considerably in these various regions. In chapter 3 and 4 most calculational effort is spent on the determination of the bifurcation lines between the four phases. A statistical perspective on the CML Tε, δ is gained by a coarse graining procedure. At this description level the CML becomes a stochastic dynamics of spin chains. I can derive a master equation for this spin dynamics. There are three types of spin flips with different transition probabilities in perturbation theory. I can show that the CML is a kinetic (one dimensional) Ising model on the coarse grained level. Depending on the parameters ε and δ the coupling in the Ising Hamiltonian is ferromagnetic or anti-ferromagnetic. One can also attribute a temperature to the CML by this correspondence to the Ising model. It is possible to understand various properties of the CML by referring to the known behaviour of kinetic Ising models. Particularly, transients in the CML Tε, δ can be understood as relaxation processes to the anti-ferromagnetic ground state of the Ising model.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-19990181</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_267</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_267">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-361/d089904.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_267"
+            DMDID="DMD_wuppertal_elpub_267">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_267"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

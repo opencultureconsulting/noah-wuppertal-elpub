@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1749">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Scanning field emission investigations of structured CNT and MNW cathodes, niobium surfaces and photocathodes</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Navitski, Aliaksandr</displayForm>
+                        <namePart type="family">Navitski</namePart>
+                        <namePart type="given">Aliaksandr</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Scanning field emission (FE) investigations of structured carbon nanotube (CNT) and metallic nanowire (MNW) cathodes, niobium surfaces and photocathodes are reported in this thesis. A novel scanning anode FE microscope (SAFEM) has been developed within this doctoral work. The microscope will be a part of the systematic quality control of freshly prepared photocathodes at DESY. It is designed to achieve dc surface fields of at least 200 MV/m and provides the localization of field emitters with a spatial resolution of about 1 µm. Design, control software, assembly and actual status of the microscope will be presented. 
+Varying arrays of CNT columns and blocks were fabricated by two different chemical vapor deposition (CVD) methods. The properties of the structured cathodes were measured by FE scanning (FESM) and scanning electron (SEM) microscopy. Well-aligned FE from nearly 100% of the patches at electric field &lt;10 V/µm was observed. High current capabilities of the columns up to mA and stable currents up to 300 (100) µA for pure (TiO₂ coated) CNT blocks, were achieved. Integral FE measurements with luminescence screen (IMLS) and processing under N₂ and O₂ exposures of up to 3×10-5 mbar demonstrated rather homogeneous current distribution and long-term stability of the CNT cathodes. 
+The cathodes containing regular patch arrays of random metallic nanostructures, as an interesting alternative to the CNT, were fabricated by an electrochemical deposition of Au and Pt nanowires (NW) in ion track-etched templates and were systematically investigated with the SEM and FESM. FE with about 90% efficiency was achieved. The current carrying capability of individual patches, however, strongly varied between 40 nA and 90 µA. Actual current limits are caused by heating and successive destruction of NW. Electro-thermal model calculations and the SEM images reveal geometrical constrictions in NW contact region as a reason for the observed current limitations. 
+Systematic measurements of the surface roughness and local defects on high purity Nb samples by means of optical profilometry, atomic force microscopy and SEM, as well as their contribution to FE as measured by FESM and derived geometrically are reported. Particulates and scratches were identified as potentially stronger field emitters than grain boundaries, round hills and holes. It was shown that the defects with electric field enhancement factor ßE ≥ 50 for XFEL and ßE ≥ 20 for ILC should be completely avoided for successful suppression of a parasitic FE load. Many large pits with crater-like centers and sharp rims found on the surface of real cavities as well as the hills and holes hint for problems with chemical surfaces treatments. They do not cause enhanced FE but have to be considered as sources of quenches and magnetic field limitations.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20101222-111353-7</identifier>
+                    <identifier type="sys">HT016648000</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1749</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1749">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2010/navitski/dc1021.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1749"
+            DMDID="DMD_wuppertal_elpub_1749">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1749"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

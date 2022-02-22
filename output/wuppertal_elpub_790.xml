@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_790">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>myo-Inositolpentakisphosphat-(3/5)-Kinase in Dictyostelium discoideum</title>
+                        <subTitle>Sequenzierung, Generierung von Mutanten und mögliche physiologische Funktionen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mbonjo, Anne-Brigitte</displayForm>
+                        <namePart type="family">Mbonjo</namePart>
+                        <namePart type="given">Anne-Brigitte</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-12-10</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Inositolpentakisphosphat-(3/5)-Kinase (InsP-(3/5)-Kinase) katalysiert die Umsetzung von Ins(1,2,4,5,6)P₅ und Ins(1,2,3,4,6)P₅ in Inositolhexakisphosphat (InsP₆). Die physiologische Bedeutung dieser energieverbrauchenden Reaktion sowie die des in den Dictyostelium discoideum-Zellen am häufigsten vorkommenden Inositolphosphates InsP₆ ist weitgehend unbekannt. In anderen Organismen wird InsP₆ mit verschiedenen zellulären Prozessen, wie z.B. der Endozytose und dem mRNA-Export aus dem Zellkern in Verbindung gebracht. Des Weiteren gibt es Hinweise, dass InsP₆ in die Steuerung apoptotischer Prozesse und die Regulation der Zellproliferation involviert ist.
+ In der vorliegenden Arbeit wurde die InsP₅-(3/5)-Kinase in D. discoideum bis zur Homogenität gereinigt. Nach der de novo Sequenzierung mittels ESI-MS/MS wurde das kodierende Gen durch Sequenzvergleiche identifiziert. Das Enzym zeigt Ähnlichkeiten zu bekannten Inositolphosphatkinasen der PDKG-Familie.
+ Um Kenntnisse über die Regulation und Funktion von InsP₆ in D. discoideum zu erhalten, wurden InsP₅-(3/5)-Kinase Mutanten über Antisense-Mutagenese generiert. Im Gegensatz zum Wildtyp wachsen die Mutanten nur in Medien mit einem Zusatz an InsP₆, allerdings mit einer geringeren Wachstumsrate im Vergleich zum Wildtyp. In Abwesenheit von InsP₆ verlieren die Mutanten kontinuierlich ihre Adhäsivität auf hydrophilen Polystyrol-Oberfächen, runden sich ab und stellen das Wachstum ein. Die Untersuchung ihres Metabolit-Spektrums zeigte entgegen den Erwartungen keine Veränderung der intrazellulären InsP₆-Konzentration beim InsP₆-Entzug. Dagegen wurde eine Abnahme der intrazellulären Konzentrationen der aus der InsP₅-(3/5)-Kinase-Rückreaktion stammenden InsP₅-Isomere beobachtet. Die InsP₅-(3/5)-Kinase ist vermutlich an der für das Wachstum offensichtlich essentiellen Aufrechterhaltung der Konzentrationen von InsP₅ und InsP₆ in D.discoideum beteiligt.
+ Beim InsP₆-Zusatz zum Medium treten die zuvor erwähnten phänotypischen Veränderungen und Auswirkungen auf das Metabolitspektrum der Mutanten nicht in Erscheinung.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20070909</identifier>
+                    <identifier type="sys">HT015384933</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_790</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_790">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2007/mbonjo/dc0717.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_790"
+            DMDID="DMD_wuppertal_elpub_790">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_790"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_206">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Historische Grabdenkmäler der Wupperregion - dokumentiert und analysiert vor dem Hintergrund der Entwicklung der Sepulkralkultur</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Meis, Mona Sabine</displayForm>
+                        <namePart type="family">Meis</namePart>
+                        <namePart type="given">Mona Sabine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003-03-12</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In der Epoche der Frühindustrialisierung bis zur Zeit nach dem ersten Weltkrieg entstand eine eigenständige Sepulkralkultur, die sich – abhängig von den wirtschaftlichen , politischen, religiösen und technischen Bedingungen jenes Zeitraums – weder vorher noch nachher in dieser Form hätte entwickeln können. Die vorliegende Arbeit dokumentiert und analysiert den Bestand der erhaltenen Grabdenkmäler aus dieser Zeit, ergänzt um die wenigen noch vorhandenen barocken Exemplare, am Beispiel von Friedhöfen der Wupperregion. In der für die Studie relevanten Zeit war die Wupperregion mit den Kernstädten Elberfeld und Barmen das wichtigste Zentrum der Frühindustrialisierung in Deutschland. Gleichzeitig zeichnet sich diese Region durch eine große Vielfalt ideologischer und religiöser Strömungen aus, die sich u.a. in der Anzahl von 55 Bestattungsorten auf dem heutigen Wuppertaler Stadtgebiet niederschlägt.Sie umfasst evangelische, katholische, freikirchliche, jüdische und kommunale Friedhöfe. Diese Vielzahl stellt in Deutschland eine Besonderheit dar. Die Dokumentation und Analyse der knapp tausend noch erhaltenen Grabdenkmäler sichert einen bisher von der Forschung kaum thematisierten Aspekt der Geschichte der Wupperregion. 
+Für die Dokumentation und Analyse der Grabmäler wurden sämtliche Friedhöfe und Bestattungsorte der Wupperregion gesichtet und die etwa 850 noch erhaltenen historischen Grabdenkmäler auf dem heutigen Wuppertaler Stadtgebiet erfasst, die einen gestalterischen Anspruch haben und im Sinne des Denkmalschutzes von Interesse sein können. 
+Die ältesten erhaltenen Grabmäler reichen ins 17. Jahrhundert zurück, einige weitere entstammen dem 18. Jahrhundert. Die Mehrzahl der Denkmäler wurde im 19. und frühen 20. Jahrhundert gefertigt. Exemplarisch einbezogen wurden darüberhinaus Grabmaltypen bestimmter Funktionen, z.B. Ehrengräber, Kriegsgräber und Grabstätten für Zwangsarbeiter. 
+Ein kulturgeschichtlicher Überblick über die Entwicklung der Sepulkralkultur wurde der Studie als historische Folie vorangestellt. 
+Bei der Kategorisierung der Grabdenkmäler wird ihre Entwicklung aus historischen Formbeständen der Sepulkralkultur dargestellt und beispielhaft ihre Tradierung aus der Antike bis ins frühe 20. Jahrhundert belegt. An ausgewählten Beispielen wird der Funktionswandel, auch in paradigmatischer Hinsicht, aufgezeigt. 
+Ein Register mit Namen und Daten zu Architekten, Steinmetzen und Bildhauern, die an der Fertigung beteiligt waren, beschließt die Untersuchung.</abstract>
+                    <classification authority="ddc">700</classification>
+                    <classification authority="ddc">390</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Design und Kunst » Kunst"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20030108</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_206</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_206">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-308/d050203.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_206"
+            DMDID="DMD_wuppertal_elpub_206">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_206"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

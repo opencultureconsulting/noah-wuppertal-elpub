@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_903">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entwurf und Implementation eines Expertensystems für das Detektorkontrollsystem des ATLAS-Pixeldetektors</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Henss, Tobias</displayForm>
+                        <namePart type="family">Henss</namePart>
+                        <namePart type="given">Tobias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-02-04</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Diese Arbeit beschreibt den Entwurf und die Implementation eines Expertensystems für das Detektorkontrollsystem des Pixeldetektors des ATLAS-Experiments am europäischen Teilchenphysik-Forschungszentrum CERN. 
+Das ATLAS-Experiment ist eines von vier großen Experimenten, die am Large Hadron Collider betrieben werden und besteht seinerseits aus mehreren Teilchendetektoren. Der innerste dieser Subdetektoren ist der ATLAS-Pixeldetektor, dessen mehr als 30000 Betriebsparameter hohe Anforderungen an die Hard- und Software des Detektorkontrollsystems stellen. 
+Um das Betriebspersonal während des regulären Schichtbetriebs des Detektors zu unterstützen, wurde im Rahmen dieser Arbeit ein Expertensystem für das Detektorkontrollsystem entwickelt, das dem Nutzer Anweisungen zur Behebung auftretender Detektorprobleme liefert. 
+Um die vorhandene Wissensbasis der menschlichen Detektorexperten möglichst präzise auf das Expertensystem abbilden zu können, wurde ein regelbasiertes und leicht anpassbares System entworfen. Die Nutzung des DIM-Protokolls erlaubt zudem die Möglichkeit eines Einsatzes für andere Detektoren oder das Datennahmesystem. 
+Ein besonderes Augenmerk lag auf der Auswahl und Evaluation geeigneter Software-Hilfsmittel, wie etwa der Expertensystem-Shell JBoss Rules, sowie der zu verwendenden Regelsyntax. Weiterhin spielte die Entwicklung einer leistungsfähigen graphischen Benutzeroberfläche und einer Client-Server-Architektur eine wichtige Rolle bei der Realisation des Expertensystems.</abstract>
+                    <abstract type="content" lang="eng">This thesis describes the design and implementation of an Expert System for the Detector Control System of the ATLAS Pixel Detector at the European center for particle physics, CERN. 
+The ATLAS-Experiment is one of four big experiments installed at the Large Hadron Collider and is itself composed of multiple particle detectors. The innermost of these sub-detectors is the ATLAS Pixel detector, whose more than 30000 operating parameters impose high requirements on the hard- and software of the Detector Control System. 
+In order to support the shift personnel during regular detector operation, an Expert System for the Detector Control System, which provides troubleshooting instructions, was developed within the scope of this work. 
+To allow for a precise mapping of the available human experts knowledge to the Expert System, a rule based and easily adaptable system was designed. The use of the DIM protocol furthermore enables the adoption for other detectors or the data acquisition system. 
+Special emphasis was put on the choice and evaluation of suitable software tools, like the JBoss Rules Expert System shell and the rule syntax to be used. Beyond that, the development of a powerful graphical user interface and a Client-Server architecture were cornerstones in the realisation of the Expert System.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20090057</identifier>
+                    <identifier type="sys">HT015829913</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_903</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_903">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2008/henss/dc0826.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_903"
+            DMDID="DMD_wuppertal_elpub_903">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_903"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

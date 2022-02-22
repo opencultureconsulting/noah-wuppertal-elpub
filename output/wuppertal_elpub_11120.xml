@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_11120">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Beiträge zur Entwicklung numerischer Verfahren zur Simulation der Exposition von Menschen gegenüber elektromagnetischen Feldern</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Zang, Martin</displayForm>
+                        <namePart type="family">Zang</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Clemens, Markus</displayForm>
+                        <namePart type="family">Clemens</namePart>
+                        <namePart type="given">Markus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-11-19</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Bei der Exposition von Personen durch elektromagnetische Felder verschiedener technischer Quellen können Wechselwirkungen der Felder mit dem biologischen Gewebe erfolgen, die zu gesundheitlichen Schädigungen führen können. Im Rahmen der Forschungsarbeiten innerhalb dieser Dissertation wurden vier numerische, computergestützte Rechenverfahren entwickelt, mit denen die Exposition von Menschen gegenüber niederfrequenten (NF) Magnetfeldern, hochfrequenten (HF) elektromagnetischen Antennenfeldern sowie Feldern mit Frequenzen im THz-Frequenzbereich bestimmt werden kann. Die Entwicklung dieser Verfahren war durch verschiedene realistische Expositionsszenarien motiviert: Körperexpositionen durch NF-Felder induktiver Ladesysteme von (hybrid-)elektrischen Fahrzeugen, Expositionen durch HF-Felder fahrzeuggebundener Antennen sowie durch Strahlungsfelder im THz-Frequenzbereich in Sicherheitsscannern. Die Bestimmung der Exposition mit den entwickelten Verfahren zielt auf die Expositionsbewertung hinsichtlich von der International Commission on Non-Ionizing Radiation Protection (ICNIRP) empfohlener Grenzwerte hin, deren Einhaltung wissenschaftlich anerkannte schädliche Wirkungen verhindern soll.
+ In der Dissertationsschrift werden die zuvor erwähnten Simulationsverfahren für die elektromagnetische Körperexposition beschrieben. Für die Expositionssimulationen benötigte numerische Modelle der Gewebeverteilungen im menschlichen Körper (Ganzkörpermodelle für Simulationen im NF- und HF-Frequenzbereich, ein Teilkörper-Modell der Haut für Simulationen im THz-Frequenzbereich) werden präsentiert. Für Simulationen mancher Expositionsszenarien ist die Verfügbarkeit von Ganzkörpermodellen mit unterschiedlichen Körperhaltungen erforderlich. Es wird zusätzlich ein Verfahren vorgestellt, mit dem aus einem Referenz-Körpermodell einer stehenden Person Ganzkörpermodelle mit verschiedenen Körperhaltungen generiert werden können. Für jeden der betrachteten Frequenzbereiche werden unter Verwendung der gezeigten numerischen Verfahren berechnete Expositionen in realistischen Szenarien präsentiert und hinsichtlich der ICNIRP-Grenzwerte bewertet.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20201119-104056-8</identifier>
+                    <identifier type="doi">10.25926/ygrp-xf34</identifier>
+                    <identifier type="sys">HT020668998</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_11120</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_11120">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2020/zang/de2007.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_11120"
+            DMDID="DMD_wuppertal_elpub_11120">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_11120"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

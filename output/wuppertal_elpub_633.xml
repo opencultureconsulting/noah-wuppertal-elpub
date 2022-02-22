@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_633">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Chlorabsorption an fallenden Tropfen und Übertragung auf Wasservorhänge</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Engelhardt, Frank</displayForm>
+                        <namePart type="family">Engelhardt</namePart>
+                        <namePart type="given">Frank</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002-12-04</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Zur Minderung der Auswirkungen bei Stoerfallfreisetzungen von gefaehrlichen Schwergasen koennen Wasservorhaenge eingesetzt werden. Meist wird deren dynamischer Effekt - die Impulsuebertragung des Wassers auf die Gasphase - ausgenutzt, der eine Senkung der Konzentration bewirkt. Innerhalb der vorliegenden Arbeit steht der physiko-chemische Effekt der Absorption des freigesetzten Gases durch die verspruehte Fluessigkeit im Vordergrund. Dieser wird am Beispiel von Chlor untersucht. Die Absorption des Chlors fuehrt zu einer Reduzierung dessen Menge in der Gasphase und somit zur Minderung der Konzentration jenseits des Wasservorhangs. Bei Verspruehen reinen Wassers ist die Absorption nur schwach ausgepraegt. Der Einsatz von geeigneten Zusatzstoffen soll durch chemische Umsetzungen die Absorption wesentlich verstaerken. Die Experimente zur Absorption koennen nicht grossskalig durchgefuehrt werden, da zum einen Chlor sehr giftig ist und zum anderen sich eine Abgrenzung der einzelnen auftretenden Effekte nicht realisieren laesst. Deshalb erfolgen die Versuche mit fallenden Einzeltropfen in einem speziell entwickelten Absorptionsrohr, wobei nach den Parametern Chlorkonzentration, Tropfengroesse, Fallhoehe und Zusatzstoffe unterschieden wird. Die Ergebnisse werden unter Verwendung theoretischer und empirischer Ansaetze der Stoffuebertragung auf den Wasservorhang uebertragen. Fuer abwaertsgerichtete Wasservorhaenge ist, aufgrund der kurzen Kontaktzeit zwischen verspruehter Fluessigkeit und chlorhaltiger Gasphase, die Absorption nur sehr schwach ausgepraegt. Da bei aufwaertsgerichteten Wasservorhaengen die Kontaktzeit laenger ist, wird deutlich mehr Chlor absorbiert. In diesem Fall kann der Einsatz dotierter Wasservorhaenge (vorzugsweise Natriumthiosulfat) erheblich zur Senkung der Chlorkonzentration beitragen. Die hoechsten Absorptionsstroeme koennen bei Freisetzung in stark bebautem Gelaende auftreten, wenn es zu einer Eindaemmung der Chlorwolke und somit zur Ausbildung hoher Chlorkonzentrationen kommt.</abstract>
+                    <abstract type="content" lang="eng">Water Curtains are often used to mitigate the hazardous effects due to a release of Heavy Gases. In general their dynamical effect - the momentum transfer from the water to the gaseous phase - is considered leading to a decreasing concentration. In this study the physico-chemical effect of absorption of the released gas by the sprayed liquid is investigated at the example of chlorine. The absorption of the chlorine leads to a reduction of its amount in the gaseous phase and therefor mitigates the concentration behind the water curtain. Spraying pure water the absorption effect is low. This is why the absorption shall be enhanced by chemical reactions through use of additives to the water. The absorption experiments can&apos;t be carried out on a large scale because of the toxicity of chlorine. Furthermore a separation of the different occurring effects is not possible. This is the reason for the experiments being carried out with single falling drops in a special absorption tube, investigating the influences of chlorine concentration, drop size, falling height and chemical additives. The experimental results have been transferred to the absorption in water curtains using theoretical and empirical methods of mass transfer. For water curtains directed downwards the absorption is very poor because of the short contact time between the sprayed liquid and the chlorine gas. However the contact time is increased for upwards directed water curtains. Thus significantly more chlorine is absorbed. In this case the use of water curtains with chemical additives (sodium thiosulfate preferred) contributes significantly to a decrease in the concentration of chlorine. The highest absorption rates can occur in the case of a release in a heavily built-up area, when the chlorine is retained by the buildings, forming a high concentration.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Maschinenbau und Sicherheitstechnik » Sicherheitstechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20020439</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_633</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_633">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-729/d140201.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_633"
+            DMDID="DMD_wuppertal_elpub_633">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_633"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

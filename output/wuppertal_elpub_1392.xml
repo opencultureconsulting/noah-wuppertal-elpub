@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1392">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Sportförderunterricht in der Sekundarstufe I</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Cwierdzinski, Petra</displayForm>
+                        <namePart type="family">Cwierdzinski</namePart>
+                        <namePart type="given">Petra</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Der Sportförderunterricht (SFU) ist eine zusätzliche unterrichtliche Veranstaltung für Schülerinnen und Schüler aller Schulformen und Jahrgangsstufen, die unter gesundheitlichen Aspekten Förderbedarf aufweisen. Obwohl in den letzten Jahren immer wieder Klagen über den vermeintlich schlechten Gesundheitszustand von Kindern und Jugendlichen zu hören sind, wird in diesem Zusammenhang der SFU nicht thematisiert. Für den Bereich der Sekundarstufe I (Klassen 5-10) scheint der SFU überhaupt nicht zu existieren. Bislang gab es keine fachwissenschaftlichen Ausführungen zum Thema SFU in dieser Schulstufe. Ziel der Arbeit war es, das Feld SFU in der Sekundarstufe I zu beleuchten und Probleme sowie Chancen zu benennen. 
+Dazu wurden in einem ersten Untersuchungsschritt die Entstehungsgeschichte des SFU betrachtet sowie die Fachliteratur, institutionelle Vorgaben und sportpädagogische Konzepte. Es wurde ersichtlich, dass der SFU eine sehr traditionsreiche Maßnahme ist, die eine wertvolle Ergänzung zum Sportunterricht von Schülerinnen und Schülern der Sekundarstufe I sein könnte. Aus den Ergebnissen einer Befragung von Schulen im Bergischen Land wurde deutlich, dass SFU in der Sekundarstufe I bisher kaum erteilt wird. Es konnten Gründe benannt werden, die die Erteilung des SFU erschweren. Da der SFU zu Unrecht in Vergessenheit geraten ist, wurden Strategien entwickelt, die seine Einführung trotz bestehender Hindernisse ermöglichen können.</abstract>
+                    <abstract type="content" lang="eng">Sportförderunterricht (SFU) - a kind of remedial/special physical eduction - is an additional educational activity targeted at students in all school forms and grades, whose state of health suggests a need for special aid with their physical development. Despite continuous public concerns in recent years about the alleged poor state of children&apos;s and teenagers&apos; health, the benefits of SFU have not been thematised or discussed constructively within the wider health context. Indeed, for secondary schools (school grades 5-10) SFU seems none existent. Up to the present, there has been no study of SFU in secondary schools as an academic topic. The aims of this work have been to shed light on the topic of SFU in secondary schools, to set out problems and to explore development opportunities. 
+The first part of the work examined the historic development of SFU as well as the academic literature, institutional specifications and sport pedagogical concepts. It was concluded that SFU has a long and varied tradition and could be a valueable addition to regular physical education for students at secondary schools. Results from interviews conducted at secondary schools in the Bergische Land region further established that SFU is currently rarely made available at secondary schools. Reasons that explain this restricted availability of SFU were set out in detail. As SFU has been unduly neglected, the work was concluded by developing strategies to introduce SFU and overcome existing obstacles.</abstract>
+                    <classification authority="ddc">370</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Human- und Sozialwissenschaften » Sportwissenschaft"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20100056</identifier>
+                    <identifier type="sys">HT016231407</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1392</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1392">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1489/dg0809.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1392"
+            DMDID="DMD_wuppertal_elpub_1392">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1392"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

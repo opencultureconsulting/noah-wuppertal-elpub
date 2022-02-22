@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_902">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchung statischer Korrelationen anisotroper Heisenberg-Spinketten</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hasenclever, Nils Peter</displayForm>
+                        <namePart type="family">Hasenclever</namePart>
+                        <namePart type="given">Nils Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-11-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Im Zentrum dieser Arbeit steht die Berechnung von Korrelationsfunktionen der XXZ-Heisenberg-Spinkette. Zu Beginn wird eine Integraldarstellung für die Dichtematrix eines Teilstücks der endlichen Kette hergeleitet, die dann im isotropen Grenzfall (XXX-Limes) für kurze Teilstücke zunächst faktorisiert und dann numerisch ausgewertet wird. Der zweite Teil dieser Arbeit beschäftigt sich mit der Berechnung der Asymptotik der Korrelationsfunktionen bei endlichen Temperaturen mit Hilfe der Formfaktorentwicklung nach Eigenzuständen der Quantentransfermatrix. Hier werden analytische Ergebnisse im Limes freier Fermionen erzielt und numerisch untersucht.</abstract>
+                    <abstract type="content" lang="eng">In this work correlation functions of the XXZ-Heisenberg spin chain are calculated. In the beginning an integral representation for the density matrix of a finite subchain of the entire chain is derived, which can be factorised for short subchains in the isotropic case (XXX-limit) and so allows for numerical investigation. The second part of this work deals with the calculation of the asymptotics of correlation functions at finite temperature using the form factor expansion in terms of eigenstates of the quantum transfer matrix. Here analytic results in the free fermion limit are attained and nummerically analysed.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20080562</identifier>
+                    <identifier type="sys">HT015732507</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_902</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_902">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2008/hasenclever/dc0819.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_902"
+            DMDID="DMD_wuppertal_elpub_902">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_902"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

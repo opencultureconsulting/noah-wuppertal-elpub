@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_4220">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Methodology and Statistical Analysis of Sustainable Transportation Criteria for Certification Systems</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Zeinal Hamedani, Amin</displayForm>
+                        <namePart type="family">Zeinal Hamedani</namePart>
+                        <namePart type="given">Amin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Achieving sustainability has become one of the fundamental goals of many urban transportation systems in the past two decades. The emerging concept of sustainability has developed enormous interests among researchers and practitioners to develop a sustainable transport system. While many have focused on developing an appropriate definition of a sustainable transport by measures and indicators of sustainability to assess if a transport system is moving towards or away from sustainability, many others have put forward different strategies to make a transport system sustainable. Defining sustainable transport and identifying indicators are important to make this concept more correct, focused, and measurable. 
+
+This study tries to measure and monitories urban transportation sustainability from viewpoint of anÿurban planner. The question comes out from the relation between urban transportation sustainability and usage of public transportation. How these two facts link to each other? Are there any logical relations between usage of public transportation and sustainable development? How we can define specific indicator for measuring sustainability of transportation or on the other words, how can we standardized indicator to measure and monitor the urban sustainable transportation? 
+
+For response, exceeding questions two cities are selected which have a similarity and differences in structure and data sets. Our approach is to draw upon a raft of suitable analytical techniques to find out the approach base for comparison of structure between different cities, and then to apply the examples to examine the degree to which specified policy targets might be met in the future. The analytical framework includes Descriptive statistics, correlation and Regression analysis, and application of sustainable transportation indicator for case studies distributions. 
+
+The techniques proposed to provide a starting point for that dialogue toward more appropriate policies and their monitoring. It can be concluded that the new approach of sustainable transportation indicator for measuring sustainability of transportation is highly correlated with selected variables, which indicates that the new indicator has meaningful applicability to be used as indicator for transportation certificate system. This methods can be used for measuring, monitoring, and evaluating the sustainability of urban transportation for different areas and used the results as a standardize indicator for transportation certificate system for comparing and ranking the transportation sustainability of different cities. In addition, the result of this study can be used as for monitoring and assessment of plan for (SUMP) Sustainable urban mobility planning.</abstract>
+                    <classification authority="ddc">624</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Architektur und Bauingenieurwesen » Bauingenieurwesen"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20141007-112314-8</identifier>
+                    <identifier type="sys">HT018419018</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_4220</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_4220">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/bauingenieurwesen/diss2014/zeinalhamedani/dd1407.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_4220"
+            DMDID="DMD_wuppertal_elpub_4220">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_4220"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

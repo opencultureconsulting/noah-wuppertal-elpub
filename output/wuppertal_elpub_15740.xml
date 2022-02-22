@@ -1,0 +1,86 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_15740">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Incoherent Silicon Integrated Terahertz Arrays: A Study on Applications, Performance, and Limitations</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Zatta, Robin</displayForm>
+                        <namePart type="family">Zatta</namePart>
+                        <namePart type="given">Robin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Pfeiffer, Ullrich R.</displayForm>
+                        <namePart type="family">Pfeiffer</namePart>
+                        <namePart type="given">Ullrich R.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kummert, Anton</displayForm>
+                        <namePart type="family">Kummert</namePart>
+                        <namePart type="given">Anton</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-02-07</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The terahertz (THz) range situates between microwaves (below 0.1 THz) and optics (above 10 THz). Although THz waves have several unique properties that make them attractive for numerous potential uses, such as their ability to see through dielectric materials, the lack of efficient technologies makes the THz range the most underexploited frequency range. Established systems operating at THz frequencies are costly and bulky, limiting their utility to laboratory environments. Alternative solutions to massively reduce the cost and size of functional THz devices are needed to expedite this frequency band toward practical applications. Electronic integrated circuits lend themselves to miniaturization and mass production. Silicon process technologies, for example, have enabled the fabrication yield required to realize THz arrays of many incoherent sources or detectors on a single chip. The overarching aim of this thesis is to explore such devices for THz active imaging, THz spectroscopy, and THz antenna measurements to offer cost-effective and compact alternatives for these disciplines that may reach broader societies. 
+ These devices are typically backside-coupled to a silicon lens to sample or illuminate an angular field of view. While devices based on incoherent sources are key components in overcoming the limitations of radiation power in the THz range, devices based on incoherent detectors are cameras that allow forming a THz image without the necessity for mechanical scanning. It was not fully understood how their combined far-field radiation pattern affects their performance in THz active imaging before this thesis. The original contribution of this thesis to knowledge is, on the one hand, to understand this aspect in full detail. It is derived how to operate these devices to achieve optimal erformance in producing highly resolved images, which is crucial to offer a cost-effective and compact alternative for real-time THz active imaging applications. In this regard, a novel illumination concept based on THz source arrays is introduced. Beyond that, it is demonstrated how incoherent THz cameras can be repurposed for THz spectroscopy and how to use them for THz antenna measurements, thereby offering low-cost and compact alternatives for these disciplines. 
+ With respect to the generation of highly resolved THz images, this thesis demonstrates that so-called super-resolution imaging can be leveraged to achieve a diffraction-limited spatial resolution. In a super-resolution imaging experiment performed at 0.652 THz with a CMOS camera that uses a 15-mm diameter lens, a spatial resolution of 1.43 mm was achieved at an illumination aperture of 50 mm. The achievable spatial resolution scales with the imaging aperture, with smaller ones being beneficial to resolution. In this context, the frequency-dependent limits in angular resolution are derived. This understanding is applied to a THz dispersive spectroscope that combines a CMOS THz camera and dispersive optics. This type of optics splits a broadband THz signal into its colors and assigns each frequency to a specific camera pixel. The average spectral resolution improved from 68.3 GHz to 34.2 GHz (factor of 2) within 0.75–0.9 THz, while the average frequency accuracy improved from 30 GHz to 1.65 GHz (factor of 18.2). A novel measurement concept for determining the far-field characteristics of THz radiation sources at a compact range using such cameras is also presented. The directivity, half-power beamwidth, and radiation power of a THz source with known far-field characteristics were determined within a root mean square accuracy of 0.85 dB, 1.1°, and 0.7 μW, respectively, in an experiment performed over a large frequency range of 0.6–1.1 THz. Furthermore, it is demonstrated how to operate an incoherent silicon integrated THz source array as a diffuse, uniform-intensity illumination source, thereby realizing a proof of concept using a device that radiates a record power of 10.3 dBm at 0.42 THz; the THz range lacked uniform illumination sources required to realize a constant dynamic range over the imaging plane. Based on this and a CMOS THz camera, an all-electronic, cost-effective, and compact solution for high-performance THz active imaging with real-time capabilities has been realized. 
+ The contributions of this thesis pave the way for the realization of a low-cost, compact alternative for broadband THz spectrometry, which offers a means to inspect already packaged goods for material properties. To this end, the presented concept of repurposing an incoherent THz camera for spectroscopy must be expanded by a suitable THz multicolor source. Contemporary devices suffer from low radiation power. The illumination concept to create uniform illumination may be used to realize arrays of THz multicolor sources with greater overall radiation power combined into a single far-field beam.</abstract>
+                    <abstract type="content" lang="ger">Die Anzahl praktischer Anwendungen für Terahertz(THz)-Strahlung, welche im Grenzbereich zwischen dem Mikrowellenbereich (unter 0,1 THz) und dem optischen Bereich (über 10 THz) liegt, sind heute noch stark limitiert. Etablierte Systeme werden aufgrund von Größe und Kosten überwiegend in Laboren eingesetzt. Es werden dringend kostengünstige und kompakte Lösungen benötigt, um “THz” praxistauglich einzusetzen, denn diese Strahlung bietet einige interessante Eigenschaften, wie z. B. die Fähigkeit, eine ganze Reihe von Materialien durchleuchten zu können. In Anbetracht dessen bieten elektronische integrierte Schaltungen, welche eine Massenproduktion sowie die Realisierung kompakter Lösungen erlauben, eine attraktive Alternative. Beispielsweise bringen Silizium-Technologien die erforderliche Fertigungsausbeute mit sich, um große THz-Detektor- und THz-Quell-Arrays auf einem einzigen Chip zu integrieren. Das übergeordnete Ziel dieser Thesis besteht darin, solche Komponenten in Hinblick auf deren Anwendbarkeit in der THz-Aktiv-Bildgebung, THz-Spektroskopie und THz-Antennenmessungen zu verstehen, um kostengünstige und kompakte Alternativen für diese Disziplinen zu realisieren und somit die Praxistauglichkeit von THz zu erhöhen. 
+ Diese beiden Typen von THz-Arrays sind Komponenten, die ursprünglich für die THz-Aktiv-Bildgebung entwickelt wurden; Detektor-basierte Geräte, d. h. THz-Kameras, zum Aufnehmen eines Bildes und Quell-basierte Geräte zum Beleuchten eines Objekts. Hierbei ermöglicht die Kopplung an ein Objektiv die Abtastung bzw. Beleuchtung eines bestimmten Sichtfeldes. Als Objektiv werden üblicherweise Silizium-Linsen eingesetzt. Vor dieser Thesis war es weitestgehend unklar, wie sich das Abstrahlverhalten solcher Silizium-Linsen-gekoppelten THz-Arrays auf die Performanz in der mit ihnen realisierten Applikationen in der THz-Aktiv-Bildung auswirkt. Der wissenschaftliche Beitrag dieser Arbeit besteht zum einen darin, diesen Aspekt in all seinen Facetten zu verstehen. Daraus wird abgeleitet, wie solche Komponenten betrieben werden müssen, um eine vollelektronische, kompakte und kostengünstige Alternative für die Echtzeit-Bildgebung mit hoher Performanz—hinsichtlich des Produzierens eines hochauflösenden THz-Bildes—zu realisieren. Im Zuge dessen wird ein neues Beleuchtungskonzept auf Basis von THz-Quell-Arrays eingeführt. Darüber hinaus wird auch gezeigt, wie THz-Kameras für die THz-Spektroskopie und THz-Antennenmessungen eingesetzt werden können, um auch in diesen Bereichen eine kompakte und kostengünstige Alternative zu bieten. 
+ In Hinblick auf die Generierung hochauflösender THz-Bilder wird in dieser Thesis gezeigt, dass mit Linsen-integrierten THz-Kameras durch den Einsatz sog. superauflösender Bildgebungsverfahren immer eine beugungsbegrenzte Raumauflösung erzielt werden kann. Eine CMOS-THz-Kamera mit einer 15-mm Linse erzielte bei einer Bildfläche von 50 mm Durchmesser eine Raumauflösung von 1.43 mm in einem Experiment bei 0.652 THz. Dabei skaliert die erreichbare Auflösung mit der Bildfläche, wobei kleinere Bildflächen vorteilhaft sind in puncto Auflösung. In dem Zuge werden auch die allgemeinen Winkelauflösungsgrenzen solcher Kameras ermittelt. Das gewonnene Verständnis wird dann auf ein THz-Dispersiv-Spektroskop angewandt, welches solch eine Kamera mit dispersiven Optiken kombiniert. Diese Art von Optiken teilt ein breitbandiges THz-Signal räumlich in seine einzelnen Farben auf—ähnlich wie beim Regenbogen—und ordnet jede Frequenz einem bestimmten Kamerapixel zu. Im Bereich von 0.75–0.9 THz konnte somit die durchschnittliche Spektralauflösung von 68.3 GHz auf 34.2 GHz (Faktor 2) verbessert werden, während die Frequenzgenauigkeit sich im Mittel von 30 GHz auf 1.65 GHz (Faktor 18.2) verbesserte. Hierbei werden auch die Leistungsgrenzen des Geräts bzgl. dieser Parameter ermittelt. Zudem wird auf Basis der CMOS-THz-Kamera ein neues Messkonzept zur Bestimmung der Fernfeldcharakteristika von THz-Strahlungsquellen eingeführt. Dieses Messkonzept ermöglicht eine schnelle Erfassung des Fernfeld-Strahlungsmusters von THz-Quellen sowie deren Direktivität, Strahl-Halbwertsbreite und Sendeleistung. Diese Parameter wurden in Anbetracht einer Test-Quelle in einem weiten Frequenzbereich von 0.6–1.1 THz im quadratischen Mittel mit Genauigkeiten von 0.85 dB, 1.1° und 0.7 μW bestimmt. Zudem wurde hinsichtlich des neuen Beleuchtungskonzepts für die THz-Aktiv-Bildgebung erstmals ein diffuser, homogenen-verteilter Strahl aus einem THz-Quell-Array gewonnen, welche eine rekordträchtige Leistung von 10.3 dBm bei 0.42 THz abstrahlt; homogen beleuchtende Quellen sind dringend benötigte, jedoch vor dieser Thesis unerforschte und fehlende Komponenten für die THz-Aktiv-Bildgebung in Echtzeit, um einen gleichmäßigen Dynamikbereich hinweg über die Bildfläche zu gewährleisten. Auf Basis dessen und einer CMOS-THz-Kamera konnte dann hochperformante Echtzeit-Bildgebung bei THz-Frequenzen vollelektronisch, kompakt und kostengünstig umgesetzt werden. 
+ Diese Thesis legt zudem den Grundstein für die Realisierung einer kostengünstigen und kompakten Alternative für die breitbandige THz-Spektrometrie, welche die Möglichkeit zur Untersuchung von Materialeigenschaften bereits verpackter Güter bietet—für die industrielle Qualitätssicherung. Dazu muss das hier vorgestellte Konzept zur Nutzung inkohärenter THz-Kameras für die Spektroskopie allerdings um eine geeignete THz-Mehrfarben-Quelle erweitert werden. Die Performanz möglicher Quellen ist derzeit mit Hinblick auf deren Sendeleistung allerdings unzureichend. Hier kommt das vorgestellte Beleuchtungskonzept auf Basis von THz-Quell-Arrays ins Spiel, welches eine praktikable Lösung bietet, um die Sendeleistung von THz-Quellen im Allgemeinen zu erhöhen.</abstract>
+                    <subject>
+                        <topic>THz imaging</topic>
+                        <topic>THz spectroscopy</topic>
+                        <topic>THz antenna measurements</topic>
+                        <topic>THz uniform illumination source</topic>
+                        <topic>THz camera</topic>
+                        <topic>THz source array</topic>
+                        <topic>Extended hemispherical silicon lens</topic>
+                    </subject>
+                    <classification authority="ddc">600</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20220207-094124-8</identifier>
+                    <identifier type="doi">10.25926/gyk8-qp20</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_15740</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_15740">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2021/zatta/de2112.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_15740"
+            DMDID="DMD_wuppertal_elpub_15740">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_15740"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

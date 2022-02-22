@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5240">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Synthese enantiomerenreiner α-Hydroxycarbonsäuren, neuer Cyclooctadepsipeptide sowie Studien zur Totalsynthese von Rottlerin</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sivanathan, Sivatharushan</displayForm>
+                        <namePart type="family">Sivanathan</namePart>
+                        <namePart type="given">Sivatharushan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Facing the need to find new drugs for all kinds of diseases, science turns to nature, which offers numerous classes of compounds showing an impressively high biological potential. Among those are the cyclodepsipeptides, hybrid structures composed of amino and hydroxy acids. In the past decades numerous cyclodepsipeptides have been isolated and their potential as drugs has been studied extensively. For several cyclodepsipeptides total syntheses both in solution and on solid-phase have been established, allowing the production of combinatorial libraries. 
+ The first part of this work deals with the synthesis of enantiomerically pure 3-aryl- and 3-hetaryl-2-hydroxypropanoic acids needed for the synthesis of PF1022A analogues. Two methods were used, enzymatic reduction of 2-oxo acids and asymmetric hydrogenation of enol esters. The enzymatic procedure consists of a cofactor-regenerating redox system, utilizing the enzymes D-lactate dehydrogenase (D-LDH) and formate dehydrogenase (FDH). The second method is based on the enantioselective hydrogenation with a Rh-catalyst. This procedure is then used for the synthesis of 10g-amounts of (R)-(p-morpholinophenyl)-lactic acid (morphPhLac), a key building block of emodepside.
+ The second part deals with the functionalization of PF1022A in order to synthesize novel semisynthetic derivatives. Additionally a library of bassianolide analogues were produced by total synthesis in solution using BOP-Cl as the coupling reagent for amides and the final macrocyclization. The bassianolide and the PF1022A derivatives were measured for their biological activity. Furthermore the synthesis of emodepside, a semisynthetic derivative of PF1022A, was examined using the Buchwald-Hartwigs and Goldbergs amination methods. Triphosgene was used as an attempt to improve the established solid-phase synthesis of PF1022A by both the 4x2 and the 8x1 methods. For this determination the building blocks were first synthesized in solution. 
+ The third part of this work deals with the first total synthesis of Rottlerin, a natural compound isolated from Mallotus philippinensis. Based on a convergent and a linear retrosynthetic analysis several pathways were used to synthesize Rottlerin and its building blocks. In addition, the derivatives of Rottlerin produced in the process were measured for their activity in Kv7 potassium channels.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20150923-114802-4</identifier>
+                    <identifier type="sys">HT018766376</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5240</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5240">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2015/sivanathan/dc1518.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5240"
+            DMDID="DMD_wuppertal_elpub_5240">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5240"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

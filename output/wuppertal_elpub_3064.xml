@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3064">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Erfolgsfaktoren bei Mergers &amp; Acquisitions - Eine empirische Untersuchung externer Einflussfaktoren auf den Transaktionserfolg aus Käufersicht</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Meyer, Marie Luise</displayForm>
+                        <namePart type="family">Meyer</namePart>
+                        <namePart type="given">Marie Luise</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Unternehmen müssen sich in einem Umfeld behaupten, das ständigen Veränderungen und Entwicklungen ausgesetzt ist. Angesichts deregulierter Märkte, internationaler Gütertransfers, verkürzter Produktlebenszyklen, wie auch gestiegener Qualitätsstandards unterliegen sie einem zunehmendem Innovations-, Effizienz- und somit auch Preisdruck. Um sich den ständig wandelnden Ansprüchen anzupassen und ihre Ziele trotz sich verändernder Umwelt- und Wettbewerbsbedingungen erreichen zu können, stehen den Unternehmen diverse Mittel zur Verfügung. Eines dieser Mittel stellen Mergers &amp; Acquisitions (M&amp;A) dar. Vor dem Hintergrund dieser dynamischen und komplexer werdenden Umwelt haben M&amp;A-Transaktionen in den vergangenen Jahrzehnten einen regelrechten Boom erfahren. Deal-Statistiken hinsichtlich der Anzahl von Transaktionsaktivitäten sowie deren Volumina im Zeitablauf bestätigen die gestiegene Bedeutung. Bewirkt die Finanzkrise derzeit Vorsicht und Zurückhaltung bei den Marktakteuren, ist der Kauf bzw. Verkauf von Unternehmen oder Unternehmensbeteiligungen ein im Wirtschaftssystem fest etabliertes und auch zukünftig bedeutendes Instrument der strategischen Unternehmensführung.</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20121011-123400-3</identifier>
+                    <identifier type="sys">HT017422136</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3064</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3064">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2011/meyer/db1104.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3064"
+            DMDID="DMD_wuppertal_elpub_3064">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3064"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

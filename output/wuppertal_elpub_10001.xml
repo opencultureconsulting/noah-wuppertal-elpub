@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_10001">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>schulische Bildungssystem in Gambia - Die Relevanz von Non-Governmental Organizations für die Bevölkerung Gambias: Ein empirischer Vergleich staatlicher und privater Schulen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kleis, Janina</displayForm>
+                        <namePart type="family">Kleis</namePart>
+                        <namePart type="given">Janina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-04</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <classification authority="ddc">910</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Human- und Sozialwissenschaften » Geographie und Sachunterricht"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20191203-114142-9</identifier>
+                    <identifier type="doi">10.25926/xkrq-5803</identifier>
+                    <identifier type="sys">HT020336951</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_10001</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_10001">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbg/geographie/diss2019/kleis/dg1902.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_10001"
+            DMDID="DMD_wuppertal_elpub_10001">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_10001"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

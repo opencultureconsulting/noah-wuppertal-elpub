@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3666">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Novel Organocatalysts with Pyrrolidine and Brönsted Acids for Aldol Reaction and other Reactions</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Tang, Gongkun</displayForm>
+                        <namePart type="family">Tang</namePart>
+                        <namePart type="given">Gongkun</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This dissertation describes the development of several novel organocatalysts. At first novel imidazolidinone derivatives, which have a carboxylic group at the 5-position, have been synthesized and tested. Secondly, several novel proline amide derivatives have been synthesized and tested with aldol reactions and Mannich reactions. The best enantioselectivity (ee over 98%) has been obtained from the reactions catalyzed by the novel N-trifluoromethylsulfonyl-L-proline amide in both reactions. Besides this, it could generally been concluded from the results that the acidity of the catalysts plays a very important role in selectivity. 
+
+Based on this conclusion, several novel proline imidazole derivatives, which combine diverse Brönsted acids, have been designed and synthesized by a novel route. In the tests, high enantioselectivity (ee over 98%) has been obtained by several of these catalysts. In tests with the same catalyst and different acids, it could be proved that the acidity of the catalysts mainly determine the selectivity of reactions. A value of the pka of the added acid solution, with which the reactions exhibit high selectivity, could be given. Several other reactions have been tested with these catalysts. 
+
+Besides, novel peptidic organocatalysts have been designed and tested in aldol reactions. Novel BINOL catalysts with imidazole functionalities have also been synthesized and tested. But the results showed that the catalytic activity of the other novel catalysts is much higher than BINOL derived phosphoric acid derivatives.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20120725-120018-8</identifier>
+                    <identifier type="sys">HT017332807</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3666</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3666">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2012/tang/dc1211.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3666"
+            DMDID="DMD_wuppertal_elpub_3666">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3666"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

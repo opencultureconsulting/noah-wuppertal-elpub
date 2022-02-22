@@ -1,0 +1,85 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_10750">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Belastungsreduzierende Regelung von Pitchsystemen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Krüger, Benjamin</displayForm>
+                        <namePart type="family">Krüger</namePart>
+                        <namePart type="given">Benjamin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Soter, Stefan</displayForm>
+                        <namePart type="family">Soter</namePart>
+                        <namePart type="given">Stefan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Tibken, Bernd</displayForm>
+                        <namePart type="family">Tibken</namePart>
+                        <namePart type="given">Bernd</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-08-12</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Hintergrund und Motivation dieser Arbeit ist das Bestreben, die schädlichen Kräfte auf Gondel und Turm einer Windkraftanlage dadurch zu reduzieren, dass die Blätter einer Anlage in Abhängigkeit der Nabenposition verstellt werden, und damit der Höhengradient des Windes derart ausgeglichen werden kann, dass das Zentrum der angreifenden Kraft auf die Rotornabe konzentriert wird. Da dieses Bestreben eine deutlich höhere Aktivität des Blattverstellsystems erfordert, was deren Lebensdauer reduziert, wurden Möglichkeiten entwickelt, simuliert und getestet, die die Mechanik des Systems schonen, ohne dass zusätzliche Komponenten notwendig sind. Neben den mechanischen Möglichkeiten, den Verschleiß zu reduzieren, ist die elektrotechnische Lösung der Hauptteil dieser Arbeit. Ziel ist es, ohne den Austausch des Antriebsstrangs, lediglich durch die Ansteuerung des Antriebs, den Verschleiß zu reduzieren und so die Lebensdauer zu steigern. Die zentralen Fragen, wie das Spiel entsteht und wie es zu der Schädigung kommt, ist für die Erarbeitung der Gegenmaßnahmen unerlässlich und darum Bestandteil der Arbeit, ebenfalls das Resultat, das dann eine gezielte Ansteuerung des Antriebs erfordert. Mit Hilfe der Messdaten eines speziell entwickelten Prüfstands wird der Nutzen der verschleißreduzierenden Regelung beziffert. Hierzu werden verschiedenen Verfahren der Auswertung und Berechnung von Materialschädigungen diskutiert. Es konnte gezeigt werden, dass es ohne Mehrkosten möglich ist, entweder die Lebensdauer zu erhöhen oder alternativ dafür zu sorgen, dass eine erhöhte Nutzung nicht zur Verkürzung führt.</abstract>
+                    <subject>
+                        <topic>Windkraftanlagen</topic>
+                        <topic>Pitchsysteme</topic>
+                        <topic>Blattverstellsysteme</topic>
+                        <topic>Verschleiß</topic>
+                        <topic>Verschleißreduzierung</topic>
+                        <topic>Einzelblattregelung</topic>
+                        <topic>Maschinen</topic>
+                        <topic>Regelung</topic>
+                        <topic>Antriebstechnik</topic>
+                        <topic>Elektrotechnik</topic>
+                        <topic>Mechanik</topic>
+                    </subject>
+                    <classification authority="ddc">600</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20200812-111050-6</identifier>
+                    <identifier type="doi">10.25926/bg17-0t76</identifier>
+                    <identifier type="sys">HT020581770</identifier>
+                    <accessCondition type="use and reproduction">CC BY-NC-ND 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_10750</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_10750">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2020/krueger/de2004.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_10750"
+            DMDID="DMD_wuppertal_elpub_10750">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_10750"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

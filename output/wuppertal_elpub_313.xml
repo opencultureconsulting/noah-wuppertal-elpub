@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_313">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Optical Links for the ATLAS Pixel Detector</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gregor, Ingrid-Maria</displayForm>
+                        <namePart type="family">Gregor</namePart>
+                        <namePart type="given">Ingrid-Maria</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002-01-07</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In der vorliegenden Dissertation wird eine strahlentolerante optische Datenstrecke mit hoher Datenrate für den Einsatz in dem Hochenergiephysikexperiment Atlas am Lhc Beschleuniger entwickelt. Da die Lhc-Experimente extremen Strahlenbelastungen ausgesetzt sind, müssen die Komponenten spezielle Ansprüche hinsichtlich der Strahlentoleranz erfüllen. Die Qualifikation der einzelnen Bauteile wurde im Rahmen dieser Arbeit durchgeführt. 
+
+ Die zu erwartenden Fluenzen im Atlas Inner Detector für Silizium und Gallium Arsenid (GaAs) wurden berechnet. Siliziumbauteile werden einer Fluenz von bis zu 1.1.1015neq /cm² in 1 MeV äquivalenten Neutronen ausgesetzt sein, wohingegen GaAs Bauteile bis zu 7.8.1015neq /cm² ausgesetzt sein werden. 
+
+ Die Strahlentoleranz der einzelnen benötigten Komponenten wie z.B. der Laserdioden sowie der jeweiligen Treiberchips wurde untersucht. Sowohl die Photo- als auch die Laserdioden haben sich als strahlentolerant für die Fluenzen an dem vorgesehenen Radius erwiesen. Aus den Tests der Treiberelektronik ließ sich eine Empfehlung für den Neudesign der Schaltungen in einer 0.25 μm Technologie ableiten. Aufgrund der geometrischen und umgebungsbedingten Anforderungen müssen die optoelektronischen Elemente in ein spezielles Gehäuse mit direkter Faserankopplung integriert werden. Nach der Qualifizierung dreier verschiedener Kandidaten für dieses Gehäuse wurde das sogenannte Taiwan-Package ausgewählt. 
+
+ Eine Studie der Einzelereignisse aufgrund ionisierender Teilchen gab Aufschluß über das Verhalten der optischen Links innerhalb einer Umgebung, wie sie für Lhc-Experimente erwartet wird. Fehler werden durch hochenergetische Teilchen in der Photodiode induziert. Es zeigte sich, daß die Anzahl der Fehler pro Zeiteinheit und Datenrate minimiert werden kann, wenn der von dem Lichtsignal erzeugte mittlere Photostrom größer als 65 μA ist. 
+
+ Aus diesen Ergebnissen folgend, wird eine Integration von sieben optischen Links auf einer speziellen Platine für das entgültigen Design des optischen Links für den Atlas Pixeldetektor vorgeschlagen.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20010581</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_313</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_313">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-407/d080106.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_313"
+            DMDID="DMD_wuppertal_elpub_313">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_313"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

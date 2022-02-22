@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_828">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Some new Acceleration Mechanisms in Verified Global Optimization</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Tapamo Kahou, Jean Honoré</displayForm>
+                        <namePart type="family">Tapamo Kahou</namePart>
+                        <namePart type="given">Jean Honoré</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-01-04</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In this work we propose some new mechanisms to speedup the convergence of the highly resources (CPU, memory) consuming interval global optimization algorithm. Optimization is ubiquitous in our daily live. From the way we organize our once to obtain more place to the angle the wing of a plane should have to obtain more strength, we always explicitly or implicitly solve optimization problems. The optimization problem is always addressed by scientific computing and applied mathematics researchers due to the huge demand coming from fields such as engineering or finance. In science, engineering and economics decision problems are frequently modelled as optimizing the value of a (primary) objective (criterion, performance, loss etc.) function, under stated feasibility constraints to be met by all &apos;acceptable&apos; decisions. 
+ We use a deterministic approach based on the branch and bound principle using interval analysis. With interval analysis one is able to have a guaranteed enclosure of the result. Therefore, the use of interval analysis will serve two purposes, firstly the purpose of global convergence and secondly the purpose of auto-validation. 
+ The first technique we propose deals with the storage management of subproblems arising during the search process. This is definitely one of the key point in verified global optimization. In fact, for many difficult problems, so far known accelerating devices are likely to fail, as a consequence the memory require to store these subproblems will grow exponentially. We propose a new selection strategy for the next problem to handle. We also suggest to store subproblems in a heap. Experimental results show for almost all dincult problems a dramatically decrease of the computational time. 
+ The second technique is based on the one-dimensional Newton iteration to discard or split a box under consideration. This test is usually cheap and it is likely to be successful when a good approximation of the minimum is known early. For many test problems considered we observed an improvement when applying this new technique. 
+ The other technique considered here deals with parallelization. We propose to share the task of the manager process among other non idle processes in such a way that not only one process is responsible for the load balancing. Experimental results presented show that this new technique yield significant improvements in many cases.</abstract>
+                    <subject>
+                        <topic>Global Optimization</topic>
+                        <topic>Interval Analysis</topic>
+                        <topic>Load balancing</topic>
+                        <topic>Self Verification</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20050787</identifier>
+                    <identifier type="sys">HT014604298</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_828</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_828">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2005/tapamo/dc0519.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_828"
+            DMDID="DMD_wuppertal_elpub_828">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_828"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

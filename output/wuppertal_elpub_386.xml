@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_386">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Synthese und Transformation chiraler 2,3-Dehydroaminosäuresysteme</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Nordhoff, Sonja</displayForm>
+                        <namePart type="family">Nordhoff</namePart>
+                        <namePart type="given">Sonja</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1999-09-29</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Chirale α ,β-Dehydroaminosäurederivate gelten als interessante Synthesebausteine für die asymmetrische Synthese von α-Aminosäuren, da sie eine Vielzahl von Transformationen ermöglichen. Besonders reizvoll ist vor allem die stereoselektive Einführung von Seitenketten in der β-Position. In der vorliegenden Arbeit wurden Synthese und Transformationen neuer chiraler 2,3-Dehydroaminosäuresysteme auf der Basis eines spirocyclischen N,N-Acetals mit Menthon als chiralem Auxiliar untersucht. Zusätzlich wurden neue Methoden zur Modifikation in der β-Position des Bausteins entwickelt. Über eine stereoselektive Aldoladdition von Aldehyden und Ketonen an das Glycin-α-Anionäquivalent konnte zu β-Hydroxyverbindungen gelangt werden, die als Vorläufer für eine breite Palette an Verbindungen genutzt werden können. In Abhängigkeit von Substitution und Reaktionsbedingungen wurden α, β- oder β,γ-ungesättigte Derivate erhalten. Exemplarisch wurde gezeigt, daß eine Hydrolyse der Aldoladdukte in hohen Enantiomerenreinheiten zu Serinanaloga führt. Transformationen wurden an dem unsubstituierten 2,3-Dehydroalaninbaustein untersucht. Additionen von N- und S-Nucleophilen und insbesondere Radikaladditionen konnten erfolgreich durchgeführt werden. Die Vielseitigkeit letzterer Methode wurde durch eine stereoselektive Kupplung mit α-d-Acetobromglucose zu einem Vorläufer für eine C-Glycosylaminosäure demonstriert. Zusätzlich wurde zur Aktivierung der β-Position des Aminosäurebausteins ein Sulfoxid generiert. Alkylierung und Sulfoxideliminierung führen zu chiralen Vinyliminen. Mit einer [3,3]-sigmatropen Umlagerung acylierter En-Hydroxylamine konnte eine neue Methode zur stereoselektiven Einführung einer Esterfunktion in der β-Position des Bausteins ausgehend von Nitronen entwickelt werden.</abstract>
+                    <abstract type="content" lang="eng">As they allow modifications in the β-position, chiral α,β-dehydroamino acid derivatives represent interesting building blocks for the asymmetric synthesis of α-amino acids. In this work synthesis and transformations of new α,β-dehydroamino acid systems on the basis of a chiral spirocyclic N,N-acetal derived from (-)-menthone were investigated. A further goal was to develop additional methods of modifying the β-position of the amino acid building block. Stereoselective aldol reaction of an anionic glycine equivalent with aldehydes and ketones provided β-hydroxy derivatives which can be used as precursors of a variety of compounds. Depending on substitution and elimination conditions, α,β- or β,γ-unsaturated compounds could be obtained. Hydrolysis led to analogues of serine in high enantiomeric purity as shown with an example. Transformations of the unsubstituted 2,3-dehydroalanine building block were also studied. In particular, nucleophilic additions of N- and S-nucleophiles and radical additions were carried out successfully. The versatility of the method could be supported by stereoselective radical coupling with α-acetobromoglucose to form a C-glucosyl amino acid derivative. In addition, an imine containing a sulfinyl group for activation of the β-position of the amino acid building block was generated. Alkylation and sulfoxide elimination led to vinyl imine systems. [3,3]-Sigmatropic rearrangement of acylated nitrones provided access to imines and generated a new stereogenic center in β-position carrying an ester group. The rearrangement proceeded with good diastereoselectivity.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-19990228</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_386</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_386">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-480/d099910.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_386"
+            DMDID="DMD_wuppertal_elpub_386">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_386"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

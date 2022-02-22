@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_634">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Integration von Qualitäts- und Sicherheitsmaßnahmen in ein IT-gestütztes Geschäftsprozeßmanagement</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Overath, Lars</displayForm>
+                        <namePart type="family">Overath</namePart>
+                        <namePart type="given">Lars</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003-03-19</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Arbeit nimmt Bezug auf die aktuelle Diskussion hinsichtlich einer Einbindung von qualitäts- und sicherheitsbezogenen Aufgaben in die Geschäftsprozesse eines Unternehmens. Hiervon ausgehend wird, unter der Berücksichtigung der Vorteile einer Prozeßorientierung für Qualitäts- und Sicherheitsaspekte, eine Methodik entwickelt, die es erlaubt, die traditionell gewachsenen und oftmals künstlichen Grenzen zwischen den einzelnen Sicherheitsdisziplinen wie Arbeitsschutz und Brandschutz, aber auch Datenschutz und dem Qualitätsmanagement bewußt nicht zu beachten. Es werden dadurch Synergien festgestellt und bestehende Redundanzen aufgezeigt um Diese innerhalb eines integralen Managementsystems nutzen zu können.
+ Realisiert wird die Methodik durch den Aufbau eines IT-gestützten GPM-Modells entsprechend den individuellen Anforderungen des Geschäftsfeldes PrintCom der Deutschen Post World Net. An einigen Beispielen wird die Modellierung der Geschäftsprozesse in dem GPM-Modell und die sicherheitstechnische Bewertung der Geschäftsprozesse und Aktivitäten dargestellt sowie eine Integration der resultierenden Qualitäts- und Sicherheitsmaßnahmen in das IT-gestützte Geschäftsprozeßmanagement bewiesen. Abschließend wird in dieser Arbeit ein Ausblick bezüglich einer Bewertung der in die Geschäftsprozesse eines Unternehmens integrierten Qualitäts- und Sicherheitsmaßnahmen durch Kennzahlen gegeben.</abstract>
+                    <abstract type="content" lang="eng">This treatise refers to the current discussion with regard to an integration of quality- and safety related assignments of a company´s business processes. Taking this as a starting point a method will be developed under consideration of the advantages of a process-orientation for quality- and safety aspects which gives the permission to ignore the traditionally grown and often artificial limits between the single safety-disciplines like industrial safety and fire prevention, as well as data protection and quality management consciously in order to be able to realise synergies, to demonstrate existing redundancies and to use it within an integral management system.
+ The method is realised by building up an IT-supported business process model corresponding to the PrintCom´s individual demands. The modelling of business processes in the business process model and the safety relevant valuation of the processes and activities will be presented by means of several examples, and the integration of the resulting quality- and safety precautions in the IT-supported business process management will be shown.
+ Finally prospects will be given concerning a valuation of a company´s business processes integrated quality- and safety precautions by means of codes.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Maschinenbau und Sicherheitstechnik » Sicherheitstechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20030120</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_634</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_634">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-730/d140202.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_634"
+            DMDID="DMD_wuppertal_elpub_634">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_634"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

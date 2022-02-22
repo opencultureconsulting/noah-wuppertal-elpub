@@ -1,0 +1,73 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5370">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entwicklung und Anwendungen eines SPR-Biosensor-Assays für Moenomycine und andere Glykosyltransferase-Inhibitoren</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bury, Daniel</displayForm>
+                        <namePart type="family">Bury</namePart>
+                        <namePart type="given">Daniel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Antibiotika der Moenomycin-Gruppe sind die einzigen bekannten Naturstoffe, die den vorletzten Schritt der bakteriellen Zellwandsynthese - die Transglykosylierung - durch direkte Bindung an die Peptidoglykan-Glykosyltransferase (PGT) hemmen. 
+Aufgrund ungünstiger pharmakokinetischer Eigenschaften sind Moenomycine von geringem Nutzen für die Humantherapie. Ein Gemisch von Moenomycinen wird allerdings unter der Bezeichnung Flavophospholipol als Mastförderer in der Nutzviehhaltung eingesetzt. 
+Die Verwendung von Antibiotika in der Humanmedizin und in der Tiermast trägt zur Bildung und Selektion antibiotikaresistenter Krankheitserreger bei. Daher werden fortwährend neue Antibiotika benötigt und die essentielle Funktion der PGT macht sie zu einem attraktiven Target für neue Wirkstoffe. Um der Bildung neuer Resistenzen entgegenzuwirken, ist außerdem seit 2006 der Einsatz von Antibiotika zur Leistungssteigerung EU-weit verboten. 
+
+ In dieser Arbeit ist die Entwicklung eines SPR-Biosensor-Assays (SPR: surface plasmon resonance) zum Nachweis von Moenomycinen und anderen PGT-Inhibitoren und dessen Anwendung für die Analyse von Futtermitteln und für qualitative Struktur- Wirkungsbeziehungen beschrieben. Der Assay basiert auf der Wechselwirkung zwischen der monofunktionellen PGT MtgA aus Staphylococcus aureus und einem immobilisierten Moenomycin A-Derivat. 
+Der Assay erwies sich als ausreichend empfindlich, um praxisrelevante Konzentrationen an Flavophospholipol in Futtermitteln nachzuweisen. Die Eignung des Assays zur Futtermittelanalytik wurde anhand von drei verschiedenen Futtermittelmatrices untersucht. In zwei der Matrices war eine sichere Unterscheidung zwischen positiven und negativen Proben möglich. Im dritten Futtermittel führten Matrixeffekte zu falsch positiven Ergebnissen in der undotierten Matrix. Falsch negative Ergebnisse wurden nicht beobachtet. 
+Außerdem wurde der Assay dazu verwendet, den Wirkmechanismus von PGT-Inhibitoren zu untersuchen, die das natürliche Substrat (Lipid 1 bzw. Lipid 11) imitieren. Alle Inhibitoren führten zu einer Hemmung der MtgA-Bindung an das immobilisierte Moenomycin A, was auf eine Bindung an die Donorbindungsstelle der PGT zurückzuführen ist. Bei niedrigen Konzentrationen der Lipid 11-analogen Inhibitoren wurde allerdings eine erhöhte MtgA- Bindung festgestellt. Es ist anzunehmen, dass die Inhibitoren an die Akzeptorbindungsstelle binden, was zu heteroallosterischer Aktivierung der Donorbindungsstelle führt. Basierend auf dieser Hypothese konnten unterschiedliche Einflüsse der Strukturelemente der Inhibitoren auf die Affinität zur Akzeptorbindungsstelle abgeleitet werden: Die Disaccharidstruktur der Lipid 11-Analoga ist essentiell für die Bindung. Eine Phosphoglyceratgruppe als Bindeglied zwischen Lipidrest und Zuckerrest führt zu einer höheren Affinität, als eine Phosphodiestergruppe. Die Peptidseitenkette führt zu verringerterAffinität. 
+
+ Der hier beschriebene Assay ist ein empfindliches Werkzeug für den Nachweis von Moenomycinen und die Identifizierung von PGT-Inhibitoren. Die vorgestellten Ergebnisse stellen den ersten Hinweis auf eine positive Kooperativität der Donor- und Akzeptorbindungsstelle von PGT dar. Die Erkenntnisse bezüglich der untersuchten Inhibitoren tragen zum Verständnis der PGT-Hemmung bei und könnten sich auf dem Weg zu neuen Antibiotika als nützlich für die Entwicklung neuer pharmakologischer Leitstrukturen für PGT-Inhibitoren erweisen.</abstract>
+                    <abstract type="content" lang="eng">Moenomycins are a family of highly active (mainly against gram-positive bacteria) glycophospholipid antibiotics inhibiting the penultimate step in bacterial cell wall synthesis (i.e. transglycosylation). They are the only known natural substances inhibiting transglycosylation by binding directly to the peptidoglycan glycosyltransferase (GT). Because of poor pharmacokinetic properties, they are of limited clinical use. A mixture of moenomycins is, however, used as growth promoter in livestock breeding under the name flavophospholipol (Flavomycin®, Gainpro®, Pharmastim®, Jivet®). Use of antibiotics as growth promoters adds to the generation and selection of antibiotic resistant pathogen strains. Thus, utilization of growth promoters was banned in the European Union in 2006. 
+The threat of emerging antimicrobial resistance caused by the widespread use of antibiotics in human therapy and animal husbandry leads to a constant need of new antibiotics. GTs are essential for bacteria, which makes them an attractive target. 
+
+ This work describes the development of a competitive SPR (surface plasmon resonance) biosensor assay and its application for analysis in feedstuffs as well as qualitative structure-activity relationship studies on GT inhibition. The assay is based on the interaction between a moenomycin A derivative tethered to the sensor chip surface and monofunctional glycosyltransferase MtgA from Staphylococcus aureus. It is capable of detecting 1 µg/mL flavophospholipol and 0.5 µM moenomycin A, respectively. 
+Moenomycin A needed for synthesis of the immobilized derivative was isolated from flavophospholipol (Flavomycin®) in high yields (&gt;70%) and purity (&gt;99%) by a procedure first described in this work. It comprises reversed phase semi-preparative HPLC under acidic conditions followed by desalting via solid phase extraction (SPE). 
+The practicality of the assay for screening for flavophospholipol in feedstuffs was tested. Three feed samples were each analyzed unspiked and spiked at the lowest and highest reasonable flavophospholipol concentrations (between 1 and 20 mg/kg), respectively. Ground feedstuffs were extracted with methanol under elevated pressure and temperature by accelerated solvent extraction. Further cleanup was performed via solid phase extraction. The assay was capable of distinguishing clearly between positive and negative samples in two feedstuffs. In the third feedstuff, matrix interference lead to high SPR responses resulting in a false positive blank sample. However, false negative results were not observed. 
+Furthermore, the assay was used to investigate the mechanism of action of GT inhibitors mimicking the peptidoglycan monomer lipid II or the lipid II precursor lipid I. All inhibitors resulted in decreased MtgA binding to the sensor chip surface indicating inhibition via the donor site of the enzyme. At low concentrations, however, some lipid II analogous inhibitors caused increased MtgA binding. These findings suggest that these lipid II analogs bind to the acceptor site as well, inducing a heteroallosteric activation of the donor site for moenomycin A. However, at high inhibitor concentrations, competition via the donor site outweighs the enhancement. 
+Assuming that this hypothesis of cooperativity is true, differential effects of the analyzed inhibitors on enhancement of MtgA binding point towards the significance of different structure elements for binding to the acceptor site: The disaccharide in lipid II analogs is essential. Phosphoglycerate instead of phosphate as linker between disaccharide and lipid moiety increases affinity. A peptide side chain however reduces affinity. 
+
+ The assay described in this work is a sensitive tool for the detection of moenomycins and the identification of GT inhibitors. The results presented constitute the first indication of a positive cooperativity between donor and acceptor sites of GTs. The findings regarding the examined inhibitors contribute to the understanding of GT inhibition and might add to the development of new pharmaceutical leads for GT inhibitors.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20151207-141307-4</identifier>
+                    <identifier type="sys">HT018845957</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5370</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5370">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2015/bury/dc1524.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5370"
+            DMDID="DMD_wuppertal_elpub_5370">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5370"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

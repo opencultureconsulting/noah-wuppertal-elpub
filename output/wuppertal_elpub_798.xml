@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_798">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entwicklung und Anwendung neuartiger Messverfahren zur Charakterisierung partikelförmiger Emissionen moderner Kraftfahrzeuge</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bergmann, Maik</displayForm>
+                        <namePart type="family">Bergmann</namePart>
+                        <namePart type="given">Maik</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-03-31</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Caused by the complex exhaust aftertreatment systems used in modern diesel vehicles, measurement of the exhaust related particulate matter (PM) presents a challenging task. While the widely introduced diesel particle filter technology (DPF) reduces exhaust PM very effectively, resuspension of particles will become increasingly important in the future. 
+ In order to allow the time- and size resolved quantification of PM-emissions when sampling at elevated pressures and temperatures an advanced measurement technique was derived and characterized. For that purpose an ejector-diluter based sampling method has been developed. It achieved accuracies of the predicted dilution factor better than ±8% (95% confidence interval) for sample pressures in the range of 1000 – 4000 mbar and temperatures between 20 – 200°C. Furthermore, 4 real-time PM mass or number instruments (EEPS3090, DMS500, DMM230, AVL483) have been evaluated in terms of their usability for vehicle exhaust measurements. As a result correlations between those instruments and the standard methods (SMPS, CPC, gravimetric filter sampling) were determined, and found to be reasonable. The effective particle density needed for converting the measured particle size spectra into PM-masses was determined to be reff(Dₚ) ≈ 1 g/cm³. 
+ The developed method was exemplarily applied for the determination of the DPF filtration efficiency of a modern diesel vehicle. During the transient NEDC driving cycle the average DPF efficiency was 99.5% with respect to PM-mass and 99.3% for PM-number. The resulting low-level PM emissions were measured both on a test track and at a chassis dynamometer. Over a wide range of engine operating conditions size resolved emissions factors were consistently about 2 orders of magnitude lower compared to a vehicle without a DPF. During DPF regeneration numbers of nucleation particles increased by 2-3 orders of magnitude while the number of soot particles remained about the same. The formation of these particles was suggested to be linked to the amount of sulphate accumulated within the DPF. 
+ Additionally, basic evaluations of resuspension and brake wear have been performed. The results showed an exponential relationship between the number-concentration of the resuspended particles and the vehicle speed. Furthermore, the road type was found to play an mportant role. The observed number weighted size distributions of the resuspended particles as well as for brake wear showed count median diameters between 1 -3 µm. These findings were compared to data obtained from a literature survey, and were found to be in good agreement.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20090544</identifier>
+                    <identifier type="sys">HT015915699</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_798</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_798">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2008/bergmann/dc0830.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_798"
+            DMDID="DMD_wuppertal_elpub_798">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_798"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

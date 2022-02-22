@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1935">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Development of an Atmospheric Pressure Ionization source for in situ monitoring of degradation products of atmospherically relevant volatile organic compounds</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kersten, Hendrik</displayForm>
+                        <namePart type="family">Kersten</namePart>
+                        <namePart type="given">Hendrik</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In this work a Bruker esquire6000 quadrupole ion trap mass spectrometer, originally equipped with a typical atmospheric pressure ion (API) source design (Apollo™), was coupled to a smog chamber for in situ monitoring of degradation product formation of atmospherically relevant volatile organic compounds (VOC), in particular aromatic hydrocarbons (AH). Atmospheric Pressure Photo Ionization (APPI) and Atmospheric Pressure Laser Ionization (APLI) were used for ion generation, with the latter being sensitive and selective towards “ring-retaining” degradation products.
+ Comprehensive studies of the fluid dynamical behavior of the commercially available API source revealed that chaotic, turbulent flows prevailing in the source enclosure cause ion residence times exceeding one second. The conventional assembly additionally restricts the ionization volume for APLI and leads to an insufficient use of the ionizing laser radiation. Hence, the application of this type of source design was deemed inappropriate for the intended gas-phase sampling from atmospheric degradation product studies. Consequently, a novel API source design, based on a tube system, was developed. It is characterized by an essentially laminar sample gas stream, solely determined by the choked flow of the mass spectrometer capillary. This setup shows well-defined fluid dynamical behavior and high ion transmission efficiencies. For APLI applications the sample is irradiated along the downstream propagation of the sample gas flow, which entails significant increase in ionization volume and thus ionization efficiencies compared to common APLI assembles. As a result, the replacement of the commonly used exciplex laser as radiation source with a compact, significantly smaller, and more cost efficient diode pumped solid state laser (DPSS) became feasible. Herewith, detection limits of anthracene in the lower pptV range were obtained. For APPI applications a specially shaped lithium fluoride window was mounted onto the inlet tube assembly allowing for efficient vacuum ultra violet (VUV) irradiation perpendicular to the sample gas stream. Theoretical, experimental, as well as computational investigations in terms of the fluid dynamical behavior, ion production and ion transport characteristics of this “laminar-flow ion source (LFIS)” are presented. This design was filed as patent application in 2009.
+ A considerable part of this work is concerned with the occurrence of ion transformation processes (ITP) in API-MS, in particular ITPs induced by in situ generated neutral radicals. The significant impact of ITPs on the signal ion distribution, the loss of mass spectrometric information, and the consequences for data interpretation particularly with respect to unknown compositions is demonstrated.
+ The impact of bi-and termolecular ITPs called for an entirely redesigned APPI approach. Herein, VUV irradiation of the sample gas stream occurs further downstream within the transfer capillary of the mass spectrometer. In this way the time between the ionization step and enter into the collision free region is reduced by a factor of 250, whereas the analyte density is only reduced by a factor of four, compared to common API assemblies. This approach required opening of the capillary. Consequently, this new stage was thoroughly characterized in terms of fluid dynamical behavior and ion transmission efficiencies. Furthermore, commercially available APPI lamps did not allow efficient irradiation of the capillary gas flow. Therefore home-built, windowless miniature argon spark discharge lamps were successfully developed. The lamps are precisely mounted on the transfer capillary and deliver VUV radiation on a small well-defined illuminated area. With this new APPI approach lower detection limits of 0.1 ppbV for 2-butanone and 0.5 ppbV for benzene were obtained. A comprehensive characterization of the lamp in terms of the discharge properties and the emitted VUV radiation is presented. The result of significantly reduced ITPs and thus preservation of mass spectrometric information is demonstrated. This design was filed as patent application in 2011.
+ An exemplary study on p-xylene demonstrates the capabilities of this setup for in situ mass spectrometric monitoring of atmospheric degradation products.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20110418-092806-6</identifier>
+                    <identifier type="sys">HT016800363</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1935</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1935">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2011/kersten/dc1104.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1935"
+            DMDID="DMD_wuppertal_elpub_1935">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1935"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

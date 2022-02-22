@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_921">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Finite-Infinite-Elemente-Modellierung zur Simulation der Boden-Bauwerk-Flüssigkeit-Interaktion unter dynamischer Anregung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mahran, Essam</displayForm>
+                        <namePart type="family">Mahran</namePart>
+                        <namePart type="given">Essam</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004-12-15</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Durch die in den letzten Jahren an Industriebauwerken aufgetretenen Schäden infolge Erdbebeneinwirkung wurde das Interesse zur näheren Untersuchung der Interaktionseffekte zwischen Boden, Bauwerk und Füllmedium gesteigert. Insbesondere sind es mit Flüssigkeiten gefüllte Behälterbauwerke, die eine realistische Beschreibung der Interaktion der einzelnen Komponenten benötigen. Durch die fortschreitende Steigerung der Rechenkapazität und durch den Einsatz einer Finite-Infinite-Elemente-Formulierung ist es möglich, das System Boden-Bauwerk-Flüssigkeit als Gesamtes zu diskretisieren und einer Ein-Schrittanalyse zu zuführen. 
+Das ganze System wird in drei Gebiete unterteilt: das Flüssigkeitsgebiet, das Bauwerksgebiet und das Bodengebiet. Das Flüssigkeitsgebiet wird mit Hilfe der Finite-Elemente- Methode modelliert. Das Bauwerksgebiet wird durch die Finite-Elemente-Methode modelliert. Das Bodengebiet wird als Halbraum in zwei Subbereiche unterteilt: Zum einen in den Nahbereich, der durch die Finite-Elemente-Methode modelliert wird, zum anderen in den Fernbereich, der entweder mit Hilfe der Infinite-Elemente- oder der Randelemente- Methode modelliert wird. 
+Im Rahmen dieser Arbeit werden ein finites und ein infinites Bodenelement ebenso wie ein Randelement - als Alternative zum infiniten Element - entwickelt, mit denen der Einfluss der unendlichen Bodenausdehnung auf die Antwort des Systems bezüglich einer statischen oder dynamischen Beanspruchung berücksichtigt wird. Außerdem wird ein Flüssigkeitselement zur Modellierung der Behälterfüllung entwickelt.</abstract>
+                    <abstract type="content" lang="eng">The interest for a closer look on the effects of interaction between soil, structure and filling medium was risen in the recent years caused by damages on industrial buildings as a result of earthquake excitations. Especially liquid filled tanks need a realistic description of the interaction of the individual components. The proceeding increase of computer capacity allows the modelling of the system soil-structure-liquid as a whole. After that an one-step analysis can be carried out. 
+The concept of analysis is to divide the considered structure into sub-regions: the tank region, the fluid region, and the soil region as a half-space, and to apply a numerical method to solve the problem in an one-step calculation. 
+The soil region has been subdivided into tow sub-fields: the near field and the far field, the near field is the domain around structure foundation, and may show nonlinear structural behavior. It will be modelled by means of the finite element method. The far field is the unbounded domain extended to the infinity, and is assumed to show linear structural behavior. For modelling of unbounded soil domain (far field) it has been suggested to apply either the boundary or the infinite element method. Then further information about the effect of soil infinity on the structure can be achieved. Because of implementation restrictions of another numerical method in the software system FEMAS of Bergische University Wuppertal, which has been developed only for the finite element method, the implementation of boundary element method has been succeeded only for static analysis. In recent years the infinite element method (finite element for unbounded domains) has been demonstrated as a very effective means for simulation the interaction problems with unbounded domains. The combination of finite and infinite element method makes it possible to carry out a non-linear analysis within the soil near field taking into account the effect of soil infinity. Also it is possible to consider multi-layered half-space within the near and the far field. 
+For modelling of structure the finite element method has been applied. In the software system FEMAS there are many finite element codes for plate, shell and beam elements. 
+For modelling of fluid as a liquid there are two finite element formulations: displacement formulation and pressure formulation. By displacement formulation the liquid will be considered as an elastic body without shear strength. In this case it is not required to model the structure-fluid coupling compared to the pressure formulation and the modal analysis can be carried out easier. 
+In the present thesis a finite and an infinite soil element also a boundary element - as alternative to infinite element - will be developed, which allows to consider the influence of soil infinity on the static and dynamic response of structure. In addition a liquid finite element will be developed for modelling of tank fill.</abstract>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Architektur und Bauingenieurwesen » Bauingenieurwesen"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20040550</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_921</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_921">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1027/dd0410.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_921"
+            DMDID="DMD_wuppertal_elpub_921">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_921"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

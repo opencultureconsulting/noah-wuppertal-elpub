@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_10410">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Implizite Mechanismen im User Experience Design</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schulzki, Franziska (verh. Ewert)</displayForm>
+                        <namePart type="family">Schulzki</namePart>
+                        <namePart type="given">Franziska (verh. Ewert)</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-04-16</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Das zentrale Erkenntnisinteresse dieser Forschungsarbeit gilt den impliziten Aspekten der Präferenzbildung im Fachgebiet User Experience. Da menschliches Verhalten maßgeblich auf impliziten Prozessen beruht, stellt sich die Frage, welchen Einfluss implizite Mechanismen auf ein Präferenzurteil haben. Anhand der Affect Misattribution Procedure wurden in drei Studien implizite Präferenzurteile untersucht. Das Multi-Motiv-Gitter wurde zur Untersuchung impliziter Motive eingesetzt. 
+ Es zeigt sich, dass sich implizite und explizite Präferenzurteile von Farben zwar ähneln, diese aber nicht vollkommen deckungsgleich sind. Als ästhetisch werden Gestaltungsmuster beurteilt, wenn sie die Wahrnehmung unterstützen. Die impliziten Motive geben als ein Aspekt von Persönlichkeit eine mögliche Antwort auf die Frage, worin sich Menschen in ihrem Präferenzurteil und insbesondere in ihrem Urteil über Farben unterscheiden. Besonders deutlich wird in den Studienergebnissen die kontextuelle Wirksamkeit von Farben: Die Studienergebnisse deuten auf eine flüssige Interaktion bewusster, unbewusster, kognitiver und affektiver Prozesse hin. Ein Präferenzurteil hängt demnach von der Leichtigkeit der Informationsverarbeitung ab. Die kortikale Entlastung bildet somit auch die Grundlage für eine Farbpräferenz. 
+ Urteile über Farben vermitteln aus diesen Gründen keinen statischen Eindruck, sondern bilden sich aus verschiedenen psychologischen Prozessen, Determinanten und Interaktionen heraus. Die Wirkung von Farben kann demnach keineswegs isoliert erfolgen, sondern nur in ihrem jeweiligen Farbkontext. Ästhetische Urteile über Farben folgen Regeln, die vor allem unbewusst dazu beitragen, ob ein interaktives System präferiert wird. Dem dynamischen Charakter von Farben kann anhand adaptiver Farbsysteme entsprochen werden, bei denen diese Farbdynamik berücksichtigt wird. Die untersuchten Aspekte impliziter Mechanismen in der Präferenzbildung erweitern traditionelle Theorien der ästhetischen Präferenz und bieten damit Ansätze zur Verbesserung der nutzerzentrierten Ansprache im User Experience Design.</abstract>
+                    <abstract type="content" lang="eng">The key focus of this research concerns the implicit aspects of preference formation in the field of user experience. Because human behavior is largely based on implicit processes, the question arises, what influence implicit mechanisms have on preference judgments. Using Affect Misattribution Procedure three studies were conducted to examine implicit preference judgments. The Multi-Motive Grid was used to examine implicit motives. 
+ This research shows that implicit and explicit color preference judgments are similar, but they are not completely congruent. Design patterns are judged to be aesthetic when they enhance perception. Implicit motives are one aspect of personality. They offer a possible answer to the question how preference judgments, and specifically preference judgments on color, differ between people. The contextual effectiveness of colors is particularly evident in the study results: The results indicate a fluent interaction between conscious, unconscious, cognitive and affective processes. A preference judgement therefore depends on how easily information can be processed. Cortical relief therefore also forms the basis for a color preference. 
+ For these reasons, judgments about colors do not convey a static impression but are formed by a mix of psychological processes, determinants and interactions. Accordingly, the effectiveness of colors does not emerge in isolation but rather in a given color context. Aesthetic color judgments are governed by rules that influence, mainly unconsciously, whether or not a respondent develops a preference for an interactive system. The dynamic character of colors calls for the use of adaptive color systems that take this dynamic into account. The aspects of implicit mechanisms in preference formation studied in this research expand on traditional theories of aesthetic preference, thus pointing towards improved user-centered approaches in user experience design.</abstract>
+                    <subject>
+                        <topic>Unbewusstsein</topic>
+                        <topic>implizit</topic>
+                        <topic>User Experience</topic>
+                        <topic>Präferenzurteile</topic>
+                        <topic>Farbe</topic>
+                    </subject>
+                    <classification authority="ddc">600</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20200416-091318-0</identifier>
+                    <identifier type="doi">10.25926/88cb-j438</identifier>
+                    <identifier type="sys">HT020534607</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_10410</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_10410">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbf/industrialdesign/diss2019/schulzki/df1902.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_10410"
+            DMDID="DMD_wuppertal_elpub_10410">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_10410"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

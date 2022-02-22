@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1000">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Soziales Design - Beiträge zu einem Behinderten-freundlichen Design</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Choopankareh, Vahid</displayForm>
+                        <namePart type="family">Choopankareh</namePart>
+                        <namePart type="given">Vahid</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-06-08</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Wir leben nicht in einer natürlichen Welt, sondern in einer Welt der Prothesen. Die Entwicklung der Technologie sollte die Lebensbedingungen aller verbessern und somit zu mehr Gerechtigkeit führen. Für viele Menschen bleibt der Großteil ihrer Umgebung disfunktional. Diese Menschen sind entweder &quot;alt&quot; oder &quot;behindert&quot; und übersehen dabei die eigentliche Problematik, die in der Art und Weise liegt, wie wir die Welt, in der wir gemeinsam leben, gestalten und konstruieren. 
+Wer heutzutage für die Menschen plant, baut und gestaltet, die in der Mobilität und selbständiges Leben eingeschränkt sind, für den sind Begriffe wie &quot;universelles&quot;, &quot;barrierefreies&quot; oder &quot;integratives&quot; Design keine Fremdwörter mehr. Wenn die Designer von Menschen mit Behinderungen sprechen, auch von älteren Menschen, müssen sie sich nicht auf die Defizite konzentrieren, sondern auf die besonderen Fähigkeiten, die diese Menschen besitzen. 
+Ein Produkt bzw. eine Technik muß gebrauchsgerecht gestaltet und produziert werden, das heißt man muß ohne besondere Schulung und Training damit sicher umgehen können. Daher muß das Verhalten des Benutzers studiert und berücksichtigt werden. Die Verantwortung des Ingenieurs und Designer endet nicht mit der Funktionsfähigkeit des Produkts, sondern schließt dessen gebrauchsgerechte Handhabung durch den Benutzer ein. 
+Alle Designer haben die berufliche Verpflichtung, Produkte zu entwickeln, die dem größtmöglichen Spektrum an Nutzern und Fähigkeiten dienen. In diesem Sinne ist Soziales Design demnach kein einzelnes Produkt oder Ergebnis, sondern ein Prozeß. Der Prozeß führt zu Produkten (Geräten, Umgebungen, Systemen und Prozessen), die nutzbar sind von und nützlich sind für die größtmögliche Gruppe von Menschen.</abstract>
+                    <abstract type="content" lang="eng">We don&apos;t live in a natural world, but in a world of the prostheses. The technologic development and progress should improve the living conditions of all in order to induce more justice. For many human beings the majority of their environment remains disfunktional. These people are either &quot;old&quot; or &quot;handicapped&quot; and overlook the actual problem which is caused by the way we form and engineer the world in which we are living in. 
+Terms as &quot;universal -&quot;, &quot;handicapped accessible -&quot; or &quot;integrative&quot; design are well known to someone who plans, builds and arranges for people who are restricted in their mobility and in their independent lifes. Speaking about disabled people, counting in senior citizens, designers should not concentrate on the deficits, but on the special abilities, which these human beings posses. 
+A product or a technology must be constructed and produced function-oriented. That means one should be able to use it safely without being trained for it. To achieve this aim the users behavior must be studied and regarded. The enigneer&apos;s and designer&apos;s responsibility is not just confined on the product&apos;s operability, but includes its simple function and problem-oriented handling by the user. 
+All designers have the vocational obligation to develop products which serve the greatest spectrum of users and abilities. In this sense social design is no individual product or result, but a process. The process leads to products (devices, environments, systems and processes), which are appropriable and advantageous for the greatest category of users.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Design und Kunst » Industrial Design"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20060144</identifier>
+                    <identifier type="sys">HT014843953</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1000</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1000">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbf/kommunikationsdesign/diss2006/choopankareh/df0601.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1000"
+            DMDID="DMD_wuppertal_elpub_1000">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1000"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

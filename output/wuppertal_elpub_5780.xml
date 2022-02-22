@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5780">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Copulas in Equity and Credit Risk - Default-Dependent Intensity Models and Information-Based Setup</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Deuss, Patrick</displayForm>
+                        <namePart type="family">Deuss</namePart>
+                        <namePart type="given">Patrick</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Terms, deffinitions and types of risks to which financial institutions are exposed are manifold. They are commonly differentiated by their source or their scope of application. Risk management and controlling departments mainly¹ distinguish between 
+- market risk - e.g., equity or interest rate risk, 
+- credit risk - e.g., default risk, and 
+- operational risk - e.g., individual mistakes of employees. 
+Identification of risk is sophisticated on account of the great variety of possible influencing factors. Due to the inherent uncertainty, risk is generally measured through probabilities. Thus, mathematical tools and schemes are frequently used for estimation and evaluation. Besides the resulting complexity, these models must be developed, calibrated to data and numerically implemented. For this process, conflicting standards and demands concerning 
+- internal and strategic objectives as well as 
+- regulatory requirements 
+must be considered. Risk aggregation and measuring dependencies between risk factors are additional issues. In practice, these challenges are generally tackled by standard or simplified approaches. They are less complex, their handling is exible and numerical implementation is fast. Therefore, their known drawbacks (e.g., under- and overestimation of risk) are accepted. In academia, many advanced models have been developed to eliminate these failures. As consequence, practical implementation is difficult and expensive. In this thesis, we focus on modeling dependency structures by means of copulas². Compared to standard frameworks, the copula approach is more elaborate but still provides a feasible implementation. In a mathematical nutshell, the concept states that a multivariate distribution can be split into its one-dimensional marginal distributions and a coupling function denoted as copula. Transferred to an economic point of view, a multidimensional problem of risk aggregation can be separated into 
+- its single risk factors and 
+- its dependency structure - i.e., its copula. The main advantage of this idea is that single risk factors are often easily measurable. Though, identification of dependencies is challenging. Copulas offer a large variety of dependency structures and hence a higher degree of freedom compared to standard approaches (multivariate normal distributions as a rule). However, the selection of the &quot;right&quot; copula is of central significance. In practice, copulas already cover various scopes of applications. The first part of this thesis introduces to the mathematical background of copulas. As application, the value at risk of a stock portfolio is measured by the copula approach. Outcomes are compared to a standard multivariate normal benchmark. The second part provides an introduction to credit risk and a detailed description of so-called intensity-based models. In this framework, we develop a new specification for modeling a copula and default-dependent intensity. As conclusion, model construction and implementation are critically assessed. 
+
+ 
+---------------------------------------------------------------------------- 
+¹Further kinds (systemic, liquidity or model risk, for instance) exist and have ambiguous assignments to different areas. 
+²In literature, we casually find the plural form copulae.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20160506-115019-2</identifier>
+                    <identifier type="sys">HT018977913</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5780</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5780">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2015/deuss/dc1537.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5780"
+            DMDID="DMD_wuppertal_elpub_5780">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5780"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

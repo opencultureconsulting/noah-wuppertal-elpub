@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_7401">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kulturelle Umbrüche in der südlichen Levante: Der Übergang von der Bronze- zur Eisenzeit unter besonderer Berücksichtigung des Tall Zirāʿa</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Soennecken, Katja A. P.</displayForm>
+                        <namePart type="family">Soennecken</namePart>
+                        <namePart type="given">Katja A. P.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Arbeit Kulturelle Umbrüche in der südlichen Levante. Der Übergang von der Bronze- zur Eisenzeit unter besonderer Berücksichtigung des Tall Zirāʿa beschäftigt sich mit den spätbronzezeitlichen sowie eisenzeitlichen Strata der Ausgrabung auf dem Tall Zirāʿa in Nordjordanien. Die Übergangszeit von der Späten Bronzezeit zur Eisenzeit war eine von großen Umbrüchen geprägte Zeit. Der durch alle Epochen kontinuierlich besiedelte Tall Zirāʿa hat aufgrund seiner Lage an einer Handelsstraße nicht nur eine politische Bedeutung, sondern auch einen großen Reichtum an materiellen Hinterlassenschaften aufzuweisen und bietet einen idealen Ausgangspunkt, um dieser Fragestellung nachzugehen. Neben einer historischen Darstellung der entsprechenden Zeiten und der Besprechung des Ortes selbst findet eine vergleichende Einordnung in den kulturellen Großraum der südlichen Levante anhand anderer Fundplätze statt. Da dieses Thema in den Kernbereich der Biblischen Archäologie führt, findet eine Auseinandersetzung mit der Bedeutung der archäologischen Erkenntnisse für die Theologie bzw. für die theologische Interpretation der Geschichte Israels statt.</abstract>
+                    <classification authority="ddc">900</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » Geschichte"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20171108-120255-8</identifier>
+                    <identifier type="sys">HT019504125</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_7401</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_7401">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-7242/da1703.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_7401"
+            DMDID="DMD_wuppertal_elpub_7401">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_7401"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

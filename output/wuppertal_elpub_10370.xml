@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_10370">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Theoretical Investigations on Cluster Formation in Mass Spectrometry</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Haack, Alexander</displayForm>
+                        <namePart type="family">Haack</namePart>
+                        <namePart type="given">Alexander</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-03-12</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The thermochemistry and reaction dynamics of polar gas phase molecules clustering around an ion in atmospheric pressure ionization mass spectrometry (API-MS) dominate many observed effects. While the equilibrium conditions under elevated pressure conditions determine the distribution of the available charges inside different clusters, the reaction dynamics under non-equilibrium conditions downstream of the instrument will determine the ultimate fate of these clusters. Together, this will dictate the final degree of charging (e.g., protonation) of the analyte. 
+In this work, two examples of the effect of clustering in MS are studied by using Computational Chemistry. In the first example, charge depletion and charge retention in nanoESI-MS for a small peptide, Substance P, is investigated. By modeling the thermochemical data and potential energy paths for proton transfer (PT), it is shown that protic solvent vapors like methanol (MeOH) can abstract a proton from the multiply charged peptide. This is due to their ability to form hydrogen bond networks. The resulting charge dilution upon increasing cluster sizes lowers barrier heights along the PT paths. Aprotic solvent molecules as for example acetonitrile (ACN), however, lack the ability to form cluster networks at the charge site. Thus, there is no trend observed regarding the barrier heights for PT. The charge is thus retained and not depleted. This is in accordance with experimental findings, where Substance P is observed in its 3+ charge state when ACN is added to the gas phase, but is found mainly in its 2+ charge state with MeOH vapor added. 
+The second example deals with the effect of dynamic clustering in differential mobility spectrometry. This is done by modeling the geometry, temperature dependent collision cross section (CCS), and electrical field dependent ion temperature and mobility of many cluster structures in the framework of the Mason-Schamp equation applying the two-temperature theory. Thermochemical weighting yield the cluster size distribution and ensemble averaged mobility in dependence of the field strength. It is shown that increasing the field strength leads to higher ion temperatures and subsequent evaporation of the solvent molecules, which are firmly bound at low field strengths. This leads to an overall decrease of CCS and thus to an increase of mobility. Calculating dispersion plots from these data and comparison with experimental results, semi-quantitative agreement is found. Especially the good accordance with trends observed regarding different solvents, the background temperature and the solvent vapor concentration highlights the importance of dynamic clustering for differential mobility. The importance of correctly modeling the CCS as a function of temperature and using two-temperature theory to model the &quot;hard-sphere&quot; effect is also emphasized. 
+From these two case studies, it becomes apparent that the thermochemical stability of cluster systems needs to be considered. However, a strong obstruction in the modeling of these cases is the breakdown of the harmonic approximation (HA) usually used in the calculations. Due to their loosely bound nature, anharmonic effects gain significance. Two new approaches are presented in this work to account for these effects for a more accurate description of the thermochemistry. The first uses the well known Vibrational Perturbation Theory to 2nd order (VPT2) in a hybrid approach. To reduce computational time, only the harmonic contributions are calculated with high accuracy, while the minor anharmonic effects are calculated with faster, less accurate methods. The second approach uses a modified version of the quasi-harmonic approximation (QHA). Instead of using Cartesian or internal coordinates, the configurational distribution, obtained from molecular dynamics (MD) simulations, is represented in normal coordinates. Overall translation, overall rotation and internal rotations are projected out of the MD trajectories by enforcing explicitly the Eckart-Sayvetz conditions for these motions, leaving only true vibrational movement. Both developed methods were tested by calculating the dissociation enthalpies of different proton bound cluster systems. Comparison with standard methods regarding experimental results showed that both methods have similar or better accuracy than the HA. Similar accuracy is only achieved for challenging cases with many internal rotations or very flexible structures. Here, the developed methods as well as the HA exhibit significant deviations from experimental results. Thus, the two methods capture the anharmonic effects to some degree and perform better than the HA for systems of small to medium anharmonicity. For strongly anharmonic systems their performance has room for improvement.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20200312-111139-2</identifier>
+                    <identifier type="doi">10.25926/x68p-cx61</identifier>
+                    <identifier type="sys">HT020465962</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_10370</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_10370">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2020/haack/dc2001.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_10370"
+            DMDID="DMD_wuppertal_elpub_10370">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_10370"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

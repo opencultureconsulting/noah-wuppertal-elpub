@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_4720">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Data Processing and Trace Gas Retrievals for the GLORIA Limb Sounder</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Guggenmoser, Tobias</displayForm>
+                        <namePart type="family">Guggenmoser</namePart>
+                        <namePart type="given">Tobias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The chemical composition of the Upper Troposphere and Lower Stratosphere (UTLS) region and the dynamical processes occurring within it have a particularly strong effect on radiative forcing, and hence surface climate. A lack of quantitative understanding of the region around the tropopause, and especially of exchange of trace constituents between the stratosphere and the troposphere, severely limits the predictive capabilities of current climate models. More and spatially better resolved observations are needed in order to close this gap. 
+ To this end, the Gimballed Limb Observer for Radiance Imaging of the Atmosphere (GLORIA) was developed in a collaboration between the German research centres Forschungszentrum Jülich GmbHand Karlsruher Institut für Technologie. GLORIA is the descendant of the highly successful MIPAS and CRISTA instruments and has been designed with both chemical and dynamical analysis of the UTLS in mind. 
+ The imaging technology utilised by GLORIA and the resulting high data rate present unprecedented opportunities for data analysis, but also challenges for the processing of the recorded measurements. In this work, a new integrated data processing system designed for GLORIA is presented, as well as novel techniques for calibration and diagnosis. 
+ As an application of the new data processing chain, a polar flight from the combined TACTS/ESMVal campaign is presented which was performed on September 23rd, 2012, along a trajectory mostly above the Scandinavian peninsula. A selection of measurements from this flight is processed into calibrated spectra and then analysed further using the JURASSIC2 retrieval processor. Retrieved cross-sections of ozone, nitric acid, water vapour and atmospheric temperature are shown and compared with calculations from the Chemical Lagrangian Model of the Stratosphere (CLaMS), as well as potential vorticity from the European Centre for Medium-Range Weather Forecasts (ECMWF). The measurements reveal a highly inhomogeneous UTLS region suggesting that tropospheric air masses have been transported into the polar stratosphere, which is also indicated by the ECMWF data and further supported by CLaMS trajectory calculations. Two main structures can be identified. One is an anticyclone resulting from a mid-latitude wave-breaking event that transported tropospheric air into the observed region. The other is a vertically confined cyclone of seemingly stratospheric origin. The results are a successful application of both the newly-developed processing chain as well as the GLORIA instrument itself and highlights GLORIA’s ability to observe the effect of dynamic and transport processes in the UTLS.</abstract>
+                    <abstract type="content" lang="ger">Die chemische Zusammensetzung der oberen Troposphäre und unteren Stratosphäre (UTLS¹) und die dynamischen Prozesse, welche sich in dieser Region abspielen, nehmen großen Einfluss auf den Strahlungsantrieb, und mithin auf das Oberflächenklima. Ein mangelndes quantitatives Verständnis des Bereichs um die Tropopause, und hierbei insbesondere im Hinblick auf den Austausch von Spurenstoffen zwischen Stratosphäre und Troposphäre, begrenzt stark die Vorhersagekraft derzeitiger Klimamodelle. Mehr und räumlich besser aufgelöste Beobachtungen sind vonnöten, um diese Lücke zu schließen. 
+ Zu diesem Zwecke wurde der Gimballed Limb Observer for Radiance Imaging of the Atmosphere² (GLORIA) entwickelt. GLORIA stellt ein Gemeinschaftsprojekt der deutschen Forschungszentren Forschungszentrum Jülich GmbH und Karlsruher Institut für Technologie dar. Es tritt in die Nachfolge der höchst erfolgreichen MIPAS- und CRISTAInstrumente und wurde für die chemische und dynamische Analyse der UTLS gleichermaßen ausgelegt. 
+ Die von GLORIA verwendete abbildende Technologie und die sich aus dieser ergebende hohe Datenrate bieten beispiellose Möglichkeiten für die Datenanalyse, stellen jedoch die Verarbeitung der aufgenommenen Messungen auch vor neue Herausforderungen. In dieser Arbeit wird ein neues, integriertes Datenverarbeitungssystem für GLORIA vorgestellt, zusammen mit neuartigen Techniken für die Kalibration und Diagnose. 
+ Als Anwendung der neuen Prozessierungskette wird ein polarer Forschungsflug gezeigt, welcher am 23. September 2012 im Rahmen der TACTS/ESMVal-Messkampagne hauptsächlich oberhalb der skandinavischen Halbinsel durchgeführt wurde. Eine Auswahl von Messungen dieses Fluges wird zu kalibrierten Spektren verarbeitet und dann unter Verwendung des JURASSIC2-Retrieval-Prozessors weiter analysiert. Abgeleitete Querschnitte für Ozon, Salpetersäure und Wasserdampf, sowie für die atmosphärische Temperatur, werden gezeigt und mit Rechnungen des Chemical Lagrangian Model of the Stratosphere (CLaMS), sowie mit Daten für die potentielle Vortizität, welche vom European Centre for Medium-Range Weather Forecasts (ECMWF) bereitgestellt wurden, verglichen. Die Messungen offenbaren eine in hohem Maße inhomogene UTLS-Region, welche einen vorangegangenen Transport troposphärischer Luftmassen in die polare Stratosphäre nahelegt. Dieser Schluss wird weiter bestärkt durch den Verlauf von mit CLaMS berechneten Rückwärtstrajektorien. Zwei hauptsächliche Strukturen können ausgemacht werden. Die eine ist ein Antizyklon, welcher von einem Wellenbrechereignis in den mittleren Breiten herrührt, die andere ist ein vertikal begrenzter Zyklon scheinbar stratosphärischen Ursprungs. Die Ergebnisse stellen eine erfolgreiche Anwendung sowohl der neu entwickelten Verarbeitungskette als auch des GLORIA-Instrumentes selbst dar und verdeutlicht die Fähigkeit desselben, die Auswirkungen dynamischer Vorgänge und Transportprozesse in der UTLS-Region zu beobachten. 
+
+ ------------------------------------------------------------- 
+
+ ¹engl. Upper Troposphere and Lower Stratosphere 
+²zu deutsch etwa “Kardanischer Horizontsondierer für abbildende Strahlungsmessungen in der Atmosphäre”</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20150401-153714-6</identifier>
+                    <identifier type="sys">HT018611576</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_4720</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_4720">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2014/guggenmoser/dc1437.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_4720"
+            DMDID="DMD_wuppertal_elpub_4720">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_4720"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

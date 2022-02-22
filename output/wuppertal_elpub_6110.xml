@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6110">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Search for mildly relativistic Magnetic Monopoles with IceCube</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Pollmann, Anna Maria</displayForm>
+                        <namePart type="family">Pollmann</namePart>
+                        <namePart type="given">Anna Maria</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The existence of magnetic monopoles is motivated by various theories which extend the Standard Model of particles. Monopoles could have been created in an early epoch of the Universe as stable particles carrying magnetic charge. Cosmic magnetic fields would accelerate them to relativistic velocities. Due to these high kinetic energies monopoles can pass through massive objects, such as the Earth, and remain relativistic despite their huge energy loss in matter.
+
+ Equivalently to electrically charged particles, magnetic monopoles produce direct Cherenkov light while traversing through ice with a velocity of &gt; 0:76 c. Below this threshold monopoles are energetic enough to ionize the surrounding matter by knocking electrons off their atoms. If these δ-electrons are accelerated to velocities above 0:76 c, they produce Cherenkov light. This indirect Cherenkov light induced by a monopole occurs down to a velocity of about 0:45c.
+
+ The IceCube neutrino telescope is a Cherenkov detector which is suitable for monopole searches. Previous searches in IceCube data focused on highly relativistic (&gt; 0:76 c.) and non-relativistic (&lt; 0:1c.) monopole signatures.
+
+ The analysis presented in this work is distinct from previous analyses in IceCube as it extends the search range to intermediate velocities by using indirect Cherenkov light as a detection signature. This work describes the search for mildly relativistic monopoles using one year of IceCube data taken in the 2011/2012 season. No monopole candidate was detected and the flux is constrained down to a level of 1:55*10-18 cm-2s-1sr-1. This is an improvement of almost two orders of magnitude over previous limits.</abstract>
+                    <abstract type="content" lang="ger">Magnetische Monopole sind definiert als als magnetische Punktquelle die nur eine magnetische Ladung umfasst. Im klassischen Sinne können magnetische Monopole als Teilchen bezeichnet werden. In moderneren Theorien werden sie als topologische Defekte des Vakuums vorhergesagt, in dessen Inneren die Vereinheitlichung von elektromagnetischer, schwacher und starker Kraft bewahrt wird, die kurz nach dem Urknall im Universum geherrscht haben könnte. Die Theorien stützen sich auf relativ fundamentale und weithin akzeptierte Annahmen. Magnetische Monopole sind einer der vielversprechendsten Vorhersagen von unbekannter Physik außerhalb des Standardmodells der Teilchenphysik, obwohl es bisher keinen bestätigten experimentellen Nachweis der Existenz von magnetischen Monopolen gibt.
+
+ Magnetische Monopole können im Universum durch Magnetfelder auf hohe Geschwindigkeiten beschleunigt werden. Wenn sie durch Materie fliegen, bewirken sie bei entsprechend hohen Geschwindigkeiten direkt oder indirekt die Erzeugung von Cherenkov Licht. Dies ist polarisiertes Licht mit kontinuierlichem Spektrum, dass einen dominierendem blauen/ultraviolettem Anteil hat.
+
+ Das Neutrinoteleskop IceCube ist ein Cherenkov-Licht-Detektor, der aufgrund seines großen Volumens besonders für die Suche nach sehr seltenen Teilchen geeignet ist und deshalb in dieser Arbeit für die Suche nach magnetischen Monopolen verwendet wird. IceCube wurde bis Dezember 2010 in der Nähe des geographischen Südpols in der Antarktis gebaut. Diese Arbeit verwendet die Daten, die vom Detektor in der Saison April 2011 bis April 2012 aufgezeichnet wurden.
+
+ In dieser Arbeit werden magnetische Monopole gesucht, die bei Erreichen des IceCube Detektors eine Geschwindigkeit unterhalb der Cherenkov-Schwelle haben, also weniger als 76% der Lichtgeschwindigkeit im Vakuum. Die theoretischen Grundlagen der entsprechenden Detektionsmethode, basierend auf indirektem Cherenkov-Licht, werden in dieser Arbeit ausführlich hergeleitet und entsprechen nicht bisherigen Interpretationen anderer Experimentatoren.
+
+ Die technische Umsetzung der Analyse umfasst unter anderem die Implementierung der theoretischen Überlegungen in eine Simulation der hypothetischen Signale von magnetischen Monopolen im IceCube Detektor. Diese werden mit den Untergrund-Ereignissen erzeugt von Teilchen des Standardmodells verglichen, vor allem Myonen und atmosphärisch erzeugten Myon-Neutrinos. Hierzu wird die Palette der Variablen, die standardmäßig in IceCube Analysen rekonstruiert wird, durch weitere zeit- und helligkeitsabhängige Parameter ergänzt. Unter Verwendung dieser Variablen kann die Signatur von Monopolen mit einfachen Algorithmen von sonstigen Signalen separiert werden.
+
+ In der IceCube Kollaboration werden derartige Analysen blind durchgeführt, also ohne Einsicht in die Daten, da experimentelle Suchen nach besonders seltenen Teilchen durch die Erwartung des Experimentators unbewusst beeinflusst werden könnten und dadurch ihre Aussagekraft verlieren. Jedoch steht, wegen des großen Zeitaufwandes für ihre Erzeugung, nicht ausreichend Statistik an simulierten Untergrund-Ereignissen zur Verfügung. Um dennoch eine statistisch signifikante Analyse durchführen zu können, wird eine Resampling- Methode verwendet, die nur einmal zuvor verwendet wurde. Ihre Zuverlässigkeit und Aussagekraft wird in dieser Arbeit ausführlich getestet.
+
+ Nach dem Festsetzen aller Selektionskriterien für Monopole und Berechnung der statistischen Erwartung bezüglich des Ausgangs des Experiments wurde die Analyse auf die Ice- Cube Daten angewendet. Bei einer Erwartung von maximal 3,6 Untergrund-Ereignissen, berechnet mit der Resampling-Methode, wurden 3 Signale beobachtet. Auch die Visualisierung der entsprechenden Ereignisse bestätigt die untergrundartige Signatur. Die verwendete Resampling-Methode erwies sich aufgrund der korrekten Vorhersage des Untergrundes als erfolgreich. Zudem können obere Grenzen auf den Fluss von magnetischen Monopolen für einen unerwartet großen Parameterbereich gesetzt werden, die vorherige Grenzen um fast zwei Größenordnungen unterbieten.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20160824-113132-8</identifier>
+                    <identifier type="sys">HT019075797</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6110</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6110">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2016/pollmann/dc1619.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6110"
+            DMDID="DMD_wuppertal_elpub_6110">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6110"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

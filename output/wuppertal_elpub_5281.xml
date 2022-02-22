@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5281">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Ein </nonSort>
+                        <title>übergreifendes Modell zur Optimierung von Netz und Netzbetrieb</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Thies, Hans Henning</displayForm>
+                        <namePart type="family">Thies</namePart>
+                        <namePart type="given">Hans Henning</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Zdrallek, Markus</displayForm>
+                        <namePart type="family">Zdrallek</namePart>
+                        <namePart type="given">Markus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Netzbetreiber sehen sich heute einem immer stärkeren Kostendruck ausgesetzt. Aufgrund regulatorischer Vorgaben müssen sie dabei nicht nur Effizienzsteigerungen realisieren, sondern gleichzeitig die Versorgungszuverlässigkeit auf einem volkswirtschaftlich akzeptablen Niveau halten. Prinzipiell können Netzbetreiber im Zuge ihrer qualitätsbedingten Optimierungsüberlegungen die Versorgungszuverlässigkeit auf zwei Wegen beeinflussen. Investitionen in die Netze, wie bspw. die Verkabelung von Freileitungen, bewirken insbesondere eine Verminderung der Anzahl von Störungen. Durch die Ausstattung von Schalteinrichtungen mit Fernsteuerung oder dem vermehrten Aufbau redundanter Netzstrukturen kann aber auch die Dauer von Versorgungsunterbrechungen verkürzt werden. Eine Veränderung von Betriebskosten kann durch die gewählte Instandhaltungsstrategie und den gezielten Einsatz von Betriebsmitarbeitern nach Störungen hervorgerufen werden. Unterschiedliche Instandhaltungsstrategien wirken dabei auf die Häufigkeit von Störungsereignissen. Die Anzahl der verfügbaren Betriebsmitarbeiter bestimmt, wie schnell Schalthandlungen und Reparaturen ausgeführt werden können. In dieser Arbeit wird ein Gesamtmodell vorgestellt, welches sowohl Netz als auch Netzbetrieb und damit die Einflussgrößen der Netzbetreiber auf die Versorgungszuverlässigkeit umfassend nachbildet und Optimierungsmaßnahmen auf ihre Wirkung hin überprüft. Zur Nachbildung des Netzes ist ein Störungsmodell implementiert, welches die vollständige Beschreibung der Betriebsmittel und Netzstrukturen ermöglicht. Unter Verwendung verschiedener Ausfall- und Wiederversorgungsmodelle wird eine analytische Zuverlässigkeitsberechnung ausgeführt, aus der sich der Bedarf an Betriebsmitarbeitern ableiten lässt. Mit Hilfe dieses Teilmodells kann nicht nur der Einfluss der Netzstruktur und der Auslegung des Netzes auf die Versorgungszuverlässigkeit untersucht werden, sondern ebenfalls Instandhaltungs- und Erneuerungsstrategien von Netzbetreibern simuliert werden. Die Nachbildung des Netzbetriebs erfolgt über eine Betriebssimulation. Es lassen sich sowohl Anzahl und Spezialisierung von Betriebsmitarbeitern als auch korrespondierende Zuständigkeitsbereiche beschreiben. Weiterhin können unternehmensindividuelle Einsatzstrategien für Betriebsmitarbeiter beschrieben werden. Im Rechenkern der Betriebssimulation wird durch die Nachbildung der betrieblichen Entscheidungsprozesse der Bedarf an Betriebsmitarbeitern von dem entsprechenden, zeitabhängigen Dargebot an Betriebsmitarbeitern gedeckt. Die in dieser Arbeit vorgestellte gemeinsame Nachbildung von Netz und Netzbetrieb stellt eine wichtige Ergänzung sowohl der bekannten Modelle der Zuverlässigkeitsberechnung als auch der Modelle der Betriebssimulation dar. Es kann nun auf die pauschale Nachbildung der Verfügbarkeit von Betriebsmitarbeitern in der Zuverlässigkeitsberechnung einerseits und des Störungsgeschehens in der Betriebssimulation andererseits verzichtet werden, sodass wesentlich detailliertere Störungsabläufe entstehen, die sowohl von Netz wie auch von Netzbetrieb abhängen. Der entscheidende Beitrag der Arbeit ist jedoch, dass erstmals übergreifende Analysen von Netz und Netzbetrieb möglich werden. Vor dem Hintergrund, dass sich die Kosten von Netzbetreibern aus Netz- und Netzbetriebskosten sowie Kosten infolge von Versorgungsunterbrechungen zusammensetzen, können nun erstmals alle Einflussgrößen auf die störungsbedingten Kosten gemeinsam untersucht werden. Mit dem Modell kann durch Substitution von Netz durch Netzbetrieb bzw. umgekehrt das Gesamtkostenoptimum von Netzbetreibern bestimmt werden, sodass langfristige Strategien für die Entwicklung von Netz und Netzbetrieb, aber auch der Optimierung der Versorgungszuverlässigkeit, entwickelt werden können.</abstract>
+                    <subject>
+                        <topic>Zuverlässigkeitsberechnung</topic>
+                        <topic>Betriebssimulation</topic>
+                        <topic>Versorgungszuverlässigkeit</topic>
+                        <topic>Optimierung von Netz und Netzbetrieb</topic>
+                        <topic>Qualitätsregulierung</topic>
+                    </subject>
+                    <classification authority="ddc">600</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20151103-094435-5</identifier>
+                    <identifier type="sys">HT018832840</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5281</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5281">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2015/thies/de1503.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5281"
+            DMDID="DMD_wuppertal_elpub_5281">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5281"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

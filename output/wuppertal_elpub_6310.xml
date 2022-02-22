@@ -1,0 +1,80 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6310">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Applying Live Job Monitoring Techniques to Monte Carlo Validation</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Volkmer, Frank</displayForm>
+                        <namePart type="family">Volkmer</namePart>
+                        <namePart type="given">Frank</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Matting, Peter</displayForm>
+                        <namePart type="family">Matting</namePart>
+                        <namePart type="given">Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wulff, Nikolaus</displayForm>
+                        <namePart type="family">Wulff</namePart>
+                        <namePart type="given">Nikolaus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schwanenberger, Christian</displayForm>
+                        <namePart type="family">Schwanenberger</namePart>
+                        <namePart type="given">Christian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Monte Carlo (MC) Berechnungen sind ein wichtiger Bestandteil von Hochenergiephysikexperimenten und werden von spezieller Software ausgeführt, welche die Partikelkollisionen in Experimenten simulieren, um diese mit echten Messdaten zu vergleichen. Diese Softwarepakete werden regelmäßig verbessert und müssen deswegen gegen bekannte Versionen validiert werden, um sicher zu stellen, dass alles fehlerfrei funktioniert. In dieser Arbeit wird eine Erweiterung des Job Execution Monitor (JEM) Frameworks präsentiert, welche es erlaubt die oben erwähnten Validierungen automatisch und standardisiert durchzuführen. JEM ist ein Benutzer-zentrierter Monitoring-Ansatz, welcher in der Lage ist eine große Anzahl verschiedener Messdaten über einen im Grid laufenden Job zu ermitteln. JEM wurde im Grid Computing Ökosystem des ATLAS Experiments entwickelt, kann aber auch in anderen Grid Computing Bereichen eingesetzt werden. Diese Arbeit diskutiert ausführlich die verschiedenen JEM-Subsysteme, welche bei den Monte Carlo Validierungen notwendig sind. Diese umfassen einen dynamisch konfigurierbaren ActivationService, mit dem ausgewählte Grid-Jobs mit JEM-Modulen instrumentiert werden, um Qualitätshistogramme von Produktionsjobs zu erstellen und einen zentralen Server, wo diese Histogramme gesammelt, zusammengefasst und ausgewertet werden. Die bei dieser Auswertung entstehenden Qualitätswerte werden gespeichert, aufbereitet und auf einer Webseite zur Verfügung gestellt.</abstract>
+                    <abstract type="content" lang="eng">Monte Carlo (MC) computation is a necessary part of high energy particle physics experiments and is done in large quantities to gain statistical relevant data. Special software to simulate particle collisions is used and provides theoretical data to compare against experimental results. These software packages are regularly improved and therefore need to be validated against known versions to ensure proper functionality. In this thesis, an extension of the Job Execution Monitor (JEM) framework is presented, which enables the afore mentioned validation efforts with an automated and standardized approach. JEM is a user job centric monitoring approach, that is able to gather a wide variety of measurements of a monitored job instance. JEM was written for the Grid Computing environment of the ATLAS experiment, but is not limited to its computational ecosystem. This thesis discusses in depth the various JEM subsystems necessary to aid the Monte Carlo validation efforts. These are a dynamically configurable ActivationService, which allows selective and automated instrumentation of Grid jobs with arbitrary JEM modules to generate quality histograms of production jobs, an automated histogram merging and comparison system to produce measures, which gives a quality value for each comparison and a web service allowing comfortable control of the validation functionality and to view the results on special web pages.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20161123-102559-1</identifier>
+                    <identifier type="sys">HT019170061</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6310</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6310">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2016/volkmer/dc1628.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6310"
+            DMDID="DMD_wuppertal_elpub_6310">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6310"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

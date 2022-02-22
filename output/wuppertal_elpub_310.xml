@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_310">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Analysis of non-forward quark-quark correlator</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Casanova, Sabrina</displayForm>
+                        <namePart type="family">Casanova</namePart>
+                        <namePart type="given">Sabrina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-09-11</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In this work we define forward and off-forward quark-quark correlation functions both in a spin and in a light-cone helicity basis. The properties of quark-quark correlators, which play a crucial role in the investigation of the internal structure of hadrons, are here examined. We derive constraints on forward and off-forward quark-quark correlation functions, implementing the known properties of the fundamental fields of Quantumchromodynamics (QCD), quarks and gluons, under parity and time reversal transformations and applying hermiticity. We develop a new method to construct ansätze for these correlators both in a spin and in a light-cone helicity basis. These ansätze are based on general principles and are obtained as tensor products of the set of independent Dirac matrices with the independent hadronic spinorial products. These are further saturated by tensors dependent on the available vectors, which occur in the definition of the correlators. The constraints obtained are applied to reduce the number of independent terms forming the ansätze. Furthermore we express ordinary and skewed parton distributions (SPDs) in terms of the independent amplitudes of which the ansätze for forward and off-forward quark-quark correlators consist. Finally we present the complete leading order analysis of ordinary and skewed parton distributions and we conclude that the number of independent skewed parton helicity changing distributions is four.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20010425</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_310</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_310">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-404/d080101.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_310"
+            DMDID="DMD_wuppertal_elpub_310">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_310"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

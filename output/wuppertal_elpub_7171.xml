@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_7171">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Location Problems with k-max Functions - Modelling and Analysing Outliers in Center Problems</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schnepper, Teresa</displayForm>
+                        <namePart type="family">Schnepper</namePart>
+                        <namePart type="given">Teresa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Location models typically use the distances to all customer locations for the assessment of the service provided by one or several new facilities. Particularly when locating central facilities, i.e. when using a center objective function, the optimal new locations are sensitive to outliers among the customer locations that are located far away from the majority of customers. In this dissertation, the exclusion of very distant facilities in an absolute center location problem on a graph is modelled by using k-max functions: Not the maximal, but the k-th largest distance is minimized, with k larger or equal 1. Thus, the k-max function is a generalisation of the well known center function. 
+The k-max function is analysed for its mathematical properties, and its relation to other well known functions used in location theory is derived. The focus in this thesis is set on three topics: The derivation and discussion of advantages and disadvantages of different modelling approaches, and the analysis of single-facility k-max problems on networks as well as the more complex multi-facility problems on networks. For the solution of these problems, several finite dominating sets with different properties are derived and approaches for their efficient evaluation are introduced. The derived algorithms are implemented and the results of the extensive computational tests are presented.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170802-142024-4</identifier>
+                    <identifier type="sys">HT019426494</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_7171</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_7171">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2017/schnepper/dc1717.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_7171"
+            DMDID="DMD_wuppertal_elpub_7171">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_7171"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

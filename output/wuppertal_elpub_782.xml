@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_782">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Syntheses and properties of compounds containing the bis(trifluoromethyl)amido group</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kucheryna, Andriy</displayForm>
+                        <namePart type="family">Kucheryna</namePart>
+                        <namePart type="given">Andriy</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-03-12</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Das Ziel dieser Arbeit war die Entwicklung von (i) Synthesewegen zu Salzen mit dem [N(CF₃)₂]⁻-Anion und (ii) Methoden zur Einführung der Bis(trifluoromethyl)-aminogruppe in organische Substanzen unter Verwendung dieser Salze. 
+Die als Ausgangsverbindungen verwendeten N,N-Bis(trifluoromethyl)perfluoralkylsulfonamide und N,N-Bis(trifluoromethyl)perfluorakylacylamide wurden durch elektrochemische Fluorierung hergestellt. Es konnte gezeigt werden, dass diese Substanzen ideale Ausgangstoffe für die Herstellung von Salzen mit dem [N(CF₃)₂]⁻-Anion sind. 
+Die neuen stabilen [N(CF₃)₂]⁻-Salze mit Tetraalkylammonium- oder Phosphonium-Kationen konnten in organischen Reaktionen verwendet werden und eine Reihe neuer Verbindungen mit der Bis(trifluoromethyl)aminogruppe wurde auf diese Weise erhalten. 
+Da das [N(CF₃)₂]⁻-Anion ein schwaches Nukleophil ist und leicht ein Fluorid-Anion abspaltet, kam es zu Konkurrenzreaktionen zwischen dem [N(CF₃)₂]⁻- und dem Fluorid-Anion in organischen Synthesen. 
+Die elektrochemischen Eigenschaften von N,N-Bis(trifluoromethyl)perfluoralkyl-sulfonamiden, N,N-Bis(trifluoromethyl)perfluoralkylacylamiden und dem [N(CF₃)₂]⁻-Anion wurden untersucht. Die Eignung des [N(CF₃)₂]⁻-Anions für elektrochemische Synthesen ließ sich nachweisen.</abstract>
+                    <abstract type="content" lang="eng">The aim of this thesis was to develop (i) a convenient route to materials containing the [N(CF₃)₂]⁻-anion and (ii) methods for the introduction of the bis(trifluoromethyl)amino-group into organic substances by using these materials. 
+Electrochemical fluorination was used for the syntheses of the starting compounds N,N-bis(trifluoromethyl)perfluoroalkylsulfonamides and N,N-bis(trifluoromethyl)- perfluoroalkylacylamides. It was shown that these compounds can be used for the convenient generation of the [N(CF₃)₂]⁻-anion and different salts were prepared, and their properties and reactivity investigated. 
+The new stable [N(CF₃)₂]⁻-salts with tetraalkylammonium and phosphonium cations can be used in common organic syntheses. In this manner new organic compounds bearing the bis(trifluoromethyl)amino group were synthesized. 
+It was shown that the [N(CF₃)₂]⁻-anion is a weak nucleophile which can easily split off a fluorine-anion which leads to competitive reactions between the [N(CF₃)₂]⁻- and fluoride anion with organic compounds. 
+The electrochemical properties of N,N-bis(trifluoromethyl)perfluoroalkyl-sulfonamides, N,N-bis(trifluoromethyl)perfluoroalkylacylamides and the [N(CF₃)₂]⁻-anion were investigated. It was shown that the [N(CF₃)²]⁻ anion can be used in electrochemical syntheses.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20070122</identifier>
+                    <identifier type="sys">HT015019183</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_782</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_782">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2006/kucheryna/dc0618.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_782"
+            DMDID="DMD_wuppertal_elpub_782">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_782"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

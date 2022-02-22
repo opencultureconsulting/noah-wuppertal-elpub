@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_7560">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Numerische und experimentelle Untersuchung von Brandrauch unter Berücksichtigung von flammenden und nicht-flammenden Verbrennungsvorgängen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Monreal, Nils</displayForm>
+                        <namePart type="family">Monreal</namePart>
+                        <namePart type="given">Nils</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Barth, Uli</displayForm>
+                        <namePart type="family">Barth</namePart>
+                        <namePart type="given">Uli</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In dieser Arbeit werden die Brandmodelle der computational fluid dynamics (CFD)-Programme ANSYS CFX 14.5 und FDS (NIST, Version 5.5.3) durch selbst entwickelte Gleichungen für verschiedene Materialien (Polyurethan und Polyvinylchlorid) bei verschiedenen Brandsituationen (flammende und nicht-flammende Verbrennung) verfeinert. Dazu wurden Versuche mit unterschiedlichen Brandtemperaturen und Belüftungszuständen mit der Smoke Density Chamber (SDC) und in einem modifizierten DIN-Rohr mit Fourier-Transform-Infrarotspektrometer (FT-IR) zur Rauchgasanalyse durchgeführt. Aus den Messwerten aus diesen Versuchen wurden neue situationsspezifische Reaktionsgleichungen für die untersuchten Materialien abgeleitet. In mit CFX durchgeführten Simulationen der SDC wurden die neu entwickelten Gleichungen eingesetzt und die Simulationsergebnisse mit den Versuchen in der SDC verglichen. Es stellte sich heraus, dass die selbst entwickelten Reaktionsgleichungen die Versuchsergebnisse sehr viel besser wiedergaben als die standardmäßig in CFX implementierten. Die neue, verbesserte Brandmodellierung wurde anschließend unter Verwendung von CFX auf eine Brandsituation in einer Hotellobby angewendet und mit Ergebnissen einer bisher üblichen Berechnung mit FDS verglichen. Die Simulation der auftretenden Rauchverhältnisse verdeutlichte zusätzlich die Wichtigkeit der neuen Ergebnisse dieser Arbeit, da sich zeigte, dass bei einer nicht-flammenden Verbrennung eine größere Menge Rauch entstehen kann, obwohl die Wärmefreisetzung nicht besonders hoch ist. Das führt bei der Verwendung eines Modells für flammende Verbrennung zu einer signifikanten Unterschätzung der Rauchmenge. Dies kann zu einer fehlerhaften Bemessung von Fluchtwegen führen.</abstract>
+                    <abstract type="content" lang="eng">Aim of this work was the enhancement of fire models of the computational fluid dynamics (CFD) programmes ANSYS CFX 14.5 and FDS (NIST, version 5.5.3) with development of new calculated reaction equations for different materials (polyurethane and polyvinylchloride) under different combustion conditions (flaming and non-flaming combustion). Experiments were performed in the Smoke Density Chamber (SDC) and a modified DIN tube with Fourier-Transformations-Infrarotspektrometer (FT-IR) analysis for smoke gas measurements under different ventilation and temperature conditions. Results of these experiments were used to develop new situative adapted reaction equations for the investigated materials. For numerical simulations with CFX the new equations were implemented and used to compare the numerical predictions with experimental results of SDC experiments. Use of the new equations gives better results than the standard equations. The new developed fire models in CFX were used to predict a fire scenario in a hotel lobby compared to results with standard models in FDS. Comparison of both simulations show the importance of adapted reactions. In non-flaming combustion the amount of smoke can be significantly high although the heat release might be not especially high. For that reason a prediction of the same situation with a numerical model for flaming combustion can underestimate the smoke production significantly. Escape routes can be negatively affected.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Maschinenbau und Sicherheitstechnik » Sicherheitstechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20171219-115911-2</identifier>
+                    <identifier type="sys">HT019544883</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_7560</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_7560">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/sicherheitstechnik/diss2017/monreal/dd1706.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_7560"
+            DMDID="DMD_wuppertal_elpub_7560">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_7560"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

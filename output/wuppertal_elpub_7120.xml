@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_7120">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>&quot;Ich glaube, das wird ein langer Weg&quot; - Zur Syntax und Pragmatik von V2-Pendants abhängiger VL-Sätze</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Staratschek, Nathalie</displayForm>
+                        <namePart type="family">Staratschek</namePart>
+                        <namePart type="given">Nathalie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lohnstein, Horst</displayForm>
+                        <namePart type="family">Lohnstein</namePart>
+                        <namePart type="given">Horst</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Petrova, Svetlana</displayForm>
+                        <namePart type="family">Petrova</namePart>
+                        <namePart type="given">Svetlana</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die vorliegende Arbeit stellt den Versuch dar, aus der detaillierten und systematischen Beschreibung der syntaktischen, semantischen und pragmatischen Eigenschaften von Sätzen mit Verbzweitstellung (V2) , die alternativ zu durch „weil“ eingeleiteten Kausalsätzen, Relativsätzen und dass-Komplementen auftreten, eine These zur übergreifenden Funktion dieser Verbstellung abzuleiten. Der Vergleich der Charakteristika mündet in der Identifizierung eines gemeinsamen funktionalen Kerns, nämlich der assertiven Funktion von V2 in [-w]-Kontexten. Diese assertive Operation, die in Anlehnung an Stalnaker (1978/1999) als eine Reduzierung der Welten einer Kontextmenge definiert wird, findet je nach syntaktischem Status des V2-Satzes Anwendung auf unterschiedliche Kontexte. Dabei führt eine syntaktische Desintegration zu einer Anwendung auf die Kontextmenge CS, dem ‚context set‘. Syntaktische Integration, wenn auch in geringerem Grade, beschränkt diese Operation auf Subkontexte der CS, so z.B. auf das gemeinsame Wissen zum Sprecherglauben. Der Einfluss der Verbmodi findet Eingang in die Beschreibung der Assertionsoperation und wird als Mittel zur Bestimmung des zu reduzierenden Kontexts interpretiert. So verursacht die Verwendung wahrheitswertfähiger Verbmodi ein Kontextupdate, das die CS betrifft, während reportative Verbmodi zu einer Kontexterweiterung des gemeinsamen Wissens zum Einstellungssubjekt führen. Die Verbmodi bestimmen so im Zusammenspiel mit dem syntaktischen Status den Wirkungsraum der Assertion. Ergebnis der Arbeit ist die Annahme, dass V2, wenn auch nicht das einzige, so doch das Defaultmittel zur Kodierung von Assertion darstellt. In der Folge wird jedoch die Aussicht auf die Untersuchung einer These eröffnet, bei der eine Abkehr von der Idee, dass auch Verbletzt-Stellung (VL) assertive Kontexte erlaubt, untersucht werden soll. Dies würde V2 als einzige assertive Verbstellung wieder in den Fokus rücken.</abstract>
+                    <abstract type="content" lang="eng">This book aims to identify a generalized function of verbal movement into the second position (V2) in German sentences. It does so via a detailed and systematic description and comparison of syntactic, semantic and pragmatic characteristics of V2-alternates of causal clauses sporting ‚weil‘ as conjunction, relative clauses and ‚dass‘-complements. This comparison yields the definition of the common functional core of V2, a presumed assertive function of V2 in [-wh]-sentences. Depending on the syntactic integration or disintegration of the sentence different contexts are targeted by the assertive operation, whose definition is inspired by Stalnakers (1978/1999) work. Assertion is understood as a reductive operation which eliminates worlds from sets, where syntactic disintegration leads to the update of common knowledge or more precisely the context set CS and a certain degree of integration to the update of sub-contexts, e.g. the common knowledge concerning the epistemic system of the speaker. The influence of verbal mood is an essential part of this redefined assertive operation and is defined as a mean to determine which context is to be updated. While indicative and ‚Konjunktiv II‘ target the CS, the moods indicating reportative settings redirect the operation to a sub-context, namely the common knowledge w.r.t. the epistemic subject. Verbal mood and syntactic status together do thus define the contextual scope of the assertion. In conclusion it will be stated that V2 may not be the only, but seems to be the default-mean to encode assertion. As a result a peek into further research proposes the defiance of the idea that non-V2-sentences carry assertive potential at all, which brings V2 back into focus as the only marker for assertion.</abstract>
+                    <subject>
+                        <topic>V2 Assertion Brückenverben RV2 KV2 WV2</topic>
+                    </subject>
+                    <classification authority="ddc">430</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » Germanistik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170731-122808-4</identifier>
+                    <identifier type="sys">HT019546336</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_7120</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_7120">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fba/germanistik/diss2017/staratschek/da1702.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_7120"
+            DMDID="DMD_wuppertal_elpub_7120">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_7120"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

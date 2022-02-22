@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3824">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entwicklung eines integrierten LED-Kalibrationssystems und Studien zur Ortsauflösung für das szintillatorbasierte hadronische CALICE Kalorimeter</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Weber, Sebastian</displayForm>
+                        <namePart type="family">Weber</namePart>
+                        <namePart type="given">Sebastian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In der Hochenergiephysik ist für die Zukunft der Bau eines Elekton-Positron-Beschleunigers (ILC oder CLIC) mit einer Schwerpunktenergie von 500 GeV bis 3 TeV geplant. Im Rahmen der CALICE-Kollaboration wurde u.a. ein Konzept für ein hadronisches Kalorimeter dieser Beschleuniger entwickelt, welches insgesamt etwa 8 Mio. Szintillatoren von 3x3 cm als aktives Material vorsieht. Zur Auslese kommen Siliziumphotomultiplier (SiMP) zum Einsatz, mit welchen sich extrem schwache Lichtsignale messen lassen. Im Rahmen dieser Dissertation wurde das &quot;integrierte LED-Kalibrationssystem&quot; entwickelt. Es besteht aus einer elektronischen Schaltung mit einer LED, welche sich über jedem einzelnen Szintillator befindet. Es ist in der Lage, die für die regelmäßige Kalibration der SiPM erforderlichen Lichtpulse von nur etwa 5 bis 10 ns Länge zu erzeugen. Dabei wurden weitere spezifische Anforderungen wie geringe Wärmeabstrahlung und Kompaktheit der Schaltung berücksichtigt. Durch die starke Segmentierung des Kalorimeters erhält man neben der Energie- auch eine Ortsinformation. Aus Daten, die mit einem Prototypen des Kalorimeters an verschiedenen Beschleunigeranlagen (CERN, Fermilab) gewonnen wurden, wurden in dieser Arbeit die exakten Positionen der Kacheln im jeweiligen Aufbau ermittelt. Daneben wurde die Ortsauflösung des Kalorimeters für Positronen bestimmt, welche (energieabhängig) im Bereich von etwa 1 bis 2 mm liegt.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20131213-090928-8</identifier>
+                    <identifier type="sys">HT018113174</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3824</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3824">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2012/weber/dc1233.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3824"
+            DMDID="DMD_wuppertal_elpub_3824">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3824"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_11841">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>dynamics of long-range regressions during sentence reading</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Friede, Anne</displayForm>
+                        <namePart type="family">Friede</namePart>
+                        <namePart type="given">Anne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-07</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Blickbewegungen, die während des Lesens gegen die Leserichtung programmiert werden, dienen der Verständnissicherung und werden als Regressionen bezeichnet. Lange Regressionen verlassen dabei das aktuelle Wort, um auf einem Wort weiter links im Satz oder Text zu landen. Die Diskussion um die zugrundeliegenden Mechanismen der Programmierung dieser langen Regressionen hat zwei gegensätzliche Hypothesen hervorgebracht. Die spatial coding hypothesis nimmt an, dass die Position von Wörtern im räumlichen Gedächtnis gespeichert wird und dies die benötigten Informationen zur Programmierung von Regressionen liefert. Im Gegensatz dazu geht die verbal reconstruction hypothesis davon aus, dass die Position von Wörtern in einem Satz durch linguistisches Wissen, vor allem aus dem verbalen Arbeitsgedächtnis, erschlossen wird. 
+ Experiment 1 und 2 der vorliegenden Dissertation tragen zu dieser Diskussion bei, indem sie die Einflüsse des räumlichen Gedächtnisses und der Lesefähigkeit auf die Korrektheit langer Regressionen untersuchen. Die Ergebnisse von Experiment 1 zeigen, dass für erwachsene, geübte Leser die Kapazität des dynamischen räumlichen Arbeitsgedächtnisses ausschlaggebend für die Korrektheit von langen Regressionen ist und damit den Anteil an single shot-Regressionen bestimmt. Leseverständnis und Lesegeschwindigkeit beeinflussen den Korrekturprozess, der notwendig wird, wenn die initiale Regression das Zielwort nicht trifft. Eine hohe Lesekompetenz geht dabei mit einer geringeren Anzahl notwendiger Sakkaden und einer geringeren Regressionszeit einher. 
+ In Experiment 2 wurden die Mechanismen der Programmierung von Regressionen zwischen Kindern und Erwachsenen verglichen. Bei Kindern in der 4. Klasse erwies sich das statische räumliche Arbeitsgedächtnis als entscheidender Faktor für die Genauigkeit von Regressionen. Die Lesefähigkeit war, wie auch bei Erwachsenen, bedeutend für das Korrigieren zu kurzer oder zu langer initialer Regressionen. Insgesamt zeigten Kinder weniger genaue Regressionen und mussten häufiger oft nach dem Zielwort suchen. 
+ Eine Verbindung zwischen der Funktion von Regressionen und dem zugrundliegenden Mechanismus der Programmierung zeigten die Ergebnisse des Experiments 3. Regressionen zu schwierigen Wörtern waren genauer als Regressionen zu einfachen Wörtern. Damit ist gezeigt, dass der kognitive Aufwand bei der Verarbeitung von Wörtern für die Speicherung der Wortpositionsinformationen im räumlichen Gedächtnis und damit die Genauigkeit der Programmierung von Regressionen von hoher Bedeutung ist.
+ Experiment 4 untersuchte die Frage nach einem Referenzsystem für die Speicherung räumlicher Informationen über Wortpositionen. Der Vergleich von Regressionen innerhalb eines langen Satzes, der aus zwei Teilsätzen besteht und von Regressionen zwischen zwei kurzen Sätzen, die durch einen Punkt voneinander getrennt sind, zeigte, dass die Genauigkeit langer Regressionen nicht durch das Überqueren einer Satzgrenze beeinflusst wird. Das deutet darauf hin, dass die Zeile als räumliches Kriterium eine wichtige Funktion hat und entscheidender ist, als der Satz als linguistisches Konstrukt.</abstract>
+                    <classification authority="ddc">150</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Human- und Sozialwissenschaften » Psychologie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20210607-115234-4</identifier>
+                    <identifier type="doi">10.25926/z7dq-9c17</identifier>
+                    <identifier type="sys">HT021002714</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_11841</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_11841">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbg/psychologie/diss2021/friede/dg2102.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_11841"
+            DMDID="DMD_wuppertal_elpub_11841">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_11841"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

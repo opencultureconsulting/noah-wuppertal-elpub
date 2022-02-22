@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_238">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Ein </nonSort>
+                        <title>paraleller und hochgenauer O(n²) Algorithmus für die bidiagonale Singulärwertzerlegung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Großer, Benedikt</displayForm>
+                        <namePart type="family">Großer</namePart>
+                        <namePart type="given">Benedikt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-04-25</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Der RRR-Algorithmus (Relativ Robuste Repräsentationen) ist ein Lösungsverfahren für das tridiagonale symmetrische Eigenwertproblem mit bestechenden Eigenschaften bzgl. Komplexität, Genauigkeit, Adaptivität und Parallelisierbarkeit. Der wesentliche Beitrag dieser Arbeit besteht in der Übertragung dieses Verfahrens auf die Bestimmung der bidiagonalen Singulärwertzerlegung. Neben der numerischen Orthogonalität müssen zusätzlich gute Kopplungen der Singulärvektorpaare gewährleistet werden. Wie bei vielen primär für Eigenwertaufgaben entwickelten Lösungsverfahren stoßen wir auch beim RRR-Algorithmus auf Probleme. Es ist leicht zu zeigen, daß sich für die interessierenden Eigenwerte separat durchgeführter Faktorisierungen der Normalengleichungen starke absolute Abweichungen ergeben. Dieses Resultat ist insbesondere für betragskleine Eigenwerte unbefriedigend und führt zu schlechten Kopplungen der Vektoren. Die alternative Verwendung der Golub-Kahan Matrix ist numerisch weniger stabil als die Arbeit auf den Normalengleichungen. Außerdem ist bei diesem Ansatz die numerische Orthogonalität gefährdet. Zur Lösung dieser Problematik setzen wir die Daten der Zerlegungen von Normalengleichungen und der Golub-Kahan Matrix untereinander in Beziehung. Dazu werden in dieser Arbeit Kopplungstransformationen hergeleitet. Benutzen wir diese Umrechnungen zwischen den Faktorisierungen, so erhalten wir für die Eigenwerte eine deutlich bessere Aussage. Es wird gezeigt, daß für die Eigenwerte derart gekoppelter Darstellungen kleine relative Abweichungen ergeben. Auch für die Singulärvektoren können wir die klassische Notation basierend auf der Bidiagonalmatrix durch eine Formulierung mit einer diagonalen Matrix ersetzen. Der RRR-Algorithmus mit eingebetteten Kopplungen bildet das Kernstück eines Gesamtlösungsverfahrens für die bidiagonale Singulärwertzerlegung. Zur Verbesserung der Genauigkeit und Ausführungsgeschwindigkeit erweisen sich zusätzliche Maßnahmen wie eine Präkonditionierung oder die Konstruktion idealer Systeme als sinnvolle Ergänzungen. Die theoretischen Vorarbeiten münden in die Entwicklung einer Routine DBSVDSolv. In numerischen Experimenten bestätigt sich die gute Erfüllung der Genauigkeitsanforderungen. Gleichzeitig schlägt sich die quadratische Komplexität des neu eingeführten Verfahrens in teilweise überlegenen Ausführungszeiten gegenüber den bisherigen Standard-Implementierungen des QR-Verfahrens und des Divide-and-Conquer Algorithmus nieder. Wir sehen hier noch weiteres Optimierungspotential, insbesondere wenn eine Verknüpfung mit den in der aktuellen LAPACK-Routine DSTEGR verwendeten Ansätzen realisiert wird. Die inhärente Parallelität der RRR-basierten Verfahren läßt sich bereits mit einfachen Mitteln in eine gut skalierende Implementierung umsetzen. Bei der gewählten Strategie wird zunächst der Darstellungsbaum in einer Breitensuche durchlaufen. Durch Auswerten der Pfadinformationen reproduzieren die Heimprozessoren anschließend die noch fehlenden Singulärvektoren. Die Beschleunigung des Bisektionsverfahrens zur Bestimmung der Singulärwerte rückt wieder stärker in den Blickpunkt zukünftiger Aufgabenstellungen.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20010302</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_238</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_238">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-331/d070102.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_238"
+            DMDID="DMD_wuppertal_elpub_238">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_238"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

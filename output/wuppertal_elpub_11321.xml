@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_11321">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Three Papers in Empirical Finance and Accounting</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Möllenhoff, Steffen</displayForm>
+                        <namePart type="family">Möllenhoff</namePart>
+                        <namePart type="given">Steffen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Betzer, André</displayForm>
+                        <namePart type="family">Betzer</namePart>
+                        <namePart type="given">André</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-02-09</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die drei Studien teilen eine Gemeinsamkeit in Hinblick auf die ökonomische Theorie: das Fehlen eines &quot;informationseffizienten Marktes&quot; (Malkiel und Fama, 1970; Fama, 1991) und die Tatsache, dass ein perfekt effizienter Markt, in dem die Preise alle verfügbaren Informationen vollständig widerspiegeln, in der Praxis unwahrscheinlich ist, weil Investoren sonst keinen Anreiz hätten, die Kosten für den Erwerb und die Verarbeitung von Informationen zu tragen (Grossman und Stiglitz, 1980). Wenn die Preise alle verfügbaren Informationen vollständig widerspiegeln würden, wären wir nicht in der Lage, die Vorhersage von Unternehmensinsolvenzen zu verbessern, professionelle Investoren würden nicht mehr Nachforschungen über effektiv insolvente Unternehmen anstellen und beginnen, ihre Anteile an diesen Unternehmen mehr als ein Jahr vor dem Konkurs zu verkaufen, und auch das Abstimmungsverhalten der Investoren in Bezug auf die Mitglieder des Aufsichtsrats sollte nicht informativ für die zukünftige Entwicklung von Aktienkursen und dem operativen Ergebnis sein.</abstract>
+                    <abstract type="content" lang="eng">The three studies share one common ground in terms of economic theory: the absence of an “informationally efficient market“ (Malkiel and Fama, 1970; Fama, 1991) and the fact that a perfectly efficient market where prices fully reflect all available information is unlikely to exist in practice, because no investors would have an incentive to bear the costs of acquiring and processing such information (Grossman and Stiglitz, 1980). If prices would fully reflect all available information, we would not have been able to improve corporate bankruptcy predictions, professional investors would not conduct more research on effectively bankrupt companies and start selling their share in those companies more than one year prior bankruptcy, neither shouldn’t director voting be informative for the future development of share prices and operating performance.</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20210209-125556-2</identifier>
+                    <identifier type="doi">10.25926/h3h8-gh24</identifier>
+                    <identifier type="sys">HT020833793</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_11321</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_11321">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2021/moellenhoff/db2102.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_11321"
+            DMDID="DMD_wuppertal_elpub_11321">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_11321"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

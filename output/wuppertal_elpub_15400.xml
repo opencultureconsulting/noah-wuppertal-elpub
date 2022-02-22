@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_15400">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Potential depletion of ozone in the mid-latitude lowermost stratosphere in summer under geoengineering conditions</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Robrecht, Sabine</displayForm>
+                        <namePart type="family">Robrecht</namePart>
+                        <namePart type="given">Sabine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Benter, Thorsten</displayForm>
+                        <namePart type="family">Benter</namePart>
+                        <namePart type="given">Thorsten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-11-18</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Das Klima der Erde ändert sich größtenteils aufgrund anthropogener Treibhausgasemissionen. Die ansteigenden Treibhausgaskonzentrationen in der Atmosphäre führen zu einer globalen Erderwärmung, welche Lebensräume überall auf der Erde verändert. Um die Risiken einzudämmen, welche von der globalen Erderwärmung ausgehen, könnte die Anwendung von Sulfat Geoengineering eine unterstützende Maßnahme sein. Die Idee hiervon ist es, durch das Einbringen von Sulfataerosolen in die Stratosphäre Sonnenlicht, welches die Erdoberfläche erreicht und dadurch erwärmen kann, abzuschwächen. Dadurch würde vermieden werden, dass die Temperatur an der Erdoberfläche ansteigt und so würden negative Konsequenzen der globalen Erderwärmung verhindert. Allerdings birgt Sulfat Geoengineering auch Risiken, welche vor einer möglichen Anwendung erforscht werden müssen. Das Ziel dieser Doktorarbeit ist es, das Risiko für chemischen Ozonverlust in der untersten Stratosphäre der mittleren Breiten während des Sommers zu beurteilen. Es wurde vorgeschlagen, dass chemische Ozonabbauzyklen, welche jährlich im polaren Winter auftreten, auch in den mittleren Breiten im Zusammenhang mit Sulfat Geoengineering oder konvektiven Ereignissen auftreten können, welche Wasserdampf in die trockene unterste Stratosphäre transportieren. Ein Auftreten dieser Ozonabbauzyklen im Sommer der mittleren Breiten könnte zu einer erhöhten UV-Belastung an der Erdoberfläche der dichtbesiedelten Nordhemisphäre führen.
+ In dieser Arbeit wird der Ozonabbaumechanismus und dessen Sensitivität gegenüber verschiedenen Bedingungen für die mittleren Breiten analysiert, indem Box-Modell-Simulationen mit dem Chemical Lagrangian Model of the Stratosphere (CLaMS) durchgeführt werden. Durch diese Analyse wird ein Schwellwert im Wasserdampf Mischungsverhältnis identifiziert, welcher überschritten und erhalten werden muss, damit der Ozonabbaumechanismus auftreten kann. Dieser Schwellwert hängt hauptsächlich von der Temperatur und dem Schwefelgehalt in der Stratosphäre ab. Die Menge des zerstörten Ozons wird dabei vorwiegend vom vorhandenen Chlor und Brom-Mischungsverhältnis sowie von der Länge des Zeitraums kontrolliert, über welchen die Chloraktivierung erhalten bleibt. Eine Simulation basierend auf realistischen Bedingungen, welche dahingehend ausgewählt worden sind Chloraktivierung am wahrscheinlichsten zu ermöglichen, hat allerdings keine relevante Chloraktivierung gezeigt.
+ Zusätzlich wird im Rahmen dieser Doktorarbeit die Wahrscheinlichkeit bestimmt, dass dieser Ozonabbaumechanismus für heutige und zukünftige Bedingungen auftritt. Dabei wird sowohl ein Klimawandelszenario als auch die zusätzliche Anwendung von Geoengineering analysiert basierend auf Ergebnissen von Klimasimulationen (Geoengineering Large Ensemble Simulations (GLENS)). Atmosphärische Bedingungen, die zu Chloraktivierung führen, werden mithilfe von CLaMS Box-Modell-Simulationen identifiziert und mit den Bedingungen in der unteren Stratosphäre aus den Ergebnissen der Klimasimulationen verglichen. Durch umfangreiche Sensitivitätstest im Rahmen dieser Arbeit wird gezeigt, dass die Anwendung von Geoengineering in Zukunft zu einer 2-3 mal höhren Wahrscheinlichkeit als für heutige Bedingungen führt, dass der untersuchte Ozonabbaumechanismus auftritt. Dennoch ist die Wahrscheinlichkeit, dass unter Anwendung von Sulfat Geoengineering Chloraktivierung über zentral Nordamerika auftritt sehr gering (max. ~3.3%), sodass weniger als 0.4% des Ozons in der unteren Stratosphäre zerstört werden. Dies entspricht einer Obergrenze von ~0.11 DU (= weniger als 0.1%) der Ozonsäule.
+ Zusammenfassend wird im Rahmen dieser Doktorarbeit erstmalig gezeigt, dass das Risiko für erhöhten chemischen Ozonabbau, ähnlich dem des polaren Winters, in der unteren Stratosphäre im Sommer über Nordamerika für heutige als auch unter Berücksichtigung von möglichen zukünftigen Bedigung wie Sulfat Geoengineering zu vernachlässigen ist. Dies ist ein wichtiger Beitrag für die zukünftige Bewertung möglicher Geoengineering Techniken.</abstract>
+                    <abstract type="content" lang="eng">The world’s climate is changing, largely because of anthropogenic emissions of greenhouse gases (GHG). Increasing atmospheric GHG concentrations result in global warming, which changes habitats all around the globe. For limiting the risks of global warming, a supporting option could be the application of sulfate geoengineering. The concept of sulfate geoengineering is to inject sulfate aerosols into the stratosphere extenuating the sunlight, which reaches and thus warms the surface of the Earth. In this way, the surface temperature could possibly be kept at today’s level avoiding negative consequences of GHG induced global warming.
+ However, sulfate geoengineering is not free of risks and these potential risks have to be explored before the application of geoengineering can be considered. This thesis is aimed at assessing the risk of ozone loss known from polar winter to occur in the mid-latitude lowermost stratosphere in summer as a potential side effect of sulfate geoengineering. These ozone loss processes were further proposed to potentially occur in the mid-latitudes for today’s conditions in combination with convective overshooting events transporting water vapour into the dry stratosphere. If these ozone loss processes occur, the UV-exposure in the densely populated mid-latitude northern hemisphere would increase in summer.
+ In this thesis, the chemical ozone loss mechanism in the mid-latitudes and its sensitivity to a variety of conditions is extensively analysed by conducting box-model simulations with the Chemical Lagrangian Model of the Stratosphere (CLaMS). This analysis shows that a threshold in water vapour has to be exceeded for stratospheric ozone loss to occur. This water vapour threshold is mainly determined by the temperature and sulfate content of the air mass. The extent of ozone loss depends on available chlorine and bromine concentrations and the duration of the time period over which chlorine activation can be maintained. However, a simulation for conditions over North America, which are realistic but selected to be most suitable for this ozone loss process, did not show significant chlorine activation.
+ Moreover, the likelihood for this ozone loss process to occur today or in future scenarios is determined considering both climate change and an additional application of sulfate geoengineering. Therefore, atmospheric conditions causing chlorine activation are determined based on CLaMS box-model simulations and compared with conditions found in the lowermost stratosphere in results of climate simulations using the Geoengineering Large Ensemble Simulations (GLENS). Extensive sensitivity studies in this thesis show a 2-3 times higher likelihood for chlorine activation in the future scenario with sulfate geoengineering than for today. However, even if geoengineering were applied, the likelihood for chlorine activation to occur above North America remains low (max. ~3.3%), destroying less than 0.4% of ozone in the lowermost stratosphere. An upper limit for total ozone column reduction of 0.11 DU (less than 0.1% of column ozone) is deduced in this thesis.
+ Overall, this thesis demonstrates a negligible risk for chlorine catalysed ozone loss to occur in the lowermost stratosphere over North America in summer for conditions today and in future, even if sulfate geoengineering were applied. This is an important contribution to assessing the risks of a potential application of sulfate geoengineering in future.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20211118-111238-7</identifier>
+                    <identifier type="doi">10.25926/t0he-gw97</identifier>
+                    <accessCondition type="use and reproduction">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_15400</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_15400">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2020/robrecht/dc2030.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_15400"
+            DMDID="DMD_wuppertal_elpub_15400">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_15400"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

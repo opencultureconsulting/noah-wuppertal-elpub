@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_869">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Energieoptimierung von Clustern und Spinodale Entmischung in Fluiden</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kabrede, Hendrik</displayForm>
+                        <namePart type="family">Kabrede</namePart>
+                        <namePart type="given">Hendrik</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004-10-04</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Das Thema des ersten Teils dieser Arbeit ist die Suche nach globalen Minima auf Hyperflächen der potenziellen Energie atomarer und molekularer Systeme. Zu diesem Zweck wird ein neuer effektiver genetischer Algorithmus entwickelt. Dieser neue Algorithmus wird umfangreich getestet und mit anderen Optimierungsalgorithmen verglichen. Mit dem Algorithmus werden Natriumchlorid-Cluster nach dem Born-Meyer-Potenzial aus bis zu 100 Ionen optimiert. Wasser-Cluster mit bis zu 25 Molekülen werden nach dem SPC/E-, dem TIP3P- und dem TIP4P-Modell optimiert. Zahlreiche neue oder verbesserte Minimumsanordnungen werden gefunden. Interessante physikalische und strukturelle Eigenschaften der Cluster können so in beiden Fällen über einen weiten Bereich verfolgt werden. 
+
+ Im zweiten Teil der Arbeit wird die Kinetik der Phasentrennung in einem Einkomponentensystem untersucht. Mithilfe der Molekulardynamik-Technik werden Systeme, die durch schlagartiges Absenken der Temperatur bei konstantem Volumen und konstanter Teilchenzahl instabil gemacht werden, untersucht. Molekulardynamik-Simulationen eines Lennard-Jones-Systems mit einer Million Teilchen und eines SPC/E-Wasser-Systems mit 100.000 Teilchen werden vorgestellt. Diese Simulationen werden mit einer etablierten Mean-Field-Theorie für den Beginn der Phasentrennung verglichen. Die Übereinstimmung mit der Theorie ist nur qualitativ. Im Langzeitverhalten wachsen die Domänen unterschiedlicher Dichte wie erwartet selbstähnlich entsprechend einem Potenzgesetz.</abstract>
+                    <abstract type="content" lang="eng">The first part of this thesis deals with the search for global minima of an atomic or molecular clusters&apos; potential energy hyper surface. Therefore an improved effective genetic algorithm is developed. This new algorithm is thoroughly tested and compared with other global minimization algorithms. Sodium chloride clusters with up to 100 ions are minimized using the Born-Meyer potential. Also water clusters with up to 25 molecules using the SPC/E- the TIP3P- and the TIP4P potential are minimized. Numerous improved or new global minimum structures are found. Interesting physical and structural cluster characteristics are observed over a wide range. 
+
+ In the second part of this thesis the dynamics of phase separations are studied. Systems that are made unstable by a rapid temperature quench at constant volume and constant number are studied using the molecular dynamics technique. Molecular dynamics simulations of one million Lennard-Jones particles and simulations of one hundred thousand SPC/E water molecules are presented. These simulations beginning is compared with a well known mean field theory. Theory and experiment agree only qualitatively. In the long time limit the different density regions grow self similar, as expected. The length scale of the regions grows with a power law.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20040475</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_869</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_869">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-975/dc0410.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_869"
+            DMDID="DMD_wuppertal_elpub_869">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_869"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

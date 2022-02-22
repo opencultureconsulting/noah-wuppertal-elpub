@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_637">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zur Ermittlung von Unfallursachen und begünstigenden Faktoren für Unfälle in der Seeschifffahrt</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schröder, Jens-Uwe</displayForm>
+                        <namePart type="family">Schröder</namePart>
+                        <namePart type="given">Jens-Uwe</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003-11-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Im Rahmen der vorliegenden Arbeit wurde eine Betrachtung zum Stand der Untersuchung von Seeunfällen unter Berücksichtigung internationaler Bemühungen vorgenommen. Dabei wurde die Frage der strukturierten Aufarbeitung von Unfallberichten mit dem Ziel, eine solide statistische Basis für die Überprüfung bestehender und die Entwicklung neuer Regeln für die Schiffssicherheit zu gewinnen, in den Vordergrund gestellt. Obwohl Forschung und Politik sich seit längerer Zeit mit dieser Thematik beschäftigen, fehlt es an allgemein akzeptierten einheitlichen Definitionen und Verfahren in der Seeunfalluntersuchung. Aufgrund spezifischer Unterschiede zwischen der Schifffahrt und den anderen Transportmitteln bzw. sonstigen risikorelevanten Industrien (z.B. chemische oder Nuklearindustrie) lassen sich Lösungen für diese Verkehrswege auch nicht so ohne weiteres übernehmen.
+ Auf der Grundlage dieser festgestellten Defizite wird eine Unfallauswertungsmethode entwickelt, in deren Mittelpunkt ein Prozessmodell des maritimen Unfalls und ein daraus abgeleitetes Datenschema für die Erfassung relevanter Informationen zur Prozessbeschreibung des Unfalls und der unfallbegünstigenden Faktoren steht. Das Modell und das Datenerfassungsschema werden auf Beispiele der Passagierschifffahrt angewendet. Die Anwendung des Schemas und des Modells auf Unfälle in der Passagierschifffahrt erfolgte wegen der zu erwartenden detaillierteren Dokumentation dieser Unfälle, die durch das hohe öffentliche Interesse in diesem Bereich begründet ist. Obwohl die Anzahl der Unfälle für generelle Thesen im Unfallgeschehen nicht ausreichend ist, konnte nachgewiesen werden, dass es gerade bei den unfallbegünstigenden Faktoren im Bereich der Personale Informationsdefizite in den Berichten gibt. Anhand von Unfallberichten können Unfälle nur in sehr seltenen Fällen folgerichtig rekonstruiert werden. Das verdeutlicht die Notwendigkeit zu einem strukturierteren Vorgehen in der Zukunft.
+ Abschließend werden die Defizite im Seeunfallberichtswesen diskutiert und Auswirkungen für andere sicherheitsrelevante Vorhaben, wie z.B. Entscheidungshilfen in Notfällen als Beratungsgrundlage für die Schiffsführung, untersucht.</abstract>
+                    <abstract type="content" lang="eng">In the following study a detailed state-of-the-art analysis of the international efforts to investigate maritime casualties has been done. The analysis highlights political efforts and scientific achievements in recent years. It focuses on the approach to obtain structured data about casualties in order to form a solid data basis for the assessment of existing and the development of new regulations in ship safety. Although politics and science have dealt with these topics for a long time commonly agreed definitions and methods are still missing for maritime casualty investigation and especially for the related follow-up. Specific differences exist between the different transport modes. For this reason approaches from these modes, and also from other safety relevant industries (e.g. chemical and nuclear industry) cannot be applied to shipping.
+ A casualty investigation follow-up method is developed based on the detected deficits. In the core there is a process model of the maritime casualty and data scheme, which is derived from this model. Model and data scheme are to be used to obtain data about the accident process and the underlying factors. Model and scheme are applied to examples of passenger shipping casualties. Passenger shipping has been selected because of more detailed reports, which can be expected because of the safety related high public interest in this sector. Although the number of accidents was not enough to formulate general thesis about maritime casualties, it became evident that deficits exist on influencing factors of the crew performance related data in the reports. The accident process cannot often be reconstructed by using casualty reports. This underlines the necessity for a more structured approach in future.
+ Finally a discussion of the deficits of maritime casualty reports is done, highlighting the consequences of scant data for other safety related means in shipping, e.g. decision support systems in emergencies.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Maschinenbau und Sicherheitstechnik » Sicherheitstechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20030416</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_637</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_637">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-733/d140303.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_637"
+            DMDID="DMD_wuppertal_elpub_637">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_637"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

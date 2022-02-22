@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_371">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Versuche zur Synthese von Fagomin-Analoga</title>
+                        <subTitle>Synthese von 1-Azazuckern</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Blanda, Gaetano</displayForm>
+                        <namePart type="family">Blanda</namePart>
+                        <namePart type="given">Gaetano</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1999-08-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Sugar analogues, in which the ring oxygen of a pyranose is replaced by nitrogen, commonly kown as azasugar, have been found to be specific and effective inhibitors of enzymes, therefore this type of sugar analogues have the potential to cause beneficial therapeutic effects. Recently it has been shown that new types of monosaccharide analogues where the nitrogen is at the position of the anomeric carbon and the ring oxygen is either replaced by a carbon atom or nitrogen atom are also very potent glycosidase inhibitors. Three approaches for the syntheses of three different types of 1-azasugars have been investigated, using de-novo and chiral-pool strategies. The first part of this thesis describes the de-novo synthesis of the glycuronidase inhibitors (-)-44 and 54 and the glycosidase inhibitors (-)-56 and 61. The key step is an asymmetric hetero-Diels-Alder reaction with the chiral chloronitroso dienophile 27, which gave the cycloadduct 37 in good-to-excellent enantioselectivity. Subsequent modification of the building block 45 like cis-dihydroxylation, reduction and deprotection led to the potential inhibitors, which represent a new type of glycosidase inhibitors. In the second part of this investigation the chiral-pool strategy for the synthesis of the hydroxyhydropyridazine 18 is presented. Although the synthesis of the precursors 73 - 75 and 82 - 85 could be realised in good yield, the attempts to accomplish the ring closure to the 6-membered cyclic hydrazides were unsuccessful. The last part of this study focuses on the de-novo synthesis of the unknown potential glycosidase inhibitor 3-epi-isofagomin. The novel potent building blocks (-)-115 and (+)-117 were synthesised. The key steps are the enantioselective esterification of the racemic alcohol 119 and the enantioselective hydrolysis of the racemic acetate 115, using lipase from Pseudomonas caepacia. Diastereoselective cis-dihydroxylation of the building block (-)-130 and subsequent deprotection gave the potential glycosidase inhibitor (-)-136 in a straightforward fashion. Finally the structural and electronical similarity of the triol (-)-140 with the transition state of the reaction, which is catalysed by β-glycosidase, is discussed.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-19990134</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_371</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_371">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-465/d099905.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_371"
+            DMDID="DMD_wuppertal_elpub_371">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_371"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

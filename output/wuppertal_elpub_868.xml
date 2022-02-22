@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_868">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Proton Induced Fragmentation of Gold Nuclei at Incident Energy of 2.5 GeV</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bollini, Virginie</displayForm>
+                        <namePart type="family">Bollini</namePart>
+                        <namePart type="given">Virginie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005-06-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">This thesis is concerning the presentation of the PISA experiment which the subject is the proton induced reaction on gold at proton energy 2.5 GeV. Energy spectra have been measured at 3 different angles: 35, 50 and 100° for Light Charged Particles (LCP, Z=2) and Intermediate Mass Fragments (IMFs, 3≤Z≤8) produced in the mentioned reaction. The PISA experimental setup and the particle identification method using silicon detectors are described. Emphasis has been put on measuring a broad kinetic energy range of emitted particles as well as on isotope separation. Different theoretical approaches (INCL4.2+GEM model, moving source fit and Fisher&apos;s droplet model) are used and are shown in order to try to describe the reaction mechanism responsible for the emission of spallation products. At the end, a discussion of the results shows that production cross sections are a great importance for models and code improvement. As for example it has been shown that generally the emission from equilibrium processes can be well described by the INCL4.2+GEM model. However currently there are no models on the market which are capable of describing the high energy tails of kinetic energy distributions associated in particular with pre-equilibrium processes. Therefore a reliable and comprehensive experimental data base for p-induced reactions should be extended by further experimental investigations in the future in order to allow benchmarking of newly developed models.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20050175</identifier>
+                    <identifier type="sys">HT014416463</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_868</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_868">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2004/bollini/dc0419.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_868"
+            DMDID="DMD_wuppertal_elpub_868">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_868"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

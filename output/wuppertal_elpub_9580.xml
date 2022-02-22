@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9580">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Über die Reaktivität geminaler Diazide und Studien zur Totalsynthese von Tetrafibricin</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Biallas, Phillip</displayForm>
+                        <namePart type="family">Biallas</namePart>
+                        <namePart type="given">Phillip</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-07-11</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Im ersten Teil dieser Arbeit wurde die Reaktivität organischer geminaler Diazide untersucht, eine Verbindungsklasse, die trotz ihrer frühen Entdeckung bisher wenig im Fokus der Forschung stand, was in dem angenommenen gefährlichen und explosiven Charakter dieser Verbindungen begründet liegt. Hierbei zeigte sich, dass α,α-diazidierte Diketone mit Nukleophilen, wie Aminen, unter C-C-Bindungsspaltung in die entsprechenden Amide überführt werden können. Die Diazide der Malonate lieferten hingegen durch Einsatz von Diaminen einen einfachen und milden Zugang zu diazidierten Polyamiden, welche sich durch nachfolgende Azid Alkin-Cycloadditionen zu hochfunktionalisierten Polymeren umsetzen ließen. Eine weitere Klasse geminaler Diazide, die α,α-Diazidomalonamide, konnten mit Alkoholaten und Thiolen in N,O- oder N,S-Acetale überführt werden. Die bei dieser Reaktion stattfindende Substitution einer aliphatischen Azid-Gruppe durch ein Nukleophil findet selektiv nur mit einer der beiden geminalen Azidfunktionen statt und ist generell eines von sehr wenigen Literaturbeispielen für die Substitution eines alphatische Azids. Desweiteren wurde die Reaktivität verschiedener Klassen geminaler Diazide unter reduktiven Bedingungen untersucht, hierbei wurden α-Amino-, α-Acetamido, α-Imino-Verbindungen sowie symmetrische Pyrazine erhalten. Darüber hinaus wurden Staudinger-Aza-Wittig-Reaktionen, CH-Aminierungen mit geminalen Diaziden und Studien zur Reaktivität azidierter Heterozyklen durchgeführt. 
+Der zweite Teil dieser Arbeit befasst sich mit der Totalsynthese des Naturstoffes Tetrafibricin, ein Polyketid, welches in der Lage ist das Binden von Fibrinogen an das Rezeptorprotein GPIIa/IIIb, ein Integrin der Thrombozyten, zu inhibieren. Die Synthesen dreier Fragmenten des Tetrafibricins (Fragmente C35-C40, C21-C30 und C1-C8) konnten im Zuge dieser Arbeit erfolgreich durchgeführt werden. Desweitern wurden alle stereogenen Zentren, sowie das vollständige Kohlenstoffgerüst des vierten Fragments (C9-C20) erfolgreich aufgebaut. Die in zwei Fragmenten vorkommenden 1,3-Polyol-Einheiten wurden hierbei über einen eigens in der Arbeitsgruppe Kirsch entwickelten iterativen Synthesezyklus, basierend auf einer chiralen Organophosphorverbindung, synthetisiert.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20190711-100901-6</identifier>
+                    <identifier type="doi">10.25926/sqkv-sa70</identifier>
+                    <identifier type="sys">HT020163787</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9580</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9580">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2019/biallas/dc1913.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9580"
+            DMDID="DMD_wuppertal_elpub_9580">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9580"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

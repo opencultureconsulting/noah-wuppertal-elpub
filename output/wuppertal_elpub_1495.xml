@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1495">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Partizipation in der Heimerziehung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Müller, Margareta</displayForm>
+                        <namePart type="family">Müller</namePart>
+                        <namePart type="given">Margareta</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die vorliegende Dissertation befasst sich mit den Erfahrungen mit Partizipation in der Heimerziehung. Unter Berücksichtigung der bisherigen Forschung zu diesem Thema, der rechtlichen Grundlagen, der demokratie-, bildungs- und dienstleistungstheoretischen Sichtweise von Partizipation, wurden die Erfahrungen mit Partizipation von Kindern und Jugendlichen in der Heimerziehung rekonstruiert. Dazu wurde eine qualitative Studie mit der Methode der Grounded Theory als Rahmenkonzept in einer Jugendhilfeeinrichtung durchgeführt. Die Analyse des Datenmaterials zeigt, dass Partizipation in der untersuchten Einrichtung ein Qualitätsmerkmal ist und mit zunehmender Umsetzung im Alltag, in den Hilfeplangesprächen und gruppenübergreifend durch das Kinder- und Jugendparlament zu erheblicher Verbesserung der Prozess- und Ergebnisqualität führte. Die Partizipation der Kinder und Jugendlichen ermöglichte vielfältige Lern- und Bildungsprozesse, insbesondere im Bereich der Persönlichkeits- und Sozialkompetenzen. Neben den Lernprozessen durch Partizipation wurden auch Demokratisierungsprozesse und die Umsetzung des Dienstleistungsgedankens anhand verschiedener Beispiele nachgewiesen. Eine wesentliche intervenierende Variable für die Förderung der Partizipation in der Heimerziehung und folglich auch für die Initiierung und Förderung der verschiedenen Lern- und Bildungsprozesse bei den Kindern und Jugendlichen stellt die konsequente Förderung der Partizipation durch die Fachkräfte dar. Die Ausführungen zur Professionalität in der Heimerziehung machen deutlich, dass ein hoher Handlungsbedarf im Hinblick auf die Aus- und Weiterbildung der notwendigen Kompetenzen und Fachlichkeit bei den Professionellen existiert.</abstract>
+                    <abstract type="content" lang="eng">The on hand dissertation deals with experiences with participation in residential child care. Experiences with participation of children and young people concerning residential child care were reconstructed considering legal regulations of participation and perceptions of democratic, educational and administrative theories as well as based on the level of research in participation in residential child care. For that purpose, a qualitative survey with the method of Grounded Theory as its conceptional framework was accomplished in a residential home. The analysis of data shows that participation is a quality feature in the analysed institution. With increasing implementation in everyday life, in placement agreement meetings and by child and youth parliament throughout the groups, participation lead to a considerable improvement in quality of process and in quality of effect. Participation of children and young people allowed versatile processes of learning and education particularly with regard to human and social skills. Secondary, processes of democratization and the implementation of a service idea were verified by means of different examples. Consistent advancement of participation by qualified employees displays a constitutional intervening variable for advancement of participation in residential child care. Thus, it is such a variable for initiation and advancement of different processes of learning and education for children and young people as well. The statements concerning professionalism in residential child care reveal an existing high need for action in terms of further education to teach professionals necessary skills and responsibilities.</abstract>
+                    <classification authority="ddc">370</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Human- und Sozialwissenschaften » Erziehungswissenschaften"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20100819-113339-6</identifier>
+                    <identifier type="sys">HT016487215</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1495</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1495">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbg/paedagogik/diss2009/mueller/dg0907.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1495"
+            DMDID="DMD_wuppertal_elpub_1495">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1495"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

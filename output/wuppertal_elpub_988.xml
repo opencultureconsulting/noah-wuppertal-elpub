@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_988">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Neuartige Expositionsanlagen zur Untersuchung möglicher Effekte von Mobilfunksignalen auf biologische Systeme</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>El Ouardi, Abdessamad</displayForm>
+                        <namePart type="family">El Ouardi</namePart>
+                        <namePart type="given">Abdessamad</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-08-18</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Im Rahmen der vorliegenden Arbeit wurden Expositionseinrichtungen für drei sehr unterschiedliche Projekte entworfen, dimensioniert, aufgebaut und ausgemessen.
+ Im ersten Projekt wurde mit Hilfe der patch clamp-Technik untersucht, ob ein HF-Feld die Ionen- Ströme durch die Zellmembranen von Haarzellen, die dem Innenohr von Mäusen entnommen worden waren, beeinflussen kann. Die besondere Herausforderung bei dem Projekt bestand darin, dass genau definierte, möglichst homogene Felder in dem sehr kleinen Bereich zwischen dem Objektiv eines Kontroll-Mikroskops und der zugehörigen Kondensor-Linse erzeugt werden mussten. Als Ausgangspunkt für den Entwurf einer solchen Expositionsanlage wurde die Finnleitung gewählt, bei der das Feld im Wesentlichen zwischen beiden Finnen konzentriert ist. 
+ Zur Untersuchung der Frage, ob sich die Eigenschaften der Blut-Hirn-Schranke von Ratten in einem HF-Feld ändern, wurde eine Expositionsanlage benötigt, mit der nur das Gehirn fixierter Ratten exponiert werden konnte. Für dieses Projekt wurde eine Anlage auf der Basis einer Doppelkonusleitung erstellt, bei der der Öffnungswinkel des inneren Kegelmantels etwa 12°, der des äußeren 26° beträgt. In dem Zwischenraum zwischen innerem und äußerem Kegelmantel wurde eine sphärische TEM-Welle angeregt. Durch das Einfügen von jeweils zwei gegenüberliegenden metallischen radialen Stegen auf dem inneren bzw. äußern Kegelmantel (insgesamt 6 Stegpaare gleichmäßig verteilt über den Umfang der Doppelkonusleitung) wurde das Feld in den Bereichen zwischen den Stegen konzentriert. Die Köpfe von Ratten (jeweils sechs pro Anlage) wurden am Ende der Doppelkonusleitung unterhalb der adiabatisch auslaufenden Stege so positioniert, dass - wie gefordert - nur das Gehirn exponiert wurde.
+ Im dritten Projekt wurde der gesamte Stoffwechsel von frei beweglichen Hamstern in einem HF-Feld gemessen. Dazu wurde ein Käfig mit einem Hamster mittig in eine Rechteckhohlleitung gestellt, bei der parallel zu den Schmalseiten dielektrische Platten so angebracht worden waren, dass sich zwischen den Platten eine Quasi-TEM-Welle ausbildete. Der Betrag des Feldes im Bereich des Käfigs war folglich konstant, so dass die Exposition des Hamsters unabhängig von seinem jeweiligen Aufenthaltsort im Käfig war. Durch einen sorgfältigen Aufbau der Anregung dieser Quasi-TEM-Welle wurde sichergestellt, dass die zweite ausbreitungsfähige Hohlleitungswelle nicht angeregt wurde.</abstract>
+                    <abstract type="content" lang="eng">Within the present work, exposure devices were designed, specified, fabricated and measured for three very different projects.
+ In the first project it was analysed with the help of the patch clamp technique, whether an RF field influences the ionic currents flowing through the cell membrane of hair cells extracted from the inner ears of mice. The particular challenge in this project was the generation of precisely defined fields, as homogeneous as possible in the very small area between the lens of a control microscope and the corresponding condenser-lens. An exposure device based on the concept of finlines was used, where the field is mainly concentrated in the slot between both fins.
+ An exposure device was developed, so that only the brain of restrained rats could be exposed for analysing the question whether the RF field influences the properties of the blood brain barrier. For this project the developed device was based on a double-cone waveguide with an opening angle of the inner and outer waveguide wall of about 12° and 26° respectively. In the area between these two walls, a TEM-wave was excited. The insertion of each time two oppositely placed radial metal bars on the inner and outer waveguide&apos;s walls (a total of 6 pairs of bars uniformly positioned in the double-cone waveguide) resulted in concentration of the field in the areas between each pair of bars. The heads of rats (six per exposure device) were positioned at the end of the double-cone waveguide below the adiabatic outrunning bars, so - as required - a local exposure of the brain was achieved.
+ In the third project the metabolism of non-restrained hamsters in an RF field was measured. For this reason, a cage with a hamster was placed in the centre of a rectangular-waveguide with parallel dielectric sheets to its smaller sides, for the propagation of a Quasi-TEM-wave in the area between both sheets. Therefore the magnitude of the field strength was constant in the area of the cage, thus the exposure of the hamster was independent of its position in the cage. Due to a thorough construction of the Quasi-TEM-wave excitation, the second waveguide-mode, that was able to propagate too, was not excited.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20090833</identifier>
+                    <identifier type="sys">HT016042582</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_988</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_988">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2009/elouardi/de0903.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_988"
+            DMDID="DMD_wuppertal_elpub_988">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_988"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

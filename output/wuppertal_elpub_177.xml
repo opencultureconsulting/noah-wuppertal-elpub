@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_177">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Selbstthematisierung des wissenschaftlichen Milieus in der deutschen Literatur des 20. Jahrhunderts.</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Stachowicz, Victoria</displayForm>
+                        <namePart type="family">Stachowicz</namePart>
+                        <namePart type="given">Victoria</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-06-05</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Romane über englische und amerikanische Universitäten, wie auch literaturwissenschaftliche Untersuchungen solcher Texte liegen auch in Deutschland zahlreich vor. Im Gegensatz dazu sind sowohl deutsche Universitätsromane als auch sonstige Texte, in denen die Angehörigen des wissenschaftlichen Milieus dieses darstellen, bislang kaum untersucht. Diese Lücke will die vorliegende Arbeit schließen und analysiert, wie Wissenschaftler das wissenschaftliche Milieu in literarischen Texten darstellen, welche Themen sie aufgreifen und welche literarischen Formen sie verwenden. Neben der eingeführten Gattung ‚Universitätsroman‘ gibt es eine Anzahl weiterer erzählender Texte, in denen sich Wissenschaftler oder Studierende mit der Lebenswelt Universität literarisch auseinandersetzen, daneben existiert eine Vielzahl von Satiren und Parodien. Untersucht man solche Texte, so lassen sich hinsichtlich der dargestellten Themen überraschende Feststellungen machen: nicht die Forschung oder die Auseinandersetzung mit Wissenschaft stehen im Mittelpunkt der Texte, erzählt wird vielmehr von Intrigen, von den Zwängen der Institution Universität und von den Befindlichkeiten der Einzelnen. Überraschend sind auch die gewählten literarischen Formen und die Art der Darstellung, denn es klafft eine deutliche Lücke zwischen der theoretischen Kompetenz der Autoren, die häufig selbst Literaturwissenschaftler sind, und der eher trivialen ästhetischen Struktur der Texte.</abstract>
+                    <abstract type="content" lang="eng">There are many novels about English and American universities in Germany, as well as literary studies of such texts. In contrast, the German university novel and other texts from academics about university and academia have received little analysis. This inquiry examines how academics describe their environment in literary texts, which topics they choose and in which literary forms they write. Apart from the well known genre of the university novel, there is a large number of other texts in which academics and students describe their environment as well as a number of parodies and satirical works. Perhaps surprisingly, science and research do not lie at the centre of such novels which instead focus on intrigues, general problems from the university institution and the personal feelings of those within the universities. Examination of the literary forms of these texts shows a surprising difference between the theoretical knowledge of the authors who are often literary academics and the quite popularise structures of the texts they themselves write.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » Allgemeine Literaturwissenschaft"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20010362</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_177</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_177">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-279/d040101.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_177"
+            DMDID="DMD_wuppertal_elpub_177">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_177"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_837">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Verified Solution of Parametric Interval Linear Systems</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>El-Owny, Hassan Badry Mohamed</displayForm>
+                        <namePart type="family">El-Owny</namePart>
+                        <namePart type="given">Hassan Badry Mohamed</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-07-16</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Das Lösen parametrische lineare Gleichungssystemen, die Unsicherheiten in ihren Parametern beinhalten, ist ein wichtiger Teil der Lösung zu vielen natur- und ingenieurwissenschaftlichen Problemen. In den meisten Problemen aus den Bereichen des technischen Entwurfs, Operations Research, der linearen Vorhersage etc. bestehen dabei üblicherweise komplizierte Abhängigkeiten zwischen den Koeffizienten. Der Hauptgrund für diese Abhängigkeiten ist, dass die Fehler in mehreren verschiedenen Koeffizienten durch den jeweils gleichen Faktor verursacht sein können. Aus diesem Grund wird zur Lösung dieser Art von Problemen die Intervallarithmetik verwendet. Intervallmethoden (validierte Methoden) können nicht nur garantierte Fehlerschranken zur tatsächlichen Lösung bestimmen, sondern auch verifizieren, dass eine eindeutige Lösung des Problems existiert. 
+ Die Elemente parametrischer linearer Gleichungssysteme treten in zwei Arten auf: Affin-linear abhängige und nichtlinear abhängige. Nichtlinear abhängige sind dabei komplizierter.
+ Das Ziel dieser Arbeit ist, Einschließungslösungen zu parametrischen Gleichungssystemen für beide Fälle zu finden. Eine Einschließungslösung stellt einen Intervallvektor dar, der alle möglichen Lösungen des betrachteten Systems enthält. Zusätzlich ist es Ziel, diesen Intervallvektor so eng wie möglich werden zu lassen. 
+ Unsere neue Methode basiert auf der verallgemeinerte-Intervalle-Arithmetik. Ziel der verallgemeinerte-Intervalle-Arithmetik ist die Reduktion des Abhängigkeitsproblems in der Intervallarithmetik, ebenso wie die Einschließung nichtlinearer Intervallfunktionen durch lineare Intervallformen. Die verallgemeinerte-Intervalle-Arithmetik wurde auf den komplexen Fall erweitert. 
+ Unsere Methode berücksichtigt das Abhängigkeitsproblem (Zeilen- oder Spaltenabhängigkeit), das zwischen den Elementen einer Intervallmatrix oder eines Intervallvektors auftreten kann. 
+ Durch den Einsatz unserer Methode können Fälle über- und unterbestimmter parametrischer Gleichungssysteme gelöst werden.</abstract>
+                    <abstract type="content" lang="eng">Solving (real or complex) parametric linear systems, involving uncertainties in the parameters, is an important part of the solution to many scientific and engineering problems. Usually, in most engineering design problems, models in operational research, linear prediction problems, etc. there are complicated dependencies between coefficients. The main reason for this dependency is that the errors in several different coefficients may be caused by the same factor. For this reason, the interval analysis will be the tool which we will use for solving this type of problems. Interval methods (validated methods) not only can determine such guaranteed error bounds on the true solution, but can also verify that a unique solution to the problem exists.
+ The elements of the parametric interval systems occur in two types: affine-linear dependencies or nonlinear dependencies. The nonlinear dependencies are more complicated than the other.
+ The goal of this work is to find inclusion solutions for parametric interval systems in the two cases. Inclusion solution means an interval vector, which contains all possible solutions of this systems. Furthermore, our goal is trying to make this interval vector to be as narrow as possible.
+ Our new method depend on directly generalized interval arithmetic. The main goal of generalized interval arithmetic is to reduce the dependency problem in the interval arithmetic, in addition to enclosing ranges of nonlinear interval functions by linear interval forms. We extended it to a complex case.
+ Our method take into account the dependency problem (row or column dependency), which may occur between the elements in an interval matrix or an interval vector.
+ By using our method, we can solve the over- and under-determined case of the parametric interval systems.</abstract>
+                    <subject>
+                        <topic>Parametrische lineare Gleichungssysteme</topic>
+                        <topic>verallgemeinerte-Intervalle-Arithmetik</topic>
+                        <topic>nichtlineare Funktionen</topic>
+                        <topic>Abhängigkeitsproblem</topic>
+                        <topic>validierte Intervallsoftware</topic>
+                        <topic>C-XSC</topic>
+                        <topic>parametric interval linear systems</topic>
+                        <topic>generalized interval arithmetic</topic>
+                        <topic>nonlinear functions</topic>
+                        <topic>dependency problem</topic>
+                        <topic>validated interval software</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20070700</identifier>
+                    <identifier type="sys">HT015227065</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_837</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_837">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2007/elowny/dc0709.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_837"
+            DMDID="DMD_wuppertal_elpub_837">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_837"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

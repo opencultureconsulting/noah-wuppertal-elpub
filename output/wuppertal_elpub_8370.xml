@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_8370">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>A </nonSort>
+                        <title>new block Krylov subspace framework with applications to functions of matrices acting on multiple vectors</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lund, Kathryn</displayForm>
+                        <namePart type="family">Lund</namePart>
+                        <namePart type="given">Kathryn</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-06-13</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In dieser Arbeit stellen wir einen allgemeinen Rahmen für die Formulierung und theoretische Betrachtung von Block-Krylow-Unterraumverfahren vor, welcher sich die Definition eines matrixwertigen Innen-Produktes zunutze macht. Innerhalb dieses Rahmens formulieren wir die “klassischen” Block-Krylow-Unterraum- Verfahren, wie O’Learys Block-Conjugate-Gradient-Verfahren, globale Krylow- Unterraumverfahren und Schleifentausch-Verfahren. Die Allgemeinheit unseres Ansatzes ermöglicht es uns, das Shifted-Block-Full-Orthogonalization-Verfahren (Sh- BFOM(m)) um effiziente Neustarts zu erweitern und Fehlerschranken anzugeben. Darüber hinaus geben wir eine Modifikation des BFOM-Verfahrens an, welche wir Modified-BFOM nennen. Das BFOM-Verfahren lässt sich als Prototyp vieler Block- Krylow-Unterraumverfahren ansehen. In gleicher Weise zeigen wir, dass sich das Block-GMRES- sowie das neue Block-Radau-Lanczos-Verfahren als Modified-BFOM auffassen lassen. Analog zur Konstruktion von Sh-BFOM(m) entwickeln wir eine effiziente Neustart-Prozedur und Fehlerschranken für das Shifted-BGMRES-Verfahren (Sh-BGMRES(m)).
+ Unter Zurhilfenahme unseres allgemeinen Ansatzes und auf Basis von Neustarts verwendenden Shifted-Block-Krylow-Verfahren entwickeln wir Block-Krylow- Unterraum-Verfahren mit Neustarts für die Berechnung von f(A)B, d.h. für die Berechnung des Produktes einer Matrix mit mehreren rechten Seiten, wobei die Matrix durch die Anwendung einer Matrixfunktion gegeben ist. Des Weiteren leiten wir Schranken für die Konvergenzgeschwindigkeit der B(FOM)² (BFOM for Functions of Matrices) und Block-Harmonic-Verfahren (d.h. Verfahren ähnlich zu BGMRES) für Matrixfunktionen her.
+ Anhand von diversen numerischen Beispielen bestätigen wir unsere theoretischen Vorhersagen über Sh-BFOM und Sh-BGMRES. Außerdem analysieren wir die matrixwertigen Polynome, welche mit den Residuenverläufen der Verfahren in Beziehung stehen. Indem wir das B(FOM)²- und die Block-Harmonic-Verfahren in diversen praxisrelevanten Anwendungen testen, zeigen wir, dass die Verfahren robust und vielseitig einsetzbar sind. Ein besonders interessantes Beispiel, welches wir betrachten, ist die Tensor-t-Funktion. Sie ist der von uns vorgeschlagene Weg, Funktionen auf Tensoren, welche mit der durch das t-Produkt gegebenen Struktur versehen sind, zu definieren. Da wir keine theoretischen Belege haben, zeigen wir mittels Experimenten, dass die Block-Radau-Lanczos-Modifikation die Anzahl der Durchläufe sowohl für die iterative Lösung linearer Systeme als auch für die Berechnung von Matrixfunktionen reduziert.</abstract>
+                    <abstract type="content" lang="eng">We propose a new framework for understanding block Krylov subspace methods, which hinges on a matrix-valued inner product. We can recast the “classical” block Krylov methods, such as O’Leary’s block conjugate gradients, global methods, and loop-interchange methods, within this framework. Leveraging the generality of the framework, we develop an efficient restart procedure and error bounds for the shifted block full orthogonalization method (Sh-BFOM(m)). Regarding BFOM as the prototypical block Krylov subspace method, we propose another formalism, which we call modified BFOM, and show that block GMRES and the new block Radau-Lanczos method can be regarded as modified BFOM. In analogy to Sh-BFOM(m), we develop an efficient restart procedure for shifted BGMRES with restarts (Sh-BGMRES(B. We obtain convergence bounds for B(FOM)² (BFOM for Functions Of Matrices) and block harmonic methods (i.e., BGMRES-like methods) for matrix functions.
+ With various numerical examples, we illustrate our theoretical results on Sh- BFOM and Sh-BGMRES. We also analyze the matrix polynomials associated to the residuals of these methods. Through a variety of real-life applications, we demonstrate the robustness and versatility of B(FOM)² and block harmonic methods for matrix functions. A particularly interesting example is the tensor t-function, our proposed definition for the function of a tensor in the tensor t-product formalism. Despite the lack of convergence theory, we also show that the block Radau-Lanczos modification can reduce the number of cycles required to converge for both linear systems and matrix functions.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20180613-120530-8</identifier>
+                    <identifier type="sys">HT019721867</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_8370</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_8370">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2018/lund/dc1804.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_8370"
+            DMDID="DMD_wuppertal_elpub_8370">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_8370"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

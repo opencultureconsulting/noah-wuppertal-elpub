@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_4810">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Application of Non-Linear Microvaristor-Filled Materials in High-Voltage Devices and Algorithmic Optimization of High-Voltage Simulations Based on Surrogate Models</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ye, Hanyu</displayForm>
+                        <namePart type="family">Ye</namePart>
+                        <namePart type="given">Hanyu</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In high-voltage technology one of the most important tasks is to optimize electric field distributions when designing a high-voltage device. This is because locally high electric field strengths usually lead to harmful phenomena, such as partial discharges, accelerated material ageing of insulation materials and even worse, breakdown of the material and flashover. There are different techniques to reduce the electric field strength. In comparison to traditional field grading approaches, which usually require additional space and material and consequently lead to an over-dimensional design, the non-linear resistive field grading method allows an intelligent field grading and a compact design. This method usually use the non-linear materials, which have an electric field strength dependent conductivity and change their electric state from insulating to conductive if the electric field exceeds a certain value. Microvaristor-filled materials are one category of those non-linear materials. In this thesis, the applications of microvaristor-filled materials in high-voltage outdoor insulators and gas-insulated bushings are investigated using FEM (Finite Element Method) simulations, which allow a fast and cost effective determination of electric field distributions. The prototypes, which are determined by FEM simulations, are built and tested in a high-voltage laboratory. 
+
+ To get an optimal field grading effect, some geometrical and material parameters can be optimized. However, a 3D accurate FEM simulation for a large-scale high-voltage device is usually quite time consuming. In this case, the number of 3D accurate FEM simulations should be limited for the optimization procedure. For this purpose, the adaptive Kriging method using a one-then-two-stage approach and the Co-Kriging method using different levels of datasets are adopted and tested with analytical functions and the corona ring design problem. Both methods show a faster but still accurate optimization process.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20150511-115707-6</identifier>
+                    <identifier type="sys">HT018648483</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_4810</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_4810">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2015/ye/de1501.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_4810"
+            DMDID="DMD_wuppertal_elpub_4810">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_4810"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

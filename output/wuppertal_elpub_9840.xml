@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9840">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Design für das Altern im demografischen Wandel in Deutschland - Potenziale zur Einbindung älterer Menschen in zukünftige Lebenswelten</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>König, Liesa Anneke</displayForm>
+                        <namePart type="family">König</namePart>
+                        <namePart type="given">Liesa Anneke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-11-04</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die vorliegende Dissertation befasst sich mit dem Thema „Design für das Altern“. Dabei steht das Design des alltäglichen Lebensumfelds im Mittelpunkt. Da Altern immer in gesellschaftlichen Kontexten stattfindet, ist der Alterungsprozess in gesellschaftliche, technische, politische und soziale Veränderungsprozesse automatisch mit eingebunden. In Deutschland wird neben der Digitalisierung besonders der demografische Wandel die sozialen und gesellschaftlichen Strukturen sowie den Lebensalltag älterer Menschen in den kommenden Jahren maßgeblich verändern. Ein „Design für das Altern“, das den Altersprozess unterstützt und auf die Bedürfnisse der alternden Menschen eingehen möchte, muss deshalb auf die Rahmenbedingungen und Folgen des demografischen Wandels sowie auf die Veränderungen, die durch die Digitalisierung hervorgerufen werden, eingehen. 
+Die vorliegende Dissertation untersucht deshalb die Bedürfnisse alternder Menschen im Kontext des demografischen Wandels. Dazu wurden qualitative Interviews mit alleine lebenden Männern und Frauen ab 65 Jahren durchgeführt. Dabei befasst sich die Arbeit u.a. mit den Erkenntnissen der Altersforschung sowie mit dem demografischen Wandel in Deutschland. Auf Basis der Erkenntnisse aus der empirischen Studie Alltag im Alter wurde der neue theoretische Ansatz des „Abwechslungsmanagements“ entwickelt. Als praktisches Beispiel wurde ein Alltagsservice für den Lebensalltag im Alter in einer ländlichen Region generiert, der auf den Erkenntnissen des „Abwechslungsmanagements“ aufbaut.</abstract>
+                    <abstract type="content" lang="eng">The dissertation in hand is concerned with the topic design for aging. The central point is the design of the daily living environment. Aging always takes place in societal contexts. Thus the aging process is automatically integrated in societal, technical, political and social changing processes. In the future beside digitalisation especially the demographic change will change the social and societal patterns and the everyday life of older persons in Germany. A design for aging which supports the aging process and integrates the needs of older persons has to respond to the frame conditions and to the consequences of demographic change in Germany as well as to the changing processes based on the proceeding digitalisation. 
+Therefore the dissertation in hand analyses the needs of older persons in the context of demographic change in Germany. For that purpose qualitative interviews with living lonely men and women in the age of 65 years and older were performed. The dissertation studies the findings of gerontology and demographic change in Germany. Based on the findings of the empiric study everyday life of old age the new theoretical approach changing management was developed. Afterwards as a practical example based on the findings of the changing management a daily service for the everday life of old age in countrified areas was generated.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Design und Kunst » Industrial Design"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20191023-092155-6</identifier>
+                    <identifier type="doi">10.25926/75ts-xc16</identifier>
+                    <identifier type="sys">HT020262426</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9840</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9840">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbf/industrialdesign/diss2018/koenig/df1801.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9840"
+            DMDID="DMD_wuppertal_elpub_9840">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9840"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

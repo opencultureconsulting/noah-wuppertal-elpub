@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_4820">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Konjugierte Polymere und Oligomere als Materialien für Anwendungen in hybriden und organischen Solarzellen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Zhang, Jinming</displayForm>
+                        <namePart type="family">Zhang</namePart>
+                        <namePart type="given">Jinming</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This doctoral thesis deals with three subjects, namely the synthesis of nanocomposites based on polymers and PbS as counterparts, the development of a donor-acceptor polymer and the acquirement of a star-shaped dendrimer. All three materials show potential use in organic solar cells. Following, the summary of the three aforementioned subjects are presented.
+
+ In chapter 2, four copolymers P1-P4 were synthesized by microwave-assisted Stille coupling reactions and characterized by means of NMR spectroscopy. A ligand exchange procedure between polymer P2 and PbS nanocrystals led to the acquirement of NC2, which was investigated as donor component in a BHJ solar cell. The built device exhibited a PCE (power conversion efficiency) of only 0.02%. Additionally, five mixtures of P2/PbS(wt%)/PC61BM were investigated in BHJ solar cell devices. The test trials showed a best PCE value of 0.34% for a device which active layer was composed of a mixture of P2/PC61BM excluding PbS nanoparticles. Increasing the amount of PbS nanocrystals, the PCE of the BHJ solar cell devices was reduced. Based on the results of the BHJ solar cells comprising NC2/PC61BM and P2/PbS(wt%)/PC61BM, it can be supposed that nanocomposites consisting of P2 and PbS nanocrystals influence negatively the PCE value, an aspect which should be further investigated in terms of exploring the cause of such a diminishment.
+
+ In the frame of chapter 3, the synthesis and characterization of an alternating donoracceptor copolymer is described, namely poly[dithienol[3,2-b:2&apos;,3&apos;-d]pyrrole]-alt-[2,2- dihexyl-2H-benzo[d]imidazole. The polymer was tested as donor component in BHJ solar cell devices in combination to PC71BM as the acceptor component. The best result was obtained by preparing a polymer/PC71BM system where the mixing ratio of the two components in the active layer was 1:2 and an energy transformation efficiency of 0.18% could be measured. Strategies in order to improve the performance of the devices and optimize the morphology of the blends include the attachment of side chains influencing solubility issues, the increase of the molecular weight of the used polymer and the application of different solvent mixtures.
+
+ In chapter 4, a new star-shaped molecule was synthesized and characterized. The star-arm, which is composed of a donor-acceptor-donor unity and is known in literature, was obtained in good yields following a Suzuki coupling reaction. Subsequent mono-bromination of the arm was followed by a Sonogashira coupling reaction between the arm and 1,3,5-triethynylbenzene in order to end up with the starshaped compound S1. Due to its poor shape ability in organic solar cells, S1 could not be investigated in terms of its implementation potential in solar cell devices. For this reason the arms and/or the core of the star molecule had to be derivatized in order to develop materials with more desirable properties.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20150518-113254-3</identifier>
+                    <identifier type="sys">HT018664365</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_4820</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_4820">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2015/zhang/dc1503.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_4820"
+            DMDID="DMD_wuppertal_elpub_4820">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_4820"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

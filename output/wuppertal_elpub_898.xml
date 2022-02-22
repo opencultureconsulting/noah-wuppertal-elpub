@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_898">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Dynamical fermions in lattice quantum chromodynamics</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Szabo, Kalman</displayForm>
+                        <namePart type="family">Szabo</namePart>
+                        <namePart type="given">Kalman</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-06-10</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In dieser Doktorarbeit präsentiere ich Ergebnisse in Quantum Chromo Dynamik (QCD) mit dynamischen Fermionen auf dem Gitter. Die topologische Suszeptibilität der QCD wird ausgerechnet, wobei dazu dynamische overlap Fermionen verwendet werden. Desweiteren werden die wichtigsten Eigenschaften des QCD Quark-Gluon Plasmas mit dynamischen staggered Fermionen untersucht.</abstract>
+                    <abstract type="content" lang="eng">The thesis will present results in Quantum Chromo Dynamics (QCD) with dynamical lattice fermions. The topological susceptibilty in QCD is determined, the calculations are carried out with dynamical overlap fermions. The most important properties of the quark-gluon plasma phase of QCD are studied, for which dynamical staggered fermions are used.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20090659</identifier>
+                    <identifier type="sys">HT015978734</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_898</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_898">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2007/szabo/dc0726.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_898"
+            DMDID="DMD_wuppertal_elpub_898">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_898"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

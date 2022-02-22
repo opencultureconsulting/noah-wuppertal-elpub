@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_338">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Properties of systems with time delayed feedback</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Manffra, Elisangela Ferretti</displayForm>
+                        <namePart type="family">Manffra</namePart>
+                        <namePart type="given">Elisangela Ferretti</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002-06-17</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Nonlinear dynamics is a vast field complementary to classical mechanics and statistical physics. Inside this field we have chosen to study dynamical systems with time delayed feedback. Such systems appear as models in the sciences like physics, biology, economy and have at the same time interesting theoretical properties being good candidates to present high dimensional attractors. In this work delayed systems are studied mainly in the limit of large delay were the scaling properties of the attractors are observed. In chapter 2 we describe general properties of periodic orbits of dynamical systems with feedback delay. In chapter 3 it is shown that the marginal invariant density of chaotic attractors of scalar systems with time delayed feedback has an asymptotic form in the limit of large delay. We present general considerations, detailed analytical results in low order perturbation theory for a particular model, and numerics for the understanding of the asymptotic behaviour of the projections of the invariant density. Our approach clarifies how the analytical properties of the model determine the behaviour of the marginal invariant densities for large delay times. In chapter 4 properties of the topological and metric entropies are discussed and arguments for the boundedness of both are given on the basis of periodic orbits and of the asymptotic behavior of the invariant density. In chapter 5 we analyse the representation of maps with time delayed feedback as coupled map lattices. We show that when the delayed map has an anomalous exponent, this representation gives rise to infinitely large comoving Lyapunov exponents of the spatially extended system. Additionally, we present a short discussion regarding the anomalous error propagation in the case of continuous time, i.e. delayed differential equations.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20020239</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_338</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_338">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-432/d080202.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_338"
+            DMDID="DMD_wuppertal_elpub_338">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_338"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

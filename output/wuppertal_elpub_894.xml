@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_894">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Atlas Pixel Opto-Board Production and Analysis and Optolink Simulation Studies</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Nderitu, Simon Kirichu</displayForm>
+                        <namePart type="family">Nderitu</namePart>
+                        <namePart type="given">Simon Kirichu</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-04-02</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">At CERN, a Large collider will collide protons at high energies. There are four experiments being built to study the particle properties from the collision. The ATLAS experiment is the largest. It has many sub detectors among which is the Pixel detector which is the innermost part. The Pixel detector has eighty million channels that have to be read out. An optical link is utilized for the read out. It has optical to electronic interfaces both on the detector and off the detector at the counting room. The component on the detector in called the opto-board. 
+This work discusses the production testing of the opto-boards to be installed on the detector. A total of 300 opto-boards including spares have been produced. The production was done in three laboratories among which is the laboratory at the University of Wuppertal which had the responsibility of Post production testing of all the one third of the total opto-boards. The results are discussed in this work. The analysis of the results from the total production process has been done in the scope of this work as well. 
+In addition to the production, a study by simulation of the communication links optical signal has been done. This has enabled an assessment of the sufficiency of the optical signal against the transmission attenuation and irradiation degradation. A System Test set up has been put up at Wuppertal to enhance general studies for better understanding of the Pixel read out system. Among other studies is the study of the timing parameters behavior of the System which has been done in this work and enhanced by a simulation. These parameters are namely the mark to space ratio and the fine delay and their relatedness during the optolink tuning. A bit error rate test based on the System has also been done which enabled assessment of the transmission quality utilizing the tools inbuilt in the System Test. These results have been presented in this work.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20080137</identifier>
+                    <identifier type="sys">HT015498053</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_894</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_894">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2007/nderitu/dc0721.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_894"
+            DMDID="DMD_wuppertal_elpub_894">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_894"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

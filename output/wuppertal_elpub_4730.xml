@@ -1,0 +1,94 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_4730">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Development and Characterization of capillary Atmospheric Pressure Electron Capture Ionization (cAPECI)</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Derpmann, Valerie</displayForm>
+                        <namePart type="family">Derpmann</namePart>
+                        <namePart type="given">Valerie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Benter, Thorsten</displayForm>
+                        <namePart type="family">Benter</namePart>
+                        <namePart type="given">Thorsten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kling, Hans Willi</displayForm>
+                        <namePart type="family">Kling</namePart>
+                        <namePart type="given">Hans Willi</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In this work a novel method for the generation of negatively charged ions is developed. Most analytes form stable positive ions and are thus easily accessible to mass spectrometric analysis, but there are a few compound classes that undergo fragmentation when they are positively charged, for example, nitro-aromatic compounds. For these compound classes negative ionization is desirable. 
+
+ The novel method is based upon the photoelectric effect, which is the generation of electrons by the interaction of light, in particular ultra violet light, with metal surfaces. Thus, only negative ions are produced. This is in contrast to all other ionization methods operating in the gas phase where both positive and negative ions are generated, which may lead to adverse recombination reactions. 
+
+ Within this work the ionization method is characterized, an optimized ionization source is developed and several applications are shown. The ion source exhibits short reaction times as the mixing of primary ions and the analyte containing gas stream takes place inside the channel of an inlet capillary. Therefore, the method has been termed capillary Atmospheric Pressure Electron Capture Ionization (cAPECI). The short reaction times lead to kinetically controlled reaction product distributions of the occurring ion-molecule/radical reactions and thus to mass spectra which resemble closely the ion distribution inside the ion source. With longer reaction times, as present in common ion sources, thermodynamically controlled product distributions are generally obtained. 
+
+ The ionization method produces solely negative ions and only a small quantity of neutral radicals. Because of both, the short reaction times and the high selectivity of the method, ion-transformation processes are minimized. Mass spectra with low background signal levels and high signal-to-noise ratios are obtained. 
+
+ For a deeper understanding of the processes occurring during and following ionization, investigations were carried out with respect to: 
+
+ - the photoelectric effect at atmospheric pressure - the reaction mechanism in the negative ion mode - the ion transmission characteristics of (modified) inlet capillaries 
+
+ Work functions reported in the literature have been determined at low pressures, thus, work functions at elevated pressures were measured during this work. At atmospheric pressure the surface is covered with molecular layers of water or even oxidation of the surface occurs. This can alter the work function of the metals, whereby lower or higher values than for clean surfaces might occur. 
+
+ Photoelectrons are quickly captured by oxygen in air at atmospheric pressure. For the ionization mechanism in the negative mode, depending on the electron affinity and gas-phase acidity of the analyte, two major pathways leading from the electron capture of oxygen to analyte ions were found. In atmospheric pressure ion sources water is always present in the upper ppmV to low percentage range. Clusters of the type [O₂(H₂O)ₙ]⁻ form, where n depends on the water mixing ratio. With increasing cluster size the gas-phase basicity decreases and the electron affinity increases. Thus, the water concentration inside the ion source is an important factor for the ionization efficiency. 
+
+ The ion transmission properties of inlet capillaries were investigated in-depth, as ionization inside the capillary requires modifications of the capillary material. The transmission depends on the capillary materials and the composition of the ion containing bulk gas stream. While the presence of both ion polarities in the gas stream always leads to stable ion currents with time, gas streams containing ions with only one polarity can lead to charging effects if materials with different conductivities are used for the inlet capillary assembly. 
+
+ Finally, several applications of the novel ionization method were examined: 
+
+ - the hyphenation with gas-chromatographic separation prior to the ionization - product analysis of photolysis studies in atmospheric chemistry - the desorption of analytes from surfaces - the determination of rate constants for reactions of neutral analyte with primary ions 
+
+
+ In summary, with cAPECI a novel ionization method for analytes with high electron affinity (e.g., nitro-aromatics) or gas phase acidity (e.g., phenols) has been developed. Its high selectivity leads to good signal-to-noise ratios and thus to low detection limits. The method was successfully applied in various research areas.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20150410-102234-8</identifier>
+                    <identifier type="sys">HT018664113</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_4730</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_4730">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2014/derpmann/dc1438.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_4730"
+            DMDID="DMD_wuppertal_elpub_4730">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_4730"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

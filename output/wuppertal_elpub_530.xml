@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_530">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Dichtefunktionalstudien zu katalytischen Aktivitäten und NMR-chemischen Verschiebungen von Titan- und Eisen-Komplexen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mauschick, Frank Thomas</displayForm>
+                        <namePart type="family">Mauschick</namePart>
+                        <namePart type="given">Frank Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003-06-27</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In the present thesis, the tools of modern density functional theory are applied to study reactivities and NMR chemical shifts of organotitanium und -iron complexes.
+ In the first part it is shown for a model system that cationic titanium complexes of the type L2TiR+ (R=growing alkyl chain) can be viable intermediates in the homogeneous olefin polymerisation catalysed by titanium beta-diketonato complexes. Olefin insertion in beta- and alpha-agostic intermediates is a facile process on the potential energy surface, but a substantial barrier for the chain propagation is computed on the free energy surface, 15.8 kcal/mol at 298 K. Chain termination via beta-H transfer requires significantly higher activation, consistent with the observation of polymerisation, rather than oligomerisation. Electron-withdrawing substituents at the diketonato ligand are predicted to lower the barrier for chain propagation, e.g. by 4.5 kcal/mol for L=F3CC(O)CHC(O)CF3 (hfac). Thus, hfac complexes should produce highly active catalysts. Theoretical methods for the calculation of 49Ti chemical shifts are assessed for a set of inorganic and organometallic titanium compounds, and the exchange-correlation functional best suited for this purpose is identified.
+ In the second part, catalytic conversion of MeOH and SiH4 to MeSiOH3 and H2 at a [Fe(Cp)(CO)(PR3)]+ center is studied. Intermediates and transition states for R&apos;=H and Ph are characterized along the catalytic cycle, the rate-determining step of which is indicated to be H2 dissociation from [Fe(Cp)(CO)(PR3)(H2)]+, in accord with a mechanistic study for higher substituted substrates from the literature. For the model catalyst (R=H), introduction of SiMe3, NMe2, COMe, NO2, CN or Cl subtituents at the Cp ring decreases the rate-determining barrier (up to 6 kcal/mol for NMe2). In the transient, free [Fe(C5H4X)(CO)(PR3)]+ complex, there can be competition between the substituent X and the phenyl group of the PPh_3 ligand for a hemilabile intramolecular coordination to iron. Modification of the phosphine is thus expected to open further possibilities for tuning the catalyst properties and activities.
+ In the third part, thermal and solvent effects on 57Fe chemical shift of [Fe(CN)5(NO)]2- and [Fe(CN)6]4- are simulated with a molecular-dynamics (MD)-based approach. Born-Oppenheimer MD simulations were performed employing a QM/MM scheme, in which the solvent, water, is described by a classical force field with electrostatic embedding into the quantum-mechanical part. Magnetic shieldings are computed for snapshots along the trajectories. Very large thermal and solvent effects on 57Fe chemical shift are obtained, and the final simulated values are in good accord with experiment. The simulations offer detailed insights into the hydration spheres around the complexes, as assessed by the average number of hydrogen-bonded water molecules and by suitable pair correlation functions.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20030270</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_530</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_530">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-625/d090303.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_530"
+            DMDID="DMD_wuppertal_elpub_530">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_530"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

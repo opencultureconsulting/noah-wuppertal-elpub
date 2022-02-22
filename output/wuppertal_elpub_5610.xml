@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5610">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchungen zur Optimierung von Hydrierprozessen zur Herstellung von Fettalkoholen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Thom, Anne-Kathrin</displayForm>
+                        <namePart type="family">Thom</namePart>
+                        <namePart type="given">Anne-Kathrin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In Anbetracht stetig steigender Kosten für Rohstoff- und Energieaufwendungen stellt ein ressourceneffizienter Umgang mit natürlichen Rohstoffen eine Schlüsselkompetenz für eine nachhaltige Gesellschaft dar. Innerhalb der chemischen Industrie bieten großtechnische Prozesse daher ein hohes Optimierungspotential, da aufgrund von Parallel- und Folgereaktionen der Anteil an Wertprodukt reduziert wird. Die Prozessoptimierung baut hierbei auf die Generierung von Prozessverständnis auf, da nur mit dem Blick auf das gesamte System eine Ausbeuteverbesserung erreicht werden kann. Im Rahmen dieser Arbeit wurde die Bildung von Nebenkomponenten während der großtechnischen Hydrierung von Fettsäuremethylester zu Fettalkoholen mittels GCxGC-(TOF)MS untersucht. Die GCxGC-(TOF)MS bietet als Hochleistungstrenntechnik gegenüber der konventionellen Gaschromatographie eine Steigerung der Peakkapazität sowie eine niedrigere Nachweisgrenze. Der erste Teil umfasst die Methodenentwicklung und -optimierung zur Identifizierung und Quantifizierung von Nebenkomponenten. Vor diesem Hintergrund konnte eine Analysemethode etabliert werden, die als analytisches Werkzeug zur Durchführung verschiedener Optimierungsversuche eingesetzt werden kann. Im zweiten Teil wurden verschiedene Labor- und Großversuche im Hinblick auf Ausbeuteverluste und Nebenreaktionen untersucht. Hierbei konnte ein komplexes Reaktionsnetzwerk erstmalig identifiziert und quantifiziert werden. Der letzte Abschnitt beschäftigt sich mit der Aufklärung einzelner Reaktionswege zur Bildung von Nebenkomponenten. Hierbei konnten Zusammenhänge zwischen den einzelnen Verbindungsklassen erfolgreich herausgearbeitet werden.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20160229-152611-2</identifier>
+                    <identifier type="sys">HT018976482</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5610</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5610">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2015/thom/dc1535.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5610"
+            DMDID="DMD_wuppertal_elpub_5610">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5610"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

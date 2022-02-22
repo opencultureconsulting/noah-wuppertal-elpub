@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_650">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Bild als Widerstreit - Zur Phänomenologie des Bildes im Anschluß an die Untersuchungen E. Husserls</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Seemann, Hans Jürgen</displayForm>
+                        <namePart type="family">Seemann</namePart>
+                        <namePart type="given">Hans Jürgen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-10-17</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die vorliegende Untersuchung begründet eine phänomenologische Theorie des Bildes auf der Basis der Philosophie E. Husserls. Sie distanziert sich damit von semiotischen und hermeneutischen Theorien des Bildes. Husserls neue Antwort in der Tradition der Philosophie entdeckt das Bild als widerstreitende Anschauung. Der Begriff des Widerstreites meint bei Husserl die Enttäuschung einer Intention. Ein jedes Bild entfaltet Widerstreit als nachhaltige Störung der unaufhebbaren Grammatik der Wirklichkeits-Wahrnehmung. Husserl hat diese Grammatik als einen Fundierungszusammenhang aufgezeigt, d.h. als ein System von notwendigen Zusammenhängen und Trennungen. Dieses System zerbricht in und mit der bildlichen Form. Insofern erscheint das Bild als &quot;unmögliche&quot; Anschauung. Eine zentrale These ist, daß das Bild auf unzulässige Weise Anschauungen zerbricht (negativer Widerstreit) und zugleich verbindet (positiver Widerstreit). Das Bild ist Resultat eines Verstoßes gegen fundamentale und unverzichtbare Forderungen wirklicher Anschauungen. Es zeigt sich damit als strukturelle Entsprechung der von Husserl sprachphilosophisch untersuchten Figur des &quot;Widersinns&quot; (III. und IV. &quot;Logische Untersuchungen&quot;), d.h. als eine Variante des &quot;hölzernen Eisens&quot;. Das Bild ist eine Form anschaulicher Paradoxie, eine Form, die in der Tradition der Philosophie fast immer nur als eine Möglichkeit der Bedeutungssphäre (etwa in der &quot;Lügner-Paradoxie&quot;) anerkannt wurde. Die Untersuchung schließt mit der These von der Selbstbezüglichkeit des bildlichen Widerstreites. Durch den Begriff des selbstbezüglichen Widerstreites werden auch nicht-darstellende Bilder als Bilder in einem einheitlichen Konzept identifizierbar.</abstract>
+                    <abstract type="content" lang="eng">The following examination establishes a phenomenological theory of pictures based on the philosophy of E. Husserl. Thereby it dissociates itself from semiotic and hermeneutical theories of images. Husserl&apos;s new philosophical approach discoveres the picture als conflicting intuition. For Husserl the concept of conflict (Widerstreit) refers to the disappointment of an intention. Every picture develops conflict as lasting disturbance of an undispensable grammar in the perception of reality. Husserl has pointed out that this grammar is to be understood as foundational connection i.e. as system of necessary conjunctions and separations. This system breaks in an with the pictorial form. In this way the picture appears as &quot;impossible intuition&quot;. A main thesis claims that the picture breaks intuitions in an inadmissible manner (negative conflict) and unites them at the same time (positive conflict). The picture is the result of a violation of fundamental und inalienable demands of real intuitions. By this it shows a structuaral correspondence to the element of contradiction (Widersinn, Logical Examinations III and IV) as variant on the &quot;wooden iron&quot;-topic. The picture presents itself as form of intuitive paradox, as form which in traditional philosophy was accepted as a mere possibility of meaning (e.g. in the paradox of the liar). My examination finishes with the thesis of a self-referentiality of the intuitive conflict. By the notion of self-referential conflict also non-figurative pictures can be understood as pictures and be identified by a singuar conception.</abstract>
+                    <classification authority="ddc">100</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » Philosophie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20070839</identifier>
+                    <identifier type="sys">HT015351587</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_650</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_650">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fba/philosophie/diss2000/seemann/da0001.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_650"
+            DMDID="DMD_wuppertal_elpub_650">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_650"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

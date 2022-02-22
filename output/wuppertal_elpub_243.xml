@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_243">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Nicht-isotrope Abschätzungen für lineal konvexe Gebiete endlichen Typs</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Conrad, Michael</displayForm>
+                        <namePart type="family">Conrad</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002-12-18</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Ein Gebiet im ⁿ heißt lineal konvex, wenn für jeden Randpunkt eine komplexe Hyperebene durch diesen Punkt existiert, die nicht in das Gebiet eindringt. Lineal konvexe Gebiete sind eine Verallgemeinerung konvexer Gebiete und ein Spezialfall pseudokonvexer Gebiete. Wir betrachten hier beschränkte, lineal konvexe Gebiete mit glattem Rand von endlichem Typ im Sinne von D&apos;Angelo. Ziel ist es, die nicht-isotrope Struktur solcher Gebiete zu untersuchen. Dazu wird zunächst gezeigt, dass die Einträge des Catlinschen Multityp mit den D&apos;Angelo-Typen übereinstimmen und dass der Multityp durch einen linearen Koordinatenwechsel realisiert wird. Lineal konvexe Gebiete endlichen Typs sind also insbesondere semiregulär im Sinne von Diederich / Herbort. Weiter führen wir einen Pseudodistanz ein, die die Randgeometrie in optimaler Weise widergibt. Sie basiert auf dem Abstand von inneren Punkten zu Niveaumengen des Gebietes, gemessen entlang komplexer Geraden. Damit werden Ergebnisse des konvexen Falls von McNeal verallgemeinert und es eröffnen sich zahlreiche Anwendungen. Speziell werden maximale subelliptische Abschätzungen, nicht-isotrope Abschätzungen für geschlossene, positive (1,1)-Ströme und optimale Näherungsregionen für Funktionen der Hardyräume erzielt.</abstract>
+                    <abstract type="content" lang="eng">A domain in ⁿ is lineally convex, if for every boundarypoint there exists a complex hyperplane containing this point but does not intersect the interior of the domain. So convex domains are lineally convex, and lineally convex domains are pseudoconvex. We consider bounded, lineally convex domains with smooth boundary of finite type in the sense of D&apos;Angelo, and we are interested in the unisotropic structure of the boundary of this kind of domains. The Catlin multitype is shown to agree with the types of D&apos;Angelo. The multitype is realized by a linear change of coordinates. Therefore lineally convex domains of finite type are semiregular in the sense of Diederich / Herbort. Furthermore a pseudodistance based on the boundary distance measured along complex lines is introduced. This reflects the geometry of the boundary in a perfect way and generalizes the results of McNeal for the convex case. As applications maximal subelliptic estimates, unisotropic estimates for positive, closed (1,1)-currents, and unisotropic approachregions for functions of the Hardy-spaces are achieved.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20020450</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_243</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_243">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-336/d070204.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_243"
+            DMDID="DMD_wuppertal_elpub_243">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_243"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

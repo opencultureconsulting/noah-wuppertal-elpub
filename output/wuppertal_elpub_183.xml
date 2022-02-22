@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_183">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kleidung als und im Kunstwerk des 20. Jahrhunderts unter sozialtheoretischer Perspektive</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schütze, Yvonne</displayForm>
+                        <namePart type="family">Schütze</namePart>
+                        <namePart type="given">Yvonne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2000-11-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die vorliegende Arbeit thematisiert die Behandlung von Kleidung in der Kunst des 20. Jahrhunderts. Zum Untersuchungsgegenstand gehören sowohl von Künstlern entworfene Kleidung als auch Kunstwerke, die Kleidung mit klassischen bildnerischen Mitteln darstellen. Ausgehend von der These, dass Kunst und Mode in der modernen Gesellschaft verschiedenen autopoietischen Systemen zuzuordnen sind, gliedert sich die Untersuchung in drei Kapitel: Im ersten Kapitel wird die historische Entwicklung des Themas Kleidung in der Kunst dargestellt. Das anschließende zweite Kapitel zeigt unter Zuhilfenahme erhobenen Interviewmaterials die Vielfalt zeitgenössischer Kleidungskunstwerke in den Medien Malerei, Bildhauerei, Fotografie, Video, Aktionskunst etc. Der abschließende dritte Teil stellt die gewonnenen Erkenntnisse auf der Grundlage der Systemtheorie Niklas Luhmanns in einen übergreifenden theoretischen Zusammenhang.</abstract>
+                    <abstract type="content" lang="eng">The present paper concerns the handling of clothing in view of the art of the 20th century. The subject of the investigation is clothes designed by artists as well as pieces of art showing clothes presented by classical visual means.
+ Starting with the thesis that art and fashion belong to a different autopoietic system in our modern society this investigation is divided into three chapters:
+ The first chapter deals with the historical development of the subject ‘clothing’ in the art. The second chapter presents, with the aid of material gained, the variety of contemporary clothing as pieces of art in the media of pictorial art/ painting/ sculpturing /photography/ video and performing art. The third and last chapter presents the acquired knowledge in an all embracing theoretical connection based on the theory of Niklas Luhmann.</abstract>
+                    <classification authority="ddc">700</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Design und Kunst » Kunst"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20000344</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_183</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_183">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-310/d059801.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_183"
+            DMDID="DMD_wuppertal_elpub_183">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_183"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

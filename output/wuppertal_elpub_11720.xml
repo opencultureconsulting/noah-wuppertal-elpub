@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_11720">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Nachträge bei komplexen Beschaffungen im Rahmen von E-Reverse Auctions. Eine quantitative Untersuchung am Beispiel eines MDAX-Konzerns.</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Claus, Matthias</displayForm>
+                        <namePart type="family">Claus</namePart>
+                        <namePart type="given">Matthias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-05-17</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Im Rahmen der Digitalisierung des Einkaufs, stellt die E-Reverse Auction (eRA) ein wichtiges Vergabeinstrument dar. Das bereits bekannte Problem von Nachträgen, bei der Beschaffung von hauptsächlich komplexen Bedarfen, gewinnt im Kontext der eRA an Bedeutung, denn bei dieser Vergabeform wird in der Praxis regelmäßig einzig auf Basis des Gebotspreises in der Auktion allokiert. So werden Bedarfe zwar regelmäßig an den Bieter mit dem geringsten Gebotspreis vergeben, aber nicht zwangsläufig an den Bieter, der die geringsten Gesamtkosten (Gebotspreis zzgl. Nachträge) verursacht. In der Arbeit wurde untersucht, ob es Unterschiede hinsichtlich des relativen Nachtragsaufkommens zwischen den in der Praxis eingesetzten Auktionsformaten - der Englischen, Holländischen und Japanischen eRA gibt und, ob es statistisch signifikante Zusammenhänge zwischen dem relativen Nachtragsaufkommen und weiteren Variablen gibt. Im Rahmen der Datenanalyse wurden insgesamt über einhundert eRAs mit einem Vergabevolumen im dreistelligen Millionenbereich aus den Jahren 2015 bis 2018 untersucht.</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20210517-110139-4</identifier>
+                    <identifier type="doi">10.25926/tdkj-yy10</identifier>
+                    <identifier type="sys">HT021117202</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_11720</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_11720">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2021/claus/db2105.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_11720"
+            DMDID="DMD_wuppertal_elpub_11720">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_11720"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1381">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Topics in the Measurement of Top Quark Events with ATLAS</title>
+                    </titleInfo>
+                    <titleInfo lang="ger" type="translated">
+                        <title>Pixel Detector Optoelectronics, Track Impact Parameter Calibration, Acceptance Correction Methods</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sandvoss, Stephan A.</displayForm>
+                        <namePart type="family">Sandvoss</namePart>
+                        <namePart type="given">Stephan A.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Diese Arbeit beschreibt Verfahren, die insbesondere zur Messung von Top-Quark Ereignissen mit dem ATLAS Detektor am Large Hadron Collider (LHC) des CERN angewendet werden köonnen. Es wurden Beiträge zu drei wesentlichen Bereichen erbracht: dem Detektoraufbau und seiner Überprüfung, der Datenkalibration und der ersten physikalischen Analyse.
+ Der Pixel Detektor verfügt über etwa 80 Millionen Auslesekanäle und repräsentiert damit mehr als 90% aller Auslesekanäle des ATLAS Detektors. Es wurde eine Methode zur Anwendung eines optischen Reflektometers entwickelt, mit der die Unversehrtheit der Lichtwellenleiterkabel, die die auslesende Optoelektronik außerhalb des Pixel Detektors mit derjenigen innerhalb verbinden, schnell getestet werden kann. Damit wurde die Einsatzbereitschaft des Pixel Detektors nach Produktion, Test und Installation dieser Ausleseelektronik (Back of Crate Karten) sichergestellt.
+ Präzisionsmessungen erfordern eine sorgfältige Detektorkalibration. Hierzu kann ein Verfahren beitragen, das die Spurstoßparameter von Monte Carlo (MC) Datensätzen an die Verteilungen von Daten anpaßt. Zunächst werden die Spur-und Jetrekonstruktion sowie das b-Tagging von Jets in ATLAS vorgestellt. Die Stoßparameter von Spuren sind vor allem durch den innersten Detektor bestimmt, den Pixel Detektor. Die Genauigkeit der Spurstoßparameter hat großen Einfluß auf die Resultate des b-Taggings und damit auf die Selektion und Analyse von Top Quark Ereignissen.
+ Zu Anfang der Messungen wird es Abweichungen in den Stoßparameterverteilungen zwischen simulierten und realen Daten geben, z.B. weil die relative Anordnung von Detektorteilen nicht genau genug bekannt ist. Auf die Spuren mit negativen Stoßparametern gestützt, die hauptsächlich von der intrinsischen Detektorauflösung abhängen, werden die Stoßparameter der simulierten Spuren angepaßt. Eine Implementierung im Athena Framework von ATLAS wurde aufgrund fehlender Kollisionsdaten mit zwei MC Top-Quark-Paar Datensätzen verschiedener Detektorgeometrien getestet. Mit der verfügbaren Statistik lassen sich Verbesserungen bei der Übereinstimmung von simulierten mit (pseudo-) realen Daten für Spuren mit Stoßparametern kleiner als 0.4 mm bis zu einem Faktor von 4 erreichen.
+ Die Analyse der ersten Top-Quark Ereignisse dient sowohl der Kalibration und Leistungsverbesserung des ATLAS Detektors als auch der Validierung bisheriger Messungen und der Überprüfung theoretischer Vorhersagen bei Energien, die nie zuvor erreicht wurden. Ein weiteres Verfahren gewichtet die Vorhersagen von Monte Carlo Generatoren für Top-Quark Observablen, so daß sie mit Daten übereinstimmen. Bei Top-Quark Messungen lassen sich so systematische Unsicherheiten verringern, die durch unterschiedliche Modellierung zugrundeliegender physikalischer Prozesse verursacht werden. Zunächst werden alle Schritte der MC Simulation in ATLAS vorgestellt, von der Generierung eines Ereignisses über die Simulation im Detektor bis zu seiner Rekonstruktion.
+ Die Vorhersagen von fünf Monte Carlo Generatoren werden hinsichtlich der totalen Selektionseffizienz von semileptonischen Top-Quark-Paar Ereignissen verglichen. Diese Effizienzen weichen wie einige Verteilungen der Selektionsobservablen und des Transversalimpulses des hadronisch zerfallenden Top Quarks um bis zu 20% voneinander ab. Das führt zu einer systematischen Unsicherheit der Messung aufgrund der Modellierung des zugrundeliegenden physikalischen Prozesses. Um diese Unsicherheit für die ersten Daten zu verringern, rewichtet das entwikkelte Verfahren die MC Ereignisse anhand einer einzigen gemessenen Verteilung: anhand des Transversalimpulses des hadronisch zerfallenden Top-Quarks. Eine Implementierung und Anwendung im Athena Framework zeigt Verbesserungen von bis zu einem Faktor 10, die systematische Unsicherheit in der totalen Selektionseffizienz fällt um mehr als den Faktor 4 von etwa 20% auf unter 5%.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20100160</identifier>
+                    <identifier type="sys">HT016319896</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1381</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1381">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2009/sandvoss/dc0919.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1381"
+            DMDID="DMD_wuppertal_elpub_1381">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1381"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

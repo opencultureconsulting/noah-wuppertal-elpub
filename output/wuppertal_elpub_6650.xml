@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6650">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Lattice investigations of the QCD phase diagram</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Günther, Jana</displayForm>
+                        <namePart type="family">Günther</namePart>
+                        <namePart type="given">Jana</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">To understand the physics in the early universe as well as in heavy ion collisions a throughout understanding of the theory of strong interaction, quantum chromodynamics (QCD), is important. Lattice QCD provides a tool to study it from first principles. However due to the sign problem direct simulations with physical conditions are at the moment limited to zero chemical potential. In this thesis I present a circumvention of this problem. We can gain information on the QCD phase diagram and the equation of state from analytical continuation of results extracted from simulations at imaginary chemical potential. The topological susceptibility is very expensive to compute in Lattice QCD. However it provides an important ingredient for the estimation of the axion mass. The axion is a possible candidate for a dark matter, which plays in important role in the understanding of our universe. In this thesis I discuss two techniques that make it possible to determine the topological susceptibility and allow for an estimation of the axion mass. I then use this mass restrain to analyze the idea of an experiment to detect axions with a dielectric mirror.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170213-111605-3</identifier>
+                    <identifier type="sys">HT019261588</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6650</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6650">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2016/guenther/dc1638.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6650"
+            DMDID="DMD_wuppertal_elpub_6650">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6650"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

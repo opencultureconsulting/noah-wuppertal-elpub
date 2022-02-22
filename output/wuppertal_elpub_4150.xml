@@ -1,0 +1,85 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_4150">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Luftgestützte Messung von HOx-Radikalkonzentrationen mittels Laser-induzierter Fluoreszenz auf einem Zeppelin NT: Untersuchung der atmospherischen Oxidationsstärke der unteren Troposphäre</title>
+                    </titleInfo>
+                    <titleInfo lang="eng" type="translated">
+                        <title>Airborne measurement of HOx radical concentrations by laser-induced fluorescence on board a Zeppelin NT: Investigation of the atmospheric oxidation strength of the lower troposphere</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gomm, Sebastian</displayForm>
+                        <namePart type="family">Gomm</namePart>
+                        <namePart type="given">Sebastian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Koppmann, Ralf</displayForm>
+                        <namePart type="family">Koppmann</namePart>
+                        <namePart type="given">Ralf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hofzumahaus, Andreas</displayForm>
+                        <namePart type="family">Hofzumahaus</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Das wichtigste atmosphärische Oxidationsmittel ist das OH-Radikal, welches den photochemischen Abbau von Spurengasen und Schadstoffen in der Atmosphäre dominiert. Das verbrauchte OH kann durch das HO₂-Radikal, welches mit NO reagiert, zurückgebildet werden, wobei auch Ozon entsteht. Deswegen sind OH und HO₂ ideale Messgrößen, um das aktuelle Verständnis des atmosphärischen Spurengasabbaus zu testen. 
+ In dieser Arbeit wurde ein Instrument zur Messung von OH- und HO₂-Radikalen mittels Laser-induzierter Fluoreszenz entwickelt und auf einem Zeppelin NT eingesetzt. Die in dieser Arbeit vorgestellten Messungen wurden im Juli und August 2012 in der Region Emilia Romagna in Norditalien durchgeführt. Die Messplattform Zeppelin NT ermöglichte die umfassende Messung physikalischer und chemischer Parameter innerhalb der unteren Troposphäre im Höhenbereich von 75-900 m über Grund. 
+ Während der Messflüge wurden insbesondere am Morgen große Spurengaskonzentrationsunterschiede beobachtet, die auf die tageszeitabhängige Schichtung und Dynamik der Planetaren Grenzschicht zurückgeführt werden konnten. Niedrige Spurengaskonzentrationen wurden typischerweise in der abgesetzten Luftschicht in großen Flughöhen vorgefunden, wohingegen die höchsten OH-Reaktivitäten bis zu 10 s-1 und NOₓ-Mischungsverhältnisse bis zu 10 ppbv in der vom Erdboden beeinflussten Mischungsschicht gemessen wurden. 
+ Der lineare Zusammenhang von OH mit j(O¹D) ist mit einer Steigung der Regressionsgeraden von 4.4 x 1011 cm-3 s vergleichbar mit anderen Feldmessungen in kontinentalen Regionen. Zusätzlich zeigt OH eine nichtlineare NOₓ-Abhängigkeit mit im Mittel um einen Faktor 2 erhöhten OH-Konzentrationen für NOₓ-Mischungsverhältnisse zwischen 1.5 und 2.0 ppbv. Die beobachteten mittleren HO₂-Konzentrationen in Luftmassen mit [NO]&lt;250 pptv waren im Vergleich zu Luftmassen mit [NO]&gt;1 ppbv um bis zu einen Faktor 5 höher. Diese NOₓ-Abhängigkeit von HOₓ konnte durch die Messungen auf dem Zeppelin zum ersten Mal direkt lokal und reproduzierbar beim Durchflug von vertikalen und horizontalen NOₓ-Gradienten beobachtet werden. 
+ Boxmodellberechnungen basierend auf dem Regional Atmospheric Chemistry Mechanism reproduzieren die während der Messflüge gemessenen OH-Konzentrationen für [NOₓ]&lt;3 ppbv. Für [NOₓ]&gt;3 ppbv zeigt sich jedoch für mehr als 50 % der Messwerte eine signifikante Überschätzung durch das Modell. Die HO₂-Konzentrationen werden innerhalb der Unsicherheiten von Messung und Modell vorhergesagt. Die Modellvorhersage für OH konnte durch eine zusätzliche HONO-Gasphasenbildungsreaktion, wie sie von Li et al (2014) vermutet wird, verbessert werden. 
+ Im Zuge der Analyse der HOₓ-Daten wurden keine Hinweise auf eine signifikante NO-unabhängige, nichtklassische OH-Rezyklierung während der Messflüge in Italien gefunden.</abstract>
+                    <abstract type="content" lang="eng">The OH radical is the major atmospheric oxidant that dominates the photochemical degradation of trace gases and pollutants in the atmosphere. The consumed OH can be recycled through the HO₂ radical by reacting with NO, thereby forming ozone. Thus, OH and HO₂ are ideal parameter in order to test the current understanding of the atmospheric degradation of trace gases. 
+ In this work, an instrument for the measurement of OH and HO₂ radicals by laser induced fluorescence was developed and deployed on board a Zeppelin NT. The measurements presented here were conducted in July and August 2012 in the region Emilia Romagna in Northern Italy. The measurement platform Zeppelin NT allowed the observation of a comprehensive set of chemical and physical parameter within the lower troposphere between 75-900 m above ground. 
+ During the measurement flights, strong trace gas gradients were observed in the early morning that could be explained by the layering within the Planetary Boundary Layer. Typically, low trace gas concentrations were found in the residual layer in high altitudes whereas the highest OH reactivities up to 10 s-1 and NOx mixing ratios up to 10 ppbv were observed in the mixed layer which is strongly influenced by ground emissions. 
+ The linear correlation between observed OH and j(O¹D) with a slope of 4.4 x 1011 cm-3 s is comparable to other field measurements in continental regions. Additionally, the observed OH depends nonlinearly on NOₓ resulting in enhanced mean OH concentrations by a factor of 2 for NOₓ mixing ratios between 1.5 and 2.0 ppbv. Observed mean HO₂ concentrations in air masses with [NO]&lt;250 pptv were up to a factor of 5 higher than in air masses with [NO]&gt;1 ppbv. For the first time, this HOx dependency on NOₓ was observed locally when crossing vertical and horizontal NOₓ gradients. 
+ Box model calculations based on the Regional Atmospheric Chemistry Mechanism reproduce the measured OH for [NOₓ]&lt;3 ppbv. For higher NOₓ mixing ratios, the model overestimates OH for more than 50 % of the data points. The model predicts HO₂ within the uncertainty of the measurements and the model. The prediction for OH could be improved by implementing a newly proposed gas phase machanism forming HONO (Li et al., 2014). 
+ The analysis of the HOx data does not hint at a significant NO independent, non-classical OH-recycling during the measurement flights performed in Italy.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20140821-162049-9</identifier>
+                    <identifier type="sys">HT018380248</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_4150</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_4150">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2014/gomm/dc1417.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_4150"
+            DMDID="DMD_wuppertal_elpub_4150">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_4150"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

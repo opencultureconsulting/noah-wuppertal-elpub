@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_4971">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Modellierung dynamischer Module von Silica gefüllten Elastomeren auf der Basis molekularer Simulationen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hager, Jonathan</displayForm>
+                        <namePart type="family">Hager</namePart>
+                        <namePart type="given">Jonathan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Ziel dieser Arbeit ist ein besseres Verständnis der Silica-Silan Technologie, welche unter anderem eine wichtige Rolle bei der Herstellung von Gummimischungen für Automobilreifen spielt. Hierfür wird eine vollatomistische Molekulardynamik Simulation eines Silica-Silica Kontaktes, welcher von einer Polymermatrix umgeben ist, vorgestellt. Das System besteht aus zwei Silicapartikeln, welche in Polyisopren eingebettet sind. Es zeigt sich, dass der entwickelte Polymerisationsalgorithmus in der Lage ist, sowohl die experimentelle Dichte als auch das charakteristische Verhältnis von Polyisopren innerhalb einiger Nanosekunden zu generieren. Darüber hinaus ist es mit der Einführung eines Kraftmessers möglich, innerhalb der Molekulardynamik Simulation eine entropische rückstellende Kraft zu messen. Die zugehörigen Kraftkurven bestätigen den im „Jump-In-Jump-Out-Modell“ theoretisch vorhergesagten Verlustmechanismus, mit welchem die dissipierte Energie eines Auf- und Zu-Zyklus bestimmt werden kann. Die erhaltenen Resultate lassen sich in Verbindung mit den makroskopischen Größen, Speicher- und Verlustmodul, setzen und sind in sehr guter Übereinstimmung mit experimentellen Daten. Es ist somit gelungen, mittels einer vollatomistischen Molekulardynamik Simulation makroskopische Module von mit Silica gefüllten Elastomeren vorherzusagen.</abstract>
+                    <abstract type="content" lang="eng">Aim of this thesis is a better understanding of the silica-silan technology, which can be applied in various contexts for example in rubber compounds of tires. In this context we present full atomistic molecular dynamics simulations of two silica particles, which are embedded in a polymer matrix. It is revealed that our polymerization algorithm is able to generate the experimental density as well as the characteristic ratio of polyisoprene within a few nanoseconds. In addition to this we introduce a force gauge, with which we can measure an entropic force during our simulations. The related force curve confirms the theoretical prediction of the jump-in-jump-out model, which is able to calculate the amount of dissipated energy of a back and forth cycle of the two silica particles. We can relate our simulation results to the macroscopic properties los modulus and storage modulus. These simulation results are in agreement with experimental results of los modulus and storage modulus. Therefore, the macroscopic moduli of silica filled elastomers have been predicted via full atomistic molecular dynamic simulations.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20150710-105936-3</identifier>
+                    <identifier type="sys">HT019426722</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_4971</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_4971">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2015/hager/dc1506.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_4971"
+            DMDID="DMD_wuppertal_elpub_4971">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_4971"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

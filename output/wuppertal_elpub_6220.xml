@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6220">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>A </nonSort>
+                        <title>study on buoyancy-driven flows: Using particle image velocimetry for validating the Fire Dynamics Simulator</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Meunders, Andreas</displayForm>
+                        <namePart type="family">Meunders</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The aim of this thesis is to design and carry out bench-scale laboratory experiments specifically designed for the validation of fire models, and to use the experimental data for a validation study of the Fire Dynamics Simulator (FDS). The focus of the experiments is on one of the key components of fire models, the modeling of buoyancy-driven flows. The experimental setup is simplified by neglecting pyrolysis and combustion and its objective is to achieve high precision and reproducibility. Therefore, an electrically heated block of copper is used as a heat source and particle image velocimetry (PIV) is applied for measuring the flow velocities. Two different setups are investigated: an undisturbed open buoyant plume above the heat source, and a buoyant spill plume emerging from a compartment opening. 
+ Depending on the setup, different characteristic values of the flow are evaluated. For the undisturbed buoyant plume setup, maximum velocities in the plume, plume widths and flow integrals are determined. Furthermore, a centerline analysis is carried out in order to localize the transition from laminar to turbulent flow as a function of the Grashof number. The obtained values lie in the range 4 x 10⁸ &lt; Gr &lt; 2 x 10⁹ and therefore agree well with previous studies. For the buoyant spill plume compartment setup, position and maximum velocity of the outflow as well as volume flows in front of the opening are compared. The heat flows out of the opening cannot be measured directly and are therefore estimated based on the available data. 
+ The validation study with FDS leads to mixed results. For the open plume setup, generally a good agreement is achieved. Provided that a sufficiently fine resolution is used, the important flow characteristics are reproduced in the simulations. With the spill plume setup, significant differences between experiments and simulations are observed. In order to analyze them in detail, modifications of the experiments are required. Therefore, in conclusion of the study, areas of potential improvements for future experiments and the suitability of PIV for this kind of experiment are discussed.</abstract>
+                    <abstract type="content" lang="ger">Das Ziel der Arbeit besteht in der Planung und Durchführung von Experimenten im Labormaßstab zur Validierung von Brandsimulationsprogrammen. Die erhobenen Daten werden anschließend für die Validierung des Fire Dynamics Simulator (FDS) genutzt. Der Fokus der Experimente liegt auf auftriebsgetriebenen Strömungen, einem zentralen Element für Brandsimulationen. Durch den Ausschluss von Pyrolyse und Verbrennung werden die Experimente vereinfacht und eine höhere Genauigkeit und Wiederholbarkeit erreicht. Zu diesem Zweck wird ein elektrisch beheizter Kupferblock als Wärmequelle eingesetzt und die Strömungsgeschwindigkeiten mittels particle image velocimetry (PIV) gemessen. Zwei unterschiedliche Aufbauten werden untersucht, einerseits der freie Auftriebsstrahl über der Wärmequelle, andererseits die auftriebsgetriebene Ausströmung aus einer Raumöffnung. 
+ In Abhängigkeit des experimentellen Aufbaus werden unterschiedliche Charakteristika der Strömung ausgewertet. Im freien Auftriebsstrahl werden maximale Strömungsgeschwindigkeiten, Plumebreiten und Strömungsintegrale ermittelt. Außerdem werden die Zentrallinien analysiert, um den Umschlag von laminarer zu turbulenter Strömung in Abhängigkeit der Grashof Zahl zu bestimmen. Die Ergebnisse liegen im Bereich von 4 x 10⁸ &lt; Gr &lt; 2 x 10⁹ und damit in guter Übereinstimmung mit früheren Studien. Im zweiten Aufbau werden die Position und maximale Geschwindigkeiten der Ausströmung sowie die Volumenströme vor der Raumöffnung verglichen. Da die konvektiven Wärmeströme aus der Öffnung nicht direkt gemessen werden können, werden sie auf Grundlage der vorhandenen Daten abgeschätzt. 
+ Der Vergleich mit FDS Simulationen zeigt nur teilweise gute Übereinstimmung. Während Simulationen mit ausreichend feiner Auflösung die wesentlichen Charakteristika des freien Auftriebsstrahls gut wiedergeben, zeigen sich im zweiten Aufbau deutliche Unterschiede. Um diese eingehender zu untersuchen, sind Veränderungen an den Experimenten erforderlich. Zum Abschluss der Arbeit werden daher mögliche Verbesserungen diskutiert sowie ein Fazit zur Eignung von PIV für Experimente dieser Art gezogen.</abstract>
+                    <classification authority="ddc">624</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Architektur und Bauingenieurwesen » Bauingenieurwesen"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20161005-143323-8</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6220</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6220">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/bauingenieurwesen/diss2016/meunders/dd1603.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6220"
+            DMDID="DMD_wuppertal_elpub_6220">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6220"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

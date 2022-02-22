@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_11620">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Intentions-Verhaltens-Beziehung beim Training von Studierenden im Fitness-Studio unter besonderer Berücksichtigung motivationaler und volitionaler Einflussfaktoren</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schulz, Thomas</displayForm>
+                        <namePart type="family">Schulz</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-04-27</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Der CD-ROM Anhang der Druckversion findet sich hier im Dateibereich als ISO-File (dg2101.iso) zum Download.</abstract>
+                    <classification authority="ddc">610</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Human- und Sozialwissenschaften » Sportwissenschaft"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20210427-113242-8</identifier>
+                    <identifier type="doi">10.25926/h5mh-vb79</identifier>
+                    <identifier type="sys">HT021011416</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_11620</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_11620">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbg/sportwissenschaft/diss2021/schulz/dg2101.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_11620"
+            DMDID="DMD_wuppertal_elpub_11620">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_11620"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

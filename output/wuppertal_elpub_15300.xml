@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_15300">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Numerische Simulation der elektrischen Feldverteilung in Hochspannungs-Gleichstromkabelsystemen unter Berücksichtigung von nichtlinearen Effekten</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jörgens, Christoph</displayForm>
+                        <namePart type="family">Jörgens</namePart>
+                        <namePart type="given">Christoph</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-09-29</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Durch den Ausbau des Stromnetzes und die steigende Nutzung von erneuerbaren Energien rückt die Hochspannungs-Gleichstrom-Übertragung (HGÜ) immer mehr in den Fokus, da ein Transport von hohen Leistungen über große Distanzen nur mit dieser Technologie wirtschaftlich ist. Den verwendeten Isolationsmaterialien in den einzelnen HGÜ-Betriebsmitteln kommt dabei eine besondere Rolle zu, da die elektrische Leitfähigkeit eine nichtlineare Abhängigkeit von der Temperatur und der elektrischen Feldstärke zeigt. Aufgrund der konstanten Betriebsspannung kommt es daher zur Akkumulation von Raumladungen. Diese führen letztlich zu einem langsam zeit-veränderlichen elektrischen Feld, wobei die Ladungsansammlungen zu lokalen Feldüberhöhungen und einer Schädigung des Isolierstoffes führen können.
+ Die vorliegende Arbeit befasst sich mit der numerischen Simulation der elektrischen Feldverteilung in Hochspannungs-Gleichstromkabelsystemen unter Berücksichtigung von Raumladungseffekten. Neben einer mikroskopischen Betrachtung wird der Ladungstransport auch makroskopisch, mittels einer temperatur- und feldstärkeabhängigen Leitfähigkeit modelliert. Die erhaltenden Simulationsergebnisse werden gegen Messungen und analytische Approximationen verglichen. Mittels geeigneter Weiter-entwicklungen der Leitfähigkeitsmodelle wird die Differenz zwischen Simulation und Messung, im Vergleich zu gängigen Modellen, verringert. Neben einer physikalischen Betrachtung der Isolierstoffe ist ein weiterer Aspekt der Arbeit die Weiterentwicklung von numerischen Berechnungsverfahren. So werden zum einen unterschiedliche Berechnungsansätze, mit Blick auf die Genauigkeit und die Berechnungszeit, gegeneinander verglichen. Zudem werden gekoppelte elektro-thermische Simulationen von Kabeln, zusammen mit dessen Umgebung, präsentiert und Vereinfachungen der elektrischen Feldberechnung untersucht. Zuletzt wird der Spezialfall eines elektro-quasistatischen Feldes vorgestellt. Hervorgerufen durch die Bewegung der Wassermoleküle unter einem angelegten Gleichfeld, kommt es in der Nähe von Erdelektroden zum Effekt der Elektro-Osmose. Dabei kommt es nicht zu einer Akkumulation von Raumladungen, sondern die zeitliche Veränderung des Feldes entsteht durch die Abhängigkeit der Bodenleitfähigkeit von der Feuchtigkeit.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20210929-112452-6</identifier>
+                    <identifier type="doi">10.25926/d19d-5m35</identifier>
+                    <identifier type="sys">HT021149159</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_15300</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_15300">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2021/joergens/de2105.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_15300"
+            DMDID="DMD_wuppertal_elpub_15300">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_15300"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

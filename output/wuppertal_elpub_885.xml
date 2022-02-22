@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_885">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Ein </nonSort>
+                        <title>flugzeuggetragenes kryogenes Infrarotspektrometer zur Fernerkundung klimarelevanter Spurengase im Tropopausenbereich</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kullmann, Andreas</displayForm>
+                        <namePart type="family">Kullmann</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-03-13</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">A reliable prognosis of climate change in the earth’s atmosphere as well as the distinction of the relevant natural and anthropogenic influences is a prevailing scientific question and necessitates a detailed understanding of energetic, dynamic and chemical processes in the atmosphere, particularly in the tropopause region. The upper troposphere and lower stratosphere seems to proof highly sensitive to changes in atmospheric parameters such as temperature and trace gas distributions. Dynamic transport and exchange of chemical constituents between troposphere and stratosphere may cause significant changes in the atmosphere’s chemical and radiative budget. In spite of their great importance the involved processes are far from beeing well understood. To assess the major uncertainties concerning the distribution, chemistry and radiative forcing of water vapor, aerosols, ozone, the hydroxyl radical or the formation mechanisms of the various types of cirrus clouds, processes ranging from synoptical scale to microscale have to be investigated requiring different measurement techniques. 
+ While hitherto global satellite measurements are limited either by their horizontal or vertical resolution, local in-situ instruments are limited by their little spatial coverage. Therefore since 2003 the Research Center Jülich and the University of Wuppertal have cooperated in the development of a new limb sounding infrared instrument aboard the high altitude research aircraft M55-Geophysika aiming at measurements in the tropopause region, combining high vertical resolution with reasonable regional coverage. The first mission of the new CRISTA-NF (CRyogenic Infrared Spectrometers and Telescope for the Atmosphere - New Frontiers) instrument took place during the extensive European SCOUT-O3 (Stratosphere Climate Ozone links with emphasis on the UTLS) measurement campaign in Darwin, Australia, in November/December 2005. 
+ Here, an overview of the instrument’s measurement technique is given, followed by descriptions of the instrument calibration, the process of data analysis and retrieval. Using these methods a set of preliminary data from the SCOUT campaign is analyzed concerning the distribution of clouds as well as the mixing ratios of water vapor and the chlorofluorocarbon CFCl₃. Simulations by the Chemical Lagrangian Model of the Stratosphere (CLaMS) are used for comparisons with the observed situation concerning processes of transport and mixing.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20070137</identifier>
+                    <identifier type="sys">HT015023387</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_885</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_885">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2006/kullmann/dc0619.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_885"
+            DMDID="DMD_wuppertal_elpub_885">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_885"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

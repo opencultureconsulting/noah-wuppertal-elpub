@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_867">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kohärente Teilchenproduktion in Dreijetereignissen der e⁺e⁻ -Annihilation</title>
+                        <subTitle>Eine Untersuchung der Multiplizität in Quark-Gluon-Ensembles und eine präzise Bestimmung von CA/CF mit Daten des DELPHI-Experimentes</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Siebel, Martin</displayForm>
+                        <namePart type="family">Siebel</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004-05-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die kohärente Teilchenproduktion in hadronischen Z-Zerfällen mit drei Jets im Endzustand wird anhand von mit dem DELPHI-Experiment in den Jahren 1992-1995 aufgenommenen Daten untersucht.
+ Die unter großem Winkel zur Ereignisebene gemessene Multiplizität ist in guter Übereinstimmung mit einer Vorhersage in führender Ordnung. Es wird gezeigt, dass zur Beschreibung der Daten ein negativer Interferenzterm notwendig ist. Ein Skalieren der Impulsverteilungen der unter großem Winkel produzierten Teilchen wird für Impulse unter ca. 1GeV beobachtet, wodurch die lokale Parton-Hadron Dualitätshypothese (LPHD) bestätigt wird.
+ Es wird eine gute Beschreibung der in Dreijetereignissen gemessenen Gesamtmultiplizität durch eine MLLA-Vorhersage beobachtet. Eine Parameteranpassung der Vorhersage an die Daten ergibt das Farbfaktorverhältnis CA/CF = 2.261 ± 0.014(stat.) ± 0.036(syst.) ± 0.052(theor.) ± 0.041(clus.), welches die bislang präziseste Messung dieses Wertes darstellt.
+ Das Verhältnis der Gluon- zur Quarkmultiplizität zeigt durch nichtperturbative Effekte eine deutlich größere Diskrepanz zu theoretischen Berechnungen, als dies für das Verhältnis der entsprechenden Energieabhängigkeiten der Fall ist, wodurch die Energieabhängigkeit als eine dem Absolutwert der Multiplizität überlegene Observable identifiziert wird. Das Verhältnis der Energieabhängigkeit der Gluon- und Quarkmultiplizität wird zu r(1) = 1.795 ± 0.015 gemessen.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20040196</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_867</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_867">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-973/dc0301.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_867"
+            DMDID="DMD_wuppertal_elpub_867">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_867"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

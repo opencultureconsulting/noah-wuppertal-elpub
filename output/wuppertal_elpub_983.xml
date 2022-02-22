@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_983">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Receiver Design for a Directional Borehole Radar System</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Borchert, Olaf</displayForm>
+                        <namePart type="family">Borchert</namePart>
+                        <namePart type="given">Olaf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-08-12</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Der untertägige Abbau von Rohstoffen wird mit Hilfe von geologischen Vermessungen geplant und überwacht. Eine Methode sind Testbohrungen zur Materialanalyse. In diesem Zusammenhang bieten Bohrlochradarsysteme eine wesentliche Möglichkeit der Charakterisierung der Umgebung dieser Bohrungen. 
+Heutzutage sind hauptsächlich Bohrlochradarsysteme mit omnidirektionalen Empfangsantennen im Einsatz, die den Abstand von Reflektoren messen, jedoch keine Information über den azimutalen Winkel. Richtungssensitive Antennen hingegen ermöglichen die Messung der Entfernung und Richtung der reflektierten Echos. Die Antennenabmessungen sind durch den Bohrlochdurchmesser begrenzt, so dass die verwendeten Wellenlängen der Signale wesentlich größer sind als die radialen Abmessungen der Antenne. Dies resultiert in kleinen Empfangssignalpegeln und hoher Sensibilität für Antennenunsymmetrien. 
+Die geringe Antennenempfindlichkeit kann mit Hilfe einer adaptiven Empfangselektronik bestmöglich genutzt werden. Die Empfangselektronik muss für diese Funktionalität direkt im Antennenfußpunkt platziert werden. Die erforderliche Datenverbindung darf die Eigenschaften der Antenne nicht durch ungünstig angeordnete elektrisch leitende Materialien stören. Daher erfolgt die Übertragung der Messergebnisse optisch oder drahtlos. 
+Die Arbeit beinhaltet den Systementwurf eines derartigen Empfangssystems für ein richtungssensitives Bohrlochradar. Die Schwerpunkte liegen in der adaptiven Empfängerelektronik. Die direkten Digitalisierungmöglichkeiten im Antennenfußpunkt werden in Verbindung mit der Sendersynchronisation analysiert und eine spezifische Lösung wird realisiert. 
+Die Empfangssystemelektronik ist für minimales Rauschen in den Eingangskanälen konstruiert. Diese Eigenschaft hat Parameterungenauigkeiten zur Folge, die mit der Temperatur variieren. In diesem Zusammenhang wurde ein Kalibrierverfahren entwickelt. Das Verfahren ermöglicht die Synchronisation der Empfangskanäle und die Korrektur der Messdaten. 
+Das realisierte Empfangssystem wurde in mehreren Schritten unter den realen Bedingungen Untertage überprüft und die Eigenschaften anhand der Messergebnisse untersucht.</abstract>
+                    <abstract type="content" lang="eng">The underground mining operation for raw materials is planned and monitored by geological measurements. 
+One method is drill-core analysis, whereas borehole radar systems are primary tools to map the surrounding area of the borehole. 
+Nowadays mostly borehole radar systems with omni-directional receiving antennas are utilized. These systems can only measure the reflector distance, whereas directional antennas can estimate the azimuthal angle additionally. The antenna dimensions are limited by the borehole diameter. Therefore the signal wave length is much greater than the radial antenna dimension resulting in small received signal levels. 
+The low antenna sensitivity is best recorded with an adaptive receiver electronics. The electronics has to be located at the antenna-feed-point for best results. The needed communication link must not disturb the antenna properties by poorly arranged electrical conductive materials. 
+This work contains the system design of an adequate directional receiver system with focus of the adaptive electronics at the antenna feed-point. The receiver is designed for a minimum of noise which results in parameter inaccuracies. In this connection a calibration method was developed to synchronize the receiver channels and correct the measurement data. The implemented receiver was analyzed with measurement data recorded in underground mines.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20080382</identifier>
+                    <identifier type="sys">HT015637493</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_983</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_983">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2008/borchert/de0801.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_983"
+            DMDID="DMD_wuppertal_elpub_983">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_983"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

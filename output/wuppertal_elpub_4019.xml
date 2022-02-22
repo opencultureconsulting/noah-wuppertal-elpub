@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_4019">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Charakterisierung ausgewählter Proteine des Phagosoms von Tetrahymena thermophila auf proteinbiochemischer und molekularbiologischer Ebene</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Czora, Kathrin</displayForm>
+                        <namePart type="family">Czora</namePart>
+                        <namePart type="given">Kathrin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die vorliegende Arbeit befasst sich mit der Phagocytose des Einzellers Tetrahymena thermophila. 
+Bei den Protozoa stellt die Phagocytose die häufigste Art der Nahrungsaufnahme (Phagotrophie) dar. Hierbei handelt es sich um die Aufnahme fester Partikel in eukaryotische Zellen, wo diese in Form einer durch die Plasmamembran gebildeten Nahrungsvakuole, dem Phagosom, der intrazellulären Verdauung zugeführt werden. In speziellen phagocytischen Zellen hingegen spielt der Prozess der Phagocytose vor allem als Schutzmechanismus gegen körperfremde Zellen (Krankheitserreger) eine fundamentale Rolle. 
+
+Die Phagocytose wurde 1892 erstmalig von dem russischen Wissenschaftler Elie Metchnikoff beschrieben und seitdem intensiv studiert. Dennoch sind die detaillierten Mechanismen längst nicht vollständig verstanden. 
+
+Ziel der vorliegenden Arbeit ist es, Informationen bezüglich der Mechanismen des Phagocytoseprozesses auf molekularer Ebene zu erhalten. Dazu wurde der Ciliat Tetrahymena thermophila eingesetzt. Dieser ernährt sich durch Phagocytose, wobei Partikel wie organisches Material oder Bakterien mit einer hohen Effizienz und Geschwindigkeit eingestrudelt und durch Bildung von Phagosomen aufgenommen werden. Der Verdau des Phagosomeninhalts findet während einer Reihe von Umgestaltungsschritten statt, welche als Phagosomenreifung bezeichnet wird (Cyclose), in der das neu gebildete (naszente) Phagosom mit Vesikeln fusioniert, die eine Ansäuerung des Phagosoms bewirken und hydrolytische Enzyme zur Verfügung stellen. 
+
+Durch Isolierung von Phagosomen bestimmter Reifungsstadien aus T. thermophila und Analyse ihrer Proteinzusammensetzung konnte ein erster Überblick über potentiell an der Phagocytose beteiligte Proteine erhalten werden. In neu gebildeten (naszenten) Phagosomen konnten 764 Proteine und in 10 min alten (kondensierten) Phagosomen 347 Proteine nachgewiesen werden. Demnach kommt es beim Übergang von naszenten zu kondensierten Phagosomen zu einer Abnahme der Proteinanzahl. Eine Analyse der identifizierten Proteine macht deutlich, dass an der Zusammensetzung des Phagosoms von T. thermophila verschiedene Proteinklassen wie z.B. Proteine, die eine Rolle beim Transport von Vesikeln spielen, beteiligt sind. 
+
+Zu den identifizierten Proteinen gehören auch die Tpp (Tetrahymena phagosomal proteome) – Proteine Tpp2p, Tpp3p, Tpp5p und Tpp9p mit bisher unbekannter Funktion. Diese wurden hinsichtlich einer Beteiligung am Phagocytoseprozess näher untersucht. Die relative Quantifizierung des jeweiligen mRNA-Levels von phagocytierenden Zellen zu unterschiedlichen Zeitpunkten zeigte, dass die Tpp-Proteine neben ihrer Funktion in der Phagocytose noch eine oder mehrere weitere Funktionen in der Zelle besitzen müssen. 
+Die Analyse der stadienspezifischen Phagosomen sowie des mRNA-Levels der Zelle deutet darauf hin, dass Tpp5p vor allem an den ersten Schritten der Phagocytose (30 sek bis 10 min) beteiligt ist. Demnach ist es denkbar, dass das Protein an der Bildung und der Reifung des Phagosoms gleichermaßen beteiligt ist. Die Proteine Tpp3p und Tpp9p scheinen hingegen vorwiegend eine Rolle bei der Phagosomenreifung zu spielen. Beide Proteine kommen in naszenten Phagosomen nicht oder nur geringfügig vor. Quartärstrukturanalysen zeigen, dass Tpp9p drei Transmembranhelices besitzt. Dies deutet darauf hin, dass das Protein in die Phagosomenmembran eingelagert und für den Transport (z.B. Proteine, Ionen) oder die Signalübertragung durch die Membran zuständig bzw. an Membran-Fusionsprozessen beteiligt ist. 
+Für Tpp2p wurden die höchsten mRNA-Level nachgewiesen, so dass für dieses Protein im Vergleich zu den anderen Tpp-Proteinen eine stärkere Beteiligung an der Phagocytose angenommen werden kann. Zu welchen Zeitpunkten Tpp2p benötigt wird, kann anhand der erhaltenen Ergebnisse nicht festgestellt werden. Jedoch deutet die vorhergesagte Struktur des Proteins darauf hin, dass es sich hierbei um ein Transportprotein handelt. Der größte Teil des membrangebundenen Proteins befindet sich außerhalb des Phagosoms, so dass Tpp2p möglicherweise mit seinem cytoplasmatischen Bereich ein Substrat bindet und über die Membran in das Phagosomeninnere transportiert. Eine Funktion des Proteins könnte darin liegen, dass es an einem Vesikeltransport zwischen Phagosom und kontraktiler Vakuole beteiligt ist. 
+
+Zur Analyse weiterer Proteine, die zuvor in Phagosomen nachgewiesen wurden, sollte ein Silencing der entsprechenden Gene basierend auf dem Mechanismus der RNA-Interferenz durchgeführt werden. Untersucht wurden sechs weitere Proteine bzw. deren zugehörige Gene, die aufgrund ihrer mutmaßlichen Funktionen ausgewählt wurden: 
+Ein Snare-Protein ist an der Fusion von diskoidalen Vesikeln mit dem naszenten bzw. sich bildenden Phagosom beteiligt. Vps13 soll dafür zuständig sein, dass diskoidale Vesikel in ausreichender Menge vorhanden sind und dass diese mit dem naszenten Phagosom fusionieren. 
+Von den Proteinen Drp1 und Prf1 wird angenommen, dass sie an der Reifung des Phagosoms beteiligt sind. Drp1 könnte für die Fusion des Phagosoms mit Lysosomen von Bedeutung sein, und für Prf1 wird eine Rolle bei der Bewegung des Phagosoms vom Cytostom zum Cytoprokt angenommen. Für das Calmodulin-bindende Protein Cbp wird eine Funktion bei der Bildung von Nahrungsvakuolen diskutiert. Das Cathepsin Cth90 schließlich stellt ein hydrolytisches Enzym dar, welches zu den Komponenten des Phagolysosoms zählt. 
+Mit Hilfe des RNAi-Ansatzes sollten die Funktionen der sechs genannten Proteine überprüft werden, indem Auswirkungen des Silencings auf die Phagocytose analysiert wurden. Hierzu wurde zunächst einmal die RNAi-Methode im Labor etabliert. Anschließend wurden Konstrukte, die die Expression eines dsRNA-Hairpins durch Induktion mit Cadmium ermöglichen, erstellt und mit Hilfe einer Genkanone (gene gun) in T. thermophila-Zellen eingebracht. Nach Behandlung der Transformanten mit Cadmium konnte eine Abnahme des mRNA-Levels in einer quantitativen PCR nachgewiesen werden. Da diese Abnahme in gleichermaßen behandelten Kontroll-Zellen (Wildtyp CU427) nicht beobachtet wurde, konnte die abnehmende mRNA-Menge auf die Expression des Hairpins zurückgeführt und ein erzielter RNAi-Effekt demnach bestätigt werden. Das zur Expression des dsRNA-Hairpins erstellte Konstrukt konnte somit erfolgreich ein Silencing der gesuchten Gene hervorrufen. Auswirkungen der verminderten Genexpression auf den Phänotyp der Zelle, d.h. auf die Phagosomenbildung, konnten im Rahmen dieser Arbeit mikroskopisch nicht beobachtet werden. Die Phagocytose schien in Tetrahymena-Transformanten genauso stattzufinden wie in Wildtyp-Zellen. Hier sollten zukünftig Methoden etabliert werden, mit denen sich beispielsweise die Phagosomenzahl quantifizieren oder die Phagocytose zeitlich genauer verfolgen lässt. Denkbar wäre auch, dass die untersuchten Proteine/Gene nicht essentiell für eine funktionierende Phagocytose sind. Möglicherweise übernehmen andere Proteine die Aufgaben des Proteins, dessen Genexpression herunterreguliert wurde. Eventuell ist auch ein vollständiger Knockout nötig, um mikroskopisch sichtbare Auswirkungen auf den Phänotyp zu erzielen.</abstract>
+                    <classification authority="ddc">570</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Biologie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20140805-153201-9</identifier>
+                    <identifier type="sys">HT018352003</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_4019</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_4019">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/biologie/diss2014/czora/dc1414.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_4019"
+            DMDID="DMD_wuppertal_elpub_4019">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_4019"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

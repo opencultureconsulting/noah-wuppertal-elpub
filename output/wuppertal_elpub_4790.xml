@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_4790">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Three-dimensional ray-tracing simulations of convective gravity waves</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kalisch, Silvio</displayForm>
+                        <namePart type="family">Kalisch</namePart>
+                        <namePart type="given">Silvio</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Riese, Martin</displayForm>
+                        <namePart type="family">Riese</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Koppmann, Ralf</displayForm>
+                        <namePart type="family">Koppmann</namePart>
+                        <namePart type="given">Ralf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Aufgrund ihrer Bedeutung für großskalige Zirkulationen und das Energie- und Impulsbudget der mittleren Atmosphäre, sind Schwerewellen, unter Verwendung von in-situ- und Satellitenmessungen, bereits seit längerer Zeit Objekt intensiver Forschung. Diese Messungen zeigen unter anderem, dass die horizontale Wellenlänge einer typischen Schwerewelle auch im Bereich von nur einigen Kilometern liegen kann, weshalb sie von Atmosphärenmodellen (GCM)s nicht direkt aufgelöst werden können. Aus diesem Grunde werden ihre Ausbreitung und Interaktion mit dem atmosphärischen Hintergrund parameterisiert. Diese Schwerewellenparameterisierungen spielen für heutige GCMs eine so große Rolle, da sie nicht nur das Gesamtenergie- und Impulsbudget der mittleren Atmosphäre beeinflussen, sondern sich darüber hinaus direkt auf die Dynamik des Modells auswirken. Aus verschiedenen technischen Gründen wird die Ausbreitung von Schwerewellen dabei in den meisten Parameterisierungen auf eine rein vertikale Ausbreitung beschränkt. Im Vergleich zu einer korrekt modellierten dreidimensionalen Ausbreitung ergeben sich daraus signifikante Abweichungen in den Impulsfluss- und Schwerewellendragverteilungen. Diese Abweichungen wurden im Rahmen der vorliegenden Dissertation erstmals untersucht. So wurde für den Fall dreidimensionaler Ausbreitung von Schwerewellen eine stets polwärts gerichtete Meridionalbeschleunigung gefunden. Weiterhin lässt sich eine polwärts Verschiebung des Maximums der Zonalbeschleunigung in der Winterhemisphäre feststellen. Eine weitere Vereinfachung heutiger Schwerewellenparameterisierungen findet sich in der Annahme einer homogenen und isotropen nichtorographischen Startverteilung, welche nicht in der Lage ist spezifische Schwerewellenquellen aufzulösen. Im Besonderen betrifft dies dynamische Quellen wie Konvektion, deren zeitabhängige Anregungsprozesse nicht durch eine statische Startverteilung wider gegeben werden können. Daher beschäftigt sich der zweite Teil dieser Dissertation mit der Untersuchung dieses Anregungsprozesses in der Troposphäre und der sich daran anschließenden Ausbreitung der konvektiv angeregten Schwerewellen, sowie der Bestimmung ihres Einflusses auf die mittlere Atmosphäre. Zu diesem Zweck wurde das Schwerewellen ray-tracing Modell GROGRAT mit dem Yonsei Modell für konvektive Anregung von Schwerewellen gekoppelt. Verbleibende freie Parameter wurden hierbei entsprechend vorhandener Beobachtungen eingestellt. Diese technische Entwicklungsarbeit führte zu einem gekoppelten Modell, welches die Anregung von Schwerewellen durch einzelne Konvektionszellen bis hin zu großskaligen Konvektionsclustern beschreibt. Au\ss{}erdem wurden vorhandene Beschränkungen von Satelliteninstrumenten berücksichtigt, so dass ein direkter Vergleich der Simulationsergebnisse mit Messungen möglich wurde. Der sogenannte observational filter eines Satelliteninstruments schränkt hierbei die Beobachtung von Schwerewellen auf solche mit einer horizontalen Wellenlänge größer als ca. 100 km ein. Allerdings zeigen die Verteilungen von horizontalen Wellenlängen konvektiver Schwerewellen nicht zu vernachlässigende Beiträge im Bereich von Horizontalwellenlängen kürzer als 100 km. Der letzte Teil dieser Dissertation ist deshalb dieser Diskrepanz zwischen simuliertem und beobachtbarem Schwerewellenspektrum gewidmet. Der direkte Vergleich zwischen Simulation mit observational filter und Satellitenmessungen zeigt dabei eine bemerkenswerte Übereinstimmung in den Impulsflussverteilungen.</abstract>
+                    <abstract type="content" lang="eng">Due to their importance for large-scale circulations and their contribution to the energy and momentum budget of the middle atmosphere, gravity waves have been subject of investigation for many in-situ and satellite measurements. These observations show that the horizontal wavelength of a gravity wave can be as short as a few kilometers, hence, they cannot be directly resolved by General Circulation Models (GCM)s. For this reason, their propagation and interaction with the background atmosphere have to be parametrized. These gravity wave parametrizations play an important role in state-of-the-art GCMs as they contribute to the energy and momentum budget of the middle atmosphere and directly influence the model dynamics. For technical reasons, most gravity wave parametrizations restrict the propagation of gravity waves to the vertical direction. Consequently, modeled distributions of momentum flux and gravity wave drag show remarkable deviations from the three-dimensional propagation as shown in this thesis. The most obvious differences found in the three-dimensional case are the poleward directed meridional drag and the shift of the zonal drag maximum towards higher latitudes in the winter hemisphere. Another simplification of gravity wave parametrizations is the homogeneous and isotropic non-orographic launch distribution, which is unable to resolve single gravity wave sources. In particular, dynamic sources like convection remain unresolved and their time-dependent excitation process cannot be represented using a static launch distribution. Thus, the second aim of this thesis is to investigate the excitation and propagation of gravity waves forced by deep convection in the troposphere and estimate their influence on the middle atmosphere. For that purpose, the well-proven gravity wave ray-tracer GROGRAT has been coupled to the Yonsei convective gravity wave source model. Remaining free model parameters have been constrained to measurements and lead to a coupled convective gravity wave model representing convective excitations from small cells of deep convection up to large-scale convective clusters. Additionally, limitations of satellite instruments were taken into account to compare the simulation results from this thesis with global distributions of gravity wave momentum flux and drag. The observational filter of a satellite instrument restricts measurements of gravity waves to waves with horizontal wavelengths longer than 100 km. Convective gravity waves, however, show non-negligible contributions to the overall momentum flux spectrum also for wavelengths shorter than 100 km. Therefore, the last part of this thesis addresses this discrepancy between simulated and observable gravity wave spectrum. The direct comparison between simulations with observational filter and satellite observations shows a remarkable good agreement in the momentum flux distribution.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20150512-113322-1</identifier>
+                    <identifier type="sys">HT018644920</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_4790</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_4790">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2014/kalisch/dc1440.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_4790"
+            DMDID="DMD_wuppertal_elpub_4790">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_4790"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

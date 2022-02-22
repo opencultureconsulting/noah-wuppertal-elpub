@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9930">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Strukturierung von Silberdünnschichten mit optimierten optischen und mechanischen Eigenschaften</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Polywka, Andreas</displayForm>
+                        <namePart type="family">Polywka</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-11-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Dünnschichttechnologie ermöglicht es, eine Vielzahl von neuartigen Materialien für elektronische Dünnschichtbauelemente einzusetzen. Dadurch entstehen auch neue Anwendungsmöglichkeiten. Ein Beispiel sind dehnbare Bauelemente. Jedoch sind noch einige Herausforderungen zu überwinden bis dehnbare Bauelemente kommerziell erhältlich sind. Das hängt damit zusammen, dass die verwendeten Materialien in der Regel nicht dehnbar sind und schon bei geringen Ausdehnungen reißen. Die Zerstörung lässt sich aber durch eine geeignete Strukturierung der Dünnschichten (Mäander, Falten oder Risse) vermeiden. 
+Die Strukturierung von metallischen Dünnschichten beruht heute allerdings häufig auf der Fotolithografie. Diese wurde für Glas- und Siliziumsubstrate optimiert und lässt sich nicht ohne weiteres auf weiche Substrate anwenden, weil die notwendigen Lösungsmittel zu erheblichen Deformationen weicher Substrate führen und so die metallischen Dünnschichten zerstören. 
+Im Zuge dieser Anforderungen sind Methoden zur Strukturbildung von Silberdünnschichten auf weichen Substraten erforscht worden. Sie werden in der Arbeit unterteilt nach dem Zeitpunkt ihrer Durchführung relativ zur metallischen Dünnschichtabscheidung. Das Hauptaugenmerk liegt dabei auf der kostengünstigen Abscheidung von Silberdünnschichten aus der Flüssigphase. 
+Neben der Anregung von Plasmonen werden zur Strukturbildung auch Techniken genutzt, die der Selbstorganisation dienen. Dadurch können Nanostrukturen mit relativ geringem technischen Aufwand hergestellt werden. Abhängig von der gewählten Strukturierungsmethode lässt sich beispielsweise ein nahezu konstantes elektrisches Widerstandsverhalten unter mechanischer Ausdehnung oder eine optimierte Anregung von lokalisierten bzw. delokalisierten Plasmonen erreichen.</abstract>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20191114-122413-4</identifier>
+                    <identifier type="doi">10.25926/k61e-gw53</identifier>
+                    <identifier type="sys">HT020285390</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9930</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9930">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2019/polywka/de1905.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9930"
+            DMDID="DMD_wuppertal_elpub_9930">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9930"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

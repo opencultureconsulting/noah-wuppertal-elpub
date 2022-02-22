@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6770">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Solution Approach for a Coherent Probabilistic Assessment of Explosion and Fire Safety for Facilities at the Chemical Process Industries</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Leksin, Alexey</displayForm>
+                        <namePart type="family">Leksin</namePart>
+                        <namePart type="given">Alexey</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In the field of explosion and fire protection, the assessment of individual risks often bases on qualitative or indexing methods because a full-scale probabilistic approach is infeasible in many cases for chemical enterprises. This established procedure undermines efforts of quantitative risk assessment to assess frequencies of undesired events and their consequences as accurately as possible. 
+Though classical risk assessment techniques are still actively applied and are reasonable for an assessment of hazards and risks of separate technological processes, they are generally labor-consuming and do not always give an overall or semi-quantitative assessment estimate. With the foundation of the European Union a new concept for harmonizing the legal regulations was developed taking a standardized European internal market into consideration. This new concept called “new approach” only uses fundamental requirements as a set target. Therefore, such an approach has certain disadvantages one of them being the qualitative assessment and thus calls for considerable knowledge while carrying out the audits. 
+The dissertation at hand seeks to give an overview concerning the current situation available for semi-quantitative and indexing approaches and application programs which leads to the conclusion that there is no universal method of fire and especially explosion risk assessment which would be accepted as obligatory in the standard documentation regulating questions of explosion and fire protection. 
+The result of the dissertation consists of two developed solution approaches for a coherent probabilistic assessment of explosion and fire safety at the chemical process industries. 
+The first method is a combination of the semi-quantitative and indexing approaches and allows to carry out an assessment which is based on weighting procedures utilizable for risk rating and benchmarking for individual risk quantification. The main focus of this method is the development of an equation which calculates the risk considering hazards and protection measures. This allows a more exact calculation of all possible worst case and best case scenarios and parallel to the quantitative risk value, the common class of hazard. The consideration of the deviations while calculating is important because due to a probability of an error which comes from the conditional values, involved in the risk calculation. 
+The complexity of the dependencies and interrelations between the hazards and safety measures asks for an additional transfer of the extended semi-quantitative approach for individual risk assessment into a MS Excel prototype tool. A practical application of the developed method for the chemical industries serves as a further step in its development. The extended semi-quantitative approach evaluates the individual risk from the side of the acceptance. After preceding semi-quantitative approach for individual risk assessment it is advisable to follow the causes-effect chain, because the calculated probability value of the individual risk does not give a statement about the consequence of a possible worst case scenario(s). 
+The second developed quantitative method for consequence assessment gives the option to calculate the physical effects of hazardous substances based on an approach from the Russian ordinances. This is recommended after a comparison with one of in the European Union leading approaches which is based on the Dutch CPR-guidelines used in fields of labor safety, transport safety and fire safety. A developed MS Excel prototype tool, which is based on the Russian approach, is also applied for its future application. 
+The provided methods, semi-quantitative approach for individual risk assessment and quantitative approach for consequence assessment give the opportunity for a coherent probabilistic assessment of explosion and fire safety for facilities at the chemical process industries.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Maschinenbau und Sicherheitstechnik » Sicherheitstechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170320-120733-8</identifier>
+                    <identifier type="sys">HT019278071</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6770</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6770">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/sicherheitstechnik/diss2017/leksin/dd1701.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6770"
+            DMDID="DMD_wuppertal_elpub_6770">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6770"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

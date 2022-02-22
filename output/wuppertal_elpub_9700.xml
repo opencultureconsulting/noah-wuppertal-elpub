@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9700">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Theoretical Molecular Spectroscopy of the Methyl Radical</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Adam, Ahmad Y.</displayForm>
+                        <namePart type="family">Adam</namePart>
+                        <namePart type="given">Ahmad Y.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-08-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">We present the first variational calculation of a room temperature ab initio line list for the CH₃ radical. It is based on a high level ab initio potential energy, dipole moment surface, and polarizability surfaces of CH₃ in the ground electronic state. The rovibrational energy levels, Einstein A coefficients, and Raman scattering coefficients were calculated variationally using the methods implemented in the computer program TROVE. Vibrational energies and vibrational intensities are found to be in very good agreement with the available experimental data. We also successfully simulated the Raman spectrum of the ν₁ fundamental band of the methyl radical as well as the 2ν₂ band. The first variational calculation of the isotropic hyperfine coupling constant of the carbon-13 atom in CH₃ shows that the vibrational effects constitute about 44% of the constant&apos;s equilibrium value, originating mainly from the large amplitude out-of-plane bending motion and that the temperature effects play a minor role.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20190828-114148-2</identifier>
+                    <identifier type="doi">10.25926/agy6-nw67</identifier>
+                    <identifier type="sys">HT020231399</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9700</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9700">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2018/adam/dc1827.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9700"
+            DMDID="DMD_wuppertal_elpub_9700">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9700"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1925">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Prospects for ttbar resonance searches at ATLAS</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lenz, Tatjana</displayForm>
+                        <namePart type="family">Lenz</namePart>
+                        <namePart type="given">Tatjana</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">First searches for new heavy particles in top quark pairs events have been performed at the Tevatron collider of the Fermi National Accelerator Laboratory. So far no evidence for new particles was found. The higher centre-of-mass energy at the Large Hadron Collider (LHC) located at European Organization for Nuclear Research CERN allows to extend these searches for the first time into the TeV-regime. In this thesis a method has been developed, which is able to reconstruct top quarks in a broad range of transverse momenta, from top quarks at rest up to range of TeV. Based on the reconstructed invariant mass distribution, a statistical analysis has been performed to estimate the sensitivity of the ATLAS experiment to detect new heavy particles in the early stage of the experiment. Another aspect of this thesis is the implementation of a vertex reconstruction algorithm in the ATLAS software framework. The relatively long lifetime of B-hadrons, produced during the hadronisation of bottom quarks, is unique and allows to distinguish bottom jets from other jets. In this thesis a sophisticated secondary vertex reconstruction algorithm is presented, which exploits the structure of B-hadron decays inside the jets. Its application to a bottom jet identification algorithm will be discussed and compared to the algorithms available in the ATLAS software.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20110414-094521-3</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1925</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1925">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2010/lenz/dc1027.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1925"
+            DMDID="DMD_wuppertal_elpub_1925">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1925"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

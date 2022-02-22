@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1760">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Optimierung von Pufferschichtsystemen auf metallischen Substraten für YBa₂Cu₃O7- δ-Bandleiter</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>El Mechaouri, El Miloudi</displayForm>
+                        <namePart type="family">El Mechaouri</namePart>
+                        <namePart type="given">El Miloudi</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Up to now YBa₂Cu₃O7- δ (YBCO) from the REBCO (RE = rare earth) family is the best investigated high-temperature superconductor (HTS), and above all epitaxially grown films are of technological interest. But for good superconducting properties, as well textured, nearly monocrystalline substrate surface is needed. Here The RA-BiTS (rolling-assisted biaxially textured substrates) process coild make longsacale applications possible. Flexible substrates are from nickel alloys by rolling and subsequent heating in Vacuum. 
+An epitaxial growth of the HTS is possible after the deposition of suitable buffer layer, which serve as a chemical barrier between the ferromagnetic Nickel substrate and match the structural properties of the substrate tape and the YBCO layer. In order to deposit high quality YBCO films on textured Nickel substrates highly (100) textured and crack free buffer layers are needed. Only few materials such as CₑO₂ and Yttria-stabilised Zirconia (YSZ) are suited for the use as a buffer layer. In this thesis several deposition techniques such as rf sputtering, thermal reactive evaporation were optimized for the deposition of highly textured CₑO₂ - and YSZ-films on Highly cube textured Ni-W-RABiTS tapes. The buffer layers were characterised by means of a series of characterization techniques including XRD, SEM, AFM, EBSD optical microscopy and profilometry. The growth behaviour of buffer layer was studied in detail to ensure (100) oriented growth on the cube textured NiW substrate. 
+In order to investigate the in uence of buffer layers on the transfer of the biaxial texture to the upper layers, a new method has been devised for examining selected areas of surfaces using Diamond pyramid of Vickers micro-Hardness Tester, this was employed to create a set of markers so that the exact area can be refound in the subsequent SEM, AFM and EBSD Measerement. Wich providing information on the propagation of the grain morphology, texture, and grain boundary network from the substrate to the buffer layers in the same expected area. 
+The EBSD data were collected in the form of orientation map, misorientation map, pole figure, and misorientation distribution histogram. The histograms for the CₑO₂ sample reveal a maximum of misorientation of the grain boundaries at about 3,8° and for YZO at about 2,7°. The in-plane-alignment shows a nearly 45° rotation of CₑO₂ and YSZ with respect to the NiW-substrate. The misorientation of the cube out-of-plane texture exhibits maxima at angles of about 2,5° and 3,5°, respectively. 
+YBCO films were deposited by dc-sputtering and metalorganic chemical vapor deposition (MOCVD) on the buffer layers and the resulting superconducting properties were performed on the prepared samples at different temperatures and magnetic fields.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20110107-143920-7</identifier>
+                    <identifier type="sys">HT016666775</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1760</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1760">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2009/elmechaouri/dc0924.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1760"
+            DMDID="DMD_wuppertal_elpub_1760">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1760"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

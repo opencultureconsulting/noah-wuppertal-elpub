@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9870">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Modeling Filler Flocculation in Elastomers – an Approach Based on Surface Free Energies and Monte Carlo Simulation</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gundlach, Norman</displayForm>
+                        <namePart type="family">Gundlach</namePart>
+                        <namePart type="given">Norman</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-11-02</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Elastomer materials, such as tires, damping elements, and rubber soles of shoes require the addition of filler particles for reinforcement and durability as well as the enhancement of other properties of the final product. During the post-mixing stages the previously dispersed filler undergoes (re-)agglomeration in a process called flocculation. The resulting filler network morphology strongly influences the mechanical properties of the rubber material. This means that the structure itself, its dependence on the physicochemical properties of the underlying components, and its attendant influence on, for instance, the dynamic rubber moduli are of significant interest. In this work, a coarse-grained simulation approach for the investigation of filler structures within elastomers created due to flocculation is presented: the morphology generator. It utilizes a lattice model of the components, whose thermodynamic development is governed by (measured) surface and interface free energies. The flocculation process is mimicked via a nearest-neighbor site-exchange Metropolis Monte Carlo algorithm. It mini-mizes the free enthalpy and the number of Monte Carlo moves provides a rough measure of time due to the local nature of the moves. The elastomer materials investigated in this work consist of di˙erent rubbers plus filler of variable type. The focus is hereby on natural and styrene-butadiene rubber – either individually or as a blend – containing carbon black or silica of di˙erent grades. For the filler particles, the model allows to assign the property of surface treatment individually to each side of the particle. A specific example of surface treatment in the case of silica particles is silanization. The resulting morphologies are investigated with simulated transmission electron microscopy and small angle scattering. Quantities of interest include the size of the aggregates and their mass fractal dimension, the fractional interface lengths between the components, and the categorization of filler networks in mass, size, and, if feasible, their mass fractal dimension.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20191104-092844-4</identifier>
+                    <identifier type="doi">10.25926/pq5r-qx14</identifier>
+                    <identifier type="sys">HT021162926</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9870</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9870">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2019/gundlach/dc1928.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9870"
+            DMDID="DMD_wuppertal_elpub_9870">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9870"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

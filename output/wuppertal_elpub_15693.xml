@@ -1,0 +1,88 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_15693">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Silicon Integrated Terahertz Light-Field Imaging Systems</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jain, Ritesh</displayForm>
+                        <namePart type="family">Jain</namePart>
+                        <namePart type="given">Ritesh</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Pfeiffer, Ullrich R.</displayForm>
+                        <namePart type="family">Pfeiffer</namePart>
+                        <namePart type="given">Ullrich R.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Tibken, Bernd</displayForm>
+                        <namePart type="family">Tibken</namePart>
+                        <namePart type="given">Bernd</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Terahertz (THz) radiation has many unique properties. Most importantly, these electromagnetic waves can &quot;see-through&quot; the dielectric materials without risking any ionization damage. Also, battery operated and compact THz components can be designed using the silicon process technology. All of these characteristics are very appealing for diverse industrial imaging applications. 
+ However, the two-dimensional (2D) imaging does not provide enough information about an object specially in see-through imaging. Three-dimensional (3D) imaging is comparatively much better for such inspection and object identification. Unfortunately, the 3D THz imaging has required phase coherent systems so far. These are expensive, bulky, and power-consuming. Also, images can only be acquired with a slow, pixel-wise scanning. As of today, the practicality of coherent THz systems is very limited and there is no clear path to scaling up the image dynamic range or the pixel count. 
+ This dissertation offers a paradigm shift, by bringing the light-field imaging to the THz radiation. The light-field technique allows 3D imaging by monitoring the position and direction of incoherent light rays, without needing any phase information. This method is now widely used for computational visible-light imaging. We look back at the fundamental ideas and evaluate them for THz imaging. From the system perspective, the THz light-field imaging is very interesting as it needs silicon integrated and lens-coupled incoherent THz pixel arrays, which are highly scalable in terms of frequency and pixel count over the single-chip and the multi-chip configurations. In this work, the THz light-field imaging is experimentally verified with a scanning-based imaging setup. Also, a multi-chip scaling approach is proposed to build economical and practical light-field systems for real-time, single shot 3D THz imaging. A silicon-integrated THz source-array and a THz camera are also designed and characterized. These systems-on-a-chip (SoCs) offer the digital interface and programmability that is necessary for multi-chip scaling. The 8x8 pixel 0.42 THz source-array SoC shows a record THz radiation power and integration density compared to the state-of-the-art. It also provides an exceptional illumination reconfigurability with spatial patterns and chopping frequency division multiplexing. The 32x32 pixel broadband THz camera SoC, specifically designed for all-silicon THz imaging systems, is also a fully digital system with the most compact form factor and the lowest power consumption. Building upon this SoC, a multi-chip THz light-field camera is also designed and demonstrated. 
+ The light-field technique is a disruptive approach for THz imaging. The fundamental analysis, experiments, and hardware presented in this work now enable the fully-fledged, real-time THz light-field imaging systems. It is the first time that dedicated components have become available for silicon integrated THz light-field imaging, and they will serve as the crucial building blocks for the scientific community to conceptualize and test many new imaging setups and ideas.</abstract>
+                    <abstract type="content" lang="ger">Terahertz (THz) Strahlung hat viele einzigartige Eigenschaften. Am wichtigsten ist, dass diese elektromagnetischen Wellen dielektrische Materialien &quot;durchschauen&quot; können, und in biologischen Systemen keine Ionisationschäden verursachen. Außerdem können batteriebetriebene und kompakte THz-Komponenten in Silizium-Prozesstechnologie entwickelt werden. All diese Eigenschaften sind sehr attraktiv für diverse industrielle Bildgebungsanwendungen. 
+ Die zweidimensionale (2D) Bildgebung gibt jedoch nicht genügend Informationen über ein Objekt insbesondere bei der Durchsichtsbildgebung. Die dreidimensionale (3D) Bildgebung ist für diese Art der Inspektion und Objektidentifikation deutlich besser geeignet. Leider sind für die 3D-THz-Bildgebung bisher phasenkohärente Systeme erforderlich. Diese sind teuer, voluminös und verbrauchen viel Strom. Außerdem können Bilder nur mit langsamen Raster-Scans erfasst werden. Bis heute ist die Zweckmäßigkeit von kohärenten THz-Systemen sehr begrenzt und gibt keine klare Perspektive, den Bilddynamikbereich oder die Anzahl der Pixel zu erhöhen. 
+ Diese Dissertation bietet einen Paradigmenwechsel, indem sie erstmals die Lichtfeld-Bildgebung mit THz-Wellen addressiert. Die Lichtfeldtechnik ermöglicht eine 3D-Abbildung durch Analyse der Position und Richtung inkohärenter Lichtstrahlen, ohne dass eine Phaseninformation benötigt wird. Diese Methode wird heute weitläuftig für die Computerbildgebung mit visuellem Licht verwendet. Aus der Systemperspektive ist die THz-Lichtfeld-Bildgebung sehr interessant, da sie siliziumintegrierte und linsengekoppelte inkohärente THz-Pixelarrays benötigt, die in Bezug auf Frequenz und Pixelanzahl über Ein-Chip- und Multi-Chip-Konfigurationen hoch skalierbar sind. In dieser Dissertation blicken wir zunächst auf die grundlegenden Ideen der Lichtfeld-Bildgebung zurück und stellen die Besondereheiten für deren Anwendung im THz-Bereich heraus. Daraufhin wird die THz-Lichtfeld-Bildgebung experimentell mit einem Scanning-basierten Bildgebungsaufbau verifiziert. Außerdem wird ein Multi-Chip-Skalierungsansatz vorgeschlagen, um wirtschaftliche und praktische Lichtfeldsysteme für die 3D-THz-Bildgebung in Echtzeit und mit nur einer einzigen Aufnahme zu ermöglichen. Ein siliziumintegriertes THz-Quellen-Array und eine THz-Kamera werden ebenfalls entwickelt und charakterisiert. Diese Systems-on-a-Chip (SoCs) bieten die digitale Schnittstelle und Programmierbarkeit, die für die Multi-Chip-Skalierung erforderlich ist. Das 8x8 Pixel 0,42 THz Source-Array SoC weist im Vergleich zum Stand der Technik eine deutlich höhere THz-Stahlungsleistung und Integrationsdichte auf. Es bietet auch eine außergewöhnliche Beleuchtungs-Rekonfigurierbarkeit mit räumlichen Mustern und Chopping-Frequenzmultiplexing. Das breitbandinge 32x32 Pixel große THz-Kamera-SoC, das THz-Bildgebungssysteme entwickelt wurde die ausschließlich auf Siliziumkomponenten basieren, ist ebenfalls ein volldigitales System mit dem kompaktesten Formfaktor und dem geringsten Stromverbrauch. Aufbauend auf diesem SoC wird auch eine Multi-Chip-THz-Lichtfeldkamera entwickelt und demonstriert. 
+ Die Lichtfeldtechnik ist ein disruptiver Ansatz für die THz-Bildgebung. Die grundlegende Analyse, die Experimente und die Hardware, die in dieser Arbeit vorgestellt wurden, ermöglichen nun vollwertige THz-Lichtfeld-Bildgebungssysteme in Echtzeit. Es ist das erste Mal, dass dedizierte Komponenten für die siliziumintegrierte THz-Lichtfeld-Bildgebung erforscht werden. Sie werden als entscheidende Bausteine für die wissenschaftliche Gemeinschaft dienen, um viele neue Bildgebungsanwendungen und Ideen zu konzipieren und zu testen.</abstract>
+                    <subject>
+                        <topic>terahertz</topic>
+                        <topic>imaging</topic>
+                        <topic>light-field</topic>
+                        <topic>silicon</topic>
+                        <topic>camera</topic>
+                        <topic>source</topic>
+                        <topic>computational imaging</topic>
+                        <topic>compressed sensing</topic>
+                        <topic>submillimeter</topic>
+                    </subject>
+                    <classification authority="ddc">600</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20220124-094113-7</identifier>
+                    <identifier type="doi">10.25926/1ryp-kf30</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_15693</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_15693">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2021/jain/de2109.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_15693"
+            DMDID="DMD_wuppertal_elpub_15693">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_15693"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,66 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9090">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Planung von ländlichen Niederspannungsnetzen mit innovativen Lösungsoptionen</title>
+                    </titleInfo>
+                    <titleInfo lang="eng" type="translated">
+                        <title>Planning of rural low voltage networks considering innovative technologies</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Harnisch, Johannes Sebastian</displayForm>
+                        <namePart type="family">Harnisch</namePart>
+                        <namePart type="given">Johannes Sebastian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Zdrallek, Markus</displayForm>
+                        <namePart type="family">Zdrallek</namePart>
+                        <namePart type="given">Markus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-02-04</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Aufgrund des massiven Anschlusses dezentraler, regenerativ betriebener Energiewandlungsanlagen an ländliche Niederspannungsnetze lassen sich dort verstärkt Spannungsbandverletzungen und Betriebsmittelüberlastungen feststellen. Eine Vielzahl von Untersuchungen zeigt, dass mit den Maßnahmen grundsätzlich hohe Kosten verbunden sind, die sich durch den Einsatz innovativer Lösungsoptionen reduzieren lassen. Bislang fehlen jedoch ganzheitliche Planungsgrundsätze für die individuelle Planung ländlicher Niederspannungsnetze unter Berücksichtigung innovativer Lösungsoptionen, deren Entwicklung sich diese Arbeit widmet. Um eine direkte und eindeutige Anwendbarkeit der Planungsgrundsätze zu ermöglichen, wird aus den Planungsgrundsätzen ein Entscheidungsbaum abgeleitet, der den Aufwand für innovative Zielnetzplanungen realer Netze deutlich reduziert.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20190204-102953-4</identifier>
+                    <identifier type="sys">HT019959630</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9090</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9090">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2018/harnisch/de1810.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9090"
+            DMDID="DMD_wuppertal_elpub_9090">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9090"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

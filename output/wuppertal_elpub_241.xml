@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_241">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Algebraische Multilevel-Verfahren für ungeordnete physikalische Systeme</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Medeke, Björn Uwe</displayForm>
+                        <namePart type="family">Medeke</namePart>
+                        <namePart type="given">Björn Uwe</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-01-29</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Motiviert durch sehr große lineare Gleichungssyteme, welche typischerweise in der Quantenchromodynamik auftreten, werden in der vorliegenden Arbeit Schurkomplement-Präkonditionierer für drei ähnlich strukturierte ungeordnete Systeme konstruiert. Dabei repräsentieren die Koeffizientenmatrizen jeweils Nächste-Nachbar-Kopplungen auf regulären Gittern. Die resultierenden Schurkomplement-Präkonditionierer basieren auf einer a priori bekannten geometrischen F/C-Einteilung der Gitterpunkte, welche nach einer anfänglichen odd-even Reduktion des Systems auch rein algebraisch gerechtfertigt werden kann. Zur Präkonditionierung des auf den F-Gitterpunkten lebenden Systems werden insbesondere ILU-Präkonditionierer näher untersucht und obere Schranken für die Kondition des präkonditionierten Teilsystems angegeben. Die verwendete Schurkomplement-Approximation ermöglicht eine rekursive Vorgehensweise. Numerische Ergebnisse belegen die Effizienz der Schurkomplement-Präkonditionierer gegenüber der üblichen odd-even Präkonditionierung.</abstract>
+                    <abstract type="content" lang="eng">Motivated by large but sparse linear systems of equations typically arising in lattice quantum chromodynamics, in the present thesis Schur complement preconditioners for three similary structured, totally disordered systems are constructed. The matrices represent nearest neighbor couplings on regular lattices. The resulting Schur complement preconditioners are based on an a priori known and geometrically motivated F/C partitioning of the lattice sites which can be justified algebraically after an initial odd even reduction of the original system. To precondition the subsystem residing on the F-sites, ILU preconditioners are considered and bounds of the condition number of the preconditioned submatrix are specified. The proposed Schur complement approximation enables a recursive procedure on coarse lattices. As numerical experiments show the Schur complement preconditioner outperforms the standard odd-even preconditioner.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20010070</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_241</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_241">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-334/d070101.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_241"
+            DMDID="DMD_wuppertal_elpub_241">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_241"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

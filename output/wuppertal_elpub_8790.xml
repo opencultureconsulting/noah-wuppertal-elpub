@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_8790">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Input-to-state stability and stabilizability of infinite-dimensional linear systems</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Nabiullin, Robert</displayForm>
+                        <namePart type="family">Nabiullin</namePart>
+                        <namePart type="given">Robert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-09-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In this thesis we study the notion of input-to-state stability for linear systems on Banach spaces with a possibly unbounded control operator. This class of systems includes for instance boundary control problems, which are described by evolution partial differential equations. Our main interest lies in the connection between input-to-state stability and integral input-to-state stability for bounded inputs. We show that the latter is equivalent to input-to-state stability with respect to some Orlicz space. For the strong versions of those stability notions this equivalence in general does not hold. Assuming that the semigroup associated with the system is strongly stable, we show that the infinite-time admissibility with respect to an Orlicz space is a sufficient condition for a system to be strongly integral input-to-state stable. The converse fails in general. Furthermore, we investigate stabilizability of linear systems on Hilbert spaces by state feedback. We give sufficient conditions for strong and polynomial stabilizabilities of linear systems with an unbounded control operator. If the control operator is bounded and the input space is finite-dimensional, we are able to show that a system is strongly stabilizable if and only if it admits a decomposition into a strongly stable part and a finite-dimensional controllable part. We also give an analogous characterisation for polynomial stabilizability.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20180928-141823-8</identifier>
+                    <identifier type="sys">HT019836081</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_8790</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_8790">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2018/nabiullin/dc1814.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_8790"
+            DMDID="DMD_wuppertal_elpub_8790">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_8790"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

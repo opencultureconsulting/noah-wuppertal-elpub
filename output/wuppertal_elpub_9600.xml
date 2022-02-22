@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9600">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Study on a miniaturized satellite payload for atmospheric temperature measurements</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Liu, Jilin</displayForm>
+                        <namePart type="family">Liu</namePart>
+                        <namePart type="given">Jilin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-07-17</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The atmospheric temperature reflects the thermal balance of the atmosphere and is a valuable indicator of climate change. It has been widely recognized that the atmospheric gravity wave activity has a profound effect on the large-scale circulation, thermal and constituent structures in the mesosphere and lower thermosphere (MLT). Temperature distribution in this region is an essential component to identify and quantify gravity waves. Observation from remote sensing instruments on satellite platforms is an effective way to measure the temperature in the MLT region.
+ A miniaturized satellite payload is developed to measure the atmospheric temperature in the MLT region via observing the O₂A-band emission. Following a Boltzmann distribution, the relative intensities of the emission lines can be used to derive the temperature profile. Based on the spatial heterodyne spectroscopy, this instrument is capable of resolving individual emission lines in the O₂A-band for the spatial and spectral information simultaneously. The monolithic and compact feature of this spectrometer makes it suitable for operating on satellite platforms.
+ In this work, the characterization of the instrument is investigated for the purpose of simultaneously measuring multiple emission lines of the O₂A-band. The instrument is explored through a series of experimental methods, providing characteristics of the instrument and evaluation of its performance. In spatial and spectral domain, Level- 0 and Level-1 data processors are developed to convert the raw data to the calibrated spectral radiance for further temperature and gravity wave characterization.
+ Within this framework, the performance of the utilized detector is evaluated along with its radiation tolerance in space environment. In the processor, the detector artifacts are corrected based on the measurements in laboratory or in space. The radiometric response of the instrument is characterized on a pixel-by-pixel basis using a blackbody. An interferogram distortion correction algorithm is developed to correct for the spatial and phase distortion induced by the detector optics. Further, localized phase distortion correction is implemented to correct for the remaining phase error. Unwanted ghost emission lines are removed based on two dimensional Fourier transform. In the spectral domain, the processing steps mainly consist of wavelength calibration and instrument spectral response correction, including filter response correction and modulation efficiency correction.
+ As an in-orbit verification, the AtmoSHINE instrument was successfully deployed in space on 22th of December, 2018. In the first test phase, the functionality and the performance of the instrument in space were verified. The detector dark current measurement in orbit is consistent with the ground-based results. Based on the the calibration procedures and the developed data processing algorithms, the O₂A-band emission lines can be successfully resolved. A cross-verification of the AtmoSHINE limb radiance profile with other satellite payload measurements indicates that the radiometric performance of the instrument is within the expectation. The retrieved temperature parameters are studied with respect to different number of samples and different objective functions in the optimization. This work verifies the ability of the instrument to derive the atmospheric temperature in the MLT region and its potential application in gravity wave detections.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20190717-122302-5</identifier>
+                    <identifier type="doi">10.25926/hm6f-nf38</identifier>
+                    <identifier type="sys">HT020164216</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9600</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9600">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2019/liu/dc1914.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9600"
+            DMDID="DMD_wuppertal_elpub_9600">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9600"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

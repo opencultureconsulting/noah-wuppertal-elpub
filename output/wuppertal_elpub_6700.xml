@@ -1,0 +1,73 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6700">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>spanische Orgelkultur in ihrer Blütezeit vom 16. bis zum 18. Jahrhundert</title>
+                        <subTitle>Wechselwirkungen zwischen Orgelbau und Kompositionspraxis anhand der Repräsentanten Mateu Bosch und Antonio de Cabezón</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dopfer, Roland</displayForm>
+                        <namePart type="family">Dopfer</namePart>
+                        <namePart type="given">Roland</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Erlach, Thomas</displayForm>
+                        <namePart type="family">Erlach</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Dorfmüller, Joachim</displayForm>
+                        <namePart type="family">Dorfmüller</namePart>
+                        <namePart type="given">Joachim</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die spanische Orgelkultur vom 16. bis zum 18. Jahrhundert bildete eine Fülle an überlieferter Orgelmusik heraus. Die Wechselwirkungen zwischen Organisten und Orgelbauern ermöglichten eine Progression in der Entstehung eines umfangreichen Schaffens. So sind die Zeugnisse dieser Zeit in den Manuskripten der Komponisten und den erhaltenen historischen Instrumenten wiederzufinden. Besonderheiten der Orgeln in baulicher wie klanglicher Hinsicht spiegeln sich in den kompositorischen Erscheinungsformen. Die Umsetzung originärer Musik am historischen Instrument schafft Kommunikation zwischen Literatur, historischer Orgel und dem heutigen Interpreten. Die derzeitige Forschung widmet sich organologischen und musikalischen Gesichtspunkten der Epoche. Der Ansatz dieser Arbeit liegt in der Verknüpfung der Querverbindungen aus beiden Richtungen. Hinsichtlich der Clavieristen und Komponisten der Zeit verschafft die vorliegende Arbeit zunächst einen Überblick und vermittelt dann am Beispiel des Komponisten Antonio de Cabezón die musikalischen Einflüsse seiner Auslandsreisen und deutet deren kompositorische Konsequenzen. Die Analyse der Fortschreitung in der kompositorischen Praxis bis Juan Bautista José Cabanilles zeigt die inhaltliche wie auch formale Ausrichtung spanischer Orgelmusik. Das Verständnis der spanischen Orgelbautradition wird durch die Betrachtung der grundlegenden Ausformungen im Instrumentenbau geweitet. Die Beschreibung der technischen Orgelanlage und der klanglichen Ressourcen im Allgemeinen sind die Basis für das Verständnis der Orgellandschaft Mallorca im Speziellen. Anhand von Fallbeispielen richtet die Arbeit ihren Fokus auf die Ausrichtung der mallorquinischen Instrumente der Orgelbaudynastie Bosch. Augenfällig hierfür ist die Generation um Mateu Bosch, dessen Orgel in der Pfarrkirche Sant Pere in Sencelles in klanglicher wie auch technischer Hinsicht analysiert wird. Eine enge Verbindung zwischen Instrumentenbau und Musiker ermöglichte die Herausbildung einer unverwechselbaren Klangästhetik. Die Ausprägungen einer in spezieller Weise geschulten Hörerfahrung des Orgelklangs äußern sich in den formalen Strukturen der Kompositionen wie auch in den klanglichen und technischen Besonderheiten des Orgelbaus. Beide Zweige der Orgelkunst schöpften aus der Identität einer gemeinsamen Klangästhetik. Durch das Ineinandergreifen der Innovationen in gegenseitiger Ergänzung innerhalb eines beschreibbaren kulturellen Denkmusters wurden so Fortschreitungen möglich.</abstract>
+                    <classification authority="ddc">780</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » Musikpädagogik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170303-105232-7</identifier>
+                    <identifier type="sys">HT019272138</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6700</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6700">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fba/musik/diss2016/dopfer/da1602.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6700"
+            DMDID="DMD_wuppertal_elpub_6700">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6700"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

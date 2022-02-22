@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9380">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Synthese neuartiger Übergangsmetallkomplexe mit Naturstoffderivaten als Liganden</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kasper, Christine</displayForm>
+                        <namePart type="family">Kasper</namePart>
+                        <namePart type="given">Christine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-06-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Saccharide, oder auch Kohlenhydrate, und N-heterocyclische Carbene stellen jeder für sich eine faszinierende Verbindungsklasse mit vielseitiger Chemie und Anwendbarkeit dar. Besonders letztere bieten ein breit gefächertes Spektrum an Einsatzmöglichkeiten, dass es nicht verwundert, dass das Interesse an der Synthese ganzer Bibliotheken modifizierter N-Heterocyclen, speziell N-heterocyclischer Carbene stetig wächst. Ihre Koordination mit Metallkomplexen, die Ruthenium, Rhodium und Iridium beinhalten, ist dabei von besonderem Interesse im Hinblick auf ihre Verwendung als Zytostatika. 
+ Kohlenhydrate finden in der Naturstoffchemie bereits seit einigen Jahrzehnten Anwendung als Bausteine in der Synthese zur Nachbildung von in der Natur vorkommenden hochkomplexen Molekülstrukturen. Auf dieser Grundlage sollen die Produkte solcher Synthesen einerseits zum besseren Verständnis der biochemischen Prozesse beitragen, andererseits soll das dabei gewonnene Wissen dazu genutzt werden, potentiell wirksame Arzneistoffe zu entwickeln. Viele Naturstoffe, wie z.B. Aminosäuren und Proteine, beinhalten N-Heterocyclen und zuckerähnliche Grundgerüste bzw. bestehen aus Verbindungen beider. Diese finden sich auch im menschlichen Organismus wieder. Erste Versuche N-heterocyclische Carbene mit Kohlenhydraten und Metallkomplexen zu vereinen, um neuartige, potentiell zytotoxische Komplexverbindungen zu produzieren, wurden von T. Nishioka und seinen Mitarbeitern erfolgreich durchgeführt. Die dabei entstandenen Kohlenhydratcarbenmetallkomplexe stellen jedoch nicht die einzige Möglichkeit dar. Kohlenhydrate können an ihren funktionellen Gruppen auf verschiedenste Weise modifiziert und funktionalisiert werden. Die vorliegende Arbeit befasst sich mit der Synthese modifizierter Glucose-, Fructose- und Maltoseverbindungen, sowie deren weitere Funktionalisierung durch Reaktion mit Methylimidazol, um sie daraufhin mit unterschiedlichen Metallkomplexen zum entsprechenden Carben zu koordinieren. Zusätzlich wurden die Verbindungen im Hinblick auf ihre Reproduzierbarkeit bereits bekannter Synthesewege untersucht, Versuche zu deren Optimierung durchgeführt und einige neue Methoden für ihre Darstellung entwickelt. Hierdurch ist es gelungen neuartige, zuckerhaltige Carbenmetallkomplexe zu isolieren und spektroskopisch und kristallographisch zu charakterisieren. Darüber hinaus wurden weitere Verbindungsklassen, wie Zuckerphosphinite, Zuckersuccinimide und Zuckerhydroxylamine modifizierter Glucose- und Maltosederivate, Zuckerisocyanide/-amide, sowie einige Nucleosidderivate des Adenosins bezüglich der experimentellen Zugänglichkeit, Reproduzierbarkeit und Funktionalisierbarkeit untersucht.</abstract>
+                    <classification authority="ddc">546</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20190603-114805-7</identifier>
+                    <identifier type="sys">HT020153401</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9380</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9380">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2019/kasper/dc1907.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9380"
+            DMDID="DMD_wuppertal_elpub_9380">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9380"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

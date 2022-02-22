@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_777">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Impact of NMVOC Emissions from Traffic and Solvent Use on Urban Air in Wuppertal - An Experimental Study</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Niedojadlo, Anita</displayForm>
+                        <namePart type="family">Niedojadlo</namePart>
+                        <namePart type="given">Anita</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005-09-15</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In order to clarify the contribution of solvent use and road traffic to the total NMVOC emissions in Germany, the NMVOC composition of the city air of Wuppertal was investigated. During three campaigns NMVOC concentrations were measured at different locations in the city of Wuppertal. The measurements covered volatile hydrocarbons in the range of C₃-C10 and oxygenated compounds such as alcohols, ketones and esters.
+ An assessment of the contribution from different emission sources to the observed NMVOC concentrations was attempted with the Chemical Mass Balance (CMB) modelling technique. Two emission source categories were investigated, namely road traffic and solvent use. Emission profiles for traffic were obtained from measurements performed in a traffic tunnel, at a down-town street intersection and during drives through the city and on free-ways. Solvent emission profiles were investigated in the vicinity of different solvent factories and workshops in Wuppertal. Apportionment analysis was performed for several receptor points located down-wind from the city centre, in residential areas, in dense traffic areas and in industrial areas.
+ The outcomes of the CMB analysis with the application of source profiles and receptor concentrations obtained from the city measurements showed that traffic emission rather than solvent use determines the ambient NMVOC composition. The maximal contribution of solvent use to the NMVOC emission estimated on the basis of experimentally obtained results amounts to about 23% in the whole city area of Wuppertal. Accordingly, it can be concluded that the contribution of solvent use to the NMVOC concentrations in German cities falls in the range of a few to about 20%, provided that Wuppertal can be considered as a typical German urban area with certain proportions of domestic activities, traffic and various industries.
+ The present work clearly shows that the experimentally observed proportions between traffic and solvent use emissions are in strong disagreement with the German Emission Inventory which states, that at present (reference year 2000) about 62% of the total NMVOC emissions originate from solvent use and only 18% from road traffic.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20050364</identifier>
+                    <identifier type="sys">HT014521312</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_777</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_777">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2005/niedojadlo/dc0510.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_777"
+            DMDID="DMD_wuppertal_elpub_777">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_777"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

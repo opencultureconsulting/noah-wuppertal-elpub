@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5520">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Beitrag zur Weiterentwicklung der zuverlässigkeitstechnischen Sensitivitäts- und Ausfallanalyse mittels Monte-Carlo-Simulation</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Plinke, Fabian</displayForm>
+                        <namePart type="family">Plinke</namePart>
+                        <namePart type="given">Fabian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Bedingt durch immer höheren Grad an Komplexität und Vernetzung technischer Systeme steigen die Anforderungen an Zuverlässigkeits- und Sicherheitsanalysen. Die klassischen, analytischen Methoden der Zuverlässigkeitstheorie sind bei modernen System häufig nicht oder nur begrenzt anwendbar. 
+Zusätzlich zu den strukturellen Eigenschaften eines technischen Systems ist zudem die reale Nutzung und Belastung entsprechender Einheiten von großer Bedeutung. Für eine ganzheitliche und realitätsnahe Bewertung der Zuverlässigkeit ist somit auch dieser Einfluss von großer Bedeutung. 
+Ausgehend von drei Grundebenen der Zuverlässigkeits- und Sensitivitätsanalyse, der strukturellen, funktionalen und analytischen Ebene, wird in diese Arbeit die Nutzungs- und Belastungsanalyse als vierte Ebene aufgenommen. 
+Zur Verknüpfung dieser Ebenen wurde in dieser Arbeit durch einen Methodenvergleich eine Methodik ermittelt, mit der sich alle vier Ebenen valide ermitteln lassen. 
+Die Monte-Carlo-Simulation (MCS), als computergestützte Simulationsmethode, ist für alle Ebenen geeignet und in der Praxis umsetzbar. 
+Diese Arbeit beschreibt die Anwendung der MCS auf allen vier Ebenen und führt für die Nutzungs- und Belastungsanalyse entsprechende Formalismen zur direkten und indirekten Ermittlung der Einflüsse ein. 
+Aufgeteilt in die direkte und indirekte Belastungsanalyse wird weiterhin die allgemeingültige Anwendbarkeit der Formalismen ermittelt. Während bei der direkten Belastungsanalyse die Anwendung mittels gängiger Berechnungen aus dem Bereich der Zuverlässigkeitstheorie erfolgt, ist bei der indirekten Belastungsanalyse eine Transformation in unterschiedliche mathematische Bildbereiche erforderlich. 
+Abschließend bewertet die Arbeit die vorgestellten neuen Ansätze und das Integrationskonzept der Monte-Carlo-Simulation auf allen vier Ebenen der Zuverlässigkeits-, Sicherheits- und Belastungsanalyse.</abstract>
+                    <abstract type="content" lang="eng">Due to a rising degree of both, the complexity and the cross linking of technical systems, the related requirements regarding reliability and safety analysis have been increasing significantly. Thus, analytical state of the art methods of reliability engineering can often not or only partially be used to analyze modern systems. 
+In addition to the structural characteristics of a given technical system, its actual usage behaviour and load are of major interest, as the impact of those factors is crucial for a holistic and realistic evaluation of its reliability. Hence, based on the three typical levels of reliability and safety analysis, i.e. the structural, the functional and the analytical level, a fourth level focusing on usage and stress will be implemented in this dissertation. 
+To begin with, this work will compare several methods, and, based on this, derive a new method that can determine all four levels in a valid manner. 
+The Monte-Carlo-Simulation (MCS), as a computational simulation method, is suitable for all four analysis levels mentioned above and furthermore applicable in practice. 
+The applicability of the MCS on all four levels is described and necessary formalisms for the direct and indirect determination of potential influences are introduced implementing the usage and stress analysis suggested in this work. 
+Alongside the division into a direct and indirect stress analysis, the general applicability of the mathematical formalisms is illustrated. Whereas the direct stress analysis is based on general analytical methods of reliability engineering, a transformation into different mathematical ranges is essential regarding the indirect stress analysis. 
+Finally, the approaches introduced in this work and the integration concept using the MCS on all four levels regarding the reliability, safety and stress analysis are evaluated.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Maschinenbau und Sicherheitstechnik » Sicherheitstechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20160129-100235-2</identifier>
+                    <identifier type="sys">HT018875822</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5520</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5520">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/sicherheitstechnik/diss2015/plinke/dd1506.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5520"
+            DMDID="DMD_wuppertal_elpub_5520">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5520"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

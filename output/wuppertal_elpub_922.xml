@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_922">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zur Erhöhung der Durchstanztragfähigkeit von Flachdecken mit Stahlverbundsystemen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Piel, Wolfgang</displayForm>
+                        <namePart type="family">Piel</namePart>
+                        <namePart type="given">Wolfgang</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004-11-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Mit den Erkenntnissen der &quot;Stuttgarter Schubversuche&quot; wurde der Begriff der &quot;verminderten Schubdeckung&quot; eingeführt. Das klassische Fachwerk mit 45° geneigten Druckdiagonalen wurde additiv um flache geneigte Druckstreben erweitert, um die zahlreichen günstig wirkenden Nebenspannungen - beobachtet in Versuchen mit Ein- und Zweifeldträgern - numerisch vorstellbar berücksichtigen zu können. Das in dieser Arbeit daran angelehnte Vorgehen, den Durchstanzwiderstand durch Überlagerung eines radial ausgerichteten Netzfachwerks mit einem Strebensystem zu beurteilen, ist eine Form der genannten Erweiterung der Mörsch&apos;schen Fachwerkanalogie. Die Komponenten des Strebensystems werden auf der Basis einer dehnungsbegrenzten Betrachtung der überwiegend tangential orientierten Biegedruckspannungen bestimmt. Es wird gezeigt, dass diese Annahmen auf Stahlbetonplatten übertragen eine zuverlässige Beschreibung des Trag- und Verformungsverhaltens ermöglichen. Durch Kombination mit einem kraftschlüssig mit der Betonplatte verbundenen Stahlprofil lässt sich eine Sonderlösung für &quot;Durchstanzkreuze&quot; in Verbundbauweise entwickeln. 
+Es handelt sich dabei um eine im Auflagerbereich der Platte integrierte Schwertkonstruktion aus Stahl, mit der der kritische Rundschnitt für den Tragsicherheitsnachweis gegen Durchstanzen durch Ausnutzung einer planmäßigen Verbundwirkung deutlich vergrößert wird. Die Verbundwirkung wird durch eine Kombination von Kopfbolzendübeln und stahlbaumäßigen Verbundmitteln erreicht. Die resultierende Umlagerung der Querkraftbeanspruchung auf das Stahlprofil bewirkt eine deutliche Traglaststeigerung und gleichzeitig eine Erhöhung der Duktilität. 
+Aufbauend auf Versuchen und Versuchsnachrechnungen mit der Finiten Element Methode wird ein vereinfachtes Ingenieurmodell zur Beurteilung des Tragverhaltens für Durchstanzkreuze in Verbundbauweise entwickelt. Bei den Versuchsnachrechnungen wurde das Programm ANSYS eingesetzt. Das darin zur Verfügung stehende Betonmodell musste zunächst bezüglich der Stetigkeit des verwendeten Bruchkriteriums verändert und bezüglich des inneren Zerstörungsprozesses am Integrationspunkt erweitert werden. Im Rahmen dieser physikalischen Modifizierung der Elementeigenschaften wurde zusätzlich eine geeignete Konvergenzhilfe zur Steuerung physikalischer Veränderungen an den Integrationspunkten hinzugeschaltet. 
+Grundlage für das neue Ingenieurmodell bilden die von Kinnunen und Nylander sowie von Andrä entwickelten Modelle, die um die Traganteile des Steifenkreuzes unter Beachtung einer verträglichen Formänderung zwischen Stahlbetonplatte und Stahlkreuz erweitert werden. Für die Stahlbetonplatte wird an Stelle von empirischen Vorgaben aus Versuchsergebnissen die Lösung über eine tangentiale dehnungsbegrenzte Biegedruckzone angegeben. Das Ingenieurmodell erlaubt eine zuverlässige Vorhersage der Tragfähigkeit und ist zudem zur Beurteilung des Rotationsverhaltens geeignet.</abstract>
+                    <abstract type="content" lang="eng">Based on the results of the &quot;Stuttgart shear tests&quot; the idea of &quot;reduced shear covering&quot; has been introduced. Less inclined compression members have been added to standard lattice structure comprising 45° compression diagonals to allow numerical consideration of plenty of favourable acting secondary stresses, observed during tests with single and double span girders. The method of this paper to judge the punching shear failure resistance by combination of a radial aligned net lattice structure with a system of diagonal compression members is a kind of the mentioned extension of the lattice work analogy by Mörsch. The components of a system of diagonals radiating to the top of the concrete plate are evaluated by a limited tangential ductility of the mainly tangentially orientated bending compressive stresses. It will be demonstrated that these assumptions applied to reinforced concrete plates make it possible to describe reliable structural and deformation behaviour. By combination of a structural steel section connected with a horizontal end plate a special solution for a composite shear head construction can be developed. 
+This composite shear head consists of two crossed steel girders integrated in the support area of the concrete slab extending considerably the critical section for punching shear resistance. The composite action is obtained by a combination of headed studs and special structural steel plates. The resulting redistribution of the shear force from the concrete to the steel causes a significant increase for the ultimate limit load and the ductility and rotation capacity. 
+Based on test results and studies with the Finite Element Method a simplified design model to describe the structural behaviour for this new type of composite shear head system is developed. For the detailed Finite Element studies the program ANSYS was used. The available concrete model had to be changed to take into account the continuity of the three dimensional failure criterion for concrete and supplementary an inner damage process at the integration points of the 8-node solid element was installed. In the context of this physical modifications of the element qualities a suitable convergence algorithm was switched at the integration points to control all changes for the new defined material characteristics. 
+The presented design model based on two different models for flat concrete slabs without shear reinforcement published by Kinnunen and Nylander as well as by Andrä, is extended to take into account the redistribution of forces from concrete to the shear head system and considers the compatibility condition for the deformations between the concrete slab and the steel member. In order to avoid empirical assumptions the solution for the flat concrete slab is defined over limited strains in the concrete compression zone in tangential direction. The simplified model allows a reliable prediction for the design resistance and is also suitable for the determinations of the rotation behaviour.</abstract>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Architektur und Bauingenieurwesen » Bauingenieurwesen"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20040541</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_922</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_922">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1028/dd0409.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_922"
+            DMDID="DMD_wuppertal_elpub_922">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_922"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

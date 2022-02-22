@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_10191">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>A </nonSort>
+                        <title>Gravity Approach to Regional and Global Investment Dynamics: Theory and Empirical Findings</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Baier, Fabian</displayForm>
+                        <namePart type="family">Baier</namePart>
+                        <namePart type="given">Fabian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-03-04</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This underlying dissertation analyzes regional and global investment dynamics. Theory of foreign direct investment (FDI) is evaluated and gravity models are adapted in order to estimate investment flows between OECD countries and globally. The dissertation seeks to improve the state-of-art in empirical gravity analyses by showing deviations due to treatment of negatives and zeroes, and proves that country-fixed estimations with dyadic gravity control variables provided by CEPII yield similar results compared with country dyadic fixed estimations. Data suitable for gravity investment is evaluated (provided by UNCTAD, OECD and BIS). In three separate empirical analyses, the author applies several gravity FDI models to current political research questions. It is found that the UK will suffer extensive losses in FDI attractiveness if they do not manage to prevent a hard BREXIT and rather remain in the European Economic Area (EEA). Since the BREXIT vote, global investment pattern in the UK already changed; investments in the banking sector decreased, while investment in the industrial sectors increased. The latter can however be traced back to a pound devaluation and increasing brownfield investment, which proves the Froot and Stein (1991) effect. UK investment in the world did not change since the vote, indicating a home bias effect. The final chapter analyzes the role of tax and international institutions on FDI attractiveness: A lower corporate tax rate increases FDI inflow, while interaction with international financial institutions counters this effect. It is found that the tax effect is however smaller than proposed by previous authors, and is in fact vanishing over time. The interaction with international institutions however fosters the importance of economic growth and gains through trade.</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20200123-111912-6</identifier>
+                    <identifier type="doi">10.25926/dvxd-qn80</identifier>
+                    <identifier type="sys">HT020400051</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_10191</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_10191">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2019/baier/db1907.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_10191"
+            DMDID="DMD_wuppertal_elpub_10191">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_10191"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

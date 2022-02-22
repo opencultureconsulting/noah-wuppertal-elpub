@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3603">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Dynamik von Personenströmen in Sportstadien</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Burghardt, Sebastian</displayForm>
+                        <namePart type="family">Burghardt</namePart>
+                        <namePart type="given">Sebastian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The design and dimensioning of escape routes in grandstands influence significantly the whole evacuation process of a football stadium. To analyze pedestrian traffic on grandstands, experiments under laboratory conditions with up to 300 participants have been performed in the ESPRIT arena in Düsseldorf. Fieldstudies in the same stadium and the BORUSSIA-PARK in Mönchengladbach complement the experimental database. In the first part of the dissertation an extensive literature review of pedestrian dynamics on stairs is presented. Precise trajectories, extracted from own experiments, are used to derive the fundamental diagram. The spatial dependency of the basic quantities velocity, density and specific flow on stairs is analyzed. Various influences on the flow and density in the mouth – standing and seated terraces, different slope of the grandstand, positioning of security personnel – are quantified in the second part of the thesis. Based on this data and gained insights the last chapter deals with the validation of a computersimulation. It is clarified, which aspects have to be considered for the validation of a spatial-continuous model. The comparison of the simulation results with experimental data allows conclusions about the correct approximation of reality.</abstract>
+                    <abstract type="content" lang="ger">Die Auslegung und Dimensionierung von Rettungswegen im Tribünenbereich beeinflusst maßgeblich den gesamten Räumungsprozess eines Fußballstadions. Um den Fußgängerverkehr auf Tribünen gezielt untersuchen zu können, wurden Experimente unter Laborbedingungen mit bis zu 300 Personen in der ESPRIT arena in Düsseldorf durchgeführt. Ergänzend fanden Feldstudien in demselben Stadion und dem BORUSSIA-PARK in Mönchengladbach statt. Im ersten Teil der Dissertation wird eine umfassende Literaturrecherche zur Fußgängerdynamik auf Treppen präsentiert. Basierend auf präzisen Trajektorien aus den eigenen Experimenten erfolgt die Herleitung des Fundamentaldiagramms. Die räumliche Abhängigkeit der Basisgrößen Geschwindigkeit, Dichte und spezifischer Fluss auf einer Treppe wird analysiert. Verschiedene Auswirkungen auf den Personenfluss und die Dichte im Mundloch – Steh- oder Sitzplatzbereich, unterschiedliche Tribünenneigung, Positionierung von Sicherheitspersonal – werden im zweiten Teil der Arbeit quantifiziert. Aufbauend auf dieser Datenbasis und den gewonnenen Erkenntnissen erfolgt im letzten Teil der Dissertation die Validierung einer Computersimulation. Es wird verdeutlicht welche Aspekte bei der Validierung eines raumkontinuierlichen Modells zu berücksichtigen sind. Der Vergleich von Simulationsergebnissen mit experimentellen Daten liefert Rückschlüsse auf die Realitätsnähe der verwendeten Software.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Architektur und Bauingenieurwesen » Bauingenieurwesen"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20130701-142609-1</identifier>
+                    <identifier type="sys">HT017695002</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3603</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3603">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/bauingenieurwesen/diss2012/burghardt/dd1207.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3603"
+            DMDID="DMD_wuppertal_elpub_3603">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3603"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_312">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Multijet-Produktion in der e⁺e ⁻ - Annihilation von √s = 89 GeV bis 207 GeV - Messung der starken Kopplung α[s] aus der Vierjetrate</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Flagmeyer, Uwe</displayForm>
+                        <namePart type="family">Flagmeyer</namePart>
+                        <namePart type="given">Uwe</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-12-07</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Hadronic events from the data collected with the DELPHI detector at LEP within an energy range from 89 GeV to 207 GeV are selected and their jet rates are determined. The measurement of jet rates give no indication for an excess of multi jet events at high energies. The four jet rate is compared to next to leading order calculations. Studies on the influence of the renormalisation scale μ are performed confirming previous DELPHI results on optimised scales. Applying scale optimisation methods allows a precise measurement of the strong coupling αₛ from LEP1 data. The final result is obtained by the CAMBRIDGE algorithm: 
+ = 0:1175 ± 0:0010(exp:) ± 0:0017(hadr:) ± 0:0007(scale) . 
+The comparison of αₛ as measured at the Z and at higher energies gives access to the energy dependence (running) of the strong coupling. The logarithmic energy slope, again obtained from Cambridge, is measured to be 
+ = 1:14 ± 0:25(stat:) ± 0:25(sys:) , 
+while the QCD prediction for this quantity is 1.28.
+
+ The results in are in good agreement with previous, statistically uncorrelated measurements based on three jet final states.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20010657</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_312</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_312">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-406/d080104.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_312"
+            DMDID="DMD_wuppertal_elpub_312">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_312"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

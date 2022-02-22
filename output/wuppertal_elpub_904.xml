@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_904">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Measurements and searches with top quarks</title>
+                        <subTitle>Measurement of the top quark pair production cross section, the ratio of branching fractions and searches for new physics in the top quark sector with the DØ experiment</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Peters, Yvonne</displayForm>
+                        <namePart type="family">Peters</namePart>
+                        <namePart type="given">Yvonne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-12-18</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In dieser Dissertation wird die Produktion und der Zerfall von Topquarks untersucht. Insbesondere wird neben dem Topquarkpaarproduktions-Wirkungsquerschnitt s_ttbar das Verzweigungsverhältnis R=Br(t-&gt;Wb)/Br(t-&gt;Wq) mit q= d-,s- oder b-Quark gemessen, nach geladenen Higgs Bosonen im Zerfall t-&gt;H^+b und nach neutralen Higgs Bosonen im ttH Prozess gesucht. Die Analysen wurden grösstenteils im Lepton plus Jets, dileptonischen und Tau plus Lepton Kanal durchgeführt. Der gesamte analysierte Datensatz entspricht etwa einem inversen Femtobarn und wurde mit dem D0 Detektor am Tevatron Proton-Antiproton-Beschleuniger zwischen 2002 und 2006 aufgenommen. Die Anzahl von identifizierten b-Jets wurde für die simultane Messung von R und s_ttbar im Lepton plus Jets Kanal verwendet, wobei eine bessere Signifikanz durch die Ausnutzung topologischer Variablen erreicht werden konnte. Mit dem gemessenen Wert von R=0.968+0.092-0.083 konnten Werte des CKM Matrixelementes V_tb&gt;0.884 mit 95% Wahrscheinlichkeit ausgeschlossen werden. 
+Das unterschiedliche Verhalten von Topquarkpaar-Ereignissen in verschiedenen Kanälen bei Präsenz eines geladenen Higgs Bosones liefert die Sensitivität für die Suche nach geladenen Higgs Bosonen im Topquark Zerfall. Neben der kombinierten Messung von s_ttbar konnte die zur Zeit beste obere Schranke auf Br(t-&gt;H^+b) in verschiedenen Modellen gesetzt werden. Weiterhin wurde die erste simultane Messung von s_ttbar und Br(t-&gt;H^+b) durchgeführt.</abstract>
+                    <abstract type="content" lang="eng">In this thesis the production and decay of top quarks are considered. Besides measuring the top-antitop quark production cross section s_ttbar, the ratio of branching fractions R=Br(t-&gt;Wb)/Br(t-&gt;Wq) with q= d-,s- or b-quark is measured, a search for charged Higgs bosons in the decay t-&gt;H^+b and a search for neutral Higgs bosons in the ttH process are performed. The lepton plus jets, dilepton and tau plus lepton channels are considered in most analyses. The data set corresponds to one inverse femtobarn, recorded with the D0 detector at the Tevatron proton-antiproton collider between 2002 and 2006. 
+In the simultaneous measurement of R and s_ttbar in the lepton plus jets channel the number of identified b-jets is exploited. Additionally a better significance could be reached by using topological variables. The measured value of R=0.968+0.092-0.083 was used to set lower limits on the CKM matrix element of V_tb&gt;0.884 with 95% confidence. 
+The different behaviour of top quark pair events in different channels when a charged Higgs boson is present delivers the sensitivity for the search for charged Higgs bosons in the top quark decay. In addition to the combined measurement of s_ttbar the up to today best upper limits on Br(t-&gt;H^+b) could be set for various models. Furthermore, the first combined measurement of s_ttbar and Br(t-&gt;H^+b) is presented.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20080715</identifier>
+                    <identifier type="sys">HT015791585</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_904</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_904">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2008/peters/dc0823.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_904"
+            DMDID="DMD_wuppertal_elpub_904">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_904"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

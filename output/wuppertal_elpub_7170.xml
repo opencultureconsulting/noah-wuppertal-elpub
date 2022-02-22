@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_7170">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Projection and nested force-gradient methods for quantum field theories</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Shcherbakov, Dmitry</displayForm>
+                        <namePart type="family">Shcherbakov</namePart>
+                        <namePart type="given">Dmitry</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">For the Hybrid Monte Carlo algorithm (HMC), often used to study the fundamental quantum field theory of quarks and gluons, quantum chromodynamics (QCD), on the lattice, one is interested in efficient numerical time integration schemes which preserve geometric properties of the flow and are optimal in terms of computational costs per trajectory for a given acceptance rate. High order numerical methods allow the use of larger step sizes, but demand a larger computational effort per step; low order schemes do not require such large computational costs per step, but need more steps per trajectory. So there is a need to balance these opposing effects. 
+In this work we introduce novel geometric numerical time integrators, namely, projection and nested force-gradient methods in order to improve the efficiency of the HMC algorithm in application to the problems of quantum field theories.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170802-120731-0</identifier>
+                    <identifier type="sys">HT019426559</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_7170</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_7170">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2017/shcherbakov/dc1716.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_7170"
+            DMDID="DMD_wuppertal_elpub_7170">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_7170"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

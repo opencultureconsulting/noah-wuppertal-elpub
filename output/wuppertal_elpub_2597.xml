@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_2597">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Periodic Boundary Conditions and the Error-Controlled Fast Multipole Method</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kabadshow, Ivo</displayForm>
+                        <namePart type="family">Kabadshow</namePart>
+                        <namePart type="given">Ivo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Simulation von paarweisen Wechselwirkungen für sehr große Teilchen-Ensembles ist eine wesentliche Aufgabe in der wissenschaftlichen Forschung. Besonders die Berechnung von langreichweitigen Wechselwirkungen legt der Systemgröße Beschränkungen auf, da die Anzahl der zu berechnenden Wechselwirkungen quadratisch mit der Anzahl der Teilchen skaliert. Schnelle Summationsverfahren wie die Fast Multipole Method (FMM) können dazu beitragen die Komplexität auf O(N) zu reduzieren. Diese Arbeit erweitert den möglichen Anwendungsrahmen der FMM auf Systeme mit ein, zwei oder drei-dimensionaler Periodizität in einem einheitlichen Ansatz. Zusammen mit einer präzisen Fehlerkontrolle erlaubt der hier vorgestellte Ansatz, die Simulation von Teilchensystemen für verschiedenste Anwendungen durchzuführen, ohne die für die Simulation benötigten FMM Parameter kennen oder bestimmen zu müssen. Die implementierte Fehlerkontrolle ermittelt diese Parameter automatisch, um damit eine Näherung für die minimale Simulationsrechenzeit für eine vorgegebene Energie-Fehlerschranke zu erhalten.</abstract>
+                    <abstract type="content" lang="eng">The simulation of pairwise interactions in huge particle ensembles is a vital issue in scientific research. Especially the calculation of long-range interactions poses limitations to the system size, since these interactions scale quadratically with the number of particles. Fast summation techniques like the Fast Multipole Method (FMM) can help to reduce the complexity to O(N). This work extends the possible range of applications of the FMM to periodic systems in one, two and three dimensions with one unique approach. Together with a tight error control, this contribution enables the simulation of periodic particle systems for different applications without the need to know and tune the FMM specific parameters. The implemented error control scheme automatically optimizes the parameters to obtain an approximation for the minimal runtime for a given energy error bound.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20120228-144847-6</identifier>
+                    <identifier type="sys">HT017157320</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_2597</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_2597">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2010/kabadshow/dc1034.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_2597"
+            DMDID="DMD_wuppertal_elpub_2597">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_2597"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

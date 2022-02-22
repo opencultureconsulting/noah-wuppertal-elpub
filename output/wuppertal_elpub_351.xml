@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_351">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Determinantendarstellung von Übergangsmatrixelementen für das Spin-½ XXZ-Modell</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Biegel, Daniel</displayForm>
+                        <namePart type="family">Biegel</namePart>
+                        <namePart type="given">Daniel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003-11-10</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">The one-dimensional spin-½ Heisenberg model was solved, in principle, by H. Bethe in 1931 using an ad hoc trial wavefunction, now famously known as the Bethe ansatz. Decades went by before the power and scope of this method of exact analysis became widely known for applications to spectrum and thermodynamics of a select class of completely integrable model systems.
+ Until recently, the most vexing exception to immense progress in the further development of the Bethe ansatz has been the absence of a practical method to use the exactly known and readily available Bethe wave functions for the explicit calculation of transition matrix elements. The knowledge of such transition rates is of paramount importance for an understanding of dynamic correlation functions in relation to the underlying quasiparticles and for the interpretation of experimental probes of quantum fluctuations in quasi-one-dimensional magnetic compounds.
+ It was most remarkable, therefore, when Kitanine, Maillet, and Terras succeeded in reducing matrix elements between Bethe wave functions for local spin operators to determinantal expressions. Here these expressions are used to calculate dynamic spin structure factors of the Heisenberg antiferromagnet (XXX model) and the one-dimensional spin-½ XXZ model in the planar regime (|Δ| &lt; 1), both with periodic boundary conditions and an external magnetic field: 
+- Determinantal representations are derived for the zero-temperature spin fluctuations parallel and perpendicular to the external field. 
+ 
+- The singular nature of the Bethe ansatz equations for the case Δ = 0 (XX model) is discussed and the XX limit is performed in the determinantal expressions for the transition matrix elements. 
+ 
+- As an application, lineshapes for dynamic structure factors relevant for experiments are calculated. The predominant excitations are identified within the framework of quasiparticles excited from a corresponding vacuum.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20030469</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_351</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_351">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-445/d080304.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_351"
+            DMDID="DMD_wuppertal_elpub_351">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_351"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

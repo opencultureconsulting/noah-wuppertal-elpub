@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_4560">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchungen zur Filmbildung verschiedener Polymerdispersionen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Witt, Andreas</displayForm>
+                        <namePart type="family">Witt</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die theoretischen Modelle der Trocknungsmechanismen von wasserbasierten Lacken wurden auf industrierelevante Rezepturen übertragen und erweitert. Es konnten mittels Rasterkraftmikroskopie und konfokaler Raman-Mikroskopie Analytikmethoden etabliert werden, welche die Tensidverteilung aufzeigten und damit indirekt umfassende Aussagen zum abgelaufenen Trocknungsmechanismus lieferten. 
+ In Kombination mit einer eigens entwickelten Kryobruchtechnik wurde mit der hochaufgelösten Rasterkraftmikroskopie erstmals für verschiedene Tenside eine dreidimensionale Verteilung im Film herausgearbeitet. Zudem wurden dabei lokale Tensidanreicherungen (Tensidtaschen) im Filminneren nachgewiesen, deren Gestalt bisher nur postuliert werden konnte. Der Einfluss dieser Tensidnetzwerke lässt sich mit den anwendungstechnischen Eigenschaften verknüpfen.
+ Es konnte die bisher weit verbreitete Meinung entkräftet werden, dass die Tensidanreicherung an der Oberfläche ausschlaggebend für die Performance eines wasserbasierten Lackes ist. Vielmehr spielt der Trocknungsmechanismus eine entscheidende Rolle, so wie es auch die akademischen Modelle der letzten Jahre darlegen. Welcher Mechanismus ablaufen wird, hängt stark von dem Abstand der Mindestfilmbildungstemperatur zur Trocknungstemperatur ab. Da jedoch auf die Trocknungstemperatur bei der Anwendung des Produktes beim Endverbraucher kein Einfluss genommen werden kann, wurde dieser Tatsache im industriellen Rahmen bisher kaum Aufmerksamkeit geschenkt.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20150121-113123-8</identifier>
+                    <identifier type="sys">HT018519869</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_4560</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_4560">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2014/witt/dc1430.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_4560"
+            DMDID="DMD_wuppertal_elpub_4560">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_4560"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

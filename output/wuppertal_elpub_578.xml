@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_578">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Eine </nonSort>
+                        <title>von Landessprachen unabhängige Nutzoberfläche mit intelligenten CAD-Objekten des Bauwesens</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Chang, Yongyu</displayForm>
+                        <namePart type="family">Chang</namePart>
+                        <namePart type="given">Yongyu</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002-11-04</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die innovative Idee, eine von Landessprachen unabhängige, direkte und unverschachtelte Nutzoberfläche auf der Basis intelligenter CAD-Objekte zu entwickeln, macht Bausoftware weltweit nutzbar. Kern dieser Arbeit ist daher das typisch ingenieurwissenschaftliche Ziel, durch entsprechende Entwicklungs- und Forschungsanstrengungen das Werkzeug &quot;CAD-System&quot; mit integrierten intelligenten Leistungen so auszustatten, dass dadurch für alle späteren Anwender des CAD-Systems die Bedienung einfach und anschaulich wird. 
+In dieser Arbeit werden daher systematisch Elemente einer Nutzoberfläche gesucht und entwickelt, die kontextsensitiv ein direktes Arbeiten am Objekt erlauben, also ohne verschachtelte Menüfelder und ohne umfangreiche Symbolanhäufungen an den Bildrändern. Mit diesen Elementen werden neue Vorgehensweisen konzipiert, die unter Voraussetzung intelligenten Objektverhaltens effizientestes, eingabearmes Konstruieren ermöglichen. Was dabei &quot;intelligentes Objektverhalten&quot; ist, wird konkret an ein-, zwei- und dreidimensionalen Objekten diskutiert und an ausgewählten Beispielen programmtechnisch verwirklicht. Auf diese Weise wird die entwickelte Theorie einer von Landessprachen unabhängigen Nutzoberfläche mit intelligenten CAD-Objekten im Experiment ingenieurwissenschaftlich nachgewiesen. Besonders anspruchsvoll ist dabei die Randbedingung, diese Leistung in ein lebendes CAD-System der oberen Leistungsklasse durch Re-Engineering störungsfrei zu integrieren. In weiterführenden Arbeiten können dann, aufbauend auf dem Erfahrungsfundus dieser Arbeit, immer komplexere Aktionen mit bautypischer Intelligenz automatisiert werden, so dass sich die Bedienung vom CAD-System für den Anwender immer einfacher und effizienter gestaltet. 
+Das Ziel dieser Arbeit ist es, trotz Verzichtes auf sprachgebundene Texte, die unmittelbare Verständlichkeit der hier konzipierten Nutzoberfläche umfassend zu verwirklichen. Aber es liegt in der Natur der Sache, dass in Sonderfällen Unabhängigkeit von Sprache und Schrift unmöglich ist. Die Verwendung von Texten soll jedoch auf unabdingbare Fälle begrenzt bleiben und dabei so gestaltet werden, dass sie möglichst mit Hilfe landessprachlich angepasster Betriebssysteme verständlich werden.</abstract>
+                    <abstract type="content" lang="eng">The innovative idea of developing an easy-to-use interface based on intelligent CAD objects which does not rely on any specific native language of the user is furthering the global reach and application of unique civil engineering software. The essence of this undertaking is to modify the CAD-system to encompass integrated intelligent functions so as to ensure all potential users a simple and easy handling. Areas of the user interface are developed, enabling a context-sensitive working on the object of desire, eliminating the redundant menus and excess of symbols lining the edges of the screen. Thus via this intelligent object handling new approaches to existing problems can be derived, facilitating an efficient construction without excess interaction. What exactly &quot;intelligent object handling&quot; incorporates will be discussed and technically shown for chosen examples of one-, two- and three-dimensional objects. This way the developed theory of a language-independent user interface with intelligent CAD-objects is put into a practical context and thus scientifically proven, so to speak. Especially difficult is the boundary condition that this be integrated into an upper class &quot;living&quot; CAD-system via re-engineering, without any further disturbances. Using this work as a starting point, subsequent strategies may build upon the basics laid here to automatize more and more complex actions, rendering CAD-systems easier to use and more efficient. 
+The goal of this work is to enable a direct understanding of the user interface developed here despite the forsaking of language-based text. But, of course, there will always be exceptions where an independence of language and text is not possible. The use of text, however, should be restricted to a minimum of cases and be of the kind that they be understandable by adapting the operating system to the native language.</abstract>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Architektur und Bauingenieurwesen » Bauingenieurwesen"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20020402</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_578</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_578">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-674/d110204.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_578"
+            DMDID="DMD_wuppertal_elpub_578">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_578"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

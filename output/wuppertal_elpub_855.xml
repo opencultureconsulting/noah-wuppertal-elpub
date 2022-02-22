@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_855">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Noris Konstruktion und Bahnenabschlüsse in der Varietät der Algebren</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Olbricht, Roland</displayForm>
+                        <namePart type="family">Olbricht</namePart>
+                        <namePart type="given">Roland</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-09-08</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Der Modulraum der d-dimensionalen Moduln der freien assoziativen Algebra mit Eins in g Erzeugern ist singulär. Wir untersuchen einen Ansatz von Nori zur Desingularisierung. Dies führt zu der Frage, inwiefern die Bahnenabschlüsse in der Varietät der Algebren glatt sind. Mit speziell entwickelten Hilfsmitteln gelingt es uns, eine Singularität maximaler Größe im Bahnenabschluss der Matrixalgebra zu finden. Damit können wir zeigen, dass Noris Konstruktion eine teilweise, aber nicht vollständige Desingularisierung liefert. Im Fall d=2 handelt es sich um eine vollständige Desingularisierung; wir bestimmen die Fasern der Abbildung.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20080414</identifier>
+                    <identifier type="sys">HT015680767</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_855</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_855">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2008/olbricht/dc0814.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_855"
+            DMDID="DMD_wuppertal_elpub_855">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_855"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

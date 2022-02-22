@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3994">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entwicklung und Charakterisierung eines GC/MSSystems für zeitlich hochaufgelöste Flugzeugmessungen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>vom Scheidt, Markus</displayForm>
+                        <namePart type="family">vom Scheidt</namePart>
+                        <namePart type="given">Markus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Um Transportprozesse in der Atmosphäre genauer zu untersuchen, können Luftmassen mit beispielsweise perfluorierten Kohlenwasserstoffen (PFC) künstlich markiert werden. Für die Vermessung dieser Luftmassen ist ein Messsystem erforderlich, dass besonders hohe Ansprüche erfüllen muss. Ziel dieser Arbeit war die Entwicklung eines vollautomatischen GC/MS-Systems (Gaschromatograph/Massenspektrometer) zur in situ Messung von PFC. Die PFC sollen noch mehrere Tage nach Freisetzung detektiert werden können, weshalb eine Reproduzierbarkeit von 2 % bei einem Detektionslimit von wenigen ppq angestrebt wurde. Außerdem ist eine hohe zeitliche Auflösung erforderlich, da das Messsystem bei Flugzeugmissionen eingesetzt wird. Im Rahmen dieser Arbeit wurde das GC/MS-System entwickelt und charakterisiert. Es ist ein Modul des Messinstruments HAGAR-IV (High Altitude Gas AnalyzeR IV) und Teil des Instrumentenpaketes PERTRAS (PERflourocarbon TRAcer System).
+
+ Mit dem neuen HAGAR-IV-GC/MS sind zeitlich hochaufgelöste Messungen möglich. Mehrere perfluorierte Kohlenwasserstoffe mit unterschiedlichen Massen werden mit einer zeitlichen Auflösung von 35 s gemessen. Alternativ kann eine Auswahl von halogenierten Kohlenwasserstoffen mit einer zeitlichen Auflösung von von 50 s gemessen werden. Um diese hohe zeitliche Auflösung zu erzielen, ist eine optimale chromatographische Trennung erforderlich. Um diese zu erreichen, wird basierend auf theoretischen Überlegungen eine Methode vorgestellt, um die relevanten chromatographischen Parameter Trägergasgeschwindigkeit, Säulenlänge und Säulentemperatur für eine vorgegebene Retentionszeit zu optimieren. Die dabei abgeleitete retentionszeitoptimierte Trägergasgeschwindigkeit ist für dünn beschichtete Säulen um den Faktor 4√2 größer als die effizienzoptimierte Trägergasgeschwindigkeit. Die optimale Temperatur muss in diesem Fall so gewählt werden, dass der Retentionsfaktor 1,76 beträgt.
+
+ Die Probenübergabeprofile müssen für eine hohe zeitliche Auflösung möglichst schmal sein. Daher werden neu entwickelte Fokussierfallen mit einem Fassungsvolumen von maximal 90 μl vorgestellt. Die Heizrate beträgt bis zu 80 °C/s und liefert Probenübergabepeaks mit einer Breite von zwei Sekunden. Die Abkühldauer von 250 °C auf 50 °C beträgt 30 s.
+
+ Es wird mit zwei Messkanälen zeitlich versetzt gemessen. Während sich ein Kanal im Adsorptionsmodus befindet, ist der andere im Desorptionsmodus. Durch abwechselnde Adsorption ist eine kontinuierliche Probensammlung möglich. Die zeitliche Auflösung wird damit gegenüber der Zykluszeit eines Kanals verdoppelt. Die minimale Zykluszeit eines Kanals ist durch die Dauer der Adsorption, der Probenübergabe und des Abkühlvorgangs auf 70 s begrenzt.
+
+ Das Messsystem wurde für zwei ausgewählte PFC (Perfluoromethylcyclopentan kurz PMCP und Perfluoromethylcyclohexan kurz PMCH) charakterisiert. Es wurde gezeigt, dass das Messsystem im Bereich von ca. 1 ppq bis 10 ppb bei einem Probenvolumen von 440 ml ein lineares Signal als Funktion des Mischungsverhältnisses liefert. Das Detektionslimit liegt für diese beiden PFC unterhalb von 1 ppq und die Reproduzierbarkeit der Messungen liegt bei atmosphärischen Hintergrundmischungsverhältnissen bei 1,6 % für PMCP bzw. bei 3,4 % für PMCH. Bei einem erhöhten Mischungsverhältnis (11 ppt) betragen die Reproduzierbarkeiten 0,5 % (PMCP) bzw. 0,6 % (PMCH).
+
+ Werden Proben mit großen PFC-Mischungsverhältnissen gemessen, entstehen im Messsystem Memory-Effekte, die auf nachfolgende Messungen mit geringeren Mischungsverhältnissen negative Auswirkungen haben. Es wird gezeigt, dass innerhalb von sechs Messungen die Kontamination des Systems um einen Faktor 10000 reduziert ist. Für eine schnellere Reduktion sind Umbauarbeiten am Messsystem durchzuführen, so dass unter anderem die verwendeten Ventile geheizt werden können.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20140709-113129-8</identifier>
+                    <identifier type="sys">HT018339246</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3994</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3994">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2013/vscheidt/dc1331.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3994"
+            DMDID="DMD_wuppertal_elpub_3994">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3994"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

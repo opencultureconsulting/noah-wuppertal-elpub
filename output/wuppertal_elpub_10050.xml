@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_10050">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entwicklung einer schnellen analytischen Methode zur Quantifizierung von per- und polyfluorierten Tensiden</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schlenger, Patrick</displayForm>
+                        <namePart type="family">Schlenger</namePart>
+                        <namePart type="given">Patrick</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kling, Hans Willi</displayForm>
+                        <namePart type="family">Kling</namePart>
+                        <namePart type="given">Hans Willi</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-10</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Analyse von per- und polyfluorierter Verbindungen ist aufgrund der niedrigen Konzentration und der komplexen Matrix eine Herausforderung. Ziel dieser Arbeit war es eine einfache und robuste Methode zu entwickeln, um diese Verbindungen zu quantifizieren.
+ Sorptionsexperimente mit Polyamid zeigten, dass eine quantitative Adsorption von zehn verschiedenen per- und polyfluorierten Tensiden auf der Polymeroberfläche stattfindet. Die Adsorption findet nur unter schwach sauren Bedingungen statt. Die Elution kann durch basische Lösungen wieder eingeleitet werden. Bei der Zugabe verschiedener Matrices konnte gezeigt werden, dass bei steigender Konzentration die Wiederfindungsrate immer weiter abnimmt. Im Vergleich mit konventionellen schwachen Anionenaustauschern ist die Kapazität geringer. Als Schlussfolgerung aus diesen Versuchen konnte gezogen werden, dass die Verwendung von Polyamiden während der Probenvorbereitung (z. B. in Filtermaterialien) vermieden werden sollte.
+ Bei Versuchen mit PTFE als Adsorbermaterial konnte gezeigt werden, dass eine einfache Passage einer PFT-Lösung wie bei einer SPE nur zu sehr geringer Adsorption der langkettigen PFT geführt hat. Diese konnte verbessert werden, indem PTFE-Pulver in HPLC-Säulen gefüllt wurde, wobei alle per- und polyfluorierten Verbindungen auf dem Material zurückgehalten wurden. Jedoch wurde keine Selektivität für diese Stoffklasse erhalten, da auch andere ionische Tenside Wechselwirkungen zeigten.
+ Zur Quantifizierung der PFT wurde die Tensidbestimmung nach Epton weiterentwickelt. Es wurde ein Fluoreszenzfarbstoff verwendet, durch den sich die Nachweisgrenze weiter senken ließ. Um die Störung durch nichtfluorierte anionische Tenside zu eliminieren, wurden mehrere Abbaureaktionen untersucht. Hierbei hat sich die oxidative Fentonreaktion als geeignet erwiesen, da viele organische Komponenten schnell abgebaut wurden und die PFT unter diesen Bedingungen stabil waren. Die Anforderungen an diese Methode sind sehr gering, sodass sie in ein einfach ausgestattetes Labor übertragen werden kann, da weder spezielle Chemikalien noch teure instrumentelle Analytik benötigt werden.</abstract>
+                    <abstract type="content" lang="eng">The analysis of per- and polyfluorinated compounds is challenging even today due to the low concentrations and the complex matrix. In this work it was an attempt to find a method to quantify these surfactants in a simple and robust way. 
+ Sorption experiments with polyamide showed, that a quantitative adsorption of 10 different per- and polyfluorinated surfactants took place on the polymer surface. The adsorption occurs at weakly acidic conditions. The elution can be initiated by using basic solutions. Experiments by the addition of matrix compounds showed, that the recovery rate declines when the matrix concentration is increased. In comparison with conventional weak anion exchanging material the capacity is lower. The main conclusion could be, that during an experiment the usage of polyamide e.g. in filter materials should be avoided. Experiments with PTFE as an adsorbing material showed, that a simple passage of a PFC-solution leads just to weak adsorption of long-chain surfactants.
+ When PTFE-powder is filled in HPLC-columns as a stationary phase, a strong increase of sorption could be observed for many perfluorinated compounds. Against expectation, the material was not selective for per- and polyfluorinated compounds. In addition, cationic and non-ionic surfactants also showed strong adsorption, so that a pre-step was necessary to distinguish between fluorinated and nonfluorinated compounds. 
+ To quantify PFC, the Epton titration method was improved. By the replacement with a fluorescent dye, lower detection limits were observed. To eliminate the interruption by non-fluorinated surfactants several decomposition processes were examined. The oxidative fenton-mechanism was suitable to eliminate the non-fluorinated surfactants while PFC stayed unaffected. Comparative measurements with a spectrophotometer showed, that the detection limits were in the same range as the results obtained from the fluorescence experiments. In conclusion this method could be easily transferred to a low-level laboratory, because there are just a few requirements for chemicals and instruments.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20191210-105639-5</identifier>
+                    <identifier type="doi">10.25926/xeba-vn25</identifier>
+                    <identifier type="sys">HT020459296</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_10050</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_10050">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2019/schlenger/dc1939.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_10050"
+            DMDID="DMD_wuppertal_elpub_10050">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_10050"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

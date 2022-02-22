@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_979">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Integration der Regelenergie in die Betriebsoptimierung von Erzeugungssystemen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wulff, Thilo</displayForm>
+                        <namePart type="family">Wulff</namePart>
+                        <namePart type="given">Thilo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-04-26</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Liberalisierung der elektrischen Energieversorgung hat in den letzten Jahren zu gravierenden Umwälzungen in der Energiewirtschaft geführt. Zum einen ist ein Markt für elektrische Fahrplanenergie entstanden, zum anderen hat sich ein Markt für Regelenergie in Folge der Entflechtung (Unbundling) von Erzeugung und Netzbetrieb etabliert, an dem die Übertragungsnetzbetreiber die durch sie zu beschaffende Regelenergie ausschreiben. 
+Damit bietet sich für die Betreiber von Erzeugungssystemen zusätzlich zur Teilnahme am Markt für Fahrplanenergie die Möglichkeit, durch die Abgabe von Geboten für die Bereitstellung und Lieferung von Regelenergie Anlagen und Bezugsverträge noch effektiver zur Maximierung des Deckungsbeitrags einzusetzen. Die daraus resultierende Optimierungsaufgabe ist vor allem für Erzeugungssysteme mit Kraft-Wärme-Kopplung auf Grund der vielfältigen Restriktionen sehr komplex wobei die technischen und wirtschaftlichen Auswirkungen der Bereitstellung und Lieferung von Regelenergie dabei eine zusätzliche Herausforderung für die Modellbildung darstellen. 
+Das in dieser Arbeit entwickelte Verfahren ermöglicht eine geschlossene Betriebsoptimierung auf Basis der Gemischt-Ganzzahlig-Linearen-Programmierung (GGLP) für den Betreiber von Erzeugungssystemen mit Kraft-Wärme-Kopplung unter gleichzeitiger Berücksichtigung von Fahrplan- und Regelenergiemarkt. Die Betriebsoptimierung wird dazu wegen der in sehr kurzfristigen Zeiträumen stattfindenden Abrufe von Regelenergie und unter Annahme zukünftig kürzer werdender Ausschreibungszeiträume primär auf den Zeithorizont &quot;heute für morgen&quot; ausgerichtet.</abstract>
+                    <abstract type="content" lang="eng">The liberalization of the market for electrical energy supply has lead to a significant reshuffling of energy markets over the course of the last years. On the one hand a market for scheduled energy has been developed, on the other hand a market for control energy had to be established in order to deal with the unbundling of energy generation and grid operation, providing operators with the necessary platform for control energy tendering. 
+The implementation of these markets has opened up new opportunities for generation system operators to maximise their contribution margin by improving the operative efficiency of their facilities by bidding for allocation and delivery of control energy. Especially for combined heat and power generation systems the resulting optimization problem is very complex and therefore has been a challenge for mathematical modelling, due to the various technical and economic restrictions to be taken into consideration. 
+The author introduces a procedure to allow a closed optimization in the operation of generation systems based on mixed-integer-linear-programming (MILP) for combined heat and power generation systems by simultaneously regarding markets for scheduled energy and control energy. As the market for control energy allocation is short term based and in the assumption that the average duration of control energy contracts will be declining further in the future, the optimization is mainly targeted on short term, day–to–day planning.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20070545</identifier>
+                    <identifier type="sys">HT015080474</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_979</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_979">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2006/wulff/de0605.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_979"
+            DMDID="DMD_wuppertal_elpub_979">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_979"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

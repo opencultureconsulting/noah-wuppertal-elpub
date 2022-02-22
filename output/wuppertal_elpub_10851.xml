@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_10851">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Construction and Security Analysis of 0-RTT Protocols</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gellert, Kai</displayForm>
+                        <namePart type="family">Gellert</namePart>
+                        <namePart type="given">Kai</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-08-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">If two parties want to communicate over an insecure channel, they typically execute an interactive cryptographic handshake to establish a shared secret, before any application data is sent. In contrast, zero round-trip time (0-RTT) protocols allow a sender to immediately send encrypted application data (0-RTT data) to a receiver without executing an interactive handshake. One of the major challenges when designing 0-RTT protocols is to guarantee forward security for the 0-RTT data. Forward security ensures that compromise of a communicating party does not impact security of past communications. However, the lack of interactivity in 0-RTT protocols renders it difficult to achieve forward security for the 0-RTT data. Only recently, novel techniques to overcome this challenge have been discovered. This thesis investigates design approaches to 0-RTT protocols and proposes new constructions of 0-RTT protocols with forward security for all sent data.
+ This thesis starts with a discussion on the concept of forward security in noninteractive settings. Traditionally, forward security can be achieved if communication partners interactively agree on fresh secrets. However, this view limits the understanding of what forward security should mean in a non-interactive setting. Hence, we propose new terminology for a unified treatment of forward security, capturing both interactive and non-interactive communication settings.
+ The remainder of this thesis can be split into two parts. The first part focuses on the design of 0-RTT key exchange protocols. We investigate how to build 0-RTT key exchange protocols from Bloom filter key encapsulation mechanisms, and describe the first mechanism with constant-size ciphertexts. We then use this scheme to construct the first multi-hop 0-RTT protocol for efficient connection establishment in the context of anonymous communications.
+ The second part of this thesis focuses in 0-RTT session resumption protocols. Session resumption protocols require an already established secret shared between sender and recipient. This secret can then be used to re-establish a secure connection. Despite prior belief, we present the first 0-RTT session resumption protocol that indeed achieves forward security for all messages. In contrast to existing 0-RTT key exchange protocols, our 0-RTT session resumption protocol is highly efficient as it only relies on symmetric primitives. We show that our protocol can be incorporated into the recently standardized TLS 1.3 handshake without modifications to client-side implementations. This means that our protocol is immediately deployable by content providers without requiring changes to the standard.</abstract>
+                    <classification authority="ddc">000</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20200820-115834-7</identifier>
+                    <identifier type="doi">10.25926/eg6a-6059</identifier>
+                    <identifier type="sys">HT020588466</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_10851</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_10851">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/informatik/diss2020/gellert/de2005.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_10851"
+            DMDID="DMD_wuppertal_elpub_10851">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_10851"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

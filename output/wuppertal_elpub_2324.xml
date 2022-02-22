@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_2324">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Ein </nonSort>
+                        <title>Beitrag zur Bemessung von Stahlbetonstützen im Brandfall</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gelien, Marion</displayForm>
+                        <namePart type="family">Gelien</namePart>
+                        <namePart type="given">Marion</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die vorliegende Arbeit befasst sich mit der Bemessung von Stahlbetonstützen im Brandfall. 
+Es werden zunächst die verschiedenen veröffentlichten Verfahren zum rechnerischen Nachweis der Feuerwiderstandsdauer untersucht und verglichen. Die dort angesetzten Vereinfachungen im Vergleich zur allgemeinen Berechnung mit thermischer und mechanischer Analyse werden aufgezeigt und auf ihre Auswirkung hinsichtlich des Bemessungsergebnisses analysiert. 
+Im Anschluss wird eine Modellrechnung zur Heissbemessung vorgestellt, die auf Basis der Kragstütze entwickelt wurde und für beliebige Stützensysteme, übliche Querschnitte und unterschiedliche Beflammung anwendbar ist. 
+Abschließend folgen Untersuchungen zu alternativen Methoden, die rechnerische Brandsicherheit zu erlangen sowie zur Frage, in welchen Fällen die Heissbemessung überhaupt maßgebend wird.</abstract>
+                    <abstract type="content" lang="eng">The present paper concentrates on fire resistance design of reinforced concrete columns. First of all the published methods of calculating the fire resistance are analysed and compared. The simplifications made in comparison to exact thermal and mechanical analysis are demonstrated and analysed with reference to the effects on the result of calculation. In the following a new model calculation is presented, which is applicable for all types of usual cross-sections, systems of columns and various flame impingement as i.e. of three or four sides. 
+Finally some studys are made at alternatives to get fire resistance and in which case fire resistance design is decisive.</abstract>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Architektur und Bauingenieurwesen » Bauingenieurwesen"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20111018-114421-9</identifier>
+                    <identifier type="sys">HT017017922</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_2324</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_2324">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/bauingenieurwesen/diss2011/gelien/dd1104.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_2324"
+            DMDID="DMD_wuppertal_elpub_2324">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_2324"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

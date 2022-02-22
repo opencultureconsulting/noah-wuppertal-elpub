@@ -1,0 +1,66 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5810">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchung Neuer Methoden zur Darstellung von Mikroporösen Polymernetzwerken</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Widling, Christian</displayForm>
+                        <namePart type="family">Widling</namePart>
+                        <namePart type="given">Christian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Das Forschungsgebiet der porösen Materialien ist ein schnell wachsendes Gebiet im Bereich der Materialwissenschaften. Während der letzten zwanzig Jahre wurden neue Materialien wie metallorganische Netzwerke (MOFs) und kovalente, organische Netzwerke (COFs) entwickelt und erste Anwendungen vorgestellt. Durch Anwendungsmöglichkeiten im Bereich der Katalyse, Gasspeicherung und, in den letzten Jahren, auch in der organischen Elektronik, stellen sie ein hochinteressantes Forschungsgebiet dar. Hierbei besitzt keine der Materialklassen herausragende Eigenschaften für alle Anwendungsgebiete, alle Materialien haben ihre Vor- und Nachteile.
+
+ In dieser Arbeit werden drei Methoden zur Darstellung mikroporöser Polymernetzwerke (MPNs) vorgestellt. In Kapitel 2 wird gezeigt, dass eine Darstellung durch eine thermische Deiodierung von Iod-funktionalisierten Monomeren möglich ist. Hierfür wurden die optimalen Reaktionsparameter bezüglich Reaktionstemperatur und Reaktionszeit ermittelt und somit BET-Oberflächen von bis zu 732 m²/g erzielt. Eine Darstellung von mikroporösen Polymernetzwerken mittels Diels-Alder-Reaktionen wird in Kapitel 3 beschrieben. Diese MPNs werden durch eine Reaktion von A₂-Dienen und B₃-oder B₄-Dienophilen hergestellt. Im Rahmen der Sorptionsuntersuchungen zeigte sich, dass die Trocknung mit überkritischem Kohlendioxid im Vergleich zur Gefriertrocknung und dem Trocknen im Hochvakuum am vorteilhaftesten ist. 
+
+ Letztlich wird in Kapitel 4 die erfolgreiche Synthese von MPNs aus neuen, Carbonyl-funktionalisierten Monomeren durch eine Säure-katalysierte Cyclotrimerisierungsreaktion unter übergangsmetallfreien Bedingungen beschrieben. Zusätzlich wird gezeigt, dass die Synthese auch unter lösungsmittelfreien Bedingungen durchführbar ist und zu BET-Oberflächen von bis zu 868 m²/g führt.</abstract>
+                    <abstract type="content" lang="eng">The field of porous materials is a rapidly growing research area of material sciences. Over the last two decades, new classes of porous materials like metal-organic frameworks (MOFs) and covalent organic frameworks (COFs), as well their applications, were introduced. Their potential uses for catalysis, gas storage and separation, and in the last years, also as materials for organic electronic devices or sensors, make them highly interesting. Neither one of them is perfect for all applications; every class has its own advantages and disadvantages. 
+
+ In this thesis, three ways for synthesis of microporous polymer networks (MPNs) were introduced and discussed. In chapter 2 it is shown that microporous polymer networks can be obtained by thermal deiodination of iodo-functionalised monomers. Therefor, optimised reaction conditions are determined by variation of reaction time and reaction temperature. Using this easy accessible reaction, BET-surface areas of up to 732 m²/g could be achieved.
+
+ A synthesis of MPNs by Diels-Alder-reactions is demonstrated in chapter 3. The networks are build by a combination of an A₂-diene and a B₃- or B₄-type dienophil. Drying with supercritical carbon dioxide could be approved as the best suiting method if compared to lyophilisation and drying in high vacuum at room temperature.
+
+ Finally, in chapter 4, new monomers were used in an acid-catalysed cyclotrimerisation synthesis of MPNs in a metal-free regime. Here, MPN synthesis under solvent-free conditions leads to MPNs with BET-surface areas of up to 868 m²/g.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20160525-103301-3</identifier>
+                    <identifier type="sys">HT019007131</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5810</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5810">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2016/widling/dc1607.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5810"
+            DMDID="DMD_wuppertal_elpub_5810">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5810"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

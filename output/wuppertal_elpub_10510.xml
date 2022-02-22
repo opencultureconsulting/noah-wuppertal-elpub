@@ -1,0 +1,66 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_10510">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Responsible Innovation &amp; Entrepreneurship – The Role of Stakeholders &amp; Uncertainty in Disruptive Technology Development</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bolz, Karsten</displayForm>
+                        <namePart type="family">Bolz</namePart>
+                        <namePart type="given">Karsten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Volkmann, Christine</displayForm>
+                        <namePart type="family">Volkmann</namePart>
+                        <namePart type="given">Christine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-06-19</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This dissertation is located at the intersection of stakeholder theory, entrepreneurship and innovation research and demonstrates that the concept of Responsible Innovation (RI), with its premise of early stakeholder engagement in innovation processes, is of immense relevance to entrepreneurial organizations, especially with regard to uncertainties in disruptive technology development. 
+Part 1 of this dissertation pioneers the connection of RI to entrepreneurship research. The differing interpretations of RI and three core aspects are explored: design innovation, normative ends and collaborative reflection. After laying out this RI scheme, the notion of entrepreneurship is examined in light of this construct. Furthermore, operationalization strategies of RI in entrepreneurial organizations are outlined on a conceptual level and in practice, with a focus on stakeholder engagement as the key element. Moreover, the vital role played by stakeholders in entrepreneurial organizations and their influence on uncertainties of innovation processes are indicated. 
+In Part 2 of this dissertation, this role of stakeholders is scrutinized more closely. It identifies the reduction of uncertainties as a core driver of stakeholder engagement activities. A mixed-methods approach was utilized. In the qualitative study, nine in-depth interviews were conducted and analyzed. A structure equation model approach was adopted for the quantitative study; 119 questionnaires were completed by managers in the field of advanced biotechnology. Part 2 evidences the vital role of stakeholder engagement in terms of reducing technological, commercial, social and organizational uncertainty during innovation processes in disruptive technology development.</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20200619-093843-2</identifier>
+                    <identifier type="doi">10.25926/gzdw-3k16</identifier>
+                    <identifier type="sys">HT020658932</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_10510</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_10510">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2020/bolz/db2003.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_10510"
+            DMDID="DMD_wuppertal_elpub_10510">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_10510"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

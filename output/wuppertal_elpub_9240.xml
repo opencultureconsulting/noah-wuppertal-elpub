@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9240">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Beiträge zur Beschleunigung numerischer Simulationen von elektroquasistatischen Feldverteilungen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Richter, Christian Friedrich</displayForm>
+                        <namePart type="family">Richter</namePart>
+                        <namePart type="given">Christian Friedrich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-03-29</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Eine typische Entwicklungsaufgabe im Bereich der elektrischen Energieübertragungstechnik ist das De-sign von Betriebsmitteln. Ein Thema aktueller Forschung ist die feldstärkenabhängige Feldsteuerung durch Materialien mit nichtlinearer Leitfähigkeit. Um deren Geometrie und die Schaltpunkte der feld-steuernden Materialen numerisch zu optimieren sind Lösungen elektroquasistatischer Feldprobleme er-forderlich. Nur so kann die nichtlineare Materialcharakteristik berücksichtigt werden. Ansatz ist hier die Lösung des elektroquasistatischen Problems mit einer 3D-Finite-Elemente-Methode-Simulation im Zeitbereich. 
+Wesentliches Hindernis zur effektiven Optimierung stellt die lange Rechendauer dieser Simulationen von bis zu mehreren Tagen dar. Daher werden Ansätze vorgestellt die Rechenzeit durch eine Kombina-tion von technischen und methodischen Ansätzen zu reduzierten. 
+- Zeitintensive Rechenprozesse wie der iterative Löser der algebraischen Gleichungssysteme oder die FEM-Matrixassemblierung werden auf einen oder mehrere Grafikbeschleunigungsprozesso-ren ausgelagert. Dort wird der Rechenprozess massive parallelisiert durchgeführt und beschleu-nigt. 
+- Durch diese Beschleunigung ist es möglich, die Berechnung des transienten elektroquasistati-schen Feldmodells mit einem semi-expliziten Zeitintegrationsansatz durchzuführen und so eine weitere Beschleunigung zu erreichen. 
+- Durch die Form der Gleichung für den semi-expliziten Zeitintegrationsansatz können Startwert-schätzer effektiv für diesen Zeitintegrationsansatz eingesetzt werden, um erneut die Rechenzeit zu reduzieren. 
+Anhand einer Reihe von hochdimensionalen, realistischen Modellbeispielen von Betriebsmitteln wie Hochspannungsisolatoren und Hochspannungsdurchführungen mit nichtlinearen Feldsteuerelementen wird nachgewiesen, dass die erforderlichen Rechenzeiten um mehr als zwei Größenordnungen reduziert werden konnten.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20190329-142324-6</identifier>
+                    <identifier type="sys">HT020023058</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9240</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9240">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2019/richter/de1903.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9240"
+            DMDID="DMD_wuppertal_elpub_9240">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9240"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_4160">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Effiziente, sichere Produktionstechnik für Stahlbau in Entwicklungsländern</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Eghdam, Alireza</displayForm>
+                        <namePart type="family">Eghdam</namePart>
+                        <namePart type="given">Alireza</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Hochleistungs-Produktionssysteme, von Weltmarktführern im Bauwesen höchst effizient eingesetzt, werden auch von Bauunternehmen in Entwicklungsländern gekauft – mit großer Erfolgserwartung. Dann aber stehen sie dort ungenutzt herum.
+ Der Erfolgsweg zu effizienter, sicherer Produktionstechnik in solchen Ländern ist weitgehend unerforscht. Wie die dortige Praxis zeigt, stellen sich schwerwiegende Hindernisse kultureller, mentaler, schulischer, politischer, wirtschaftlicher, technischer und wissenschaftlicher Art entgegen.
+ Diese Dissertation ergründet daher allgemeingültig, wie in Entwicklungsländern Stahlbau-Unternehmen konzipiert werden müssen, d. h. mit funktionstüchtiger Anpassung der Produktionstechnik und Aufbau sowohl der relevanten Infrastruktur als auch der Fachkompetenz lokaler Ingenieure und Werker. Neben der Unternehmenskonzeption und dem angestrebten Produktspektrum sind dazu alle Phasen von der Planung und Konstruktion (CAD) über die Arbeitsvorbereitung (CAM) bis zur Fertigung (CNC) kenntnisreich angepasst weiterzuentwickeln. Um von Behauptungen zu wissenschaftlich fundierten Erkenntnissen zu gelangen, wird am Beispiel eines innovativen Start-Up Unternehmens für erdbebentüchtigen Stahlbau in einem typischen Entwicklungsland die aufgestellte Theorie experimentell evaluiert und nachgewiesen. Die Allgemeingültigkeit des Ansatzes wird an einem zweiten Fallbeispiel aus Tansania, Afrika, untermauert.</abstract>
+                    <abstract type="content" lang="eng">High-performance production systems that are implemented extremely efficiently by global market leaders in the construction industry are also bought by construction companies in developing countries – with high hopes of success. But often they stand around unused.
+ The road to the successful implementation of safe and efficient technology in such countries is largely unexplored. As practical experience has shown, it is often beset by serious obstacles, which can be of a cultural, mental, educational, political, economic, technical or scientific nature.
+ Universally valid, this dissertation therefore explains the importance of designing steel construction enterprises in developing countries so as to ensure that the production technology and set-up are fully functional and adaptable, that the relevant infrastructure is in place and that local engineers and workers have the necessary specialist expertise. In addition to the company’s business model and intended product range, all phases of planning, design, detailing (CAD/CAM) and production engineering up to CNC production lines must be skilfully adapted and evolved. In order to make the transition from unproven assertions to scientifically based findings and cognition, the theory developed here is experimentally evaluated and verified on the basis of an innovative start-up company that produces earthquake-compliant steel structures in a typical developing country. Universal validity of the basic approach is supported by a second case study in Tanzania, Africa.</abstract>
+                    <classification authority="ddc">624</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Architektur und Bauingenieurwesen » Bauingenieurwesen"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20140904-100345-0</identifier>
+                    <identifier type="sys">HT018514852</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_4160</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_4160">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/bauingenieurwesen/diss2014/eghdam/dd1405.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_4160"
+            DMDID="DMD_wuppertal_elpub_4160">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_4160"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

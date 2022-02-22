@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_314">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Supraleitende YBa₂Cu₃O7-δ-Schichten auf metallischen Bändern</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kreiskott, Sascha</displayForm>
+                        <namePart type="family">Kreiskott</namePart>
+                        <namePart type="given">Sascha</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002-04-02</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">For the use of high-temperature superconducting materials in energy technology flexible wires or tapes are needed. Up to now two different routes for their fabrication do exist. Primary there is the powder in tube process, which uses polycrystalline BSCCO powder in a silver tube. Secondary there are the coated conductor concepts, which use a metallic tape as a substrate for the deposition of buffer and superconducting layers. In order to achieve high critical current densities biaxially textured layers of the superconductor YBCO are necessary. As a consequence either the substrates (RABiTS: rolling assisted biaxially textured substrates approach) or the deposited buffers (IBAD: ion beam assisted deposition approach) have to be textured. In this thesis the RABiTS approach was used to produce short samples of superconducting tapes. 
+One of the most important aspects of the RABiTS technique is the deposition of buffer layers, which serve as a chemical barrier between the ferromagnetic Nickel substrate and match the structural properties of the substrate tape and the YBCO layer. In order to deposit high quality YBCO films on textured Nickel substrates highly (100) textured and crack free buffer layers are needed. Only few materials such as CeO₂ and Yttria-stabilised Zirconia (YSZ) are suited for the use as a buffer layer. In this thesis several deposition techniques such as rf sputtering, thermal reactive evaporation and electron beam evaporation were developed and tested for the deposition of CeO₂ and YSZ. The buffer layers were characterised by XRD, SEM and optical microscopy. The growth behaviour of CeO₂ on Nickel was studied in detail to ensure (100) oriented growth on the cube textured Nickel substrate. Growth conditions for the reproducible deposition of (100) oriented buffer layers could be found. 
+YBCO films were deposited by dc-sputtering on the buffer layers and the resulting superconducting properties were measured by inductive characterisation and transport current measurements. The cracking of the buffer layers during the highly oxidising conditions of the YBCO deposition process turned out to be the main obstacle to achieving good superconducting properties. After optimisation critical current densities up to 0.6 MA/cm² (77 K, 0 T) and critical temperatures of 91 K with transition widths of 3 K could be obtained in 400 nm thick YBCO films on exclusively evaporated CeO₂/YSZ/CeO₂ buffer architectures. These layers still showed cracks after the YBCO deposition, which seemed to be the cause for the low critical current densities. Buffer architectures with evaporated CeO₂ followed by sputtering of YSZ and CeO₂ remained crack free after the YBCO deposition. Critical current densities between 1.5 and 2.6 MA/cm² (77 K, 0 T) in 400 nm thick films could be achieved reproducibly. The transition temperatures were measured to be between 91 and 92 K with transition widths of 1.5 K.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20020165</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_314</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_314">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-408/d080112.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_314"
+            DMDID="DMD_wuppertal_elpub_314">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_314"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

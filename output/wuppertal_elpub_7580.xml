@@ -1,0 +1,105 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_7580">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Extending and Automating Fourier Analysis for Multigrid Methods</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Rittich, Hannah</displayForm>
+                        <namePart type="family">Rittich</namePart>
+                        <namePart type="given">Hannah</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bolten, Matthias</displayForm>
+                        <namePart type="family">Bolten</namePart>
+                        <namePart type="given">Matthias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bolten, Matthias</displayForm>
+                        <namePart type="family">Bolten</namePart>
+                        <namePart type="given">Matthias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Frommer, Andreas</displayForm>
+                        <namePart type="family">Frommer</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Jacob, Birgit</displayForm>
+                        <namePart type="family">Jacob</namePart>
+                        <namePart type="given">Birgit</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>MacLachlan, Scott</displayForm>
+                        <namePart type="family">MacLachlan</namePart>
+                        <namePart type="given">Scott</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In this thesis, we develop a general framework for local Fourier analysis of multigrid methods that is versatile and well suited for computer implementation. 
+Using this framework we are able to analyze multigrid methods which have not been considered to this point. We analyze a multigrid method for a diffusion problem with jumping coefficients, and we analyze various block smoothers. 
+We show how to create a flexible software for the automation of local Fourier analysis. This flexibility is achieved by choosing approximations to Fourier matrix symbols as primitive components that are then combined into complicated expressions. In this way, many problems can be described and then analyzed by the software.</abstract>
+                    <subject>
+                        <topic>Multigrid</topic>
+                        <topic>Fourier Analysis</topic>
+                        <topic>Convergence Analysis</topic>
+                        <topic>Stencils</topic>
+                        <topic>Partial Differential Equations</topic>
+                    </subject>
+                    <classification authority="ddc">518</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20171220-120820-1</identifier>
+                    <identifier type="sys">HT019548035</identifier>
+                    <accessCondition type="use and reproduction">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_7580</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_7580">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2017/rittich/dc1729.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_7580"
+            DMDID="DMD_wuppertal_elpub_7580">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_7580"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

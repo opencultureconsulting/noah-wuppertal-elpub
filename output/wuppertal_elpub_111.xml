@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_111">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Verfahren SynBA-3K zur Analyse von Kommunikationsstörungen, Konflikten und Strategien der Konflikthandhabung in Organisationen</title>
+                        <subTitle>Mehrstufige Validierungsstudie</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Grüne, Petra</displayForm>
+                        <namePart type="family">Grüne</namePart>
+                        <namePart type="given">Petra</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002-10-29</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Zur Untersuchung der Wirkung von Konflikten und Strategien der Bewältigung in Organisationen wurde ein Fragebogenverfahren auf theoretischer Grundlage des Belastungs-Beanspruchungs-Modells entwickelt. Der Fragebogen SynBA-3K (Synthetische Beanspruchungsanalyse bei Kommunikationsstörungen, Konflikten und Strategien der Konflikthandhabung in Organisationen) hat zum Ziel, Konflikte in Organisationen zu analysieren und Ansatzpunkte zur Gestaltung zu finden. Zwei Validierungsstudien, die in zwanzig Organisationen durchgeführt wurden, führten zu zufriedenstellenden Werte bezüglich Itemanalyse, Validität und Reliabilität. In den untersuchten Organisationen fühlten sich die Befragten bei Konflikten überwiegend negativ beansprucht. Sie ärgerten sich und fühlten sich angespannt, während die eigene Motivation und das Erleben eigener Kontrolle eher gering waren. Wenn Strategien zur Anwendung kamen, erlebten die Befragten Strategien, bei denen der gemeinsame Lösungsansatz im Vordergrund steht, als funktional und Strategien, die auf Vermeidung oder Durchsetzen einer Einzelmeinung abzielen, als dysfunktional. In den Organisationen zeigte sich allerdings, daß bei Konflikten überwiegend die negativ bewerteten Vermeidungsstrategien und das Durchsetzen zum Einsatz kamen. Außerdem hatten das Alter der Befragten und die Organisation, in der sie tätig sind, einen großen Einfluß auf die Beanspruchung in Konfliktsituationen. Beschäftigte im höheren Alter ärgerten sich bei Konflikten weniger als die Jüngeren. Das Verfahren wurde innerhalb von Maßnahmen zur Organisationsentwicklung eingesetzt und lieferte die Grundlage für eine Prozeßbegleitung zur Bewältigung der unternehmensspezifischen Konflikte.</abstract>
+                    <abstract type="content" lang="eng">Communication and conflict management are important for the successful functioning of every organization. A questionnaire has been developed to analyze under- and overload of the staff caused by work stressors as conflicts and conflict management styles. The intention of the questionnaire SynBA-3K (Synthetical analysis of mental load in the fields of communication, conflict and conflict management styles) is to analyse conflicts in organizations and to indicate fields for changes. Studies in 20 organizations have been carried through to analyse item structure, validity and reliability of the questionnaire. Results have been satisfying. In the studies the staff experienced mostly negative load in conflict situations. They were angry, nervous and tensed up, while they were not motivated and felt low control. When conflict management styles were carried through, people assessed styles as agreeable, that focus on joint management of conflicts, and such styles as disagreeable, that focus on the imposing of one&apos; s will. In the analysed organizations it has been evident, that in conflict situations mostly negatively rated styles as avoidance and putting through went into action. Besides the age of the staff and the organization where they are working have a great influence on the experienced load in conflict situations. Older persons suffer less anger than younger colleagues. In the frame of organizational development the questionnaire has been used as the basis for the beginning prozess of conflict management in organizations.</abstract>
+                    <classification authority="ddc">150</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Human- und Sozialwissenschaften » Psychologie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20020390</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_111</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_111">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-317/d030001b.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_111"
+            DMDID="DMD_wuppertal_elpub_111">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_111"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

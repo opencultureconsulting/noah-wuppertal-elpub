@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9900">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Development of a Detector Control System Chip</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lehmann, Niklaus</displayForm>
+                        <namePart type="family">Lehmann</namePart>
+                        <namePart type="given">Niklaus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Zeitnitz, Christian</displayForm>
+                        <namePart type="family">Zeitnitz</namePart>
+                        <namePart type="given">Christian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-11-13</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Der Large Hadron Collider (LHC) am CERN wird bis 2026 zum High-Luminosity LHC ausgebaut. Diese Erweiterung hat zum Ziel höhere Intensitäten bei den Kollisionen zu erreichen um die gesammelte Luminosität um einen Faktor 10 zu erhöhen. Mit dem grösseren Datensatz können die Eigenschaften des Standard Models der Teilchenphysik genauer vermessen werden. Die Experimente müssen dafür aktualisiert und aufgerüstet werden. Beim ATLAS Experiment wird der komplette innere Detektor für den Betrieb am High-Luminosity LHC mit einem neuen Silizium-Spurdetektor ersetzt. Dieser, ATLAS ITk Detektor genannt, besteht aus mehreren Lagen mit Pixel- und Streifensensoren. Für den ITk Pixeldetektor wird erstmals auch eine serielle Stromversorgung an einem LHC Experiment verwendet. Die serielle Versorgung hat den Vorteil, dass Leitungen und dadurch Material eingespart werden kann. Jedoch gibt es auch Risiken und neue Entwicklungen werden benötigt. Das Detektorkontrollsystem (DCS) hat die Aufgabe den Detektor und seinen Zustand zu überwachen. Das DCS kontrolliert auch den Betrieb des Detektors. Eine Integrierte Schaltung wurde speziell dazu entwickelt. Dieser Pixel Serial Power &amp; Protection (PSPP) genannte Chip misst die Temperatur und Spannung von einem Modul in einer seriellen Versorgungskette. Weiter hat der Chip einen Bypass-Transistor, welcher das Modul kurzschliessen und damit deaktivieren kann. Das erlaubt es einzelne Module in der seriellen Versorgungskette zu steuern, während die anderen Module weiterhin funktionieren. Die Aktivierung des Bypasses kann automatisch erfolgen, sollte die Temperatur oder Spannung des Moduls zu gross werden.
+ Auf Basis eines existierenden Prototyps wurden während dieser Arbeit weitere Versionen des PSPP entwickelt. Diese beinhalten alle benötigten Funktionen und können einen Strom von 8 A schalten. Der entwickelte PSPP wurde bis zu einer totalen ionisierenden Dosis von 800 Mrad erfolgreich getestet. Weiter wurden Tests der Resistenz gegenüber strahlenbasierten Bit-Flips durchgeführt. Es wurde ein Wirkungsquerschnitt kleiner 1.7 × 10⁻¹⁷ cm² gemessen. Ein Chip wurde auch in einer Klimakammer bei Temperaturen zwischen (0 und 60) °C während 42 Tagen erfolgreich betrieben. Während dieses Dauertests wurden keine Fehlfunktionen beobachtet.
+ Der PSPP wurde ausserdem in einem Systemtest mit Sensormodulen und realistischer mechanischer Struktur eingesetzt. Die Funktion des PSPPs war hilfreich bei der Inbetriebnahme und Fehlersuche. Die automatische Bypass-Aktivierung bewahrte die Module vor Schäden. Mit Hilfe der vom PSPP gemessenen Daten wurde die Spezifikation der seriellen Versorgungskette verbessert.</abstract>
+                    <abstract type="content" lang="eng">The Large Hadron Collider (LHC) at CERN will be updated to the High-Luminosity LHC by 2026. The goal of this update is to achieve higher intensities in the collisions and collect ten times more luminosity than with the LHC. This gives higher statistics to measure with greater precision the parameters of the standard model in particle physics. The ATLAS experiment will receive a completely new inner tracker for operation at the High-Luminosity LHC. This ATLAS ITk detector is a full silicon tracking detector with pixel and strip sensors. A serial power approach is foreseen for the ITk Pixel detector. This reduces the number of services and material, however, has also risks and new challenges.
+ The task of the detector control system (DCS) is to monitor the health of the experiment and control the operation. An integrated circuit was developed for this task. The so-called pixel serial power &amp; protection (PSPP) chip measures the voltage and temperature of a module in the serial power chain. Additionally, it includes a bypass transistor to deactivate a single module if necessary. The bypass is activated automatically in case of over-temperature or over-voltage. This gives full control over each module and allows to recover a serial power chain in case of a faulty module.
+ Based on an existing prototype, new versions of the PSPP were developed for this thesis. They include all required functionalities and can switch a current of 8 A. The developed prototype is functional to a total integrated dose of 800 Mrad, which was tested in X-Ray irradiations. Further, tests were performed to verify the protection against single event upsets causing bit flips in the internal registers. The cross-section of the triplicated registers in the PSPP was measured with a proton test beam and is smaller than 1.7 × 10⁻¹⁷ cm² . The PSPP prototype successfully resisted temperatures between (0 and 60) °C in a 42-day long climate chamber test. No failure was observed.
+ A system test with prototype modules was built at CERN to verify the concept of the serial power chain. This used realistic services and mechanical structures. The PSPP chip was included in the system test and proofed to be very useful during commissioning and debugging. The bypass and its protection function prevented damage to detector modules. The PSPP delivered useful monitoring data to refine the requirements of the serial power chain.</abstract>
+                    <subject>
+                        <topic>ATLAS</topic>
+                        <topic>HL-LHC</topic>
+                        <topic>Detector Control System</topic>
+                        <topic>ASIC</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20191113-112127-6</identifier>
+                    <identifier type="doi">10.25926/m1ns-xc90</identifier>
+                    <identifier type="sys">HT020336875</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9900</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9900">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2019/lehmann/dc1931.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9900"
+            DMDID="DMD_wuppertal_elpub_9900">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9900"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

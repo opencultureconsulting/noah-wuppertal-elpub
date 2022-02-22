@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_2734">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>New methods and applications in time-resolved X-ray absorption spectroscopy</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Stötzel, Jan Eric</displayForm>
+                        <namePart type="family">Stötzel</namePart>
+                        <namePart type="given">Jan Eric</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Time-resolved investigations of condensed matter on an atomic scale level are nowadays indispensable to gain insights in the complex mechanisms of dynamic processes in physics and chemistry. Most of these processes take place at the surface of a metal, such as for example layer growth and corrosion phenomena or all catalytic applications. X-ray absorption spectroscopy is one of the most important investigation tools in this context. It allows resolving the local structure around a selected kind of element in the probed sample within the range of a few Angstroms by using the intense X-ray beams generated at modern synchrotron radiation sources. It is thus perfectly adapted to investigate systems with only a short range order as for example very thin layers or nanoparticles which are especially important for catalytic applications. Prerequisite for X-ray absorption spectroscopy are monochromators with perfect crystals that reflect only a certain energy determined by the incident angle. Time-resolutions of down to a few milliseconds for one spectrum are achievable with quick-scanning X-ray absorption spectroscopy (QEXAFS) using mechanics to rapidly oscillate the monochromator crystals. 
+New technical approaches for the QEXAFS method are presented in this work as for example an angular encoder system to accurately measure the monochromator crystal angle and thus to obtain most accurate energy values for the measured spectra. The design of flexible driving mechanics is introduced and tested. The new mechanics allow arbitrarily adjusting the energy range of the spectra within few seconds leading to a more efficient application of QEXAFS and also new possible experiments. Moreover, a new fast and reliable data acquisition system is presented as well as new user-friendly data analysis software named T-REX to handle the thousands of spectra that are typically collected during each measurement. 
+Several applications in the field of catalysis are presented where new insights in dynamic processes could be obtained using quick-scanning X-ray absorption spectroscopy. The Pd-catalyzed Heck reaction was studied as well as stable oscillations during the catalytic partial oxidation of methane on Pd/Al₂O₃ catalysts, the oxidation and reduction behaviour of Cu/Al₂O₃ catalysts at various temperatures and structural oscillations during the extinction of CO oxidation on a Pt/Al₂O₃ catalyst. Thereby, new data analysis approaches were introduced, as for example a median filter to analyze distorted data resulting from unstable sample conditions and modulation spectroscopy to improve signal-to-noise ratios for processes that can be reproducibly excited by tuning the experimental parameters. As an example for chemical decomposition processes it is reported on QEXAFS studies of the dehydration and decomposition of cobalt oxalates in reducing, oxidizing and inert atmosphere. Finally, data measured in-situ in reflection mode with sub-second time-resolution during the deposition of copper on glass via DC magnetron sputtering are shown yielding new insights in the initial stages of the layer growth processes under realistic deposition conditions. Subsequent oxidation of the fresh Cu layers at various substrate temperatures was also investigated and the obtained results demonstrate the high potential of using QEXAFS to gain new insights into fundamental processes in surface science.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20120404-113458-5</identifier>
+                    <identifier type="sys">HT017204766</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_2734</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_2734">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-2858/dc1126.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_2734"
+            DMDID="DMD_wuppertal_elpub_2734">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_2734"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

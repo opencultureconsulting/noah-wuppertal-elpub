@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6040">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Properties of convective gravity waves derived by combining global modeling and satellite observations</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Trinh, Quang Thai</displayForm>
+                        <namePart type="family">Trinh</namePart>
+                        <namePart type="given">Quang Thai</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Gravity waves play the key role in the dynamics of the middle atmosphere. Among different gravity wave sources, convection has been long accepted as one of the most prominent ones. However, due to the broad spectrum of convective gravity waves and limitations of current observation techniques, the contribution of these waves to atmospheric dynamics is still an open issue. Moreover, due to the same reasons, the horizontal and temporal scales of gravity waves forced by convection are not well known. These scales are usually treated in current convective gravity wave parameterizations as free parameters and they are defined by assuming typical scales of convective systems. In this study, we addressed these issues using a unique approach of combining modeling and measurements. In order to determine the scales of convective gravity waves, instead of assuming typical scales of convective systems, a systematic survey varying the spatial and temporal scales as free parameters of the Yonsei convective gravity wave source (CGWS) scheme is performed. Gravity waves are generated using this CGWS scheme and propagated upward using the Gravity wave Regional Or Global RAy Tracer (GROGRAT). Gravity wave momentum flux spectra in terms of horizontal and vertical wave numbers are calculated from simulations and compared with the respective spectrum observed by the High Resolution Dynamics Limb Sounder (HIRDLS). Based on this comparison, combinations of scale sets which reproduce the observed gravity wave spectrum are selected.
+ HIRDLS can only see a limited portion of the gravity wave spectrum due to visibility effects and observation geometry. To allow for a meaningful comparison of simulated gravity waves to observations a comprehensive filter that mimics the instrument limitations is applied to the simulated waves. This comprehensive observational filter takes into account both instrument visibility due to radiative transfer and retrieval as well as the complex observation geometry.
+ In order to analyze the contribution of convective gravity waves to the atmospheric dynamics, the zonal momentum balance is considered in vertical cross sections of gravity wave momentum flux (GWMF) and gravity wave drag (GWD), and consistency between model results and HIRDLS observations is found. Global maps of the horizontal distribution of GWMF are considered and good agreement in the structure as well as the magnitude between simulated results and HIRDLS observations is found. In particular, main convection hot spots are well reproduced. In addition, the latitude dependence of the zonal phase speed spectrum of GWMF and its change with altitude is shown. The latitude dependences for different climate conditions and different altitudes show a main peak in the tropics and summer subtropics associated with eastward phase speeds between several m/s and about 30 m/s.
+ The current study is unique in two aspects: the complexity and comprehensiveness of the observational filter and the fact that the model spectral distribution is determined merely from observed spectral distributions. In advance to previous studies, the spatial distribution is used only afterwards for validation. Due to the limitation of HIRDLS instrument, only long horizontal wavelength waves are addressed in the current approach. However, the momentum flux of these waves are found to be significant and relevant for the driving of the Quasi-Biennial Oscillation (QBO). Findings of the current study therefore provide the key information for estimating relative contributions of different convective gravity wave scales to the whole convective gravity wave spectrum.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20160726-104957-2</identifier>
+                    <identifier type="sys">HT019059747</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6040</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6040">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2016/trinh/dc1615.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6040"
+            DMDID="DMD_wuppertal_elpub_6040">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6040"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

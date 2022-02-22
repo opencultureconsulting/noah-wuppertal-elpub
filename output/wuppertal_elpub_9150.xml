@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9150">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Wayfinding and Perception Abilities for Pedestrian Simulations</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Andresen, Erik</displayForm>
+                        <namePart type="family">Andresen</namePart>
+                        <namePart type="given">Erik</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Seyfried, Armin</displayForm>
+                        <namePart type="family">Seyfried</namePart>
+                        <namePart type="given">Armin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-02-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Computer simulations of pedestrian dynamics are common and reliable tools in order to evaluate safety risks of facilities. However, still many soft- ware frameworks for evacuation simulations imply the assumption that all simulated pedestrians are familiar with their environment and therefore take the shortest path to the outside. In fact, the spatial knowledge of people generally varies. Thus, the assumption that all persons of a build- ing possess comprehensive spatial knowledge is a rough approximation of the reality. Especially for simulations in complex buildings the reliability of this approximation is questionable. 
+In order to make simulations of pedestrian dynamics more reliable in this regard, this thesis introduces a new software framework. This framework provides the possibility to predict route choices of a group of people with varying spatial knowledge degrees. Therefor, the framework also considers selected wayfinding strategies that are applied beside the use of spatial memories. These are using signage, using generalized knowledge about the structure of buildings, and search strategies. 
+In addition, three studies have been conducted in order to investigate wayfinding abilities and strategies of people in office buildings and subway stations. The results of the studies are discussed and are used to calibrate and test the models of the new software framework. 
+Finally, the framework is applied to conduct a case study of an evacuation scenario in a subway station. The case study turns out that the egress time in the station is strongly dependent on the wayfinding strategies and abilities of the occupants. This outcome suggests that the proper consideration and prediction of route choices is relevant and necessary for reliable evacuation simulations.</abstract>
+                    <abstract type="content" lang="ger">Computersimulationen von Fußgängerströmen sind heutzutage ein gängiges Hilfsmittel, wenn es darum geht, Sicherheitsrisiken eines geplanten Neubaus oder Bestandsobjektes im Vorfeld zu erkennen und zu analysieren. 
+Die Mehrheit der Modelle für die Routenwahl von Fußgängern legt die Annahme zugrunde, dass Menschen sich für einen Weg entscheiden, deren zurückzulegende Strecke möglichst kurz ist oder deren Reisezeit möglichst klein ist. Dies impliziert, dass sämtliche Räume, Ausgänge, Korridore, etc. jedem Fußgänger bekannt sind. Diese Annahme kann im Besonderem bei der Betrachtung von komplexen Gebäuden nur als starke Vereinfachung der menschlichen Orientierung bzw. Wegfindung angesehen werden. Um Evakuierungssimulation diesbezüglich zu verbessern bzw. belastbarer zu machen, stellt die vorliegende Thesis ein neues Software-Framework vor. Dieses bietet die Möglichkeit, auch Fußgänger bzw. deren Routenwahl abzubilden, die nur Teile des Gebäudes kennen oder denen das Gebäude unbekannt ist. Die Modelle des Frameworks berücksichtigen hierbei die Anwendung von räumlichem Wissen (kognitive Karte), die Nutzung der Fluchtwegsbeschilderung und die Verwendung von generalisiertem Wissen über Gebäudestrukturen. 
+Des Weiteren wurden drei Studien zur Untersuchung der Wegewahl von Personen in Bürogebäuden und U-Bahnhöfen durchgeführt. Die Ergebnisse der Studien werden in dieser Thesis diskutiert und zur Kalibrierung und Prüfung der Modelle herangezogen. 
+Schließlich wird das Framework im Rahmen einer Simulationsstudie in einer U-Bahnstation angewendet. Diese Studie zeigt, dass die Räumungszeit der Station in Abhängigkeit der Wegfindungsstrategien und -fähigkeiten der Personen stark variieren kann und daher die Berücksichtigung menschlicher Wegfindung in Evakuierungssimulationen relevant ist.</abstract>
+                    <subject>
+                        <topic>Wayfinding</topic>
+                        <topic>Perception</topic>
+                        <topic>Pedestrian</topic>
+                        <topic>Simulation</topic>
+                        <topic>Modeling</topic>
+                    </subject>
+                    <classification authority="ddc">000</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20190228-084539-1</identifier>
+                    <accessCondition type="use and reproduction">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9150</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9150">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/bauingenieurwesen/diss2018/andresen/dd1805.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9150"
+            DMDID="DMD_wuppertal_elpub_9150">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9150"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

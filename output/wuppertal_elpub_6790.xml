@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6790">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Measurements of top-quark properties at 8 TeV using the ATLAS detector at the LHC</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Naranjo Garcia, Roger Felipe</displayForm>
+                        <namePart type="family">Naranjo Garcia</namePart>
+                        <namePart type="given">Roger Felipe</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Peters, Yvonne</displayForm>
+                        <namePart type="family">Peters</namePart>
+                        <namePart type="given">Yvonne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Matting, Peter</displayForm>
+                        <namePart type="family">Matting</namePart>
+                        <namePart type="given">Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This work presents the measurements of the charge asymmetry and top quark spin observables in ttbar events based on 20.3 fb-1 of sqrt(s) = 8 TeV proton--proton collisions recorded with the ATLAS detector at the LHC. These analyses are performed in the dilepton final state, characterized by the presence of two isolated leptons (electrons or muons). Two different reconstruction algorithms are studied and applied to reconstruct the ttbar system. For the measurements of the charge asymmetry, inclusive and differential measurements are performed using top-quark and lepton based observables. The differential measurements are performed as a function of the transverse momentum, mass, and boost of the ttbar system. For the top quark spin measurements, 15 observables, each sensitive to a different coefficient of the spin density matrix of ttbar production, are measured independently. Ten of these observables are measured for the first time. These measurements represent a full characterization of the spin density matrix. The measurements are corrected to particle and parton level by using the Fully Bayesian Unfolding method. At particle level, all measurements are performed in a fiducial region, while at parton level they are performed in the full phase space. No significant deviation from the Standard Model is observed for any of the measurements performed.</abstract>
+                    <abstract type="content" lang="ger">Die vorliegende Arbeit präsentiert Messungen der Ladungsasymmetrie und der Spin Observable des Top Quarks in ttbar Ereignissen auf der Basis von 20.3 fb-1 proton--proton Kollisionen, die bei sqrt(s) = 8 TeV mit dem ATLAS Detektor am LHC aufgezeichnet wurden. Die präsentierten Analysen wurden mit Ereignissen mit zwei isolierten Leptonen im Endzustand durchgeführt (Elektronen oder Muonen). Zwei verschiedene Algorithmen wurden untersucht, um das ttbar System zu rekonstruieren. Die Messung der Ladungsasymmetrie beinhaltet inklusive und differentielle Messungen unter Verwendung von Top Quark und Lepton basierenden Observablen. Die differentiellen Messungen wurden als Funktion des transversalen Momentums, der Masse und des Boosts des \ttbar Systems durchgeführt. Für die Messung des Top Quark Spins wurden 15 Observable, die sensitiv auf verschiedene Koeffizienten der Spin-Dichtematrix der \ttbar Erzeugung sind, einzeln analysiert. Zehn dieser Observablen wurden das erste Mal gemessen und die Messungen repräsentieren eine vollständige Charakterisierung der Spin-Dichtematrix. Die Messungen wurden auf Teilchen-, und Partonebene durch eine Fully Bayesian Unfloding Methode korrigiert. Auf Teilchenebene wurden alle Messungen im Referenzbereich durchgeführt, während die Messungen auf Partonebene im kompletten Phasenraum durchgeführt wurden. Es wurden keine signifikanten Abweichungen von den Vorhersagen des Standardmodels beobachtet.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170329-152229-3</identifier>
+                    <identifier type="sys">HT019291787</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6790</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6790">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2017/naranjo/dc1704.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6790"
+            DMDID="DMD_wuppertal_elpub_6790">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6790"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

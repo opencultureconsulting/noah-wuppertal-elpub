@@ -1,0 +1,66 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_8220">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Empfindungsfähigkeit und moralischer Status. Eine Kritik der pathozentrischen Ethik</title>
+                    </titleInfo>
+                    <titleInfo lang="eng" type="translated">
+                        <title>Phenomenal Consciousness and Moral Status. A critique of Pathocentrism</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Scheuer, Erasmus</displayForm>
+                        <namePart type="family">Scheuer</namePart>
+                        <namePart type="given">Erasmus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hartung, Gerald</displayForm>
+                        <namePart type="family">Hartung</namePart>
+                        <namePart type="given">Gerald</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-05-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Wir haben die Intuition, dass die Fähigkeit einer Entität zu empfinden eine moralische Relevanz besitzt – sobald etwas Schmerz empfinden kann, sind wir bereit eine Schutzwürdigkeit zuzusprechen. Eine pathozentrische Ethik speist sich aus dieser Intuition und erhebt die Leidensfähigkeit zum ausschlaggebenden Kriterium moralischer Beurteilung, um den Kreis der Moralobjekte über die menschliche Spezies hinaus zu erweitern. Das Empfindungskriterium und seine Abbildung auf den moralischen Status einer Entität sind aber epistemisch problematisch. Insofern ist es erforderlich in einer metaethischen Analyse die Reichweite und die Grenzen des pathozentrischen Denkens zu untersuchen sowie die geist- und evolutionsphilosophischen Grundlagen des Ansatzes systematisch aufzuarbeiten. Es existiert ein unkonditionales Problem der Einsehbarkeit in das Empfindungsmerkmal und ein konditionales Problem bei der moralischen Bewertung von Empfindungen nicht menschlicher Entitäten. Moralsubjekte müssen notwendigerweise eigenverantwortlich Setzungen vornehmen, die ihr moralisches Selbst erst konstituieren. Die Unmöglichkeit einer Ermittlung von Empfindungszuständen und Spielräume bei ihrer moralischen Bewertung erscheinen in diesem Licht als eine Voraussetzung für unser Selbstverständnis als moralfähige Wesen.</abstract>
+                    <classification authority="ddc">100</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » Philosophie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20180503-133904-3</identifier>
+                    <identifier type="sys">HT019684552</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_8220</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_8220">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fba/philosophie/diss2018/scheuer/da1801.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_8220"
+            DMDID="DMD_wuppertal_elpub_8220">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_8220"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

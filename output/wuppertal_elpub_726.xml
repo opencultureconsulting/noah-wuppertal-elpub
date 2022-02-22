@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_726">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchungen zum Stoffwechsel und zu Funktionen von &quot;energiereichen&quot; Diphosphoinositolphosphaten in Dictyostelium discoideum</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Trautwein, Christine</displayForm>
+                        <namePart type="family">Trautwein</namePart>
+                        <namePart type="given">Christine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004-09-07</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In Dictyosteliden wurde eine neue Klasse von &quot;energiereichen&quot; myo-Inositolphosphaten entdeckt, die Diphosphatgruppen tragen. Diese ubiquitär verbreiteten Diphosphoinositolphosphate wurden in verschiedenen Organismen gefunden. Ihre Strukturen wurden nur in Dictyosteliden eindeutig aufgeklärt. Am Stoffwechsel dieser Metabolite in Dictyostelium discoideum sind die charakterisierte 6-PP-InsP₅-(5)-Kinase und die InsP₆-Kinase beteiligt. Die physiologische Bedeutung der PP-InsPs ist weitgehend unbekannt. Hinweise auf eine regulatorische Funktion ergeben sich aufgrund ihrer Beteiligung an der Chemotaxis in Dictyostelium. 
+
+Nach der de-novo-Sequenzierung der 6-PP-InsP₅-(5)-Kinase mittels ESI-MS/MS wurde das codierende Gen durch Sequenzvergleiche identifiziert. 
+
+Eine mögliche regulatorische Bedeutung der PP-InsPs in vivo konnte durch die Untersuchung spezifischer Proteinmarkierungen durch [β-32P-5]-PP-InsP5 und [β-32P-5],6-bis-PP-InsP₄ nicht eindeutig belegt werden. Der Stoffwechsel der hochphosphorylierten Inositolphosphate konnte nicht aufgeklärt werden. Es wurden außer der bekannten InsP₇-Kinaseaktivität keine weiteren anabolen oder katabolen Enzymaktivitäten gefunden. 
+
+Die InsP₇-Kinase katalysiert reversibel die Phosphorylierung von InsP₆ und 6-PP-InsP₅. Die Konformationsanalysen der Substrate mittels ab-initio-Simulationen zeigten gravierende und unerwartete Unterschiede, auf deren Basis die unterschiedliche katalytische Aktivität der InsP₇-Kinase gegenüber ihren Substraten diskutiert wurde. Weitergehend wurde eine mögliche Tertiärstruktur der InsP₇-Kinase vorhergesagt.</abstract>
+                    <abstract type="content" lang="eng">In dictyostelids a new class of &quot;energy-rich&quot; myo-inositol phosphates with diphosphate groups has been discovered. The diphospho inositol phosphates seem to occur ubiquitous in eukaryotic cells and have been found meanwhile in various organisms. However, the structures of the PP-InsPs were only elucidated in dictyostelids. A characterized 6-PP-InsP₅ 5-kinase and an InsP₆ kinase participate in the metabolism of these compounds in Dictyostelium discoideum. Physiological functions of the diphospho inositol phosphates remain still elusive. A regulatory role for PP-InsPs is indicated by the mediation of chemotaxis in Dictyostelium. 
+
+In this thesis, the de novo sequencing of the digested 6-PP-InsP₅ 5-kinase by ESI-MS/MS resulted in several peptides. The coding gene was identified by data base searches with these peptide sequences. 
+
+A regulatory effect of the diphospho inositol phosphates in vivo was not unambiguously supported by the investigation of specific labelling of proteins by [β-32P-5]-PP-InsP₅ and [β-32P-5],6-bis-PP-InsP₄. 
+
+The metabolism of the diphospho inositol phosphates remains elusive. Except the InsP₇ kinase activity no further anabolic or katabolic enzymatic activities could be determined. 
+
+The InsP₇ kinase catalyzes the reversible phosphorylation of 6-PP-InsP₅ and shows a minor activity against InsP₆. 6-PP-InsP₅ is significantly faster metabolized than InsP₆. Conformational analysis of the substrates by ab-initio simulations reveal great and unexpected differences. They justify the discussion of the catalytic activity of the InsP₇ kinase against their substrates. Furthermore in this thesis a threading-based protein fold prediction was demonstrated for the InsP₇-kinase.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20040439</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_726</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_726">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-822/dc0408.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_726"
+            DMDID="DMD_wuppertal_elpub_726">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_726"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

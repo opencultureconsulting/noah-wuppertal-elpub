@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9720">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Cross-functional coopetition in new product development: Can constraints drive integration? A case of the design–manufacturing interface of electrified cars</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bix, Susanne</displayForm>
+                        <namePart type="family">Bix</namePart>
+                        <namePart type="given">Susanne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-09-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Enhancing cross-functional integration in new product development becomes increasingly important for industrial players to keep up with shorter product life cycles in technological innovation dynamics. Abundant research reflects the topic’s significance, yet ambiguity in empirical results persists and industrial adoption of existing methods remains incremental. This thesis employs a qualitative approach to build a case study at the design-manufacturing interface of new product development of electrified cars. Cross-functional coopetition, as the joint occurrence of cooperation and competition, is adopted to generate an in-depth understanding of integration dynamics. Socio-organizational and contextual aspects are found to shape integration in a new product development context substantially. A model of interface dynamics is developed which provides for analysis and prediction of these aspects’ impact on effective integration. A grounded theory approach to enhance integration is explored that introduces constraints as stimuli to consider manufacturability aspects in the design process. Constraint introduction is found to positively impact both cross-functional integration and creativity, with eight characteristics of constraint quality identified as moderating factors. A theoretical model is contributed which outlines cause-effect relationships of constraints’ impact on antecedents of new product development success. It substantiates constraints’ role in innovation contexts and encourages application for design-manufacturing integration as well as for other interfaces or purposes.</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20190903-120508-8</identifier>
+                    <identifier type="doi">10.25926/hja7-zx02</identifier>
+                    <identifier type="sys">HT020244196</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9720</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9720">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-9080/db1905.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9720"
+            DMDID="DMD_wuppertal_elpub_9720">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9720"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

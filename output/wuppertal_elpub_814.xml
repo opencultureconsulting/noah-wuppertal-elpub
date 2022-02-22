@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_814">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Medikationsstudie zur Untersuchung von Stabilität und Analytik von Tetracyclinen in Honig nach der Anwendung bei Honigbienen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Münstedt, Thorsten</displayForm>
+                        <namePart type="family">Münstedt</namePart>
+                        <namePart type="given">Thorsten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-06-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In the veterinary medicine the tetracyclines belong to the most often used animal antibiotics. Indeed, her use is not permitted in the area of the beekeeping to the honey production in Germany. In other countries, particular in North America and Central America, tetracyclines are frequently used, even to the preventive treatment against American foulbrood. 
+The knowledge of occurred residues and possible appearing metabolites is as necessary as an existing powerful method for analysing tetracyclines in honey. 
+A market survey of 359 honey of different origin was examined for residues of tetracyclines with ELISA and Charm II. All honeys from Germany are free of tetracyclines, 5% of the European honey are positive and 24% of all honeys with American origin were giving positive results. 
+In a medication study several colonies of bees were treated with oxytetracycline and chlortetracycline. The honey produced by these colonies of bees was tested by ELISA, CHARM II, HPLC with solid-phase extraction and by HPLC in a commercial lab specified on honey analytics. The further used method which had been already applied successfully for analysing tetracyclines in eggs by dialysis preparation was not suitable, so the official method of the German food and commodities law was used. 
+The colonies not treated with tetracyclines showed no residues of tetracyclines, so cross-contamination by drifting and robbery was not observed. The concentrations of chlortetracycline estimated with several techniques are matching each other and the amount of epi-chlortetracyline is similar to an additional analysed long time stored spiked honey. 
+The honey of the colonies which had been treated with oxytetracycline no residues were more provable with the HPLC methods, while the immune-chemical methods still indicated the presence of tetracyclines, partially near the detection limit. It could be assumed that the immunochemical methods are able to detect tetracyclines, even if they are modified, because the binding-site is able to bind to a specific and not affected part of the molecule, while the sample preparation for the HPLC causes losses of chemical modified tetracyclines. The effect was also observed with a honey spiked with oxytetracycline and a spiked mixture of fructose and glucose, but not with a solution of oxytetracycline in water. With chlortetracycline no loss was determined. 
+That entails that positive results of the frequently used screening tests showing residues of tetracyclines not confirmed by HPLC, meaning false-positive results are only indicating the further presence of oxytetracycline and unauthorised application could be possible. 
+Additional, a simplification of the complicated sample preparation for the official method of the German food and commodities law was developed. The sequence of two solid-phase-extractions with the steps preparation, application of the probe, cleaning, eluting was carried out by an automatic sampling system, which is directly coupled with the HPLC-system. The manual steps are restricted to dissolving and filtering of the honey. This system works reliably, but the long time stability of this high complex technical apparatus is not sufficient.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20090704</identifier>
+                    <identifier type="sys">HT016006811</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_814</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_814">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2009/muenstedt/dc0903.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_814"
+            DMDID="DMD_wuppertal_elpub_814">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_814"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

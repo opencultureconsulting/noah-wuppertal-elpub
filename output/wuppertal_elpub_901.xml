@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_901">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Predictability of Extreme Events in Time Series</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hallerberg, Sarah</displayForm>
+                        <namePart type="family">Hallerberg</namePart>
+                        <namePart type="given">Sarah</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-09-16</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In this thesis we access the prediction of extreme events observing precursory structures, which were identified using a maximum likelihood approach. The main goal of this thesis is to investigate the dependence of the quality of a prediction on the magnitude of the events under study. Until now, this dependence was only sporadically reported for different phenomena without being understood as a general feature of predictions. We propose the magnitude dependence as a property of a prediction, indicating, whether larger events can be better, harder or equally well predicted than smaller events. Furthermore we specify a condition which can characterize the magnitude dependence of a distinguished measure for the quality of a prediction, the Receiver Operator characteristic curve (ROC). This test condition allows to relate the magnitude dependence of ap rediction task to the joint PDF of events and precursory variables. If we are able to describe the numerical estimate of this joint PDF by an analytic expression, we can not only characterize the magnitude dependence of events observed so far, but infer the magnitude dependence of events, larger then the observed events. Having the test condition specified, we study the magnitude dependence for the prediction of increments and threshold crossings in sequences of random variables and short- and long-range correlated stochastic processes. In dependence of the distribution of the process under study we obtain different magnitude dependences for the prediction of increments in Gaussian, exponentially, symmetrized exponentially, power-law and symmetrized power-law distributed processes. For threshold crossings we obtain the same magnitude dependence for all distributions studied. Furthermore we study the dependence on the event magnitude for the prediction of increments and threshold crossings in velocity increments, measured in a free jet flow and in wind-speed measurements. Additionally we introduce a method of post-processing the output of ensemble weather forecast models in order to identify precursory behavior, which could indicate failures of weather forecasts. We then study not only the success of this method, but also the magnitude dependence.
+ keywords: extreme events, statistical inference, prediction via precursors, ROC curves, likelihood ratio, magnitude dependence</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20080438</identifier>
+                    <identifier type="sys">HT015680847</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_901</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_901">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2008/hallerberg/dc0815.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_901"
+            DMDID="DMD_wuppertal_elpub_901">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_901"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

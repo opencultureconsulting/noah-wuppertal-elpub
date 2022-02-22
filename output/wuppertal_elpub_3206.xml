@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3206">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Development of experimental methods to investigate non-exhaust particle emissions from a light duty vehicle</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mathissen, Marcel</displayForm>
+                        <namePart type="family">Mathissen</namePart>
+                        <namePart type="given">Marcel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Vehicle related non-exhaust particle emissions resulting from the abrasion of brakes, tires, road and the resuspension of road dust may contribute considerably to ambient air pollution. While exhaust particulate matter emissions are expected to decrease, non-exhaust emissions will rise due to higher traffic volume and the absence of legal regulations. However, there is still limited scientific knowledge of non-exhaust emissions, especially for the climate conditions found in central Europe. In the present work, different measurement methods were developed to investigate non-exhaust particle emissions from a light duty vehicle under real world conditions. The potential generation of ultrafine particles from the tire/road interface was investigated with real time measurement devices at different locations in the wheel housing. Different driving situations like cornering, braking, acceleration and steady straight driving with varying severity were tested. A tracer gas experiment allowed the estimation of an upper limit of the emission factor during normal straight driving. A trailer based measurement approach was developed to estimate road dust emissions. Wind tunnel tests, air flow measurements and tracer gas experiments were conducted to characterize the wake of the vehicle which allowed the quantification of the emissions. Much emphasis was placed on representative sampling, which demanded the application of special designed sampling inlets. Different test drives were performed on unpaved roads, agricultural (dust loaded) paved roads and more than 800 km of real world roads, covering a wide range of road conditions present in Central Europe.</abstract>
+                    <abstract type="content" lang="ger">Fahrzeugseitige, Nicht-Abgaspartikelemissionen resultieren aus dem Abrieb von Bremsen, Reifen, Straße und der Resuspension von Straßenstaub und tragen wesentlich zur Luftverschmutzung bei. Während die abgasseitigen Partikelemissionen in Zukunft abnehmen werden, wird eine Zunahme der Nicht-Abgasemissionen durch steigendes Verkehrsaufkommen und dem Fehlen gesetzlicher Regelungen erwartet. Allerdings sind Nicht-Abgasemissionen derzeit nur begrenzt wissenschaftlich untersucht, speziell für die in Zentraleuropa vorherrschenden klimatischen Bedingungen. In dieser Arbeit wurden verschiedene Messmethoden entwickelt, um die Nicht-Abgaspartikelemissionen eines leichten Nutzfahrzeuges unter realistischen Bedingungen untersuchen zu können. Das potentielle Auftreten ultrafeiner Partikel von der Straßen/Reifen-Grenzfläche wurde mit hoher Zeitauflösung direkt an verschiedenen Stellen im Radkasten untersucht. Verschiedene Fahrsituationen wie Kreisfahrten, Bremsen, Beschleunigen und Geradeausfahrten wurden in mehreren Intensitätsstufen getestet. Ein Tracergas-Versuch ermöglichte hierbei die Abschätzung einer oberen Grenze des Emissionsfaktors für Geradeausfahrten. Es wurde eine anhänger-basierte Messmethode entwickelt, um die Emissionen durch die Aufwirbelung von Straßenstaub abschätzen zu können. Durch die Kombination von Messungen im Windtunnel, Luftströmungsmessungen und Tracergas-Experimenten konnte die Wirbelschleppe des Fahrzeuges untersucht werden, wodurch eine Quantifizierung der Emissionen ermöglicht wurde. Besonderes Augenmerk wurde auf eine repräsentative Probenahme gelegt,was die Anwendung spezieller Sonden erforderte. Verschiedene Testfahrten auf nicht-asphaltierten Straßen,landwirtschaftlich genutzten (staub-beladenen) Straßen und mehr als 800 km öffentlich genutzter Straßen wurden durchgeführt, um eine große Zahl verschiedener Straßenbedingungen in Zentraleuropa abdecken zu können.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20121119-083853-2</identifier>
+                    <identifier type="sys">HT017467770</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3206</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3206">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2012/mathissen/dc1221.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3206"
+            DMDID="DMD_wuppertal_elpub_3206">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3206"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

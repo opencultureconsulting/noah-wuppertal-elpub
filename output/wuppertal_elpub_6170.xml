@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6170">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Methanol- und wasserlösliche Polyfluoren - Copolymere</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bötzer, Monique</displayForm>
+                        <namePart type="family">Bötzer</namePart>
+                        <namePart type="given">Monique</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Organic light emitting diodes (OLED) are at the present time electronic devices of increasing importance.
+ In the last few years the OLED technology could be improved by the introduction of multi-layer systems and it is now commercially available in the form of lighting devices and displays. However the processing of OLEDs based on low molecular weight compounds is comparatively expensive based on the vacuum techniques that are used for OLED manufacturing. 
+ The synthesis of polymer-based multi-layer OLEDs could be by far cheaper. These can be fabricated by solution-based techniques as spin-coating. However, during the generation of the different layers, the respective layers underneath are often eroded because the corresponding polymers are usually soluble in the same solvents. Therefore material loss and phase mixing could occur. One way to avoid this problem is the use of orthogonal solvents. To realize this method, it is necessary to prepare polymers that are soluble in polar solvents such as water or methanol. However the availability of such (conjugated) polymers is still very low to this day.
+ As part of this problem this thesis focuses on the synthesis of methanol- and water-soluble polymers. To accomplish this, conjugated polyelectrolytes (CPEs) were prepared based on anionic fluorene-monomers which introduce the corresponding solubility in the resulting copolymers through sulfonategroups. 
+ As a result of this work, a new anionic monomer could be made easily accessible by a ring-opening reaction of 2,7-dibromo-9,9-bis(propane-3-ol)fluorene with 1,4-butanesultone. In addition, the reaction conditions of the following Suzuki-coupling could be improved for the synthesis of CPEs. Due to the use of a water soluble palladium-catalyst and an appropriate solvent (H₂O/THF) it was possible to carry out the reactions without any phase transfer. Furthermore the entire reaction was carried out in a microwave-reactor, through which the reaction-time could be reduced substantially.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20160920-101219-7</identifier>
+                    <identifier type="sys">HT019130393</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6170</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6170">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2016/boetzer/dc1621.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6170"
+            DMDID="DMD_wuppertal_elpub_6170">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6170"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

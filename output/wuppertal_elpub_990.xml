@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_990">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Analyse, Optimierung und Entwicklung von Mikrowellen-angeregten Plasmaquellen mittels numerischer Simulation</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kytzia, Sebastian</displayForm>
+                        <namePart type="family">Kytzia</namePart>
+                        <namePart type="given">Sebastian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-06-05</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Plasmatechnologie ist heute in einer Vielzahl von industriellen Prozessen die entscheidende Schlüsseltechnologie, wodurch das Interesse an dieser Technik im breitbandigen Maßstab für industrielle Anwendungen stark anwächst. Gegenwärtig geschieht die Entwicklung von Mikrowellen- Plasmaquellen (MWPQ) nach dem „Trial and Error“-Prinzip, sodass keine systematische zielgerichtete Vorgehensweise vorliegt. Die Forderung nach einem globalen Ansatz mit kommerziellen Mitteln wächst daher gravierend an. Daher wird in dieser Arbeit ein globaler aber ingenieursmäßiger einfacher Modellansatz zur Berücksichtigung des Plasmas im Quellendesign für industrielle technische Plasmen präsentiert. Dieser Ansatz besteht in der numerischen Feldberechnung, bei der das Plasma durch das Einblockmodell mit Drude-Dispersion berücksichtigt wird. Hierdurch wird die Analyse sowie die zielgerichtete Optimierung und Entwicklung von MWPQ’s, unter Beachtung gegebener Designkriterien, in sehr guter Übereinstimmung zur Realität erreicht. Die Verifikation dieses Modellansatzes erfolgt an einer µSLAN für Prozesstemperaturen oberhalb von 1000°C und einer Ätzquelle durch Langmuirsondenmessungen, CCD-Bildern und Thermographieaufnahmen am realen Plasma. Es wird gezeigt, dass die Simulationsparameter den Plasmaparametern in hervorragender Weise entsprechen.</abstract>
+                    <abstract type="content" lang="eng">Plasma technology is the crucial key technology today in many industrial processes, which means that general interest in this technology for industrial applications on a wide scale is increasing considerably. Microwave plasma sources (MWPQ) are currently being developed according to the “trial and error” principle, thus no specific methodical approaches exist. The demand for a global approach with commercial resources therefore continues to rise significantly. This paper thus presents a global yet simple engineering-oriented model approach for considering plasma in the source design for industrial technical plasmas. This approach consists of numeric field calculation, in which the plasma is considered by the one-block model with Drude dispersion. This enables both the analysis and the specific optimization and development of MWPQs, taking into account given design criteria, to be achieved on a basis soundly conform with reality. This model approach is verified using a µSLAN for process temperatures above 1000°C and an etching source by Langmuir probe measurements, CCD images and thermography recordings with real plasma. It is shown that the simulation parameters correspond to the plasma parameters outstandingly.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20090642</identifier>
+                    <identifier type="sys">HT015966951</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_990</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_990">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2009/kytzia/de0902.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_990"
+            DMDID="DMD_wuppertal_elpub_990">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_990"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

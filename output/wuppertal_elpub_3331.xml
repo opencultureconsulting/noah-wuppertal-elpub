@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3331">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>New Insights on the ICT Sector in Germany - Empirical Studies on ICT Firm Growth and Knowledge Spillover, ICT Cooperation Networks, and Early Stage Venture Capital Investments</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schröder, Christian</displayForm>
+                        <namePart type="family">Schröder</namePart>
+                        <namePart type="given">Christian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Chapter 2: 200 ICT companies based in Germany were interviewed to find out which regional and company specific factors have a measurable direct impact on corporate growth. The analysis found that firm age and size, export ratio, expenditure on research and development, product innovation, venture capital and concrete cooperation between companies have a direct effect on the growth of ICT companies. Surprisingly active participation in an ICT cluster has a negative impact on company growth or to be more precisely, it appears that predominant low growth ICT companies operating active in clusters. 
+
+Chapter 3: High innovation capability is indispensable for generating economic growth in developed economies. Cooperations in the innovation process are entered into by companies for reasons of risk diversification or costs and often considered to be an efficient strategy to increase a company&apos;s knowledge basis. Regional economic literature very often believes that regional agglomeration of companies, i.e. cluster formation, will also lead to increased local networking, i.e. also to cooperations between companies or between company and research institutes in the innovation process. A network analysis of the two German ICT regions performed with patent data was able to show that cluster formation coincides with a dynamic increase of cooperations measured by joint patent applications. However, the cooperations are characterized by integration of extra-regional companies and research institutes rather than being intraregional. 
+
+Chapter 4: Improving access to finance is one of the key factors for increasing the number of innovative business start-ups with high growth potential. In this context, venture capitalists (VCs) have successfully dealt with the problems of financing innovative projects. The existing literature suggests that VC investments are strongly negatively affected by the characteristics of a bank-centered financial system and this negative influence could be one reason for different VC investment levels across the OECD countries. This paper is the first analysis that includes the relative size of the banking sector to produce evidence regarding whether, as is suggested in the predominant theoretical financial literature, the negative impact of a more bank-based financial system can withstand the empirical evidence The fundamental argument supplied by Black and Gilson argues that banks are not able to duplicate the implicit contract regarding future control as a market-based system can. Additionally, a more market-based system provides more lucrative exits via IPOs. Whereas markets are complements for VC, banks are to some extend substitutes. The panel analysis conducted for 16 OECD countries supports this view.</abstract>
+                    <subject>
+                        <topic>Regional Science</topic>
+                        <topic>Cluster</topic>
+                        <topic>ICT</topic>
+                        <topic>Firm Growth</topic>
+                        <topic>Knowledge Spillover</topic>
+                        <topic>Spatial Spillover</topic>
+                        <topic>Innovation Networks</topic>
+                        <topic>Social Network Analysis</topic>
+                        <topic>Early Stage Venture Capital</topic>
+                        <topic>Risk Capital</topic>
+                        <topic>Financial System</topic>
+                        <topic>Financing Innovations</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20130125-123433-5</identifier>
+                    <identifier type="sys">HT017534952</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3331</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3331">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2012/schroeder/db1201.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3331"
+            DMDID="DMD_wuppertal_elpub_3331">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3331"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

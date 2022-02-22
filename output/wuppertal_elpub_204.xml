@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_204">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>ParTerre.</title>
+                        <subTitle>Studien und Materialien zur Kulturgeschichte des gestalteten Bodens.</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Zika, Anna</displayForm>
+                        <namePart type="family">Zika</namePart>
+                        <namePart type="given">Anna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-08-27</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Dissertation beschäftigt sich unter Berücksichtigung der Fachdisziplinen Kunst-, Sozial-, Rechts- und allgemeine Kulturgeschichte mit dem Wandel, dem das Verhältnis von Menschen zum Boden (z.B. als Ackerboden, als Fußboden im Innenraum, als Grabstelle, als Grundbesitz, als Motiv der bildenden Kunst) unterworfen war. Behandelt werden u.a. - das archaische Vorstellungsbild der Erde als einer großen Mutter, die aus sich heraus selbsttätig Leben hervorbringt und es auch wieder aufnimmt. - In der Landwirtschaft und der B&gt;Gartenkunst flossen lebenserhaltende und ästhetische Aspekte zusammen: aus dem Erdboden wurde Nahrung gewonnen, zugleich wurde er Gestaltmustern einer &quot;höheren Ordnung&quot; eingepaßt. - Bilderzählungen oder aufwendige Ornamente schmückten Fußböden in Sakral- und Repräsentationsräumen bis in die Renaissance. - Die Kulturgeschichte der Erdbestattung verknüpft religiöse, hygienische, siedlungspolitische, ökonomische und gestalterische Fragestellungen. - Grenzen definieren als gedachte oder gebaute Bodenlinien politische Herrschaftsbereiche. - Wege und Straße ermöglichen Kommunikation innerhalb und zwischen Territorien. Ihre Netzwerke, sowie Merkmale der Erdoberfläche werden in Karten dargestellt. - Die bildnerische Darstellung von Bodenstreifen&quot; beförderte den Werdegang der Landschaftsmalerei seit etwa 1300. In der Renaissance half die malerische Wiedergabe von gemusterten Fußböden bei der perspektivischen Bildkonstruktion von Innenräumen. - Die Bodenskulptur trainiert den Kunstbetrachter auf ein verändertes Rezeptionsverhalten, den &quot;Blick nach unten&quot;. Land-Art und Earthworks tragen seit etwa 1960 dazu bei, daß sich Menschen des Erdbodens, von dem sie abhängen, wieder gegenwärtig werden. Als Reclamation Art begleitet sie ökologische Debatten, indem sie vor Augen führt, welche Konsequenzen z.B. die Kontaminierung von Böden haben kann.</abstract>
+                    <abstract type="content" lang="eng">The Dissertation is about the change of the relationship between people and the bottom as it is shaped as soil, floor, grave, estate or as a motif in arts. Dealing with aspects of history of arts, social, cultural or legal history various items are focused: - the archaic Image of the Earth as a Great Mother, who bears and takes life; - Agriculture and Gardening connect preservation of life and esthetics: people took nurture out of the soil and forced the ground into patterns of order and power. - Pictures or cosmological ornaments were presented on the floors of churches and palaces up to the renaissance. - The cultural history of the grave connects religious, hygienic and economic aspects with the necessaries of design and town planning. - Political territories are defined by Borders as real or virtual lines on the ground. - Ways and streets enable communication within and between territories. Their networks and characteristics of the ground are presented in maps. - The pictoral presentation of &quot;stripes of ground&quot; is an important element in the development of landscape painting since about 1300. During the renaissance the painting of patterned floors helped to construct interiors with the means of central perspective. - The sculpture on the floor trained the art recipient in his &quot;viewing downwards&quot;. Land-Art and Earthworks caused people since about 1960 to be aware of the ground, on which they depend. Under the name of Reclamation Art the projects visualize the ecological discussions by showing the consequences of contamination and devastation of the ground.</abstract>
+                    <classification authority="ddc">710</classification>
+                    <classification authority="ddc">390</classification>
+                    <classification authority="ddc">340</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Design und Kunst » Kommunikationsdesign"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20010492</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_204</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_204">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-304/d050102.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_204"
+            DMDID="DMD_wuppertal_elpub_204">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_204"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

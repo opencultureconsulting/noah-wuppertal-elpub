@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_854">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Jacobi-Davidson Type Methods for Computing Rovibronic Energy Levels of Triatomic Molecules</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Langer, Peter</displayForm>
+                        <namePart type="family">Langer</namePart>
+                        <namePart type="given">Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-08-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Aufgabe, Lösungen der zeitunabhängigen Schrödinger-Gleichung zu bestimmen, ist eine schon seit langem bestehende enorme Herausforderung in vielen wichtigen naturwissenschaftlichen Themenfeldern. Da symbolische Lösungen des Operator-Eigenwertproblems nur in den seltensten Fällen explizit angegeben werden können, ist man zumeist gezwungen, auf numerische Techniken -- insbesonders auf Verfahren für gigantische hermitesche Eigenwertprobleme -- zurückzugreifen.
+ In der vorliegenden Arbeit befassen wir uns mit dem speziellen Fall drei-atomiger Moleküle, die den sogenannten &quot;doppelten Renner Effekt&quot; aufweisen. Wir erläutern zunächst den Ursprung sowie den theoretischen Hintergrund des abstrakten Schrödinger Problems und diskutieren gangbare Techniken für den Übergang zu endlich dimensionalen hermiteschen Matrizen, die den ursprünglichen Hamilton-Operator hinreichend gut approximieren und somit einer numerischen Behandlung zugänglich machen. Auf Grund des enormen Speicherbedarfs und der immensen Rechenzeiten, die sich schnell auf bis zu mehrere Wochen erstrecken können, ist die Anwendung konventioneller, so genannter direkter Löser (QR Verfahren, RRR Algorithmus) entweder nicht möglich oder nicht ratsam.
+ Unser Hauptaugenmerk bei der Behandlung des Matrix-Eigenwertproblems liegt daher auf Varianten des Jacobi-Davidson Verfahrens, die zur alternativen Klasse der iterativen Projektionsmethoden zählen. 
+ Unser Ziel ist es zu zeigen, dass diese Verfahren in unserem Kontext erfolgreich angewendet werden können, d.h. dass sie -- was die Rechenzeit anbelangt -- zumeist effizienter sind als direkte Eigenlöser einerseits und die übrigen Verfahren aus der Klasse der iterativen Projektionsmethoden (Lanczos, Davidson, Olsen) andererseits. Um dies bewerkstelligen zu können, müssen wir geeignete Präkonditionierer für die auftretenden Shift-and-Invert Systeme identifizieren und konstruieren, welche die Problem-spezifischen Informationen ausnutzen. Außerdem sind dem Problem angepasste Routinen für die Matrix-Vektor Multiplikation entscheidend für den Erfolg unseres Ansatzes. Wir erläutern unsere Ideen an Hand umfangreicher numerischer Experimente und Resultate.</abstract>
+                    <abstract type="content" lang="eng">The task of solving the stationary Schrödinger equation is a longstanding and enormous challenge in many important areas of natural sciences. As explicit symbolic solutions of the operator eigenvalue problem are only attainable in very rare cases, one mostly has to resort to numerical techniques, especially to methods for giant Hermitian eigenvalue problems.
+ In this thesis we are concerned with the specific case of triatomic molecules that exhibit the so called Double-Renner effect. To begin with, we explain the origin and the theoretical background of the abstract Schrödinger problem and we discuss viable techniques for the transition to suitable finite dimensional Hermitian matrices that approximate the original Hamiltonian in a reasonable fashion, and thus, make it accessible for a numerical treatment. However, due to tremendous storage requirements and computing times, that may soon extend to a couple of weeks, the use of conventional so-called direct solvers (QR method, RRR algorithm) is either not feasible or not advisable. Therefore, our main focus for the treatment of the matrix eigenvalue problem is on Jacobi-Davidson type methods that belong to the alternative class of iterative projection algorithms. 
+ Our aim is to show that these methods may be successfully applied in our context, in the sense that they are more efficient in terms of computing time than direct eigensolvers on the one hand, and the fellow algorithms of the iterative projection method class (Lanczos, Davidson, Olsen) on the other hand. To do so, we have to construct and to identify suitable preconditioners for the arising shift-and-invert systems that take advantage of the inherent information of the specific problem. Besides, efficient and problem-adjusted routines for matrix-vector multiplication are decisive for the success of our approach.Our ideas are illustrated and confirmed by extensive numerical experiments and results.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20090849</identifier>
+                    <identifier type="sys">HT016061108</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_854</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_854">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2008/langer/dc0832.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_854"
+            DMDID="DMD_wuppertal_elpub_854">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_854"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

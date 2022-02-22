@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5910">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Globale Abhängigkeitsanalyse und Visualisierung zur Parallelisierung sequentieller Programmsysteme</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Potthoff, Nils</displayForm>
+                        <namePart type="family">Potthoff</namePart>
+                        <namePart type="given">Nils</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die aktuelle Entwicklung von Prozessoren hat zu einer weiten Verbreitung von Multi- und Many-Core-Prozessoren geführt. Demgegenüber steht nach wie vor das etablierte sequentielle Programmierparadigma. Eine effiziente Entwicklung mehrerer parallel arbeitender Instanzen erfordert in der Regel die explizite Programmierung von Kommunikations- und Synchronisierungsaufgaben. Durch das zusätzlich benötigte Wissen über die Zielarchitektur und parallele Algorithmen erreicht Softwareentwicklung eine höhere Komplexität. Dies geht einher mit einem erhöhten Fehlerrisiko. Zudem werden Reimplementierungen etablierter Programme notwendig. Um den Entwicklungsaufwand gering zu halten und zugleich von Mehrkernarchitekturen profitieren zu können, verfolgt diese Forschungsarbeit einen Ansatz zur rechnergestützten Parallelisierung sequentieller Programme mittels eines Zerlegungsmodells. Fragmentierungsansätze wurden herangezogen und in Hinblick auf das Ziel adaptiert, um deren Eignung für die Parallelisierung und mögliche Strategien zu prüfen. 
+
+ Das für weitere Schritte gewählte Modell führt zu Fragmenten, bei denen alle Kontroll- und Datenflüsse bekannt sein müssen. Konkrete Datenabhängigkeiten sind für die Ausführungsdauer einzelner Fragmente zudem statisch. Dadurch wird eine Umordnung in der Ausführung möglich. In der Arbeit werden Parallelisierungsstrategien auf Basis ermittelter Kontroll- und Datenflussabhängigkeiten zwischen gebildeten Fragmenten eines Programmsystems präsentiert. Um Entwicklern einen Eindruck über existierende Abhängigkeiten vermitteln zu können, ist Visualisierung ein geeignetes Mittel. Diese wird für reale Anwendungen schnell komplex. Die besonderen Eigenschaften des zugrundeliegenden Modells erlauben einen Vergleich mit digitalen bzw. kombinatorischen Schaltungen. Es wird der daraus abgeleitete Visualisierungsansatz präsentiert. Darüber hinaus ergibt sich zudem eine mögliche Transformation in Schaltungen auf Systemebene, welche diskutiert wird. 
+
+ Für eine Umordnung der Ausführung zur Nutzung der Parallelität wurde ein Ausführungsmodell entwickelt. Dieses basiert auf einer Ablaufplanung, welche durch Kapselung der Fragmente und Abflachung der Aufrufhierarchie möglich wird. Das Verhalten dieses Modells wird hinsichtlich parallelisierbarer Strukturen diskutiert. Konkrete Ausprägungen der theoretisch entwickelten Strategien werden anhand von Beispielen belegt.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Informationstechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20160621-102956-7</identifier>
+                    <identifier type="sys">HT019014832</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5910</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5910">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/informationstechnik/diss2016/potthoff/de1604.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5910"
+            DMDID="DMD_wuppertal_elpub_5910">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5910"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

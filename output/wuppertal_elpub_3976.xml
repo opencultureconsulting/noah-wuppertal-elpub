@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3976">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Adaptive use of extended systems for the efficient verified solution of nonlinear systems</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Just, Elke</displayForm>
+                        <namePart type="family">Just</namePart>
+                        <namePart type="given">Elke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This thesis discusses existing methods for the reliable solution of nonlinear systems of equations and presents various approaches to improve these methods. The reliability of all methods is ensured by the application of interval analysis. 
+
+In particular, the issue of utilizing extended systems is addressed. These systems are obtained from the given system of equations by the introduction of additional variables for suitable subterms. 
+
+An existing approach to control the usage of extended systems in an overall branch-and-bound scheme is presented. Subsequently, a new, adaptive strategy is developed. This adaptive strategy allows to exploit the advantages of the different extended systems well-aimed and effectively. We further give detailed considerations concerning the usage of the preconditioned interval Newton method on the extended systems. 
+
+Although the adaptive strategy provides the title for this work, the discussion of techniques for the reliable solution of nonlinear systems is interspersed with further deliberations for improvements. 
+
+Another significant part of this work is dedicated to the issue of verification tests. These tests can verify the existence and even uniqueness of solutions in a given bounded box. Existing verification methods are discussed and different modifications of the tests are examined. A general scheme to apply verification tests for square systems is given. For non-square systems we discuss the verification of square subsystems and especially possibilities to fix the variables of underdetermined systems. 
+
+Our theoretical considerations are supported by numerical studies within the framework of the software SONIC, in which the proposed algorithms and strategies have been implemented and tested.</abstract>
+                    <abstract type="content" lang="ger">Im Rahmen dieser Arbeit werden verschiedene Ansätze zur Verbesserung existierender Methoden zum verifizierten Lösen nichtlinearer Gleichungssysteme diskutiert und diverse Ansätze zur Verbesserung dieser Methoden vorgestellt. Die Verlässlichkeit dieser Methoden wird durch die Anwendung der Intervallrechnung gewährleistet. 
+
+Besondere Aufmerksamkeit wird auf die Betrachtung erweiterter Systeme gelegt. Diese entstehen, wenn in ein vorgegebenes System zusätzliche Variablen für geeignete Teilterme eingeführt werden. 
+
+Es wird ein bekannter Ansatz zur Nutzung erweiterter Systeme innerhalb eines Branch-and-Bound-Verfahrens vorgestellt. Anschließend wird ein neuer, adaptiver Ansatz entwickelt. Dieser adaptive Ansatz erlaubt es, die Vorteile der verschiedenen erweiterten Systeme gezielter und effektiver auszunutzen. Des Weiteren werden detaillierte Überlegungen zur Nutzung des präkonditionierten Intervall-Newton-Verfahrens auf den erweiterten Systemen angestellt. 
+
+Obwohl die adaptive Strategie den Titel dieser Arbeit liefert, ist die Diskussion der Techniken für die verlässliche Lösung nichtlinearer Gleichungssysteme durchsetzt mit Überlegungen zu weiteren Verbesserungsmöglichkeiten. 
+
+Ein weiterer signifikanter Teil dieser Arbeit ist dem Thema der Verifikationstests gewidmet. Betrachtet werden Methoden zur Verifikation der Existenz und Eindeutigkeit von Lösungen nichtlinearer Gleichungssysteme. Es werden Tests zur Verifikation von Lösungen diskutiert und Modifikationen dieser Tests untersucht. Zudem wird ein Schema zum Einsatz der Verifikationstests für quadratische Systeme angegeben. Für nichtquadratische Systeme wird die Verifikation quadratischer Untersysteme besprochen, insbesondere im Hinblick auf die Fixierung von Variablen für unterbestimmte Systeme. 
+
+Die theoretischen Ausführungen werden unterstützt durch numerische Studien im Rahmen des Programms SONIC, in dem die vorgeschlagenen Algorithmen und Strategien umgesetzt und getestet wurden.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20140618-104905-4</identifier>
+                    <identifier type="sys">HT018301761</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3976</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3976">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2013/just/dc1328.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3976"
+            DMDID="DMD_wuppertal_elpub_3976">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3976"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

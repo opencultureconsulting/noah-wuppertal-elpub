@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_2951">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Phosphorescent iridium(III) complexes, copolymers and their applications</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Tian, Nan</displayForm>
+                        <namePart type="family">Tian</namePart>
+                        <namePart type="given">Nan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This work is firstly focused on the synthesis of green, orange-red and red emitting heteroleptic iridium(III) complexes and their application as emitting materials in the area of OLEDs and oxygen sensors. Furthermore, in order to obtain energy transfer from the polymer backbone (host material) to the polymer-incorporated iridium(III) complexes (guest material), a series of metallo-copolymers were designed and synthesised. 
+
+Three phenylpyridine-based C^N ligands, namely 1-phenylisoquinoline (1, piq), 2- (naphthalen-1-yl)pyridine (2, npy) and 2-phenylpyridine (3, ppy) and a series of different ancillary acetylacetone (acac) ligands (4-8) containing dibromo-, hexylthiophene- and hexylphenyl-functionalised carbazoles were synthesised by C-C cross-coupling reactions, nucleophilic substitutions and Claisen condensations, and were ongoing characterised by ¹H NMR, 13C NMR, elemental analysis, mass- and IR-spectra. Thus, five sets of heterolepic iridium(III) complexes (12-16a-c) emitting green, orange-red and red light were further obtained and a series of 1-D (¹H) and 2-D (¹H-¹H) NMR experiments were used to confirm the structure of the complexes. Owing to these complexes introduced ancillary acetylacetone ligands furnished with a carbazole unit or its derivatives, their solubility, thermal stability and photo(electro)-luminescence properties were obviously improved. For example, these iridium(III) complexes reveal high quantum yields (44% for 16c), luminous efficiency (10.3 Cd/A for 13b), short phosphorescence lifetimes (1.1 μs for 12a and 16c) and good thermal stabilities (353 °C for 14c). In addition, utilising these iridium(III) complexes as temperature sensors, the variations in the luminescence lifetimes of these complexes with the varied temperature revealed a non-linear curve and are described by an Arrhenius-type equation. 
+
+Additionally, two types of fluorene-based copolymers with iridium(III) complex (25) or iridium(III) complex and fluorenone incorporated into the polyfluorene main chains (26 and 27) were synthesised via a Yamamoto protocol. The OLED devices of the copolymer 25 with the configuration ITO/PEDOT/QUPD/copolymer25/ TPBI/CsF/Al generate electroluminescence with the maximum peak at 604 nm, while emission maximum at 535 nm for 26 and 566 nm for 27 was observed. The examination of the electroluminescence emission maximum of copolymer 25 is the most possible evidence for energy-transfer from the fluorene backbone to the iridium-containing carbazole segments or for charge trapping.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20120726-104854-7</identifier>
+                    <identifier type="sys">HT017331178</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_2951</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_2951">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2011/tian/dc1131.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_2951"
+            DMDID="DMD_wuppertal_elpub_2951">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_2951"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

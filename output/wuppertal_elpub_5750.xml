@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5750">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Über die Entwicklung neuer Methoden zur iterativen Polyketidsynthese und die Synthese und Reaktivität organischer geminaler Diazide</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Häring, Andreas</displayForm>
+                        <namePart type="family">Häring</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Der erste Teil der vorliegenden Arbeit beschäftigt sich mit neuen methodischen Ansätzen zur iterativen Polyketidsynthese. Konkret werden grundlegende Arbeiten zur automatisierbaren 1,3-Polyolsynthese beschrieben. Dabei wird die Anwendung einer festphasenbasierten iterativen Polyolsynthese vorgestellt. Des Weiteren wird eine neue zweistufige Methode zur 1,3-Polyolsynthese mit absoluter Stereokontrolle untersucht. Diese basiert auf der Verwendung von Phosphanoxiden mit chiralen organischen Seitenketten als Olefinierungsreagenzien. Die zugrundeliegende Idee umfasst die Olefinierung eines Aldehyds mit diesen Phosphorreagenzien und anschließende Hydrierung des entstehenden Vinylethers. Hierdurch wäre eine Verlängerung der Polyolkette um vier Kohlenstoffatome mit zwei Stereozentren pro Iteration möglich.
+ Im zweiten Teil der Arbeit wird zunächst eine neue Synthesemethode geminaler Diazide und ein geschlossener Mechanismus dieser Reaktion präsentiert. Die neue Methode verwendet einfach verfügbares, in situ-generiertes Iodazid als oxidatives Azidierungsreagenz. Im Anschluss werden grundlegende Experimente zur thermischen Reaktion geminaler Diazide beschrieben. Der Fokus des zweiten Teils liegt auf der Reaktion geminaler Diazide mit Aminen. Diese bisher unbekannte Reaktivität wird an vielen Beispielen vorgeführt. Abschließend werden mechanistische Aspekte der Reaktion von 2,2-Diazidoacylacetaten mit Aminen diskutiert und ein vorläufiger mechanistischer Rahmen entwickelt.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20160428-112400-2</identifier>
+                    <identifier type="sys">HT019376704</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5750</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5750">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2016/haering/dc1605.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5750"
+            DMDID="DMD_wuppertal_elpub_5750">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5750"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_4990">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Innovation Dynamics in the Mobile Communications Market: Current Trends, Empirical Analysis and Policy Options</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Syraya, Olga</displayForm>
+                        <namePart type="family">Syraya</namePart>
+                        <namePart type="given">Olga</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Welfens, Paul J.J.</displayForm>
+                        <namePart type="family">Welfens</namePart>
+                        <namePart type="given">Paul J.J.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schneider, Kerstin</displayForm>
+                        <namePart type="family">Schneider</namePart>
+                        <namePart type="given">Kerstin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Modern 3G mobile technologies as a part of ICT sector belong to key enabling technologies. They have witnessed a fast international diffusion in Europe and beyond and are a target of several recent EU policy initiatives. Considering the framework of the lead market theory and of the innovation system approach, one may identify some key elements of mobile diffusion dynamics. It was established that with the introduction of 3G, new international leaders have emerged – Slovenia, Japan and South Korea. Based on key elements from the lead market theory, an empirical implementation for 3G mobile adoption in a selected sample of OECD countries is developed - with rather robust results. The results of empirical analysis imply that technical sophistication of users and their familiarity with the previous generation of mobile technologies was one of the main drivers of 3G adoption. These results and suggested policy measures should also have implications for the development of future generations of mobile technologies.</abstract>
+                    <subject>
+                        <topic>Innovation Diffusion</topic>
+                        <topic>Innovation System</topic>
+                        <topic>Mobile Communications</topic>
+                        <topic>Mobile Broadband</topic>
+                        <topic>3G</topic>
+                        <topic>UMTS</topic>
+                        <topic>Lead Market Theory</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20150716-161620-0</identifier>
+                    <identifier type="sys">HT018708105</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_4990</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_4990">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2014/syraya/db1405.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_4990"
+            DMDID="DMD_wuppertal_elpub_4990">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_4990"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

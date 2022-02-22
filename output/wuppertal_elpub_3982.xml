@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3982">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Integration based solvers for standard and generalized Hermitian eigenvalue problems</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Krämer, Lukas</displayForm>
+                        <namePart type="family">Krämer</namePart>
+                        <namePart type="given">Lukas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Diese Arbeit beschäftigt sich mit der Berechnung von Eigenwerten und Eigenvektoren von großen Hermiteschen Matrizen und von Hermitesch/Hermitesch positiv definiten Matrix-Paaren. Die zentrale Technik, die dabei zum Einsatz kommt, ist die numerische Integration der Resolvente der Matrix (bzw. des Matrix-Paares). Es stellt sich heraus, dass das Problem, die Resolvente zu integrieren, äquivalent zu einem gewissen Approximationsproblem ist. Es werden einige Beiträge zur Theorie dieser Algorithmenklasse geleistet, zusammen mit praktischen Betrachtungen. Außerdem werden einige Ergebnisse zur allgemeinen Theorie des verallgemeinerten Eigenwertproblemes vorgestellt.</abstract>
+                    <abstract type="content" lang="eng">This thesis is about the computation of eigenvalues and eigenvectors of large Hermitian matrices and of Hermitian/Hermitian positive definite matrix pairs. The core technique employed is numerical integration of the resolvent of the matrix (pair). It turns out that the problem of integrating the resolvent is equivalent to a certain approximation problem which can be solved in several ways. A number of contributions to theory of this class of algorithms are made, together with practical considerations. Furthermore, some results concerning the general theory of generalized eigenvalue problems are presented.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20140701-112141-6</identifier>
+                    <identifier type="sys">HT018315053</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3982</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3982">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2014/kraemer/dc1410.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3982"
+            DMDID="DMD_wuppertal_elpub_3982">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3982"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_2555">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>Wert der Marke - eine finanztheoretische Sichtweise</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Krüger, Guido</displayForm>
+                        <namePart type="family">Krüger</namePart>
+                        <namePart type="given">Guido</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die vorliegende Untersuchung ist dem Thema der Markenbewertung gewidmet. Der Verfasser erläutert die Problemstellung und den Aufbau der Untersuchung. Sodann werden die Grundlagen der Marken aus verschiedenen Sichtweisen, insbesondere rechtlich, dargestellt. Das dritte Kapital ist der Markenbewertung gewidmet. Es werden Markenbewertungsanlässe sowie eine Auswahl der im Schrifttum vorzufindenden Konzeptionen der Markenbewertung erläutert. Nach der Erläuterung der Grundsätze der Markenbewertung und des IDW Standards zur Markenbewertung werden die bisherigen Wertermittlungsansätze kritisch bewertet. Im vierten Kapital wird ein eigenes Markenbewertungsmodell vorgestellt. Dieses stützt sich auf realoptionstheoretische Bewertungsansätze und versucht eine der Marke zuzurechnenden Anteil am Aktienkurs zu identifizieren. Das theoretische Bewertungsmodell wird dabei empirisch validiert. Das vorgestellte Markenbewertungsmodell sei ein transparentes mit überschaubaren Datenmengen einsetzbares Modell.</abstract>
+                    <abstract type="content" lang="eng">The present study is dedicated to the evaluation of brands. To start with, the author introduces the specific subject and outlines the fundamental structure of the study. Then follows a description of foundations of brands seen from various perspectives with an emphasis on a legal view. The third chapter is dedicated to the evaluation of brands. It clarifies a number of reasons why it may be feasible or necessary to evaluate brands and specifies a selection of concepts for such brand evaluations, appearing in literature. After illustrating the key principles of brand evaluation and the standards for the evaluation of brands as defined by IDW (Institut der Wirtschaftsprüfer in Deutschland e.V. [Institute of Public Auditors in Germany, Incorporated Association]), the former valuation approaches are critically assessed. In the fourth chapter the author suggests his own brand evaluation model which is based upon valuation approaches relying on the real options theory, attempting to identify the ratio of a share price to be attributed to the brand. This includes an empirical validation of such a theoretical evaluation model. According to the author, the brand evaluation model presented in this study is a transparent model which is applicable even with manageable data volumes.</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20120217-093641-4</identifier>
+                    <identifier type="sys">HT017148508</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_2555</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_2555">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2011/krueger/db1102.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_2555"
+            DMDID="DMD_wuppertal_elpub_2555">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_2555"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

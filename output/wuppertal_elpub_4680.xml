@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_4680">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Stochastic Methods for the Fermion Determinant in Lattice Quantum Chromodynamics</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Finkenrath, Jacob Friedrich</displayForm>
+                        <namePart type="family">Finkenrath</namePart>
+                        <namePart type="given">Jacob Friedrich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In this thesis, algorithms in lattice quantum chromodynamics will be presented by developing and using stochastic methods for fermion determinant ratios. For that an integral representation will be proved which can be used also for non hermitian matrices. The stochastic estimation or the Monte Carlo integration of this integral representation introduces stochastic fluctuations which are controlled by using Domain Decomposition of the Dirac operator and introducing interpolation techniques. 
+ Determinant ratios of the lattice fermion operator, here theWilson Dirac operator, are needed for corrections of the Boltzmann weight. These corrections have interesting applications e.g. in the mass by using mass reweighting. It will be shown that mass reweighting can be used e.g. to improve extrapolation in the light quark mass towards the chiral or physical point or to introduce an isospin breaking by splitting up the mass of the light quark. Furthermore the extraction of the light quarkmasses will be shown by using dynamical 2 flavor CLS ensembles. 
+ Stochastic estimation of determinant ratios can be used in Monte Carlo algorithms, e.g. in the Partial Stochastic Multi Step algorithm which can sample two mass–degenerate quarks. The idea is to propose a new configuration weighted by the pure gauge weight and including afterwards the fermion weight by using Metropolis accept–reject steps. It will be shown by using an adequate interpolation with relative gauge fixing and a hierarchical filter structure that it is possible to simulate moderate lattices up to (2.1 fm)⁴. Furthermore the iteration of the pure gauge update can be increased which can decouple long autocorrelation times from the weighting with the fermions. 
+ Moreover a novel HybridMonte Carlo algorithm based on Domain Decomposition and combined with mass reweighting will be presented. By using Domain Decomposition it is possible to split up the mass term in the Schur complement and the block operators. By introducing a higher mass in the Schur complement an effective cut–off parameter is introduced and sampling of smaller quarkmasses is possible. By usingmass reweighting the weight can be corrected towards 1+1 ensembles. 
+ In summary it will be shown how stochastic estimation of fermion determinant ratios can be used to improve lattice results in an efficient way with limited numerical effort.</abstract>
+                    <abstract type="content" lang="ger">In dieser Arbeit werden Algorithmen, die die stochastische Schätzung von Determinanten-Verhältnissen verwenden, im Bereich der Gittereichtheorie beschrieben und eingeführt. Dafürwurde für die Schätzung eine Integraldarstellung einer komplexen Matrix bewiesen und verwendet. Die Schätzung kann dabei durch Methoden, wie die Gebietszerlegung des Dirac Operators oder Interpolationstechniken verbessert und kontrolliert werden. 
+ Im Boltzmannfaktor der Gittereichtheorie müssen genau dann Determinanten- Verhältnisse betrachtet werden, wenn die Wirkung der Fermionen geändert wird, hier die Wilson-Dirac Wirkung. Dies ist der Fall bei Massenkorrekturen der Quarks, auch als “Mass Reweighting” bekannt. Hier wird Mass Reweighting benutzt, um die Extrapolation in der Masse der leichten Quarks zum chiralen oder physikalischen Punkt zu verbessern und um die Brechung der Isospin–Symmetrie in den leichten Quarks herbeizuführen. Des Weiteren werden die Massen der leichten Quarks auf CLS Ensembles für einen finiten Gitterabstand bestimmt. 
+ Die stochastische Schätzung kann auch inMonte CarloAlgorithmen benutzt werden, wie dem Partial Stochastic Multi Step Algorithmus, der Ensembles gewichtet mit zwei Quarks der gleichen Masse. Es wird gezeigt, dass es mit einer adäquaten Interpolationstechnik mit relativer Eichfixierung und einer hierarchischen Filterstruktur möglich ist, moderat große Gitter bis zu einer Größe von (2.1 fm)⁴ zu simulieren. Die Idee des Algorithmus ist, die neue Konfiguration durch ein reines Eich-Update vorzuschlagen und im Nachhinein unter Einbeziehung des Fermionengewichts durch Metropolis Akzeptanzschritte zu berichtigen. Dies hat den Vorteil, dass die Iteration des Eichupdates unabhängig von der Fermionengewichtung erhöhtwerden kann, so dass die Autokorrelationszeit dabei reduziert wird. 
+ Des Weiteren wird ein neuer Hybrid Monte Carlo Algorithmus kombiniert mit Mass Reweighting vorgestellt. Bei Benutzung von Gebietszerlegung ist es möglich, denMassenparameter imSchur-Komplement und in den BlockOperatoren aufzuspalten. Eine größereMasse imSchur Komplement fungiert dabei als effektiver Cut-Off Parameter, wodurch kleinere Quark Massen simuliert werden können. Durch Benutzung von Mass Reweighting kann das Boltzmann Gewicht eines Ensembles zu einem 1+1 Ensemble verändert werden. 
+ Zusammenfassend wird in dieser Arbeit gezeigt, wie stochastische Schätzungen von Determinanten-Verhältnissen dazu genutzt werden können, Resultate vom Gitter zu verbessern bei gleichzeitig geringerem rechnerischen Aufwand.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20150316-150522-7</identifier>
+                    <identifier type="sys">HT018585854</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_4680</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_4680">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2015/finkenrath/dc1502.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_4680"
+            DMDID="DMD_wuppertal_elpub_4680">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_4680"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1946">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Analytik und Elimination von perfluorierten Tensiden aus Prozesswässern der Galvanik</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Albers, Matthias</displayForm>
+                        <namePart type="family">Albers</namePart>
+                        <namePart type="given">Matthias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Perfluorinated tensides are of environmental concern because of their high stability, their potential for bioaccumulation and their toxicological characteristics. In some industrial applications, however, e.g. the electroplating industry, there is still no proper substitute for these substances. In electroplating processes, perfluorooctanesulfonic acid (PFOS) is by far the most commonly used perfluorinated surfactant. PFOS as a technical product usually contains small amounts of perfluorobutanesulfonic acid (PFBS). An alternative to the perfluorinated surfactants that has been applied successfully in certain electroplating processes is polyfluorinated 6:2 fluorotelomersulfonate (6:2 FTS).
+ For the determination of PFOS, PFBS and 6:2 FTS in electroplating processes, a sensitive and selective analytical procedure was developed. The tensides are separated from the chromate matrix by a liquid-liquid extraction combined with an ion-pairing reagent and analysed by LC-MS. This method shows a good reproducibility and high recoveries in the range of 82-118 %.
+ A central goal of this work was the separation of PFOS and 6:2 FTS from the process waters of an electroplating process. This was achieved by studying the adsorption of these surfactants on ion-exchange resins and activated carbon. The experiments showed that PFOS and 6:2 FTS are better adsorbed on ionic sites than on non-polar ones, with both the ion-exchanger and the activated carbon. To determine the influence of the chromate-containing matrix, adsorption experiments were conducted at different chromate levels. As suspected, the adsorption efficiency decreased at high chromate concentrations. This effect of chromate was stronger for PFBS and 6:2 FTS than for PFOS.
+ Continuous cleaning of a process water was simulated on a laboratory scale under various conditions. The results of this experiment showed that both the ion-exchanger and the activated carbon can effectively adsorb very low levels of PFOS, PFBS and 6:2 FTS. In a comparison of the adsorption isotherms, the ion-exchanger has a superior capacity and adsorption efficiency to the activated carbon. This is particularly true for PFOS that was adsorbed from a highly concentrated chromate solution (4.0 g/l CrO3) in a pilot plant (95 % efficiency on an ion-exchanger). The high affinity of the anion-exchanger for PFOS makes it better suited for a cleaning procedure by adsorption from electroplating processes. Some branches of the electroplating industry cannot substitute PFOS. The application of this surfactant would be possible, however, if the effluent to the waste-water stream could be reduced to a minimum by a clean-up procedure. A problem for the clean-up of the process-waters, on the other hand, is the presence of PFBS in technical PFOS products. PFBS is barely adsorbed by the ion-exchangers and can still enter the waste-water. The clean-up procedure described can only be reasonable when PFOS is applied in the process in pure form.
+ For the further treatment of the ion-exchangers after they are loaded with fluorinated surfactants, there are generally two possibilities. The first involves a high-temperature burning of these materials that completely decomposes both the resin and the surfactants. Another way is to recycle the surfactants and reuse them in the electroplating process. The elution of these tensides with common water-based systems, however, is not efficient. Because of this, other methods for the recycling of the surfactants were investigated. Both the elution with ammoniacal methanol and the extraction with ethyl acetate and tetrabutylammonium bromide are simple and yet effective ways to recycle the adsorbed fluorinated surfactants.
+ Although perfluorinated sulfonic acids can only be decomposed by a complex and costly high-temperature incineration, perfluorinated carboxylic acids can be decomposed by chemical oxidation. In this work, the oxidation of 6:2 FTS with peroxodisulfate was examined. The products obtained suggest that decomposition takes place by a stepwise degradation of the alkyl chain. This mechanism is very similar to the one suggested by other workers for the decomposition of perfluorinated carboxylic acids. Under electrolytic conditions, similar degradation products of 6:2 FTS could be observed. This suggests that the polyfluorinated tenside is also degraded to smaller fluorinated species during the industrial electroplating process. Because of the high demand for chemicals in the oxidation of 6:2 FTS with peroxodisulfate and the slow reaction of 6:2 FTS under electrolytic conditions, neither method is applicable to the cost-efficient decomposition of this surfactant on a technical scale.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20110421-132523-1</identifier>
+                    <identifier type="sys">HT016798693</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1946</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1946">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2011/albers/dc1105.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1946"
+            DMDID="DMD_wuppertal_elpub_1946">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1946"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

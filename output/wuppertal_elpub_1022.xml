@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1022">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>&quot;Anerkennung - noch ein langer Weg&quot;</title>
+                        <subTitle>Interkulturelle Erfahrungen von Auszubildenden heterogener Herkunft und pädagogischen Fachkräften</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Zöller, Ulrike</displayForm>
+                        <namePart type="family">Zöller</namePart>
+                        <namePart type="given">Ulrike</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-05-29</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">&quot;Anerkennung - noch ein langer Weg.&quot; Interkulturelle Erfahrungen von Auszubildenden heterogener Herkunft und pädagogischen Fachkräften. Eine qualitative Studie in außerbetrieblichen Einrichtungen.
+ Im Rahmen der These, dass mit Migration gesamtgesellschaftliche Transformationsprozesse einhergehen, liegt das Erkenntnisinteresse der Forschungsarbeit darin, diese im Forschungsbereich der Sozialen Arbeit zu analysieren. Bisher liegen geringe Forschungsbefunde zu Erfahrungen, die in der Praxis Sozialer Arbeit im interkulturellen Kontext gemacht werden, vor. Daher werden in dieser Dissertation bisherige Konzepte und Ansätze kritisch überprüft und durch eine qualitative Studie weiterentwickelt mit dem Ziel, Sozialer Arbeit Konzepte für konstruktivere sozialpädagogische Beziehungen und für einen gelingenden Umgang mit interkulturellen Konflikten zu liefern. Die Arbeit legt Ergebnisse einer qualitativen Untersuchung vor, die auf dem konzeptuellen Dreieck aus Grounded Theory Methodik, Selbstreflexivitätsthematik und Feldforschungsansatz basiert. Herausgearbeitet wird, dass sich die zentralen interkulturellen Erfahrungen in der Auseinandersetzung mit Anerkennung zeigen und sich dieses Phänomen auf das Handeln beider Untersuchungsgruppen auswirkt. Die Daten werden mit der Matrix sozialer Anerkennungsverhältnisse von Honneth (1994) in Verbindung gebracht. Handlungsempfehlungen für ein Konzept professioneller Anerkennung schließen die Arbeit ab.</abstract>
+                    <abstract type="content" lang="eng">This dissertation represents the results of a qualitative study based on intercultural experiences by apprentices&apos; multicultural origin and educational employees in the off-the-job training. It&apos;s to elaborate that the question, how to gain recognition, plays a significant role in the analyzed qualitative data. The contention with recognition has an affect on the social action of both test groups. Also, data will be associated with Axel Honneth&apos;s considerations.</abstract>
+                    <classification authority="ddc">370</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Human- und Sozialwissenschaften » Erziehungswissenschaften"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20080204</identifier>
+                    <identifier type="sys">HT015580378</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1022</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1022">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbg/paedagogik/diss2007/zoeller/dg0704.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1022"
+            DMDID="DMD_wuppertal_elpub_1022">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1022"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

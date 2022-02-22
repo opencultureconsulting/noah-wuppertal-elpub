@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_866">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>A </nonSort>
+                        <title>Precise Determination of the Forward-Backward Asymmetry of b Quarks</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Liebig, Wolfgang</displayForm>
+                        <namePart type="family">Liebig</namePart>
+                        <namePart type="given">Wolfgang</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004-11-29</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Diese Arbeit beschreibt eine neuartige Präzisionsmessung der Vorwärts-Rückwärts- Asymmetrie für b-Quarks auf dem Z Pol. Die Messung basiert auf einem Datensatz von 3,560,890 hadronischen Ereignissen, die mit dem DELPHI Experiment am LEP Beschleuniger am CERN in den Jahren 1992 bis 2000 genommen worden sind. Teil der hier verwendeten Analysetechnik ist ein aus der Impaktparameter-Methode weiterentwickeltes Auswahlverfahren für b-Quark Ereignisse, welches diese mit hoher Reinheit anreichert. Auf Ereignishemisphären, in denen ein sekundärer Vertex rekonstruiert werden konnte, wird dann die Ladung des initialen Quarks bzw. Antiquarks mit Hilfe eines neuronalen Netzes bestimmt. Dieses Netz verarbeitet in einer optimalen Weise alle zur Verfügung stehenden Ladungsinformationen aus dem Jet, dem Sekundärvertex und den Ladungen identifizierter Leptonen und Hadronen zu einer inklusiv rekonstruierten b-Quark Ladung. Die Wahrscheinlichkeit, das Ladungsvorzeichen richtig zu rekonstruieren, wird direkt auf den Daten bestimmt aus dem Verhältnis der Raten von gleich zu entgegengesetzt geladenen Hemisphärenpaaren. Die b-Quark Vorwärts-Rückwärts-Asymmetrie wird über die differentielle Asymmetrie gemessen, nachdem der Einfluß von Hemisphärenkorrelationen und Untergrundereignissen korrigiert worden ist. Das in verschiedene Schwerpunktsenergien klassifizierte Ergebnis ist: AᵇFB (89.449 GeV) = 0.0637 ± 0.0143(stat.) ± 0.0017(syst.) AᵇFB (91.231 GeV) = 0.0958 ± 0.0032(stat.) ± 0.0014(syst.) AᵇFB (92.990 GeV) = 0.1041 ± 0.0115(stat.) ± 0.0024(syst.) Die Werte für die Vorwärts-Rückwärts-Asymmetrie entsprechen einem effektiven elektroschwachen Mischungswinkel von sin²θ leff = 0.23230 ± 0.00054 . Die statistischen Korrelationen zwischen dieser und den vorangegangenen Messungen auf teilweise identischen Datensätzen werden ermittelt, so daß die DELPHI AᵇFB⁻ Messungen zusammengefaßt werden können zu: A0,bFB = 0.0990 ± 0.0029 Dieser Wert stimmt mit denen anderer LEP-Experimente überein. Das gemeinsame Ergebnis von allen LEP-Experimenten wird daher im Rahmen des Standardmodells und weiterführender Theorien interpretiert. Zusätzliche Asymmetriemessungen bei LEP2 Energien oberhalb der Z-Resonanz werden dabei beachtet.</abstract>
+                    <abstract type="content" lang="eng">This thesis concerns a novel high precision measurement of the b quark forwardbackward asymmetry at the Z pole, which has been performed on a sample of 3,560,890 hadronic events collected with the DELPHI detector at CERN’s Large Electron Positron Collider in 1992 to 2000. 
+As part of the analysis technique, an enhanced impact parameter tag provides a high purity b sample. For event hemispheres with a reconstructed secondary vertex the charge of the corresponding quark or anti-quark is determined using a neural network tag which combines in an optimal way the full available charge information from the vertex charge, the jet charge and from identified leptons and hadrons. The probability of correctly identifying b quarks and anti-quarks is measured on the data themselves comparing the rates of double hemisphere tagged like-sign and unlike-sign events. The b quark forward-backward asymmetry is determined from the differential asymmetry, taking small corrections due to hemisphere correlations and background contributions into account. The results for different centre-of-mass energies are: AᵇFB (89.449 GeV) = 0.0637 ± 0.0143(stat.) ± 0.0017(syst.) AᵇFB (91.231 GeV) = 0.0958 ± 0.0032(stat.) ± 0.0014(syst.) AᵇFB (92.990 GeV) = 0.1041 ± 0.0115(stat.) ± 0.0024(syst.) They correspond to an effective electroweak mixing angle of sin²θ leff = 0.23230 ± 0.00054 . Statistical correlations with other determinations of AᵇFB on the common data-sets are evaluated, and a combined DELPHI result: A0,bFB = 0.0990 ± 0.0029 obtained. It agrees with the results from other LEP experiments, and the combined value is interpreted in the framework of the Standard Model and beyond, taking into account also measurements at LEP2 energies above the Z pole.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20040528</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_866</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_866">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-972/dc0304.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_866"
+            DMDID="DMD_wuppertal_elpub_866">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_866"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

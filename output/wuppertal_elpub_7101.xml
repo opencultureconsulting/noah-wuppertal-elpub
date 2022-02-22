@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_7101">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entwicklung eines Modells zur Entscheidungsunterstützung für die verteilte Erbringung von IT-Dienstleistungen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Günzing, Nicole</displayForm>
+                        <namePart type="family">Günzing</namePart>
+                        <namePart type="given">Nicole</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Crasselt, Nils</displayForm>
+                        <namePart type="family">Crasselt</namePart>
+                        <namePart type="given">Nils</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">IT-Dienstleistungen sind aus der heutigen Unternehmenswelt nicht mehr wegzudenken. Sie unterstützen als universeller Befähiger der Primär- und Sekundäraktivitäten nahezu jeden Bereich des Unternehmens und stellen einen entscheidenden Wettbewerbsfaktor dar. Zunehmend wird die Erbringung von IT-Dienstleistungen an externe Firmen, d.h. IT- Dienstleister bzw. IT-Service Provider ausgegliedert. Diese stehen vor der Herausforderung IT-Dienstleistungen kostenoptimiert zu erbringen, was in der Regel über die Einbeziehung von externen Partnern in kostengünstigen Nearshore bzw. Offshore Standorten erfolgt. Die Koordination verteilter Aktivitäten zur Erbringung von IT-Dienstleistungen stellt alle beteiligten Akteure vor Herausforderungen. Diese Herausforderungen sowie die Implikationen für die Ausgestaltung eines Steuerungs- und Entscheidungsmodells werden in der vorliegenden Arbeit dargestellt.</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170731-141814-2</identifier>
+                    <identifier type="sys">HT019458128</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_7101</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_7101">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2016/guenzing/db1613.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_7101"
+            DMDID="DMD_wuppertal_elpub_7101">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_7101"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

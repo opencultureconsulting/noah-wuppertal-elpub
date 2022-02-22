@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_688">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>Einfluß höherer Kraftstoffpreise auf die Luftschadstoffbelastung durch den Personenverkehr privater Haushalte</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kuhne, Dirk</displayForm>
+                        <namePart type="family">Kuhne</namePart>
+                        <namePart type="given">Dirk</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005-04-13</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Ziel der vorliegenden Arbeit ist es, den Einfluß von Umweltabgaben auf Kraftstoffe auf die Gesamtverkehrsnachfrage privater Haushalte und die daraus resultierenden Luftschadstoffemissionen zu bestimmen, um so eine Entscheidungsgrundlage für eine nachhaltige Verkehrspolitik bereitzustellen. Um die pretialen Lenkungseffekte zu quantifizieren, wurde zunächst ein ökonometrisches Modell entwickelt und für den Zeitraum von 1978 bis 1998 an empirischen Daten kalibriert. Dieses Modell wurde dann im Sinne einer dynamischen Ex-post-Prognose an den Daten für den Zeitraum von 1989 bis 1998 validiert. 
+Kern der Arbeit sind zwei Ex-post-Simulationen auf der Grundlage des entwickelten Modells. In der ersten Variante wurden die hypothetischen Auswirkungen einer moderaten jährlichen Anhebung der Mineralölsteuer um 6 Pf/l ab dem Jahr 1989 analysiert. In der zweiten Simulation wurde die von den &quot;Grünen&quot; auf dem Magdeburger Parteitag 1998 beschlossene Variante einer einmaligen Anhebung der Mineralölsteuer um 50 Pf/l gefolgt von jährlichen Anhebungen von 30 Pf/l auf den Zeitraum 1989 bis 1998 zurückprojiziert.</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20050126</identifier>
+                    <identifier type="sys">HT014344168</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_688</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_688">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-784/db0101.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_688"
+            DMDID="DMD_wuppertal_elpub_688">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_688"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

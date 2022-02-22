@@ -1,0 +1,80 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_833">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>A </nonSort>
+                        <title>graph based approach to the convergence of some iterative methods for singular M-matrices and Markov chains</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Borovac, Stefan</displayForm>
+                        <namePart type="family">Borovac</namePart>
+                        <namePart type="given">Stefan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-07-19</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This thesis concerns the interaction of two widely known topics in the field of applied mathematics. These are Markov chains (or likewise singular M-matrices) and Schwarz methods.
+ Markov chains as well as singular M-matrices are extensively used, their range of application stretching from stochastic processes over network modeling to the discretisation of partial differential equations.
+ Schwarz methods are widely used as preconditioners for the numerical solution of partial differential equations and can be classified as domain decomposition methods.
+ Both topics are brought together for the solution of consistent square linear systems or likewise the Frobenius vector problem, i.e. a fixed point problem for nonnegative matrices of unit spectral radius.
+ It is a known technique to solve such problems using block Jacobi or block Gauss-Seidel iterations. Schwarz methods can be seen as a generalisation of these techniques. They naturally occur in two setups, the additive Schwarz iterations and the multiplicative Schwarz iterations which extend the block Gauss-Seidel iteration. Both iterations have their own advantages. Additive Schwarz methods are easy to parallelise. Multiplicative Schwarz usually converges more rapidly but cannot be parallelised in such an easy way. However, it can be partly parallelised using block asynchronous iterations.
+ In this work, solutions of linear systems having a positive fixed point using additive and (standard and asynchronous) multiplicative Schwarz iterations are considered. This is done for several different block updates including the standard (one-level) update, the two-stage update, and an update derived from the power iteration. Additionally, relaxed versions of the three block updates are considered. 
+ One main goal of this thesis lies in the detailed analysis of the structure of a nonnegative matrix having a positive fixed point. It turns out that such matrices possess some basic pattern which can be exploited to construct convergent Schwarz iterations. This pattern consists of either a spanning tree or a spanning forest within the transposed graph.
+ Based on these patterns, operators for Schwarz iterations can be constructed which are consistent and (semi)convergent for several block updates. We put some special emphasise on the differences between non-relaxed and relaxed block updates. Additionally, we obtain some results for block asynchronous iterations.
+ Altogether, several new results for additive and multiplicative Schwarz iterations as well as asynchronous iterations are achieved. In contrast to the known theory on this topics the theory presented here is completely uniform and based only on the structure of the given matrix which is either a spanning tree or a spanning forest within the transposed graph.</abstract>
+                    <subject>
+                        <topic>Linear systems</topic>
+                        <topic>M-matrices</topic>
+                        <topic>Markov chains</topic>
+                        <topic>singular matrices</topic>
+                        <topic>iterative methods</topic>
+                        <topic>block methods</topic>
+                        <topic>additive Schwarz</topic>
+                        <topic>multiplicative Schwarz</topic>
+                        <topic>domain decomposition methods</topic>
+                        <topic>overlap</topic>
+                        <topic>asynchronous iterations</topic>
+                        <topic>parallel iterations</topic>
+                        <topic>two-stage</topic>
+                        <topic>non-stationary</topic>
+                        <topic>matrix graph theory</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20060359</identifier>
+                    <identifier type="sys">HT014795513</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_833</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_833">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2006/borovac/dc0609.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_833"
+            DMDID="DMD_wuppertal_elpub_833">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_833"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

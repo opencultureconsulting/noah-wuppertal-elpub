@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_792">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entwicklung eines optischen Biosensor-Assays mit Elementen aus der Resistenzforschung zum Screening auf Tetracyclin-Rückstände in Lebensmitteln</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Möller, Nadine</displayForm>
+                        <namePart type="family">Möller</namePart>
+                        <namePart type="given">Nadine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-04-27</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">A tetracycline specific-screening assay for residue analysis in honey and raw milk using the surface plasmon resonance (SPR) technology is described. For this purpose the principle of the most frequent bacterial resistance mechanism against tetracycline in gram negative bacteria was utilized as guide for method development. The synthesis of a tetracycline efflux protein is regulated by the repressor protein TetR, which normally bound to a short DNA sequence representing the tetracycline operator tetO. When tetracycline enters a resistant bacterial cell, it induces a conformational change of the TetR protein and its release from the tetO DNA sequence with succeeding synthesis of the efflux protein. 
+Three different assay formats based on TetR and tetO were compared. In the direct assay TetR was immobilised on a sensor chip and tetracycline was injected over the chip surface to be bound to the protein. The mass bound to the chip is directly correlated to signal height. Correspondingly, this format showed a rather poor sensitivity due to the low molecular weight of tetracycline. Therefore an alternative assay format was developed with immobilising tetO onto the sensor chip. The repressor TetR was added to the sample prior to SPR analysis. Within absence of tetracyclines, TetR was able to couple to tetO and caused an SPR signal. Correlated to the amount of tetracyclines being present in the sample, the association of TetR and tetO was partially or fully blocked. In a third assay format, the first step was to load TetR to the chip-bound tetO. TetR was then released when injecting a tetracycline containing solution over the chip. This format using the molecular mass protein for indirect detection of tetracycline resulting in the highest test sensitivity and was used for further studies. 
+Several TetR variants - BD, S135L, V113A, P184Q and scTetR – were expressed as recombinant proteins and purified over ion-exchange and gel filtration chromatography. The variants were compared with respect to their assay sensitivity and cross reactivity for tetracycline, oxytetracycline, chlortetracycline and doxycycline. BD and S135L showed the best sensitivity while V113A exhibited a uniform cross reactivity for all tetracyclines. BD was chosen for the development of the tetracycline-specific SPR assay. Since the use of tetracycline in honey production is not approved by the European Union, residue analytical methods should be as sensitive as possible to identify non-compliant samples. Test optimations therefore aimed at high sensitivity. 
+The analysis of tetracyclines in honey was possible after diluting the samples 1 to 10 with buffer. No differences between raw honey and blended commercial honeys were observed. The analysis of 20 different honey samples showed a high variation between the individual blanks leading to a limit of detection (LOD) of 14 µg/kg tetracycline in honey, when applying the mean of blank honey signals plus 3 times standard deviation for calculating the LOD. 
+In order to reduce the matrix effects of raw milk, the samples had to be defatted, diluted 1 to 5 with buffer and heated for a short time prior SPR analysis. Applying this sample preparation the limit of detection could be estimated within 31 µg/kg. This was sufficient to use the assay as a routine screening method for tetracycline residues in milk to survey the maximum residue limit of 100 µg/kg.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20070559</identifier>
+                    <identifier type="sys">HT015093433</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_792</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_792">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2007/moeller/dc0705.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_792"
+            DMDID="DMD_wuppertal_elpub_792">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_792"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

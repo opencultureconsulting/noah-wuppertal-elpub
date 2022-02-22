@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9100">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Stable motivic homotopy groups and periodic self maps at odd primes</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Stahn, Sven-Torben</displayForm>
+                        <namePart type="family">Stahn</namePart>
+                        <namePart type="given">Sven-Torben</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-01-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In this work we study two topics in the stable motivic homotopy category over the complex and real numbers. The first topic is the computation of the stable motivic homotopy groups of the spheres at odd primes. To this end we use the motivic equivalent of two classical computational devices, the motivic Adams spectral sequence and the motivic Adams-Novikov spectral sequence. For odd primes we show that the structure of the topological Adams-Novikov spectral sequence determines the structure of the motivic Adams-Novikov spectral sequence over the complex and real numbers. Except for torsion groups associated to the existence of nontrivial differentials in the topological Adams-Novikov spectral sequence, the motivic and the topological Adams-Novikov spectral sequence turn out to be very similar. 
+The second topic of this dissertation is the study of thick subcategories and of periodic self maps of (finite) motivic spectra. In algebraic topology, this two topics are closely related, and the thick subcategories of finite spectra are all characterized by the property of admitting a self map of a certain type. The fact that the motivic equivalent of the Hopf map is not nilpotent and the work of Ruth Joachimi about motivic thick ideals in her dissertation suggest that the picture looks very different in the motivic context. For technical reasons we have to restrict to the case of odd primes. We prove that periodic motivic self maps defined by algebraic Morava K-theory define a thick subcategory, but we need to make use of a conjectural weakened version of a motivic nilpotence lemma. Furthermore we lift a construction by Hopkins and Smith to the motivic world to show that examples of these self maps exist. Finally, in the last two sections, we use some of our computations in the preceding sections to settle one of the conjectures in Ruth Joachimis dissertation and we correct an assertion made there about the relation of certain thick subcategories.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20190130-102816-9</identifier>
+                    <identifier type="sys">HT019984552</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9100</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9100">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2018/stahn/dc1823.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9100"
+            DMDID="DMD_wuppertal_elpub_9100">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9100"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

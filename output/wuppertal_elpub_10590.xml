@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_10590">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Investigation of Brake Wear Particle Emissions on the Dynamometer and the Vehicle under Real-Driving Simulation</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Farwick zum Hagen, Ferdinand H.</displayForm>
+                        <namePart type="family">Farwick zum Hagen</namePart>
+                        <namePart type="given">Ferdinand H.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-06-16</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Brake wear particle emissions contribute to ambient air pollution. Besides tire wear, road wear, and dust from resuspension, brake wear has been identified as essential source of non-exhaust traffic related emissions. Although brake wear emissions are scientifically investigated, no standardized measurement method has yet been established, which allows a direct comparison of the results. In particular, the knowledge on wear emissions under realistic driving conditions is very limited. 
+Within the scope of the present thesis, two measurement setups were designed, extensively validated, and practically used: one measurement setup was designed for emission investigations on a brake dynamometer under laboratory conditions and the other one was adjusted for on-road investigations on a vehicle. For both measurement setups, the same measurement concept was used that yielded the aspiration of the entire airborne brake wear. The brake wear was routed as whole to the measuring point, where it was analyzed with high time resolution by means of different devices with regard to the particle size and mass. In parallel, the air flow inside the setup was monitored, which allowed emission quantification. An estimation of the emission factors provided a good comparability of the results. The measurements were primary performed with realistic drive cycles so that the results were considered as representative for normal driving. 
+The emission factors of the left front brake of a midsize passenger car were found to be about 4.5 mg km−1brake−1 and 1-9×1010 km−1 brake−1 for particle mass (PM10) and particle number, respectively. In addition, the emission behavior of the brake under elevated brake temperatures was investigated, which mainly favors ultrafine particle formation. For normal driving, however, the on-road measurements revealed much lower brake temperatures such that ultrafine particles are not expected to be formed. Furthermore, the origin of emissions during acceleration and constant driving phases was determined.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20200616-090157-0</identifier>
+                    <identifier type="doi">10.25926/f1j5-fp87</identifier>
+                    <identifier type="sys">HT020685125</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_10590</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_10590">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2019/farwickzumhagen/dc1951.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_10590"
+            DMDID="DMD_wuppertal_elpub_10590">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_10590"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

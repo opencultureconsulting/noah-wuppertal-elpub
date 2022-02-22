@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1658">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Neuartige Gemini-Tenside aus O-acylierten Hydroxycarbonsäuren - Synthesen und Tensideigenschaften -</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ihizane, Rachid</displayForm>
+                        <namePart type="family">Ihizane</namePart>
+                        <namePart type="given">Rachid</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This thesis describes the syntheses and characterization of novel surface active derivatives based on renewable recourses like fatty acids and hydroxycarboxylic acids such as tartaric- and malic acid. The combination of those compounds leads to O-acylated - malic- and tartaric acid anhydrides as starting materials. The aim of this work is, to provide novel so called Gemini surfactants based on those starting materials and their unambiguous characterization. 
+
+The first part of this work describes the syntheses of O,O´-diacylated tartaric acid derivatives in an attempt for use as Gemini surfactants because of their definite structure. Their properties are determined such as critical micellar concentration (cmc), surfactant efficiency (c20), surface tension (γcmc) and foaming ability and stability. Structure-activity-relationships are highlighted in detail. Also different substituted O,O´-.diacylated tartaric acid derivatives are investigated to enhance their surface activity. 
+
+In order to increase the hydrophilic properties of those above described class of compounds the second part illustrates the insertion (esterification) of ethyleneglycole units, such as triethyleneglycole, into the O,O´-diacylated tartaric acid derivatives up to anionic groups like sulfates or kationic systems like quaternary amines. Those attempts provide effective Gemini surfactants with very low cmc´s, high or low foaming abilities - according to requirements. 
+
+In the third part two anhydride molecules, particularly O-acylated tartaric and malic acid anhydrides, are connected by one spacer units like α,ω-alkyldiamines and triethylene glycol. The investigation of the resulting &quot;dimer&quot;-molecules revealed that the desired properties of Gemini surfactants have been limited for those compounds. 
+
+Several of the resulting Gemini surfactants show interesting properties such as low CMCs and different foaming ability and stability. For practical use of the above synthesized Gemini surfactants were tested regarding their activities against a series of bacteria, fungi and yeast. Some of them showed promising properties.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20101105-111858-3</identifier>
+                    <identifier type="sys">HT016588781</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1658</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1658">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2010/ihizane/dc1016.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1658"
+            DMDID="DMD_wuppertal_elpub_1658">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1658"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

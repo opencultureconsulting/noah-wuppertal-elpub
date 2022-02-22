@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_350">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Measurement and Interpretation of Muon-Pair Production at LEP energies above the Z⁰ Resonance</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Behrmann, Anette</displayForm>
+                        <namePart type="family">Behrmann</namePart>
+                        <namePart type="given">Anette</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003-12-16</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die vorliegende Arbeit befasst sich mit der Messung der Myonpaar Produktion bei Energien oberhalb der Z Resonanz. Die Analyse basiert auf dem Datensatz, der von 1997 bis 2000 bei nominalen Schwerpunktenergien von 183 bis 207 GeV mit dem DELPHI Detektor aufgenommen wurde. Dies entspricht einer integrierten Luminosität von 645 pb-1. Die Messung der totalen und differentiellen Wirkungsquerschnitte und der Vorwärts-Rückwärts-Asymmetrien werden präsentiert und mit den Vorhersagen des Standard Modells verglichen. Alle ermittelten Ergebnisse sind in guter Übereinstimmung mit der Theorie. Die Ergebnisse werden auch im Hinblick auf neue Phänomene jenseits des Standard Modells interpretiert. Dies sind die mögliche Existenz eines weiteren schweren Eichbosons, genannt Z&apos;, sowie der Austausch eines vorhergesagten Gravitons im Rahmen einer Quantentheorie der Gravitation in grossen extra Dimensionen. Keines dieser Modelle kann mit den vorliegenden Messungen bestätigt werden, jedoch wurden Ausschlussgrenzen auf 95 % Vertrauensniveau ermittelt. Aus den Messungen ergibt sich eine untere Grenze der Z&apos; Masse von 360-530 GeV/c², abhängig von dem betrachteten Modell (E₆, L-R). Das untere Limit auf die String-Skala Mₛ kann mit 794/804 GeV/c² (l = ± 1) angegeben werden.</abstract>
+                    <abstract type="content" lang="eng">In this report the muon-pair production at energies well above the Z resonance is investigated. The analysis presented here is based on data taken with the DELPHI detector during the years from 1997 to 2000 at nominal center-of-mass energies of 183-207 GeV corresponding to an integrated luminosity of ~ 645 pb-1. The measurement of the total cross sections, the forward-backward asymmetries and differential cross sections are presented. The results obtained are compared to the Standard Model predictions. No significant deviations have been found. The results are also interpreted in terms of new physics phenomena like the possible existence of an additional heavy gauge boson, so-called Z&apos;, and the graviton exchange in the framework of quantum theory of gravity in large extra dimensions. No evidence for any of this models has been found and exclusion limits at 95 % confidence level have been derived. A possible Z&apos; should have a mass of MZ&apos; &gt; 360-530 GeV/c² dependent on the model considered (E₆, L-R). A lower limit on Mₛ, the String scale, of 794/804 GeV/c² (l = ± 1) was obtained.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20030470</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_350</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_350">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-444/d080305.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_350"
+            DMDID="DMD_wuppertal_elpub_350">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_350"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

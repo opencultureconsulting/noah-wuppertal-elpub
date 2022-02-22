@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_11400">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Adaptive, aufwandsminimale und fehlerrobuste Automatisierung von Niederspannungsnetzen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Steinbusch, Philippe</displayForm>
+                        <namePart type="family">Steinbusch</namePart>
+                        <namePart type="given">Philippe</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Zdrallek, Markus</displayForm>
+                        <namePart type="family">Zdrallek</namePart>
+                        <namePart type="given">Markus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-02-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Energiewende und die Elektrifizierung von Sektoren (z. B. Wärme- und Verkehrssektor) werden politisch und gesellschaftlich weiter forciert. Für die elektrische Energieversorgung bedeutet dies einen Paradigmenwechsel. Smart Grid Lösungen bzw. Automatisierungslösungen stellen dabei eine kosteneffiziente und zukunftsfähige Möglichkeit dar, welche insbesondere die stark betroffene Niederspannungsebene ertüchtigt. Aus diesem Grund befasst sich diese Dissertation mit der Weiterentwicklung eines Systems zur Automatisierung von Niederspannungsnetzen, sodass zum einen der Installationsaufwand reduziert und zum anderen adaptiv auf die sich im Niederspannungsnetz einstellenden Veränderungen (z. B. durch die Integration von Photovoltaikanlagen und Ladeinfrastruktur) reagiert werden kann. Die Weiterentwicklungen dürfen dabei die Robustheit des Systems zur Automatisierung von Niederspannungsnetzen nicht beeinflussen. Somit werden in dieser Arbeit drei Funktionen dargestellt, welche die Hauptaufgaben eines „Smart Grids“ (Überwachung des Netzzustandes und Regelung des Netzzustandes in Echtzeit) ergänzen. Die Funktionen ermöglichen eine Validierung von Parametern, eine Bedarfsdetektion von Aktorflexibilität zur Regelung des Netzzustandes und eine Interaktion zwischen den Systemen der Mittel- und Niederspannungsautomatisierung in Echtzeit. Alle drei Funktionen sind in einer dezentralen Systemarchitektur auf Feldgeräten implementiert, welche eine begrenzte Rechen- und Speicherkapazität bereitstellen. Für diese Implementierung wird die Sensitivitätsanalyse als Substitution einer konventionellen Leistungsflussberechnung vorgestellt und auf die Anforderungen des Systems zur Automatisierung von Niederspannungsnetzen angepasst. Erst durch die in der Arbeit dargestellte Substitution und Verbesserung der Berechnungsgrundlage, ist die Implementierung in die Systemarchitektur möglich. Eine erfolgreiche Implementierung muss stets durch diverse Validierungen sichergestellt werden, sodass diese Arbeit ein simultanes und sukzessives Validierungskonzept dazu bereitstellt. Das entwickelte Validierungskonzept wird in dieser Arbeit für die Bewertung des Systems zur Automatisierung von Niederspannungsnetzen genutzt und prägnante Labor- und Feldtestergebnisse werden dargestellt. Diese Validierung stellt die erfolgreiche Weiterentwicklung dar, welche eine adaptive, aufwandsminimale, fehlerrobuste und zukunftsfähige Automatisierung von Niederspannungsnetzen ermöglicht.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20210224-091038-5</identifier>
+                    <identifier type="doi">10.25926/7yxe-hk22</identifier>
+                    <identifier type="sys">HT020905496</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_11400</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_11400">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2020/steinbusch/de2009.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_11400"
+            DMDID="DMD_wuppertal_elpub_11400">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_11400"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

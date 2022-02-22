@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_830">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Effiziente Methoden zum Verifizierten Lösen von Optimierungsaufgaben und Nichtlinearen Gleichungssystemen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Beelitz, Thomas</displayForm>
+                        <namePart type="family">Beelitz</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-04-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">SONIC ist ein neuer verifizierender nichtlinearer Gleichungslöser und Optimierer. Zunächst nur als Hilfsmittel für das Design von dynamischen Systemen implementiert, entwickelte sich SONIC im Laufe der Zeit zu einem effizienten Löser für (beliebige) nichtlineare Systeme. Da SONIC mit verschiedenen Intervall-Bibliotheken gekoppelt werden kann, wird eine optimierte Performance mit einem hohen Grad an Portabilität erreicht. In dieser Arbeit werden neue effiziente Methoden für die verifizierte Lösung von nichtlinearen Gleichungssystemen und eine Reihe von Weiterentwicklungen bekannter Techniken vorgestellt. Besondere Fortschritte konnten dabei auf den folgenden Gebieten gemacht werden: optimale LP-Präkonditionierer, erweitertes Newton-Verfahren, hierarchischer Ansatz mit integriertem hybriden Newton-Verfahren (plus Bewährungsprinzip) und eine neue hybride Bisektionsstrategie. Die effiziente Behandlung nicht-totaler Funktionen in SONIC ermöglicht es, dass nichtlineare Probleme aus der Prozesstechnik erstmals gelöst werden können, während etablierte Tools scheitern. Neben dem seriellen Code stehen auch effiziente parallele Versionen von SONIC für Rechner mit gemeinsamem (OpenMP) und mit verteiltem Speicher (MPI) zur Verfügung.</abstract>
+                    <abstract type="content" lang="eng">SONIC is a new rigorous nonlinear solver and constrained optimizer based on interval computations. Having been developed primarily to support the parametrically robust design of dynamic systems, SONIC can also be used to solve nonlinear problems arising in other application areas. Since its high-level solvers can be coupled with several different basic interval libraries, it can achieve optimized performance while maintaining a high degree of portability. This work focuses on presenting new efficient methods for the verified solution of nonlinear systems of equations and a set of sophisticated advancements of known techniques: optimal linear programming preconditioners, extended Newton method, hybrid Newton method with probation approach, and a hybrid subdivision scheme. The efficient handling of non-total functions in SONIC allows for solving nonlinear problems which arise in chemical process engineering, while established solvers fail in these cases. In addition to the serial code, efficient parallel versions for shared and distributed memory architectures are available.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20060080</identifier>
+                    <identifier type="sys">HT014717730</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_830</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_830">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2006/beelitz/dc0603.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_830"
+            DMDID="DMD_wuppertal_elpub_830">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_830"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

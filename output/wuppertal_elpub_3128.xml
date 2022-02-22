@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3128">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Einsatz der komprehensiven zweidimensionalen Flüssigchromatographie zur Analyse von Naturstoffen und die Entwicklung der Recycling Chromatographie zur Trennung chiraler Verbindungen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dück, Roman</displayForm>
+                        <namePart type="family">Dück</namePart>
+                        <namePart type="given">Roman</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In this work, several types of column switching were used for a number of analytical problems in liquid chromatography.
+ Thus, comprehensive two-dimensional liquid chromatography was used for the study of tea. This developed into a semi-quantitative comparison of catechins in matcha and sencha tea.This revealed that about twice as much catechins is absorbed in the consumption of matcha tea as with sencha tea.
+ To evaluate the best combination of columns in the LC x LC, a vector based mathematical model was developed. This calculation makes it possible to determine the effective area in a two-dimensional chromatogram, independently of the complexity of the distribution of the chromatogram spots. With this method, the best combination of columns for the analysis of Radix Angelicae sinensis was determined on the basis of the effective area, the peak capacity and the orthogonality. These results do not correlate with the results of the Neue-test. The best column selection is determined not only by the selectivity of the phases but also by the properties of the analyte in the complex sample. Thus, the optimal combination of columns to assess the separation efficiency - directly from the two-dimensional chromatogram - is of great importance.
+ The separation efficiency of on-line LC x LC was compared with off-line LC x LC, with the analysis of Radix Angelicae sinensis as an example. This showed, as was to be expected, that the off-line LCxLC method had a higher peak capacity (2683) than on-line LC x LC (661). However, this was accompanied by a significant increase in analysis time, from 5 to 28 hours. No significant difference was found in the orthogonality and the consumption of solvents. The great advantage of the online method is the larger number of substances detected, probably because ca. 30 % of the volatile analytes disappear during storage of the fractions in the off-line method.
+ For the investigation of white wine, ion-exchange chromatography was coupled with reverse-phase chromatography (IC-LC x LC) for the first time. This technique allows the simultaneous analysis of phenols, polyphenols, phenolic acids and other components in the wine. A higher degree of orthogonality could be achieved than with previously known applications of this method. It was also possible by the use of suitable eluents to couple the chromatographic system with a mass spectrometer.
+ Finally, in this work a new recycling method for HPLC was developed which is suitable for the separation of substances with a similar selectivity factor (e.g., enantiomers). Theseparation of carvone enantiomers showed the advantage of this method - the low peak broadening during the recycling process - over the CLR method.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20121106-123208-2</identifier>
+                    <identifier type="sys">HT017461425</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3128</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3128">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2012/dueck/dc1218.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3128"
+            DMDID="DMD_wuppertal_elpub_3128">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3128"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_194">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Malerei - die Ruhe während des Bildersturms.</title>
+                        <subTitle>Eine mediale Kritik des gemalten Bildes am Beginn des 21. Jahrhunderts.</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Breidenich, Christof</displayForm>
+                        <namePart type="family">Breidenich</namePart>
+                        <namePart type="given">Christof</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1999-12-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Prolog: 
+
+Das Thema des vorliegenden Textes ist die Malerei. Insbesondere die Betrachtung der Malerei innerhalb der zeitgenössischen Verschiebung des Weltbildes durch den veränderten Status der elektronischen Bildmedien. An dieser Stelle wird die Frage aufgeworfen, inwiefern Bilder das menschliche Bewußtsein konstituieren und welche Folgen das hat. Um dahin zu gelangen, wird eine mediale Kategorisierung des Bildes auf einer eidetischen, einer materiellen und einer konzeptionellen Ebene eingeführt. Auf allen drei Ebenen werden beispielhafte Positionen der bildenden Kunst dahingehend untersucht, wie diese zur Erforschung des Wirklichkeitskonstruktes Bild dienlich sein können. Die elektromagnetischen Bildgeneratoren und deren allgemeine Verbreitung, sowie die Inflation nicht materieller Monitorbilder legen es nahe, die Intention des gemalten Bildes neu zu klären. 
+
+Die vorliegende &quot;theoretische&quot; Ausarbeitung ist ohne die gemalten Bilder nicht vollständig. Die gemalten Bilder und Installationen werden im Inhaltsverzeichnis in Anführungszeichen aufgeführt. Im Text sind sie als Abbildungen zu sehen, die nicht der Anschauung, sondern der Vollständigkeit im Sinne einer Reihenfolge von Text und Bild dienen. Die prinzipielle Unmöglichkeit, ein Medium in ein anderes Medium zu übertragen, veranlaßt mich, Malerei und Installation dieser theoretischen Arbeit anzufügen. Diese bildnerische Ausarbeitung ist als Alternative zur konventionellen wissenschaftlichen Vorgehensweise zu verstehen. Es handelt sich nicht um Illustrationen, die in der &quot;theoretischen&quot; Ausarbeitung beschrieben oder erwähnt werden, sondern um autonome Produkte zum Verständnis der Sachlage. 
+
+Die drei Hauptkapitel beinhalten immer eine oder mehrere theoretische Ansatzpunkte, um danach eine oder mehrere Positionen aus der bildenden Kunst, sowie verwandter Darstellungsformen, anzufügen. Eine mediale Kritik des gemalten Bildes muß immer im Kontext zu den anderen Verbildlichungsformen betrachtet werden, da die menschliche Wahrnehmung und damit die aktuelle Weltsicht durch den Verbund der Medien konstituiert wird. Was liegt also näher, als sich bei den Experten für bildnerische Kulturtechniken umzusehen: den bildenden Künstlern.</abstract>
+                    <classification authority="ddc">750</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Design und Kunst » Kunst"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-19990215</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_194</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_194">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-309/d059903.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_194"
+            DMDID="DMD_wuppertal_elpub_194">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_194"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

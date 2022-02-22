@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1956">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Hugo von Hofmannsthals Tätigkeit als Herausgeber zwischen 1920 und 1929. Kritische und kommentierte Edition</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Miehe, Donata</displayForm>
+                        <namePart type="family">Miehe</namePart>
+                        <namePart type="given">Donata</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die vorliegende Dissertation bietet eine kritische und kommentierte Edition sämtlicher Dokumente zu Hugo von Hofmannsthals Herausgeberschaft fremder Texte aus der Zeit zwischen 1920 und 1929. Im Mittelpunkt stehen die drei großen im Verlag der Bremer Presse erschienenen Anthologien Deutsches Lesebuch (1922/26), Schillers Selbstcharakteristik (1926), Wert und Ehre deutscher Sprache (1927), die Zeitschrift Neue deutsche Beiträge (1922-1927) sowie die jeweiligen Vorreden bzw. Anmerkungen Hofmannsthals. Außerdem werden einige kleinere editorische Projekte sowie Pläne aus dem Nachlass dokumentiert. Die Dissertation ist Teil des Editionsmanuskripts für den Band ›Herausgebertätigkeit‹ (SW XXXVI)der ›Kritischen Ausgabe Sämtlicher Werke Hugo von Hofmannsthals‹.</abstract>
+                    <abstract type="content" lang="eng">Critical and annotated edition of all documents concerning Hugo von Hofmannsthal&apos;s work as an editor and anthologist between 1920 and 1929. Special emphasis is placed on the three major anthologies published by the &quot;Bremer Presse&quot;: &quot;Deutsches Lesebuch&quot; (1922/26), &quot;Schillers Selbstcharakteristik&quot; (1926), &quot;Wert und Ehre deutscher Sprache&quot; (1927) and the journal &quot;Neue deutsche Beiträge&quot; (1922-1927), with editorial prefaces and annotations written by Hofmannsthal.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » Germanistik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20110511-113341-5</identifier>
+                    <identifier type="sys">HT016829729</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1956</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1956">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fba/germanistik/diss2010/miehe/da1002.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1956"
+            DMDID="DMD_wuppertal_elpub_1956">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1956"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3930">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Simulationsmethoden für Brandschutz und Evakuierung - Grundlagen - Anwendung - Erweiterung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Rogsch, Christian</displayForm>
+                        <namePart type="family">Rogsch</namePart>
+                        <namePart type="given">Christian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Im Zeitalter der Computertechnik werden computergestützte Verfahren zur Entwicklung neuer Gebäude oder bei der Berechnung von wissenschaftlichen Ergebnissen immer häufiger eingesetzt. Da Computer, die zur Berechnung eingesetzt werden, immer billiger und sogleich leistungsstärker werden, gewinnt dieses Geschäftsfeld immer mehr an Bedeutung. Frei erhältliche Software, sog. &quot;Open Source Software&quot;, leistet einen weiteren Beitrag hierzu. Anhand der beiden Kapitel zum Thema Evakuierungssimulationen und Brandsimulationen werden Grundlagen der einzelnen Programme bzw. Rechenverfahren vorgestellt, genauer untersucht und zudem ausführlich erläutert. Aufgrund der aus beiden Kapiteln gewonnenen Erkenntnisse lassen sich diverse Kombinationsmöglichkeiten der beiden Themengebiete erörtern. So können zum Beispiel Fußgänger in einem Gebäude die Rauchausbreitung beeinflussen, indem Türen geöffnet oder geschlossen werden. Andersherum betrachtet kann die Ausbreitung von Rauch die Fußgänger in ihrem Routenwahlverhalten beeinflussen. Unter all diesen Kombinationsmöglichkeiten stellt sich jedoch die Frage, in wie weit die Annahmen, die vom Anwender der jeweiligen Programme getroffen werden, das Ergebnis beeinflussen, sei es in positiver oder negativer Blickrichtung. Um diese Fragestellung zu beantworten, wird die These verfolgt, dass konservative Annahmen bei der Anwendung von Brand- und Evakuierungssimulationsprogrammen keine konservativeren Ergebnisse ergeben, als wenn sich der Anwender hierüber keine Gedanken macht.</abstract>
+                    <abstract type="content" lang="eng">In the age of computers, computational methods are used more often to develop new buildings or to calculate scientific results. Based on the fact that computers are getting more and more cheaper and also more and more powerful, this kind of business segment gets a bigger interest. Free available software-tools, so called &quot;open-source software&quot;, also benefits this way. Based on two chapters about evacuation simulations and fire simulations basics of software-tools or calculation methods are described, investigated and detailed exemplified. Based on the results of both chapters different combination methods are possible, e.g. pedestrians may have influence on smoke-movement inside a building if they open or close a door. The other way round smoke can influence pedestrians in the way they choose their route to leave the building. Based on all this possibilities of different combinations the main question is how big is the influence of user-chosen inputs to software-tools on the calculated results; in a positive or negative point of view. To answer this question this work pursues the thesis that conservative user-based assumptions in software-tools do not cause automatically in conservative results.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Maschinenbau und Sicherheitstechnik » Sicherheitstechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20140514-112006-6</identifier>
+                    <identifier type="sys">HT018270963</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3930</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3930">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/sicherheitstechnik/diss2012/rogsch/dd1210.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3930"
+            DMDID="DMD_wuppertal_elpub_3930">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3930"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9310">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zuckertransport und Phloembeladung in Fagaceae und Salicaceae</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dobbelstein, Elena</displayForm>
+                        <namePart type="family">Dobbelstein</namePart>
+                        <namePart type="given">Elena</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-04-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Ein grundlegender Schritt der Nährstoffverteilung in Pflanzen ist die Phloembeladung mit Photoassimilaten. Bäume werden bis heute aufgrund morphologischer und physiologischer Merkmale zu den passiven Phloembeladern durch Diffusion gezählt. Neuere Studien haben jedoch gezeigt, dass diese pauschale Annahme nicht für alle Baumarten gilt. 
+Im Rahmen dieser Arbeit wurden je zwei Vertreter der Laubbaumfamilien Fagaceae (Fagus sylvatica und Quercus robur) und Salicaceae (Salix caprea und Populus x canescens) bezüglich des Zuckertransportes innerhalb des Baumes und ihres Phloembeladungsmechanismus untersucht. Für Q. robur wurde bereits gezeigt, dass Diffusion aufgrund des Konzentrationsgradienten zwischen Phloem und Mesophyllzellen auszuschließen ist. In dieser Arbeit konnte durch die nicht-wässrige-Fraktionierung in F. sylvatica ebenfalls eine höhere Saccharosekonzentration im Phloem als im Cytosol der Mesophyllzellen festgestellt werden. Bei den beiden Salicaceae konnten keine Ergebnisse durch die nicht-wässrigen-Fraktionierung erzielt werden. Durch ein Screening mit degenerierten Primern wurde im Transkriptom aller Bäume Saccharosetransporter (SUT) Sequenzen gefunden. Ein Transporter aus F. sylvatica, FsSUT1, der vermutlich an der Phloembeladung beteiligt ist, wurde für eine weiterführende Charakterisierung ausgewählt. Durch heterologe Expression in Hefe zeigte sich, dass FsSUT1 Saccharose transportiert. Durch RNA in situ-Hybridisierung konnte das Transkript von FsSUT1 im Phloem lokalisiert werden. 
+Mittels quantitativer Echtzeit-PCR wurde die Expression der Transporter im Jahresverlauf und in Licht/Dunkel Verhältnissen untersucht. Es zeigte sich, dass alle Transporter in allen Geweben und zu jeder Jahreszeit unterschiedlich stark exprimiert wurden. Die Ergebnisse des Licht/Dunkel-Experimentes zeigten, dass die Expression der Transporter diurnal vom Licht beeinflusst wird. Gleichzeitig wurde der Zucker- und Stärkegehalt (non structural carbohydrates, NSC) der Gewebe bestimmt um Einblicke in das Zusammenspiel zwischen SUT-Expression und NSC zu gewinnen. 
+Die Ergebnisse dieser Arbeit zeigen, dass die allgemeine Annahme, dass Bäume zu den passiven Phloembeladern gehören, zumindest nicht für die Fagaceae gilt. Für diese Familie kann vom apoplastischen Beladungsweg mittels SUT ausgegangen werden. Diese Hypothese wird durch die Charakterisierung von FsSUT1 unterstützt. Für die Salicaceae kann keine Aussage über den Konzentrationsgradienten getroffen werden, in der Literatur verfügbare Studien weisen für diese Familie auf den passiven Beladungsweg hin.</abstract>
+                    <classification authority="ddc">570</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Biologie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20190430-112440-8</identifier>
+                    <identifier type="sys">HT020054525</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9310</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9310">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/biologie/diss2019/dobbelstein/dc1904.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9310"
+            DMDID="DMD_wuppertal_elpub_9310">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9310"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3896">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>A </nonSort>
+                        <title>Comparative Study of the Efficacy of Group versus Individual Cognitive Behavior Therapy in the Treatment of Panic Disorder</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Zadeh, Farangis Jamali</displayForm>
+                        <namePart type="family">Zadeh</namePart>
+                        <namePart type="given">Farangis Jamali</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">There is an evidence to support the effectiveness and cost effectiveness of group cognitive behavioral therapy in the treatment of panic disorder. The main objective of the present study was to compare the effectiveness of individual and group formats of cognitive-behavioral therapy in panic disorder patients.
+ 45 outpatients with panic disorder with or without agoraphobia were randomly assigned to three groups: Group Therapy, Individual Therapy or a waiting -list group. In the two treatment conditions, patients received 14 weekly sessions of treatment based upon Cognitive-Behavioral therapy. Assessments were carried out pre and post treatment and in the two treatment groups at a 4-month follow-up.
+ Treatment effectiveness of individual and group CBT was compared with each other and the untreated wait-list control group with regard to Beck Anxiety Inventory (BAI), Beck Depression Inventory (BDI), Panic Disorder Severity Scale (PDSS), Agoraphobic Cognition Questionnaire (ACQ), Anxiety Sensitivity Index (ASI) and agoraphobic avoidance (FQ-AG).
+ Data analysis revealed that the three groups were not significantly different from each other at pre-treatment. Compared with the waiting list control group, the participants in both CBT formats showed significant improvement after treatment with reduction of panic disorder symptoms, while, two treatment formats were equally effective in the reduction of, depression (BDI), agoraphobic cognition (ACQ), sensitivity of anxiety (ASI) and agoraphobic avoidance (FQ-AG), but individual CBT led to greater improvement than group CBT in relation to the reduction of overall anxiety, and panic disorder severity in post treatment. Furthermore participants in both treatment groups is maintained their improvement at 4 months follow-up phase, while, individual CBT group led to greater improvement than group CBT in relation the reduction of overall anxiety (BAI), depression symptoms (BDI), panic disorder severity (PDSS) and sensitivity to anxiety (ASI) at 4 months follow-up.</abstract>
+                    <classification authority="ddc">150</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Human- und Sozialwissenschaften » Psychologie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20140326-103426-5</identifier>
+                    <identifier type="sys">HT018222373</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3896</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3896">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbg/psychologie/diss2014/zadeh/dg1401.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3896"
+            DMDID="DMD_wuppertal_elpub_3896">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3896"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

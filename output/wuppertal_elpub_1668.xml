@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1668">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Ein </nonSort>
+                        <title>spirocyclischer Glycinbaustein zur Aminosäuresynthese, als chirales Derivatisierungsreagenz und als Organokatalysator</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sturhan, Jochen</displayForm>
+                        <namePart type="family">Sturhan</namePart>
+                        <namePart type="given">Jochen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In the first part of this dissertation the synthesis of fluorinated amino acid precursors by using chiral menthylidenmethylimidazolidinon-systems (MMI) as building blocks are investigated. 
+
+It describes the challenge of finding an efficient method to insert the trifluoromethyl group in the MMI-system including the application of hypervalent I-CF₃-λ³-iodane compounds in electrophilic trifluoromethylation reactions. 
+
+Moreover, side chains were introduced via these fluorinated building blocks and in most cases the reaction occurred under high stereo control from the side anti to the isopropyl group of the menthyl ring. The configurations of the new steric centers were proved by X-ray crystallography. 
+
+The second part deals with the strategic development of a spirocyclic organocatalyst whose basic structure is based on MMI and proline. It describes the composition of this compounds (44/45) and the possible application in organocatalysis. 
+
+Furthermore, a very effective chiral derivatizing reagent (BM-TfOCC) was synthesised from 1,1,1-trifluoroacetone and L- phenylalaninol to determine the enantiopurity of amines, amino acids, and their esters by 19F-NMR spectroscopy.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20101110-112017-7</identifier>
+                    <identifier type="sys">HT016608248</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1668</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1668">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2010/sturhan/dc1017.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1668"
+            DMDID="DMD_wuppertal_elpub_1668">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1668"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

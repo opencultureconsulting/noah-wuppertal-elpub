@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_15480">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Partial Differential Equations and Spatial Structures of Lévy Type -Uncertainty Quantification and Optimization-</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Reese, Marco</displayForm>
+                        <namePart type="family">Reese</namePart>
+                        <namePart type="given">Marco</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>java.lang.ArrayIndexOutOfBoundsException
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-07</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In this thesis we use generalized random fields of Lévy type to model physical systems which are governed by uncertainties. In particular, we consider random diffusion equation with Lévy diffusion coefficients and multi-physics shape optimization problem with probabilistic cost functionals. For the diffusion equations we show the well-posedness and provide integrability and approximability results for the unique weak solution. For the shape optimization problem, we described a multi-objective optimization framework and investigated the existence of optimal shapes in terms of Pareto optimality and scalarization techniques.</abstract>
+                    <classification authority="ddc">519</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20211207-120639-2</identifier>
+                    <identifier type="doi">10.25926/03pn-nd43</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_15480</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_15480">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2021/reese/dc2124.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_15480"
+            DMDID="DMD_wuppertal_elpub_15480">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_15480"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

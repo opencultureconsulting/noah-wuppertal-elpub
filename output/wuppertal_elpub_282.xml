@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_282">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Bestimmung der W-Masse aus semileptonischen W-Zerfällen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Glege, Frank</displayForm>
+                        <namePart type="family">Glege</namePart>
+                        <namePart type="given">Frank</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-09-11</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die W-Masse ist ein fundamentaler Parameter des Standard Models. Im Vergleich mit den indirekten Messungen elektroschwacher Resultate bei niedrigen Energien liefert die W-Masse einen wichtigen Test des Standard Models. In Kombination mit der Top-Masse ist eine Vorhersage für dir Higgs-Boson-Masse möglich. Die W-Masse wurde durch direkte Rekonstruktion aus semileptonischen W-Zerfällen bestimmt. Hierzu wurden die Daten des DELPHI Experimentes aus dem Jahre 1998 benutzt, die bei einer Energie von 189GeV aufgenommen wurden und einer integrierten Luminosität von 153.8pb-1 entsprechen. Die Ereignisselektion basiert auf einer iterativen Diskriminanten Analyse und die Masse wurde durch eine zweidimensionale Likelihood-Methode bestimmt.</abstract>
+                    <abstract type="content" lang="eng">The W mass is a fundamental parameter of the Standard Model. In comparison with the indirect measurement from precise elektroweak results at lower energies, the W mass provides an important test of the Standard Model. In combination with the top mass a prediction for the Higgs boson mass is possible. From data corresponding to an integrated luminosity of 153.8pb-1 taken during the 189 GeV run in 1998 by the DELPHI experiment, the W mass from direct reconstruction has been determined using semileptonic W decays. The event selection is based on an iterative discriminant analysis and the mass was determined using a two dimensional likelihood method.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20010548</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_282</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_282">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-376/d080010.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_282"
+            DMDID="DMD_wuppertal_elpub_282">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_282"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

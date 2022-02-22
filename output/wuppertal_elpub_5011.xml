@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5011">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Aufbau komplexer carbocyclischer Strukturen durch goldkatalysierte Kaskadenreaktionen: Über die vielfältige Reaktivität hydroxylierter Allenine und Studien zur Totalsynthese von Presilphiperfolan-1-ol</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wegener, Michael</displayForm>
+                        <namePart type="family">Wegener</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die vorliegende Dissertation beschäftigt sich mit der Manipulation von C-C-Mehrfachbindungen durch homogene Gold(I)-Katalysatoren. Der erste Teil der Arbeit umfasst Untersuchungen zur silberfreien Aktivierung von Gold(I)chlorid-Präkatalysatoren. In Zusammenarbeit mit Prof. Dr. Carsten Jenne (Anorganische Chemie, BUW) konnte dabei gezeigt werden, dass sich das closo-Dodecaborat [Me₃NB12Cl11]– in Form seines Natriumsalzes hervorragend als in situ-Aktivator für verschiedene Gold(I)-Präkatalysatoren eignet, was anhand von 16 literaturbekannten Reaktionen demonstriert wurde. Darüber hinaus fand dieses neue Reagenz auch Anwendung bei der Entwicklung neuer goldkatalysierter Reaktionen, mit welcher sich der zweite Teil dieser Dissertation auseinandersetzt. Hier werden drei neue Kaskadenreaktionen hydroxylierter Allenine beschrieben, die zu einer Reihe komplexer carbocyclischer Strukturen führen. So konnten etwa 5-Silyloxy-1,6-allenine in einer Reaktionskaskade aus Heterocyclisierung und Claisen-Umlagerung zu mono- und bicyclischen Cycloheptenonen umgesetzt werden. Hochfunktionalisierte Cyclopentene und bicyclische Hydroazulenone ließen sich dagegen in einer Carbocyclisierung mit anschließender Pinakol- Umlagerung aus 4-Silyloxy-1,5-alleninen gewinnen, während entsprechende 4-Hydroxy-Analoga in einer Heterocyclisierung/Allen-En-Carbocyclisierungs-Kaskade diastereoselektiv in mono- sowie bicyclische Cyclopentadiene bzw. Cyclohexene überführt werden konnten. Eine goldvermittelte Kaskadenreaktion diente auch als Schlüsselschritt in den Studien zur Totalsynthese von Presilphiperfolan-1-ol, die im dritten Teil dieser Dissertation behandelt wird. Presilphiperfolanole sind Sesquiterpene mit einem ungewöhnlichen und synthetisch herausfordernden Tricycloundecan- Grundgerüst, das von großer Bedeutung für die Biosynthese vieler weiterer Terpen-Naturstoffe ist. Die hier durchgeführten Studien bauten strategisch auf einer syn-selektiven Enin-Carbocyclisierung auf, welche schließlich die Synthese der bicyclischen Hydropentalen-Einheit des Naturstoffes mit sämtlichen Substituenten in korrekter relativer Stereokonfiguration ermöglichte.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20150721-111109-0</identifier>
+                    <identifier type="sys">HT018721761</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5011</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5011">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2015/wegener/dc1507.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5011"
+            DMDID="DMD_wuppertal_elpub_5011">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5011"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5760">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Studies on the optical readout of the ATLAS Insertable b-Layer. From firmware development to commissioning of the Back-of-Crate card</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wensing, Marius</displayForm>
+                        <namePart type="family">Wensing</namePart>
+                        <namePart type="given">Marius</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The ATLAS Experiment is one of the world’s largest experiments in particle physics and is based at the Large Hadron Collider (LHC) at CERN in Geneva. During the LHC shutdown in 2013-2015 the ATLAS Pixel Detector as the innermost tracking detector has been upgraded by a new fourth layer, the Insertable b-Layer (IBL). The IBL uses new pixel sensors and front-end electronics with higher readout bandwidths to cope with the LHC conditions and due to its position close to the interaction point. Therefore, it requires a totally new designed readout system. The IBL readout system will be based on the readout system of the Pixel Detector and consists mainly of the Readout-Driver (ROD) and the Back-of-Crate (BOC) card.
+
+ The BOC card is responsible for sending and receiving the optical data signals from and to the detector and forwarding it to the ROD. This thesis deals with the development of the firmware for the BOC card and its testing during the production and in the full readout system. A main focus will be on the implementation of the fine delay to adjust the detector timing and the comparision of different implementations. A new approach using the partial reconfiguration will be shown as well. 
+
+ Finally, this thesis will conclude with an outlook on future readout architectures for the upgrade of the ATLAS Inner Detector in 2024. New readout concepts will be shown to tackle the requirements of the future detector.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20160502-095258-2</identifier>
+                    <identifier type="sys">HT018977851</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5760</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5760">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2015/wensing/de1505.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5760"
+            DMDID="DMD_wuppertal_elpub_5760">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5760"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

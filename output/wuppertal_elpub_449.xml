@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_449">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Synthese von Aminosäurephosphanen und Darstellung von Derivaten des Triphenylphosphans durch palladiumkatalysierte P-C- Kupplung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Tepper, Michael</displayForm>
+                        <namePart type="family">Tepper</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2000-12-12</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The first section of this work was dedicated to the development of nucleophilic phosphination reactions on aromatic fluoro compounds. Phosphino- derivatives of the α-amino acids phenylglycine and phenylalanine have been obtained by reaction of the potassium- salts of 2, or 4-fluorophenylglycine- or alanine respectively with KPPh₂ using DME as solvent. The x-ray structural analysis of 1 reveals the bulky nature of the PPh₂- substituent in ortho position to the amino acid substituent and the betaine type structure in the α-amino acid moiety of 1. Derivatives of 2-diphenylphosphino-phenylglycine 1, bearing N-, O-, P- protecting groups have been synthesed and investigated. N-acetyl protected amino acid 9 was accessible by reaction of 1 with Ac₂O in good yields. The methylester 10 was obtained by using equimolar amounts of HC(OMe)₃/ CF₃COOH/ MeOH. Due to the low solubility of 1 in solvents like toluene its reaction with sulphur failed, the phosphine oxide 11 was easily accessible by oxidation of 1 with H₂O₂. A new synthetic approach to the aldehyde 15 has been developed using acetal protected 2-fluorobenzaldehyde and KPPh₂. 15 was obtained in 85 % overall yield. Base catalysed reaction of the aldehyde 15 with HP(O)(OMe)₂ and HP(O)Me₂ afforded the α-hydroxyphosphonic acid compound 16 and the phosphine oxide 17. The analogous α-aminophosphonic acid and phosphanoxide have been obtained by reaction of the aldimine 18 with HP(O)(OEt)₂ and HP(O)Me₂. Wittig reaction of 15 with Ph₃P=CHCO₂Me yielded the cinnamic ester 22. The alkali metal salts of the cinnamic acid 23 show an unusual high solubility in water (&gt; 500 g 23 in 1000 g H₂O at ambient temperature). Using KOᵗBu/DME as deprotonation agent twofold arylation of 2-pyridylphosphine with F-C₆H₄-SO₃K was possible and afforded ligand 24 with a surprisingly low solubility in water. The molecular structure of 24 has been determinated by x-ray structural analysis. The second part of this work was concerned with the development of new synthetic methologies for derivatives of triphenylphosphine bearing +M/ +I substituents like OH, NH₂, alkyl which were not accessible by nucleophilic phosphination of fluoro aromatic compounds. Prompted by literature reports a novel type of catalytic P-C cross coupling reaction was discovered. Reaction of secondary phosphines (PhPHR, R= Ph, CH₃) with functionalized iodo aromatic compounds in presence of catalytic amounts of Pd(OAc)₂ afforded tertiary phosphines bearing a wide range of different substituents. The reaction was found to be independent of the electronic nature of the substituents. A multitude of triphenylphosphine derivatives ((o, m, p)-Ph₂PC₆H(4-n)-Rₙ R= CH₃, NH₂, OH, CO₂Me, CH₂OH, NHC(NH₂)₂⁺) and heteroaromatic substituted phosphines have been synthesised in excellent yields. By arylation of primary phosphines (RPH₂, R= aryl, alkyl) with one equivalent of the iodo compound secondary phosphines could be obtained selectively. Arylation reactions with secondary phosphines were catalysed by using 0.01 to 0.1 mol% Pd(OAc)₂. For the corresponding reactions with PhPH₂ and other primary phosphines a palladium(0)complex formed by Pd₂(dba)₃ with equimolar amounts of a chelating ligand like dppp has been employed. Using this method triphenylphosphine ligands bearing hydrophilic guanidinium moieties have been obtained by reaction of iodophenylguanidines with PhRPH (R= H, Ph) in excellent yields. The structure of the guanidinium phosphines has been revealed by structural analysis and multinuclear NMR- spectroscopy including 15N-NMR- spectroscopy.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20000493</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_449</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_449">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-544/d090018.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_449"
+            DMDID="DMD_wuppertal_elpub_449">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_449"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

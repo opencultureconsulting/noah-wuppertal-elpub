@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3747">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Towards a refined understanding of resource gain spirals—</title>
+                        <subTitle>A theoretical discussion of existing research, and novel empirical evidence from two longitudinal intervention studies</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ungerath, Steffani</displayForm>
+                        <namePart type="family">Ungerath</namePart>
+                        <namePart type="given">Steffani</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Theoretische Grundlage der Dissertation bildet die Conservation of Resources Theorie nach Steven Hobfoll (1989). Im Vordergrund steht die Frage, inweiweit sich die von Hobfoll postulierte Gewinnspirale von Ressourcen empirisch nachweisen lässt und welche Mechanismen ihr zugrunde liegen. Zur Schließung der empirischen Lücken werden zwei Längsschnittstudien durchgeführt, die ressourcenstärkende Wirkung einer Sport-Intervention untersuchen.</abstract>
+                    <abstract type="content" lang="eng">The theoretical basis of this dissertation is provided by the Conservation of Resources Theory as coined by Steven Hobfoll (1989). The key question investigated is to what extent resource gain spirals, as postulated by Hobfoll, can be empirically confirmed and what mechanisms they comply with. For the purpose of closing the gaps in the empirical research, two longitudinal intervention studies are conducted.</abstract>
+                    <subject>
+                        <topic>COR-Theorie Hoboll Gewinn-Spiralen Ressourcen Ressourcentheorie</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ddc">150</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20131023-114800-4</identifier>
+                    <identifier type="sys">HT017838152</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3747</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3747">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2012/ungerath/db1204.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3747"
+            DMDID="DMD_wuppertal_elpub_3747">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3747"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

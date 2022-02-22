@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_7420">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Poröse Strukturen für hochsensitive Lumineszenzsensoren</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Räupke, André</displayForm>
+                        <namePart type="family">Räupke</namePart>
+                        <namePart type="given">André</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Sprengstoffsensoren nach dem Prinzip der Lumineszenzlöschung stellen eine interessante Alternative zu den bisher genutzten Konzepten, wie beispielsweise Hunden oder auch der Massenspektrometrie dar. Sie verfügen über das Potenzial kostengünstig, wartungsarm, unkompliziert in der Handhabung und sogar wiederverwendbar zu sein. Eine große Herausforderung stellt dabei die Detektierbarkeit kleinster Spuren in Gas bzw. Atmosphäre dar. Bisher fanden daher viele Bemühungen statt, die Sensitivität der lumineszenten Materialien zu erhöhen. Im Gegensatz dazu war das Ziel dieser Arbeit, Strategien zur Optimierung der Struktur des lumineszenten Materials zu entwickeln. Überlegungen zur Wechselwirkung zwischen Fluorophor und Analyt legten die Verwendung einzelner Monolagen des Fluorophors nahe, da diese vollständig dem Analyten zugänglich sind. Hierbei ergibt sich bei Verwendung eines glatten Substrats das Problem einer insgesamt schwachen Lumineszenz. Die Verwendung eines porösen Gerüsts, beschichtet mit einer einzelenen Monolage des Fluorophors, löst das Problem der schwachen Lumineszenz aufgrund der großen effektiven Oberfläche dieses Substrats. Die Aufbringung einzelner Monolagen auf porösen Strukturen stellt allerdings ihrerseits eine große Herausforderung dar und ist mit bisher existierenden Verfahren nicht oder nur stark eingeschränkt möglich. Im Rahmen dieser Arbeit wurde zu diesem Zweck das Verfahren der Moleküllagenabscheidung (MLD) aufgegriffen. Das sequenzielle selbstlimitierte Abreagieren eines Reaktanten/Präkursors aus der Gasphase mit dem porösen Substrat löst dabei Probleme, wie eine eventuelle Abschattung, und ermöglicht so ein konformes Wachstum und letzten Endes sogar die Entstehung einer einzelnen molekularen Monolage. Obwohl das Verfahren der MLD seit längerem bekannt ist, fand mittels MLD bisher fast ausschließlich eine Abscheidung passiver, nicht funktionaler Schichten statt. Im Rahmen dieser Arbeit wurde daher zunächst eine geeignete Abscheideapparatur (MLD-Reaktor) konzipiert und umgesetzt. Der realisierte Aufbau konnte anhandvon ersten einfachen, bereits gut untersuchten ALD-Abscheidungen von Al₂O₃ undZnO auf seine Tauglichkeit hin validiert werden. Die erfolgreiche Oberflächenfunktionalisierung durch Aminogruppen bestätigte abermals die Tauglichkeit und legte gleichzeitig den Grundstein für die kontrollierte, an der Oberfläche stattfindende Synthese verschiedener Metallchellate. In Folge wurde die Abscheidung von Alq₃ und Znq₂ demonstriert. Die Fluorophore Alq₃ und Znq₂ wurden anschließend auf Wechselwirkung mit Lösungsmitteln hin untersucht, wobei sich insbesondere für Alq₃ bei Anwensenheit von Toluol eine Umstrukturierung der ursprünglichen Monolage hin zu kristallinen Strukturen nachweisen ließ. Alq₃-prozessiertes Aerogel wurde darüber hinaus bezüglich seiner opto-elektronischen Wechselwirkung mit TNT untersucht. Eine geringe Detektionsschwelle von unter 5 ppb (TNT Sättigungskonzentration bei Raumtemperatur) konnte aufgezeigt werden, was einen Nachweis von TNT-Spuren in Luft in Aussicht stellt. 
+ Im zweiten Teil der Arbeit wurde ein Materialsystem untersucht, bei dem über den Vorgang der anodischen Oxidation nasschemisch ein Carbazol-beinhaltendes Monomer zu einer nano-porösen Polymerstruktur quervernetzt. Die in Kooperation entstandenen Polymere zeigten eine ausgeprägte Lumineszenz sowie eine hohe Empfindlichkeit gegenüber diversen Nitroaromaten, während eine Querempfindlichkeit gegenüber diversen Lösungsmitteln untersucht und ausgeschlossen werden konnte. Die Detektierbarkeit verschiedener Nitroaromaten (Nitrobenzol, Dinitrotoluol,Trinitrotoluol) wurde explizit nachgewiesen. Insbesondere im Fall von Trinitrotoluol ließ sich der Vorteil der porösen Polymer-Struktur gegenüber einer aufgedampften Monomer-Schicht deutlich heraus stellen. Die Detektionsgrenze des Monomer- Films lag hierbei oberhalb von 3 ppm, während sich die des Polymers unterhalb von 5 ppb befindet. Für letztere wurde eine Reaktionszeit des Sensors von unter 60 s gezeigt, was eine praktische Anwendung in verschiedenen Bereichen unmittelbar ermöglicht. 
+ Zusammenfassend trägt die vorliegende Arbeit dazu bei, die MLD als Abscheideverfahren um verschiedene Materialsysteme zu erweitern. Während zuvor kaum die Abscheidung opto-elektronisch funktionaler Schichten berichtete wurde, gelang dies im Rahmen dieser Arbeit zum einen durch Erschließung der Klasse der Metallchelate und zum anderen durch direkte Aufbringung kovalent gebundener Fluorophore. Das Potential MLD-prozessierter Fluorophore, insbesondere deponiert auf Materialien mit großer effektiver Oberfläche, wurde aufgezeigt. Ein in Kooperation hergestelltes nano-poröses Polymer wurde schließlich vergleichend auf seine sensorische Tauglichkeit hin untersucht, wobei insbesondere hier der Vorteil einer porösen Struktur im Vergleich zu einer dichten Struktur demonstriert werden konnte. Diese Arbeit leistet somit einen wichtigen Beitrag zur Forschung und Entwicklung von Sprengstoffdetektoren auf Basis der Lumineszenzlöschung.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20171114-112326-3</identifier>
+                    <identifier type="sys">HT019503961</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_7420</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_7420">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2017/raeupke/de1703.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_7420"
+            DMDID="DMD_wuppertal_elpub_7420">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_7420"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

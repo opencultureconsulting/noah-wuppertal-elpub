@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_851">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>On minimal disjoint degenerations with preprojective and preinjective direct summands over tame path algebras</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Frank, Guido</displayForm>
+                        <namePart type="family">Frank</namePart>
+                        <namePart type="given">Guido</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-03-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">We consider finite-dimensional modules over tame path algebras and study the &apos;building blocks&apos; of their degenerations. These are the minimal disjoint degenerations to the direct sum of two indecomposables U, V. For the building blocks, we derive a reduction theorem that holds if U or V are non-regular. Subsequently we focus on minimal degenerations to the direct sum of a preprojective and a preinjective indecomposable and use the reduction theorem to introduce a new method to analyze the codimensions of this sort of degenerations. We show that the codimensions are bounded. By means of computer calculations we determine this bound explicitly. The codimension is always one. Finally, this leads to a minimality preserving periodicity theorem, which reduces the classification of the building blocks to a finite problem.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20090130</identifier>
+                    <identifier type="sys">HT015858031</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_851</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_851">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2008/frank/dc0829.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_851"
+            DMDID="DMD_wuppertal_elpub_851">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_851"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

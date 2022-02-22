@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1577">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Sicherheit und Gesundheitsschutz bei der Leiharbeit – Analyse und Bewertung der Umsetzung europäischer Rechtsgrundlagen in den Mitgliedsstaaten und empirische Ergebnisse zur Arbeitssituation der Leiharbeit in Deutschland</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wunenburger, Heidi</displayForm>
+                        <namePart type="family">Wunenburger</namePart>
+                        <namePart type="given">Heidi</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die für die Leiharbeit charakteristische Verteilung von Disziplinar- und Weisungsrecht auf zwei Arbeitgeber ist eine besondere Herausforderung für die Beachtung der Sicherheit und des Gesundheitsschutzes der Leiharbeitnehmer bei der Arbeit. Die Gegenüberstellung der rechtsformalen und der rechtstatsächlichen Umsetzung der europäischen Richtlinie 91/383/EWG in den Mitgliedsstaaten hat gezeigt, dass das Ziel der Angleichung des Schutzniveaus von Leiharbeitnehmern und Stammmitarbeitern des Einsatzbetriebes nicht erreicht wurde. Für Deutschland erfolgte auf empirischer Basis eine vergleichende Betrachtung bezüglich Aspekte der Arbeitsbelastung und –beanspruchung, des allgemeinen Gesundheitszustandes und der Arbeitszufriedenheit. In der Analyse wurde festgestellt, inwieweit die Ergebnisse des Vergleichs zwischen Leiharbeitnehmern und Nicht-Leiharbeitnehmern in Bezug auf die oben genannten Faktoren durch die Berücksichtigung von vergleichbaren Verteilungen des Geschlechts und des Beschäftigungsstatus in den Vergleichsgruppen beeinflusst werden. Es konnte belegt werden, dass es bei vergleichbaren Tätigkeiten keine Unterschiede zwischen Leiharbeitnehmern und Nicht-Leiharbeitnehmern im physischen und durch die Umgebungsbedingungen verursachten Belastungsniveau gibt. Abschließend wurden auf der Grundlage der gewonnenen Erkenntnisse und praxisbezogener Sachverhalten die Ursachen für das zwischen Leiharbeitnehmern und Nicht-Leiharbeitnehmern bestehende ungleiche Schutzniveau beschrieben.</abstract>
+                    <abstract type="content" lang="eng">The distribution of the disciplinary authority and the managerial authority between two employers is a typical feature of temporary agency work. This special situation is a particular challenge in regards to the compliance of health and safety requirements. The implementation of the European Directive 91/383/EEC in the Member States didn’t reach the objective of aligning the level of protection for temporary agency workers with regular workers. For the case of Germany, a comparative analysis regarding aspects of health, job satisfaction and work burdens and their effects in temporary agency workers and regular workers was carried out using univariate analysis of variance. The findings supported the hypothesis that the matching of employment status (blue collar – white collar) and gender in the comparison groups was extremely relevant for the results of the comparison between temporary agency workers and regular workers. When the matching was made, no significant differences were found in physical and environmental burden between temporary agency workers and regular workers. Finally, the reasons for the unequal level of protection between temporary agency workers and regular workers were described based on the knowledge gained and practice conditions.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Maschinenbau und Sicherheitstechnik » Sicherheitstechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20100921-123939-2</identifier>
+                    <identifier type="sys">HT016539339</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1577</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1577">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/sicherheitstechnik/diss2010/wunenburger/dd1003.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1577"
+            DMDID="DMD_wuppertal_elpub_1577">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1577"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

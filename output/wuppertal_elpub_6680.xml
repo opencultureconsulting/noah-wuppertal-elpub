@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6680">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Emotionsarbeit, Emotionsregulation und psychische Beanspruchung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Beitz, Sebastian</displayForm>
+                        <namePart type="family">Beitz</namePart>
+                        <namePart type="given">Sebastian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Ca. 75% der Erwerbstätigen gehen einem Beruf nach, der der Dienstleistungsbranche zugerechnet werden kann. Grundlegendes Merkmal von Dienstleistungen ist die Integration des Kunden und damit verbunden Interaktion zwischen Dienstleistungsgeber und –nehmer. Das emotionale Ausdrucksverhalten spielt innerhalb dieser Interaktion eine wesentliche Rolle für das Gelingen und die Wahrnehmung der Dienstleistungsqualität. Dementsprechend nehmen Unternehmen Einfluss auf den emotionalen Ausdruck ihrer Mitarbeiter in Form von spezifischen Regeln (display rules). Das Zusammenspiel von emotionsbezogenen Normen, einer zu zeigenden emotionalen Darstellung und intrapsychischen Prozessen der Emotionsregulation wird als Emotionsarbeit bezeichnet. 
+Im Kontext von betrieblichem Gesundheitsmanagement und der gesetzlichen Notwendigkeit zur Gefährdungsbeurteilung kommen adäquaten psychologischen Verfahren, die gleichzeitig ökonomisch sind und den statistischen Gütekriterien genügen, große Bedeutung zu. In diesem Zusammenhang wurde die Eigenschaftswörterliste zur Erfassung von Emotionen und des Beanspruchungserlebens bei der Arbeit (EEB) als Beanspruchungsindikator in vielen Praxisprojekten eingesetzt und anhand einer großen Datenmenge als Brücke zwischen Arbeitsanforderungen und gesundheitlichen sowie behavioralen Konsequenzen identifiziert. Nimmt man den hohen Verbreitungsgrad von Dienstleistungstätigkeiten und die darin enthaltene Notwendigkeit zur Emotionsarbeit zusammen, ergibt sich ein enormes Anforderungspotenzial. In diesem Zusammenhang verfolgt die Arbeit drei Ziele: (a) Die Validierung der Eigenschaftswörterliste zur Erfassung von Emotionen und des Beanspruchungserlebens bei der Arbeit (EEB) im Kontext von Emotionsarbeit, (b) Erweiterung der Perspektive von Emotionsregulation auf erweiternde, antezedente Strategien und (c) Einordnung der Befunde in den Analyse- und Bewertungsrahmen des Job-Strain-Control-Modells sowie des (neu konzipierten) Job-Demand-emoControl-Modells.</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170216-101418-3</identifier>
+                    <identifier type="sys">HT019261353</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6680</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6680">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2016/beitz/db1610.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6680"
+            DMDID="DMD_wuppertal_elpub_6680">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6680"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

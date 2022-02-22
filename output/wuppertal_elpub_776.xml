@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_776">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Naphthalene Based Conjugated Materials</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Nehls, Benjamin S.</displayForm>
+                        <namePart type="family">Nehls</namePart>
+                        <namePart type="given">Benjamin S.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005-10-11</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The relationship between the chemical structure of π – conjugated polymers or oligomers and their macroscopic optical and electrooptical properties is complex in nature and not fully understood at the present. Fused aromatic rings are often incorporated into semiconducting organic materials in order to realize a more extended π – conjugation. The simplest example of fused rings is naphthalene with two condensed phenyl rings. Naphthalene has a versatile and well – developed substitution chemistry, which provides different patterns for both polymerization and side – chain attachment. Therefore, utilizing the naphthalene unit should allow some tuning of the electronic and optical properties of the resulting materials. The work presented in this thesis is focused on incorporating naphthalene units into conjugated poly – and oligomers. 
+
+In chapter 2, naphthalene is incorporated into alternating copolymers as the simplest way of introducing new building blocks into new polymers. To get a better understanding different model compounds have been synthesized and compared with the polymers. Some of the model compounds are under investigation as active layers in organic field effect transistors (OFETs). 
+
+Chapter 3 presents a series of novel polyarylene – type ladder polymers containing 1,5- and 2,6- linked naphthalene units. This includes the first example of such ladder polymers consisting exclusively of six membered rings. The substitution patterns and linkage positions allow some fine tuning of the optical properties. One of the ladder polymers is also utilized as the gain material of a distributed feedback (DFB) polymer laser. 
+
+The polymers in chapter 4 utilize the 1,1&apos;-binaphthyl unit as the central unit of a new class of potentially helical, conjugated ladderpolymers. Due to the interrupted conjugation across the binaphthyl moiety, some tuning of the optical properties is possible. To investigate the substitution patterns two model compounds have been synthesized and characterized via NMR and X-ray crystallography. 
+
+Chapter 5 introduces novel statistical copolymers of (9,9-dioctylfluorene) containing various amounts of binaphthyl units. Herein the binaphthyl unit shows its capability to suppress side chain crystallization and leads to completely amorphous materials. Second order (DFB) polymer lasers based on thin films of these materials showed extremely low lasing thresholds. The materials allow a dramatic improvement of polyfluorene based solid state lasers. 
+
+In the last chapter a new family of star – shaped oligoaryl dimers based on binaphthyl or biphenyl cores are described. An extensive investigation of their structure and electronic properties including UV/Vis and NMR spectroscopy as well as X – ray analysis is presented, especially related to intramolecular π - π – interactions.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20050441</identifier>
+                    <identifier type="sys">HT014521236</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_776</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_776">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2005/nehls/dc0511.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_776"
+            DMDID="DMD_wuppertal_elpub_776">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_776"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

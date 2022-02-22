@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_873">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Finite-Size Effects in Lattice QCD with Dynamical Wilson Fermions</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Orth, Boris</displayForm>
+                        <namePart type="family">Orth</namePart>
+                        <namePart type="given">Boris</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004-10-13</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Due to limited computing resources choosing the parameters for a full Lattice QCD simulation always amounts to a compromise between the competing objectives of a lattice spacing as small, quarks as light, and a volume as large as possible. Aiming at pushing unquenched simulations with the Wilson action towards the computationally expensive regime of small quark masses, the GRAL project addresses the question whether computing time can be saved by sticking to lattices with rather modest numbers of grid sites and extrapolating the finite-volume results to the infinite volume (prior to the usual chiral and continuum extrapolations). In this context we investigate in this work finite-size effects in simulated light hadron masses. Understanding their systematic volume dependence may not only help saving computer time in light quark simulations with the Wilson action, but also guide future simulations with dynamical chiral fermions which for a foreseeable time will be restricted to rather small lattices. 
+ We analyze data from Hybrid Monte Carlo simulations with the standard two-flavor Wilson action at two different values of the coupling parameter, β = 5.6 (lattice spacing a ≈ 0.08fm) and β = 5.32144 (a ≈ 0.13fm). The larger β corresponds to the coupling used previously by SESAM/TχL. The considered hopping parameters κ = 0.1575, 0.158 (at the larger β) and κ = 0.1665 (at the smaller β) correspond to quark masses of 85, 50 and 36% of the strange quark mass. At each quark mass we study at least three different lattice extents in the range from L=10 to L = 24 (0.85-2.04fm). Estimates of autocorrelation times in the stochastic updating process and of the computational cost of every run are given. For each simulated sea quark mass we calculate quark propagators and hadronic correlation functions in order to extract the pion, rho and nucleon masses as well as the pion decay constant and the quark mass from the PCAC relation. We examine to what extent the volume dependence of the masses can be parameterized by simple functions based on M. Lüscher&apos;s analytic formula and previous numerical findings by other groups. The applicability of results for the pion and the nucleon from Chiral Effective Theory in the parameter regime covered by our simulations is discussed. Cut-off effects in the PCAC quark mass are found to be under control.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20040501</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_873</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_873">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-979/dc0411.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_873"
+            DMDID="DMD_wuppertal_elpub_873">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_873"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

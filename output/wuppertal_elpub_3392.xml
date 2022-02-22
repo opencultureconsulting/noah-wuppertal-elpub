@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3392">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entwicklung eines strahlenharten Controllers für das Kontrollsystem des ATLAS-Pixeldetektors am HL-LHC</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Boek, Jennifer</displayForm>
+                        <namePart type="family">Boek</namePart>
+                        <namePart type="given">Jennifer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Der weltweit größte Protonenbeschleuniger, der Large Hadron Collider (= LHC) am CERN in Genf, ist seit 2009 in Betrieb. Das Upgrade des LHC zum High-Luminosity Large Hadron Collider (= HL-LHC) gilt der Suche nach neuer Physik bis hin zu sehr hohen Teilchen-Massen. Dabei stellt die Luminositätserhöhung die Detektorentwicklung vor eine Herausforderung, da sich die zu erwartenden Teilchenraten stark vergrößern werden. Eine Konsequenz daraus ist der komplette Neubau des ATLAS-Pixeldetektors, bei dem grundlegende Komponenten verändert werden. Aus diesem Grund muss ein neues Detektorkontrollsystem für den neuen Pixeldetektor aufgebaut werden. Aus dem Konzept für das zukünftige Detektorkontrollsystem geht hervor, dass Chipdesign für die DCS-Komponenten nötig wird, um eine sichere, strahlenharte und möglichst Material reduzierte DCS-Kommunikation zum Detektor aufzubauen. Im Rahmen dieser Arbeit wurde ein digitales Chipdesign erstellt, das eine Controller Area Network Kommunikation (= CAN-Kommunikation) beinhaltet. Diese Komponente wird DCS-Controller genannt und gewährleistet zusammen mit dem DCS-Chip die sichere DCS-Datenübertragung für jeden Betriebsmodus des Pixeldetektors. Neben der Entwicklung des DCS-Controllers und der Verifikation der Funktionsfähigkeit wurden Messungen mit einem Protonenstrahl am Paul Scherrer Institut in der Schweiz durchgeführt, die bestätigen, dass die fehlerfreie Datenübertragung auch in der erwarteten Strahlungsumgebung für den HL-LHC gegeben ist.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20130305-093136-4</identifier>
+                    <identifier type="sys">HT017581367</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3392</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3392">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2012/boek/dc1230.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3392"
+            DMDID="DMD_wuppertal_elpub_3392">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3392"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3749">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Diamond-like carbon coatings deposited by vacuum arc in artificial hip joints</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ren, Ying</displayForm>
+                        <namePart type="family">Ren</namePart>
+                        <namePart type="given">Ying</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">For biomedical application in the field of artificial hip joints diamond-like carbon (DLC) coatings have been widely studied due to their excellent mechanical, tribological and biological properties. At present the lifetime of such joints is just about 15 years and some (10%) of patients require second replacementent. In consequence, it is currently an urgent need to extend the life expectancy especially for younger patients under 50 years old. As is well known, the wear particles as the main factor limiting the life expectancy of hip joints have attracted more and more interest, in particular, the amount of wear particles. However, it is rare to see the reports about wear particle size distribution. 
+ The key contribution of this dissertation is a new approach-design of wear particle size distribution, which is an initial and important step of DLC research in artificial hip joint field. In addition, DLC coating is grown by a new deposition technique based on the vacuum arc, which allows the transition from cathodic to anodic operation mode by adjusting anode-cathode diameter ratio. The main aim of this dissertation is to investigate the influence of deposition parameters on the wear particle size distribution, as well as the structure and tribological properties of DLC coatings. It is shown that it is possible to reduce the wear particle size by optimization of the deposition parameters.</abstract>
+                    <abstract type="content" lang="ger">Für biomedizinische Anwendungen im Bereich künstlicher Hüftgelenke wurden DLC-(diamond like carbon) Schichten hinsichtlich ihrer ausgezeichneten mechanischen, tribologischen und bioinerten Eigenschaften weitreichend untersucht. 
+ Gegenwärtig beträgt die Lebensdauer dieser Implantate in etwa 15 Jahre, so dass ca. jeder zehnte Patient einen weiteren Austausch benötigt (Revisionsoperation). Folglich ist es, besonders für jüngere Patienten unter 50 Jahren von großer Wichtigkeit, die Standzeit dieser Gelenkimplantate zu erhöhen. 
+ Da Abriebpartikeln bekanntermaßen der Faktor sind, welcher die Standzeiten dieser Hüftimplantate am meisten beschränkt, rückten diese (speziell in ihrer Quantität) in der Vergangenheit zunehmend in den Fokus der wissenschaftlichen Betrachtung. 
+ Ungeachtet dessen gibt es nur wenige Veröffentlichungen über die Partikelgrößenverteilung. 
+ Der Schlüsselbeitrag dieser Dissertation ist ein neuer Ansatz zur Beeinflussung der Partikelgrößenverteilung, welcher einen innovativen und wichtigen Schritt in der Erforschung von DLC-Schichten für künstliche Hüftgelenkimplantate darstellt. 
+ Hierbei kommt ein neuartiges Beschichtungsverfahren, welches auf dem Vakuum-Lichtbogenverfahren basiert, zum Einsatz. Durch Variation der Elektrodendurchmesser erlaubt es dieses Verfahren, die DLC-Schichten sowohl vom kathodischen als auch vom anodischen Lichtbogen abzuscheiden. 
+ Hauptziele dieser Dissertation sind sowohl die Erforschung des Einflusses der Beschichtungsparameter auf die Partikelgrößenverteilung sowie auch die strukturellen und tribologischen Eigenschaften der DLC-Schichten. 
+ Es wird gezeigt, dass es möglich ist, die Größe der Abriebpartikeln durch Optimierung der Beschichtungsparameter zu reduzieren.</abstract>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Maschinenbau und Sicherheitstechnik » Maschinenbau"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20131023-124239-7</identifier>
+                    <identifier type="sys">HT017830809</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3749</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3749">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/maschinenbau/diss2013/ren/dd1304.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3749"
+            DMDID="DMD_wuppertal_elpub_3749">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3749"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

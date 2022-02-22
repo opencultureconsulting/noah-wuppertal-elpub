@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:15241</id><datestamp>2021-09-14</datestamp><setSpec>DDC:6:60</setSpec>
+          <dc:title xml:lang="en">A high data rate readout system for particle detectors based on FPGA-to-server ethernet connections and the eXpress Data Path technology</dc:title>
+          <dc:creator>Dülsen, Carsten</dc:creator>
+          <dc:contributor>Tutsch, Dietmar</dc:contributor>
+          <dc:contributor>Wagner, Wolfgang</dc:contributor>
+          <dc:date>2021-09-14</dc:date>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/informationstechnik/diss2021/duelsen</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=15241</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20210914-095252-5</dc:identifier>
+          <dc:identifier>https://doi.org/10.25926/7a9g-rq40</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-14259/de2104.pdf</dc:identifier>
+          <dc:description xml:lang="en">&lt;p&gt;With the Large Hadron Collider (LHC) at CERN being upgraded to the high luminosity LHC (HL-LHC), the four major experiment (ATLAS, ALICE, CMS and LHCb) use the opportunity to also upgrade their systems. In these so-called Phase II upgrades, the systems of each experiment are reworked or even replaced to enable the recording of a considerably increased event rate. In parallel, the resolution of the tracking subsystems will be increased to reach a better event separation. The ITk Pixel detector of the ATLAS experiment is used as example for this. The increased resolution and the increased number of front-end (FE) chips also leads to a drastically increased data rate, which is necessary to transfer all event information from the detector in a timely manner.&#13;
+&#13;
+&lt;br&gt;The upgrade is also used for replacing the readout and processing chain outside of the detector volume. Thereby, a unification of the different subsystems as well as a shift towards commercial products and software can be observed. This is due to the immense costs and increasing problems in maintaining the systems over a long time period due to the lack of system experts.&#13;
+&#13;
+&lt;br&gt;But there are some parts of the processing that still need to be done in hardware (e.g. within a field programmable gate array (FPGA)). Therefore, an interface between the hardware systems and the software running on a remote server needs to be implemented. While the PCIe interface was quite common for this, it limits the bandwidth as each processing card will only have a single PCIe interface. With the server hosting such cards is already busy with forwarding the data via a commercial network, it cannot provide any data processing capability.&#13;
+&#13;
+&lt;br&gt;Thereby, it would be more efficient to sent directly from the FPGA as this would also allow for better scaling of bandwidth. However, the standard protocols for reliable data transmissions were designed with a software implementation in mind. That’s why their implementation in hardware would be rather complicated. Therefore, the question about the necessity of guaranteed data transmission arose.&#13;
+&#13;
+&lt;br&gt;To answer this question, a network stack was implemented within this thesis to investigate the level of packet drop occurring in the transmission and how this could be reduced to an acceptable level. In this context, an emerging technique named eXpress Data Path (XDP) was evaluated. With its help, the transmission of 5.2PB (i.e. 2.92 × 10e&lt;sup&gt;12&lt;/sup&gt; packets) within 168h (i.e. a week) with not a single missing packet was demonstrated.</dc:description>
+          <dc:rights>Dieses Werk kann unter einer Namensnennung - Nicht kommerziell - Keine Bearbeitungen 4.0 Lizenz genutzt werden. https://creativecommons.org/licenses/by-nc-nd/4.0/</dc:rights>
+          <dc:subject>600 Technik, Medizin, angewandte Wissenschaften » 600 Technik</dc:subject>
+          <dc:subject>Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Informationstechnik » Dissertationen</dc:subject>
+          <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
+          <dc:language>eng</dc:language>
+          <dc:format>application/pdf</dc:format>
+          <dc:type>Text</dc:type>
+        </oai_dc:dc>

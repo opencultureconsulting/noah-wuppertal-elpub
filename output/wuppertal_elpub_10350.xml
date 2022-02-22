@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_10350">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>On Shape Calculus with Elliptic PDE Constraints in Classical Function Spaces</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bittner, Laura</displayForm>
+                        <namePart type="family">Bittner</namePart>
+                        <namePart type="given">Laura</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-03-05</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In this thesis we develop a functional analytic framework for shape optimization with elliptic partial differential equation (PDE) constraints in classical function spaces (Hölder spaces). This approach is motivated by shape optimization problems, which are subjected to linear elasticity constraints and involve a special class of shape functionals which calculate the failure rate of a mechanically loaded device w.r.t. the component shape. These objectives are ill-defined for H¹-solutions of the state equation and the shape derivatives are not defined for H¹-material derivatives. Thus, the resulting optimal reliability problems can not be solved by the already existing methods of shape calculus. We develop a general concept on Banach and Hilbert spaces which is based on parameter depending variational equations, classical PDE Solutions, Schauder estimates and compact embeddings and which allows to transfer differentiability in lower Banach space topologies to higher ones. We apply this framework to the linear elasticity equation and its variational formulation, given that the domain is transformed according to the speed method. We prove the existence of material and local shape derivatives in Hölder spaces, the existence of shape derivatives and derive adjoint equations. We also give a classification of the L²-shape gradient w.r.t. its regularity and its potential to sustain the domain regularity along a descent flow.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20200305-111846-5</identifier>
+                    <identifier type="doi">10.25926/pkfr-kr55</identifier>
+                    <identifier type="sys">HT020468969</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_10350</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_10350">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2019/bittner/dc1948.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_10350"
+            DMDID="DMD_wuppertal_elpub_10350">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_10350"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

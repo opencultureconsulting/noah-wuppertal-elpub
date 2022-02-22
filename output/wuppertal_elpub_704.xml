@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_704">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Ausgewählte Probleme der Versicherungsökonomie</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Maschke, Nils</displayForm>
+                        <namePart type="family">Maschke</namePart>
+                        <namePart type="given">Nils</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-05-29</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Dissertation behandelt drei aktuelle Fragen der Versicherungsökonomie.
+ 1. Die Frage der Entlohnung von Vertriebsaußendienstmitarbeitern bei Einführung des direkten Vertriebs durch die Systemzentrale.
+ 2. Die Messung der Service-Convenience bei Versicherungen und deren unterschiedliche strategische Nutzung.
+ 3. Die Trennung guter und schlechter Kunden durch die Differenzierung der Benefit-Convenience bei Versicherungen.
+ AD 1: Durch erfolgsabhängige Entlohnung sind Vertriebsaußendienstmitarbeiter besonders vom direkten Vertrieb der Systemzentrale (bspw. über das Internet) betroffen. Sie befürchten Umsatz- und damit Entlohnungseinbußen und verlangen daher i.d.R. höhere Entlohnungsprämien.
+ Ein auf Basis der Prinzipal-Agenten-Theorie aufbauendes Modell zeigt, dass diese Befürchtungen nur teilweise zutreffen und davon abhängig sind, wie stark der direkte Vertrieb von den Kunden genutzt wird. Bei geringer Nutzung zeigt sich, dass sogar sinkende Erfogsprämien einen hohen Arbeitseinsatz sicherstellen. Bei intensiver Nutzung kommt es hingegen zur Anreizeskalation.
+ AD 2: Bei Dienstleistungen spielt der Convenience-Gedanke bislang keine große Rolle. In diesem Teil wird auf Basis transaktionskostentheoretischer Überlegungen ein Ansatz für die Messung von Service-Convenience vorgestellt. Anschließend wird sie bei 40 Versicherungs-Auftritten im Internet gemessen und – auf Basis einer Cluster-Analyse – strategische Gründe für beobachtete Unterschiede abgeleitet.
+ AD 3: Bislang wurden gute und schlechte Kunden bei Versicherungen primär über eine unterschiedlich hohe finanzielle Beteiligung im Schadensfall getrennt. Im dritten Teil der Arbeit wird durch ein informationsökonomisches Modell gezeigt, dass gute und schlechte Kunden dann durch eine unterschiedliche Ausstattung mit Service-Convenience getrennt werden können, wenn schlechte Kunden eine höhere Benefit-Convenience bevorzugen. Dieser Zusammenhang konnte empirisch bestätigt werden.</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20080213</identifier>
+                    <identifier type="sys">HT015555800</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_704</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_704">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2008/maschke/db0801.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_704"
+            DMDID="DMD_wuppertal_elpub_704">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_704"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

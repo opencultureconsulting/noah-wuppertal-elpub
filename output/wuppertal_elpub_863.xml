@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_863">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Numerical Algorithms for System Level Electro-Thermal Simulation</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Culpo, Massimiliano</displayForm>
+                        <namePart type="family">Culpo</namePart>
+                        <namePart type="given">Massimiliano</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-10-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In den kommenden Jahren wird eine genaue elektro-thermische Analyse von integrierten Schaltungen der Schlüssel zu ihrem zuverlässigen und kostengünstigen Design werden. Werkzeuge im Computer-Aided-Design müssen daher Methoden zur Simulation elektro-thermischer Effekte zur Verfügung stellen. 
+
+Ein robuster Algorithmus zur Lösung dieser Probleme erfordert einerseits ein hohes Maß an Integration in die Designprozesse der Industrie, um effektiv einsetzbar zu sein und andererseits die Möglichkeit 2D/3D Wärmeleitung zu berücksichtigen, um die thermischen Effekte präzise auf Systemebene zu beschreiben. Im Besonderen sollten die Mehrskalen-Effekte in Zeit und Ort effizient ausgenutzt werden. 
+
+Diese Arbeit stellt eine neue Methode zur automatischen Berücksichtigung von elektro-thermischen Simulationen auf Systemebene im Industriedesign vor. Die vorgeschlagene Methode modelliert das elektrische Verhalten jedes Elementes durch Kompaktmodelle mit einem zusätzlichen Temperaturknoten. Die gegenseitige Erwärmung ergibt sich dann durch eine partielle Differentialgleichung, die durch Beachtung der Energieerhaltung an das elektrische Netzwerk gekoppelt wird. Das Mehrskalenverhalten der Wärmeleitung in VLSI-Schaltkreisen wird durch ein adäquates Diskretisierungsschema ausgenutzt, das große Bereiche effizient mittels groben Gittern abbildet, aber auch Details kleinerer Größenordnung einbezieht. Es werden numerische Ergebnisse sowohl für akademische, als auch realistische Testbeispiele präsentiert, die die Korrektheit des Modells und der Methode unterstreichen.</abstract>
+                    <abstract type="content" lang="eng">In the incoming years an accurate electro-thermal analysis will be a key factor to a reliable and cost-effective design of integrated circuits. Computer aided design tools have to provide therefore dependable means to simulate coupled electro-thermal effects. 
+
+A robust algorithm for this purpose requires a high degree of integration inside usual industrial design flows to be effectively usable, and the possibility to account for 2D/3D heat diffusion to properly describe thermal effects at the system level. In particular it should allow an efficient handling of the space-time multi-scale effects associated with the problem at hand. 
+
+To this end a novel strategy to automatically perform system level electro-thermal simulations inside an industrial design flow is suggested by this thesis. In the proposed approach the electrical behavior of possibly each circuit element is modeled by standard compact models with an added temperature node. Mutual heating is then accounted for by a 2D or 3D diffusion-reaction partial differential equation, which is coupled to the electrical network by enforcing instantaneous energy conservation. To cope with the multi-scale nature of heat diffusion in VLSI circuit a suitable spatial discretization scheme is adopted which allows for efficient meshing of large domains with details at a much smaller scale. Numerical results on both academic and realistic test cases are included as a validation of the model and of the numerical method.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20090978</identifier>
+                    <identifier type="sys">HT016107372</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_863</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_863">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2009/culpo/dc0910.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_863"
+            DMDID="DMD_wuppertal_elpub_863">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_863"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

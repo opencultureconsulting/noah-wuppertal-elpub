@@ -1,0 +1,130 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6510">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entwicklung eines Regelungskonzepts für Aluminium-Elektrolysezellen unter Berücksichtigung einer variablen Stromstärke und eines regelbaren Wärmeverlusts</title>
+                    </titleInfo>
+                    <titleInfo lang="eng" type="translated">
+                        <title>Development of a control concept for aluminum electrolysis cells taking into account a variable current and a controllable heat loss</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Düssel, Roman</displayForm>
+                        <namePart type="family">Düssel</namePart>
+                        <namePart type="given">Roman</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Pietzsch, Udo</displayForm>
+                        <namePart type="family">Pietzsch</namePart>
+                        <namePart type="given">Udo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Tutsch, Dietmar</displayForm>
+                        <namePart type="family">Tutsch</namePart>
+                        <namePart type="given">Dietmar</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Janoske, Uwe</displayForm>
+                        <namePart type="family">Janoske</namePart>
+                        <namePart type="given">Uwe</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Deuerler, Friederike</displayForm>
+                        <namePart type="family">Deuerler</namePart>
+                        <namePart type="given">Friederike</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In den Jahren der Energiewende trifft die „Virtuelle Batterie“ mit ihrer Möglichkeit des Lastmanagements den Kern der Zeit. Eine Verschiebung des Produktionslastpunktes um 25% aller deutschen Aluminiumhütten für 48h ergibt eine Speicherkapazität von etwa 13GWh und erhöht damit die aktuell installierte Pumpspeicherkapazität Deutschlands um etwa 33%. Damit trägt die Virtuelle Batterie nicht nur zur erfolgreichen Umsetzung der Energiewende bei, sondern ist als Vorreiter in der energieintensiven Industrie maßgeblich an ihr beteiligt. 
+
+ In der vorliegenden Dissertation werden die Grundlagen der Aluminiumherstellung sowie gängige Theorien zu Prozessregelsystemen der Aluminiumschmelzflusselektrolyse beschrieben. Anhand einer umfangreichen Beispielrechnung wird der Einfluss des Lastmanagements auf den Elektrolyseofen dargestellt. 
+
+ Notwendig für die Flexibilisierung ist ein magnetisch kompensierter Ofen zur Erstellung einer ebenen Aluminiumoberfläche, damit Stromstärkeänderungen keinen Kurzschluss der Aluminiumoberfläche mit den Anoden erzeugen. Darüber hinaus ist eine zusätzliche Kühlung zwingend erforderlich um die Enthalpie des Ofens nicht so stark anzuheben, dass keine schützende Randkruste mehr vorhanden ist. Beide Maßnahmen wurden im Rahmen dieser Dissertation an zwölf Versuchsöfen installiert und verifiziert. 
+
+ Die über einen Zeitraum von fünf Jahren (2011-2016) durchgeführten Versuche zur Flexibilisierung des Energieeintrages eines Elektrolyseofens werden erklärt und die Ergebnisse diskutiert. Mithilfe einer umfangreichen Messwertaufnahme wurde ein Echtzeit-Wärmebilanz-Modell (Energycounter) entwickelt, welches Aufschluss über das Temperaturverhalten der Elektrolyseöfen unter Flexibilisierungsbedingungen gibt. Schlussendlich wird eine geeignete Echtzeit-Wärmebilanz-Regelung vorgestellt und im virtuellen Modell (Matlab/Simulink) und an der realen Testofengruppe verifiziert. 
+
+ Der Lösungsansatz ist in drei Themenbereiche gegliedert. Im ersten Schritt den Energieeintrag so weit wie möglich zu reduzieren und im Folgeschritt den Wärmeverlust mittels der Wärmetauscher zu kompensieren. Die Umsetzung erfolgt überlagert und ist für jeden Ofentyp einzeln zu bestimmen. Jeder Ofen unterliegt thermischen und prozesstechnischen Grenzen, welche für den EPT14 Ofen des Standorts Essen bestimmt wurden. Sind minimaler Ofenwiderstand sowie die min/max Grenzen des Wärmeverlustes bekannt, können im ersten Schritt der Regelung des Wärmehaushalts nach dem Ohmschen Gesetz der Widerstand antiproportional zur Stromstärke bis zu seinem Minimum angepasst werden. Mit Erreichen des Minimums wird der Wärmeverlust über die Wärmetauscher proportional zu weiteren Stromstärkeerhöhungen vergrößert. Schlussendlich müssen Regelungen eines bestehenden Prozesssystems so angepasst werden, dass sie der Flexibilisierung nicht entgegenwirken, sondern sie begünstigen. 
+
+ Ein veränderter Wärmeverlust stellt sich jedoch nicht, wie die Anpassung des Energieeintrags über den ACD, unmittelbar ein. Die Wärmeverluständerung unterliegt einer Reaktionszeit, welche beschrieben und nachgewiesen wurde. Durch ein gezielt überkompensierendes PT1-Glied wird der nacheilenden Wärmeverluständerung entgegengewirkt, sodass sich ein neues thermisches Gleichgewicht schneller einstellt. Die Grenzen des Systems sind bei der negativen Modulation wirtschaftlicher Art, während bei der positiven Modulation der einzustellende Wärmeverlust über die Wärmetauscher nicht beliebig erhöht werden kann. 
+
+ Die vorliegende Dissertation befasst sich hauptsächlich mit der Aufnahme von Wärmebilanzen, Temperaturen und Spannungen. Im Zeitalter von BigData wäre es möglich, Eingangskontrollen zu Mengen von Aluminiumoxid und Aluminiumfluorid genauer aufzunehmen, um auch das chemische Gleichgewicht zu bilanzieren. Des Weiteren könnte mithilfe einer (Massen-) datengestützten Erfassung, Überwachung und Steuerung möglichst aller relevanten Prozessparameter, der Betrieb einer Aluminiumelektrolyse unter Flexibilisierungsbedingungen bezüglich Verschleiß und Energieverbrauch verbessert werden. Diese Daten werden seit Jahren erfasst, jedoch zum Teil nicht ausgewertet und gespeichert noch zur Regelung oder einfachen Steuerung angewendet. Zur Verringerung der Komplexität wurden bislang die Einflussnahme der in Wechselwirkung stehenden Prozesse nicht berücksichtigt, welche ebenfalls in einer neuartigen Prozessregelung aufgenommen werden sollten. Schlussendlich können in einer neuartigen Prozessregelung der Energycounter, die Echtzeit-Energiebilanz-Regelung sowie die Ofenregelung in einem Mehrgrößensystem miteinander verbunden werden. So kann das Verhalten des Ofens mithilfe des virtuellen Systems schon vorausbestimmt werden und darauf frühzeitig reagiert werden. Dieses sehr umfangreiche Vorhaben muss dann alle drei Ebenen, von der Messwertaufnahme (Hardware), über die Regelung (Hard+Software), bis zur Visualisierung (Software) beinhalten. Der Grundstein zu diesem Projekt ist hiermit gelegt und die TRIMET ist bereit, diesen Paradigmenwechsel der Aluminiumherstellung zu gehen.</abstract>
+                    <abstract type="content" lang="eng">The „Virtual Battery“ hits the core of this decade of energy transition in Germany due to new possibilities it provides for load management. A shift in production rate by 25% at all German aluminium smelters for 48hrs can result in a storage capacity of about 13GWh, increasing the currently installed pump storage capacity in Germany by around 33%. The Virtual Battery will be instrumental in both the energy transition strategy, as well as pioneering technology in energy-intensive industrial sectors. 
+
+ The fundamentals of aluminium production as well as current theories for process control systems of aluminium electrolysis are described in this thesis. The influence of load management on an electrolysis cell is examined by extensive sample calculations. 
+
+ The use of magnetic compensation on the electrolysis cell is necessary for flexible production to create a flat aluminium metal surface, and prevent short circuiting between the metal and the anode during changes in current. External cooling systems are also required to control the heat balance of the cell and prevent melting of the protective side ledge crust when current is increased rapidly. Both measures have been installed and verified in this thesis, with their characteristics researched and described. 
+
+ Experiments were conducted over a period of five years (2011-2016) to improve the flexibility of energy consumption of the electrolytic cell, and the results explained and discussed. A real-time heat balance model (energy counter) was developed using extensive experimental data logging, providing information about the temperature response of an electrolytic cell under flexible operating conditions. Finally a suitable control system for real-time heat balance control is presented, and the virtual model created in Matlab/Simulink is verified on the real furnace test group. 
+
+ The approach is divided into three areas. The first step is to reduce the energy input as far as possible and to compensate in a subsequent step the heat loss by the heat exchanger. The reaction is superimposed and must be determined individually for each type of furnace. Each furnace is subject to thermal and process engineering limits, which were intended for the furnace at TRIMET Essen. If the minimum furnace resistance and the min/max limits of the heatlosses are well known, the regulation of the heat balance can be done by changing the resistance. According to Ohm’s law the resistance can be adjusted to its minimum inversely proportional to the current. By reaching the resistance minimum the heat loss through the heat exchanger is increased in proportion to further current increases. Finally control systems of an existing process control must be adjusted so that it does not counteract the energy flexibility, but promote it. 
+
+ The cell heat balance has been maintained in a stable position during the experiments, as changes in energy input due to the line current are also adjusted by changing the cell ACD. The reaction time for changes in heat balance are described and demonstrated, and heat loss changes rapidly counteracted to a thermal equilibrium using a targeted overcompensation. The limits of the virtual battery system are both of an economic nature for negative modulation, and physical for positive modulation, due to limits on the rate that heat loss can be changed via the shell heat exchangers. This thesis mainly deals with the recording of cell heat balances, temperatures and voltages. The chemical equilibrium of the cells can also be accurately recorded by measurement of input amounts of alumina and aluminium fluoride. 
+
+ Furthermore all relevant process parameters may be recorded, monitored, and controlled for the operation of an aluminium smelter under flexible conditions to improve energy consumption and efficiency. This information is routinely recorded by all smelters for extensive time periods, but has not been exploited fully for the most effective control strategy. These parameters are highly interrelated, and their multivariate interactions have not been analysed to reduce the complexity of the system, which should be included in a new process control scheme. Finally, the Energy Counter, real-time energy balance control and heat regulation system can also be linked to the process parameters in a multivariate process control system. This will allow the behaviour of the cell to be pre-determined during flexible operation, and compensated in advance. This extensive range of projects spans three levels, including the recording of measured values (hardware), arrangement and calculation of data (hardware and software) and data analysis and visualisation (software). The basis for the future direction of this project has been set by TRIMET, allowed for a paradigm shift in the production of aluminium metal.</abstract>
+                    <subject>
+                        <topic>Aluminium</topic>
+                        <topic>Wärmetauscher</topic>
+                        <topic>Virtuelle Batterie</topic>
+                        <topic>Lastmanagement</topic>
+                        <topic>Erneuerbare Energie</topic>
+                        <topic>Echtzeit-Wärmebilanz-Regelung</topic>
+                        <topic>Energy-Counter</topic>
+                        <topic>aluminum</topic>
+                        <topic>heat exchanger</topic>
+                        <topic>virtual battery</topic>
+                        <topic>energy demand management</topic>
+                        <topic>renewable energy</topic>
+                        <topic>realtime heat balance control</topic>
+                        <topic>energy counter</topic>
+                    </subject>
+                    <classification authority="ddc">600</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170202-104541-8</identifier>
+                    <identifier type="sys">HT019230727</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6510</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6510">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/maschinenbau/diss2016/duessel/dd1606.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6510"
+            DMDID="DMD_wuppertal_elpub_6510">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6510"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

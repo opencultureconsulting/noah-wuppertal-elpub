@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3298">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Ein </nonSort>
+                        <title>mechanisches Kommutierungsverfahren zum direkten Betrieb von permanenterregten Synchronmaschinen aus einer Gleichspannungsquelle</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Rösmann, Tobias</displayForm>
+                        <namePart type="family">Rösmann</namePart>
+                        <namePart type="given">Tobias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In der vorliegenden Arbeit wird ein neuartiges Kommutierungsverfahren vorgestellt, durch welches ein Synchron-Servomotor direkt aus einer Gleichspannungsquelle betrieben werden kann. 
+
+Das Verfahren nutzt diskrete Spannungsraumzeiger zur Ansteuerung der elektrischen Maschine, wie sie auch bei der Direkten Selbstregelung oder dem Direct Torque Control- Verfahren zum Einsatz kommen. Dort beeinflussen Flussraumzeiger und Drehmoment den zu stellenden Spannungsraumzeiger. Im vorgestellten Verfahren jedoch bestimmt ausschließlich die mechanische Rotorposition den Raumzeiger der anliegenden Statorspannung. Die außergewöhnliche Eigenschaft des Verfahrens liegt darin, dass es rein elektromechanisch realisiert ist und weder Leistungselektronik noch Mikrokontroller zum Einsatz kommen. Aus diesem Grund wird das Verfahren als Mechanische Selbstkommutierung, kurz MSK bezeichnet. 
+
+In einem ersten Schritt werden die Eigenschaften des Verfahrens unter der Annahme eines idealen rotorgesteuerten Drehspannungssystems hergeleitet und analysiert. Daraufhin wird eine praktische Lösung für den mechanischen Kommutator vorgestellt, durch welchen die Ansteuerung des Synchron-Servomotors mit diskreten Spannungsraumzeigern ermöglicht wird. 
+
+Das Gesamtsystem, bestehend aus Kommutator und Servomotor, wird im folgenden mathematisch beschrieben und mit der Software Matlab Simulink modelliert. Hierbei wird insbesondere die Rückwirkung der Maschine auf das Schaltverhalten des Kommutators berücksichtigt. Abschließend werden durch einen Prüfstand die theoretischen Betrachtungen sowie das Simulationsmodell auf ihre Gültigkeit hin geprüft. 
+
+In einer Windkraftanlagen soll das entwickelte Verfahren in den elektrischen Antrieben des Rotorblattverstellsystems zum Einsatz kommen. Der Pitchantrieb wird hierbei von dem mechanischen Kommutator angesteuert und direkt aus einem elektrischen Notenergiespeicher gespeist. Die einzelnen Blätter werden durch diese Möglichkeit auch bei Ausfall der Servoregler in die sogenannte Fahnenstellung bewegt um die Windturbine abzubremsen. Die Funktionssicherheit dieser Bremsfunktion wird damit deutlich erhöht. 
+ Auch erschienen bei:
+ Books on Demand GmbH, Norderstedt
+ © 2012 Tobias Rösmann
+ ISBN: 978-3-84-825093-6</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20130118-102414-4</identifier>
+                    <identifier type="sys">HT017582669</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3298</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3298">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2012/roesmann/de1203.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3298"
+            DMDID="DMD_wuppertal_elpub_3298">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3298"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

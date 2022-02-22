@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3697">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Experimentelle und numerische Untersuchungen reaktiver Brandschutzbeschichtungen für Gefahrgut-Transporttanks</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Blees, Daniel Christian</displayForm>
+                        <namePart type="family">Blees</namePart>
+                        <namePart type="given">Daniel Christian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Durch den Einsatz reaktiver Brandschutzbeschichtungen auf Gefahrgut- Transporttanks wurde experimentell und numerisch untersucht, ob die Feuerwiderstandsdauer für einen Zeitraum &gt; 75 Minuten erhöht werden kann. Reaktive Brandschutzbeschichtungen bilden durch ihre spezifische Zusammensetzung bei einer thermischen Belastung eine schützende Isolierschicht. Zur Eignungsuntersuchung wurden Brandprüfungen an beschichteten Platten durchgeführt. Aus den gewonnenen Ergebnissen der Plattenbrandprüfungen konnte u.a. eine äquivalente Wärmeleitfähigkeit berechnet werden, die zur Simulation eines beschichteten Gefahrguttanks bei einer Unterfeuerung diente. Die Ergebnisse der Plattenbrandprüfungen und der Simulation konnten im Rahmen eines Brandversuchs mit einem beschichteten Tank verifiziert werden. 
+Eine Feuerwiderstandsdauer &gt; 75 Minuten ist mit reaktiven Brandschutzbeschichtungen möglich.</abstract>
+                    <abstract type="content" lang="eng">The use of fire protection coating for dangerous goods tanks was analyzed experimentally and numerically for a fire resistance period increased to more than 75 minutes. In a thermal stress, reactive fire protection coatings form due to their specific composition. Panel fire tests were carried out to determine suitability. As a result of the panel fire tests, it was possible to calculate an equivalent thermal conductivity which in turn was used to simulate the fire test on a dangerous goods tank. The results of the panel fire tests, and of the simulation, were verified within the scope of a fire test on a dangerous goods tank with fire protection coating. 
+A fire resistance period of more than 75 minutes is possible with a fire protection coating.</abstract>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Maschinenbau und Sicherheitstechnik » Sicherheitstechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20130820-114855-8</identifier>
+                    <identifier type="sys">HT017752421</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3697</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3697">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/sicherheitstechnik/diss2012/blees/dd1209.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3697"
+            DMDID="DMD_wuppertal_elpub_3697">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3697"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

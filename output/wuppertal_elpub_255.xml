@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_255">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Lokale Fortsetzbarkeit holomorpher Abbildungen im nicht-pseudokonvexen Fall</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hübschen,Thorsten</displayForm>
+                        <namePart type="family">Hübschen</namePart>
+                        <namePart type="given">Thorsten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002-06-04</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In dieser Arbeit wird das folgende klassische Abbildungsproblem der komplexen Analysis betrachtet: 
+Gegeben seien zwei beschränkte Gebiete D, D&apos; im C^n und eine eigentliche holomorphe Abbildung f von D auf D&apos;. Es sei z ein Randpunkt von D und sei z&apos; ein Punkt der Häufungspunktmenge von z unter f. Unter welchen (lokalen) Bedingungen an die Ränder bD und bD&apos; in der Nähe von z und z&apos; läßt sich f zu einer holomorphen Abbildung in einer offenen Umgebung von z fortsetzen?
+ Fokus der vorliegenden Arbeit ist dabei der Fall von nicht-pseudokonvexen Randpunkten z und z&apos; - für den im Gegensatz zu dem pseudokonvexen Fall noch keine allgemeinen lokalen Aussagen bekannt sind.
+ Es werden dazu zwei Hauptergebnisse gezeigt: 
+Zum einen wird eine (schwache) lokale Version des globalen holomorphen Fortsetzungstheorems für den Fall n=2 von Diederich/Pinchuk (1995) hergeleitet: Sind die Ränder bD und bD&apos; lokal reell-analytisch und von endlichem Typ und läßt sich f homöomorph fortsetzen, dann setzt sich f sogar holomorph fort.
+ Damit ist die Frage der holomorphen Fortsetzbarkeit auf die der stetigen Fortsetzbarkeit reduziert
+ Das zweite Hauptergebnis greift diese Frage auf und gibt eine Aussage über die lokale (Hölder-)stetige Fortsetzbarkeit eigentlicher holomorpher Abbildung im allgemeinen Fall n&gt;=2, basierend auf dem Methoden von Lempert (1986) und von Henkin (1973).</abstract>
+                    <abstract type="content" lang="eng">In this thesis the following classical mapping problem in complex analysis is regarded: 
+Given are two bounded domains D, D&apos; in C^n and a proper holomorphic map f from D to D&apos;. Let z be a border point of D and z&apos; a point in the cluster set of z with respect to f. Under which (local) assumptions on the borders bD and bD&apos; near z and z&apos; does f extend to a holomorphic mapping on a neighbourhood of z? 
+The focus of this thesis is on the case of non-pseudoconvex border points z and z&apos; - for which, contrary to the pseudoconvex case, no general local results are known. 
+US&apos;&gt;Two main results are shown: 
+First a (weak) local version of the global holomorphic extension theorem for the case n=2 of Diederich/Pinchuk (1995) is presented: If the borders bD and bD&apos; are local real analytic and of finite type and if f extends homeomorphically then f even extends holomorphically. 
+Therefore the problem of holomorphic extendibility is reduced to the question of continuous extendibility. 
+The second main result takes up this question and gives an statement on the (Hölder-)continuous extension of proper holomorphic mappings in the general case n&gt;=2, based on the methods of Lempert (1986) and Henkin (1973).</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20020216</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_255</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_255">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-349/d070201.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_255"
+            DMDID="DMD_wuppertal_elpub_255">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_255"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

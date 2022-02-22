@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9830">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Solution Approaches for Multiobjective Convex Quadratic and Nonlinear Optimization Problems</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Milano, Marco</displayForm>
+                        <namePart type="family">Milano</namePart>
+                        <namePart type="given">Marco</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Klamroth, Kathrin</displayForm>
+                        <namePart type="family">Klamroth</namePart>
+                        <namePart type="given">Kathrin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-10-29</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In this thesis three solution approaches for multiobjective nonlinear optimization problems are discussed. First, a class of multiobjective descent algorithms is introduced that can be understood as generalizations of descent algorithms known for the singleobjective case. 
+ Several variants are investigated and compared with the weighted sum method. Furthermore, multiobjective convex quadratic optimization problems with linear constraints are discussed in the second part. Using the KKT conditions a parametric linear complementarity problem is derived which leads to the definition of efficient complementary bases and the decomposition of the parameter space of the weighted sum method. Properties of the associated cells are discussed and a pivoting algorithm is developed. Additionally, generalizations and special cases for multiobjective convex quadratic optimization problems are discussed and an application to multiobjective location theory is outlined. 
+ In the final section, a scheme for the approximation of the efficient solutions and the weight space decomposition of multiobjective convex optimization problems is introduced and analyzed.</abstract>
+                    <abstract type="content" lang="ger">In dieser Dissertation werden drei Lösungsansätze für multikriterielle nichtlineare Optimierungsprobleme untersucht. Zunächst wird eine Klasse von multikriteriellen Abstiegsverfahren eingeführt, die als Verallgemeinerung von Abstiegsverfahren im einkriteriellen Fall verstanden werden können. Verschiedene Varianten werden untersucht und mit der gewichteten Summen Methode verglichen.
+ Im zweiten Teil werden multikriterielle konvexe quadratische Optimierungsprobleme mit linearen Nebenbedingungen behandelt. Mithilfe der KKT-Bedingungen wird ein parametrisches lineares Komplementaritätsproblem abgleitet, was zur Definition von effizienten komplementären Basen und einer Dekomposition des Parameterraums der gewichteten Summen führt. Die Eigenschaften der zugehörigen Zellen werden untersucht und ein Pivot-Algorithmus wird entwickelt. Zusätzlich werden Verallgemeinerungen, Spezialfälle und eine Anwendung im Gebiet der multikriteriellen Standortoptimierung behandelt. 
+ Im letzten Kapitel wird ein Schema zur Approximation der effizienten Lösungen und der Dekomposition des Gewichtsraums von multikriteriellen konvexen Optimierungsprobleme eingeführt und analysiert.</abstract>
+                    <subject>
+                        <topic>multiobjective</topic>
+                        <topic>quadratic</topic>
+                        <topic>nonlinear</topic>
+                        <topic>optimization</topic>
+                    </subject>
+                    <classification authority="ddc">510</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20191029-103617-9</identifier>
+                    <identifier type="doi">10.25926/k6wa-q019</identifier>
+                    <identifier type="sys">HT020296519</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9830</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9830">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2019/milano/dc1926.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9830"
+            DMDID="DMD_wuppertal_elpub_9830">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9830"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

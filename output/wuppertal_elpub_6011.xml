@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6011">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Performance of the Insertable B-Layer for the ATLAS Pixel Detector during Quality Assurance and a Novel Pixel Detector Readout Concept based on PCIe</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Heim, Timon</displayForm>
+                        <namePart type="family">Heim</namePart>
+                        <namePart type="given">Timon</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">During the first long shutdown of the LHC the Pixel detector has been upgraded with a new 4th innermost layer, the Insertable B-Layer (IBL). The IBL will increase the tracking performance and help with higher than nominal luminosity the LHC will produce. The IBL is made up of 14 staves and in total 20 staves have been produced for the IBL. This thesis presents the results of the final quality tests performed on these staves in an detector-like environment, in order to select the 14 best of the 20 staves for integration onto the detector. The test setup as well as the testing procedure is introduced and typical results of each testing stage are shown and discussed. The overall performance of all staves is presented in regards to: tuning performance, radioactive source measurements, and number of failing pixels. Other measurement, which did not directly impact the selection of staves, but will be important for the operation of the detector or production of a future detector, are included. Based on the experience with readout systems of the IBL, a novel readout concept has been developed. This concept is based around the idea of moving as much functionality into the software of the controlling host computer as possible. The YARR system was developed with focus on the usage of modern multi core CPU architectures, and an FPGA interfaced via a PCIe link. The initial implementation is performed for the FE-I4 chip, which is used in the IBL, but not limited to one chip type, due to the flexible software implementation. The hardware chosen for YARR, is the SPEC board, which is a low cost off-the-shelf PCIe card carrying an FPGA, which can be used as a reconfigurable I/O interface. The firmware for the FPGA, as well as the software is described in-depth and its performance is evaluated for the usage with FE-I4s and extrapolated for the usage with future detector front-ends. In comparison with existing FE-I4 readout systems, YARR shows exceptional performance for much lower cost. This makes it very interesting for the usage in laboratories and for testbeam campaigns. The software is easily scalable to higher performance systems and the necessary steps to replace the existing hardware with another one to accommodate higher link speed are discussed in the conclusion.</abstract>
+                    <subject>
+                        <topic>CERN</topic>
+                        <topic>LHC</topic>
+                        <topic>ATLAS</topic>
+                        <topic>Pixel</topic>
+                        <topic>IBL</topic>
+                        <topic>Readout</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20160725-094929-4</identifier>
+                    <identifier type="sys">HT019059511</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6011</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6011">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2015/heim/dc1538.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6011"
+            DMDID="DMD_wuppertal_elpub_6011">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6011"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

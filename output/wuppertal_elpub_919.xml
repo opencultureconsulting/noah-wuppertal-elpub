@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_919">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>CAD-Methoden des Konstruktionsprozesses im Glasbau - Wissensakquisition, Forschung und Entwicklung -</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hegedus, Krisztian</displayForm>
+                        <namePart type="family">Hegedus</namePart>
+                        <namePart type="given">Krisztian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004-08-25</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Das Ziel dieser Arbeit besteht darin, durch die tiefgreifende Untersuchung allgemeiner Glasfassaden eine komplette und hochautomatisierte, theoretisch fundierte und auch praktische Lösung für Konstruktionprozesse im Glasbau anzubieten. 
+Im Hinblick auf ein integriertes CAD-System wurde die Aufgabe von der Konstruktion bis zu den Fertigungsunterlagen schlüssig behandelt. 
+Basierend auf einer Machbarkeitsstudie in einer realen CAD-Umgebung wurden die hier vorgestellten Konzepte erarbeitet und schließlich Lösungsmöglichkeiten für die festgestellten offenen Probleme des Glasbaus dargestellt. 
+Die innovativen Ergebnisse der vorliegenden Arbeit sind auch auf andere Gewerke der Ingenieurwissenschaft übertragbar. Sie vereinfachen und beschleunigen den Konstruktionsprozess und machen ihn systematisch fehlerfrei.</abstract>
+                    <abstract type="content" lang="eng">The goal of this thesis is to propose a complete and highly automated, theoretically sound and practical solution for design processes of glazing systems through a detailed analysis of general glass cladding. 
+The challenge was to manage the complete process from construction to manufacturing in an integrated CAD-system. 
+The concepts presented here were developed and tested in a feasibility study in a real CAD-environment and finally the proposed methods were reviewed in the light of most commonly occurring problems in the glazing industry. 
+The innovative results of this work, which could be applied as well to other areas of engineering, provide simplification and acceleration of the design process and bring in systematic accuracy.</abstract>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Architektur und Bauingenieurwesen » Bauingenieurwesen"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20040416</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_919</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_919">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1025/dd0407.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_919"
+            DMDID="DMD_wuppertal_elpub_919">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_919"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

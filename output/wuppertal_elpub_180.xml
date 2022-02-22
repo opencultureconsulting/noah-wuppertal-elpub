@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_180">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Poesie als Kritik und Selbstkritik</title>
+                        <subTitle>Hans Magnus Enzensbergers negative Poetik</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kang, Tae-Ho</displayForm>
+                        <namePart type="family">Kang</namePart>
+                        <namePart type="given">Tae-Ho</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003-06-26</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Ausgangspunkt dieser Untersuchung ist die Frage, wie die sog. Widersprueche bei Enzensberger zu erklaeren sind. Die Widersprueche bei ihm betrachte ich nicht als Probleme, sondern als etwas Produktives, das es ihn ermoeglicht, auf die jeweilige sozialpolitische und literarische Situationsveraenderung seines Zeitraumes flexibel zu reagieren, und darueber hinaus als sein philosophisches Prinzip, das trotz seiner Wandlung konstant bleibt und seinen vielseitigen Taetigkeiten zugrunde liegt. Er verdankt dieses Prinzip v.a. der Philosophie Adornos. Adornos negative Philosophie, die v.a. darin zu bemerken ist, dass er in der Durchsetzung der Aufklaerung und des Fortschritts das Moment der Selbstzerstoerung erkennt, findet bei Enzensberger eine vorbildliche Anwendung. Zwei wichtige konstante Elemente in der gesamten Entwicklung Enzensbergers, u.z. Kritik am Fortschrittsoptimismus und Widerwille gegen Widerspruchsfreiheit, sind ohne Rezeption der Philosophie Adornos undenkbar. Auch Enzensbergers Verstaendnis der Poesie beruht auf der Dialektik Adornos. Fuer ihn ist Poesie Kritik und zugleich Utopie im Sinne der Dialektik Adornos. Hierin liegt die Aporie der Poesie, dass sie als Utopie keine Zukunftsbilder ausmalen darf. In dem Sinne verstehe ich Enzensbergers Poesie als Kritik und Selbstkritik. Von dieser These ausgehend versuche ich, in seinem Schaffen wichtige Faktoren und Elemente zu extrahieren und in ihnen die Spuren des Denkens Adornos nachzuweisen.</abstract>
+                    <abstract type="content" lang="eng">As starting point for this survey the question is to be answered, of how the contradictions of Enzensberger are to be explained. I do not consider the contradictions as a problem, but rather as something productive that enables him to react in a flexible way to the social-political and literary change of situation at his time and further more as his philosophical principal which remains stable even after his change and allows manifold activities. This principal is above all the philosophy of Adorno. The negative philosophy of Adorno - which is that he sees in the achievement of enlightenment and progress the element of self-destruction - is used by Enzensberger in an exemplary way. Two important constant elements in the entire development of Enzensberger, i.e. the criticism of the optimistic view at progress and aversion to freedom of contradiction, are unthinkable without adaption of Adorno&apos;s philosophy. Also Enzensberger&apos;s understanding of poetry is based on the dialectics of Adorno. For him poetry is criticism and at the same time utopia in the sense of the dialectic of Adorno. Here lies the aporia of poetry that being utopia may not draw pictures of the future. In this sense I understand the poetry of Enzensberger as criticism and self-criticism. Starting out from this thesis I try to extract important facts and elements of his work and demonstrate in their trails the way of Adorno&apos;s thinking.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » Allgemeine Literaturwissenschaft"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20030267</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_180</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_180">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-283/d040201.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_180"
+            DMDID="DMD_wuppertal_elpub_180">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_180"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

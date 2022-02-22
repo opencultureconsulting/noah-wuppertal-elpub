@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9360">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Defunktionalisierung von Ouabain</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Cellnik, Torsten</displayForm>
+                        <namePart type="family">Cellnik</namePart>
+                        <namePart type="given">Torsten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-05-27</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Viele Verbindungen der Klasse der Cardenolide besitzen herzwirksame Eigenschaften und sind somit von großem Interesse für weitere biologische Studien. Da eine Synthese der Steroide allerdings viele Schritte erfordert und nur geringe Gesamtausbeuten liefert, konnten in den meisten Fällen die biologischen Studien nur durch Isolierung der Substanzen aus der Natur ermöglicht werden.
+ Um eine effektivere chemische Synthese verschiedenere Cardenolide zu ermöglichen, wurde ausgehend vom kommerziell erwerblichen Naturstoff Ouabain, einem hochfunktionalisertem Cardenolid-Herzglykosid, ein Abbau der Alkoholfunktionalitäten durchgeführt. Durch bekannte Eliminierungsreaktionen konnte so eine Vielzahl an unterschiedlichen, bisher unbekannten desoxygenierten Verbindungen erhalten werden. 
+ Diese Substrate wurden innerhalb von wenigen Stufen in Gesamtausbeuten von bis zu 70% erhalten. Die beobachteten Reaktivitäten und Selektivitäten können so genutzt werden, um die Synthese weiterer bekannter Cardenolide wie des 19-Hydroxysarmentogenin oder des Digitoxgenin synthetisch zu ermöglichen.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20190527-114329-1</identifier>
+                    <identifier type="sys">HT020156332</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9360</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9360">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2019/cellnik/dc1906.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9360"
+            DMDID="DMD_wuppertal_elpub_9360">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9360"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5740">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>High-accuracy Spectral Emissivity Measurement for Industrial and Remote Sensing Applications</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Adibekyan, Albert</displayForm>
+                        <namePart type="family">Adibekyan</namePart>
+                        <namePart type="given">Albert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The unique potential of radiation thermometry for temperature measurements ranging from non-contact temperature control of numerous industrial production processes to climate research by remote sensing of the Earth requires the accurate knowledge of the radiation properties of a material, i.e. its spectral emissivity. A variety of techniques for the emissivity measurements are available but in many cases they do not meet the wide range of requirements posed by modern science and industry and do not provide sufficiently accurate results with reliable uncertainty values. Therefore, a measurement setup and a validated method for highly accurate directional spectral emissivity, total directional emissivity and total hemispherical emissivity measurements under vacuum from 4 μm to 100 μm and from -40 °C to 600 °C with very low and validated uncertainties was developed and is presented in this work. The measurements, using the newly developed Reduced Background Calibration Facility (RBCF) of PTB, are traceable to the International Temperature Scale of 1990 (ITS-90). 
+ The development and design of a dedicated vacuum sample holder for emissivity measurements, the highly accurate metrological characterization of the vacuum reference blackbodies and the developed method for calculation, which considers the complete radiation budget, are described in detail and allow the performance of very demanding measurement tasks. The setup has been successfully applied in the European Metrology Research Program (EMRP) within the projects MetEOC and MetEOC2, providing the traceability of atmospheric measurements with the instrument GLORIA with the required low uncertainty of less than 100 mK. The thermal emissivity of absorber coatings for solar thermal electricity generation could be measured at the RBCF at the operating temperature of 600 °C with a standard uncertainty of less than 0.005. These results can be used to systematically improve the efficiency of high temperature solar thermal absorbers in the future. Other examples of emissivity measurements for various materials presented in this work illustrate the broad capability of the developed method and facility.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20160421-144304-2</identifier>
+                    <identifier type="sys">HT018957831</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5740</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5740">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2016/adibekyan/dc1604.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5740"
+            DMDID="DMD_wuppertal_elpub_5740">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5740"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_991">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Ansteuerung von Hochvolt-IGBTs über optimierte Gatestromprofile</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schmitt, Günter</displayForm>
+                        <namePart type="family">Schmitt</namePart>
+                        <namePart type="given">Günter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-12-01</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Im Bereich hoher Schaltleistungen hängen die im IGBT (Insulated Gate Bipolar Transistor) anfallenden Verluste hauptsächlich von den Schaltverlusten ab. Um den Halbleiter möglichst gut auszunutzen und die Gesamtverluste so gering wie möglich zu halten, versucht man die Schaltverluste zu minimieren. Dies wird im Wesentlichen durch eine Erhöhung der Schaltgeschwindigkeit erreicht. Infolgedessen stellen sich jedoch Sekundäreffekte wie z.B. Wanderwellen auf der Motorzuleitung und Überspannungen an den Maschinenklemmen ein, die zu einer erhöhten Belastung des Systems führen. Der Anwender ist somit gezwungen einen Kompromiss einzugehen. 
+Während im konventionellen Fall das Schaltverhalten des IGBTs über einen Gatewiderstand eingestellt wird, wird in dieser Arbeit die Ansteuerung über einen optimierten Gatestromverlauf untersucht. Dabei wird der Steuerstrom auf den dynamischen Zustand des IGBTs angepasst, mit dem Ziel in jedem Betriebspunkt die maximal zulässigen Strom- und Spannungsgradienten auszunutzen und dadurch eine Minimierung der Schaltverluste zu erreichen. 
+In den praktischen Untersuchungen an der neuen Generation der 6,5 kV-IGBTs konnten bei vergleichbaren Randbedingungen durch die Verwendung von optimierten Gatestromprofilen die Einschaltverluste bis zu 30% und die Ausschaltverluste um etwa 20% reduziert werden. Bei gleichen Kühlbedingungen können die eingesparten Verluste dazu genutzt werden, um die Umrichterausgangsleistung oder Schaltfrequenz zu erhöhen. Dadurch können entweder die dynamischen Eigenschaften des Stromrichter-Maschine-Systems oder der Systemwirkungsgrad verbessert werden.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20091017</identifier>
+                    <identifier type="sys">HT016208352</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_991</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_991">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2009/schmitt/de0905.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_991"
+            DMDID="DMD_wuppertal_elpub_991">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_991"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_11480">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Geometric Integration on Lie Groups and its Applications in Lattice QCD</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wandelt, Michèle</displayForm>
+                        <namePart type="family">Wandelt</namePart>
+                        <namePart type="given">Michèle</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-03-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Geometric integration on Lie groups is an important issue concerning applications in Lattice Quantum Chromodynamics (Lattice QCD). 
+This thesis is split into three parts concerning various geometric numerical integration schemes on Lie groups and its applications in Lattice QCD. 
+The first part (chapter 2 and 3) covers some foundations of Lattice QCD with focus on the Hamiltonian equations of motion occurring in Hybrid Monte Carlo (HMC) simulations and the Wilson flow. Moreover, Runge-Kutta methods for Lie groups are introduced as numerical integration schemes. The key developments of this thesis are based on these topics: the investigation and improvement of Lie group methods in part two and its application in HMC simulations in part three. 
+Part two (chapters 4-6) contains the mathematical achievements of this thesis. On the one hand, Munthe-Kaas Runge-Kutta methods are improved for general purposes as well as for geometric integration. First, a step size control is combined with a Munthe-Kaas Runge-Kutta scheme using the Cayley transform as local parameterization. Then, the focus is turned on geometric integration: the Cayley transform is applied inside the Leapfrog method for Lie groups. Furthermore, symmetric partitioned Runge-Kutta schemes and time-reversible projection schemes are developed here. These schemes will be applied in Lattice simulations in part three. Additionally, exponential smoothing splines are deduced from a combination of exponential and smoothing splines. They are used for the detection of a phase transition in Finite Temperature QCD via the Wilson flow. 
+In part three (chapter 7 and 8), all of these methods are applied in the context of HMC simulations, the Wilson flow and Finite temperature QCD. In simulations of lattice gauge fields, the Hamiltonian equations of motion occur. Here, the three novel geometric integration methods Cayley-Leapfrog, symmetric partitioned Runge-Kutta and time-reversible projection are applied. Afterwards, their convergence orders and the properties time-reversibility and volume-preservation are investigated with the result that the Cayley-Leapfrog method is very promising for the usage in Lattice QCD computations. The other methods are candidates for further improvements. The second result is the enhancement of the computation of the Wilson flow using a step size control combined with a Munthe-Kaas Runge-Kutta method. Last but not least, a novel and fast method for the detection of a phase transition in Finite Temperature QCD is developed: the energy difference method. This method detects the phase transition using the difference of the temporal and spatial part of the Wilson energy in combination with the exponential smoothing spline derived in part 2. 
+Finally, this work closes (in chapter 9) with a conclusion of the results followed by an outlook of possible further research.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20210322-110757-5</identifier>
+                    <identifier type="doi">10.25926/c8nn-p108</identifier>
+                    <identifier type="sys">HT021159771</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_11480</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_11480">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2020/wandelt/dc2023.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_11480"
+            DMDID="DMD_wuppertal_elpub_11480">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_11480"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

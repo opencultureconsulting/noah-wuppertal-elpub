@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_7190">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Organische Photovoltaik für Unterricht und Lehre</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Zepp, Melanie</displayForm>
+                        <namePart type="family">Zepp</namePart>
+                        <namePart type="given">Melanie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In dieser Arbeit sollte ausgehend von dem gegenwärtig aktuellen Stand der wissenschaftlichen Forschung eine organische Solarzelle, basierend auf den Halbleiterkomponenten Poly(3-hexylthiophen) (P3HT) und [6,6]-Phenyl-C61-Butansäuremethylester (PCBM), entwickelt und optimiert werden, die den experimentellen sowie konzeptionellen Zugang zum Themengebiet ‚Organische Photovoltaik’ für die Lehre ermöglicht. Grundlage für diese Arbeiten war eine bereits im Rahmen einer Examensarbeit entwickelte Form einer solchen Solarzelle. Die Optimierungen sollten dahingehend erfolgen, dass die Eigenbau-Solarzelle zum einen schnell und mit einfachen Materialien und Methoden herzustellen ist, zum anderen, dass sie reproduzierbare Leistungen erbringt und damit einen kleinen Verbraucher versorgen kann. Darüber hinaus sollten die eingesetzten Chemikalien unbedenklich für den Einsatz in Schülerexperimenten sein und damit den aktuellen Gefahrstoffverordnungen entsprechen. Die Ergebnisse der eigenen experimentellen Untersuchungen lassen sich wie folgt zusammenfassen. 
+- Das Herstellungsverfahren der Eigenbau-Solarzelle konnte von der „Klebebandvariante“ hin zur „Easy-OPV“ vereinfacht werden. Durch diese Variation des Zellaufbaus kann auf ein Auf- bzw. Einspritzen der flüssigen Legierung Galinstan, die als Elektronenkontakt genutzt wird, verzichtet werden. Damit wird die Gefahr reduziert, dass die photoaktive Schicht mit der Injektionsnadel verletzt wird Kurzschlüsse verursacht werden. In der Easy-OPV wird die Galinstanelektrode separat gefertigt und das mit den photoaktiven Komponenten beschichtete FTO-Glas wird auf diese Elektrode aufgelegt. Diese Variante bietet weiterhin den Vorteil, dass das Eigengewicht der Galinstantropfen nicht mehr auf der dünnen organischen Schicht lastet, was ebenfalls eine Gefahrenquelle für Kurzschlüsse darstellt. Die Zellleistungen konnten dadurch stabilisiert und sogar erhöht werden. Insbesondere die Kurzschlussstromstärke wurde erhöht, was auf einen verbesserten Kontakt zwischen photoaktiver Schicht und Galinstan hinweist. 
+- Die ursprünglich verwendeten Lösemittel für die photoaktiven Komponenten, Chlorbenzol und Chloroform im Verhältnis 1:1, konnten erfolgreich durch weniger gesundheitsgefährdende bzw. weniger toxische Lösemittel ersetzt werden. So wurde zunächst auf Chloroform verzichtet und im Folgenden Chlorbenzol durch o-Dichlorbenzol ersetzt. Durch Optimierung der Nachbehandlungsbedingungen sowie der Konzentration des P3HT:PCBM-Gemisches in o-DCB konnten die Kurzschlussstromstärken und die Effizienzen der Easy-OPV-Zellen sogar gesteigert werden. Die Leistungssteigerung ist vor allem auf eine erhöhte Kristallisation der P3HT-Moleküle und einer damit verbundenen verbesserten Nanomorphologie der photoaktiven Schicht zurückzuführen. 
+- Die Zellleistungen konnten weiter gesteigert werden, indem eine Kombination aus Dichlormethan und o-Dichlorbenzol als Lösemittelgemisch für die P3HT:PCBMLösung eingesetzt wurde. Sowohl die Kurzschlussstromstärken als auch die Effizienzen der Easy-OPV konnten durch einen Zusatz von 5 - 10 % DCM zum Hauptlösemittel o-DCB weiter erhöht werden. Diese Leistungssteigerung ist auf eine günstigere vertikale Verteilung der Komponenten in der photoaktiven Schicht und einer damit verbundenen Verbesserung des Ladungstransports zu den jeweiligen Elektroden zurückzuführen. 
+- Das Ziel der Herstellung einer flexiblen Eigenbau-OPV konnte in dieser Arbeit nicht erreicht werden. Das einfache Ersetzten des FTO-Glassubstrats durch ein ITO-PETFoliensubstrat war nicht möglich, da die Lochextraktionsschicht aus PEDOT:PSS nicht durch die herkömmlicher Weise verwendeten Methoden (Rakeln und Spincoating) auf der Folie abgeschieden werden konnten. Eine direkte elektrochemische Polymerisation von PEDOT auf der ITO-Folie wurde in zwei verschiedenen Varianten untersucht, führte aber in keiner der beiden zu einem Erfolg. Durch die erste, in der PEDOT:PSS aus wässriger Lösung elektropolymerisiert wurde, konnten keine dotierten, leitfähigen PEDOT-Schichten hergestellt werden, sondern nur neutrale, nicht leitfähige. In der zweiten Variante wurde PEDOT aus einem organischen Lösemittel (Acetonitril) mit TBAP als Leitsalz elektrochemisch auf der ITO-Folie abzuscheiden. Es zeigte sich, dass diese Methode, die auf FTO-Glas leitfähige Schichten erzeugt, auf ITO-Folie nicht angewendet werden kann, weil die ITO-Schicht dabei abgestragen bzw. zerstört wird. 
+Die gewonnenen fachwissenschaftlichen Ergebnisse bilden die Grundlage für die Umsetzung und Integration des Themas ‚Organische Photovoltaik’ in die Lehre. Die didaktische Verwertung der Ergebnisse lässt sich wie folgt zusammenfassen: 
+- Die Thematik Organische Photovoltaik bietet die Möglichkeit einer vielfältigen Anknüpfung an schulrelevante Inhalte im Chemieunterricht. Sowohl in der Sekundarstufe I als auch in der Sekundarstufe II lassen sich organische Solarzellen unter verschiedenen Basiskonzepten (Sek. I: Energie und Struktur &amp; Materie, Sek. II: Struktur – Eigenschaft, Energie und Donator – Akzeptor) den obligatorischen Inhaltsfeldern zuordnen und ermöglichen die Vernetzung von chemischem Wissen anhand eines aktuellen und innovativen Themas. 
+- Das Herstellungsverfahren der Solarzelle konnte soweit optimiert werden, dass es schnell, mit einfachen Mitteln und sicher durchzuführen ist. Die eingesetzten Chemikalien erlauben den Einsatz des Experimentes ab der Jahrgangsstufe 5 als Schülerexperiment. 
+- Die Experimente und Arbeitsmaterialien wurden differenziert für die Sekundarstufe I und II entwickelt. Zur Beschreibung des Funktionsprinzips organischer Solarzellen wurden dabei Modelle aufgegriffen, die in der jeweiligen Jahrgangsstufe bereits bekannt sind und so erweitert, dass sie die Lernenden fachlich nicht überfordern aber immer noch wissenschaftlich konsistent sind. 
+- Die im Rahmen dieser Arbeit konzipierte und programmierte Flash-Animation zum Thema ‚Organische Photovoltaik’ ermöglicht die dynamische Darstellung der Vorgänge in einer organischen Solarzelle auf submikroskopischer Ebene. Damit stellt sie ein wichtiges Medium zur Unterstützung des Lehrenden und des Lernendes dar. Das Funktionsprinzip der Energieumwandlung in organischen BHJ-Solarzellen wird in der Animation in zwei unterschiedlichen Modellen dargestellt – auf Teilchenebene in einem schematischen Querschnitt der Solarzelle und in einem Energieschema. Damit kann auch die Flash-Animation in beiden Sekundarstufen eingesetzt werden. Daneben enthält das Lerntool umfangreiche Erläuterungen zu den Eigenschaften und Funktionen der eingesetzten Materialien. 
+- Mit dem Lehr-Lern-Koffer ‚organic photo electronics’ wurde ein Experimentierset konzipiert und entwickelt, dass materielles Equipment und umfangreiche didaktische Materialien bereithält, um organische Solarzellen (und OLEDs) herzustellen, zu untersuchen und deren Funktionsweise konzeptionell zu erschließen. Die didaktischen Materialien (Experimentiervorschriften, Arbeitsaufträge und Aufgabenblätter, Flash-Lerntool) wurden jeweils dem Niveau der Sekundarstufe I und II angepasst und bieten die Möglichkeit, ausgehend von den Grundversionen einzelner Experimente, in forschend-entwickelnder Vorgehensweise weitere Experimente zur Überprüfung eigener Hypothesen vorzuschlagen und durchzuführen. 
+- Die Experimente zur Organischen Photovoltaik sowie die Flash-Animation wurden als Experimentierblock in die Einheit „Innovative Kunststoffe“ der Wuppertaler Chemie- Labothek integriert. Damit wurde die Thematik bereits in die universitäre didaktische Lehre eingebunden und durch Schüler und Lehrer positiv evaluiert. 
+Mit den in dieser Arbeit entwickelten Experimenten und didaktischen Materialien, die als Service für Lehrende online jederzeit frei verfügbar sind (Flash-Animation, Experimentieranleitungen und Aufgaben der Chemie-Labothek), sowie der Darstellung der Einsatzmöglichkeiten in einem experimentorientierten Chemieunterricht soll ein Beitrag zur curricularen Innovation geleistet werden.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170824-112739-3</identifier>
+                    <identifier type="sys">HT019450831</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_7190</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_7190">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2017/zepp/dc1718.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_7190"
+            DMDID="DMD_wuppertal_elpub_7190">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_7190"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

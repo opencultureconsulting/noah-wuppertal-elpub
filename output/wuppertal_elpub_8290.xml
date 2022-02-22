@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_8290">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Von der Kinderpflegerin zur Erzieherin – eine Maßnahme zur Qualitätssicherung? Eine empirische Studie unter Berücksichtigung der vom Land Nordrhein-Westfalen konzipierten Weiterbildungsmaßnahme für langjährig tätige Kinderpflegerinnen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Vollenberg, Annegret</displayForm>
+                        <namePart type="family">Vollenberg</namePart>
+                        <namePart type="given">Annegret</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-05-17</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Nach dem Kinderbildungsgesetz des Landes Nordrhein-Westfalen (Kibiz) aus dem Jahre 2008 obliegt den Kindertageseinrichtungen die Initiierung frühkindlicher Bildungsprozesse mittels des „pädagogischen Personals“. Eine Definition der Qualifikationen dieser Berufsgruppe enthält das Gesetz nicht. Vielmehr erfolgte die Präzisierung in einer sogenannten Personalvereinbarung zwischen den Trägern der Kindertageseinrichtungen und dem Ministerium für Kinder-, Familie-, Flüchtlinge- und Integration des Landes Nordrhein-Westfalen als Oberste Landesjugendbehörde. Diese überträgt den eigenständigen Bildungs-, Erziehungs- und Betreuungsauftrag der Kindertageseinrichtungen der Berufsgruppe der Erzieherinnen und Erzieher. Kinderpflegerinnen/ -pfleger können allenfalls zur Hälfte der Fachkraftstunden in den Gruppenformen I (Kinder im Alter von 0-3 Jahren) und II (Kinder im Alter von 2 Jahren bis zur Einschulung) eingesetzt werden, ansonsten nur in der Gruppenform III (Kinder ab dem 3. Lebensjahr bis zur Einschulung). Durch diese Reglementierung war die Existenzgrundlage der Kinderpflegerinnen gefährdet, zumal mit einer ansteigenden Anzahl der betreuten Kinder unter 3 Jahren zu rechnen war. Das Ministerium eröffnete deshalb Kinderpflegerinnen mit mindestens fünfjähriger Berufstätigkeit die Möglichkeit, sich durch eine berufsbegleitende Weiterbildung zur Erzieherin zu qualifizieren.
+
+ Die empirische Studie untersucht, ob die Kinderpflegerinnen nach der Weiterbildung den Anforderungen der professionalisierten Qualifikation einer Erzieherin gerecht werden und ob sie möglicherweise mit ihrem habitualisierten Erfahrungs- und Handlungswissen sowie ihrem neu erworbenen Fachwissen für den Einsatz als pädagogische Fachkraft prädestiniert sind</abstract>
+                    <classification authority="ddc">370</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Human- und Sozialwissenschaften » Erziehungswissenschaften"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20180517-110250-2</identifier>
+                    <identifier type="sys">HT019698393</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_8290</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_8290">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbg/paedagogik/diss2017/vollenberg/dg1703.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_8290"
+            DMDID="DMD_wuppertal_elpub_8290">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_8290"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

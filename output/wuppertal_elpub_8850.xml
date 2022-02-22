@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_8850">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Betrieb von Ionenresonanz-Massenspektrometern mit variablen Speicherfeldern</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kleinmann, Michael</displayForm>
+                        <namePart type="family">Kleinmann</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-10-18</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Im Rahmen dieser Arbeit wurde ein Ionenfallen-Massenspektrometer mit nicht-destruktiver Ionendetektion entwickelt. Bei derartigen Analysatoren werden Ionen innerhalb elektrischer Wechselfelder gespeichert. Die Bestimmung der Ionenmasse erfolgt über die Messung der Schwingungsfrequenz der Ionenbewegung. Hierzu werden Influenzladungsströme, welche die Ionen auf den Elektroden der Ionenfalle induzieren, detektiert. 
+Bei handelsüblichen Systemen werden zur Erzeugung der elektrischen Wechselfelder hauptsächlich resonante Sinusgeneratoren mit fester Frequenz verwendet. Um den erreichbaren Massenbereich des Spektrometers zu erweitern, bietet es sich unter anderem an, die Frequenz und Wellenform des Spannungssignals variabel zu halten. So geht die Frequenz z.B. quadratisch in den Massenbereich ein. 
+Zur Generierung der entsprechenden Signale wurden verschiedene Ansätze untersucht und verfolgt. Angelehnt an bestehende Konzepte wurde ein Hochvolt-Oszillator realisiert. Der Schwingkreis besteht in diesem Fall aus der Ionenfallenkapazität und der Induktivität eines Hochvolt-Transformators. Durch ein Zuschalten zusätzlicher Kapazitäten kann die Resonanzfrequenz stufenweise verstimmt werden. Neben dem Oszillator wurde weiterhin ein Rechteck/Trapezgenerator entwickelt, welcher eine Vollbrückenschaltung verwendet. Die Frequenz kann in diesem Fall durch Variation der Schaltfrequenz der Vollbrücke stufenlos und exakt eingestellt werden. 
+Ein grundsätzliches Problem von Ionenfallen-Massenspektrometern, welche Influenzladungsströme zur Detektion verwenden, besteht in der Einkopplung von Störströmen auf die Messelektroden durch die angelegte Wechselspannung. Damit die Störströme die empfindliche Messelektronik nicht übersteuern, werden Kompensationssignale benötigt, welche den Störströmen entgegenwirken. Hierzu wurden verschiedene Konzepte aufgebaut und verglichen. Der Vorteil der entwickelten Kompensationsschaltung besteht darin, dass diese breitbandig ist und die Kompensationssignale automatisch aus der Wechselspannung generiert. Somit ist kein weiterer Abgleich der Kompensation über den Betriebsverlauf nötig. Die realisierte Kompensationsschaltung ermöglicht es erstmals auch andere Spannungssignale zur Ionenspeicherung zu verwenden. 
+Insgesamt ergeben sich durch die Möglichkeit, beliebige Wellenformen verwenden zu können, viele zusätzliche Freiheitsgrade bei den Messungen. Mit Hilfe asymmetrischer Wechselspannungen kann z.B. eine rudimentäre Selektion der einspeicherbaren Analyten erfolgen.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20181018-141906-9</identifier>
+                    <identifier type="sys">HT019842971</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_8850</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_8850">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2018/kleinmann/de1808.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_8850"
+            DMDID="DMD_wuppertal_elpub_8850">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_8850"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

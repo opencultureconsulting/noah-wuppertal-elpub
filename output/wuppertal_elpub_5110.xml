@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5110">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Notions of L²-Dolbeault Cohomology with values in Vector Bundles on Singular Complex Spaces</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sera, Martin</displayForm>
+                        <namePart type="family">Sera</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">There is a close connection between properties of differential operators and the geometry of manifolds. On complex manifolds, this relation between analysis and geometry is exemplified best by the Dolbeault operator which represents the Cauchy-Riemann differential equations. Particularly, the L²-theory for the Dolbeault operator is a crucial part of complex analysis and has become indispensable for the area after the fundamental work of L. Hörmander on L²-estimates and existence theorems for the Dolbeault operator and the related work of A. Andreotti and E. Vesentini. Whereas the theory is very well-developed on complex manifolds, there are many open questions and problems in singular settings. Hence, we are especially interested in studying the Dolbeault operator on singular complex spaces by transferring the mentioned L²-methods. 
+ In the work presented, we relate the so-called L²-Dolbeault cohomology groups of a singular complex space to sheaf cohomology groups of its resolution of singularities. Therefore, we look at the Dolbeault operator with values in holomorphic vector bundles. For this, Takegoshi&apos;s relative version of the Grauert-Riemenschneider vanishing theorem is needed. So, we generalize Takegoshi&apos;s vanishing theorem to the case of Nakano semi-positive coherent analytic sheaves on singular complex spaces. In this context, we have to study the transformation of coherent analytic sheaves under proper modifications. We show that torsion-free coherent sheaves can be realized as the direct image of locally free sheaves under a resolution of the singularities under some conditions whose necessity is discussed, as well.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20150827-115437-4</identifier>
+                    <identifier type="sys">HT018744509</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5110</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5110">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2015/sera/dc1513.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5110"
+            DMDID="DMD_wuppertal_elpub_5110">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5110"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

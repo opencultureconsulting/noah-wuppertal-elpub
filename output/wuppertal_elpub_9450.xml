@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9450">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>bivariant parasimplicial S.-construction</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Beckert, Falk Daniel</displayForm>
+                        <namePart type="family">Beckert</namePart>
+                        <namePart type="given">Falk Daniel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-06-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Coherent strings of composable morphisms play an important role in various important constructions in abstract stable homotopy theory (for example algebraic K-theory or higher Toda brackets) and in the representation theory of finite dimensional algebras (as representations of Dynkin quivers of type A). In a first step we will prove a strong comparison result relating composable strings of morphisms and coherent diagrams on cubes with support on a path from the initial to the final object. 
+We observe that both structures are equivalent (by passing to higher analogues of mesh categories) to distinguished coherent diagrams on special classes of morphism objects in the 2-category of parasimplices. Furthermore, we show that the notion of distinguished coherent diagrams generalizes well to arbitrary morphism objects in this 2-category. The resulting categories of coherent diagrams lead to higher versions of the S.-construction and are closely related the representations of higher Auslander algebras of Dynkin quivers of type A. 
+Understanding these categories and the functors relating them in general will require a detailed analysis of the 2-category of parasimplices as well as basic results from abstract cubical homotopy theory (since subcubes of distinguished diagrams very often turn out to be bicartesian). Finally, we show that the previous comparison result extends to a duality theorem on general categories of distinguished coherent diagrams.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20190614-104600-1</identifier>
+                    <identifier type="doi">10.25926/kj82-kr40</identifier>
+                    <identifier type="sys">HT020107507</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9450</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9450">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2018/beckert/dc1825.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9450"
+            DMDID="DMD_wuppertal_elpub_9450">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9450"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

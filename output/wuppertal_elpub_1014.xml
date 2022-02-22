@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1014">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Vom Erscheinungsbild zum &quot;Corporate Design&quot;</title>
+                        <subTitle>Beiträge zum Entwicklungsprozess von Otl Aicher</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schreiner, Nadine</displayForm>
+                        <namePart type="family">Schreiner</namePart>
+                        <namePart type="given">Nadine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005-08-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Worauf begründet sich Erfolg oder Misserfolg von Unternehmen? Woher kommt unsere Sympathie oder Antipathie für ein Unternehmen oder dessen Dienstleistung und Produkte? Dies sind keine Zufälle, sondern sie folgen konkreten Übereinstimmungen mit den eigenen Werten und Vorstellungen. 
+Der Gestalter und Visionär Otl Aicher legte erstmals Richtlinien im Unternehmensdesign fest, um den vorherrschenden Wildwuchs zu bekämpfen. Die neue ganzheitliche Sicht und deren Erfolg beeinflusst noch heute entscheidend Corporate Design Entwicklungen. 
+Die vorliegende Arbeit möchte beim Leser, im Sinne Aichers, den Denk- und Sehkreis erweitern, um Alltägliches in die eigene Wahrnehmung zu bringen, zu reflektieren und zu hinterfragen.</abstract>
+                    <abstract type="content" lang="eng">What is it that business success or failure are based upon? Where does our like or dislike for a specific company or its services and products come from? Our perception of businesses is not at all coincidental but the result of the fact of finding conformity with our very own values and ideas. 
+For the first time, shaping creator and visionary Otl Aicher establishes guidelines for the company design in order to take action against prevailing rank growth. Even today, the new holistic angle and its success still decisively affect the development of corporate design. 
+This treatise is intended to expand the reader&apos;s way of thinking and perceiving - in accordance with Aicher&apos;s meaning - in order to allow every day occurrences to be brought into our very own perception, and in order to reflect and query.</abstract>
+                    <classification authority="ddc">700</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Design und Kunst » Kommunikationsdesign"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20050270</identifier>
+                    <identifier type="sys">HT014517127</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1014</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1014">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbf/kommunikationsdesign/diss2005/schreiner/df0501.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1014"
+            DMDID="DMD_wuppertal_elpub_1014">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1014"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

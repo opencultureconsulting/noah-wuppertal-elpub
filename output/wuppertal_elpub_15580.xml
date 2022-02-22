@@ -1,0 +1,83 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_15580">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Essays in Empirical Asset Pricing and Behavioral Finance</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Harries, Jan Philipp</displayForm>
+                        <namePart type="family">Harries</namePart>
+                        <namePart type="given">Jan Philipp</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Betzer, André</displayForm>
+                        <namePart type="family">Betzer</namePart>
+                        <namePart type="given">André</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This dissertation consists of four articles on Asset Pricing and Behavioral Finance. The first article, &quot;Value by Design?&quot;, analyzes design choices for equity value strategies. The second article, &quot;The Choice&quot; expands this approach to the Fama and French Three-Factor-Model, finding significant dispersion due to seemingly innocuous design and implementation choices. In the third article, &quot;If he’s still in, I’m still in!&quot;, we try to establish a causal link between Reddit-Posts and retail trading acitivity in GameStop shares. The fourth paper, &quot;Determinants of Blockholdership&quot;, introduces a new dataset on blockholders of us-listed firms and confirms prior research results with this new data.</abstract>
+                    <subject>
+                        <topic>Asset Pricing</topic>
+                        <topic>Behavioral Finance</topic>
+                        <topic>Risk Premia</topic>
+                        <topic>Portfolio Construction</topic>
+                        <topic>Value Factor</topic>
+                        <topic>Data Snooping</topic>
+                        <topic>Replication Study</topic>
+                        <topic>Factor Fishing</topic>
+                        <topic>Persistence</topic>
+                        <topic>GameStop</topic>
+                        <topic>Retail Trading</topic>
+                        <topic>Sentiment Trading</topic>
+                        <topic>Market Structure</topic>
+                        <topic>Blockholdership</topic>
+                        <topic>Long-term Ownership</topic>
+                        <topic>SEC Filings</topic>
+                        <topic>Dataset</topic>
+                    </subject>
+                    <classification authority="ddc">332</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20211223-094524-0</identifier>
+                    <identifier type="doi">10.25926/hc4g-8b08</identifier>
+                    <identifier type="sys">HT021207942</identifier>
+                    <accessCondition type="use and reproduction">CC BY-NC-ND 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_15580</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_15580">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2021/harries/db2113.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_15580"
+            DMDID="DMD_wuppertal_elpub_15580">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_15580"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

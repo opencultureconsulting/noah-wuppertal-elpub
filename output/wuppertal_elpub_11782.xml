@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_11782">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Development of an optical instrument for the observation of neutral winds in Earth&apos;s upper atmosphere</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wei, Daikang</displayForm>
+                        <namePart type="family">Wei</namePart>
+                        <namePart type="given">Daikang</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-05-31</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Neutral winds in Earth&apos;s upper atmosphere play an important role in atmospheric dynamics and energetics. As a candidate for the origin of ionospheric variability, the neutral winds prompt the interaction between neutral molecules and plasmas by blowing the ionospheric plasma across the Earth&apos;s magnetic field. Moreover, the behavior of upward propagating gravity waves between the planetary atmosphere and the near space environment is being studied, which leads to an increasing demand for the wind data in the upper atmosphere. Global network observation of thermospheric winds is an effective method to obtain the thermospheric wind data. &lt; As a potential candidate to observe the neutral winds in Earth&apos;s upper atmosphere from the ground, an optical instrument based on a Doppler asymmetric spatial heterodyne (DASH) interferometer is developed in this dissertation. A DASH instrument, developed from a spatial heterodyne interferometer (SHI), records stationary interference fringes in an array detector, and its fringe phase is sensitive to Doppler shifts of emission lines owing to the introduction of an additional optical path on one arm. Based on the optical interference theory, a mathematical formula is deduced to describe the fringe pattern produced from a field-widening DASH interferometer, which provides the fundamental basis to derive the wind velocity. As a carrier of wind information, Doppler shifts of emission lines can be retrieved by a Fourier transform algorithm. A window function is generally used to isolate the targeted spectrum, and the choice of window function employed in a retrieval routine is also analyzed. 
+ The first part of this dissertation examines the feasibility of wind measurements. A signal acquisition is always accompanied by instrument noises, which are critical factors to affect the measurement accuracy. With the knowledge of spectral radiance of the airglow emission and parameters of the instrument, the detected signal in a DASH instrument is estimated. A series of experimental tests have been performed for the detector, which quantifies the noise level including the dark current, read out noise and signal offset. Using the estimated signal level and the performance of the detector, interferograms observed at different atmospheric conditions are simulated, and the corresponding signal-to-noise ratios are also discussed. 
+ In the second part, a DASH instrument including a monolithic interferometer and a double-telecentric imaging system is designed. Since the fringe contrast decreases with the increase of optical path difference (OPD), an optimum OPD offset is found using numerical studies. In order to achieve field widening and thermal compensation, the Littrow angle, dimensions of each component as well as the material of each component are also optimized. A double-telecentic system is determined to relay the fringe pattern from the localization plane to the detector. With the support of ray-tracing software, interferograms in a designed DASH instrument are simulated and the corresponding visibilities are also discussed. Using the results of tolerance analysis, an instrument performance model is established and measurement uncertainties during different seasons are also investigated. 
+ Finally, a thermally stable monolithic DASH interferometer with field-widening prisms is built and tested in the laboratory as part of this dissertation. A setup, monitoring the fringe contrast and the spatial frequency in real time, is built to assemble the DASH interferometer. The fringe visibility and the Littrow angle of the built interferometer are determined using a series of experimental tests. Before the wind velocity retrieval, the raw interferograms must be processed to produce corrected interferograms, and the general corrections include the spike and defect removal, dark current and signal offset correction, flat-field correction and phase-distortion correction. To evaluate the thermal performance, sensitivities of the spatial frequency and the optical phase are characterized based on experimental measurements and a model study. In laboratory Doppler measurements, Doppler velocities could be reproduced with a mean deviation of 1.82 m/s. Instrument field tests confirm that the interferogram produced from the oxygen red-line nightglow can be recorded and the corresponding phase information can be derived.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20210531-102322-2</identifier>
+                    <identifier type="sys">HT021115687</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_11782</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_11782">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2020/wei/dc2028.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_11782"
+            DMDID="DMD_wuppertal_elpub_11782">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_11782"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

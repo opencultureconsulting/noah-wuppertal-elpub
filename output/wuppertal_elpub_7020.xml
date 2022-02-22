@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_7020">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Induktion und Detektion des VBNC-Zustandes in Pseudomonas aeruginosa</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Babic, Darko Andre</displayForm>
+                        <namePart type="family">Babic</namePart>
+                        <namePart type="given">Darko Andre</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Aim of this study was to examine, whether and how it could be able to transfer Pseudomonas aeruginosa WR1 into the VBNC-state. The VBNC-state is defined as the loss of culturability of laboratory strains on respectively in the established culture media. The VBNC-state in Pseudomonas aeruginosa is of great interests for modern research, because this germ is a well-known human pathogen bacterium occurring ubiquitously because of its low nutrition claims. Bacterial cells in the VBNC-state retain their virulence or regain it after multiplication. Furthermore, cells in the VBNC-state prove themselves as resistant against disinfection or the immune defence.
+ Pseudomonas aeruginosa WR1 was transferred by a multistage process into the VBNC-state. Because of its low nutrition claims incubation under oligotrophic conditions did not induce the VBNC-state. As an additional lethal factor hydrogen peroxide was used. For the disinfection-procedure, a defined ratio between the basic number of cells and initial concentration of the disinfection agent was determined, in which hydrogen peroxide did not damage irreparably the whole population of a suspension of Pseudomonas aeruginosa WR1 (c = 1 g/L for a suspension with OD = 0,5 (546 nm)).
+ The VBNC-state was detected by the relative comparison of recoveries determined by two different techniques. Besides the classical enumeration based on culturing, living cells were recovered by the LIVE/DEAD® BacLight™ Bacterial Viability Kit. This vital staining using SYTO 9 and propidium iodide was shown to be more effective than staining with CTC. In an additional experiment the occurrence of VBNC-cells was demonstrated by the resuscitation of these cells using pyruvate. Depending on the age of cultures 50 to 200 % more cells were recovered than in the controls by adding pyruvate to the breeding ground that was used for quantification. The role of pyruvate as an agent achieving resuscitation was examined. As a central metabolite, it functioned as a great energy source and it also disabled reactive oxygen species by reacting with that compounds.
+ Pseudomonas aeruginosa WR1 developed additional defence mechanism while multiplying in presence of hydrogen peroxide. Pseudomonas aeruginosa WR1 secreted more pyruvate into media than the control samples incubated without hydrogen peroxide. The probes challenged with hydrogen peroxide also showed an increased activity of catalase per living cell [U/CFU]. The catalase was mainly responsible for the resistance of Pseudomonas aeruginosa WR1 against hydrogen peroxide. With increased incubation duration in an oligotrophic environment the specific activity of catalase rose. The activity of catalase per living cell in Pseudomonas aeruginosa WR1 was also accreted by adding SHX to the cell culture during the beginning log phase.
+ Cells incubated with SHX and attacked by hydrogen peroxide also entered the VBNC-state. These cells were also resurrected by adding pyruvate to the breeding ground.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170620-091826-3</identifier>
+                    <identifier type="sys">HT019376766</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_7020</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_7020">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2017/babic/dc1711.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_7020"
+            DMDID="DMD_wuppertal_elpub_7020">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_7020"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

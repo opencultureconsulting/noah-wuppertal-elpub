@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_575">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Ein </nonSort>
+                        <title>Modell zur wirklichkeitsnahen instationären Berechnung von Stahl- und Spannbetonstrukturen im Tieftemperaturbereich</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Guo, Wenfeng</displayForm>
+                        <namePart type="family">Guo</namePart>
+                        <namePart type="given">Wenfeng</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002-06-12</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die LNG Stahl- und Spannbetonbehälter sind thermisch und mechanisch beansprucht. Sie sind sowohl für Betriebsfälle als auch für Störfälle zu bemessen. Infolge der instationären nichtlinearen Temperaturzustände im Leckagefall und im Befüllungs- und Entleerungsvorgang wird das statisch unbestimmte Tragwerksystem von solchen Bauten temperaturbedingt zwangbeansprucht. 
+Im Rahmen der vorliegenden Arbeit wird ein Verfahren zur wirklichkeitsnahen instationären Berechnung von Stahl- und Spannbetonstrukturen auf der Basis der FE–Methode entwickelt, wobei auf die wesentlichen Einflüsse, wie die temperaturbedingte physikalische Nichtlinearität von Komponenten der Stahl- und Spannbetonstruktur, mehraxiales Werkstoffverhalten des Betons und nichtproportionale thermische Zwangbeanspruchung sowie Vorspannungen der Spannglieder usw. besondere Rücksicht genommen werden. 
+In dem entwickelten FE–Modell wird die wirklichkeitsgerechte Formulierung des mehraxialen Tragverhaltens für LNG Stahl- und Spannbetonbehälter neben den thermisch instationären Vorgängen insbesondere auch unter Berücksichtigung der temperaturbedingten physikalischen Nichtlinearität realisiert. Hierfür ermöglicht das neu erarbeitete 3D–Materialmodell des Werkstoffs Beton sowohl die zutreffende Beschreibung des temperaturbedingten nichtlinearen Werkstoffverhaltens unter dreidimensionalen Beanspruchungen in bezug auf Ver- und Entfestigung im TT–Bereich als auch die numerische Implementierung in konzeptioneller Formulierung der elastoplastischen Schädigung im Rahmen der Kontinuummechanik. Darauf aufbauend können die Spannungszustände der Stahl- und Spannbetonstruktur bestimmt und deren Auswirkung auf das Tragvermögen ermittelt werden, damit sich die Aussagen über die Grenzzustände der Tragfähigkeit und Sicherheit von LNG Stahl- und Spannbetonbehältern im TT–Bereich erarbeiten lassen. Aufgrund solcher genaueren Untersuchungen besteht die Möglichkeit, wirtschaftlichere und auch werkstoffgerechtere Lösungen für Konstruktion und Ausführung solcher Bauwerke anzubieten.</abstract>
+                    <abstract type="content" lang="eng">The LNG (Liquefied Natural Gas) RPC (reinforced and prestressed concrete) tanks are loaded thermally and mechanically. They must be calculated both for operating cases and for breakdowns. The statically indeterminate system of such buildings is loaded unter compulsion due to the non–linear instationary temperature states in the leakage case and in the process of fill and emptiness. 
+Within the framework of present work, a procedure for the realistic instationary computation of RPC structures will be developed on the basis of the FE–method. It is here taken special regard to essential influences, as temperature-related physical non-linearity of components of RPC structure, multiaxial material behaviour of the concrete and non-proportional thermal load as well as prestressing of the tendons. 
+The multiaxial mechanical behaviour for LNG RPC tanks is in faith with realisty formulated in the new FE–model also in particular considering temperature-related physical non-linearity beside the thermal process. The new 3D–model of material for concrete makes it possible both for the analytical description of the temperature-related non-linear material behaviour under tridimensional loads with respect to hardening or strain–softening at the low temperature and for the numeric implementation in concept of the elastoplastic damage within the framework of continuum mechanics. The stress states of RPC structure and its effect onto the property of bearing can be determined on this basis. In this way, the load-carrying capacity and the safety can be accurate predetermined for the LNG RPC tanks at the low temperature. On account of such more precise investigations is it enable to offer more economical and also more material solutions for design and execution of such buildings.</abstract>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Architektur und Bauingenieurwesen » Bauingenieurwesen"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20020221</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_575</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_575">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-671/d110103.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_575"
+            DMDID="DMD_wuppertal_elpub_575">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_575"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

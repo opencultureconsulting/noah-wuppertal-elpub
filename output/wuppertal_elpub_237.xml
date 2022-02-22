@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_237">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Ein </nonSort>
+                        <title>diskreter Differentialformenkalkül zur Modellierung der Maxwellschen Gleichungen auf vierdimensionalen Simplizes</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Feuerstein, Peter</displayForm>
+                        <namePart type="family">Feuerstein</namePart>
+                        <namePart type="given">Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-05-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Lösung der Maxwellschen Gleichungen spielt eine große Rolle in der naturwissenschaftlichen Forschung sowie in Anwendungen der Physik und der Elektrotechnik. Da im allgemeinen keine expliziten Lösungen bekannt sind und insbesondere auch keine Aussage über das Verhalten elektromagnetischer Felder innerhalb der meist sehr komplizierten Strukturen realer oder geplanter Apparaturen gemacht werden kann, wurde eine Reihe numerischer Verfahren zur näherungsweisen Lösung der Maxwellschen Gleichungen entwickelt. Im Gegensatz zur üblichen Vorgehensweise der Verwendung der Maxwellschen Gleichungen in klassischer differentieller oder Integralform sowie der getrennten Diskretisierung von Raum und Zeit liegt dieser Arbeit die Differentialformendarstellung der Maxwellschen Gleichungen in der Minkowski-Raum-Zeit zugrunde. Dabei werden die elektromagnetischen Felder in stückweise affin linearen Differentialformen auf vierdimensionalen Simplexpolyeden zusammengefaßt. Es wird eine diskrete Version des Differentialformenkalküls für die diese stückweise definierten Formen eindeutig bestimmenden Werte in den Eckpunkten der vierdimensionalen Simplizes entwickelt. Dabei werden alle für die Modellierung elektromagnetischer Felder benötigten Hilfsmittel unter besonderer Berücksichtigung der geometrischen Struktur der Minkowski-Raum-Zeit besprochen. Der entwickelte Kalkül wird explizit auf die Maxwellschen Gleichungen angewandt. Schließlich wird die Modellierung transversaler magnetischer Wellen an einem einfachen Beispiel demonstriert.</abstract>
+                    <abstract type="content" lang="eng">Solving Maxwell&apos;s equations is very important both for research in natural science and for applications in physics and electrical engineering. However, explicit solutions are only known in very special cases. So a series of numerical approaches to the solution of Maxwell&apos;s equations has been developed, in order to meet the demands of real-life boundary conditions. Previous numerical approaches have all been based on the classical form of Maxwell&apos;s equations in differential or integral form, and therefore require seperate discretisations of space and time. In contrast, this thesis uses Maxwell&apos;s equations for exterior differential forms on domains of Minkowski spacetime. Electromagnetic fields are merged in piecewise affine linear differential forms on four-dimensional simplicial polyhedra. A discrete version of the exterior calculus is developed for the unique values of the field components in the vertices of the simplices. All the necessary tools for modelling electromagnetic fields take account of the specific geometrical structure of the Minkowski spacetime. The discrete calculus is explicitly applied to Maxwell&apos;s equations and the modelling of transversal magnetic waves is demonstrated in a simple example.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20010357</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_237</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_237">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-330/d070103.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_237"
+            DMDID="DMD_wuppertal_elpub_237">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_237"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

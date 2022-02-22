@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_467">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Grundlegende Untersuchungen zur Hydrophobierung von Textilien mit Polyorganosiloxanen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kim, Bong Tae</displayForm>
+                        <namePart type="family">Kim</namePart>
+                        <namePart type="given">Bong Tae</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-07-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Cotton and cotton/polyester-blended fabrics were finished with polyorganosiloxanes and their hydrophobicity and soft handle were investigated. Aminofunctional polysiloxanes with high molecular weight were synthesized and characterized with measurements of viscosity and content of aminofunctional groups. In order to determine the hydrophobicity of fabrics, a test-method was developed according to ISO 8022. General conditions such as content of emulsion, drying conditions, particle size of emulsion and structure of polyorganosiloxanes were investigated in this work. The hydrophobicity was finally determined by model systems of silanes by means of contact angles, SEM and AFM. The hydrophobicity of fabrics is explained on account of the formation of film, the polarity and the reorientation of aminofunctional groups. It became confirmed, that strengthening the interaction through aminofunctional groups on the interface leads to an improvement in the hydrophobicity. The porosity of the surface which was confirmed by means of microscopic investigations causes an increase of the measured contact angles through the lotuseffect. An aging effect was also found: If a substrate let be on air, which is a hydrophobic medium, the hydrophobic groups are oriented to the surface while the hydrophilic groups arrange themselves inwards. On the other hand if it let be in a polar medium, the reciprocal effect occurs. The results can be summarized as follows: Polysiloxane with primary amino groups in the side chain make it possible to modify fabrics in such a way that they become simultaneously very hydrophobic and soft. The purposeful synthesis of high molecular polysiloxanes with many side aminofunctional groups allows to maximize this effect. The hydrophobicity is caused by the interaction of the aminofunctional groups with the polar part of cellulose structure. Investigations to model surfaces show, that the hydrophobicity can be increased additionally through the lotuseffect. AFM measurements show, that the aminofunctional polysiloxanes with high molecular weight form a thin, regular film on the substrate.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20010440</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_467</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_467">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-562/d090104.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_467"
+            DMDID="DMD_wuppertal_elpub_467">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_467"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

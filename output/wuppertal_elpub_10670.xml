@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_10670">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Spectral Projection - Robustness and Orthogonality Considerations</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Galgon, Martin</displayForm>
+                        <namePart type="family">Galgon</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-07-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This work deals with a special incarnation of subspace iteration—spectral projection— in order to solve Eigenproblems of standard or generalized form, given by Hermitian matrices or definite matrix pairs. After establishing the general theory, a selection of possible approximations of the ideal filtering function to obtain an approximate projector for a specified spectral target interval is highlighted, and many aspects of the convergence behavior of the resulting methods and its pathological peculiarities are analyzed experimentally. The work touches on implementation aspects and briefly introduces an accompanying software framework for parallel solution of said eigenproblems on large hybrid parallel supercomputers with many cores. In the remainder of the work, the major crucial implication of a parallel implementation that aims to subdivide the target interval for independent computation, the maintenance or reestablishment of orthogonality among the computed eigenvectors of all subintervals, are examined. Many aspects of possible approaches are presented and their feasibility is evaluated.</abstract>
+                    <abstract type="content" lang="ger">Diese Arbeit beschäftigt sich mit einer speziellen Inkarnation der Unterraumiterationsmethode— spektraler Projektion—zur Lösung von Eigenproblemen in Standardoder verallgemeinerter Form, bestehend aus hermiteschen Matrizen oder definiten Matrixpaaren. Die grundlegende Theorie wird etabliert, eine Auswahl möglicher Näherungen der idealen Filterfunktion zur Konstruktion eines approximativen Projektors für ein vorgegebenes spektrales Zielintervall präsentiert, und viele Aspekte des Konvergenzverhaltens der resultierenden Methode sowie seine pathologischen Absonderlichkeiten durch geeignete Experimente analysiert. Die Arbeit beleuchtet Implementierungsaspekte und eine begleitende Software zur Lösung besagter Eigenprobleme auf großen, hybrid-parallelen Supercomputern mit einer großen Anzahl Kerne wird kurz vorgestellt. Nachfolgend wird die wichtigste Implikation einer parallelen Implementierung, welche versucht, das Zielintervall zur unabhängigen Berechnung in Teilintervalle zu unterteilen, nämlich das Aufrechterhalten oder die Wiederherstellung der Orthogonalität zwischen den Eigenvektoren aller berechneter Teilintervalle, untersucht. Viele Aspekte möglicher Vorgehensweisen werden präsentiert und ihre Verwendbarkeit bewertet.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20200720-110158-2</identifier>
+                    <identifier type="doi">10.25926/xffw-rb50</identifier>
+                    <identifier type="sys">HT020569835</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_10670</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_10670">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2020/galgon/dc2007.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_10670"
+            DMDID="DMD_wuppertal_elpub_10670">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_10670"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

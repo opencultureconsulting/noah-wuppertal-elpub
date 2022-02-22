@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_716">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Tricycloquinazoline (TCQ) based electron deficient discotics and conjugated polymers with indenfluorene and bisfluorenylidene units</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kadam, Jitendra S.</displayForm>
+                        <namePart type="family">Kadam</namePart>
+                        <namePart type="given">Jitendra S.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004-03-17</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">The aim of the present work &quot;Tricycloquinazoline (TCQ) based electron deficient discotics and conjugated polymers with indenofluorene and bis-fluorenylidene units&quot; was 1) Introduction of chiral as well as achiral side chains into the tricycloquinazolone (TCQ) core to obtain soluble and processible TCQ derivatives, 2) To synthesize fluorenylene end-capped poly(indeno[1,2-b]fluorene) (PIF) and statistical copolymers with indeno[1,2-b]fluorene and 1,4-phenylene-diphenylvinylene units, and 3) To synthesize novel conjugated polymers with the bisfluorenylidene building block.
+ The first goal was achieved by synthesizing achiral and chiral hexaalkoxytricycloquinazolines with branched 3,7-dimethyloctyloxy side groups. A strong circular dichroism (CD) signal was observed for the chiral hexaalkoxy TCQ derivatives in the condensed phase which indicates chiral coupling of chromophores in the columnar mesophase. The overall feature observed by polarizing microscopy and X-ray studies are consistent with the structure of a Colₕ phase.
+ The second goal was to synthesize fluorenylene-end-capped poly(indeno[1,2-b]fluorene) as low bandgap polyhydrocarbons with defined endgroups. The aim behind synthesizing fluorenylene-end-capped PIFs polymer was to increase the chemical stability and to get an exact molecular weight control it is also possible to to modify the optical and electronic properties. The end-capped PIFs have been applied as active layers in ambipolar organic field-effect transistors (OFETs) which support both electron and hole transport. Statistical copolymers with indeno[1,2-b]fluorene and 1,4-phenylene-diphenylvinylene units (PIF/ DP-PPV) were also synthesized and studied. PIF/DP-PPV statistical copolymers have been synthesized by the reductive coupling (polycondensation) of the corresponding tetrachloro monomers.
+ The last topic was to synthesize novel wide bandgap conjugated polymers with the bisfluorenylidene unit. The bisfluorenylidene (BFD) can be easily reduced (n-type character). Several polymers with the BFD units were synthesized by Yamamoto type aryl-aryl coupling and Suzuki-type cross coupling reactions.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20040123</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_716</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_716">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-812/dc0401.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_716"
+            DMDID="DMD_wuppertal_elpub_716">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_716"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

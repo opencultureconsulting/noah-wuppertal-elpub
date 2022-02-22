@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9190">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Process for Extraction of Knowledge from Crash Simulations by means of Dimensionality Reduction and Rule Mining</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Diez, Constantin</displayForm>
+                        <namePart type="family">Diez</namePart>
+                        <namePart type="given">Constantin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-03-13</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Diese Doktorarbeit schlägt einen Prozessfluss vor, welcher eine effiziente Analyse von einer Vielzahl an Crashsimulationen ermöglicht. Der gesamte Prozessfluss hat zwei zentrale Ziele. Das erste Ziel ist die algorithmische Detektion der größten und wichtigsten Deformationsmoden einer Struktur unter Crashbelastung. Das zweite Ziel ist es herauszufinden, wie diese Deformationsmoden gezielt ausgelöst oder vermieden werden können. 
+Das erste Ziel der Deformationsmodensegmentierung wird in dieser Arbeit mittels einer neuartige Dimensionsreduktion angegangen. Diese Dimensionsreduktion erzeugt nicht nur eine speicherarme und netzunabhängige Darstellung der Simulationsergebnisse, sondern ermöglicht auch die Berechnung einer prozentualen Ähnlichkeitskennzahl. Infolgedessen können mithilfe niederdimensionaler Einbettung und Clustering Gruppen an Simulationen identifiziert werden, welche untereinander ein ähnliches Deformationsverhalten aufweisen. Ein Ingenieur kann zu diesem Zeitpunkt selbst entscheiden, welche Deformationsmoden er als akzeptabel befindet, und welche er vermeiden möchte. 
+Nachdem das bevorzugte Deformationsverhalten klargestellte wurde, kann durch Rule Mining herausgefunden werden, wie das bevorzugte Deformationsverhalten erreicht werden kann. Der Rule Mining Algorithmus schlägt dabei multiple Design-Bereiche vor, in welchen das Ziel des Ingenieurs erfüllt wird. Weil diese Regeln an ihren Grenzen unsicher sein können, kann über die Optimierung der Regelgrenzen eine spezifizierte Zuverlässigkeit erreicht werden, um damit eine sichere Nutzung zu gewährleisten.</abstract>
+                    <abstract type="content" lang="eng">This thesis proposes an efficient process flow for analyzing an ensemble of vehicle crash simulations. The process has two goals. The first goal is to algorithmically detect the largest and most notable types of deformation. The second goal is to find out how to avoid or trigger a user-specified deformation behavior. 
+The first goal of deformation behavior segmentation, is approached with a novel dimensionality reduction technique. This dimensionality reduction technique not only makes it possible to derive a lightweight, intermediate, and mesh-free representation of the simulation results, but also makes it possible to compute a normalized simulation similarity. These simulation similarities can be used to find groups of similar deformation behaviors by using clustering algorithms and low-dimensional embeddings. An engineer then has to decide which types of deformation are acceptable, and which are not. 
+Having chosen the desired types of deformation, it is then possible to find out how they can be achieved by using rule mining. The rule mining algorithm returns multiple safe design spaces, in which the engineer’s demand is fulfilled. Because the rules might be unsafe at their boundaries, an optimization can limit the probability of a rule being wrong to within a specified limit.</abstract>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Maschinenbau und Sicherheitstechnik » Maschinenbau"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20190313-111615-6</identifier>
+                    <identifier type="sys">HT020047890</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9190</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9190">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/maschinenbau/diss2019/diez/dd1902.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9190"
+            DMDID="DMD_wuppertal_elpub_9190">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9190"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

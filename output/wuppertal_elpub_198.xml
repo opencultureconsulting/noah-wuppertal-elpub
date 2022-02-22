@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_198">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Differenziertes Design für vielfältige Lebensqualität</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Becker, Martina</displayForm>
+                        <namePart type="family">Becker</namePart>
+                        <namePart type="given">Martina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-12-12</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Untersuchung basiert auf der Annahme vielfältiger Formen ästhetischer Erfahrung und Vorstellungen von Lebensqualität, bzw. einem guten Leben. Ziel der Untersuchung ist es, die Befürwortbarkeit der Forderung »Design für vielfältig erfahrbare Lebensqualität« im Hinblick auf deren Einlösung in der Designpraxis zu begründen.
+ Im ersten Kapitel wird, Erfahrung als systemischer Organisationsprozeß modelliert, der sich nur im individuellen Erleben entfaltet. Das zweite Kapitel belegt die These, daß bewußtseinsfähige Individuen verschiedene Erfahrungsschwerpunkte entwickeln und dadurch spezielle Qualitäten und Ausrichtungen der ästhetischen Erfahrung entstehen, die als bewußtes Gefühl erfahren werden. Das dritte Kapitel legt dar, daß ein lebender Organismus die Verkörperung einer je einzigartigen Erfahrungsgeschichte darstellt, die respektvolle Beachtung verdient. Kernpunkt des vierten Kapitels ist die These, daß Menschen ihr soziales Zusammenleben nach ihren Vorstellungen darüber gestalten und keiner sozialen Eigendynamik völlig ausgeliefert sind. Das fünfte Kapitel basiert auf der These, daß die Interaktion mit Medien zum Menschsein gehört und Medien immer weder neutral noch bestimmend für menschliches Handeln sind. Argumente zu der entscheidenden These im sechsten Kapitel, ziehen sich durch die gesamte Untersuchung. Grundannahme ist, daß verantwortliches Design mittels achtsamen Veränderungen und durch das Eingehen auf die verschiedensten Erfahrungsschwerpunkte der Menschen für diese mehr Gelegenheiten zur geglückten, freien Begegnung mit den Dingen, den Mitmenschen und dem Selbst schafft.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Design und Kunst » Mediendesign / Designtechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20010088</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_198</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_198">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-305/d050002.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_198"
+            DMDID="DMD_wuppertal_elpub_198">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_198"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

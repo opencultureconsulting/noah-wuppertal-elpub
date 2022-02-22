@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_789">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entwicklung, Optimierung und Validierung eines rezeptorproteingestützten Mikrotiterplatten-Tests zur Rückstandsanalytik von ß-Lactam-Antibiotika</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lamar, Janine</displayForm>
+                        <namePart type="family">Lamar</namePart>
+                        <namePart type="given">Janine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-02-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The recombinantly obtained Streptococcus pneumoniae penicillin-binding protein PBP 2x* has been utilised to develop a novel microtiter plate assay for the detection and determination of penicillins and cephalosporins in milk, honey, porcine, bovine, turkey and deer muscle tissue and egg. The major advantage in using PBP 2x* is that only intact beta lactams are detected and both, penicillins and cephalosporins, can be screened within one assay. 
+In the assay, the receptor protein was immobilised to a microplate in the first step. To each sample a bifunctional reagent synthesised for this assay was added, with ampicillin and digoxigenin as functional groups (DIG-AMPI). The amount of bifunctional reagent, which was bound via its ampicillin part to the receptor protein, decreased with increasing beta-lactam concentration in the sample. The detection step used anti-digoxigenin Fab fragments marked with horseradish peroxidase. The more bifunctional reagent was bound to the receptor protein, the more antibody fragments were bound via the digoxigenin part of the reagent. A maximum colour development with hydrogen peroxide as substrate for the peroxidase and tetramethylbenzidine as chromogen was achieved, when no beta-lactam residues were present. Consequently, the colour development was reversely related to the beta-lactam concentration in the sample. 
+The expression of PBP 2x* as recombinant protein in Escherichia coli and the following purification by affinity chromatography were optimised to achieve high protein amounts. 
+Chemometric experimental design was used to optimise the assay procedure. A fractional factorial design was created to detect effects and interactions of the assay parameters. For final optimisation of the significant parameters a Box-Behnken design was used. As a result of the optimisation, operation parameters could be selected, which allowed a low consumption of PBP 2x* as the most valuable reagent, while keeping sensitivity at the necessary high level. 
+The assay has been developed for various food matrices to screen for residues of beta-lactam antibiotics. Except cefalonium, all EU relevant beta-lactam antibiotics could be detected at concentrations around their respective MRL. Cefalonium had a too low binding affinity to PBP 2x*, so that the detection at its MRL was not possible. Matrix interferences could be eliminated by tenfold dilution of raw milk, porcine and turkey muscle meat, honey and egg. The matrix effect observed with raw milk could also be eliminated by a centrifugation step only. Matrix interferences caused by bovine muscle tissue and albumen could only be partially reduced by a tenfold dilution. For the analysis of deer muscle tissue a membrane filtration step was necessary prior to the dilution step. Samples of albumen, bovine and deer muscle tissue needed matrix blank samples using the same microplate for reliable beta-lactam identification. 
+A validation using the principles of EU decision 2002/657 was performed for benzylpenicillin, ampicillin, cefquinome and cefoperazone in milk. The developed microplate assay satisfied the criteria for specificity, reproducibility, precision and accuracy. CCα and CCβ values were calculated. A set of 8 blind-fortified samples for each of the four beta-lactams was analysed. All blanks were correctly identified and a very high accuracy for quantitative results was observed. 
+At the Federal Research Centre for Nutrition and Food (Institute for Hygiene and Food Safety) at the location in Kiel the excretion of antibiotics (e.g. benzylpenicillin, ampicillin, cefquinome and cefoperazone) in milk was studied. There, the residues were determined by high performance liquid chromatography (HPLC) with UV detection and different screening methods. From these experiments 289 milk samples (with the four β-lactam antibiotics mentioned above) preserved by lyophilization were available. With these samples and by comparison of the microtiter plate assay results and the HPLC results obtained in Kiel the opportunity to use the microtiter plate assay as quantitative assay (when the identity of the residual beta-lactam is known), the quantitative accuracy and the validity of the developed microplate receptor assay were checked. No false positive reactions could be detected, giving a diagnostic specificity of 100 %. No false negative samples could be observed as well. 
+In conclusion the results indicate that the assay has the potential to emerge into a screening assay for routine use.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20070084</identifier>
+                    <identifier type="sys">HT015002164</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_789</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_789">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2007/lamar/dc0702.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_789"
+            DMDID="DMD_wuppertal_elpub_789">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_789"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

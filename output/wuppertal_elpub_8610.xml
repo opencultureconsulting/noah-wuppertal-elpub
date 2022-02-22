@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_8610">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Design of drugs for the inhibition of the cancer related proteins MIA, Rheb and K-Ras</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Müller, Jasmin</displayForm>
+                        <namePart type="family">Müller</namePart>
+                        <namePart type="given">Jasmin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-09-17</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Cancer is one of the leading causes of morbidity and mortality worldwide. The three cancerrelated proteins Rheb, K-Ras and MIA were chosen as targets. In the course of this thesis, the structure-activity-relationship of molecules, which bind to these proteins, were examined. During preliminary studies, four molecules were identified as good binders. The structure-activityrelationship of the compounds was thoroughly investigated. Molecular modelling was used as a tool to identify promising compounds. Complexes of the compounds and the corresponding proteins were computed using Autodock/Vina and/or Glide. Selected molecules were then synthesized and tested for their interaction with the protein by heteronuclear NMR measurements. The observed shifts were used for HADDOCK calculations to predict the binding conformation of the compound and the corresponding protein.
+ For Rheb, a molecule incorporating an additional hydroxy group in comparison to 4,4’-biphenol was found to exhibit a binding constant that is approximately six times stronger. Surprisingly, reducing the number of hydroxy groups has the same effect on the binding affinity. All in all, the Rheb protein tolerates only small additional substituents on the biphenol core structure. In case of K-Ras, alterations of the bisphenol A core mostly led to inactive compounds. These will be interesting for other purposes than cancer treatment depending on the functional groups of the molecules. Similar to Rheb, the K-Ras protein does not tolerate introduction of large substituents into the bisphenol A core structure.
+ For the MIA protein, two molecules were identified from a screening of the ZINC database. The structure-activity-relationship of one of these compounds regarding its substituents was examined. In the following step, hybrid compounds derived from the two fragments were synthesized. Precursor molecules showed no activity towards the protein. Consequently, a comprehensive screening of the ZINC database was performed. A compound, which inflicts significant shifts of all protein peaks in the 2D-NMR spectrum, was found.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20180806-114148-2</identifier>
+                    <identifier type="sys">HT020164671</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_8610</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_8610">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2018/mueller/dc1810.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_8610"
+            DMDID="DMD_wuppertal_elpub_8610">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_8610"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

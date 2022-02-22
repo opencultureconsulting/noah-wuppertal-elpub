@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_239">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>A </nonSort>
+                        <title>new parallel method for verified global optimization</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ibraev, Suiunbek</displayForm>
+                        <namePart type="family">Ibraev</namePart>
+                        <namePart type="given">Suiunbek</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-07-26</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Wir betrachten verifizierte globale Optimierung. Für diese entwickeln wir ein neues adaptives serielles Verfahren.Hierzu führen wir zwei neue Stragien ein: Eine Strategie zur Box-Bearbeitung nach dem Intervall-Verfahren und eine Strategie zur Anwendung von Intervall-Verfahren auf Boxen. Die zweite Strategie berücksichtigt dabei die unterschiedlichen Verhalten der gegebenen Funktionen über verschiedenen Boxen. Wir betrachen auch die Parallelisierung des Verfahrens zur verifizierten globalen Optimierung. Dazu stellen wir ein neues Verahrens zur effizienten Nutzung von Prozessoren, Speicher und Kommunikation vor. Dieses Verfahren hat keine Auswirkungen auf die Anzahl der benötigten Prozessoren des Parallelrechners. Das neue Verfahren führt eine &quot;send a box on demand&quot;-Idee ein. Das wesentliche Ziel ist dabei ueberflüssigen Boxen-Transfer zwischen Prozessoren zu vermeiden. Das neue Verfahren besitzt eine zentrale Verwaltung, die die Anzahl der Kommunikationen minimiert und ein Beenden des Verfahrens vereinfacht. Dieses Kombination aus neuer Idee und zentraler Verwaltung führt zu einem sehr effizienten parallelen Verfahren. Die Effizienz ist durch numerische Ergebnisse sowie durch Vergleiche mit bereits exisitierenden Verfahren belegt.</abstract>
+                    <abstract type="content" lang="eng">In this work we consider verified global optimization. We design a new adaptive serial method for verified global optimization. Here we introduce two new strategies: a strategy for box processing after an interval method and a strategy for applying an interval method to boxes. The new strategy for applying an interval method to boxes takes into account the different behavior of the given function over different boxes. We also consider the parallelization of the method for verified global optimization. We present a new approach for the efficient use of processors, memory and communications. This method does not have any constraints on the number of processors of the parallel computer. The new method introduces a &quot;send a box on demand&quot; idea. The underlying goal is to minimize unnecessary transference of boxes between processors. The new method also features a centralized management, which reduces the number of communications and simplified the finalization of the method. The combination of the new idea with a centralized management results in a very efficient parallel method. The efficiency of the new method is confirmed by numerical results and by comparison with an existing method.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20010453</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_239</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_239">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-332/d070104.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_239"
+            DMDID="DMD_wuppertal_elpub_239">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_239"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

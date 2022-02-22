@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_125">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kommunikationsarbeit im Teleservice:Beanspruchung und emotionale Regulation bei Call-Center-Dienstleistungen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Scherrer, Karin</displayForm>
+                        <namePart type="family">Scherrer</namePart>
+                        <namePart type="given">Karin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002-07-18</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In der Arbeit wird der aktuelle Wandel der Arbeit von der Industrie- zur Dienstleistungs- und Informationsgesellschaft mit seinen Auswirkungen für die Organisation von Dienstleistungsaufgaben und die Beschäftigten beschrieben: Der aktuelle Forschungstand in den Themenfeldern Neue Arbeits- und Organisationsformen, wachsende Bedeutung von Kommunikation sowie der Förderung von Gesundheit und Qualifizierung von Beschäftigten ist im Überblick dargestellt. Dies geschieht im Kontext neuer arbeitsrechtlicher Entwicklungen und veränderter Rolle von Phänomenen wie Organisationskultur, Commitment und Vertrauen. Der Wandel von physischen zu psychischen Belastungen wird gerade im Bereich des Teleservice durch erhöhte Anforderungen an die emotionale Regulation ergänzt. Bei der Datenerhebung stehen die unterschiedlichen Aufgaben der Call Center-Tätigkeiten und die Betrachtung ihrer Folgen für das Belastungsempfinden in emotionaler Hinsicht im Mittelpunkt. Die Ergebnisse der Untersuchung zeigen erhöhte Belastungen der Beschäftigten in Call Centern, die vor allem auf hoch standardisierte Aufgaben mit wenig Abwechslung und Handlungsspielraum sowie hohen Vorgaben bzw. Kontrolle zurückgeführt werden können. Darüber hinaus ergeben sich aus der Arbeitsaufgabe Kommunikation spezifische Folgen für die emotionale Befindlichkeit der Call Center-Agents. 
+ Eine Optimierung der Arbeitsorganisation und der Gesundheitsförderung im Teleservice wird vor diesem Hintergrund mit innerorganisatorischen Maßnahmen diskutiert, die Kundenorientierung um Personalorientierung ergänzt und langfristig aus „Jobs“ Dauerarbeitsplätze macht.</abstract>
+                    <classification authority="ddc">150</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Human- und Sozialwissenschaften » Psychologie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20020261</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_125</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_125">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-315/d030201.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_125"
+            DMDID="DMD_wuppertal_elpub_125">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_125"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

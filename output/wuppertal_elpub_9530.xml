@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9530">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Simulating maximally twisted fermions at the physical point with multigrid methods</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bacchio, Simone</displayForm>
+                        <namePart type="family">Bacchio</namePart>
+                        <namePart type="given">Simone</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-07-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">We develop multigrid methods for simulating lattice QCD with physical values of the quark masses within the twisted mass fermion formulation. We employ the developed multigrid method both for the calculation of the quark propagators needed for extracting the hadronic matrix elements and for accelerating the generation of gauge field ensembles. For the computation of the quark propagators we improve the performance by two orders of magnitudes as compared to conjugate gradient enabling to perform the analysis of key nucleon observables at physical values of the light quark mass. For the generation of gauge field ensembles with two degenerate flavors of the light quarks (Nf =2) an order of magnitude speedup is achieved. Extension of the multigrid approach is carried out to include in the simulation the dynamical strange and charm quarks. To accomplish this one needs the calculation of the square root of the non-degenerate twisted mass operator. We solve the square root with an optimal rational approximation and employ multigrid methods in the solution of the shifted linear system. In such a way we accelerate simulations with Nf =2+1+1 flavors of fermions all tuned at their physical value by an order of one magnitude. These methods are used for the production of four ensembles, two with Nf =2 and two with Nf =2+1+1, which are state-of-the-art worldwide. These ensembles are shared by all members of the Extended Twisted Mass Collaboration (ETMC) and are being used them for obtaining quantitative description of hadron properties including observables that can probe new physics beyond the standard model. In this thesis we focus on physical results on low-lying hadron masses, meson decay constants, and pion and nucleon electromagnetic form factors</abstract>
+                    <abstract type="content" lang="ger">In dieser Thesis werden Mehrgitterverfahren zur Simulation von Gittereichtherien mit physikalischen Werten der Quark-Massen innerhalb der Twisted-Mass-Fermion-Formulierung entwickelt. Diese entwickelten Mehrgitterverfahren werdenowohl für die Berechnung der Quark-Propagatoren, die für die Extraktion von hadronischen Matrixelementen benötigt werden, als auch für die Beschleunigung der Simulation von Eichfeld-Ensembles mit zwei degenerierten Light-Quarks (Nf =2) verwendet. Für die Berechnung der Quark-Propagatoren wird die erforderliche Lösungszeit um zwei Größenordnungen im Vergleich zur Conjugated Gradient Methode verbessert. Dies ermöglicht die Statistik für die Analyse wichtiger Nukleon-Observablen entscheident zu erhöhen. In der Simulation wurde die Lösungszeit um eine Größenordnung für Quarkmassen am physikalischen Punkt verringert. Des Weiteren wurde das Mehrgitterverfahren auf den nicht-degenerierten Twisted-Mass-Operators erweitert, was die Anwendung des Mehrgitterverfahren für die Simulation von dynamischer Strange und Charm Quarks ermöglicht. Dies erfordert die Berechnung der Quadratwurzel des Operators, welche mit einer optimalen rationalen Approximation und dem verwenden Mehrgitterverfahren zur Lösung des verschobenen Linearsystems berechnet wird. Auf diese Weise wurde der Rechenaufwand der Simulationen mit Nf =2+1+1 Fermionen deutlich reduziert, was Simulation mit Quarks ermöglicht, die alle auf ihren physikalischen Wert abgestimmt sind. Diese Ensembels, hier zwei mit Nf =2 und zwei mit Nf =2+1+1, sind weltweit auf dem neuesten Stand. Die Messungen auf diesen Ensembels werden verwenden für die quantitativen Beschreibung der Hadronenstruktur und können Hinweise auf neue Physik jenseits des Standardmodell geben. Die präsentierten physikalischen Ergebnisse beinhalten Hadronenmassen, Mesonzerfallskonstanten sowie elektromagnetische Formfaktoren von Pione und des Nukleon.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20190703-114133-8</identifier>
+                    <identifier type="doi">10.25926/jy14-2238</identifier>
+                    <identifier type="sys">HT020164339</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9530</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9530">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2019/bacchio/dc1911.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9530"
+            DMDID="DMD_wuppertal_elpub_9530">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9530"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

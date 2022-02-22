@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_638">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Eignungsprüfung als Instrument der Qualitätssicherung und Kompetenzbewertung von Prüflaboratorien für mechanisch-technologische Werkstoffprüfungen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Vogt, Cord-Christoph</displayForm>
+                        <namePart type="family">Vogt</namePart>
+                        <namePart type="given">Cord-Christoph</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003-10-10</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Im Rahmen dieser Arbeit wurden erstmalig Eignungsprüfungen speziell für verschiedene mechanisch-technologische Werkstoffprüfverfahren konzipiert, mit insgesamt 600 Teilnehmern aus 25 Nationen durchgeführt und systematisch ausgewertet. Ziel der Untersuchung war die Entwicklung von Methoden zur Durchführung und Auswertung von Eignungsprüfungen, die einen prüftechnisch angemessenen und wissenschaftlich begründbaren Kompetenznachweis ermöglichen.
+ Die aus den Ergebnissen dieser Untersuchung resultierenden Eignungsprüfungen lassen sich für folgende Aufgaben verwenden:
+ Akkreditierte Prüflaboratorien können bei erfolgreicher Teilnahme einen belastbaren Kompetenznachweis erbringen und die in ISO/IEC 17025 gestellte Anforderung erfüllen, an &quot;einem geeigneten Programm für Vergleichsmessungen zwischen Laboratorien&quot; teilzunehmen.
+ Nicht akkreditierten Laboratorien ermöglichen diese Eignungsprüfungen erstmalig die Beurteilung ihrer Prüfleistungen im Vergleich mit führenden europäischen Laboratorien auf Grundlage belastbarer Kriterien. Die aus den Daten der Eignungsprüfungen gewonnen Ergebnisse können zusätzlich zur Weiterentwicklung und Normung der mechanisch-technologischen Prüfverfahren, z. B. zur Bestimmung der Messunsicherheit von Härtemessungen, verwendet werden.</abstract>
+                    <abstract type="content" lang="eng">Within the scope of this thesis proficiency tests in particular for mechanical materials testing laboratories were designed, conducted with 600 participants from 25 countries and systematically analysed. Main objective of the analysis was the development of methods for execution and evaluation of proficiency tests, that will make possible an appropriate proof of competence on a scientific basis.
+ The resulting proficiency tests based on this analysis can be used for the following:
+ Provided a successful participation accredited laboratories can sustainable proof evidence of their competence and fulfil the requirement of ISO/IEC 17025 &quot;to participate in a suitable programme of interlaboratory comparisons&quot;.
+ The proficiency tests enable non-accredited laboratories for the first time to compare their testing results with European leading laboratories based on sustainable criteria. The data derived from the proficiency tests can additionally be used for further development and standardisation of mechanical testing methods, e. g. for the determination of measurement uncertainty in hardness testing.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Maschinenbau und Sicherheitstechnik » Sicherheitstechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20030421</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_638</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_638">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-734/d140301.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_638"
+            DMDID="DMD_wuppertal_elpub_638">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_638"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

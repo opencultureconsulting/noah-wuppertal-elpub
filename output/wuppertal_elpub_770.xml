@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_770">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Einsatz partikulärer und monolithischer Kapillaren in der Kapillarelektrochromatographie</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Droste, Stefan</displayForm>
+                        <namePart type="family">Droste</namePart>
+                        <namePart type="given">Stefan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005-12-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In dieser Arbeit wurden partikuläre und monolithische Kapillaren auf ihre Einsatzmöglichkeiten in der Kapillarelektrochromatographie (CEC) untersucht. Ein Problem der partikulären Kapillaren ist die wiederholt auftretende Luftblasenbildung, bevorzugt an der Auslassfritte der Kapillare. Daher wurden so genannte &quot;getaperte Kapillaren&quot; verwendet, bei denen die Auslassfritte durch eine konische Verjüngung (Querschnittsverengung) der Kapillare ersetzt wird. Dies gelingt reproduzierbar mit einem neuen Verfahren unter Verwendung eines Lichtbogens. Durch Verkeilen der Partikel an der gebildeten Engstelle ergibt sich eine stabile Packung. Vergleichsmessungen haben gezeigt, dass die getaperten Kapillaren bei gleich bleibender Trennleistung weniger zur Luftblasenbildung neigen. 
+ Eine weitere Reduzierung der Luftblasenbildung wurde bei den monolithischen Kapillaren beobachtet. Mit Hilfe des Molecular-Imprinting-Polymer(MIP)-Verfahrens konnten hochselektive Phasen synthetisiert werden. Ein MIP mit Cotinin als Templat, das durch photoinduzierte Polymerisation von Methacrylat hergestellt wurde, erlaubt die Trennung der strukturverwandten Verbindungen Cotinin, Myosmin und Nikotin. Sein Einsatz als SPE-Material in der Probenvorbereitung ist aufgrund der hohen Selektivität viel versprechend.
+ Weniger selektiv, aber zur Trennung lipophiler Analyten gut geeignet, waren die getesteten Acrylamid- und Silika-Monolithen. Die Luftblasenbildung war bei diesen frittenlosen Kapillaren kein Problem mehr. Obwohl die im Labor selbst hergestellten Acrylamid-Monolithen auf wasserlöslichen Monomeren beruhten, reichten die lipophilen Wechselwirkungen zwischen Analyten und stationärer Phase aus, um polyaromatische Kohlenwasserstoffe (PAKs) zu trennen. Stärkere lipophile Eigenschaften zeigten die kommerziell erhältlichen RP-18-Silika-Monolithen. Sie zeichneten sich durch gute Trenneigenschaften gegenüber lipophilen, neutralen Verbindungen aus und erzeugten einen zufrieden stellenden EOF. Sowohl die Acrylamid-Monolithen als auch die Silka-Monolithen konnten problemlos mit der Massenspektrometrie (MS) gekoppelt werden. Mit Hilfe der ESI-MS wurden zunächst Alkylpolyglykoside (APGs) untersucht. Während die Lipophilie der Acrylamidphase zur Basislinientrennung nicht ausreichte, konnten die APGs auf der Silikaphase gut getrennt werden. Aufgrund der Tatsache, dass mit einem ESI-Interface nur polare Substanzen ionisiert werden können, die CEC aber besonders zur Trennung lipophiler Substanzen geeignet ist, wurde die vor kurzem neu entwickelte Atmospheric-Pressure-Laser-Ionisation (APLI) mit den monolithischen Kapillaren gekoppelt. Der eingesetzte Acrylamid-Monolith wurde beim Einsatz des Lasers im Bereich der Kapillarspitze zerstört. Dies war wahrscheinlich auf eine Streuung des Laserstrahls im Ionisationsbereich zurückzuführen, wodurch die Kapillarspitze bestrahlt wurde. Aufgrund der Pyrolyseempfindlichkeit des Acrylamid-Monolithen entstanden so Bruchstücke mit vielen Stickstoffgruppen, die durch das ESI-Interface ionisiert wurden und ein hohes Hintergrundrauschen lieferten. Mit Hilfe des Silika-Monolithen konnte eine Trennung von PAKs mit anschließender TOF-MS-Detektion nach selektiver und weicher Ionisation erreicht werden. Durch den Einsatz dieser Technik konnte die Anwendung der CEC-MS auf lipophile Analyten ausgeweitet werden.</abstract>
+                    <abstract type="content" lang="eng">In this work, monolithic and particulate-packed capillaries were tested for their usefulness in capillary electrochromatography (CEC). One problem with particulate-packed capillaries is the formation of air bubbles, which occurs mainly at the outlet frit. For this reason, tapered capillaries were tested, where the outlet frit is replaced by a reduction in the diameter of the capillary. The use of an electrical arc makes the fabrication of the bottleneck reproducible. The particles are retained by the tapered &quot;outlet frit&quot; and form a stable bed. Blank tests showed that the tapered capillaries tend to form fewer air bubbles than fritted capillaries with similar separation efficiencies.
+ An even better reduction in bubble formation could be achieved with monolithic capillaries. With the Molecular-Imprinting-Polymer (MIP) approach, highly selective phases could be synthesized. An MIP which was produced by photo-initiated polymerization with cotinine as a template made it possible to separate the structurally related compounds cotinine, myosmine and nicotine. Because of the high selectivity, the applicability of the MIP as solid-phase extraction (SPE) material during sample preparation is encouraging.
+ Acrylamide and silica monoliths proved to be less selective, but well suited for separations of lipophilic samples. With these capillaries, air-bubble generation was not a problem. Although the acrylamide monoliths, which were prepared as part of this work, are based on water-soluble monomers, the lipophilic interactions between the sample and the stationary phase were strong enough to retain and separate a mixture of polycyclic aromatic hydrocarbons (PAHs). Stronger lipophilic characteristics were shown by the commercially available RP-18 silica monoliths. These possessed good separation efficiencies for neutral lipophilic substances and produced a satisfactory EOF. The acrylamide and the silica monoliths were easily coupled to the mass spectrometer (MS). Alkyl polyglycosides (APGs) were analyzed first by ESI-MS. While the lipophilic properties of the acrylamide phase were not strong enough for base-line separation, the silica phase separated the APGs quite well. Only polar substances can be ionized by ESI, but, since CEC is especially useful for the separation of lipophilic substances, the monolithic capillaries were coupled with the recently developed Atmospheric-Pressure-Laser Ionization (APLI). The acrylamide monolith was destroyed in the tip area when the laser was turned on. This might have happened because the laser light was scattered in the ionization area, which led to irradiation of the capillary tip. In the end, this induced pyrolysis and formed a great number of nitrogen-containing fragments. These were ionized by ESI and produced a noisy background. Separation of the PAHs was achieved with the silica monolith. Selective soft ionization was employed, with subsequent TOF-MS detection. With this technique, the application of CEC-MS could be extended to lipophilic substances.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20050750</identifier>
+                    <identifier type="sys">HT014604254</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_770</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_770">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2005/droste/dc0516.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_770"
+            DMDID="DMD_wuppertal_elpub_770">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_770"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

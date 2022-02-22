@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_928">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Boden-Bauwerk-Interaktion bei parallel-wandigen Verbundsystemen</title>
+                        <subTitle>Bodenmechanische Modellversuche unter Anwendung innovativer Auswerteverfahren</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hauser, Carsten</displayForm>
+                        <namePart type="family">Hauser</namePart>
+                        <namePart type="given">Carsten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005-08-02</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Dissertation beschäftigt sich mit dem Tragverhalten geotechnischer Boden-Verbundsysteme, die aus zwei parallel verlaufenden Wänden und dem dazwischen befindlichen Boden bestehen. Vor dem Hintergrund, dass derartige Bauwerke meist ohne Berücksichtigung der mittragenden Wirkung des Bodens bemessen werden, zielen die Untersuchungen darauf ab, den Beitrag der Bodenfüllung in Abhängigkeit der maßgebenden Parameter derart zu beschreiben, dass eine sichere und wirtschaftliche Bemessung erreicht wird.
+ Beispiele für diese Art von Verbundtragwerken sind - in Abhängigkeit des gegenseitigen Abstandes der parallelen Wände - Stabwände, schmale Trennmolen in Spundwandbauweise oder Fangedämme.
+ Die Untersuchungen werden mit einer kombinierten Arbeitsmethode aus bodenmechanischen 1g-Modellversuchen, numerischen Berechnungen mit der Finite-Element-Methode sowie einem analytischen Ansatz durchgeführt.
+ Zur Auswertung der Modellversuche kommen neben herkömmlichen Kraft-, Dehnungs- und Verformungsmessungen zwei innovative Verfahren zur Anwendung, die ihren Ursprung in anderen Gebieten des Bauingenieurwesens haben: die inverse Finite Element Method (iFEM) und die Particle Image Velocimetry Method (PIV-Methode). Diese Verfahren erlauben es, neben der Analyse des äußeren Last-Verformungs-Verhaltens, Informationen über die Spannungs- und Verformungsverhältnisse im Modellbauwerk zu gewinnen. Während mit der PIV-Methode die Verschiebungen der Bodenfüllung gemessen und sichtbar gemacht werden können, erlaubt es die inverse FE-Methode, aus einer kleinen Anzahl von Dehnungsmessungen an den Modellwänden kontinuierliche Verläufe der Kontaktspannungen zwischen Wänden und Bodenfüllung zu ermitteln.
+ Ergänzt werden die bodenmechanischen Modellversuche durch Berechnungen nach der Methode der Finiten Elemente (PLAXIS). Neben der Verifikation der im Labor gemachten Beo-bachtungen können auf Basis der numerischen Simulationen auch Randbedingungen untersucht werden, die im Labor nicht zu realisieren sind.
+ Die Ergebnisse der verschiedenen Auswerteverfahren werden zur Entwicklung einer Modellvorstellung zusammengeführt. Eine besondere Herausforderung stellt dabei die Tatsache dar, dass sich der innere Versagenszustand des Bodens zwischen den Wänden stetig mit dem Verformungszustand der lastseitigen Wand ändert. Neben einigen Empfehlungen für die Berechnung parallel-wandiger Verbundsysteme wird schließlich ein analytischer Ansatz vorgestellt, mit dem sich die maßgebenden Parameter zur Beschreibung der Interaktion zwischen den Wänden und der Bodenfüllung prinzipiell erfassen lassen.</abstract>
+                    <abstract type="content" lang="eng">This thesis concerns the behaviour of geotechnical composite structures, consisting of two parallel walls and the soil in-between. In many cases, these structures are designed without considering the supporting effect the soil has for the resistance of the whole system.
+ According to this fact the present investigations aim at a description of the contribution of the soil - regarding the decisive parameters - in order to obtain an efficient and cost-effective design. Examples for this type of structure are Cofferdams and Narrow Partition Moles in Sheet Piling Construction as described in the &quot;Recommendations of the Committee for Waterfront Structures Harbours and Waterways&quot; (EAU, 2004).
+ Examinations are carried out with a combined working method, comprising small-scale geo-technical model tests, numerical calculations with the Finite Element Method and an analytical approach. In addition to conventional measurements of forces, strains and deformations, the model tests are analysed by means of two innovative methods that originate in other disciplines of civil engineering: the inverse Finite Element Method (iFEM) and the Particle Image Velocimetry Method (PIV). These methods yield - besides the analysis of the outer behaviour - additional information on stresses and displacements inside the structure.
+ Whereas the PIV-Method supports the visualization of displacements inside the soil, iFEM is capable of deriving a continuous progression of soil pressures from a small number of strain measurement on he walls´ surfaces.
+ Geotechnical model tests are complemented by numerical simulations with the Finite-Element Method (PLAXIS). Alongside with the verification of the observations made in the model tests, the numerical simulations permit to examine edge conditions that cannot be realised in the physical model and are thus being emploid to gain further knowledge about the important parameters.
+ The results derived from the different analysing methods are compiled in order to develop an idea of the decisive mechanisms within the structure when exposed to a lateral load. The challenging element in formulating this approach is the fact that the state of inner soil failure strongly depends on the outer state of deformation.
+ Besides some recommendations for the design of the composite structures treated in this thesis, a principle calculation model is introduced, comprising the most important parameters that are required to describe the soil structure interaction between the parallel walls and the related soil filling.</abstract>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Architektur und Bauingenieurwesen » Bauingenieurwesen"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20050256</identifier>
+                    <identifier type="sys">HT014475373</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_928</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_928">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/bauingenieurwesen/diss2005/hauser/dd0503.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_928"
+            DMDID="DMD_wuppertal_elpub_928">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_928"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

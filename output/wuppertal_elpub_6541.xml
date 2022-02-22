@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6541">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>E/Z Isomerisierungen in molekularen Schaltern - Die Azogruppe als molekularer Schlüsselbaustein</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Krämer, René</displayForm>
+                        <namePart type="family">Krämer</namePart>
+                        <namePart type="given">René</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Within the framework of this dissertation E/Z isomers, that allow experimental access to basic concepts of photochemistry, especially molecular switches, were investigated. The scientific results can be summarized as follows:
+ 1. The isomers of thioindigo show differences in their UV/VIS absorption spectra. According to the spectra the isomers can be photochemically switched in both directions between two isomers and thermally from Z→E. A physical separation by thin layer chromatography was not possible.
+ 2. An E/Z isomerization of stilbene could not be proved. Spectroscopic measurements showed the formation of phenanthrene as by-product, that limits the use of stilbene as a reversible switch.
+ 3. Known experiments with azobenzene were reproduced successfully with new light sources. The azobenzene derivatives dimethyl-azobenzene-4,4’-dicarboxylate and methyl red show reversible photochemical switching between two isomeric states. Unfortunately a physical separation of the isomers was unsuccessful in both cases.
+ 4. Diazocine and diamino-diazocine were synthesized following published instructions, though the yields did not meet the expectations. All experimental data from other sources were reproduced successfully. Furthermore a series of experiments with thin layer chromatography of diazocine was realized. The preparation of an intelligent foil with diazocine in a polystyrene matrix failed.
+ 5. Pure E-diazocine was isolated successfully and UV/VIS spectra as well as X-ray crystal structures and X-ray powder diffraction of the thermally less stable E-isomer could be recorded successfully. So it was possible to clarify the crystal structure of E-diazocine. The results comply with theoretical computations. Furthermore it could be shown that the E→Z isomerization of diazocine proceed completely in solid state whereas the Z→E isomerization only takes place at the surface of a crystal. The thermal half-life of E-diazocine was determined in ethyl acetate at 20 °C. An NMR spectra of E-diazocine could be measured. However the existence of two conformers of E-diazocine could not be confirmed by NMR spectroscopy. 
+
+ The scientific investigations about E/Z isomers provide the basis for research in chemical education and the development of didactic materials:
+ 1. At first the importance of E/Z isomerization for current research and development was shown and thus the relevance for school education. Different basic concepts were included that allow the implementation of E/Z isomerizations in chemical education in the upper secondary level. An important fundamental issue is the energy concept “ground state and electronic excited state” as starting point for all photochemical reactions.
+ 2. An educational video about the photochemical isomerization of azobenzene was made to allow an indirect experimental access for E/Z isomerizations in school.
+ 3. Diazocine is a suitable substitution for azobenzene in school. Diazocine is not yet banned for school experiments. All experiments with azobenzene can also be realized with diazocine. In addition the isomers of diazocine show different colours, so a sheer phenomenological view with simple experiments is possible.
+ 4. The experimental kit “photo-switch” was developed to allow an experimental approach to photochemical E/Z isomerizations and to introduce diazocine as an innovative substance in school education.
+ 5. A designed and programmed flash animation about E/Z isomerizations represents an important media to support this topic for teaching. It allows a dynamic view of the processes on particle level. Learners can explore the animation alone or in small groups and the set-up of this media allows a diverse usage.
+
+ As a service for teachers all developed materials (video, flash-animation, experimental set “photo-switch”), that have already been tested in school with a positive feedback, are available online for free. By that and by presenting this topic in publications and on conferences the dissemination of E/Z isomerizations as a school relevant issue is promoted.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170119-121912-2</identifier>
+                    <identifier type="sys">HT019230287</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6541</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6541">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2016/kraemer/dc1634.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6541"
+            DMDID="DMD_wuppertal_elpub_6541">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6541"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

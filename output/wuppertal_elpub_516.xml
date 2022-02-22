@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_516">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>An ab initio Study of Electronic States and Transitions of Tellurium Monohalides</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Rai, Vidisha</displayForm>
+                        <namePart type="family">Rai</namePart>
+                        <namePart type="given">Vidisha</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003-02-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Ab initio multireference configuration interaction calculations including spin-orbit coupling are carried out for the first time for valence electronic states of the TeX (X = F, Cl, Br, I) radicals. The calculated spectroscopic constants are in good agreement with experimental data in the rare cases when the latter are available. It is shown that the X²Π(σ²Π⁴Π*3) ground state bonding becomes consistently weaker down the TeX group (calc. Dₑ = 25480cm-1 for TeF, 12100rcm-1 for TeI) due to the more covalent character of bonding in the heavier radicals. The first excited state, A⁴σ⁻(Π* → σ*), is calculated to be bound in all systems. It is split into Ω 1/2 and 3/2 components, with regular ordering in the Franck-Condon region, opposite to that of the ground X²Π state. At larger internuclear distances, the A₁ ⁴σ⁻1/2 state undergoes an avoided crossing with X₂²Π1/2, which causes a shoulder in the X₂ potential curve and also leads to a crossing between the A₁ and A₂ potential curves and large distinctions in their vibrational frequencies. The Π* → σ* B²σ⁻, C²Δ, and 1²σ⁺ states are calculated to lie next in energy. They are all bound in the lightest of the TeX radicals, TeF, but successively lose their bonding character down the group. In contrast to oxygen monohalides, the 2²Π(σ²Π³Π*4) state has a repulsive potential curve. The A1,2⁴σ⁻1/2,3/2 and B²σ⁻1/2 states of TeX (X = Cl, Br, I) still await their experimental observation. 
+
+For all the monohalides of tellurium, the X₁ - X₂ fine structure transition is quite weak. The radiative lifetimes for transitions from the various excited states to the X1,2 states have been calculated in all cases. Most of them are found to be quite weak. The strongest transition in TeF is B²σ⁻ → X₁ ²Π3/2 with a lifetime of 9.5 μs. The calculations indicate that the C1,2 - X1,2 are only slightly weaker than the B - X1,2 transitions and should be spectroscopically observable. The parallel transitions among the low-energy states are found to be quite weak. The radiative lifetimes for transitions from the various excited states to the X1,2 states in TeCl have been calculated and it is observed that as opposed to TeF the parallel transitions are comparatively more dominant than the perpendicular ones in TeCl. The strongest transition is A₂⁴σ⁻3/2 → X₁²Π3/2 with a lifetime of 29.4 μs. The B → X1,2 transitions behave different from that in TeF due to the fact that in TeF the SO mixing of these two states occurs much closer to the dissociation limit. Hence it does not influence the transitions so much as in TeCl where this mixing starts closer to the equilibrium distance of the B state. The radiative lifetimes calculated for TeBr are comparatively longer than in TeF and again the dominance of parallel transitions over the perpendicular is obvious. The strongest transition here is the A₂⁴σ⁻3/2 → X₁²Π3/2, as in TeCl, with a lifetime of 17.3μs. Of the allowed transitions, namely B²σ⁻,C²Δ → X²Π, at the Λ-S level, only the B → X1,2 lead to discrete spectra. For TeI the A₁ - X₂ and A₂ - X₁ parallel transitions are of comparable strength as in TeCl and TeBr with radiative lifetimes of 302μs and 25.6μs, respectively. Since other states in TeI do not possess potential well deep enough to support any vibrational states, other transitions possible for the lighter monohalides should not be observed in this case.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20030065</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_516</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_516">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-611/d090209.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_516"
+            DMDID="DMD_wuppertal_elpub_516">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_516"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

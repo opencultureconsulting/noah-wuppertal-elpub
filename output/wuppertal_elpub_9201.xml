@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9201">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Measurement of the inclusive and fiducial tt̄ production cross-sections in the lepton+jets channel in pp collisions at √s = 8 TeV with the ATLAS detector</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bannoura, Arwa</displayForm>
+                        <namePart type="family">Bannoura</namePart>
+                        <namePart type="given">Arwa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-03-25</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This dissertation presents a measurement of the inclusive and fiducial top-pair production cross-sections in the lepton+jets channel using 20.2 fb-1 of data collected in pp collisions at a centre-of-mass energy of 8 TeV in 2012 with the ATLAS experiment at the LHC. 
+The most important background, the W+jets process, is modelled using Z+jets events in a data-driven approach, thus reducing modelling uncertainties significantly. The selected events are separated into three disjoint regions with different numbers of b-tagged jets and different jet multiplicities. An artificial neural network is trained to improve the separation between the signal and the main background. The neural network output distribution is used as the discriminant in two signal regions while the mass of the hadronically decaying top-quark is used in the third one. This configuration improves the sensitivity to systematic uncertainties affecting the measurement. In particular, systematic uncertainties due to the modelling of the jet energy scale and b-tagging efficiency are constrained and thus the impact on the cross section measurement is reduced. A simultaneous binned maximum-likelihood fit is performed in the three signal regions to determine the cross-section. 
+The inclusive cross-section is measured with a precision of 5.7%, which is the most precise measurement in the lepton+jets channel by the ATLAS collaboration. This result is in good agreement with the theoretical prediction and with other measurements performed with the ATLAS and CMS experiments. The cross-section measurement is also performed in a fiducial volume close to the selected dataset with a precision of 4.5%.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20190325-131323-9</identifier>
+                    <identifier type="sys">HT020028332</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9201</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9201">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2019/bannoura/dc1902.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9201"
+            DMDID="DMD_wuppertal_elpub_9201">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9201"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

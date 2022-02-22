@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3929">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Visualisierung des Systemzustandes und Situationserfassung in großräumigen elektrischen Übertragungsnetzen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schneiders, Christoph</displayForm>
+                        <namePart type="family">Schneiders</namePart>
+                        <namePart type="given">Christoph</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In den letzten Jahren hat sich die Komplexität der Systemführung von großräumigen elektrischen Übertragungsnetzen aufgrund mehrerer paralleler Entwicklungen stark erhöht. Die zentralen Herausforderungen stellen die Integration der erneuerbaren Energien - insbesondere Wind und Photovoltaik - sowie der Handel großer Energiemengen dar. Es kommt immer häufiger zu wechselnden sowie unbekannten Netzsituationen mit grenzwertig hohen Belastungen des Übertragungsnetzes. 
+Von den Schaltingenieuren der Netzleitstelle müssen bei der Überwachung und Identifikation des globalen Systemzustandes wesentlich mehr Informationen berücksichtigt und bewertet werden. Daraus ergeben sich neue Anforderungen an die Visualisierung unter Berücksichtigung kognitiver Aspekte. Es stellt sich die Frage, wie die steigende Komplexität aufbereitet und die Situationserfassung in der Systemführung durch eine geeignete Visualisierung unterstützt werden kann. 
+Daher wird in dieser Arbeit die Situationserfassung in großräumigen elektrischen Übertragungsnetzen analysiert und eine Visualisierung des globalen Systemzustandes entwickelt. Um erste Erfahrungen im Betrieb in die Arbeit einfließen lassen zu können, sind neue Visualisierungsentwürfe ins zentrale Leitsystem eines deutschen Übertragungsnetzbetreibers mit weiteren nationalen und internationalen Aufgaben für das deutsche und europäische Übertragungsnetz implementiert worden. 
+Zur Vermeidung einer Datenüberflutung wird das Visualisierungskonzept auf Basis einer hierarchischen Informationsdarbietung aufgegriffen. Die höchste Ebene - die Visualisierung des globalen Systemzustandes - stellt den Fokus der Entwicklungen dar. Dem Schaltingenieur wird über ein Kreisdiagramm angezeigt, ob sich das Gesamtsystem im gewünschten Zustand befindet und falls nicht, präsentieren die einzelnen Kreissegmente den Grad der Abweichung der jeweiligen Systemzustandsinformation. Die Darstellung erfolgt so, dass der Systemzustand im Echtzeitbetrieb intuitiv nach geringer Betrachtungszeit gedeutet werden kann. Dabei liegt die Hauptaufgabe der Systemzustandsanzeige darin, die Aufmerksamkeit des Schaltingenieurs im Falle einer Abweichung zu erzielen und somit die Situationserfassung zu unterstützen. 
+Die gewonnenen Erkenntnisse im Rahmen der Untersuchungen der Gebrauchstauglichkeit in der Netzleitstelle zeigen, dass die angebotene Visualisierung den Schalt¬ingenieuren erlaubt, den globalen Systemzustand auf einen Blick zu erkennen. Zusätzlich fördern die angebotenen Darstellungen der mittleren Visualisierungs¬ebene die Situationserfassung durch die Unterstützung der visuellen Wahrnehmung, wie zum Beispiel der Mustererkennung. Durch die parallele Anzeige der Systemzustandsanzeige für die verschiedenen Aufgabenbereiche in der Systemführung wird eine gemeinsame, aufgabenübergreifende und geteilte Situationserfassung aller Schaltingenieure der verschiedenen Arbeitsplätze in der Netzleitstelle gefördert.</abstract>
+                    <abstract type="content" lang="eng">During the past couple of years, the complexity of transmission system operation has increased significantly. The substantial growth of volatile wind and photovoltaic (PV) energy sources and large-scale energy trades across wide-areas lead to frequently changing load flow situations. As a consequence of these huge load flows, the power system is operated ever closer to its security limits. 
+One major task of the control centres’ operators is to identify the overall operation state of the power system. This serves as basis for their decision making. The operator in the control room has to observe wider, external areas – with less operational experiences compared to the own grid – to fully evaluate system security. Along with the development of information technology and functionality of SCADA systems, the amount of on- and off-line data the operators have to observe has increased significantly. The increasing complexity in the power system control centre poses new demands on the visualization concept according to cognitive principles. Therefore this work describes an approach, how the increasing complexity can be prepared to assist the operator in the control centre. 
+The focus of this work is to develop a visualization of the global system state and to analyse and enhance situation awareness in wide area electrical power systems. In addition first versions of this new man-machine-interface (MMI) are implemented in the SCADA system of the German TSO with further tasks for the European Interconnected System. Thereby the study also enables usability engineering of variant new visualizations in the control centre. 
+The visualization concept is based on a hierarchical aggregation of the information to be displayed. It will be shown that the proposed solution allows the operator to observe the overall system state at a glance and enables intuitive situation awareness by improving visual perception like pattern recognition. The problem solving of system operators is supported by an easy identification of causal relationships of system state variables deviations. This is achieved by presenting the relevant direct (i.e. result of (N-1)-analysis) and indirect (i.e. wind energy forecast and production data) system information in parallel. 
+Furthermore the paper presents a simplified representation of the wide area electricity grid in the SCADA system, taking into account physical aspects (i.e. topology of the grid, generation pattern, etc.). Using the possibility of showing in parallel different influencing factors on the load flow situation (i.e. amount and location of wind and PV energy production, conventional generation pattern, commercial energy exchange, etc.), this form of presentation supports wide area situation awareness and aids faster and more reliable decision making.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20140513-130022-0</identifier>
+                    <identifier type="sys">HT018271079</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3929</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3929">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2014/schneiders/de1401.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3929"
+            DMDID="DMD_wuppertal_elpub_3929">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3929"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

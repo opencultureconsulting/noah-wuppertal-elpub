@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_723">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entwicklung analytischer Methoden zur Objektivierung sensorischer Qualitätskontrollen von Haselnusskernen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sies, Anke</displayForm>
+                        <namePart type="family">Sies</namePart>
+                        <namePart type="given">Anke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004-08-10</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">An analytical method was developed for the rapid determination of sensory quality deviations of hazelnuts. The method is based on the investigation of aroma spectra via direct thermal desorption of lipids and on the identification of relevant components using a time of flight mass spectrometer after chromatographic separation (DTD/Fast-GC/TOF-MS). 
+The sample preparation is quite simple and the application as fast-GC shortens the analysis time substantially. Small deviations in the sensory impression correlated with measurable changes in the aroma profile obtained by the developed method. A classification and consequently an evaluation of the quality of the nuts was achieved using different models of statistical evaluation and discriminant analysis. 
+The compounds used as markers for quality deviations of hazelnuts in the DTD/Fast-GC/TOF-MS analysis were identified by applying aroma extract dilution analysis (AEDA) and olfactory investigations of thermal desorbed oils from hazelnuts (TCT-HRGC-O). We identified homologous aldehydes from hexanal to undecanal as well as 2,4-(E,E)-nonadienal and 2,4-(E,E)-decadienal as autoxidation products of lipids and original constituents like the monoterpenes α- and β-pinene, camphene and Δ-3-caren. 
+To clarify the cause of peroxidative deterioration of hazelnuts, hydroperoxy fatty acids as precursors of aroma compounds from peroxidation products were investigated using HPLC and MEKC. It was shown that the peroxidative damage of hazelnuts was mostly caused by lipoxygenase activity.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20040370</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_723</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_723">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-819/dc0407.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_723"
+            DMDID="DMD_wuppertal_elpub_723">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_723"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

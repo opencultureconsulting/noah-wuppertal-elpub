@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_11080">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Analog Hadronic Calorimeter for a Future Linear Collider</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Elkhalii, Amine</displayForm>
+                        <namePart type="family">Elkhalii</namePart>
+                        <namePart type="given">Amine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Zeitnitz, Christian</displayForm>
+                        <namePart type="family">Zeitnitz</namePart>
+                        <namePart type="given">Christian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-11-05</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The work of this thesis is a part of the CALICE collaboration project, which develops calorimeters for a future e+e- linear collider. These calorimeters have a high granularity to allow Particle Flow Analysis and achieve a jet energy resolution of 3-4 %. One of these concepts is the Analog Hadronic Calorimeter (AHCAL) based on 3x3x0.3 cm3 scintillator tiles with individual Silicon Photo-multiplier (SiPM) readout. A former physics prototype of the AHCAL has proven the performance and suitability of such a concept. A second generation technological prototype of 39 layers with a 1.7 cm steel absorber has been constructed and commissioned by several institutes. A massive amount of components has been tested before the assembly, including the SPIROC ASIC developed by Omega. This chip provides the readout for 36 SiPMs, including individual bias voltages, self-triggering, timing measurements, and 12-bit signal resolution, while maintaining a low power consumption of 25 μW per channel. A test stand has been designed and developed for testing the SPIROC2E, and around 625 working chips are assembled successfully to AHCAL Front-end Electronics. The test beam of the prototype has been performed during two periods in May and June 2018 in H2 beamline at the CERN SPS. Around 8 to 10 x 107 events from muon, electron, and pion have been collected with different energy ranges. After a successful detector calibration, the electromagnetic response of the AHCAL is studied with electrons and a good electromagnetic energy resolution of (22.6 %)/(√E) ⊕ 1% is achieved.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20201103-123225-7</identifier>
+                    <identifier type="doi">10.25926/2jx6-f298</identifier>
+                    <identifier type="sys">HT020658778</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_11080</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_11080">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2020/elkhalii/dc2014.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_11080"
+            DMDID="DMD_wuppertal_elpub_11080">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_11080"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

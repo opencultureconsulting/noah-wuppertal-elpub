@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_860">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>On deformations of the direct sum of a regular and another indecomposable module over a tame quiver algebra</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wolters, Isabel</displayForm>
+                        <namePart type="family">Wolters</namePart>
+                        <namePart type="given">Isabel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-02-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In the situation of finite dimensional modules over tame quiver algebras the degeneration-order coincides with the hom-order and with the ext-order. Therefore, up to common direct summands, any minimal degeneration N of a module M is induced by a short exact sequence with middleterm M and indecomposable ends U and V that add up to N. We study these &quot;building blocs&quot; of degenerations and in particular the codimensions for the case, where V is regular. We show by theoretical means that the classification of all the &quot;building blocs&quot; is a finite problem without affecting the codimension or the type of singularity. With the help of a computer we have analyzed completely this case: The codimensions are bounded by 2, so that the minimal singularities are known by G. Zwara &quot;Codimensions two singularities for representation of extended dynkin quivers&quot;.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20090102</identifier>
+                    <identifier type="sys">HT015853765</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_860</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_860">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2008/wolters/dc0827.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_860"
+            DMDID="DMD_wuppertal_elpub_860">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_860"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

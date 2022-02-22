@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3573">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Chlorine Activation and Heterogeneous Chemistry in the Polar Stratosphere: Model Simulations, In-Situ- and Satellite Observations</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wegner, Tobias</displayForm>
+                        <namePart type="family">Wegner</namePart>
+                        <namePart type="given">Tobias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Diese Arbeit befasst sich mit heterogenen Reaktionen, welche zur Aktivierung von Chlor in der polaren Stratosphäre führen. Hierzu werden Atmosphärenmodelle, In-situ- und Satellitendaten betrachtet. Parametrisierungen für diese Reaktionen werden mit In-situ Messungen validiert. Die Messungen wurden unter atmosphärischen Bedienungen durchgeführt, bei denen entweder die Verfügbarkeit von einem Reaktionspartner oder die Temperatur das Ausmaß der beobachteten Chloraktivierung kontrollierte. Des Weiteren wird die Darstellung von PSCs mit dem gekoppelten Klimamodell SD-WACCM und Satellitenbeobachtungen untersucht. Die beste Darstellung von PSC Prozessen in SD-WACCM wird erreicht, wenn die Menge an HNO3 welche feste PSCs formen kann limitiert wird. Obwohl SD-WACCM PSCs und heterogene Reaktionen korrekt wiedergibt, ist die Entwicklung von Gasphasen HCl, einem Indikator für Chloraktivierung, im Modell wesentlich langsamer als in den Beobachtungen. Bewährte und neue Prozessen, welche HCl aus der Gasphase entfernen können, werden untersucht. Der einzige Prozess, welcher die Entfernung von HCl aus der Gasphase erklären kann, ist die Aufnahme von HCl in flüssige PSC Teilchen. Die Parametrisierung der Löslichkeit von HCl in PSC Teilchen zeigt sehr gute Übereinstimmung mit der beobachteten Temperaturabhängigkeit. Allerdings ist dieser Prozess äußerst sensitiv auf Wasserdampf und Temperatur.</abstract>
+                    <abstract type="content" lang="eng">This work examines heterogeneous processes in climate models, in-situ- and satellite observations, with focus on chemical reactions that lead to activation of chlorine in the polar stratosphere. Parameterizations for these heterogeneous reactions are validated against in-situ measurements for atmospheric conditions where either the availability of a reaction partner or the prevailing temperature controls the extent of observed levels of active chlorine. The representation of PSCs is further investigated with the coupled-climate model SD-WACCM and satellite observations. Best representation of PSC processes in SD-WACCM is achieved when the amount of gas-phase HNO3 allowed to form solid PSC particles is limited. Although PSCs and heterogeneous reactions are accurately represented in SD-WACCM, the development of gas-phase HCl, a proxy for chlorine activation, is substantially slower in the model than observations suggest. Established and novel processes that lead to removal of gas-phase HCl are examined, and the only process capable of reproducing the observations is the uptake of HCl into liquid PSC particles. A parameterization for the solubility of HCl in liquid PSC particles gives a very good representation of the temperature-dependence of removal of gas-phase HCl. Since the removal of HCl from the gas-phase by PSC particles presents a major, although temporary sink during the polar night, removal of gas-phase HCl cannot serve as an indicator for chlorine activation.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20130607-103013-5</identifier>
+                    <identifier type="sys">HT017683891</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3573</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3573">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2013/wegner/dc1306.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3573"
+            DMDID="DMD_wuppertal_elpub_3573">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3573"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

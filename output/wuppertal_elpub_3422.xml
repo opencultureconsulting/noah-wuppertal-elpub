@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3422">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entwicklung und Anwendung von Analysemethoden und Auswertealgorithmen zur Untersuchung von Verhältnissen stabiler Kohlenstoffisotope in atmosphärischen leichtflüchtigen organischen Verbindungen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Linke, Christian</displayForm>
+                        <namePart type="family">Linke</namePart>
+                        <namePart type="given">Christian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die vorliegende Arbeit befasst sich mit der analytischen Untersuchung von leichtflüchtigen organischen Verbindungen (VOCs) mittels gekoppelter Gaschromatographie–Isotopenverhältnismassenspektrometrie (GC–C–IRMS) und der numerischen Auswertung der gemessenen Chromatogramme. Besonderes Augenmerk wird hierbei auf das Verhältnis der stabilen Kohlenstoffisotope 13C/12C (abgekürzt δ13C) gelegt. Der an einem Ort gemessene δ13C–Wert eines VOCs ermöglicht Rückschlüsse auf die Ausbreitung atmosphärischer Spurengase und liefert einen Einblick in atmosphärische Mischungsvorgänge und photochemische Abbaureaktionen. 
+ 
+ Für das GC–C–IRMS/MS Instrument wurde die Entwicklung einer Messmethode zur Analyse großvolumiger Luftproben mit VOC Mischungsverhältnissen im Bereich weniger pptV bis ppbV vorangetrieben. Erstmals wurden die Auswirkungen der verschiedenen Möglichkeiten der Probenübergabe vom thermischen Desorptionssystem auf das Kaltaufgabesystem untersucht. Weiterhin wird beschrieben, wie durch einen Umbau am thermischen Desorptionssystem der sich negativ auf die Chromatographie auswirkende Einfluss des in der Probe enthaltenden Wassers vermindert werden kann. Ein Verfahren für die Bestimmung der in der Probe enthaltenden VOC Volumenmischungsverhältnisse aus den Signalen des IRMS wurde unter Zuhilfenahme eines dynamischen Gasmischsystems umgesetzt. 
+ 
+ Die Entwicklung der arbeitsgruppeninternen Software Peaks hinsichtlich der automatisierten Analyse chromatographischer Daten wurde fortgeführt. Verbesserungen der bestehenden Algorithmen konnten in Bereichen der Datenglättung, Einzelpeakerkennung und Normpeakerzeugung mittels Hauptkomponentenanalyse erzielt werden. Neu implementiert wurde die Berechnung der δ13C Isotopenverhältnisse aus den Chromatogrammdaten heraus.
+ 
+ Die entwickelten und verbesserten Analysemethoden fanden bei der Auswertung von Luftproben der dt.–span. Flugzeugkampagne VERDRILLT (VERtical Distribution of Radicals In the Lower Layers of the Troposphere) Anwendung. Die zwischen dem 26.08. und 28.08.2010 in Spanien mit SilcoCan™ Behältern gewonnenen 28 Luftproben mit jeweils etwa 24 lₙ Probenvolumen wurden im Labor der Atmosphärenphysik in Wuppertal analysiert. Aus den identifizierten 36 VOC Komponenten stachen insbesondere sauerstoffhaltige Spezies der Aldehyde, Alkohole und Ketone hervor, von denen angenommen wird, sie haben ihren Ursprung in den Emissionen von Biokraftstoffen und deren Verbrennungsprodukten. Eine detaillierte Diskussion der δ13C Ergebnisse und, wenn verfügbar, der bestimmten Mischungsverhältnisse wird für Acetaldehyd (-44,5 ± 1,3) ‰, Methanol (-44,2 ± 3,0) ‰, Aceton (-29,2 ± 1,7) ‰, Kohlenstoffdisulfid mit Häufungspunkten bei (-33,3 ± 3,3) ‰ und (-11,3 ± 2,5) ‰, 2,3–Butandion (-27,5 ± 3,0) ‰, n–Butanal (-39,5 ± 3,2) ‰ und Toluol (-28,4 ± 4,5) ‰ vorgenommen. 
+ In dieser Arbeit werden zum ersten Mal atmosphärische δ13C Messwerte von n–Butanal, 2,3–Butandion, Isopropanol (-22,8 ± 3,8) ‰, Kohlenstoffdisulfid und Methylacetat (-32,2 ± 3,2) ‰ präsentiert. 
+ Für die Substanzen Fluortrichlormethan (-36,7 ± 4,2) ‰, n–Hexanal (-28,9 ± 4,8) ‰, Methylethylketon (36,9 ± 2,5) ‰, n–Pentanal (-31,3 ± 4,9) ‰ und β–Pinen (-29,3 ± 3,1) ‰ werden die zweiten verfügbaren δ13C Datensätze aufgeführt. 
+ Auffallend ist, dass die in dieser Arbeit vorgestellten δ13C–Isotopenverhältnisse für Acetaldehyd, Fluortrichlormethan, n–Pentan, Methylethylketon und β–Pinen kleiner sind als die bisher bekannten Daten. Die Daten für n–Butan (-36,8 ± 4,6) ‰ schließen eine Lücke in den bekannten Literaturwerten. Die hier gefundenen Ergebnisse für n–Hexanal und n–Pentanal tendieren im Vergleich zu den bereits bekannten Literaturdaten zu etwas höheren Werten.</abstract>
+                    <abstract type="content" lang="eng">The present work deals with the analytical study of volatile organic compounds (VOCs) by means of coupled gas chromatography isotope ratio mass spectrometry (GC–C–IRMS) and the numerical analysis of the measured chromatograms. Particular attention is given to the ratio of the stable carbon isotopes 13C/12C (δ13C abbreviated). The measured δ13C value of a VOC at a place allows conclusions about the spread of atmospheric trace gases and provides insight into atmospheric mixing processes and photochemical degradation. 
+ 
+ For the given GC–C–IRMS/MS instrument the development of a measuring method for the analysis of large volume air samples with VOC mixing ratios in the range of a few pptv to some ppbv was promoted. For the first time the impact of various options for sample transfer from the thermal desorption system on to the cold injection system were investigated. Furthermore a description is given of how to modificate the thermal desorption system to reduce the influence of water contained inside the sample to the chromatography. A method for determining VOC volume mixing ratios contained inside the sample out of the signals of the IRMS was implemented with the aid of a dynamic gas mixing system. 
+ 
+ The development of the working group&apos;s intern software Peaks in terms of automated software analysis of chromatographic data was continued. Improvements of existing algorithms were achieved in the areas of data smoothing, peak detection and single standard peak production using principal component analysis. Newly implemented was the calculation of δ13C isotope ratios out of the chromatogram data itself. 
+ 
+ The developed and improved methods of analysis were used in the evaluation of air samples taken from the german–spanish airborne campaign VERDRILLT (VERtical Distribution of Radicals In the Lower Layers of the Troposphere). The 28 whole air samples gained between 08/26 and 08/28/2010 in Spain and stored inside SilcoCan™ canisters each filled with 24 lₙ sample volume where analysed in the laboratory of the atmospheric physics compartment in Wuppertal. From the identified 36 VOC components oxygen-containing species of aldehydes, alcohols, and ketones stood out in particular. It is assumed that they have their origins in the emissions of biofuels and succeeding combustion products. A more detailed discussion of the δ13C results and if obtainable of corresponding volume mixing ratios is given for acetaldehyde (-44,5 ± 1,3) ‰, methanol (-44,2 ± 3,0) ‰, acetone (-29,2 ± 1,7) ‰, carbon disulfide with two accumulation points (-33,3 ± 3,3) ‰ and (-11,3 ± 2,5) ‰, 2,3–butanedione (-27,5 ± 3,0) ‰, n–butanal (-39,5 ± 3,2) ‰ and toluene (-28,4 ± 4,5) ‰. 
+ In this work, for the first time atmospheric δ13C values of n–butanal, 2,3–butanedione, isopropanol (-22.8 ± 3.8) ‰, carbon disulfide and methyl acetate (-32.2 ± 3.2) ‰ are presented. 
+ The second known data sets of δ13C were given for fluorotrichloromethane (-36,7 ± 4,2) ‰, n–hexanal (-28,9 ± 4,8) ‰, methyl ethyl ketone (36,9 ± 2,5) ‰, n–pentanal (-31,3 ± 4,9) ‰ and β–pinene (-29,3 ± 3,1) ‰. 
+ It is notable that the δ13C isotope ratios of acetaldehyde, fluorotrichloromethane, n-pentane, methyl ethyl ketone and β–pinene presented in this work are smaller than previously obtained data. The values for n–butane (-36,8 ± 4,6) ‰ close a gap in data known from literature. The results obtained here for n-hexanal and n-pentanal tend to slightly higher values compared to the already known literature data.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20130408-104054-4</identifier>
+                    <identifier type="sys">HT017609399</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3422</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3422">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2013/linke/dc1304.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3422"
+            DMDID="DMD_wuppertal_elpub_3422">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3422"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

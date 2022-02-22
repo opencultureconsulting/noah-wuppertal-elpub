@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_4330">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Chirale Co-Kristallisation und Kristallstrukturen von Prolin-Enaminen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bock, Dominique Anna</displayForm>
+                        <namePart type="family">Bock</namePart>
+                        <namePart type="given">Dominique Anna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Im Rahmen der vorliegenden Arbeit wurden, ausgehend von enantiomerenreinen Substanzen mit bekannter absoluter Konfiguration, Solvent-Drop-Vermahlungen durchgeführt, um zu prüfen, ob durch die Wahl von chiralen Additiven mit bekannter absoluter Konfiguration stereochemische Informationen in molekularen Komplexen verankern werden können. Die resultierenden diastereomeren Co-Kristalle weisen dabei unterschiedliche Reflexmuster auf. In 13 Fällen konnten die Kristallstrukturen aus Pulverdaten bestimmt werden. Dabei handelt es sich bei neun Strukturen um die Bestimmung eines der beiden Diastereomere und in zwei Fällen um beide Diastereomere eines Co-Kristallpaares. Auf Basis der Resultate kann die Grundidee zur Verankerung stereochemischer Informationen in molekularen Komplexen durch chirale Additive mit bekannter absoluter Konfiguration bestätigt werden. 
+Im zweiten Teil dieser Arbeit wurde auf Basis von Modellstrukturen, vinyloge Amide (Enaminone) hergestellt. Diese weisen eine Analogie zum postulierten Übergangszustand in der Prolin-Enamin-Katalyse auf. Die mit Hilfe der Röntgen-strukturanalyse untersuchten Enamine weisen in der festen Form eine (E)-Geometrie auf und kristallisieren mit Ausnahme einer Enaminstruktur in der anti-Konformation. Alle Enaminstrukturen zeigen intermolekulare Wasserstoffbrücken zwischen der Carbonsäure und der Ketoncarbonylgruppe. Die erlangten Erkenntnisse stehen im Einklang mit den bisher vorgeschlagenen Übergangszu-ständen von Prolin-katalysierten Aldol-, Mannich-, α-Aminierung- und Amin-oxylierung-Reaktionen. Das gewählte Modell weist schlussfolgernd eine Enaminon / Houk-List-Übergangszustand Analogie auf und kann als gutes Übergangs-zustandmodell angesehen werden.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20141110-123421-9</identifier>
+                    <identifier type="sys">HT018522623</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_4330</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_4330">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2014/bock/dc1423.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_4330"
+            DMDID="DMD_wuppertal_elpub_4330">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_4330"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_15591">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>More Efficient Techniques for Adaptively-Secure Cryptography</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Niehues, David</displayForm>
+                        <namePart type="family">Niehues</namePart>
+                        <namePart type="given">David</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>java.lang.ArrayIndexOutOfBoundsException
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-11</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Modern-day communication has become more and more digital. While this comes with many advantages such as a more efficient economy, it has also created more and more opportunities for various adversaries to manipulate communication or eavesdrop on it. The Snowden revelations in 2013 further highlighted the seriousness of these threats. To protect the communication of people, companies, and states from such threats, we require cryptography with strong security guarantees.
+ Different applications may require different security properties from cryptographic schemes. For most applications, however, so-called adaptive security is considered a reasonable minimal requirement of security. Cryptographic schemes with adaptive security remain secure in the presence of an adversary that can corrupt communication partners to respond to messages of the adversaries choice, while the adversary may choose the messages based on previously observed interactions.
+ While cryptography is associated the most with encryption, this is only one of many primitives that are essential for the security of digital interactions. This thesis presents novel identity-based encryption (IBE) schemes and verifiable random functions (VRFs) that achieve adaptive security as outlined above. Moreover, the cryptographic schemes presented in this thesis are proven secure in the standard model. That is without making use of idealized models like the random oracle model.</abstract>
+                    <classification authority="ddc">000</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20220111-120242-4</identifier>
+                    <identifier type="doi">10.25926/rdtq-jw45</identifier>
+                    <accessCondition type="use and reproduction">CC BY-ND 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_15591</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_15591">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/informatik/diss2021/niehues/de2107.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_15591"
+            DMDID="DMD_wuppertal_elpub_15591">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_15591"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

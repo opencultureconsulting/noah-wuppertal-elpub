@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_580">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Energetische Verwertung von Sekundärbrennstoffen in industriellen Anlagen - Ableitung von Maßnahmen zur umweltverträglichen Verwertung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Flamme, Sabine</displayForm>
+                        <namePart type="family">Flamme</namePart>
+                        <namePart type="given">Sabine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002-10-09</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Im Rahmen der vorliegenden Arbeit wurde die Umweltverträglichkeit der energetischen Verwertung von Sekundärbrennstoffen aus nicht überwachungsbedürftigen Abfällen in industriellen Feuerungsanlagen bewertet. Die Betrachtung erfolgte auf der Grundlage des derzeitigen Kenntnisstandes unter folgenden Gesichtspunkten: 
+- rechtliche Rahmenbedingungen 
+- Einsatzbereiche für Sekundärbrennstoffe 
+- abfallwirtschaftliche Bedeutung der energetischen Verwertung 
+- Bestimmung, Auswertung und Bewertung von Schwermetallen in Abfällen 
+- Einfluss der Aufbereitung von Sekundärbrennstoffen 
+- Erweiterung des Stoffflussanalysemodells um das Modul der Aufbereitung 
+- Betrachtung der weiteren Bewertungsinstrumente zur Umweltverträglichkeit 
+- Bewertung der Instrumente 
+- Gesamteinordnung der energetischen Verwertung von Sekundärbrennstoffen und Maßnahmen zur Qualitätssicherung. 
+Zur Gesamteinordnung der energetischen Verwertung im Rahmen der zukünftigen Abfallentsorgung kann festgestellt werden, dass sie ein unverzichtbares Teilelement darstellt. Sie wird ökologisch überwiegend positiv bewertet und kann je nach örtlichen Randbedingungen auch für Siedlungsabfälle in Verbindung mit mechanischen oder mechanisch-biologischen Aufbereitungsanlagen die wirtschaftlichste Entsorgungs-
+ option darstellen. 
+Da die Rauchgasreinigung industrieller Anlagen oft nicht auf hohe und stark schwankende Schadstoffbelastungen ausgelegt ist, sind Maßnahmen zur organisatorischen sowie technischen Sicherung der Sekundärbrennstoffqualität durch den Aufbereiter bzw. für den Einsatz von Sekundärbrennstoffen beim Verwerter zu treffen. Für die Qualitätssicherung in Aufbereitungsanlagen wurde ein detailliertes Konzept vorgeschlagen, welches angepasst auch in Verwertungsanlagen umgesetzt werden sollte.</abstract>
+                    <abstract type="content" lang="eng">Within the scope of the present study, the environmental compatibility of the energy-oriented utilisation in industrial furnace systems of secondary fuels from refuse not subject to monitoring was evaluated. Considerations were based on the current state of the art, with the following aspects being taken into account: 
+- legal regulatory framework 
+- applications for secondary fuels 
+- significance of energy-oriented utilisation in terms of waste management 
+- determination, evaluation and utilisation of heavy metals in refuse 
+- impact of the treatment of secondary fuels 
+- expansion of the material flow analysis model by the treatment module 
+- consideration of further instruments designed to evaluate environmental compatibility 
+- evaluation of the instruments 
+- overall classification of energy-oriented utilisation of secondary fuels and quality assurance measures 
+With respect to the overall status of energy-oriented utilisation within the framework of waste management in the future, it can be claimed to represent an indispensable component. Its ecological rating is largely positive and, depending on local marginal conditions, it may offer the most economically efficient waste disposal option for municipal waste too in conjunction with mechanical or biomechanical treatment systems. 
+Since industrial plants have less extensive flue-gas cleaning facilities at their disposal than refuse incineration plants, measures for organisational and technical stabilisation of the quality of secondary fuel have to be taken at the treatment plant, and those relating to the deployment of secondary fuels at the utilising plant. A detailed concept has been proposed for quality assurance at treatment plants; this should also be applied in adapted form to industrial plants using secondary fuels.</abstract>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Architektur und Bauingenieurwesen » Bauingenieurwesen"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20020316</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_580</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_580">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-676/d110204.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_580"
+            DMDID="DMD_wuppertal_elpub_580">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_580"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

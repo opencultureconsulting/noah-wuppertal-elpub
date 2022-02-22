@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_7760">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Experimentelle und rechnerische Untersuchungen zur Kühlung dezentral belüfteter Gebäude mittels Nachtlüftung unter Berücksichtigung mikroklimatischer Einflüsse</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Voß, Tjado</displayForm>
+                        <namePart type="family">Voß</namePart>
+                        <namePart type="given">Tjado</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-03-05</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Auf Grund steigender Energiekosten sowie erhöhter öffentlich-rechtlicher und normativer Anforderungen an den Energiebedarf von Gebäuden gewinnen energieeffiziente passive Kühltechniken zunehmend an Bedeutung. Eine vergleichsweise einfache und nahezu überall mögliche Form passiver Kühlung ist die Nachtlüftung. Sie nutzt das Kühlpotential niedriger nächtlicher Umgebungstemperaturen, um die tagsüber erwärmten Gebäudestrukturen zu kühlen. Dieses Kühlkonzept bedingt eine raumweise Zuführung von Außenluft, zumeist durch fassadenintegrierte Lüftungsöffnungen. Mikroklimatische Einflüsse aus dem Gebäudeumfeld und aus der solaren Einstrahlung auf die Fassade können hier zu einer Erwärmung der Zuluft führen und sich somit in sommerlichen Witterungsphasen nachteilig auf das Raumklima bzw. den Kühlbedarf auswirken. Im Rahmen der vorliegenden Arbeit wird an Räumen mit außenwandintegrierten Zuluftöffnungen untersucht, in welchem Maß diese äußeren Einflüsse einen Anstieg der Ansaug- und somit der Raumtemperaturen hervorrufen, welche Auswirkungen die prognostizierte Klimaerwärmung hat und wie sich die Nachtlüftungseffektivität durch günstige Zu- und Abströmöffnungen optimieren lässt.
+ Bei Feldmessungen an acht Bürogebäuden werden verschiedene Fassaden- und Ansaugkonstruktionen hinsichtlich ihrer Wirkung auf die Ansaug- und Zulufttemperaturen verglichen und vorteilhafte Konstruktionen bzw. Konstruktionsmerkmale identifiziert. Mikroklimatische Einflüsse, z.B. aus umliegender Bebauung oder Topographie, werden durch die Gegenüberstellung lokal und meteorologisch gemessener Wetterdaten ermittelt.
+ Parallel zu den Feldmessungen werden kohärente Untersuchungen – frei von Nutzereinflüssen – an einem Messraum auf dem Campus der Universität Wuppertal durchgeführt. Eine in dem Zusammenhang getestete Zuluftkühlung mittels Latentwärmespeichern erwies sich als sehr effektiv.
+ Aus den Messdaten des Testraums werden ferner Formeln zur Berechnung von Ansaug- und Zulufttemperaturen unter Berücksichtigung von Solar- und Windeinflüssen abgeleitet. Die zu Grunde liegenden Verfahren sind dokumentiert und können zur Herleitung vergleichbarer Formeln für andere bauliche Situationen verwendet werden.
+ Mit den so gewonnenen Formeln werden anschließend in dynamischen Gebäudesimulationen die Auswirkungen verschiedener Ansaug-Konfigurationen und Wetterdaten auf das Raumklima und den Jahreskühlenergiebedarf verglichen. Die Berücksichtigung der Solareinflüsse an der Fassade führt dabei zu einem signifikant wärmeren Raumklima bzw. zu einem bis zu 80 % höheren Kühlenergiebedarf; der Heizenergiebedarf reduziert sich hingegen um bis zu 20 %. Außerdem zeigen die Simulationen, dass Wetterdaten von meteorologischen Mess-Stationen kaum geeignet sind, die Raumtemperaturen an eng bebauten städtischen Standorten realitätsnah abzubilden.
+ Für weitere Analysen werden daher auf die meteorologischen Daten des Testreferenzjahrs parameter-basiert Stadteffekte aufgeprägt. In verschiedener Ausprägung bilden diese in Kombination mit Datensätzen unterschiedlicher Temperaturcharakteristik die Basis für Sensitivitätsanalysen des Raumklimas und des Energiebedarfs. Mit den Daten zweier Klima-Prognosen wird ermittelt, dass bis zum Jahr 2050 eine passive Kühlung von Gebäuden nur noch mit großem technischen Aufwand bzw. einer Kombination verschiedener Systeme möglich ist. Auf Grund der potentiell langen Nutzungsdauer von Gebäuden sollte daher bereits heute bei der Planung neuer Gebäude bedacht werden, wie sich deren Kühlleistung später an die erhöhten Anforderungen anpassen lässt.
+ Die beim Kühlbetrieb während der Nachtlüftung auftretenden Wärmeaustauschprozesse werden detailliert mit transienten dreidimensionalen Strömungssimulationen untersucht. Dabei werden besonders effiziente Lüftungskonfigurationen identifiziert und Wärmeübergangskoeffizienten zur Nutzung in thermischen Gebäudesimulationen ermittelt und tabelliert.
+ Die Ergebnisse aller in dieser Arbeit durchgeführten Untersuchungen sind abschließend in leicht verständlichen Planungshinweisen und -empfehlungen zusammengefasst.</abstract>
+                    <abstract type="content" lang="eng">Because of rising energy costs and increased legal requirements concerning energy demand of buildings, techniques of passive cooling gain in importance. A simple and nearly anywhere available means of passive cooling is night ventilation. Thereby the cooling potential of low ambient temperatures is used to cool down rooms, which were warmed up during daytime. This method requires roomwise supply air inlets, mostly via facade integrated notches.
+ In this thesis effects of solar radiation on air intake constructions and the formation of thermal boundary layers at the facade surface are analyzed concerning intake temperatures and supply air temperatures. Warmed up supply air rises room temperatures and thus negatively effects the indoor climate and cooling requirements. In measurements on eight office buildings and one measuring room various facing and intake structures are compared with regard to their impact on fresh and supply air temperatures. Advantageous structures and design features are identified.
+ The comparison of local and meteorological data indicates influences of surrounding building stock development and topography.
+ The before mentioned measuring room located at the Campus of the University of Wuppertal was used to compare thermal effects of different intake and facade constellations – independent from user influences. Thereby the cooling of supply air via PCM devices has proved very effective. Measured data from the testing room were further used to derive formulas for the calculation of intake and supply air temperatures in relation to influences of solar radiation and wind. The used methods are documented and can be used to find comparable solutions for different constructions.
+ In this thesis these formulas are applied in dynamic building simulations to determine the impact of different inlet configurations and different sets of meteorological data on indoor climate and the demand for cooling energy per year. The consideration of solar radiation on the facade results in a significantly warmed up indoor climate and an increased demand for cooling energy up to 80 %. Weather data sets from meteorological stations aren’t suitable to predict thermal loads at densely built areas.
+ With the use of a software provided by the German Weather Service parameter-based heat island effects were stamped on the meteorological data of test reference years. With these data sets sensitivity analysis of changed indoor climate and of energy demand are carried out.
+ Simulations based on different climate predictions indicate, that in 2050 passive cooling of buildings will be possible only by an immense technical effort respectively a combination of different systems. Because of long life cycles of buildings new buildings should be provided with options to enhance cooling capacities in the future. Heat transfer processes by night ventilation are analysed with computational fluid dynamics. Thereby heat transfer coefficients are determined for further use in thermal building simulations.
+ Findings on the above mentioned investigations are summed up in planning references and recommendations.</abstract>
+                    <classification authority="ddc">720</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Architektur und Bauingenieurwesen » Architektur"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20180228-110956-6</identifier>
+                    <identifier type="sys">HT019622298</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_7760</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_7760">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/architektur/diss2017/voss/dd1708.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_7760"
+            DMDID="DMD_wuppertal_elpub_7760">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_7760"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

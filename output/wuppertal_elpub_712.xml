@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_712">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Bindungsverhalten von Geruchstoffen an makromolekulare Lebensmittelinhaltstoffe</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Fritzler, Roberto</displayForm>
+                        <namePart type="family">Fritzler</namePart>
+                        <namePart type="given">Roberto</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004-06-07</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Aroma compounds can interact with food matrix components e.g. proteins. This can be related to a chemical reaction between aroma compounds and the macromolecule or with not covalent interaction between aroma compounds and proteins. The free binding energy of a macromolecule/odorant-complex is influenced by steric, entropic and thermodynamic contributions. The binding strength of a ligand-protein complex is characterized by the experimentally measurable association constant (KA) or by the dissociation constant (KD). 
+
+The aim of the present research work was the determination of the binding constants of selected flavour compounds (γ-and δ-Lactones and aliphatic esters) to important food proteins (β-lactoglobulin, BLG and bovine serum albumin, BSA). 
+In this work, ultracentrifugation and micro dialysis technique were used for the determination of the binding constants. A headspace method was developed for the measurement of partition coefficient of odorant/protein solutions. 
+
+Using dialysis technique, the highest association constant was found for γ-undecalacton (BSA: KA= 1.6 x 10⁴ M-1; BLG: KA= 5.9 x 10³ M-1). 
+In the series of γ- and δ-lactones, respectively, the association constants decreased with decreasing molecular weights of the lactones. The determination of the air/protein-solution partition coefficient of odorants revealed a reduction of odorant in the headspace in the presence of a protein (e.g. the δ-decalactone concentration in the headspace decreased by a factor of about two in the presence of BSA in comparison to the water solution without protein). 
+
+To determine the influence of the lipophilicity of odorants on the binding behaviour, the Log P values octanol/water and cyclohexan/water were examined. The highest LogPOct/H2O values were found for γ-undecalacton (LogPOct/H2O= 3.30) and δ-undecalacton (LogPOct/H2O= 2.93). These both odorants also showed the highest binding affinities to the proteins. 
+
+The application of molecular modelling (AUTODOCK, GRAMM) led to the identification of a specific &quot;lactone-binding position&quot; to BLG, not described up to now in the literature. These findings were supported by competitive binding experiments with ligands with known binding positions to BLG. The experimental results from binding energies were compared with the data calculated by molecular modelling (van der Waals and electrostatic interactions of the protein-ligand complexes; intramolecular energy, rotational degrees of freedom and Log POct/H2O values of the ligands). A statistical investigation of experimental and calculated bindings energies by means of Partial Least Square (PLS) analysis showed a correlation coefficient for the calibration of 0.992 and for the cross validation of 0.980. 
+The molecular modelling method developed in this work is a suitable procedure for the prediction of binding constants of unknown compounds to macromolecules.</abstract>
+                    <abstract type="content" lang="spa">Compuestos aromáticos pueden interactuar, con sustancias contenidas en los alimentos como por ejemplo las proteínas. Este hecho puede estar relacionado, con una reacción química entre el compuesto aromático y la macromolécula. Asi como con una reaccion no covalente entre ambos. La energía libre de enlace del complejo macromolécula-aromático, esta influida por efectos estéricos, entrópicos y termodinámicos. La fuerza de enlace entre el complejo ligando-proteína está caracterizada por medio de la constante de asociacion (KA) o por la constante de disociación (KD). 
+
+El objetivo del presente trabajo es desarrollar una investigación sistemática de las constantes de enlace de compuestos aromáticos seleccionados (γ- , δ-Lactonas y esteres alifáticos) con importantes proteínas alimenticias (β-lactoglobulina, BLG y albúmina bovina, AB). Aplicándose para tal fin técnicas de ultra-centrifugacion y micro diálisis. Por otro lado el desarrollo, y la aplicación de un método de headspace (espacio de cabeza) para la medición del coeficiente de particion aromático-proteina en solución. 
+
+Mediante la técnica de diálisis, fueron determinadas las constantes de asociación de enlace mas elevadas, para γ-undecalactona (AB: KA= 1.6 x 10⁴ M-1; BLG: KA= 5.9 x 10³ M-1). 
+En la serie de las γ- y δ-lactonas respectivamente, las constantes de asociación decrecían con la disminución del peso molecular de estas. 
+En la determinación del coeficiente de partición entre proteína-aromático-solución, y espacio de cabeza, se confirmó una reducción de la concentración del aromático en el espacio cabeza (Ej. para δ-decalactona la concentración disminuyó en un factor de dos, en presencia de AB en comparación con solución acuosa sin proteína) 
+
+Con el fin de determinar el efecto lipofílico del aromático sobre el comportamiento del enlace, fueron determinados los volares del LogP octanol/agua y ciclohexanol/agua. Los valores más elevados del LogPOct/H2O se encontraron para γ-undecalactona (LogPOct/H2O= 3.30) y δ-undecalactona (LogPOct/H2O= 2.93). 
+
+La aplicación de la &quot;molecular modelling&quot; (AUTODOCK, GRAMM) condujo a la identificación de una posición especifica de enlace de una lactona en la proteina BLG, no descrita hasta el momento en la literatura. El descubrimiento de esta posición de enlace fue confirmado mediante pruebas experimentales de enlace competitivo, con ligandos de posiciones de enlace conocidas en BLG. Los resultados experimentales de energia de enlaces fueron comparados con los obtenidos por modelación molecular (interacciones de van der Waals, o electrostáticas del complejo proteína-ligando; energía intramolecular, grados libres de rotación y valores LogPOct/H2O de los ligandos). 
+
+Un procedimiento estadístico del análisis Partial Least Square (PLS), indicó un buen coeficiente de correlación entre los resultados obtenidos experimentalmente, y aquellos obtenidos por molecular modelling.: calibración para el coeficiente de correlación de 0.992 y para la calibración cruzada de 0.980. 
+El método de &quot;molecular modelling&quot; desarrollado para este trabajo, demostró, ser una herramienta apropiada para la predicción de constantes de enlace, de compuestos desconocidos con macromoléculas.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20040275</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_712</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_712">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-808/dc0303.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_712"
+            DMDID="DMD_wuppertal_elpub_712">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_712"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_10890">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Aspects of quark mass dependence in lattice QCD</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Varnhorst, Lukas</displayForm>
+                        <namePart type="family">Varnhorst</namePart>
+                        <namePart type="given">Lukas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-09-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The goals of the thesis where to calculate the quark mass dependencies of several observables.
+ In a first part we determined the nucleon sigma terms and quark contents. We calculated the up, down, strange, and charm quark contents from first principles using lattice QCD. We used a perturbative heavy quark expansion to calculate the bottom and top quark contents. These expansion are expected to be valid for these two quark flavors. We checked their validity also in the case of the charm quark where the errors of the truncated perturbative expansion are expected to be larger then for the top and bottom quarks. We find that our lattice determination is in very good agreement with the perturbative calculation. A key part to our lattice calculation is that we employed several fermion actions in our analysis and leveraged the different advantages they offer for different parts of the calculation.
+ For the calculation of the sigma terms we employed the Feynman-Hellmann method. Our results are consistent with other lattice determinations. Despite this, we find that recent phenomenological calculation (s. [115]) based on pion-nucleon scattering predict a slightly larger light sigma terms then most lattice calculations, including our own ab-inito calculation. It would be interesting to study the source of this discrepancy.
+ Our results allow us to calculate the nucleon-Higgs coupling with an error of about 30 %. We believe that our results are of high relevance to direct dark matter detection experiments. It is remarkable that, in the Nf = 6 theory, a large fraction of the Higgs nucleon coupling originates from the heavy quark flavors; while they contribute only through quantum fluctuations that are suppressed by their mass, their Higgs coupling is also large, because they are heavy. Both effects almost cancel.
+ In a second part, we calculated the dependence of the kaon mass splitting on the light quark mass splitting and the electromagnetic charges of the light quarks. We where able to quantify the amount of violation of Dashen’s theorem. We used our result to infer the ratio of the light quark masses. The calculation was carried out in a partially quenched setup. While we estimated the error made by using this approximation, it would be interesting to carry out this calculation in a fully dynamic QED+QCD setting.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20200903-103412-9</identifier>
+                    <identifier type="doi">10.25926/vrwh-6t66</identifier>
+                    <identifier type="sys">HT020618532</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_10890</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_10890">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2020/varnhorst/dc2011.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_10890"
+            DMDID="DMD_wuppertal_elpub_10890">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_10890"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

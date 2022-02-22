@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9730">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Organic Sensitizers and Luminogens for Optoelectronic Devices</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bayseç, Şebnem</displayForm>
+                        <namePart type="family">Bayseç</namePart>
+                        <namePart type="given">Şebnem</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-09-10</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Among the world of materials, organic semiconductors have attracted great attention due to their low cost, easy fabrication, and tunable properties. The development of high-performance organic materials over the past years have led to increase of their investigation and usage in optoelectronic field rapidly. So far, increasing the device efficiencies have been the main issue. From the chemist’s point of view, tailoring the properties of materials by facile synthetic modifications to enhance the efficiency of the device and enlarging the application areas is a useful strategy.
+ In that respect, different synthetic strategies have been applied to reach the desired properties in this thesis. A variety of small molecules and polymers based on Borondipyrromethene (BODIPY) and Tetraphenylethylene (TPE) have been synthesized, characterized and properties of the materials with regard to their application in OFETs, fluorescent-based chemical sensors, and OLEDs have been demonstrated. In addition, this thesis provides an overview of recent developments in the field.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20190910-101746-5</identifier>
+                    <identifier type="doi">10.25926/3txq-wa08</identifier>
+                    <identifier type="sys">HT020212292</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9730</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9730">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2019/baysec/dc1920.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9730"
+            DMDID="DMD_wuppertal_elpub_9730">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9730"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

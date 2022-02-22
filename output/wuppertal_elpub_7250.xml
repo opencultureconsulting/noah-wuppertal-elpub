@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_7250">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Multivariate Methods for Life Safety Analysis in Case of Fire</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schröder, Benjamin</displayForm>
+                        <namePart type="family">Schröder</namePart>
+                        <namePart type="given">Benjamin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The assessment of life safety in case of a building fire is based on the comparison of the available safe egress time (ASET) and the required safe egress time (RSET). With regards to simulation experiments, this straightforward approach is accompanied by uncertainties including the underlying models, the specification of inputs, and the analysis of outputs. 
+Concerning the two latter aspects, this thesis introduces methodological extensions in order to conduct ASET-RSET analyses in a multivariate fashion. For the specification of inputs, the multitude of possible scenarios is represented with the help of systematic sampling techniques. Uncertainties in terms of analysis are tackled with multi-criterial maps rendering both ASET and RSET in spacious environments. The subtraction of both maps is used to determine a measure of consequences. 
+These methods are applied to a multi-level underground station which is investigated with numerical simulations based on the formation of two subsystems, namely Fire and Evacuation. The analysis incorporates an ensemble of 8,640 combined fire scenarios and evacuation scenarios. Throughout the entire design space, more than 95 % of the scenario combinations account for less than half of the maximal observed consequences. This analysis is refined by agglomerative clustering in order to group all observations hierarchically. It becomes evident that the lowest margins of consequences are represented by two clusters covering approximately 75 % of all observations. The investigation of the parametric relations of all clusters allows for the systematic identification of the determining characteristics of fire and evacuation scenarios. In addition to the consequence measure derived from ASET-RSET, fractional eective doses (FED) are calculated to supplement the analysis. Within the clusters, the number of occupants exceeding common FED thresholds applicable to incapacitation corresponds to the introduced ASET-RSET measure. However, throughout the entire design space, this correspondence is not clear and needs further investigation.</abstract>
+                    <abstract type="content" lang="ger">Die Bewertung der Personensicherheit bei Bränden in Gebäuden stützt sich auf den Vergleich der verfügbaren Räumungszeit (ASET) mit der erforderlichen Räumungszeit (RSET). Im Hinblick auf Simulationsexperimente ist dieser nachvollziehbare Ansatz mit Unsicherheiten behaftet. Diese beziehen sich unter anderem auf die verwendeten Modelle, die Festlegung von Eingaben, aber auch die Auswertung der Ausgaben. 
+Zur Berücksichtigung der beiden letztgenannten Aspekte führt die vorliegende Arbeit eine methodische Erweiterung des ASET-RSET Ansatzes ein, die sich an den Prinzipien der multivariaten Analyse orientiert. Zur Repräsentation der Vielzahl denkbarer Szenarien werden die Modelleingaben mit systematischen Stichprobenverfahren spezifiziert. Um Unsicherheiten bei der Auswertung in ausgedehnten Räumen zu begegnen, erfolgt die Darstellung von ASET und RSET auf multikriteriellen Karten. Die Differenzbildung beider Karten ermöglicht die Bestimmung eines Maßes für die Konsequenzen. 
+Die Methoden werden auf eine mehrgeschossige, unterirdische Personenverkehrsanlage angewandt. Hierzu werden zwei Subsysteme Brand und Räumung gebildet und mit numerischen Simulationen untersucht. Die Analyse basiert auf einem Ensemble mit 8 640 kombinierten Brand- und Räumungsszenarien. Ca. 95 % aller Szenarien führen zu Konsequenzen, die geringer als die Hälfte der maximal erwarteten Konsequenzen sind. Diese Auswertung wird durch eine Cluster-Analyse verfeinert, um alle Beobachtungen hierarchisch zu gruppieren. Es stellt sich heraus, dass die niedrigsten Konsequenzen durch zwei Cluster repräsentiert werden, die ca. 75 % aller Beobachtungen beinhalten. Die parametrischen Ursprünge der Cluster erlauben Rückschlüsse auf die bestimmenden Charakteristika der Brand- und Räumungsszenarien. Für die zusätzliche Beschreibung der Cluster wurde neben den mittels ASET-RSET ermittelten Konsequenzen das fractional effective dose (FED) Konzept angewandt. Innerhalb der Cluster ist ein Zusammenhang zwischen den Personenzahlen, die gängige FED Grenzwerte überschreiten und dem ASET-RSET Konsequenzmaß feststellbar. Mit Blick auf den gesamten Ergebnisraum ist jedoch kein eindeutiger Zusammenhang erkennbar, woraus sich weiterer Untersuchungsbedarf ergibt.</abstract>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Architektur und Bauingenieurwesen » Architektur"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170911-140837-8</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_7250</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_7250">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/bauingenieurwesen/diss2016/schroeder/dd1611.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_7250"
+            DMDID="DMD_wuppertal_elpub_7250">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_7250"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

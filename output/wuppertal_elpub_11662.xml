@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_11662">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Auswirkungen der Energiewende auf die Zuverlässigkeit von Nieder- und Mittelspannungsnetzen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Möhrke, Fabian</displayForm>
+                        <namePart type="family">Möhrke</namePart>
+                        <namePart type="given">Fabian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Zdrallek, Markus</displayForm>
+                        <namePart type="family">Zdrallek</namePart>
+                        <namePart type="given">Markus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-05-05</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In Deutschland verändert der umfassende Wandlungsprozess in der Energiewirtschaft („Energiewende“), der die Sektoren Strom, Wärme und Verkehr umfasst, die Anforderungen an die elektrischen Verteilungsnetze und deren Gestalt in allen Spannungsebenen in erheblichem Ausmaß. Für zukünftige Planungs- und Betriebsgrundsätze von Verteilungsnetzbetreibern ist es wesentlich, die Auswirkungen der Integration der Vielzahl von weiteren Netznutzern auf die Entwicklung der Zuverlässigkeit in elektrischen Verteilungsnetzen einschätzen zu können. Fokussiert wird die Analyse von Nieder- und Mittelspannungsnetzen, da diese Netzstrukturen im Hinblick auf die Nichtverfügbarkeit von Netznutzern wesentlich sind. Neue Modelle und Methoden zur Erweiterung der analytischen Zuverlässigkeitsberechnung werden entwickelt und vorgestellt. Zur Modellierung der Entwicklung der Zuverlässigkeit werden für zukünftige Versorgungsaufgaben von realen Nieder- und Mittelspannungsnetzen Zielnetzplanungen durchgeführt. Auf Basis von Zuverlässigkeitsberechnungen der heutigen und zukünftigen Netzstrukturen werden Grundsätze zu den Auswirkungen der Energiewende auf die Zuverlässigkeit von Nieder- und Mittelspannungsnetzen abgeleitet.</abstract>
+                    <abstract type="content" lang="eng">In Germany, the comprehensive transformation process in the energy industry (&quot;energy transition&quot;), which comprises the sectors electricity, heat and transport, is changing the requirements for electrical distribution grids and their shape at all voltage levels to a substantial extent. For future planning and operating principles of distribution grid operators, it is essential to be able to assess the effects of the integration of the large number of additional grid participants on the development of reliability in electrical distribution grids. The focus is on the analysis of low- and medium-voltage grids, as these grid structures are essential with regard to the unavailability of grid participants. New models and methods to extend the analytical reliability calculation are developed and presented. In order to model the development of reliability, target network planning variants are developed for future supply tasks of real low-and medium-voltage networks. Principles for the effects of the energy transition on the reliability of low- and medium-voltage grids are derived on the basis of reliability calculations of current and future grid structures.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20210505-104506-0</identifier>
+                    <identifier type="doi">10.25926/9aw8-fw22</identifier>
+                    <identifier type="sys">HT021115455</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_11662</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_11662">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2021/moehrke/de2101.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_11662"
+            DMDID="DMD_wuppertal_elpub_11662">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_11662"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

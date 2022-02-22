@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1002">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zur Konstruktion algorithmischer Entwurfsräume</title>
+                        <subTitle>Generative Methoden zur gestalterischen Interpretation von Freiformflächen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schein, Markus</displayForm>
+                        <namePart type="family">Schein</namePart>
+                        <namePart type="given">Markus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-06-04</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Geschichte der computerbasierten, generativen Designmethoden ist in etwa so alt, wie die der CAD-Systeme selbst. Während Letztere eine nicht mehr weg zu denkende Selbstverständlichkeit im Entwerfen sind, haben Erstere bis vor rund 10 Jahren kaum Spuren in der alltäglichen Entwurfspraxis hinterlassen. Dies stellt sich in letzter Zeit deutlich verändert dar, eingeleitet vor allem durch einige wenige Architekten, die sich konsequent dem generativen Entwerfen verschrieben haben und befördert durch die rasante Entwicklung und Verbreitung computergesteuerter Fertigungsverfahren. Obgleich immer noch in einer eher kleinen Nische beheimatet, hat sich die Frage nach dem Wert und der Relevanz generativer Entwurfsmethoden bereits positiv beantwortet. 
+Im Spannungsfeld aus etablierten Designansätzen und generativen Methoden eröffnen sich aktuell eine ganze Reihe weiterer Themen, von denen sich Folgende im theoretischen Teil dieser Arbeit wiederfinden: Als Ausgangspunkt wird betrachtet, welche Unterscheidungsmerkmale sich zwischen generativem Entwerfen und traditionell geprägtem Designverständnis finden lassen, wie sich Ersteres in Letzteres einfügen und es erweitern kann und welche methodischen Konsequenzen dies nach sich ziehen wird. Ein wesentlicher Stichpunkt hierzu ist die Unterscheidung zwischen algorithmischem und generativem Entwerfen, also der Entwicklung generischer Werkzeuge, die allgemeines Designwissen repräsentieren und der Anwendung und Erweiterung solchen Wissens im projektspezifischen Kontext. 
+Weiterhin wird untersucht, wo die Besonderheiten generativer Entwurfsstrategien zu verorten sind, wo ihr praktischer Nutzen liegt und warum sie überwiegend im Zusammenhang mit freien, naturhaft anmutenden Formen Verwendung finden. Es wird diskutiert, wie sich der Umgang mit dem Medium Computer wandeln sollte, damit mit Hilfe dieser neuen, noch ungewohnten Methoden auch neue Ergebnisse hervorgebracht werden können. Dies zieht die allgemeine Frage mit sich, wie sich Designdenken im Zusammenspiel mit generativen Entwurfsmethoden ändern könnte – und nicht zuletzt: Welche besonderen gestalterischen Qualitäten mit generativen Werkzeugen und Methoden zu erreichen sind und wie realistisch das häufig geäußerte Ziel ist, über sie neue Entwurfsphilosophien zu entwickeln, die über die Traditionen von euklidisch geprägter Formensprache, additiver Entwurfslogik und einer gedankliche Orientierung an diskreten Einheiten hinausführt. 
+Die Methodik der Arbeit läßt sich am Treffendsten als ein reflektiertes, ergebnisoffen angelegtes, entwerferisches Selbstexperiment beschreiben: Die im praktischen Teil der Arbeit gewonnen Erfahrungen dienten zur Entwicklung und Überprüfung der theoretischen Erkenntnisse – und umgekehrt. In den anwendungsbezogenen Entwurfsexperimenten wurden aus evolutionären Algorithmen, parametrischen Designansätzen, Methoden der Topologioptimierung sowie der strukturellen Analyse von Stabtragwerken verschiedene generative Entwurfsansätze entwickelt und an einigen Beispielen aus praxisnahen Entwurfskontexten erprobt. Spielwiese hierfür waren Freiformflächen und Structural Shapes, also Bauformen, bei der aus der geometrischen Logik von Flächen integrierte, physisch umsetzbare Tragstruktur abgeleitet werden.</abstract>
+                    <abstract type="content" lang="eng">The history of computer aided generative design methods is as far reaching as the history of computer aided drafting and design systems itself. Whereas the latter have gained a major importance in nearly every design process, the former have left only little traces in daily design practice for a considerable amount of time. This started to change about ten years ago when a few architects began to devote their work to generative design methods, accompanied by the rapid development and distribution of computer numeric controlled manufacturing processes. The question, whether generative design methods will play an important role in future design practice is not longer relevant. Nowadays the concern is more about understanding, what and how this role might be.Currently a couple of new questions are rising in the intermediary field of established design approaches and generative design methods. The following ones amongst them are examined in this thesis: First it tries to describe the relationship between traditional and generative views on design processes and gives some arguments about some of the potentially upcoming methodical consequences. A crucial point here is the distinction between algorithmic and generative design methods which is on one hand the development of generic tools, representing common design knowledge and on the other hand the application and transformation of this knowledge to and by a specific problem in hand. 
+Further on, it elaborates some of the typical properties of generative design methods, tries to give an idea of potential fields of application and of their practical relevance and explains, why so far the use of generative design methods is mostly related to free, nature like forms. Another issue is how the common habits of dealing with computers should change in favour to bring these new digital design methods to their full performance. This inhibits the question, how design should be thought in order to apply generative methods and vice versa, how the use of these methods influences design thinking. And last but not least, remains the attempt to give some answer to the question, about what kinds of new qualities might be reached throughout generative design practice – generative tools and methods as potential drivers for design philosophies which go beyond the tradition of formal expression based on euclidean geometry, a design logic based on addition of elements and mental models, which tend to understand design problems in terms of discrete elements.
+The method of this thesis is best described as a sort of reflected designerly experiment on oneself: The experiences and insights gained from the practical part of this work have served the purpose to develop and to evaluate the theoretical insights – and the other way round: Evolutionary algorithms, parametric design approaches and different structural analysis and optimization techniques have been combined and implemented into the development and programming of new generative design tools and methods. These generative design environments have been tested and evaluated in fields close to realistic design tasks. Free form surfaces and structural shapes have been chosen as playground for experimentation.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Design und Kunst » Industrial Design"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20080229</identifier>
+                    <identifier type="sys">HT015559641</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1002</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1002">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbf/industrialdesign/diss2007/schein/df0703.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1002"
+            DMDID="DMD_wuppertal_elpub_1002">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1002"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

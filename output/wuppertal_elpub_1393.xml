@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1393">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Planung, Durchführung und Evaluation eines Bewegungs-Coachings für übergewichtige Kinder</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Puhl, Sabine</displayForm>
+                        <namePart type="family">Puhl</namePart>
+                        <namePart type="given">Sabine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Hintergrund
+ Neben einer genetischen Disposition und einem niedrigen sozio-ökonomischen Status sind es Determinanten des Lebensstils, wie eine ungünstige Ernährung und Bewegungsmangel, die für die Entwicklung der kindlichen Adipositas verantwortlich sind. Das Bewegungsverhalten scheint eine zentrale Rolle zu spielen. 
+Intervention
+ In der prospektiven, qualitativen Interventionsstudie über 24 Monate wurde ein &quot;Bewegungs-Coaching&quot; zur nachhaltigen Modifikation des Bewegungsverhaltens adipöser Kinder durchgeführt. Die Kinder erhielten 15 Stunden &quot;Bewegungs-Coaching&quot; (1x 60min pro Woche), in denen festgelegte, vorwiegend aber interessenbasierte Inhalte, durchgeführt wurden. Untersucht wurden die Effekte auf das Bewegungsverhalten, die körperliche Fitness und die Selbstkonzepte. Zudem erhielten die Eltern 3 Stunden Sportberatung. 
+Ergebnisse 
+ An der Studie nahmen 6 adipöse, inaktive Kinder zwischen 4 und 11 Jahren (5 Mädchen, 1 Junge) teil. Positive Effekte zeigten sich hinsichtlich des Bewegungsverhaltens vor allem bei den sportlichen Aktivitäten. Bei der körperlichen Fitness verbesserten sich vor allem Schnellkraft und Kraftausdauer. Zudem scheint das Coaching sportnahe Bereiche der Selbstkonzepte positiv zu beeinflussen. 
+Schlussfolgerung
+ Das Bewegungs-Coaching kann als erfolgreiche Maßnahme zur Modifikation des Bewegungsverhaltens von adipösen Kindern betrachtet werden. Zur Etablierung der Methode bedarf es jedoch einer Überprüfung der Ergebnisse im Rahmen größerer Interventionsstudien.</abstract>
+                    <abstract type="content" lang="eng">Background
+ Genetic disposition, low socio-economic status and lifestyle determinants such as adverse eating patterns and a sedentary lifestyle are the main causes of childhood obesity. A low physical activity status is likely to be one of the central factors. 
+Intervention
+ The prospective, qualitative intervention study over 2 years included a physical activity coaching for obese children. Major goal was a sustainable modification of physical activity behaviour. Participants received 15 coaching lessons (1x 60min / week) with determined and interest-based contents. Investigation focussed on physical activity, physical fitness and self concepts. In addition, parents were given physical activity counselling (3 times). 
+Results
+ Participants: 6 obese and inactive children between 4 and 11 years (5 girls; 1 boy). Positive effects were shown with respect to physical activity (mainly sportive activities) as well as to physical fitness (mainly muscular strength and muscular endurance). In addition, it seems that the coaching leads to positive effects on body-related parts of the self-concepts. 
+Conclusion
+ A physical activity orientated coaching for obese children could be an effective way to change physical activity behaviour. To establish this method further research based on larger and broader interventions is needed.</abstract>
+                    <classification authority="ddc">370</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Human- und Sozialwissenschaften » Sportwissenschaft"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20100047</identifier>
+                    <identifier type="sys">HT016199925</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1393</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1393">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1490/dg0905.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1393"
+            DMDID="DMD_wuppertal_elpub_1393">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1393"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

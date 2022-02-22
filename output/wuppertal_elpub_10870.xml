@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_10870">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Measuring acoustic ice properties for the Enceladus Explorer</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hoffmann, Ruth</displayForm>
+                        <namePart type="family">Hoffmann</namePart>
+                        <namePart type="given">Ruth</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Helbing, Klaus</displayForm>
+                        <namePart type="family">Helbing</namePart>
+                        <namePart type="given">Klaus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-09-02</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The Enceladus Explorer initiative is a feasibility study for a lander mission to Saturn&apos;s moon Enceladus with the goal to search for extraterrestrial life. Enceladus is covered in ice and possesses a salt water ocean around its core, which could provide acceptable conditions for the development of alien bacteria. Through four giant crevasses at Enceladus south polar region some of that water is transported to the surface where it is ejected through about 100 plumes. 
+ The idea of the Enceladus Explorer project is to land next to one of these crevasses and deploy an automated steerable melt down probe. That probe is then supposed to melt itself deep enough into the ice to find the water-bearing part of the crevasse, take a sample of the liquid and do an in-situ microbiological analysis. To achieve that goal, the probe is in need of a suitable positioning system. One option for such a positioning system is an acoustic positioning system (APS). 
+ The main operating principle of that APS is based on trilateration. Several transducers are deployed at known locations distributed over the surface of the site and the probe is eqipped with some receivers. By measuring the signal propagation times between each transducer and the probe it is possible to calculate the distances between each transducer and the probe from the known speed of sound in the surrounding ice and then, from these distances, the position of the probe itself. 
+ The accuracy of this is method is limited by the precision of the time measurement and the understanding of possible variations of the speed of sound. In addition the range of the acoustic signals sets a limit to the range of the APS. The efforts taken to improve the understanding of the properties of the ice and the development of a method to extract the arrival time from the recorded waveforms are the main focus of this thesis.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20200902-094503-5</identifier>
+                    <identifier type="doi">10.25926/009b-6y76</identifier>
+                    <identifier type="sys">HT020617748</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_10870</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_10870">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2019/hoffmann/dc1953.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_10870"
+            DMDID="DMD_wuppertal_elpub_10870">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_10870"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

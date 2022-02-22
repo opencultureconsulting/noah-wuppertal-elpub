@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_586">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Theoretische Methoden für systematisches Konstruieren</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Vadas, Tamas</displayForm>
+                        <namePart type="family">Vadas</namePart>
+                        <namePart type="given">Tamas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004-02-02</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In der vorliegenden Arbeit werden die Grundlagen der CAD-Methoden für die systematische Konstruktion und die Aufbauobjekte der Nutzoberfläche erforscht. Als Zielsetzung wird die Unterstützung eines schnelleren und effizienteren Konstruierens unter Berücksichtigung der Mehrsprachigkeit festgelegt. Dazu wird ein länderunabhängiger Modul, Logikrekorder genannt, mit dem der Konstrukteur mehrfach anwendbare Konstruktionsmethoden selbst in seiner eigenen Sprache erzeugen wird, ingenieurwissenschaftlich entwickelt. Die Ergebnisse werden ihre Bestätigung im Praxiseinsatz finden.</abstract>
+                    <abstract type="content" lang="eng">In the present work the basis of CAD methods for the systematic construction and the constructional objects of the application surface are explored. As objective, the support of faster and more efficient engineering with consideration of the multilingualism is specified. A language independent module, named logicrecorder, with which the technical designer will create multiply applicable structural construction methods himself, in his own language, is developed engineerscientifically. The results will find their confirmation in practical application.</abstract>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Architektur und Bauingenieurwesen » Bauingenieurwesen"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20040040</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_586</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_586">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-682/d110306.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_586"
+            DMDID="DMD_wuppertal_elpub_586">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_586"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_4231">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Solution-processed charge extraction interlayers and electrodes for organic solar cells</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Zilberberg, Kirill</displayForm>
+                        <namePart type="family">Zilberberg</namePart>
+                        <namePart type="given">Kirill</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Organic photovoltaics (OPV) is a very promising technology, a dynamic and interdisciplinary research field that covers a large spectrum of activities ranging from modelling and molecular synthesis of high-performance organic materials to device physics and processing technologies. Aside from the organic light-absorbing materials, electrodes and dedicated charge extraction layers (typically metal oxides) are used in highly efficient and environmentally stable OPV. To make OPV competitive with more traditional inorganic PV technologies, vacuum-processing of functional materials must be replaced by liquid-phase deposition allowing for high-throughput and low-cost roll-to-roll (R2R) film manufacturing techniques. For this, high quality thin-films must be obtained from e.g. polymeric dispersions, sol-gel metal oxides, dispersions of nano-particles and nano-wires at processing temperatures lower than 150°C, which is compatible with flexible plastic foils typically used in R2R-production. In this work, low-temperature solution-processing of anode interlayers composed of high workfunction transition metal oxides (specifically Vanadium oxide and Molybdenum oxide) via sol-gel routes and ultra-thin cathode interlayers of conjugated polyelectrolyte (N-methylimidazoliniumalkyl-substituted Poly(3-[6-bromohexyl]thiophene) is discussed. Concomitantly, the opto-electronic properties of the resulting films are analyzed. Further, a challenging deposition of anodic interlayer of Vanadium oxide from highly reactive metal-organic precursor solution on top of the sensitive photo-active organic layer in so called inverted device architecture is realized and limits are identified. In the final part, room-temperature liquid-processed transparent electrodes made of composite of highly conductive silver-nanowires and highly transparent sol-gel Tin oxide with outstanding mechanical and environmental stability are developed. This resulted in an entirely solution-processed semitransparent OPV devices based on stable, abundant and efficient materials.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20141008-141101-0</identifier>
+                    <identifier type="sys">HT018431254</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_4231</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_4231">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2014/zilberberg/de1404.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_4231"
+            DMDID="DMD_wuppertal_elpub_4231">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_4231"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

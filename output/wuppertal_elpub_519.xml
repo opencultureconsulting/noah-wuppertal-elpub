@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_519">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Mikrobieller Abbau von Chloraromaten: Gene des ortho- und meta-Weges</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Göbel, Markus</displayForm>
+                        <namePart type="family">Göbel</namePart>
+                        <namePart type="given">Markus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003-08-19</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In dieser Arbeit wurden verschiedene Abbausequenzen für Chloraromaten untersucht. Ein Schwerpunkt lag auf der Untersuchung der Schritte des ortho-Weges in Pseudomonas sp. Stamm B13, die die Metabolite aus Benzoat und 3-Chlorbenzoat in den zentralen Stoffwechsel überführen. Die Isolierung und Charakterisierung von DNA-Fragmenten mit einer Gesamtlänge von 5.9 kb wird beschrieben. Sequenzanalysen erbrachten fünf offene Leserahmen und einen nicht vollständigen ORF1 mit unbekannter Funktion. ORF2 (catI) und ORF3 (catJ) kodieren die Untereinheiten der 3-Oxoadipat:Succinyl-CoA-Transferase. ORF4 (catF) kodiert ein Protein mit 3‑Oxoadipyl-CoA-Thiolase-Aktivität. ORF5 (catD) kodiert die 3‑Oxoadipat-Enollacton-Hydrolase. 
+ Ein weiterer Schwerpunkt war der Abbau von Chlorbenzol über den meta-Weg. Nachdem bisher nur Pseudomonas putida GJ31 bekannt war, der Chlorbenzol über den meta-Weg abbaut, konnten drei neue Stämme gefunden werden, die ebenfalls Chlorbenzol über den meta-Weg verwerten: P. fluorescens SK1, P. veronii 16-6A und Pseudomonas sp. MG61. Die Chlorcatechol-2,3-Dioxygenasen (CbzE) der neuen Stämme wurden kloniert. Aus einem industriellen Belebtschlamm wurde eine auf Chlorbenzol wachsende Mischkultur angereichert, aus der mittels PCR ebenfalls ein cbzE-ähnliches Gen amplifiziert werden konnte. Die vier neuen cbzE-Gene wiesen untereinander eine hohe Zahl von mehr als 99% identischer Nukleotide auf und 97% im Vergleich mit cbzE aus Stamm GJ31. Für cbzE-Gene wurden spezifische Primer entwickelt.</abstract>
+                    <abstract type="content" lang="eng">In this work different degradation sequences for chloroaromatics were examined. One topic was the study of the steps of the ortho-cleavage pathway of Pseudomonas sp. strain B13, which transfers metabolites from benzoate and 3-chlorobenzoate into the central metabolism. DNA fragments with on overall length of 5.9 kb were isolated and characterized. Sequence analyses showed five open reading frames and an incomplete ORF1 of unknown function. ORF2 (catI) and ORF3 (catJ) code for the subunits of the 3-oxoadipate:succinyl-CoA transferase. ORF4 (catF) codes for a protein with 3‑oxoadipyl-CoA thiolase activity. ORF5 (catD) codes for the 3-oxoadipate enol-lactone hydrolase. 
+ The second topic dealed with the degradation of chlorobenzene via meta-cleavage pathway. Since only Pseudomonas putida GJ31 was known to be able to degrade chlorobenzene via meta-cleavage pathway, three additional strains were isolated, which also degrade chlorobenzene via meta-cleavage pathway. P. fluorescens SK1, P. veronii 16-6A, and Pseudomonas sp. MG61. The chlorocatechol 2,3-dioxygenases (CbzE) of the new strains were cloned. An industrial activated sludge sample was the source of a chlorobenzene-growing mixed culture allowing the amplification of a cbzE-like gene, too. The four new cbzE genes showed a high number of more than 99% identical nucleotides among each other, and 97% identity in comparison with cbzE from strain GJ31. Specific primers for cbzE genes were developed.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20030375</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_519</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_519">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-614/d090305.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_519"
+            DMDID="DMD_wuppertal_elpub_519">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_519"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

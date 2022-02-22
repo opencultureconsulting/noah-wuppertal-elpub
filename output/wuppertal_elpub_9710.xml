@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9710">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Co-Simulation and Uncertainty Quantification for Field/Circuit Coupled Problems</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gausling, Kai</displayForm>
+                        <namePart type="family">Gausling</namePart>
+                        <namePart type="given">Kai</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-09-02</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Nowadays, motivated by the energy transition, the efficient and robust optimization of electrical energy converters, for example, electrical machines or transformers, steadily grow in importance. Due to financial reasons and the lack of space of embedded systems and integrated circuits, the Computer Aided Design (CAD) modeling and system engineering of such devices is frequently done at the limit of what is technically feasible. However, the industrial series manufacturing introduces uncertainties due to production-related tolerances in the devices. For example, this may be the rotor and/or stator diameter, the position of the permanent magnets, material impurities in the iron or tolerance affected electrical components (resistances, capacitances, inductances). Consequently, commercial devices slightly differ from the reference model which may be cause a reduced performance or malfunctions. 
+A physical description of such devices yields a complex multiphysics model that defines, for example, the magnetic field, the movement of the rotor, the heating of iron as well as the supply circuit which drives the engine. The mathematical modeling of such quantities yields a coupled system of partial differential equations (PDEs) for the magnetic field and heating and differential algebraic equations (DAEs) for the electric circuit, [21]. The efficient and robust design of electrical energy converters requires precise information about the field distribution and thus the space discretization of 2D and 3D field devices yields a coupled system of DAEs with frequently millions of unknowns. Numerical simulations of such high-resolution coupled systems are computational expensive and the simulation time takes several hours until a solution is computed, see e.g. the 2D transformer model using spatial discretization from FEMM, [6], discussed in Chapter 7. Furthermore, the analysis of electric devices with tolerances, often referred to as Uncertainty Quantification (UQ), [45–49], requires to solve the coupled system with its millions of unknowns multiple times (for various parameter values within the tolerance). Therefore, the standard time-integration methods, [28], are not well-suited to perform this task. 
+To set up the system of equations for coupled problems, single-rate time-integration requires access to the modeling layer for each software-package which are involved in a mixed mode simulation, [23]. Several well know approaches can be applied for the efficient transient simulation of coupled systems, whereas co-simulation often referred to as waveform relaxation or dynamic iteration scheme is frequently used, [2,3,8,20,24]. Especially, when the monolithic description of a complex multiphysics model is not realizable and/or suitable software tools for the subsystems are available, then it is a relevant choice. Co-Simulation tries to exploit that different parts of the multiphysics model acts on various time scales (usually slow changes in the magnetic field and faster changes in the circuit), [3, 8]. For example, this may be a pulse weight modulated (PWM) signal which drives a field device, [24]. The idea is to split the multiphysics model into submodels. This allows to define subsystems which can be handled separately with its own time-integrator. Here suitable time stepping methods can be used to capture the structural properties and the dynamics of each subsystem. Then, co-simulation works on certain time periods (windows), where the information between the subsystems are only exchanged at communication points. Here, convergence can be achieved by solving multiple times the subsystems on a small time interval (dynamic iteration). Co-simulation applied to coupled ordinary differential equations (ODEs) is well understood and always convergent, [4]. Our focus is on time-integration of field/circuit coupled problems. A space discretization of the field, [34, 35], yields a coupled system of DAEs (DAE-DAE coupling). DAEs are structurally different from ODEs. Here, convergence and the number of required repeated model simulations within each window depends on the design of the coupling interface, i.e., how the subsystems communicate with each other, and the computational order amongst others, [24]. However, co-simulation for DAEs might fail if a contraction condition is not fulfilled, [2, 3, 20, 24]. 
+Convergence and contraction of co-simulation with application for field/circuit coupled problems was investigated, e.g. in [8, 24, 32, 52]. The standard way of decoupling for field devices linked with circuits is to separate between the field and circuit part, i.e., cutting at EM device boundaries. Here, Co-simulation has proven to be unconditionally stable and convergent as long as the computation starts with the field subproblem. However, our numerical investigations show that the coupling between field and circuit is commonly weak for the standard type of decoupling such that each subsystem has to be solved many times to ensure a certain accuracy in the solution which ends in a high computational effort. 
+The primary goal of this thesis is to develop new coupling interfaces for field/circuit coupled problems such that the coupling between both becomes stronger. This would also improve the computational time for UQ, where the general Polynomial Chaos (gPC) expansion is applied for the first time to co-simulation. Furthermore, when co-simulation is used to solve (random) coupled systems, it can suffer from the uncertainties such that it affects the convergence of the dynamic iteration process. Therefore, we aim to assess the divergence probability of co-simulation during the simulation. This requires the computation of the probability density function of the contraction factor, where we focus on two different method (the Kernel Density Estimation and the gPC based spectral method) to perform this task. The results can be used for an effective time window size control. It also offers the opportunity for varying the time window size to further improve the simulation speed.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20190829-145150-8</identifier>
+                    <identifier type="doi">10.25926/qmhq-4a49</identifier>
+                    <identifier type="sys">HT020206066</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9710</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9710">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2019/gausling/dc1919.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9710"
+            DMDID="DMD_wuppertal_elpub_9710">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9710"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

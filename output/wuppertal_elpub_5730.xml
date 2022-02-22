@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5730">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Neue mikroporöse Polymernetzwerke und ihre Charakterisierung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Preis, Eduard</displayForm>
+                        <namePart type="family">Preis</namePart>
+                        <namePart type="given">Eduard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Microporous polymer networks (MPNs) attract strongly increasing attention today due to the prospective applications in gas storage/separation, catalysis and sensor devices, or as superabsorbers for hydrophobic solvents or oil traces in aqueous media. 
+Structure-property relationships between the employed tectons and the resulting polymer networks were established. It is shown that higher rigidity and stiffness of the tectons lead to increased specific BET-surface areas. Low rotational freedom of building blocks of the polymer networks as well as reduction of π-π interactions or charge-transfer interactions e. g. with enclosed metal residues have a positive effect on the measured photoluminescence quantum yield (PLQY). Moreover, it is possible to control the porous structure of the resultant networks by the choice of the reaction conditions (catalyst, temperature, solvent), and by varying the monomer-solvent ratio.</abstract>
+                    <abstract type="content" lang="ger">Mikroporöse Polymernetzwerke (MPNs) erhalten eine stark zunehmende Aufmerksamkeit, nicht zuletzt durch ihr Potential für Anwendungen in der Gasspeicherung/Trennung, in der Katalyse und in Sensoren oder als Superabsorber für hydrophobe Lösungsmittel oder Ölreste in wässrigen Medien. Im Rahmen dieser Arbeit ist es gelungen, Struktur-Eigenschafts- Beziehungen zwischen den eingesetzten Tektonen und den daraus resultierenden Polymernetzwerken herzustellen. Daraus geht hervor, dass die spezifische BET-Oberfläche umso größer ist, je rigider und steifer die Tektone sind. Eine Einschränkung der (Rotations)Freiheitsgrade der Polymernetzwerke aber auch eine Verminderung der π-π- Wechselwirkungen bzw. Charge-Transfer-Wechselwirkungen z. B. mit eingeschlossenen Metallrückständen wirkt sich positiv auf die gemessenen Photolumineszenzquantenausbeuten aus. Darüber hinaus ist es möglich, die poröse Struktur der resultierenden Netzwerke durch die Wahl der Reaktionsbedingungen (Katalysator, Temperatur, Lösungsmittel) und durch Variation des Monomer/Lösungsmittel-Verhältnisses zu kontrollieren.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20160415-105111-9</identifier>
+                    <identifier type="sys">HT018976549</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5730</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5730">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2016/preis/dc1603.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5730"
+            DMDID="DMD_wuppertal_elpub_5730">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5730"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

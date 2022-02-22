@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6560">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Carbon-Based Materials for Energy Conversion and Storage</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Yuan, Kai</displayForm>
+                        <namePart type="family">Yuan</namePart>
+                        <namePart type="given">Kai</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Graphene, a two-dimensional monolayer of sp²-carbon atoms arranged in a honeycomb network, is considered as one of the most promising candidates for use as electrode material of electrochemical capacitors due to its high maximum specific-surface area (~2600 m² g-1) and superior electrical conductivity, combined with excellent mechanical properties and outstanding chemical stability. In this thesis, microporous, pillared graphene-based frameworks (PGF) are generated in a simple functionalization/coupling procedure starting from reduced graphene oxide and have been used for the fabrication of high performance supercapacitor devices. Light-emitting, nanofibrous films were fabricated by electrospinning conjugated microporous polymer (CMP)/poly(lactic acid) (PLA) mixtures. The resulting nanofibrous films show a high flexibility combined with high porosity and surface-area-to-volume ratios. The CMP-based nanofibrous films have been used as sensitive sensors in the detection of nitroaromatic and benzoquinone vapors as well as oxidizing metal ions. Thereby, conjugated microporous polymer-graphene (G-CMP) sandwiches have been synthesized using 4-iodophenyl-substituted graphene as structure-directing template. Hierarchically, porous nanosheets with high specific surface area are readily obtained by direct pyrolysis of the G-CMP sandwiches. The novel carbon hybrid materials display a very promising capacitive performance in supercapacitor devices. Two-dimensional (2D) transition-metal dichalcogenides (TMDs) have drawn much attention due to their unique physical and chemical properties. A series of sandwich-like MoS₂-templated conjugated microporous polymer nanosheets with high specific surface area was also successfully fabricated by utilizing 4-iodophenyl-functionalized MoS₂ as template. By direct pyrolysis, 2D MoS₂/nitrogen-doped porous carbon (M-CMPs-T) hybrids were obtained with large specific surface areas and aspect ratios as well as a hierarchically porous structure. The M-CMPs-T hybrids have been used for electrochemical catalyzed oxygen reduction reaction (ORR) with high activity and selectivity as well as in excellently performing supercapacitor devices due to the maximized interfacial interaction between nitrogen-doped porous carbon and MoS₂ layers.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170127-084544-0</identifier>
+                    <identifier type="sys">HT019230246</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6560</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6560">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2017/yuan/dc1701.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6560"
+            DMDID="DMD_wuppertal_elpub_6560">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6560"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

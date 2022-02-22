@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_15090">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Study of the Cosmic Ray Composition Sensitivity of AugerPrime - Probing the Prospects of the Upgrade to the Pierre Auger Observatory with a Deep Learning Approach</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mayotte, Sonja</displayForm>
+                        <namePart type="family">Mayotte</namePart>
+                        <namePart type="given">Sonja</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kampert, Karl-Heinz</displayForm>
+                        <namePart type="family">Kampert</namePart>
+                        <namePart type="given">Karl-Heinz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-08-12</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The composition of cosmic ray primaries at the highest energies is one of the biggest open questions in astroparticle physics, and is directly related to understanding the sources of ultra-high energy cosmic rays. At the Pierre Auger Observatory, cosmic rays are studied via the extensive air showers they produce in the Earth’s atmosphere. Improving the understanding of primary composition at the highest energies is the biggest motivation behind the upgrade of the Observatory, AugerPrime. The Surface Detector of the Obser- vatory is, as part this upgrade, in the process of receiving new electronics and additional detectors. Most important is the scintillator detector, which will be placed on top of the existing water Cherenkov detectors. It will allow for a complementary measurement of air showers due to the differing responses of the scintillators and water Cherenkov detectors to the different shower components. This in turn will enhance the resolution the Surface Detector has for measuring the primary composition, perhaps even to an event-by-event level. In this thesis, development of the new hardware while being tested in the Engineer- ing Array over the last few years, is analyzed for the first time. The performance of these detector prototypes, especially in regards to the timing resolution, is studied. Using information gained from these studies, a machine learning approach based on detector simulations which include the AugerPrime upgrade is undertaken, with the goal of re- constructing the depth of shower maximum, as it is an indicator of the primary mass. Specifically, a convolutional neural network is developed to extract composition inform- ation from the difference in the signal pulses of the two different detector types. The improvement in composition resolution achieved by adding the trace information from the new detector is gauged by training the same network both with and without the scintilla- tor detector traces and comparing the results. From this, it is shown that improvements to the overall mass resolution and event-by-event reconstruction accuracy can be expected after the completion of the AugerPrime upgrade.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20210812-123827-3</identifier>
+                    <identifier type="doi">10.25926/99h7-fc44</identifier>
+                    <identifier type="sys">HT021070377</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_15090</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_15090">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2021/mayotte/dc2110.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_15090"
+            DMDID="DMD_wuppertal_elpub_15090">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_15090"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

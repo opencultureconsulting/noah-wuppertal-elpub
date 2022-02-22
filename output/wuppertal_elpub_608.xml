@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_608">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Hybridmethode zur Lösung komplexer elektromagnetischer Feldprobleme - Kombination der Finite-Elemente-Methode, eines Integralgleichungsverfahrens und der Vereinheitlichten Geometrischen Beugungstheorie</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Alaydrus, Mudrik</displayForm>
+                        <namePart type="family">Alaydrus</namePart>
+                        <namePart type="given">Mudrik</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002-01-25</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Ziel dieser Arbeit war es, die feldtheoretischen Grundlagen für ein universell einsetzbares Lösungsverfahren zu erarbeiten, ein Konzept für die programmtechnische Umsetzung zu entwerfen, ein lauffähiges Programm zu erstellen und als Anwendung einige wichtige technische Beispiele zu analysieren. Ausgangspunkt der Arbeit war die in [1] entwickelte FE-OIG-Hybridmethode, die die Finite-Elemente-Methode (FEM) und ein Oberflächenintegralgleichungsverfahren (OIGV) miteinander kombiniert. Mit dieser Hybridmethode konnten bereits Streu- und Antennenprobleme behandelt werden, bei denen sich beliebig inhomogene und geformte Körper im Freiraum oder einer ebenen geschichteten Struktur befinden. Allerdings dürfen die Objekte, die einer Diskretisierung ihres Volumens oder ihrer Oberflächen unterworfen werden müssen, nicht sehr groß zur Wellenlänge sein, da dann die benötigten Rechenspeicher und -zeiten sehr schnell die verfügbaren Ressourcen übersteigen. Gerade feldtheoretische Fragestellungen aus dem Bereich der Mobilfunktechnik sind dadurch gekennzeichnet, dass relativ kleine Objekte, z.B. Strahlungselemente von Basisstationsantennen, aber auch relativ große Objekte, wie Hauswände, Gebäudeteile, Lastwagen, sich im Lösungsraum befinden und die Feldlösung stark beeinflussen. Zur Beschreibung solcher elektrisch großen Objekte eignen sich besonders asymptotische Verfahren. In dieser Arbeit wurde als asymptotisches Verfahren die Vereinheitlichte Geometrische Beugungstheorie (engl. Uniform Theory of Diffraction, UTD) dem vorhandenen FE-OIG-Hybridverfahren hinzugefügt. Dabei erfolgt die Lösung des Problems so, dass alle drei Verfahren gleichzeitig berücksichtigt werden, d.h. die Lösung wird in einem Schritt und nicht durch sukzessive Anwendung der Verfahren nacheinander erzielt. Es handelt sich deshalb bei dieser Kombination von FEM, OIGV und UTD um eine &apos;doppelte Hybridisierung&apos;, deshalb wurde der Name Hybrid²-Methode gewählt. Das in dieser Arbeit entwickelte Konzept erlaubt eine sehr flexible Anwendung des Verfahrens, wodurch jeweils ein Kompromiss zwischen der geforderten Genauigkeit der Ergebnisse und den benötigten Rechenressourcen gefunden werden kann: Bei hohen Genauigkeitsanforderungen können weite Bereiche des Lösungsgebiets mit Hilfe der FEM oder des OIGV beschrieben werden, und die UTD als asymptotisches Verfahren wird nur für sehr große Abstände zwischen den Quell- und Beobachtungspunkten und für sehr große Objekte eingesetzt. Wenn jedoch die genaue Kenntnis der Stromdichteverteilung und der Feldverteilung in Streukörpern und Antennen nicht erforderlich ist, können entsprechend große Bereiche des Lösungsgebiets als UTD-Körper definiert werden. Wesentliches Ziel der Darstellung des verwendeten asymptotischen Verfahrens, der UTD, ist zum einen, die einzelnen Streumechanismen (Reflexion, Beugung, Mehrfachreflexion, Kombinationen von Beugung und Reflexion) so aufzubereiten, dass die im konkreten Fall benötigten Streumechanismen weitgehend beliebiger Ordnung systematisch zusammengestellt werden können. Zum anderen wurde das Verhalten der UTD-Felder auch im Nahfeld untersucht, da Rechnungen zeigten, dass Ergebnisse unter Nutzung der UTD auch für relativ kleine Abstände zwischen den Quell- und Beobachtungspunkten überraschend genau sind. Die Leistungsfähigkeit des Verfahrens unter Einbindung der UTD hängt im Wesentlichen davon ab, ob effiziente Strahlsuchverfahren zur Verfügung stehen. Da solche aus der vorhandenen Literatur nicht beschafft werden konnten, wurde früh entschieden, eigene Strahlsuchalgorithmen zu entwickeln. Diese basieren zum einen auf Verfahren, die eine genaue Lokalisierung der Streupunkte ermöglichen, wobei der Aufwand für höhere Streumechanismen sehr hoch werden kann. Als Alternative wurde auch das Strahlabschussverfahren untersucht, mit dem auch in komplexen Umgebungen ein effizientes Vorgehen ermöglicht wird. Die Anbindung der UTD an das vorhandene FE-OIG-Hybridverfahren erfolgt durch eine Modifikation der Greenschen Funktionen in der OIG-Formulierung. Die Veränderung des Lösungsraums durch das Hinzunehmen elektrisch großer Körper wird in Form von Reflexionen, Beugungen und Kombinationen von Reflexion und Beugung erfasst und durch Addition entsprechender Terme zu den ursprünglich vorhandenen Greenschen Funktionen berücksichtigt. Die Anwendung des Hybrid²-Verfahrens auf einige Beispiele, insbesondere aus dem Bereich der Mobilfunktechnik, zeigt die Leistungsfähigkeit des entwickelten Rechenprogramms. Dabei wurden zunächst einfache Antennen- und Streuprobleme analysiert. Durch den Vergleich der mit dem Hybrid²-Verfahren berechneten Ergebnisse mit solchen, die mit dem FE-OIG-Hybridverfahren bestimmt wurden, konnten die Genauigkeit und die Zuverlässigkeit belegt werden. Insbesondere zeigen weitere Beispiele, dass das vorgegebene Ziel, Antennen auch bei Anwesenheit sehr großer Körper sehr genau analysieren zu können, erreicht werden konnte. [1]. Eibert, T. F., Verknüpfung der Methode der Finiten Elemente mit einem Integralgleichungsverfahren für ebene geschichtete Strukturen, Dissertation, Universität Wuppertal, 1997.</abstract>
+                    <abstract type="content" lang="eng">The aim of this work is to develop an electromagnetic concept that is capable of solving a wide spectrum of electromagnetic boundary value problems. The basic of this work is the FE-BE-hybrid method combining the finite element method (FEM) and the boundary element method (BEM) developed in [1]. With this method one can solve scattering and antenna problems consisting of arbitrarily inhomogeneous and arbitrarily shaped dielectric bodies embedded in free space or in planar multilayered structures. Due to the nature of both involved numerical methods requiring a disretization of the solution domain the FE-BE-hybrid method is used efficiently, if the scattering bodies are not large compared to the wave length. Electromagnetic problems appearing in mobile communication systems often concern with electrically small bodies as well as electrically large structures, for example a base station antenna mounted on a multilayered wall of a building near windows or near corners. In order to take the effects of such large structures into account the uniform theory of diffraction (UTD) is integrated into the FE-BE-hybrid method in the frame of this work. We use the three single methods in a new hybrid method simultaneously and not successively. Obviously, this new hybrid method implies a ‘double hybridization’, thereafter we call the new method the hybrid²–method. The developed method is very efficient and flexible. It allows a compromise between the calculation efforts (the required computing time and memory) and the accuracy of the obtained results. Some important points using the UTD stressed in this work are the generalization of the description of scattering in order to be able to include scattering mechanisms of arbitrary orders and to study the near fields calculated with the UTD. The UTD is linked to the FE-BE-hybrid method by means of a modification of the Greens’ functions used in the integral formulation of the BEM. The modified Greens’ functions include the effects of the electrically large structures due to reflection, diffraction and other mechanisms. Calculations of some problems for mobile communication systems demonstrate the performance of the hybrid²–method. The comparison of the results obtained by the hybrid²–method with the results obtained by the FE-BE-hybrid verifies the accuracy and reliability of the new method.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20020082</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_608</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_608">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-704/d130107.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_608"
+            DMDID="DMD_wuppertal_elpub_608">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_608"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

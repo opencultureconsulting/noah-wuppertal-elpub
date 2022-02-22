@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5580">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Freiheit und Reduktion. Die Idee einer meontischen Phänomenologie bei Eugen Fink (1927-1946).</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Giubilato, Giovanni Jan</displayForm>
+                        <namePart type="family">Giubilato</namePart>
+                        <namePart type="given">Giovanni Jan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Frage nach der Freiheit gehört zweifellos zu den zentralsten Problemen der Philosophiegeschichte und ist in verschiedenen Theorien unterschiedlich beantwortet worden. Innerhalb der vielverästelten Denkströmung der phänomenologischen Philosophie tritt das Thema der Freiheit an prominenter Stelle bei Eugen Fink explizit in Erscheinung, wobei es im wesentlichen Zusammenhang mit einer methodologischen Thematisierung der phänomenologischen Reduktion steht. Folgende Arbeit zum Thema “Freiheit und Reduktion bei Eugen Fink” stellt also die Frage nach dem inneren Zusammenhang zwischen seiner Neuinterpretation der Phänomenologie als “Meontik” und Freiheit. Durch eine gründliche Auslegung aller in den Jahren seiner Zusammenarbeit mit Husserl entstandenen Schriften und zahlreicher Nachlassmaterialen aus dem Eugen-Fink-Archiv wird die Eigenart, Besonderheit und Eigenständigkeit seiner frühen Philosophie, die notwendigerweise von derjenigen Husserls ausgeht und in derjenigen Heideggers einen wichtigen, unausweichlichen Prüfstein gefunden hat, am Leitfaden des Freiheitsbegriffs geschildert.</abstract>
+                    <classification authority="ddc">100</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » Philosophie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20160211-110148-5</identifier>
+                    <identifier type="sys">HT018902374</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5580</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5580">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fba/philosophie/diss2015/giubilato/da1501.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5580"
+            DMDID="DMD_wuppertal_elpub_5580">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5580"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

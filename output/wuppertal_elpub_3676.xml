@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3676">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wachstumsverhalten von Thiothrix eikelboomii und Flectobacillus roseus in der Kläranlage eines Lebensmittelherstellers</title>
+                        <subTitle>Entwicklung von Gensonden zur Detektion und Quantifizierung von Flectobacillus roseus im Belebtschlamm</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schumacher, Jessica</displayForm>
+                        <namePart type="family">Schumacher</namePart>
+                        <namePart type="given">Jessica</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Anwesenheit von Fadenbakterien in Kläranlagen ist im Allgemeinen aufgrund ihrer Eigenschaft, Blähschlamm-Schwimmschlamm und Schaum ausbilden zu können, unerwünscht. Im Gegensatz zu den bisher beschriebenen Kläranlagen wurden in der hier untersuchten Kläranlage eines Lebensmittelherstellers die Fadenbakterien nicht bekämpft, sondern als Teil der natürlichen Belebtschlammflora angesehen. Das Wachstumsverhalten von Fadenbakterien im Belebtschlamm ist weitestgehend unbekannt und nur wenige Fadenbakterienspezies konnten bisher isoliert und ihre biochemischen Merkmale bestimmt werden. 
+
+Um die Charakteristika und das Wachstumsverhalten der Fadenbakterien aus dieser Anlage zu untersuchen, wurden spezifische Nachweis- und Quantifizierungsmethoden entwickelt. 
+
+Hierfür wurden zunächst Fadenbakterien aus dem Belebtschlamm der Kläranlage isoliert. Die isolierten Fadenbakterien wurden durch 16S-rDNA-Analysen phylogenetisch charakterisiert und den Spezies Flectobacillus roseus und Thiothrix eikelboomii zugeordnet. F. roseus und T. eikelboomii wurden auf ihre biochemischen und physiologischen Merkmale untersucht und mit bereits publizierten Speziesvertretern verglichen. 
+
+Für die Quantifizierung von F. roseus und T. eikelboomii im Belebtschlamm wurde die real-time PCR als Quantifizierungsmethode ausgewählt. Die Quantifizierung von T. eikelboomii erfolgte hierbei modifiziert nach dem 021N-Assay von Vervaeren et al. (2005). Für den Nachweis und die Quantifizierung von F. roseus im Belebtschlamm wurden das Primerpaar FlectobacQPCR und das FlectobacQPCR-Assay entwickelt. Die Auswahl der Primerloki erfolgte auf Basis von Alignments der F. roseus-Isolate und weiteren Flectobacillus-Spezies. Die real-time PCR-Bedingungen wurden im Anschluss durch eine Primertitration experimentell optimiert. Die Präzision des FlectobacQPCR-Assay wurde in Untersuchungen durch die Inter- und Intra-Assay-Abweichung validiert. 
+
+Um ein besseres Verständnis für das Wachstumsverhalten der Fadenbakterien im Belebtschlamm zu entwickeln, wurden die Konzentrationen von</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20130812-103539-0</identifier>
+                    <identifier type="sys">HT017736237</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3676</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3676">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2013/schumacher/dc1307.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3676"
+            DMDID="DMD_wuppertal_elpub_3676">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3676"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

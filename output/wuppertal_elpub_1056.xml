@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1056">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Was hindert Mädchen am Fußballspielen?</title>
+                        <subTitle>Chancen und Barrieren für Mädchenfußball im Sportverein</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Meyer, Catharine Tamara</displayForm>
+                        <namePart type="family">Meyer</namePart>
+                        <namePart type="given">Catharine Tamara</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005-10-27</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Für Jungen ist Fußball immer noch die Sportart Nummer eins – und für Mädchen? Bis 1970 war Fußball spielen für Mädchen und junge Frauen vom Deutschen Fußballbund (DFB) verboten. Gebärunfähigkeit und Brustkrebsgefahr waren zwei wichtige Gründe für das Verbot. 
+Das Fußballverbot liegt nun über 30 Jahre zurück und seither hat sich rund um den Frauenfußball viel getan. Die Nationalmannschaft der Frauen hat inzwischen sechs Europameisterschaftstitel und im (vor)letzten Jahr zum ersten Mal den Weltmeistertitel in den USA gewonnen. Trotz dieser beeindruckenden Entwicklung gehört Fußball heute immer noch nicht zum Mädchen- und Frauenalltag. Im DFB sind Mädchen und junge Frauen nur mit einem geringen Mitglieder- (13,6%) und Mannschaftsanteil (3,9%) vertreten. Stehen Mädchen und junge Frauen dem Spiel tatsächlich so gleichgültig gegenüber? Wodurch werden sie daran gehindert, sich der &quot;Männerdomäne&quot; Fußball zu nähern? 
+
+ An diesen Fragen nach Hindernissen für Mädchenfußball setzt meine Arbeit an. Im Vordergrund steht die Analyse sportsozialisierender Instanzen (Verein, Medien, Schule/Sportunterricht, Familie, Gleichaltrigengruppe) und deren Einfluss auf die weibliche Zurückhaltung im Fußballsport . Dazu wurde eine qualitative Befragung mit Fußballtrainerinnen und Fußballtrainern sowie mit Mädchen (10-17 Jahre) durchgeführt.</abstract>
+                    <classification authority="ddc">300</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Human- und Sozialwissenschaften » Sportwissenschaft"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20050483</identifier>
+                    <identifier type="sys">HT014549024</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1056</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1056">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbg/sportwissenschaft/diss2005/meyer/dg0503.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1056"
+            DMDID="DMD_wuppertal_elpub_1056">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1056"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

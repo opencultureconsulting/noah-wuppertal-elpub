@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_11340">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Maschinelle Früherkennung abbruchgefährdeter Studierender - Konzeption, Systemvergleich und Evaluation</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Berens, Johannes</displayForm>
+                        <namePart type="family">Berens</namePart>
+                        <namePart type="given">Johannes</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schneider, Kerstin</displayForm>
+                        <namePart type="family">Schneider</namePart>
+                        <namePart type="given">Kerstin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-03-18</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In der vorliegenden Arbeit wird ein an allen deutschen Hochschulen einsetzbares System zur „Früherkennung abbruchgefährdeter Studierender“ konzipiert, implementiert und evaluiert. Hierzu werden mittels Verfahren des maschinellen Lernens administrative Studierendendaten nach §3 HStatG ausgewertet. Die Prognosegenauigkeit des konzipierten Frühwarnsystems wird an einer staatlichen Universität und einer privaten Fachhochschule getestet, mit anderen Frühwarnsystemen verglichen und die verfügbaren Informationen auf Prognoserelevanz getestet. Hierauf aufbauend werden alternative Systeme entwickelt und getestet, die entweder durch datensparsamere Konzeption effizienter sind oder frühere Prognosen des Studienerfolgs beziehungsweise von Prüfungsergebnissen erlauben. Diese Arbeit kann auch als Leitfaden und Entscheidungshilfe zur Konzeption und Implementation von Frühwarnsystemen insbesondere für Hochschulen verstanden werden – der Praxisverwertbarkeit wird ein hoher Stellenwert eingeräumt.</abstract>
+                    <subject>
+                        <topic>maschinelles Lernen</topic>
+                        <topic>Frühwarnsystem</topic>
+                        <topic>Studienabbruch</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20210318-114945-9</identifier>
+                    <identifier type="doi">10.25926/7jv7-2s67</identifier>
+                    <identifier type="sys">HT021152658</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_11340</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_11340">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2021/berens/db2104.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_11340"
+            DMDID="DMD_wuppertal_elpub_11340">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_11340"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

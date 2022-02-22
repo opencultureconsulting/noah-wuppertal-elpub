@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1791">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Synthese des Indolalkaloids α-Cyclopiazonic Acid</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Beyer, Christian</displayForm>
+                        <namePart type="family">Beyer</namePart>
+                        <namePart type="given">Christian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The indole alkaloid α-cyclopiazonic acid (CPA) is one of the few known inhibitors of sarco(endo)plasmic reticulum Ca2+-ATPase (SERCA) besides thapsigargin and artemisinin. Inhibitors of SERCA hold promise as novel anticancer and antimalarial drugs. Since its structure elucidation three racemic syntheses of α-cyclopiazonic acid have been published.
+ The first part of this dissertation describes the enantioselective and high yielding synthesis of CPA by a modification of the Knight synthesis, currently the most efficient route to CPA. The synthesis of the enantiomerically pure key intermediate 38 is based on a diastereoselective 1,4-cuprate addition followed by an enolate azidation of an indolylacrylic acid modified with the Evans auxiliary. The main step, a cationic cascade cyclisation, is induced by triflic acid and builds up two fused rings. The tetramic acid moiety as the pharmacophoric unit is introduced in the last steps with acetyl Meldrum’s acid.
+ The second part deals with a new approach towards CPA starting with (R)-carvone, a chiral pool reagent. The amino acid moiety is introduced by a C-C-coupling reaction of a glycine imine with a silyl ester enolate. This route provides an easy way to smaller CPA analogues.
+ The last part of this work consists of Molecular-Modelling studies and the analysis of biological data of CPA and their analogues. Two sets of analogues have been synthesised either by variation of the acyl Meldrum’s acid and reaction with a CPA-precursor or by reacting CPA with different amines. All compounds were tested in a functional Heliothis virescens biochemical SERCA assay using a luciferin / luciferase-coupled assay. The obtained IC50 values show that only a slight variation of the tetramic acid moiety is tolerated without significant loss of activity.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20110202-094002-7</identifier>
+                    <identifier type="sys">HT016695124</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1791</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1791">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2011/beyer/dc1101.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1791"
+            DMDID="DMD_wuppertal_elpub_1791">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1791"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

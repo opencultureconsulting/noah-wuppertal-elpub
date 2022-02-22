@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_280">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Energieabhängigkeit von Ereignisformobservablen und der starken Kopplung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wicke, Daniel</displayForm>
+                        <namePart type="family">Wicke</namePart>
+                        <namePart type="given">Daniel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1999-07-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Infrarot- und kollinearsichere Ereignisformobservablen sind besonders geeignet für die Bestimmung der starken Kopplung αₛ in der e⁺e⁻-Annihilation. Um die Messung der starken Kopplung aus solchen Ereignisformobservablen durchzuführen sind zwei Dinge notwendig: Eine perturbative Vorhersage, welche die Abhängigkeit von αₛ enthält, und eine Beschreibung des Hadronisierungsprozesses, um die perturbative Vorhersage mit den Daten vergleichen zu können. Als perturbative Vorhersage stehen O(αₛ²), NLLA und kombinierte Rechnungen zur Verfügung. Neben den bekannten Monte-Carlo basierten Modelen existieren auch analytische Rechnungen, sogenannte Potenzreihenkorrekturen, um die Hadronisierung zu beschreiben. Achtzehn verschiedene Ereignisformverteilungen und deren Momente wurden aus den bei sieben verschiedenen Schwerpunktsenergien um und oberhalb von MZ gemessenen Daten mit den DELPHI Detektor am LEP bestimmt. Aus den zwei Ereignisformobservablen für die alle genannten Vorhersagen und Beschreibungen verfügbar sind (1 - T und Mₕ² / Evis²) wurde die starke Kopplung αₛ in O(αₛ²), NLLA und einen kombinierten Schema bestimmt. Hadronisierungskorrekturen werden sowohl mit Fragmentationsmodellgeneratoren, als auch mit einem analytischen Potenzreihenansatz errechnet. Bei allen sieben Energien ergeben die betrachteten Methoden konsistente Ergebnisse für die starke Kopplung. Die Energieabhängigkeit von αₛ ist über den durch LEP abgedeckten großen Energiebereich zugänglich. Um diese Abhängigkeit zu messen, wurde die logarithmische Ableitung der inversen Kopplung nach der Energie gewählt. Für diese Größe zeigt die Vorhersage in erster Ordnung keine Energieabhängigkeit außerdem ist sie proportional zur Callan-Symanzik β-Funktion, welche die Energieabhängigkeit von α&gt;ₛ beschreibt. Das Ergebnis d αₛ-1 ---------------(89...183 GeV)= 1.44+-0.32(stat)+-0.18(syst), d log(Ecm) ist in guter Übereinstimmung mit der QCD-Vorhersage in zweiter Ordnung von 1.27.</abstract>
+                    <abstract type="content" lang="eng">Infrared and collinear safe event shape observables are especially well suited to measure the strong coupling αₛ in e⁺e⁻-annihilation. To perform the measurement of the strong coupling from such event shape observables two ingredients are necessary: a perturbative prediction containing the dependence of the observables on αₛ and a description of the hadronisation process to match the perturbative prediction with the hadronic data. As perturbative prediction O(αₛ²), NLLA and combined calculations are available. Beside the well known Monte-Carlo based models also analytical predictions, so called power corrections, exist to describe the hadronisation. Eighteen different event shape distributions and their moments are determined using the data taken at seven different centre of mass energies around and above MZ with the DELPHI detector at LEP. From the two event shapes for which all different predictions and descriptions are available (1 - T and M h 2 / Evis²), the strong coupling αₛ is extracted in O(αₛ), NLLA and a combined scheme. Hadronisation corrections are evaluated with fragmentation model generators as well as with an analytical power ansatz. At all seven energies the investigated methods give consistent results for the strong coupling. The energy dependence (running) of αₛ is accessible through the large energy range available at LEP. To measure this dependence the logarithmic energy slope of the inverse strong coupling was chosen. This quantity is expected to be energy independent to first order and is proportional to the Callan-Symanzik β-function describing the running of αₛ. The result d αₛ-1 ---------------------- (89...183 GeV)= 1.44+-0.32(stat)+-0.18(syst) , d log(Ecm) is in good agreement with the second order QCD expectation of 1.27.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-19990086</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_280</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_280">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-374/d089903.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_280"
+            DMDID="DMD_wuppertal_elpub_280">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_280"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

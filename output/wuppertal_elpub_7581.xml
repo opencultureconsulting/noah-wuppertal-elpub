@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_7581">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Investigation of Gaseous and Particulate Vehicle Emissions in Real-World Driving Conditions</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gallus, Jens Achim</displayForm>
+                        <namePart type="family">Gallus</namePart>
+                        <namePart type="given">Jens Achim</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In the European Union (EU), the upcoming Euro-6d regulation will include Real Driving Emissions (RDE), measured by a Portable Emission Measurement System (PEMS). The regulation will comprise the on-road measurement of Diesel NOₓ and Particle Number (PN) emissions on an RDE compliant test route. Chassis dynamometer tests, such as the New European Driving Cycle (NEDC), are not able to cover the entire spectrum of driving situations that occur during on-road driving. On-road exhaust measurements depend on numerous conditions, such as ambient temperature, driving style and road grade that can hardly be accounted for in the test cell. 
+The present study addresses the impact of different driving conditions on onroad exhaust emissions. The focus is on the characterisation of different driving styles, the fraction of cold start emissions and the correlation with road grade along a route profile, which are all expected to have a high impact on exhaust emissions. Gaseous emission results for three Diesel vehicles (Euro-4, Euro-5 and Euro-6.1) and PN measurements with a prototype PN PEMS for two gasoline vehicles (Euro-5, Euro-6.1) are presented. 
+Correlation measurements of CO₂ and NOₓ emissions were conducted between the PEMS and the test cell which proved the PEMS results within a deviation of 4 to 15% from the test cell. The PN PEMS showed a good agreement with an established Particle Measurement Program (PMP) set-up down to emissions of 1·1010 km−1. A PM PEMS was used in parallel for soot measurements as an independent technique. PN-to-soot ratios were determined for both test cell and on-road measurements, and appeared to be comparable at 1.3·1012 mg−1 indicating a constant performance of the PN PEMS. 
+Different driving styles (soft, normal, severe) were characterized by several driving parameters. Especially acceleration based driving parameters Relative Positive Acceleration (RPA), Mean Positive Acceleration (MPA) and v·apos95 were found to show a good separation of different driving styles. Most notably, elevated RPA and MPA could explain increases of CO₂, NOₓ and PN emissions during severe driving. The comparison to reference data obtained from the World harmonized Light-duty Test Cycle (WLTC, version 5.3) and from Field Operational Tests (FOT) proved that the normal PEMS trips can be attributed to normal driving. 
+The cold start effect was investigated down to ambient temperatures below 0°C. A large cold start peak was observed, especially for CO, HC and PN emissions, which constituted to a large fraction of the corresponding total emissions. Several methods were applied to quantify cold start emissions during on-road driving and define Cold Start Excess Emissions (CSEE). 
+Based on different altitude data sources, the route characteristics of four routes were investigated applying the parameter Cumulated Altitude Gain (CAG). One route had more than 100% as much CAG, leading to almost 100% higher distance specific NOₓ emissions at similar driving dynamics. A filtering and a subsequent smoothing process, as implemented in the RDE regulation draft, lowered the cumulated altitude gain values by 40 to 50%. Based on repetitive measurements, the road grades for two routes were calculated within 100m segments with an average precision of 0.29% and 0.12%. CO₂ and NOₓ emissions showed a linear increase with road grade for all urban, rural and motorway parts. Larger emissions at higher road grades could be explained by more frequent high engine load points.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20171220-093940-7</identifier>
+                    <identifier type="sys">HT019574683</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_7581</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_7581">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2017/gallus/dc1728.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_7581"
+            DMDID="DMD_wuppertal_elpub_7581">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_7581"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

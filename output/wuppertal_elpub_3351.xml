@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3351">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchungen von Niere und anderen Matrices auf β-Lactam-Antibiotika mittels rezeptorgestützten Chemilumineszenz-Tests</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wehe, Lena</displayForm>
+                        <namePart type="family">Wehe</namePart>
+                        <namePart type="given">Lena</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Penicillins and cephalosporines, which belong to the group of ß-lactam antibiotics, are, together with tetracyclines and macrolides, the most commonly used antibiotics for the therapy and prophylaxis of bacterical infections in food delivering animals. Therefore, maximum residue limits (MRL) exist in the EU relating to the antimicrobial properties of the ß-lactams. In order to control the application and possible illegal use of ß-lactams, screening methods are useful to get first results cheap and rapidly. 
+
+In this work, the application of chemiluminescence (CL) as an analytical tool for the detection of residues of ß-lactam antibiotics in porcine kidney juice and other matrices was investigated. 
+
+The developed method is based on an indirect competitive microtiter plate assay that uses the penicillin-binding protein PBP 2x* as receptor for ß-lactam antibiotics. The PBP 2x* were coated on a microtiter plate, and a digoxigenin labeled ampicillin (Dig-Ampi) was used to compete with free beta-lactams in the sample. In a next step, we added anti-digoxigenin Fab fragments (Fab) that were conjugated with horseradish peroxidase (HRP). These conjugated antibodies can bind to the digoxigenin-moiety of Dig-Ampi. In the last step, a CL based technique was used as detection system. Therefore the luminol oxidation catalyzed by HRP was used. The obtained signal was reversely related to the ß-lactam concentration in the sample. 
+
+The assay format utilizing PBP 2x* based on a previous work developed in our research group, but was modified with regard to a CL based technique. In the previously developed colorimetric assay format, an HRP catalyzed oxidation with tetramethylbenzidine as chromogen was used. 
+
+Experimental parameters of the CL assay, for example amount of PBP 2x*, Dig-Ampi, Fab, luminol reagent volume, and measurement time were characterized and optimized for low consumption of the expensive assay compounds and for high sensitivity. 
+
+A variety of food matrices, mainly kidney, but also milk and muscle tissue, were investigated by the CL assay and the results were compared to the colorimetric assay format. 
+
+Matrix interferences from kidney juice could be minimized by a centrifugation and dilution step. A full factorial design was used to examine significant matrix interferences. For both assay formats, the parameter “texture” (comparison: kidney-muscle) showed a significant matrix effect to the measurement performance. Thus, a calibration in blank matrix is necessary. In contrast to the colorimetric assay, no significant matrix effect was detected for the parameter animal species (comparison: pork-beef), when using the CL assay. 
+
+The performance criteria limit of detection (LOD), limit of quantification (LOQ), precision, repeatability, and working range were investigated for the determination in spiked kidney juice and milk. 20 porcine kidney samples were analyzed for precision of the assay formats. 
+
+Benzylpenicillin, ampicillin, cefquinom and ceftiofur (measured as desfuroylcefitofur, the active metabolite) were detected at concentrations below their respective MRL. LOD and LOQ were twofold lower for the CL assay than for the colorimetric assay. However, the increased sensitivity of the CL assay leads to a loss of precision and higher interference of matrix compounds. Nevertheless, the CL assay represents a good alternative to the colorimetric test system and is applicable for the screening of ß-lactam residues in a variety of food matrices. 
+
+Based on the developed CL assay, a test system for single sample measurements was designed by using magnetic beads as surface to immobilize PBP 2*. For this purpose, a commercial Charm II receptor test equipment was used. The experiments have shown that the CL assay format could not be transferred to this type of equipment. Significant interference of nonspecific interactions and difficulties in the separation technique were observed. 
+
+In conclusion, the experiments on kidney juice have shown that both microtiter plate assay formats (CL and colorimetric) are suitable for the semi-quantitative screening of ß-lactams. An advantage of the CL assay over the colorimetric assay is the higher sensitivity.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20130206-145313-0</identifier>
+                    <identifier type="sys">HT017556221</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3351</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3351">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2012/wehe/dc1228.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3351"
+            DMDID="DMD_wuppertal_elpub_3351">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3351"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

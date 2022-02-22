@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_8291">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Sustainable Working Capital Management and its Effect on Shareholder Wealth in a Downturn Economic Environment: Evidence from German Listed Companies</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Saba, Christian</displayForm>
+                        <namePart type="family">Saba</namePart>
+                        <namePart type="given">Christian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Betzer, André</displayForm>
+                        <namePart type="family">Betzer</namePart>
+                        <namePart type="given">André</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-05-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In this thesis, I present an aternative measure of net operating working capital which I suggest is more appropriate than the traditional measure that includes accounts receivable, accounts payable and inventories. Using that alternative measure, I evaluate the impact on both stock and operating performance of a firm&apos;s adjustment of its level of net operating working capital towards the median level of the industry the firm belongs to and which is assumed to represent the optimum level. My research is based on a sample of german listed firms belonging to the DAX family during the period 2005-2014 which includes the global financial crisis of 2007-2008. Though the results of my empirical analysis do not allow me to infer that an optimal level of working capital exists that maximizes shareholder wealth, they nevertheless point to the existence of such a level that maximizes profitablity. These results suggest that shareholders do not recognize the merit of working capital management as a sustainable value-enhancing tool.</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20180528-112454-6</identifier>
+                    <identifier type="sys">HT019710178</identifier>
+                    <accessCondition type="use and reproduction">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_8291</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_8291">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2018/saba/db1801.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_8291"
+            DMDID="DMD_wuppertal_elpub_8291">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_8291"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

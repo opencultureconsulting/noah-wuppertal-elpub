@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_300">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Open Charm Production in Deep Inelastic Electron-Proton Scattering with the H1 Detector at HERA</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Adloff, Catherine</displayForm>
+                        <namePart type="family">Adloff</namePart>
+                        <namePart type="given">Catherine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002-01-18</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In der vorliegenden Arbeit werden inklusive D*+ einfach und doppelt differenzielle Wirkungsquerschnitte in tiefinelastischer Elektron-Proton Streuung präsentiert. Der kinematische Bereich der Messung erstreckt sich auf 1 GeV² Q² &lt; 100 GeV², 0.05 &lt; y &lt; 0.7 und beschränkt sich auf den zugänglichen Bereich der Datenanalyse, welche durch -1.5 &lt; ηD* &lt; 1.5 und &gt; 1.5 GeV/c gegeben ist. Die Daten für die durchgeführte Messung wurden am H1 Experiment des Beschleunigers HERA in den Jahren 1996 und 1997 gesammelt. Die D*⁺ Mesonen werden dabei über den Zerfallskanal D*⁺ -&gt; -&gt; rekonstruiert, wobei der Nachweis der auftretenden geladenen Zerfallsteilchen in der zentralen Jetkammer des H1 Detektors stattfindet. Das im betrachteten kinematischen Bereich gestreute Elektron wird im neuartigen, rückwärtsgerichteten Kalorimeter SpaCal detektiert. 
+ Im Rahmen der Quantenchromodynamik (QCD) wird die Produktion von D*⁺ Mesonen in tiefinelastischer Elektron-Proton Streuung durch die Fragmentation von Charm Quarks beschrieben, welche die auslaufenden Teilchen des QCD störungstheoretischen Boson-Gluon Fusionsprozesses sind. Die vorliegenden Messungen erlauben deshalb, das bisherige Verständnis der Quantenchromodynamik zu überprüfen. Dies wird durch die Gegenüberstellung von den Messungen mit den störungstheoretischen QCD Berechnungen zusammen mit verschiedenen Fragmentationsmodellen erreicht. 
+ Weiterhin wurde versucht, die Gluondichte im Proton mit Hilfe der ersten Ordnung der DGLAP QCD Störungsrechnung zu extrahieren. Die Analyse zeigt die Notwendigkeit, die zweite Ordnung der QCD Störungstheorie mit einzubeziehen, um die Extraktion der Gluondichte durchführen zu können.</abstract>
+                    <abstract type="content" lang="eng">A measurement of the inclusive D*⁺ single and double differential cross sections in deep inelastic electron-proton scattering is presented in the kinematic range 1 GeV² &lt; Q² &lt; 100 GeV2 and 0.05 &lt; y &lt; 0.7. Additionally, the D*⁺ cross sections are restricted to the visible range of the analysis given by -1.5 ηD* &lt; 1.5 and &gt; 1.5 GeV/c. The measurement is based on the data collected at HERA by the H1 detector in 1996 and 1997. The D*⁺ mesons are reconstructed in the D*⁺ -&gt; -&gt; decay channel, where the charged decay particles are measured in the central jet chambers of the H1 detector. In the studied kinematic range the scattered electron is detected in the new backward calorimeter SpaCal. 
+ In Quantum Chromodynamics (QCD) the production of D*⁺ mesons in deep inelastic electron-proton scattering originate from the fragmentation of charm quarks which are the outgoing particles of the boson-gluon fusion perturbative process. The presented measurement allows therefore to test our understanding of QCD within the frame of charm production by the confrontation with perturbative QCD calculations combined with charm fragmentation models. 
+ In addition the extraction of the gluon density in the proton within the leading order DGLAP formalism was attempted and reveals the necessity of taking into account the QCD next-to-leading order terms for the feasibility of this measurement.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20020015</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_300</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_300">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-394/d080108.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_300"
+            DMDID="DMD_wuppertal_elpub_300">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_300"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

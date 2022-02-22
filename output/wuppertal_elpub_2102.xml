@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_2102">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Grenzüberschreitende Verschmelzungen</title>
+                        <subTitle>- zugleich ein Beitrag zur Europäisierung des Umwandlungsrechts -</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lange, Oliver</displayForm>
+                        <namePart type="family">Lange</namePart>
+                        <namePart type="given">Oliver</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die vorliegende Arbeit befasst sich mit den einzelnen Entwicklungs- und Verfahrensschritten der grenzüberschreitenden Verschmelzung. Die Grundlage der Betrachtung bilden zunächst einige wichtige Aspekte der nationalen Verschmelzung, da das Recht der grenzüberschreitenden Verschmelzung in weiten Teilen darauf zurückgreift. Im Anschluss daran wird die Frage nach der Möglichkeit einer grenzüberschreitenden Verschmelzung nach alter Rechtslage aufgeworfen und beantwortet. Der folgende Teil der Arbeit befasst sich mit den Gründungsmöglichkeiten der Societas Europaee, wobei insbesondere auf die Gründungsform der grenzüberschreitenden Verschmelzung zweier Aktiengesellschaften zu einer SE eingegangen wird. Faktisch stellt dies die erste reglementierte Form einer grenzüberschreitenden Verschmelzung dar. Ein weiterer bedeutsamer Schritt ist die Entscheidung des Europäischen Gerichtshofs in der Rechtssache SEVIC Systems AG, in welcher zum ersten Mal Stellung genommen wird zur Vereinbarkeit der Niederlassungsfreiheit mit der Möglichkeit der grenzüberschreitenden Verschmelzung. Daran anschließend werden sowohl die Richtlinie über die Verschmelzung von Kapitalgesellschaften aus verschiedenen Mitgliedstaaten als auch deren Umsetzung in das deutsche Recht ausführlich dargelegt.</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20110705-105409-5</identifier>
+                    <identifier type="sys">HT016887513</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_2102</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_2102">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2010/lange/db1003.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_2102"
+            DMDID="DMD_wuppertal_elpub_2102">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_2102"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

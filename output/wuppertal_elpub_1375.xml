@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1375">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Neue methodische Konzepte beim Einsatz der MALDI-(TOF)-Massenspektrometrie zur Analyse technischer Polymere sowie tensidischer Produkte auf Basis nachwachsender Rohstoffe</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wulf, Volker</displayForm>
+                        <namePart type="family">Wulf</namePart>
+                        <namePart type="given">Volker</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The work presented here has concentrated on the application of classical MALDI-MS methods for the analysis of products from the fat-chemical industry, such as fatty alcohol ethoxylates. For this, the influence of parameters like sample preparation or various instrument settings on the analysis of polydisperse products was examined. It was possible to show the influence of the laser energy selected and the type of classical MALDI matrix used for the MALDI mass spectra, i.e. on the polymer distributions obtained. 
+Preparing a classical MALDI sample requires mixing the polymer sample, the MALDI matrix and the cationizing salt in a solution and applying this solution to a MALDI target. For optimizing these classical MALDI sample preparations, the MALDI target can be coated with a salt layer and afterwards be covered with an analyte-matrix mixture based on an organic solvent. It could be observed that by means of this procedure, alkaline metal salt adducts of the analyte molecules can be obtained selectively and undesired sub-distributions can be suppressed. 
+On the basis of three selected products (a fatty alcohol ethoxylate, an alkyl polyglucoside and a fatty alcohol ether sulphate) the systematic studies presented in this thesis show how to optimize the MALDI-(TOF)MS analysis of polydisperse active compounds. The results presented have been achieved by a statistical experimental design, with the matrix, the solvent and the salt used being varied throughout the various experiments. For interpreting and evaluating the results gained during these experiments, principal-component analyses and single-variance analyses were used. For example, the characteristics of the potassium-adduct formation by alkyl polyglucosides could be shown in this way. It was possible to determine important parameters for preparing samples of various types of surfactants. Furthermore, it was possible to demonstrate the enormous impact of the matrix and the ionization additive used. In contrast, the solvents used only had a small, that is to say non-significant influence on the target value. For each of the three products two methods could be found, which are highly important for the MALDI analysis of the particular type of surfactant. 
+This work has also concentrated on the testing and enhancement of the solvent-free sample preparation. By more evenly covering the entire target surface with matrix and sample, the reproducibility of the individual mass spectra can be substantially improved. Since this is important for quantitative or semi-quantitative analysis by MALDI-MS, the advantages of this procedure become evident. Experiments have shown that alternative matrices like aluminium oxide or oxalic acid, which do not correspond to classical MALDI concepts, can also be used for laser desorption/ionization. Though the target material does not influence the MALDI process of a sample prepared solvent-free, it could be seen that a specific structure of the target surface has a strong influence on the resulting mass spectra. In addition to the mass spectra obtained, the results could be visualized and thus be attested by means of a scanning electron microscope. A further improvement of the solvent-free sample preparation was made by applying the analyte-matrix mixture to a notch on the target. A homogeneous allocation of sample, matrix and salt of high homogeneity could be observed, which ensured a high lasershot-to-lasershot-reproducibility. Furthermore, these results made it possible to disprove the theory that an interaction of laser light and target surface is of importance for the MALDI processes in lower mass ranges. Experiments with solvent-free prepared samples showed that processes of laser desorption/ionization and matrix-assisted laser desorption/ionization take place. While the ionization in the lower mass range is explainable by laser desorption/ionization processes, a classical MALDI matrix is required to explain the analysis of the polymers in the higher mass range. Hence, in a mass range of 500 - 2000 Da, one could predict an area in which both ionization mechanisms can be applied. This fact is of high importance for qualitative and (semi-)quantitative analyses of technical products. 
+MALDI-Tandem mass spectrometry has been efficiently used to characterize copolymers, for example to differentiate between random and block copolymers. By using different CID techniques and varying the adduct ions, differences in the fragmentation pattern of fatty alcohol alkoxylate copolymers could be exposed. Since lithium makes it possible to visualize most of the fragmentation ions in the MS/MS-spectra and thus provides the best information about the products analysed, advantages in the usage of lithium as a cationizing agent could be seen.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20100145</identifier>
+                    <identifier type="sys">HT016275080</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1375</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1375">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2009/wulf/dc0919.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1375"
+            DMDID="DMD_wuppertal_elpub_1375">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1375"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

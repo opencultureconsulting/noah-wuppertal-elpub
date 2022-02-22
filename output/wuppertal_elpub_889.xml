@@ -1,0 +1,95 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_889">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Enhanced Field Emission from Metallic Surfaces and Nanowires</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dangwal, Arti</displayForm>
+                        <namePart type="family">Dangwal</namePart>
+                        <namePart type="given">Arti</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-11-07</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Metallic surfaces free from enhanced field emission (EFE) are prerequisite for getting 
+the optimum performance of high-voltage vacuum devices such as superconducting niobium 
+radiofrequency cavities for e⁺e⁻ accelerators. With the advancement of surface preparation
+ and cleaning techniques, high performance of superconducting multi-cell cavities with
+ surface fields typically up to 50 MV/m have been achieved. However, the onset of field
+ emission at higher fields still imposes the limitation for future linear accelerators like the
+ European X-ray Free Electron Laser and International Linear Collider. Therefore, systematic
+ field emission investigations were performed on broad area copper and niobium cathodes by
+ means of dc field emission scanning microscope, which has been modernized recently for fast
+ scans.
+ Dry ice cleaning is found to suppress EFE from polycrystalline Cu and Nb and single
+ crystal Nb surfaces more efficiently than the conventionally used high pressure water rinsing.
+ The cleaning effects on the emitting sites were investigated up to the fields of 250 MV/m.
+ The number density of emitters at given fields was drastically reduced by dry ice cleaning.
+ Fowler-Nordheim parameters are partially discussed with respect to the morphology and
+ impurity content of the emitters localized by means of a high resolution scanning electron
+ microscope equipped with energy dispersive x-ray spectroscopy. The microscopy results
+ prove the effective removal of field-emitting particulates down to 400 nm as well as the
+ partial smoothing of surface protrusions by the use of this technique.
+ Measurements on high purity single crystal and large grain Nb samples showed the
+ effects of surface preparation on EFE, with its onset observed at high fields (120 – 200
+ MV/m), due to very smooth surfaces. A low temperature (~ 150 °C) heat treatment in high
+ vacuum for 14 hours on a selected large grain Nb sample gives the evidence for the grain
+ boundary assisted field emission at very high fields above 250 MV/m. An interesting
+ correlation between sizes of all investigated emitters derived from SEM images with respect
+ to their respective onset fields has been found, which might facilitate the quality control of
+ superconducting radio-frequency cavities for linear accelerators.
+ Electron field emission from nanostructures has attracted wide attention in vacuum
+ micro/nano-electronics. Besides various nanostructures, metallic nanowires have been
+ investigated for this purpose. Copper, nickel and gold nanowires of varying wire lengths,
+ diameters and number densities were deposited electrochemically in to the pores of etched
+ ion-track membrane. Electric field maps on Ni nanowire cathodes show up to 10 % of
+ deposited wires as emitters. Thin gold coating on Cu and Ni nanowires has improved the
+ cathode emission properties in terms increased emitter number density and better emission
+ stability. Stable Fowler-Nordheim-like emission was obtained on average up to the currents
+ of ~ 8 µA for individual emission site on Au coated Ni nanowire sample.
+ Au nanowire cathodes yielded up to 40% of deposited nanowires as emitters. A
+ controlled field enhancement ß with the small spread factor (1.23) of individual emitting sites
+ was achieved for thin Au nanowire cathode. The emission current density up to 78 mA/cm²
+ was obtained from agglomerated Au nanowire cathode without any current saturation. Linear
+ dependence of ß on electrode spacing d has been established for all Au nanowire cathodes.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20070849</identifier>
+                    <identifier type="sys">HT015350942</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_889</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_889">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2007/dangwal/dc0713.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_889"
+            DMDID="DMD_wuppertal_elpub_889">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_889"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

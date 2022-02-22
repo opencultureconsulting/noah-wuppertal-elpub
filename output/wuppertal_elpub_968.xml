@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_968">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Numerische Feldberechnung im biologischen Gewebe</title>
+                        <subTitle>Exposition von Personen, Tieren und isolierten biologischen Systemen in elektromagnetischen Feldern</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bitz, Andreas</displayForm>
+                        <namePart type="family">Bitz</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004-03-11</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die vorliegende Arbeit befasst sich mit numerischen Berechnungen elektromagnetischer Felder zur Bestimmung der Exposition von Personen und zur Untersuchung der Wirkung hochfrequenter Felder auf biologische Systeme. 
+Im ersten Teil der Arbeit wird eine Problemstellung aus dem Gebiet des Arbeitsschutzes behandelt, bei der zur Vermeidung einer unzulässig hohen Exposition von Arbeitern Sicherheitsabstände zu Mobilfunk-Basisstationsantennen bestimmt werden müssen. Für die Berechnung der Feldverteilung im menschlichen Körper wird eine Vorgehensweise vorgestellt, die den Integralgleichungsteil der sogenannten Hybrid(2)-Methode mit der Finite-Differenzen-Methode über das Huygenssche Prinzip verknüpft. Der besondere Vorteil dieser Vorgehensweise ist, dass nur die Antenne selbst und ein das Menschmodell einschließendes, relativ kleines quaderförmiges Volumen modelliert werden müssen. Die Vergrößerung des Abstandes zwischen Mensch und Antenne führt daher nicht zu einem größeren Modellierungsaufwand im Gegensatz zu Vorgehensweisen, die die Modellierung der Antenne und des Menschen in einem zusammenhängenden Lösungsgebiet voraussetzen. Es werden erstmals Ergebnisse für die Exposition eines 42 kg-Modells für einen Jugendlichen gezeigt. Für die Bestimmung der Sicherheitsabstände ist die Ganzkörper-SAR für eben dieses 42 kg-Menschmodell die ausschlaggebende Größe. Des Weiteren wird eine Auswertung für die über 10 g-Gewebemasse gemittelte Teilkörper-SAR gewählt, die sich streng am Wortlaut der einschlägigen Norm orientiert. So kann gezeigt werden, dass die bisher allgemein übliche Vorgehensweise zur Bestimmung der Teilkörper-SAR den maximal auftretenden Wert unter Umständen deutlich unterschätzt. Die hier vorgestellte Vorgehensweise kann auch auf komplexere Problemstellungen angewendet werden. So ist es möglich, in der Hybrid-Methode auch realistische Antennenumgebungen, wie strukturierte Fassaden, Gebäude und Fahrzeuge in unmittelbarer Nähe zur Antenne sowie in größerer Entfernung zu berücksichtigen. Auch die Exposition der Allgemeinbevölkerung kann bestimmt werden. 
+Der zweite Teil dieser Arbeit befasst sich mit der Entwicklung von Hochfrequenz-Expositionsanlagen für Untersuchungen an Zellschichten, isolierten Organen und an in Käfigen gehaltenen Kleintieren. Bei letzteren ist die Erzeugung eines homogenen Expositionsfeldes ausschlaggebend für eine geringe Variation der Absorption in den Tieren, insbesondere dann, wenn die Körperabmessungen der Tiere groß im Vergleich zur Wellenlänge sind. Es werden mehrere neue Maßnahmen vorgestellt, die durch Modifikationen im Aufbau der als Expositionskammern eingesetzten radialen Wellenleitungen diese Forderung erfüllen. Somit ist es möglich, große Tiere (Ratten) bei hohen Frequenzen (UMTS-Frequenzbereich) definierten elektromagnetischen Feldern auszusetzen. Bei dem Entwurf der Expositionskammern für ‚in vitro’-Versuche steht die Erfüllung spezieller physiologischer Anforderungen im Vordergrund. So wird erstmals eine mechanisch offene, aber elektromagnetisch geschlossene Expositionskammer gezeigt, welche während der Exposition die Versorgung isolierter Pinealorgane mit Nährflüssigkeit über Schläuche ermöglicht. Ferner wird zum ersten Mal ein Elektrodensystem für niederfrequente ‚on-line’-Widerstandsmessungen an einem Zellmodell der Blut-Hirn-Schranke in eine radiale Wellenleitung integriert.</abstract>
+                    <abstract type="content" lang="eng">This work concerns numerical computations of electromagnetic fields to determine the exposure of the human body in front of base-station antennas of mobile communication systems and to investigate adverse effects of radio frequency fields on biological systems. 
+The first part of the work concerns the determination of safety margins of base station antennas in order to prevent unallowable exposure conditions of workers. The procedure used combines the integral equation part of the so called Hybrid(2)-method and the finite-difference time-domain method by use of the Huygens-principle. The advantage of this approach is that only the surface of the antenna and a limited region enclosing the human body have to be modelled, thus the computational cost is independent from the distance between antenna and human body, unlike methods which use a contiguous solution space for antenna and human body. For the first time, results are shown for the exposure of human body models of adolescent persons with a body mass of 42 kg. It turns out that the whole body specific absorption rate of this body model is the determining factor for safety margins of base station antennas. Furthermore, a new scheme for the evaluation of the 10 g averaged specific absorption rate is presented which matches the basic recommendation. Thereby it is shown that the usual averaging scheme used so far underestimates the maximum 10 g specific absorption rate. 
+The second part of the work deals with the design of rf-exposure setups for investigations on cell-layers, isolated pineal glands, and rodents kept in cages. For the latter, the generation of a uniform exposure field is required in order to minimize the variation of the whole body absorption per animal, especially if the size of the animal exceeds half the wavelength. Therefore, several design modifications of the radial waveguide used as exposure device are presented which meet the above mentioned requirement. Thus, the exposure of large rodents at high frequencies, e.g. exposure of rats with UMTS-like signals, is enabled under well defined conditions. In the case of exposure devices for ‘in vitro’-studies usually specific physiological demands have to be considered. For the first time the design of a mechanical open but electromagnetically fully shielded exposure device is shown which enables the supply of nutrient solution during exposure in experiments with isolated pineal glands. Furthermore, an exposure device with an integrated ‚on-line’-measuring system is presented allowing the measurement of the low-frequency impedance of a BBB model during simultaneous application of a generic UMTS test signal.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20040114</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_968</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_968">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1074/de0401.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_968"
+            DMDID="DMD_wuppertal_elpub_968">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_968"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_2365">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Light Matter Interaction in Nanostructured Materials</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kremers, Christian</displayForm>
+                        <namePart type="family">Kremers</namePart>
+                        <namePart type="given">Christian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In this thesis two aspects of electromagnetic wave interaction with nano structured material are studied. 
+ First, two alternative semi-analytical methods to solve the scattering problem on optical nanowire antenna are introduced. In order to reduce the general three dimensional volume integral equation describing the scattering problem to a simple semi-analytical one dimensional integro-differential equation, both methods utilize solutions of the problem of plane wave scattering on infinite cylinder. A regularization and discretization scheme is proposed in order to transform the integro-differential equations into solely integral equation. This transformation enables to solve the original problem without the necessity to impose additional boundary conditions at the nanowire edges. Numerical evaluation of the proposed methods and their comparison with different numerically rigorous methods is presented for scattering cross-section calculations. Gold nanowires are analyzed at optical and near-infrared spectral range. The introduced one-dimensional semi-analytical methods demonstrate good agreement and superior numerical performance in comparison with rigorous numerical methods. 
+ Second, the radiation of a uniformly moving charge (Cherenkov radiation) inside a general three dimensional (3D) and two dimensional (2D) periodic dielectric medium is studied. In particular analytical expressions for the emission spectrum and for the field distribution in the far-field zone are derived. The obtained formula for the Cherenkov power emitted per unit length (emission spectrum) of the charge trajectory involves the calculations of Bloch modes and corresponding group velocities at limited points of the reciprocal space only. The analysis reveals (i) that the Cherenkov effect exists for every charge velocity (ii) that the radiation can be suppressed if the coupling of the current density produced by a moving charge with a Bloch mode is poor and (iii) that an enhancement of radiated energy is possible if only the component of the group velocity orthogonal to the trajectory of the charge is small. Additional inside in the Cherenkov radiation process is gained from the analytical expression for the field distribution in the far-field zone. It is shown that the far-fieeld radiation can be calculated in a 3D photonic crystal by a surface integral and in a 2D one by a contour integral over just a small fraction of the first Brillouin zone. The spatial variation in the far-field intensity is due to (i) interference of just a few Bloch eigenmodes and (ii) the topological properties of the k-space surface (3D) or contour (2D). The obtained expressions both for the emission spectrum and the field distribution are confirmed by comparison with rigorous numerical calculations. The agreement in both cases is very good where the analytical expressions are faster and much less demanding on computational resources.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20111108-165121-4</identifier>
+                    <identifier type="sys">HT017032709</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_2365</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_2365">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2011/kremers/de1103.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_2365"
+            DMDID="DMD_wuppertal_elpub_2365">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_2365"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

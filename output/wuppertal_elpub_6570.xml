@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6570">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchungen zur Nutzbarmachung von Ligninabbauprodukten als nachwachsende Rohstoffe</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Laun, Sabrina</displayForm>
+                        <namePart type="family">Laun</namePart>
+                        <namePart type="given">Sabrina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">At the recent time, the chemical industry mainly relies on fossil fuels such as oil, gas or coal for all their processes. Approximately 97 % of these resources are used for energy production, while only 3 % of all fossil fuels are provided for production of raw materials like benzene, toluene or xylene. Due to the economic growth, especially in emerging countries, the demand for energy and basic chemicals is significantly increasing. However, due to environmental reasons, the extraction of fossil materials is becoming more and more difficult. 
+Renewable resources are a good alternative, especially as raw materials in the chemical industry. In the pulp and paper industry, where cellulose is extracted from the wood, lignin and its degradation products accrue as waste. The waste liquors consist of a variety of degradation and condensation products of lignin as well as inorganic compounds. Currently, the lignin degradation products are mainly burned to produce energy but they have also high potential for the usage as raw materials in the chemical industry. Furthermore, for economic and ecological reasons, the inorganic compounds should also be recovered. At this point, improved processes would be needed to produce waste liquorswith a reproducible composition. 
+Also, there is a new process to use wood as renewable resource – the organosolv-process in lignocellulosic bioraffinery. This process uses mictures of alcohol and water to frationate wood into cellulose, hemicelluloses and lignin. While cellulose and hemicelluloses can be converted to sugars, applications for lignin are missing. 
+In the first section of this work, different batches of Kraft and Organosolv liquors were characterized and compared. Especially the Kraft liquor shows significant differences from batch to batch in parameters as lignin, inorganic content or in volatile substances. The reasons for the inconstant composition of the waste liquors are that the process chemicals used are not controlled during the reaction and that the end of the reaction is determined only by kappa number. Therefore, a proper process monitoring should be implemented for an integral utilisation of wood in the pulp and paper industry. 
+In the second step, the samples were fractionated by precipitation and extraction to isolate lignin degradation products and to recover other compounds like inorganic substances. For this purpose, various methods have been studied. In the Kraft liquor, lignin products were isolated by acid precipitation and purified by extraction. Furthermore, sulphur could be removed from isolated lignin degradation products. The Organosolv waste liquor contains lignin and hemicelluloses degradation products. The isolation was performed by the addition of water. 
+A gas-chromatographic analysis of the Organosolv waste liquor showed many different compounds of various molecular weights. However, for further usage of the lignin degradation products only a few high-concentrated compounds with similar structures would be needed. A possible method to generate uniform molceluar structures is a thermal treatment. 
+After thermal degradation, the condensed compounds were separated by comprehensive two-dimensional gas chromatography and identified by mass spectrometry. Different monomers like substituted Guaiacyl- and Sinapyl-structures were determined. The condensed thermolysis products were compared to the compounds of the waste liquor and it is shown that thermolysis results in degradation to mono- and dimeric substances. 
+This means, that there is a great potential to uniform the lignin degradation products by thermolysis and use them as renewable aromatic materials in the chemical industry.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170131-091356-9</identifier>
+                    <identifier type="sys">HT019230565</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6570</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6570">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2016/laun/dc1635.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6570"
+            DMDID="DMD_wuppertal_elpub_6570">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6570"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

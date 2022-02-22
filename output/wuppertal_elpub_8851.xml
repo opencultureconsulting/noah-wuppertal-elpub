@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_8851">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Mitwelt, Relevanz und das wirkende Ich: Zu Alfred Schütz’ Programm einer Phänomenologie der natürlichen Einstellung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>da Costa, Tomas</displayForm>
+                        <namePart type="family">da Costa</namePart>
+                        <namePart type="given">Tomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Römer, Inga</displayForm>
+                        <namePart type="family">Römer</namePart>
+                        <namePart type="given">Inga</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-11-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In verschiedenen Kontexten und Phasen seines phänomenologischen Denkens bekundet Alfred Schütz ein tiefgründiges Interesse an der Entwicklung einer Phänomenologie der natürlichen Einstellung. Dabei soll allerdings Schütz’ Idee, die natürliche Einstellung zum Untersuchungshorizont zu machen, nicht als eine Distanzierung gegenüber Aspekten von Edmund Husserls philosophischem Ansatz verstanden werden, sondern als ein phänomenologisches Forschungsprogramm. Das Ziel der Analyse, die dem Entstehungsprozess der Theoriebausteine dieses Programms gewidmet ist, besteht in einer Interpretation eher über den Aufbau von Schütz’ Phänomenologie als über ihre Möglichkeit. Die Überlegungen sehen es auf die Entwicklung einer These über die innere Organisation von Schütz’ Programm ab. Aufgezeigt wird u. a. der Ursprung von Zentralbegriffen unterschiedlicher Entwicklungsphasen des Denkens Schütz’ in Husserls Philosophie, die in diesem Programm die philosophische Hauptreferenz darstellt. Verdeutlicht werden etwa die Modifikationen, die Konzepte wie „Anonymität“ und „Konstitution“ innerhalb von Schütz’ Analysen erfahren. Schütz’ kritische Auseinandersetzung mit Husserls Denken, die sich vor allem auf die transzendentalphänomenologische Behandlung des Intersubjektivitätsproblems bezieht, wird hier in ihren zentralen Momenten zwar rekonstruiert, doch im Vordergrund steht das Ergebnis dieser Kritik ― bzw. die Phänomenologie, die Schütz darauf aufbaut.</abstract>
+                    <classification authority="ddc">100</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » Philosophie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20181114-093408-3</identifier>
+                    <identifier type="sys">HT019886037</identifier>
+                    <accessCondition type="use and reproduction">CC BY-NC-ND 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_8851</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_8851">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fba/philosophie/diss2017/dacosta/da1707.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_8851"
+            DMDID="DMD_wuppertal_elpub_8851">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_8851"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

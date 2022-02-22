@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_7710">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Innovative Planungsgrundsätze für ländliche Mittelspannungsnetze</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Steffens, Philipp</displayForm>
+                        <namePart type="family">Steffens</namePart>
+                        <namePart type="given">Philipp</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Zdrallek, Markus</displayForm>
+                        <namePart type="family">Zdrallek</namePart>
+                        <namePart type="given">Markus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-02-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Vor dem Hintergrund der begrenzten Verfügbarkeit fossiler Energieträger und dem anthropogenen Klimawandel werden weltweit verstärkt Windenergie- und Photovoltaikanlagen errichtet. Diese Entwicklung hat in der Europäischen Union und insbesondere in der Bundesrepublik Deutschland einen Transformationsprozess des leitungsgebundenen elektrischen Energiesystems ausgelöst, der die Aufgaben von Mittelspannungsnetzen im ländlichen Raum grundlegend verändert. Zunehmend ist die installierte Leistung der dezentralen Energiewandlungsanlagen und nicht mehr die maximale Last die auslegungsrelevante Größe. Um einen zulässigen Netzbetrieb zu gewährleisten, sind umfangreiche Investitionsmaßnahmen notwendig. Obwohl bereits zahlreiche innovative Netztechnologien, wie beispielsweise regelbare Ortsnetztransformatoren und Netzautomatisierungssysteme, entwickelt worden sind, werden diese bislang nur selten eingesetzt. Eine wesentliche Ursache hierfür ist, dass bisher keine alternativen Ausbaustrategien und Regeln existieren, die innovative Netztechnologien berücksichtigen. 
+Die vorliegende Dissertation befasst sich daher mit der Entwicklung innovativer Planungsgrundsätze für den Ausbau von ländlichen Mittelspannungsnetzen, die den Einsatz innovativer Netztechnologien in der Netzplanung deutlich vereinfachen. Die Planungsgrundsätze stellen eine regelbasierte Auswahlhilfe dar, mit der in Abhängigkeit von der vorliegenden Problemstellung technische und ökonomisch geeignete Netztechnologien identifiziert werden können. Anhand von exemplarischen Planungsbeispielen sowie einer darauf basierenden statistischen Auswertung wird gezeigt, dass sich mit Hilfe der entwickelten innovativen Planungsgrundsätze die durch den Ausbau dezentraler Energiewandlungsanlagen entstehenden Gesamtkosten im Mittel um 90 % reduzieren lassen. Außerdem werden in der Arbeit Methoden für sektorenübergreifende Netzplanungen von Strom- und Gasnetzen mit der Power-to-Gas-Technologie vorgestellt.</abstract>
+                    <subject>
+                        <topic>Planungsgrundsätze</topic>
+                        <topic>Netzausbau</topic>
+                        <topic>Netzplanung</topic>
+                        <topic>Zielnetzplanung</topic>
+                        <topic>Mittelspannungsnetz</topic>
+                        <topic>Verteilungsnetz</topic>
+                        <topic>Netztechnologien</topic>
+                        <topic>Netzautomatisierung</topic>
+                        <topic>Spitzenkappung</topic>
+                        <topic>rONT</topic>
+                        <topic>Einspeisemanagement</topic>
+                        <topic>Erneuerbare Energien</topic>
+                        <topic>Power-to-Gas</topic>
+                    </subject>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ddc">600</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20180221-105543-4</identifier>
+                    <identifier type="sys">HT019599032</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_7710</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_7710">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2018/steffens/de1801.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_7710"
+            DMDID="DMD_wuppertal_elpub_7710">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_7710"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

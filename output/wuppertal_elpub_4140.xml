@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_4140">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchungen zu Phloembeladungsmechanismen bei Laubbäumen am Beispiel von Quercus robur und Fraxinus excelsior</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Öner-Sieben, Soner</displayForm>
+                        <namePart type="family">Öner-Sieben</namePart>
+                        <namePart type="given">Soner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Phloembeladung ist ein zentraler Mechanismus in der Translokation von Fotoassimilaten von den Orten der Fotosynthese zu den heterotrophen Organen einer Pflanze. Das Wissen über diesen Prozess stammt in erster Linie aus Untersuchungen an krautigen Pflanzen – wenig ist über diesen Mechanismus in Bäumen bekannt. Aufgrund einiger physiologischer Besonderheiten von Bäumen werden diese überwiegend zu den passiven Phloembeladern gezählt, während bei krautigen Pflanzen bekannt ist, dass die Phloembeladung aktiv apoplastisch oder aktiv symplastisch abläuft. Da nur wenige empirische Daten über die Beladung des Phloems in Gehölzen vorliegen, wurde im Rahmen dieser Arbeit die Phloembeladung an zwei repräsentativ ausgewählten Baumarten im Detail untersucht. Ausgehend von der Anatomie der kleinsten Blattadern (minor veins) und der im Phloem transportierten Zucker wird Quercus robur (Stiel-Eiche) zu den passiven Phloembeladern gezählt, während Fraxinus excelsior (Gemeine Esche) einen für aktiv symplastische Belader typischen Aufbau des Phloems aufweist. 
+
+ Es konnte mithilfe der Nicht-wässrigen Fraktionierung (NWF) gezeigt werden, dass in beiden Arten das Phloem aktiv beladen werden muss, da ein steiler Konzentrationsgradient der Transportzucker in Richtung Mesophyll eine rein passive Diffusion verhindert. Zusätzlich wurden Saccharose-Transporter (SUT) für Q. robur (QrSUT1) und F. excelsior (FeSUT1) isoliert und in Hefe charakterisiert. Es zeigte sich, dass beide Transporter Saccharose transportieren können und über SUT-typische Substrataffinitäten verfügen (QrSUT1 = 6,78 mM, FeSUT1 = 2,08 mM). Der Transporter FeSUT1 konnte mit spezifischen Antikörpern in den Geleitzellen des Phloems nachgewiesen werden, was seine Bedeutung für die Beladung des Phloems mit Saccharose unterstreicht. 
+
+ Quantitative Real-Time PCR-Analysen zeigten, dass in beiden Arten die Transporter in allen untersuchten Geweben und zu jeder Jahreszeit exprimiert wurden. Bei Q. robur ist die Expression von QrSUT1 in source-Blättern am stärksten, während FeSUT1 bei F. excelsior vor allem in Wurzeln exprimiert wird. Für Q. robur spielt der SUT-vermittelte apoplastische Beladungsweg vermutlich eine geringere Rolle als für F. excelsior. 
+
+ Die Ergebnisse dieser Arbeit zeigen, dass der für Bäume generell postulierte passive Beladungsmechanismus in den beiden untersuchten Arten nicht zutrifft. Vielmehr ist davon auszugehen, dass das Phloem in ähnlicher Weise wie bei krautigen Pflanzen aktiv beladen wird. Q. robur ist wahrscheinlich ein aktiver apoplastischer Belader, während F. excelsior das Phloem aktiv symplastisch und apoplastisch belädt.</abstract>
+                    <classification authority="ddc">570</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Biologie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20140813-122526-9</identifier>
+                    <identifier type="sys">HT018372056</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_4140</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_4140">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/biologie/diss2014/oenersieben/dc1416.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_4140"
+            DMDID="DMD_wuppertal_elpub_4140">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_4140"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

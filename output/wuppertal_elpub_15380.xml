@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_15380">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wort oder Wortteil? Empirische Untersuchung zum Status der Erstglieder in Nomen-Verb-Verbindungen.</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Terboven, Frederik</displayForm>
+                        <namePart type="family">Terboven</namePart>
+                        <namePart type="given">Frederik</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-11-02</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Dissertationsschrift untersucht den Status der Erstglieder sogenannter Nomen-Verb-Verbindungen als selbständiges Wort oder als integrierter Teil eines komplexen sprachlichen Zeichens.
+ Dabei wird im ersten Teil ein definitorischer Rahmen geschaffen, mit dem die bislang nach ihrer angenommenen Bildungsart in Rückbildungen, Konversionen und Inkorporationen eingeteilten Nomen-Verb-Verbindungen anhand ihres morphosyntaktischen Verhaltens kategorisiert werden können.
+ Der zweite Teil untersucht vermittels empirisch erhobener Sprecherurteile den Status der nominalen Erstglieder als selbständiges Wort aufgrund deren Determinierbarkeit, Modifizierbarkeit und Referenzialität.</abstract>
+                    <classification authority="ddc">430</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » Germanistik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20211102-112328-8</identifier>
+                    <identifier type="doi">10.25926/kq21-5j83</identifier>
+                    <identifier type="sys">HT021152395</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_15380</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_15380">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fba/germanistik/diss2021/terboven/da2101.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_15380"
+            DMDID="DMD_wuppertal_elpub_15380">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_15380"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

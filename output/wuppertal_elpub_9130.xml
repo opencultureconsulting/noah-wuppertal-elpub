@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9130">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Architekturtheoretische Perspektive auf den Begriff der Star-Architektur</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hackenfort, Thomas</displayForm>
+                        <namePart type="family">Hackenfort</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-02-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Star-Architektur? Das ist bekanntlich die spektakuläre Form heutiger Architektur, die begeisterte Touristen weltweit aufsuchen, gebaut von der kleinen Gruppe berü&#129;hmter Architekten, die vor allem an der ausgiebigen Selbstdarstellung interessiert sind und die lokale Kultur, die Anforderungen der Auftraggeber, die Bedü&#129;rfnisse der Menschen des Ortes oder Kostenvorgaben ignorieren. Seit einigen Jahren schon hat man Stararchitektur beinahe unvermeidlich ü&#129;berall gesehen, darü&#129;ber gelesen, davon gehört, in den Zeitungen, Magazinen, Reisefü&#129;hrern oder vor Ort in den Städten, die noch immer im global ausgetragenen Wettbewerb um den nächsten architektonischen Urknall stehen, fü&#129;r den sie enorme Summen mit dem Ziel investieren, sich aus einer ökonomischen oder kulturellen Misere katapultieren zu können.
+ Offensichtlich, oder doch nur scheinbar, wissen wir, worü&#129;ber wir sprechen, wenn es um die Architektur der Stars geht. In der Absicht, selbst weitverbreitete Annahmen zu hinterfragen, vermeintliche Gewissheiten in Zweifel zu ziehen oder Erkenntnisse ü&#129;ber die Hintergrü&#129;nde manifest gewordener Effekte und Phänomene zu gewinnen, bestehen Anspruch und Herausforderung wissenschaftlicher Forschung und Debatten gleichwohl darin, deren entscheidende Ursachen, Entstehungsbedingungen und Entwicklungsfaktoren zu durchleuchten.
+ In dieser Hinsicht ist dem Themenkomplex der Stararchitektur besonders seit Beginn des 21. Jahrhunderts eine tatsächlich deutlich gewachsene akademische Aufmerksamkeit zuteil geworden. Zahlreiche einschlägige Veröffentlichungen der letzten Jahre zeigen ein zumindest prinzipiell wissenschaftliches Interesse daran, die Funktionsweise der Stararchitektur zu analysieren, zu verstehen und zu erklären, auch wenn es sich hierbei ü&#129;berwiegend um Publikationen der angloamerikanischen Wissenschaftsgemeinde handelt.
+ Auf der Basis einer systematischen Übersichtsarbeit, die alle maßgeblich und ausdrü&#129;cklich die Zusammenhänge der Stararchitektur untersuchenden, einem Grundverständnis nach akademischen Studien umfasst, argumentiert diese Dissertation, dass der Begriff eine inhärente Unschärferelation aufweist, die in Abhängigkeit der gewählten Forschungsperspektive die Bestimmung einzelner Faktoren und Zusammenhänge ermöglicht, ebenso zugehörige andere zugleich aber undeutlich werden lässt. Aus Sicht der Architekturtheorie und -geschichte analysiert diese Arbeit den in im genannten Rahmen gefü&#129;hrten Diskurs ü&#129;ber den Stararchitektur-Begriff und lässt dabei erkennen, welche Hemmnisse bei dem Versuch zu erwarten sind, verlässliche Kriterien der Planung und Umsetzung zukü&#129;nftig beabsichtigter Stararchitektur-Projekte zu bestimmen.</abstract>
+                    <classification authority="ddc">720</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Architektur und Bauingenieurwesen » Architektur"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20190214-121122-2</identifier>
+                    <identifier type="sys">HT019991028</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9130</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9130">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/architektur/diss2019/hackenfort/dd1901.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9130"
+            DMDID="DMD_wuppertal_elpub_9130">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9130"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

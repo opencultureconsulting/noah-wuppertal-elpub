@@ -1,0 +1,85 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_513">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Abbau von Chlorbenzol in Pseudomonas putida GJ31: das Plasmid pKW1</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kunze, Markus</displayForm>
+                        <namePart type="family">Kunze</namePart>
+                        <namePart type="given">Markus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002-12-19</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Ziel dieser Arbeit war zum einen die Untersuchung der genetischen Umgebung des für die Säurechlorid-stabile Chlorcatechol-2,3-Dioxygenase kodierenden Gens cbzE, zum anderen die Suche nach weiteren degradativen Genen eines meta-Abbauweges sowie eines oberen Abbauweges in Pseudomonas putida Stamm GJ31. 
+
+· Die Übertragungsrichtung für Hybridstämme, die aus einer ungerichteten Konjugation der Wildtypstämme Pseudomonas putida Stamm GJ31 und Pseudomonas putida Stamm PaW1 hervorgegangen waren, konnte durch die RAPD-PCR-Methode erfolgreich bestimmt und somit Aussagen über die eingesetzten Stämme bezüglich ihrer Funktion als Donor beziehungsweise Akzeptor beim konjugativen Gentransfer gemacht werden. 
+
+· Aus Pseudomonas putida Stamm GJ31 konnte ein etwa 180 kbp großes Plasmid isoliert werden. Durch Hybridisierungsexperimente konnte gezeigt werden, dass das für den Chlorbenzol-Abbau erforderliche Gen cbzE auf einem 2,4 kbp großem SspI-Fragment des Plasmides lokalisiert ist. Durch sogenanntes &quot;Benzoat-Curing&quot; konnten Chlorbenzol-negative Derivate CB⁻ von Stamm GJ31 erhalten werden. Hybridisierungsexperimente mit cbzE als Sonde machten deutlich, dass cbzE in diesen Derivaten nicht mehr vorhanden ist. PCR-Experimente mit Primern aus cbzE bestätigten diesen Befund. 
+
+· Mithilfe von PCR-Verfahren konnte ein Bereich von etwa 6,3 kbp upstream und 11,0 kbp downstream von cbzE kloniert und sequenziert werden. Aus der Sequenzanalyse ergab sich, dass upstream von cbzE ein Teil eines Transfer-Operons mit den offenen Leserahmen traNEOFG gefolgt von einer Transposase tnpA(1) angeordnet ist. Downstream von cbzE folgen die offenen Leserahmen cbzG, GST, tnpA(2), cbzJ, die für die Genprodukte 2-Hydroxymuconsäuresemialdehyd-Dehydrogenase, Gluthation S-Transferase, Transposase und 2-Keto-4-pentenoat-Hydratase kodieren. Die sich daran anschließende Sequenz besitzt eine sehr große Ähnlichkeit mit dem Transposon Tn5501. 
+
+· Auf dem Plasmid konnten mehrere, in Form eines Clusters vorliegende Gene eines meta-Weges lokalisiert und sequenziert werden. Diese bilden vermutlich mit einem vorangestellten, entgegengesetzt transkribierten Regulatorgen aus der gntR-Familie ein Operon, das große Homologien zu Operons des dioxygenolytischen Abbaus von 3-Phenylpropionsäure aus E. coli K12 und Comamonas testosteroni Stamm TA441 aufweist. Auf dem 9632 bp großen Fragment konnten die folgenden zehn neuen offenen Leserahmen ORF1, ORF2, cbzK, cbzQ, cbzJ, cbzF, cbzE(2), gntR, ORF3, ORF4 identifiziert werden. Dabei kodieren die offenen Leserahmen ORF1 und ORF2 vermutlich für ein Porin und ein Transporter-Protein für 4-Hydroxybenzoat. Die Gene des meta-Weges cbzKQJFE(2) kodieren für 4-Hydroxy-2-oxovalerat-Aldolase (cbzK), Acetaldehyd-Dehydrogenase (cbzQ), 2-Keto-4-pentenoat-Hydratase (cbzJ(2)), 2-Hydroxy-6-ketonona-2,4-dienoat-Hydrolase (cbzF) und die meta-spaltende 2,3-Dihydroxyphenylpropionat-1,2-Dioxygenase (cbzE(2)). Das Gen gntR kodiert vermutlich für einen Transkriptions-Aktivator aus der gntR-Familie. Die Funktionen der offenen Leserahmen ORF3 und ORF4 sind zur Zeit unbekannt. 
+
+· Durch Hybridisierungsexperimente konnte nicht nur die Zugehörigkeit von cbzE und des gefundenen meta-Operons zum Plasmid, sondern auch die räumliche Nähe und die Orientierung dieser beiden Gen-Abschnitte zueinander durch eine Restriktionskartierung ermittelt werden. 
+
+· Die degradativen Gene cbzG (2-Hydroxymuconsäuresemialdehyd-Dehydrogenase), cbzJ und cbzJ(2) (2-Keto-4-pentenoat-Hydratase), cbzE(2) (Catechol-2,3-Dioxygenase), cbzF (2-Hydroxy-6-ketonona-2,4-dienoat-Hydrolase), cbzQ (Acetaldehyd-Dehydrogenase) konnten erfolgreich exprimiert werden und somit ihre aufgrund von Sequenzvergleichen zugeschriebenen Funktionen durch enzymatische Untersuchungen bestätigt werden. 
+
+· Ferner wurde ein 5493 bp großes Fragment kloniert und sequenziert, auf dem die folgenden sechs neuen offenen Leserahmen cbzAa, cbzAb, cbzAc, cbzAd, cbzB und cbzE(3) identifiziert werden konnten. Sequenzvergleiche zeigten, dass die Gene cbzAaAbAcAd für die vier Untereinheiten des Multienzym-Komplexes der Chlorbenzol-Dioxygenase kodieren, während cbzB die dazu korrespondierende cis-Dihydrodiol-Dehydrogenase verschlüsselt. Die Dioxygenase cbzE(3) liegt als unterbrochener Leserahmen mit einer Rasterschubmutation vor, vergleichbar mit den Dioxygenasen-Genen todE aus Pseudomonas putida Stamm F1 und tecE aus Burkholderia sp. Stamm PS12. Die Gene und Genprodukte sind eng verwandt mit denen für den Toluol- (todC1C2BADE) und Benzol-Abbau (bedC1C2BA und bznABCD) und entfernt verwandt zu denen für den Abbau von Biphenyl, Naphthalin und Benzoat. 
+Hybridisierungsexperimente mit cbzB als Sonde machten deutlich, dass dieser Gencluster im Gegensatz zu den beiden anderen plasmidisch kodierten Clustern nur auf dem Genom vorhanden ist.</abstract>
+                    <abstract type="content" lang="eng">The objective of this study was on the one hand the analysis of the genetic environment of the suicide stable catechol-2,3-dioxygenase cbzE and on the other hand the search for further degradative meta pathway and upper pathway genes, respectively, in Pseudomonas putida strain GJ31. 
+
+· It was found that RAPD PCR method is suitable to determine the direction of gene transfer in conjugation experiments between the wild type strains of Pseudomonas putida strain GJ31 and Pseudomonas putida strain PaW1 relative to their behaviour as donor and acceptor, respectively. 
+
+· Pseudomonas putida strain GJ31, which is able to grow on chlorobenzene via the meta cleavage pathway, was found to carry the plasmid pKW1 with a size of about 180 kbp. Activity experiments of wild type GJ31 and a &quot;benzoate cured&quot; derivative QM1 that have lost the ability to grow on chlorobenzene (CB⁻) as the sole carbon source gave a hint that the catabolic genes coding for the chlorobenzene degrading enzymes, designated cbz, are located on this plasmid. Hybridization experiments with cbzE as radioactive probe show both the presence of cbzE on a 2.4 kbp SspI-fragment of the plasmid and the absence of cbzE in the &quot;benzoate cured&quot; derivative QM1. These results were confirmed by PCR experiments. 
+
+· PCR analysis of the genetic region flanking the cbzE gene revealed upstream about 6,3 kbp and downstream about 11,0 kbp new nucleotide sequence. Upstream of cbzE a part of a transfer operon with the open reading frames traNEOFG followed by a transposase gene were identified. Downstream of cbzE the following open reading frames cbzG, GST, tnpA(2), cbzJ encode 2-hydroxymuconate-semialdehyde dehydrogenase, glutathione S-transferase, transposase and 2-keto-4-pentenoate hydratase followed by a region with high similarity to transposon Tn5501. 
+
+· Via PCR experiments a region was found that exhibits high similarity to meta pathway operons for the dioxygenolytic pathway for initial catabolism of 3-phenylpropionate of Escherichia coli K12 and Comamonas testosteroni strain TA441, respectively. Sequence analysis of this 9632 bp fragment revealed the following ten new open reading frames ORF1, ORF2, cbzK, cbzQ, cbzJ, cbzF, cbzE(2), gntR, ORF3 and ORF4 in this order. The open reading frames ORF1 and ORF2 probably encode a porin and a 4-hydroxy-benzoate transporter protein. The meta pathway genes cbzKQJFE(2) encode 4-hydroxy-2-oxovalerate aldolase (cbzK), acylating acetaldehyde dehydrogenase (cbzQ), 2-keto-4-pentenoate hydratase (cbzJ(2)), 2-hydroxy-6-ketonona-2,4-dienoate hydrolase (cbzF) and the meta cleavage 2,3-dihydroxyphenylpropionate 1,2-dioxygenase (cbzE(2)). The gene gntR, encoding a putative transcriptional activator of the gntR family, was located adjacent to the meta cluster in the opposite orientation. The functions of ORF3 and ORF4 are not known at present. 
+
+· Hybridization experiments show both the belonging of cbzE and the meta pathway operon to the plasmid and the orientation of this two closely neighbouring regions to each other. 
+
+· The function of the meta cleavage genes cbzG (2-hydroxymuconate-semialdehyde dehydrogenase), cbzJ and cbzJ(2) (2-keto-4-pentenoate hydratase), cbzE(2) (catechol 2,3-dioxygenase), cbzF (2-hydroxy-6-ketonona-2,4-dienoate hydrolase), cbzQ (acylating acetaldehyde dehydrogenase) were characterised by cloning into an expression vector and following enzymatic analysis of their products in E. coli cells. 
+
+· Furthermore a 5493 bp region was found that contains the following six new open reading frames cbzAa, cbzAb, cbzAc, cbzAd, cbzB and cbzE(3). Sequence comparisons revealed that while cbzAaAbAcAd genes encode the four subunits of the multi enzyme complex chlorobenzene dioxygenase, the cbzB gene encodes for the corresponding cis-dihydrodiol dehydrogenase. The gene cbzE(3) exists as an discontinuous open reading frame with high similarity to both the todE catechol 2,3-dioxygenase of Pseudomonas putida strain F1 and tecE of Burkholderia sp. strain PS12. Both homologues exist only as deletion remnants. Furthermore the genes and gene products are most closely related to those for toluene (todC1C2BADE) and benzene degradation (bedC1C2BA and bznABCD) and distantly to those for biphenyl, naphthalene and benzoate degradation. 
+Hybridization experiments with cbzB as radioactive probe show that in contrast to the plasmid encoded pathways described above, the upper pathway operon is located on the chromosome.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20020463</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_513</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_513">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-608/d090206.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_513"
+            DMDID="DMD_wuppertal_elpub_513">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_513"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

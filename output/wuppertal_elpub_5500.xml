@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5500">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Search for a heavy Scalar Boson in the 2 Higgs Doublet Model with the ATLAS Detector</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ernis, Gunar</displayForm>
+                        <namePart type="family">Ernis</namePart>
+                        <namePart type="given">Gunar</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The analysis presented in this thesis shows a search for a heavy scalar boson in the 2-Higgs-doublet-model (2HDM) framework, carried out in the h -&gt; WW -&gt; e v mu v decay channel. Under the assumption, that the light Higgs boson of the 2HDM coincides with the particle discovered with a mass of 125 GeV, the search is performed in the cos(b-a) vs. m_H plane using 20.3 fb^-1 of collision data recorded by the ATLAS detector in 2012 with a centre-of-mass energy of 8 TeV. Since no evidence for an additional heavy Higgs boson H can be found in the investigated mass range of 135 GeV to 1000 GeV, excluded phase space regions with 95% CL are given for Type-I and Type-II 2HDMs for different values of tan(b). In both models, large parts of the parameter space can be excluded for masses up to 1000 GeV.</abstract>
+                    <subject>
+                        <topic>Teilchenphysik</topic>
+                        <topic>ATLAS</topic>
+                        <topic>BSM</topic>
+                        <topic>Particle Physics</topic>
+                        <topic>2HDM</topic>
+                    </subject>
+                    <classification authority="ddc">530</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20160128-101729-9</identifier>
+                    <identifier type="sys">HT018890412</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5500</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5500">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2015/ernis/dc1531.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5500"
+            DMDID="DMD_wuppertal_elpub_5500">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5500"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

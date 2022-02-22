@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_15462">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Search for Low Relativistic Magnetic Monopoles at the IceCube Neutrino Observatory</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lauber, Frederik Hermann</displayForm>
+                        <namePart type="family">Lauber</namePart>
+                        <namePart type="given">Frederik Hermann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-02</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Magnetic monopoles, carriers of magnetic charge, are particles theorized to exist for nearly a century. No detection of such particles has been substantiated as of yet. One explanation for this could be a high rest mass of such particles. In this case, creation of magnetic monopoles could only have happened in early epochs of the Universe. Thus, their density would be diluted by the consequent expansion of the Universe. As magnetic monopoles carry magnetic charge, they undergo acceleration by magnetic fields. Due to the cosmic magnetic fields, their expected velocity at the position of the Earth ranges from 10-3 c to close to c. The IceCube Neutrino Observatory (IceCube) utilizes a cubic kilometer of natural Antarctic ice as a detection medium for neutrinos. Designed to measure Cherenkov light emitted by secondary particles of neutrino-ice interactions, it is also suited to detect magnetic monopoles. Previous searches at IceCube focused on Cherenkov light either produced directly or indirectly by magnetic monopoles or theorized light production channels like catalysis of nucleon-decay. This left the low relativistic regime between 0.1 c to 0.55 c untested. Luminescence light is induced by the conversion of kinetic energy of a magnetic monopole passing through a target material to atomic or molecular excitations of said target material. This thesis establishes luminescence light as a new light production channel to detect magnetic monopoles at IceCube. An analysis is presented probing the low relativistic regime at IceCube for the first time. 2524.6 days of IceCube data taken between the seasons of 2011/2012 and 2017/2018 are investigated for magnetic monopole signatures. No excess of monopole candidate was detected. The possible flux of magnetic monopoles in the low relativistic regime is restrained down to 9.6 × 10-19 cm-2 s-1 sr-2, a two order of magnitude improvement over previous best flux limits.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20211202-100837-4</identifier>
+                    <identifier type="doi">10.25926/gph1-vf51</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_15462</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_15462">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2021/lauber/dc2123.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_15462"
+            DMDID="DMD_wuppertal_elpub_15462">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_15462"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

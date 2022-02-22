@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_973">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Nanoimprint lithography as an alternative fabrication technique: towards applications in optics</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Zankovych, Sergiy</displayForm>
+                        <namePart type="family">Zankovych</namePart>
+                        <namePart type="given">Sergiy</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004-08-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The research work for thesis focuses on one of imprint-based techniques, namely, Nanoimprint Lithography, which relies on the pressing of a stamp into a printable polymer heated above the glass transition temperature. Of particular interest are the potentials of this technique to fabricate devices for optical applications. The general topic of this work is the development of a competitive fabrication process, starting from stamp fabrication up to the demonstration of a finished optical device. Beside process development, considerable attention is paid to the understanding of the physical concepts of printing, potentials and limitations of it, which are due to the material properties on nm scale, and to the development of new polymers. Considering the key issues and challenges in becoming a competitive fabrication technology, the salient aspects of nanoimprint lithography addressed here are: printable materials, stamps, resolution, adhesion, reproducibility and throughput, among others.
+ Two kinds of stamps, metal-on-silicon and polymer-based, containing features of dimension controlled on the scale down to 20 nm are fabricated. It is shown that material properties, like the molecule size of used resist and the metal grain size, mainly limit the control of feature size.
+ The results of printing of number of polymers, like PMMA, PTFE, PS, mr L 6000, are shown and discussed with respect to the feasibility of the control of feature size. It is shown that size of polymer molecule, i.e., viscoelestic properties, and the mechanical recovery are a major limiting factor on the nm scale, which affect both the adhesion to the stamp and the final feature shape.
+ The investigations of the luminescence properties of multiple quantum well substrates, in particular GaAs/Al0.3Ga0.7As and Ga0.47In0.53As/InP, are carried out after being subjected to the nanoimprinting process. No degradation of optical properties is found for printing temperatures below 190°C and pressures up to 200 bar.
+ The process capabilities of nanoimprint lithography are exemplified here with the fabrication of passive polymer optical elements, such as PMMA diffraction grating and polystyrene-on-silicon oxide rib waveguide.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20040385</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_973</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_973">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1079/de0406.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_973"
+            DMDID="DMD_wuppertal_elpub_973">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_973"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

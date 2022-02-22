@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_10700">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Untersuchung der mikrostrukturellen Stabilität in Relation mit der Wasserstoffversprödung von austenitischen FeCrNi-Legierungen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Fussik, Robert</displayForm>
+                        <namePart type="family">Fussik</namePart>
+                        <namePart type="given">Robert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-07-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Austenitic stainless CrNi-steels are generally known as non-sensitive to hydrogen embrittlement. However, this only applies to stable systems. In contrast, unstable CrNi-steels are characterized by a low thermal stability of the austenitic matrix and convert into bcc α&apos;-martensite by external thermally and/or mechanically induced strain. This is accompanied by a significant increase in strength, and high susceptibility to an early failure of the unstable CrNi-steels under H₂ atmosphere. In this context, the present work deals essentially with the effect of deformation-induced phase transformation on the mechanical properties at room temperature (RT), both in air and under H₂ compressed gas atmosphere. In addition to the macrostructural properties, the microstructural properties with respect to the local phase stability are considered. In particular, the influence of the chemical constitution on the global and local stability, starting from solidification, is investigated.
+ The experimental investigations were carried out using commercial steels of type AISI 304L (EN 1.4307) and AISI 316L (EN 1.4435). Beyond that, modifications based on steels of the AISI grades 304, 305 and 316 were analyzed. Mechanical material testing was essentially carried out using uniaxial tensile tests at RT in air and under H₂ compressed gas atmosphere. The cyclic tensile tests in air were used to analyze the α&apos;-martensite generated as a function of strain, which was determined using feritscope measurements. X-ray diffraction tests were used to identify all phases and quantify their amounts before and after material failure. Moreover, X-ray diffraction was used to determine experimentally the stacking fault energy (SFE) at RT. All microstructure analyses were performed using light and scanning electron microscopy by using of the energy dispersive X-ray spectroscopy. The latter were also used for the microstructural investigation of the local element distribution. To estimate the global and local austenite stability, empirical equations as well as thermodynamic calculation approaches using Thermo-Calc software were used.
+ The matrix of unstable austenitic CrNi-steels with a dominant content of α&apos;-martensite after material failure, converts both directly and indirectly via the intermediate stage of the ε-martensite to α&apos;-martensite. If no deformation-induced ε-martensite occurs during deformation, the formed amount of α&apos;-martensite is significantly lower. It was therefore concluded that the existence of ε-martensite must be responsible for the significant increase in the α&apos;-martensite amount. In addition, the existence of ε-martensite is linked to the SFE of the alloy under consideration. Unstable austenitic CrNi-steels with an SFE ≤20 mJ/m² tend to undergo an indirect γ→ε→α&apos; transformation under mechanical stress, while austenitic CrNi-steels with an SFE &gt;20 mJ/m² tend to a undergo direct γ→α&apos; transformation. With increasing SFE, the propensity to α&apos;-martensite formation decreases significantly, so that above an SFE of about 26 mJ/m² the martensitic phase transformation is significantly inhibited or even completely suppressed. Under the assumption that atomically dissolved hydrogen in the fcc crystal lattice reduces the SFE of CrNi-steels, the increase in α&apos;-martensite under H₂ atmosphere could be explained. Accordingly, the hydrogen penetrated into the steel must reduce the SFE to values below 20 mJ/m², which in turn allows ε-martensite to form and ultimately leads to higher α&apos;-martensite contents due to the γ→ε→α&apos; conversion sequence. Commercially produced CrNi-steels show local concentration differences of the alloying elements. These microsegregations are responsible for the inhomogeneous distribution of the local properties. This also includes the local phase stability, which significantly influences the global properties. In this context, it could be shown that a global consideration of the austenite stability of low-alloyed unstable austenitic CrNi-steels is not sufficient to assess the susceptibility to hydrogen embrittlement. Regarding a thermal reduction of the concentration gradients, it was established that microsegregations in technically relevant process times cannot be completely eliminated by heat treatment. However, taking solidification simulations into account, it was shown that the degree of segregation of Cr and Ni is lower the more single-phase the primary solidification from the melt takes place. Primary ferritic solidification favors a compensation of austenite stability between segregated areas due to the dominantly contrary segregation of alloying elements. The most pronounced local concentration differences were observed in alloys with balanced amounts with respect to the ferritic or austenitic phases. The decisive factor is therefore a dominant single-phase solidifying amount of either austenite or ferrite of more then 50 Vol.-%. The key finding of this work is that a high and homogeneously distributed austenite stability, taking into account all alloying elements, has a beneficial effect on the resistance of austenitic CrNi steels to hydrogen-induced embrittlement.-+</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Maschinenbau und Sicherheitstechnik » Maschinenbau"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20200723-103552-5</identifier>
+                    <identifier type="doi">10.25926/4anw-x449</identifier>
+                    <identifier type="sys">HT020703901</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_10700</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_10700">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/maschinenbau/diss2020/fussik/dd2004.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_10700"
+            DMDID="DMD_wuppertal_elpub_10700">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_10700"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

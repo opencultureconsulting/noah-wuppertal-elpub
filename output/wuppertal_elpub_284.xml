@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_284">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>A </nonSort>
+                        <title>Detailed Study of Perturbative QCD Predictions in e+e- Annihilation and a Precise Determination of α[s]([M[z]]) - (Consistent Measurements of α[s] from Precise Oriented Event Shape Distributions)</title>
+                        <subTitle>(Consistent Measurements of αₛ from Precise Oriented Event Shape Distributions)</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hahn, Siegfried</displayForm>
+                        <namePart type="family">Hahn</namePart>
+                        <namePart type="given">Siegfried</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-03-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">An updated analysis using about 1.5 million events recorded at √s = MZ with the DELPHI detector in 1994 is presented. Eighteen infrared and collinear safe event shape observables are measured as a function of the polar angle of the thrust axis. The data are compared to theoretical calculations in Ο(αₛ²) including the event orientation. Detailed studies of the renormalization scale dependence of the Ο(αₛ²) predictions have been performed, including fits applying experimentally optimized renormalization scale values as well as theoretically motivated scale setting prescriptions. It is found, that in general the predictions fail to describe the data if a renormalization scale value μ² = MZ2 is applied. In this case, the slope of the observed distributions is badly described and the stability of αₛ(MZ2) with respect to a variation of the fit range is poor. These deviations with respect to the data propagate into the matched predictions of O(αₛ²) and next-to-leading log approximation (NLLA), making them also inappropriate for an accurate description of the high precision data. An excellent description of the 18 event shape distributions in Ο(αₛ²) precision is obtained if the renormalization scale value is fitted to the individual data distributions. The stability of the fits with respect to a variation of the fit range is very good. The scale values obtained from the fits are found to be similar to those predicted by the effective charge method (ECH) and the principle of minimal sensitivity (PMS). The influence of higher order contributions was also investigated by using the method of Padé approximants to obtain an estimate of the uncalculated Ο(αₛ³) contribution as well as for the sum of the perturbative series. The renormalization scale dependence of the Padé predictions is found to be largely reduced with respect to the Ο(αₛ²) predictions. A combined fit of αₛ and of the renormalization scale in Ο(αₛ²) to the 18 oriented event shape distributions yields a perfectly consistent set of 18 measurements of the strong coupling. A weighted average from 18 observables yields αₛ(MZ2) = 0.1174 ± 0.0026. This result accounts for heavy quark mass effects and considers correlations between the individual measurements. The final result, derived from the jet cone energy fraction, the observable with the smallest theoretical and experimental uncertainty, is αₛ(MZ2) = 0.1180 ± 0.0006 (exp.) ± 0.0013 (hadr.) ± 0.0008 (scale) ± 0.0007 (mass). This value is in perfect agreement with recent αₛ determinations from renormalization group improved predictions for the Bjorken sum rule and the hadronic decay of the τ lepton.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20010239</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_284</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_284">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-378/d080006.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_284"
+            DMDID="DMD_wuppertal_elpub_284">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_284"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

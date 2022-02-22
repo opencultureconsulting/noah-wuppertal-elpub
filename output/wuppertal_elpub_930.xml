@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_930">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Modellierung von granularen Böden und biegsamen Bauwerken mit Hilfe der DEM am Beispiel einer eingebetteten Spundwand</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Pohl, Martin</displayForm>
+                        <namePart type="family">Pohl</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005-08-10</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Der Particle Flow Code in drei Dimensionen (PFC3ᴰ), der eine Vereinfachung der Distinct Element Method darstellt, wurde für die folgenden numerischen Simulationen verwendet: 
+Das Verhältnis Kugelanzahl pro Wandabschnitt wurde für die Erzielung reproduzierbarer Eigenschaften des granularen Bodenmodells zu mindestens 15 bestimmt.
+ In Abhängigkeit von der Variation der Containergeometrie ändern sich die Eigenschaften des numerischen Bodenmodells. Für unterschiedliche Containergeometrien und Kugelgrößen wurden die erforderlichen Kugelparameter für die Simulation spezifischer granularer Böden ( φ = 30°, φ = 35°, φ = 40°; n = 0,400) bestimmt. Hergeleitete mathematische Funktionen ermöglichen dem Benutzer die Abschätzung der erforderlichen Kugelparameter zwecks Simulation eines spezifischen granularen Bodens in einem definierten Container. 
+Anhand numerisch simulierter Triaxialversuche mit einem abgestuften Bodenmodell wurde der Einfluss der das Bodenmodell kennzeichnenden Parameter auf das Verhalten und die Eigenschaften des Bodenmodells dargelegt. 
+Die Simulation der Bodenabgrabung wurde vor einer nicht gestützten Spundwand (Larssen 601), einer einlagig gestützten Spundwand und einer einlagig gestützten Spundwand mit plastischem Fließgelenk durchgeführt. Das numerische Spundwandmodell wurde durch positionierte Kugeln, die biegesteif mit Bindungen gekoppelt waren, hergestellt. Ein Algorithmus wurde entwickelt, mit dem die Biegemomente und Querkräfte in der Spundwand, die Verschiebung der Wand sowie die Erddruckspannungen vor und hinter der Wand ermittelt werden können. Für die Simulation der nicht gestützten Spundwand wurden Variationen - die Bodenkugelgröße sowie die Bodenkugelgenerierung betreffend - durchgeführt. Die Ergebnisse mit eingeregneten Bodenkugeln sind realitätsnah.
+ Die Simulation einer einlagig gestützten Spundwand führt ebenfalls zu realitätsnahen Ergebnissen. Mit fortschreitendem Aushub findet eine Erddruckumlagerung zur Steife hin statt. Durch die numerische Simulation einer einlagig gestützten Spundwand mit Fließgelenk konnte erstmalig das Verhalten eines solchen Systems ohne künstliche Schwächung oder Wasserüberdruck betrachtet werden. 
+Kleinmaßstäbliche Modellversuche wurden mit einer Aluminiumplatte, die eine Spundwand repräsentiert, durchgeführt. Dehnungsmessstreifen sowie Weg- und Kraftgeber erfassten die Messgrößen, die infolge des durchgeführten Abgrabungsvorganges vor der Modellwand entstehen. Biegesteifigkeit, Steifenlage und Auflastaufbringung wurden in verschiedener Weise variiert. Es wurden zudem Versuche einer Wand mit plastischem Fließgelenk vorgenommen, das in Form einer künstlichen Schwächung abgebildet wurde.
+ Die numerische Simulation des 1g- Modellversuches mit nicht gestützter Modellwand liefert - für die bisher abgedeckten Aushubzustände - gut übereinstimmende Ergebnisse.</abstract>
+                    <abstract type="content" lang="eng">The Particle Flow Code in three dimensions (PFC3ᴰ), a simplification of the Distinct Element Method, has been used for the following simulations: 
+The necessary ratio &quot;balls per wall length&quot; has been determined to 15 for achieving reproducible properties of the granular material model.
+ In dependence on the variation of the container size, the numerical soil model properties change. The necessary ball parameters for the simulation of specific granular soils ( φ = 30°, φ = 35°, φ = 40°; n = 0,400) have been determined for different container geometries and ball sizes. Derived mathematical functions enable the user to assess the necessary ball parameters for simulating a specific granular soil in a defined container. 
+By numerically simulated triaxial tests with a graded soil model, the influence of each parameter of the soil model on the behavior and the properties of the numerical soil model is presented. 
+The simulation of the excavation process has been simulated at an unsupported sheet pile wall (Larssen 601), a single strutted sheet pile wall and a single strutted sheet pile wall with a plastic hinge. The numerical sheet pile wall model is constructed by positioned balls with bending resistant bonds. An algorithm has been developed, which enables the measurement of the bending moments and transverse forces in the sheet pile wall, the displacement of the wall and the earth pressures in front and behind the wall. Variations - regarding the soil balls size and the soil balls generation procedure - have been conducted at the unsupported sheet pile wall. The results with poured soil balls are realistic.
+ The simulation of the single strutted sheet pile wall yields also realistic results. With progressing excavation depth an earth pressure distribution towards the strut level takes place. By the simulation of a single strutted sheet pile wall with a plastic hinge, the behavior of such a system could be studied for the first time without the presence of hydrostatic water pressure or having an artificially manufactured notch. 
+Small scale 1g-model tests have been executed with an aluminum plate, representing a sheet pile wall. Strain measurements, displacement and force measurers record the behavior of the wall due to the simulated excavation process in front of the wall. Bending stiffness, strut level and the moment of a surcharge application have been varied. Furthermore, a plastic hinge has been introduced in form of an artificially manufactured notch.
+ The numerical simulation of such a small scale model test with an unsupported wall reaches - for the presently simulated excavation depth - a good agreement of the results.</abstract>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Architektur und Bauingenieurwesen » Bauingenieurwesen"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20050268</identifier>
+                    <identifier type="sys">HT014522343</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_930</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_930">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/bauingenieurwesen/diss2005/pohl/dd0504.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_930"
+            DMDID="DMD_wuppertal_elpub_930">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_930"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

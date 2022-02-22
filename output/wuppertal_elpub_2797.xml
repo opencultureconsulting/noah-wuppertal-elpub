@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_2797">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Analyse der Faktorenstruktur sowie der prädiktiven Validität des Testsystems ICA II</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Seitz, Daniel</displayForm>
+                        <namePart type="family">Seitz</namePart>
+                        <namePart type="given">Daniel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In der vorliegenden Arbeit wurde das seit 2010 in Phase II der sequentiellen fliegerischen Eignungsfeststellung der Bundeswehr eingesetzte Testsystem Instrument Coordination Analyser 90 II anhand von 1416 Bewerbern hinsichtlich seiner internen Faktorenstruktur sowie hinsichtlich seiner prädiktiven Validität auf Phase III der fliegerischen Eignungsfeststellung analysiert, dies getrennt für zukünftige Hubschrauber- und Flächepiloten. Hierzu wurden Faktorenanalysen auf Subtest- und Testsystemebene sowie Korrelations- und logistische Regressionsanalysen durchgeführt. Die Ergebnisse belegen die Überlegenheit psychomotorischer Verfahren gegenüber kognitiven und allgemeinen Intelligenzmaßen in der Vorhersage der Phase III. Zudem belegen die Ergebnisse der Korrelations- und Regressionsanalysen die Funktionalität und Leistungsfähigkeit des Testsystems ICA 90 II und liefern neue psychometrisch abgesicherte Kennwerte zur Bewerberbeurteilung in Phase II, die moderate bis gute Vorhersagen der Phase III ermöglichen.</abstract>
+                    <abstract type="content" lang="eng">The test battery Instrument Coordination Analyser 90 II (ICA 90 II) is part of Phase II of the sequential pilot selection process in the German Air Force. The main goal of the present study was to evaluate the test in terms of its validity, using data from 1416 candidates. To this end a number of analyses were conducted, including factor analyses and correlational and logistic regression analyses. To evaluate the test in terms of its predictive validity, results of Phase III of the selection process served as the criterion. Analyses were conducted separately for helicopter and airplane pilots. Results reveal psychomotor tests as better predictors of Phase III scores than cognitive measures and measures of general intelligence. Results also support the reliability and construct and predictive validity of the ICA 90 II, and additionally provide new and psychometrically sound regression equations, which may be used for the prediction of scores in Phase III.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Maschinenbau und Sicherheitstechnik » Sicherheitstechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20120427-102446-1</identifier>
+                    <identifier type="sys">HT017223519</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_2797</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_2797">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-2911/dd1203.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_2797"
+            DMDID="DMD_wuppertal_elpub_2797">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_2797"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

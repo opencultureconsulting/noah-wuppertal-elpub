@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_886">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Optimization of nanostructures for field emission cathodes</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lysenkov, Dmitry</displayForm>
+                        <namePart type="family">Lysenkov</namePart>
+                        <namePart type="given">Dmitry</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-05-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Nanostructures with high aspect ratio, e.g. carbon nanotubes (CNT) and metallic nanowires (NW), have opened attractive possibilities for development of high performance cold field emission (FE) cathodes for vacuum electronics. CNT on porous alumina were synthesized using ferrocene as a single source precursor in a chemical vapor deposition (CVD) process. In order to influence the number density of CNT emitters and their anchoring, the pore diameter of the alumina templates was varied between 20 and 200 nm. The field emission performance of such CNT cathodes of some ten mm2 size was integrally measured in a spacer-free diode configuration with luminescent screen, and the current distribution has been derived by means of developed image analysis software, which utilizes a calibration of the light intensity as function of the current. A strong increase of the integral dc current density has been found for pore diameters below 60 nm. The current distribution and conversion results in maximum local values of 108 mA/cm² at 7 V/µm (dc). In pulsed mode, peak values of up to 0.2 A/cm2 at 11.5 V/µm averaged over several mm2 size have been achieved with much improved luminescence and homogeneity of the emission which is, as demonstrated, suitable for light source applications. 
+ The high current carrying capability of the CNT emitters on porous alumina was confirmed by local measurements with a field emission scanning microscope (FESM), which provided Fowler-Nordheim-like (FN) currents of up to 19 µA from single emitters. FESM voltage scans show high emitter number densities of up to 60000/cm2 at E &lt; 20 V/µm. It was found that both field enhancement factors (β) and emitter number densities are strongly dependent on the CVD growth conditions. Moreover, sparse emitters with comparably low average β ~ 300 are preferable for high current densities, rather than those which are densely grown with β ~ 1100. Single CNT emitters on porous alumina have shown fluctuations, long-term instabilities, and strong (~ 50%) current drift over some hours. Resolved in a ms time scale the emission current reveal a switching between several electronic states, which is caused by the adsorbates. Cathode processing at different pressures and currents results in much improved current stability of ± 10% as measured over 18 hours. 
+ First experiments on copper NW with different geometrical properties, electrochemically grown in the etched ion-tracked pores of polymers, resulted in an emission site density of up to 1.4 x 105 cm-2 at 6 V/µm. Only 6% of the free-standing and vertically aligned NW were strong emitters. Nearly all NW showed unstable FN behavior with a mean β value of ~ 250, which corresponds to a cylindrical emitters with sharp edges.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20060113</identifier>
+                    <identifier type="sys">HT014749403</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_886</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_886">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2006/lysenkov/dc0605.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_886"
+            DMDID="DMD_wuppertal_elpub_886">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_886"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

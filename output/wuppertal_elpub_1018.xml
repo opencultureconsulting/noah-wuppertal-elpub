@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1018">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>Henkel-Werk in Düsseldorf-Holthausen 1900-1940 - Ein aussergewöhnlicher Unternehmer und sein Architekt</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bartmann, Ina</displayForm>
+                        <namePart type="family">Bartmann</namePart>
+                        <namePart type="given">Ina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-03-18</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Das HENKEL-Werk in Düsseldorf-Holthausen ist Synonym für einen außergewöhnlichen Unternehmer verbunden mit einer ebenso außergewöhnlichen Erfolgsgeschichte. Fritz Henkel (1848-1930) gehört zu einer der bedeutendsten Unternehmerpersönlichkeiten im Düsseldorfer Raum in der zweiten Hälfte des 19. Jahrhunderts/ erste Hälfte des 20. Jahrhunderts. Mit seinem Engagement, seiner Weitsicht und seiner Risikobereitschaft schaffte er es gemeinsam mit seinen Söhnen und seiner Belegschaft ein bescheidenes Chemieunternehmen zu einem Unternehmen mit Weltruf auszubauen. Seine Nachfolger aus den Reihen der Familie bauten auf diesem Erfolgskurs auf und führten das HENKEL-Unternehmen sukzessiv zu einem global operierenden Unternehmen. Die Firma HENKEL gilt als das Chemieunternehmen ersten Ranges im Düsseldorfer Raum und als eines der bedeutenden Unternehmen auf dem Chemiesektor weltweit. Ein Unternehmen das Kulturgeschichte auf verschiedenen Gebieten des Alltagslebens geschrieben hat, insbesondere auf dem Gebiet der Hygiene, der Verbesserung der Waschmittel Anfang des zwanzigsten Jahrhunderts und somit wesentlich dazu beitrug die Lebensverhältnisse der Menschen zu verbessern. Des Weiteren ist HENKEL ein Unternehmen, das die Wirtschafts- und Architekturgeschichte des zwanzigsten Jahrhunderts, die eng miteinander verbunden sind, an seinen Bauten widerspiegelt, die geprägt sind durch die drei politischen Systeme jener Zeit: Kaiserreich, Weimarer Republik, Drittes Reich. Gleichzeitig ist die Unternehmensentwicklung ein Beispiel für die Wirtschafts-, Architektur- und Zeitgeschichte in Verbindung mit der politischen Entwicklung des Düsseldorfer Raumes. 
+Architekt des HENKEL-Unternehmens von Anfang bis Mitte des zwanzigsten Jahrhunderts war Walter Furthmann (1873-1945), der in dieser Epoche die Schlüsselfunktion im Architekturwesen der HENKEL-Werke einnahm und in seiner Schaffensperiode großartige Bauwerke und Ensembles entworfen und ausgeführt hat. Ein Architekt, der zum &gt;Hausarchitekten&lt; der Firma HENKEL avancierte. Die Zeit der zwanziger und dreißiger Jahre bedeutete für Furthmann stilistisch betrachtet den Höhepunkt seiner Karriere, der Weiterentwicklung seiner historistisch geprägten Formensprache zu einer moderaten Moderne, die sich aber immer im rheinischen Kontext vollzog. Sein architektonischer Wandel und sein Fingerspitzengefühl für die jeweilige Integration eines Einzelbauwerkes in den Gesamtkomplex bezeugt diesen Entwicklungsprozess. Mit den HENKEL-Bauten artikulierte er das Selbstbewusstsein seiner Bauherren und die Wirtschaftskraft des Unternehmens in Verbindung mit dem Aufzeigen der Vormachtstellung der Industrie als eigentlichen Machthaber des 20. Jahrhunderts.</abstract>
+                    <classification authority="ddc">720</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Design und Kunst » Kunst"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20080103</identifier>
+                    <identifier type="sys">HT015475998</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1018</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1018">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbf/kunst/diss2008/bartmann/df0801.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1018"
+            DMDID="DMD_wuppertal_elpub_1018">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1018"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

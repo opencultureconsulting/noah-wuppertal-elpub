@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3829">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Strategische Ressourcendimensionierung von Netzleitstellen in Verteilungsnetzen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Stötzel, Marcus</displayForm>
+                        <namePart type="family">Stötzel</namePart>
+                        <namePart type="given">Marcus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Anreizregulierung übt durch die Entkopplung der Erlöse von den Kosten in vielfacher Hinsicht einen Rationalisierungsdruck auf die deutschen Netzbetreiber aus und verlangt von den Unternehmen Optimierungen bei allen Kostenbestandteilen. Diese Gesamtkostenoptimierung kann nur durch eine gemeinsame Betrachtung der Kapital- und der Prozesskostenoptimierung gelingen.
+ Im Rahmen einer gemeinsamen Forschungskooperation mit einem großen deutschen Verteilungsnetzbetreiber ist dazu erstmals ein gesamthaftes und vollständiges Optimierungsmodell für die Netzleitstellen und den operativen Netzbetrieb von Verteilungsnetzen entwickelt worden, das in dieser Arbeit im Detail vorgestellt wird. Die Verknüpfung der beiden Teilaspekte Netzführung und operativer Netzbetrieb ermöglicht die detaillierte Nachbildung der gegenseitigen prozessualen Abhängigkeiten im operativen Störungs- und Freischaltungsmanagement. Erstmals lässt sich eine Kombination aus der Festlegung einer Netzleitstellenorganisation und einer korrespondierenden operativen Netzbetriebsorganisation übergreifend unter Berücksichtigung der Rahmenbedingungen aus Geografie, Netz- und Betriebsmittelstruktur optimieren.
+ Neben der Modellbeschreibung wird anhand einer exemplarischen Untersuchung auch die Leistungsfähigkeit des Modells demonstriert und grundsätzliche Organisationskriterien für die Dimensionierung von Netzleitstellenorganisationen aus den Simulationsergebnissen abgeleitet.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20140109-094614-1</identifier>
+                    <identifier type="sys">HT018143240</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3829</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3829">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2013/stoetzel/de1304.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3829"
+            DMDID="DMD_wuppertal_elpub_3829">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3829"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

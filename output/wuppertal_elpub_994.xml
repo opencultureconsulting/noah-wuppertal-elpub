@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_994">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Farbmetrisch basierte Modellentwicklung zur Farbbildoptimierung mittels genetischer Programmierung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Blei, Andreas</displayForm>
+                        <namePart type="family">Blei</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004-08-09</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Das Ziel der vorliegenden Arbeit liegt in der Entwicklung einer langfristig einsetzbaren und künftigen Aufgabenstellungen gerecht werdenden Lösung des Problems der von unabhängigen Bewertungs- und Manipulationsmodulen getragenen, autonomen Farbbildoptimierung. Die Schwerpunkte der Arbeit liegen in der Entwicklung einer modularen Bewertungsstruktur und dem Nachweis eines effizienten Optimierungsverfahrens. 
+Im Rahmen der Entwicklung der Bewertungsstruktur wird das Optimierungsziel anhand der Analyse der natürlichen Farbbilder der Reihe ISO 12640-3 L* a*b* standard colour image data WD1 festgelegt. Hieraus resultiert ein auf der Bewertungsstruktur basierendes Optimierungsverfahren, das ein quasi optimales Farbbild hinsichtlich der Reihe ISO 12640-3 liefert. Die Anpassung der Bewertungsstruktur an andere Bezugsreihen ist durch ihre Modularität auf einfache Weise durchführbar. 
+Die Verwendung unabhängiger Bewertungsmodule verlangt nach einer normierten Betrachtung der einzelnen Module zur Gewährleistung ihrer Gleichwertigkeit, da jedes Modul seine eigenen Wertebereiche und Optimalwerte besitzt. Um dies zu gewährleisten werden die Ergebniswerte der einzelnen Bewertungsmodule mittels einer mehrwertigen Logik in das Intervall [0,1] überführt. Ferner werden hierdurch linguistische Variablen zur Bewertung eines Farbbildes in das Optimierungsverfahren integriert, um eine problemlose Erweiterung oder Veränderung der Module zu ermöglichen. 
+In dieser Arbeit wird der Entwicklung einer Gesamtbewertungsfunktion zur Bestimmung der Güte eines Farbbildes besondere Aufmerksamkeit gewidmet. Es wird nachgewiesen, dass eine Funktion aus unabhängigen Teilbewertungen erstellt werden kann. Die ausgewählten Bewertungsmodule dienen dem Nachweis der Existenz einer auf linguistischen Variablen basierenden Gesamtbewertungsfunktion. Zur Gewährleistung einer autonomen Farbbildoptimierung wird der CIE 1976 (L*a*b*) Bezugsfarbraum mit der CIE 1994 DE94 Farbabstandsformel verwendet, da dieser Bezugsfarbraums mit der Farbabstandsformel, die hinsichtlich der menschlichen Farbwahrnehmung nahezu gleichabständig ist. Diese Festlegung gewährleistet bei der Anwendung analytischer oder statistischer Verfahren aussagekräftige Ergebnisse. 
+Auf Grund der Tatsache, dass eine auf mehrwertiger Logik basierende Bewertungsfunktion i. Allg. nicht stetig differenzierbar ist, wird die Auswahl eines numerischen Optimierungsverfahrens beschränkt. Ein geeignetes Verfahren ist die genetische Programmierung, da diese die erstellte Gesamtbewertung als zu optimierende Funktion akzeptiert. Das resultierende Optimierungsverfahren liefert eine Basisvariante, die den effektiven Einsatz der genetischen Programmierung nachweist. Insbesondere wird gezeigt, dass die Anwendung zweier Voroptimierungsphasen selbst bei einer kleinen Populationsgröße die Optimierung eines Farbbildes gewährleistet.</abstract>
+                    <abstract type="content" lang="eng">The destination of the present paper is in the evolution of an on a long-term basis usable solution of the problem of a autonomous colour image optimisation based on independent evaluation and manipulation modules. The emphases of the paper are in the evolution of a modular evaluation structure and the proof of an efficient optimisation algorithm. 
+Within the framework of the evolution of the evaluation structure the optimisation destination is determined by means of the analysis of the natural colour images of the ISO series 12640-3 standard L*a*b* colour image data WD1. An optimisation algorithm based on the evaluation structure, which generates a quasi optimal colour image with regard to the ISO series 12640-3 results from that. The adaptation of the evaluation structure to other series is feasible through modularity of this structure in a simple way. 
+The use of independent evaluation modules demand a standardized consideration of the individual modules for the guarantee of the uniformity, because every module have its own value ranges and optimum values. To guarantee this, the results of the individual evaluation modules are transfered by means of a fuzzy logic into the range [0,1]. Further through that linguistic variable are integrated for the evaluation of a colour image in order to allow a problem-free enlargement or modification of the modules. 
+In this paper special attention is dedicated to the evolution of an entire evaluation function for the determination of the kindness of a colour image. It is verified that a function can be made out from independent partial evaluations. The selected evaluation modules serve the proof of the existence of an entire evaluation function based on linguistic variables. For the guarantee of an autonomous colour image optimisation the CIE 1976 (L*a*b*) colour space is employed with the CIE 1994 DE94 colour difference formula, because this colour space with this colour difference formula is almost perceptually uniform with regard to the human colour perception. This determination guarantees meaningful results during the use of analytical or statistical procedures. 
+Due to the fact that an evaluation function based on fuzzy logic is generally not continuously differentiable the selection of a numeric optimisation procedure is limited. A suitable procedure is the genetic programming, because this procedure accepts the made out evaluation function. The resultant optimisation algorithm represents a basic variant, which verifies the effective use of the genetic programming. In particular it is shown that the use of two pre-optimisation phases guarantees the optimisation of a colour image even at a small population size.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Medientechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20040368</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_994</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_994">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1100/de0405.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_994"
+            DMDID="DMD_wuppertal_elpub_994">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_994"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

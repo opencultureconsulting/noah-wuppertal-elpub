@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_379">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Neue asymmetrische Aminosäuresynthesen auf Basis von Menthon als chiralem Auxiliar</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kirschbaum, Michael</displayForm>
+                        <namePart type="family">Kirschbaum</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">1999-07-19</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die vorliegende Arbeit beschäftigt sich mit der Synthese von enantiomerenreinen Aminosäuren mit Hilfe des chiralen Menthylidenmethylimidazolinon-(MMI)-Bausteins. Der Schwerpunkt der Arbeit liegt auf der Entwicklung neuer Methoden zur selektiven Einführung von Seitenketten am MMI-Baustein. 
+Als Alternative zu den etablierten Gylcinanionen- und Glycinkationenbausteinen gelang es, auf Basis des α -selenierten MMI, ebenfalls ein Glycinradikaläquivalent zu generieren. 
+Die Addition des MMI-Radikals an verschiedene Alkene gelang jedoch nur in schlechter Ausbeute mit mäßiger Diastereoselektivität. 
+Die Reaktion von Radikalen mit dem MMI-Nitron hingegen erwies sich als geeignete Methode zur Darstellung von substituierten MMI-Derivaten. Auf Basis verschiedener Radikalgenerierungsmethoden konnten neue Zugänge zu verschiedenst substituierten MMI-Nitronen eröffnet werden. Hierbei zeigte sich, daß nur nukleophile Radikale mit dem elektronenarmen Nitron reagieren, während elektrophile Radikale nicht zur Produktbildung führten. 
+Weiterhin konnte eine Methode zur radikalischen Addition am MMI-Nitron entwickelt werden, welche hochdiastereoselektiv und in guten Ausbeuten zu den MMI-Hydroxylaminen führt. Basierend auf dieser, hier erstmalig beschriebenen, Methodik gelang die Synthese von enantiomerenreinen tert-Leucinmethylamid in guter Gesamtausbeute. 
+Eine weitere Methode, welche zu substituierten MMI-Nitronen führt, stellt die HECK-Reaktion dar. Das MMI-Nitron reagiert unter Palladium-Katalyse mit Aryl- und geeigneten Alkylhalogeniden in guten Ausbeuten und stellt damit das erste Beispiel einer HECK-Reaktion an Nitronen dar. 
+Ausgehend von den substituierten MMI-Nitronen gelang es, enantiomerenreine D-α-Arylglycinmethylamide (ee &gt; 95 %) und D-α-Aryl-α-methylglycine (ee&gt; 99 %) zu erhalten. 
+Unter Einsatz des enantiomeren ent-MMI-Bausteins, basierend auf (+)-Menthon als chiralem Auxiliar, gelang es ebenfalls, die L-Formen der Aminosäuren und Aminosäuremethylamide zugänglich zu machen.</abstract>
+                    <abstract type="content" lang="eng">In this work the synthesis of amino acids by using the chiral Menthylidenemethylimidazolidinon as a building block was investigated. The interest was focused on the development of new substitution methods. 
+As an alternative to the well known glycine anion and cation equivalents it was possible to generate a glycine radical equivalent based on the α -selenyl-MMI. However this MMI-radical adds to different alkenes only in poor yield and with poor diastereoselectivity. 
+It could be demonstrated, however, that the addition of radicals to the MMI-nitrone is a much more useful tool in the synthesis of substituted MMI-derivates. Several radical generation methods were tested and it was possible to open up new accesses to substituted MMI-nitrones. 
+It could be shown that only nucleophilic radicals are able to add to the electron difficient nitrone, electrophilic radicals did not lead to addition products. 
+Furthermore a radical addition leading to the MMI-hydroxylamines in good yield and excellent diastereoselectivity was developed. Based on this method, which was described for the first time, the synthesis of enantiomeric pure tert-leucinmethylamide in good overall yields was possible. 
+Another efficient method which led to substituted MMI-nitrones was found in the HECK-reaction. The MMI-nitrone reacts under palladium catalysis with aryl and suitable alkyl halides in good yields, leading to the first example of the HECK-reaction of nitrones. 
+The substituted MMI-nitrones were used to generate enantiomerically pure D-α -aryl glycine methylamides (ee &gt; 95 %) and disubstituted D-α-aryl-α-methyl amino acids (ee &gt;99 %). 
+Using the enantiomeric ent-MMI building block based on (+)-menthone the L-forms of the amino acids and the amino acid methylamides were accessable, too.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-19990057</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_379</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_379">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-473/d099903.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_379"
+            DMDID="DMD_wuppertal_elpub_379">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_379"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

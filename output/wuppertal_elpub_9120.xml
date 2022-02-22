@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9120">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Auswirkung einer übergeordneten Steuerung dezentraler elektrischer Anlagen auf die Höhe des konventionellen positiven Redispatcheinsatzes in Deutschland</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Nebel, Arjuna</displayForm>
+                        <namePart type="family">Nebel</namePart>
+                        <namePart type="given">Arjuna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Zdrallek, Markus</displayForm>
+                        <namePart type="family">Zdrallek</namePart>
+                        <namePart type="given">Markus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-02-25</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In der Dissertation wird eine Methodik entwickelt, welche die Berechnung des Redispatcheinsatzes im deutschen Übertragungsnetz ermöglicht. Dabei wird die Auswirkungen einer Integration der Flexibilität aus dezentralen Anlagen in das elektrische Energiesystem dargestellt. 
+ Durch die Integration von dezentralen Flexibilitäten können geringere Brennstoff- und CO₂-Zertifikatskosten bei relativ konstanten CO₂-Emissionen erreicht werden. Bei einem Redispatcheinsatz, welcher die Leistungserhöhung aus konventionellen thermischen Kraftwerken weitgehend vermeidet, kann bei der Berücksichtigung dezentraler Flexibilitäten bis zu 99 % der benötigten Redispatcherhöhung aus konventionellen Kraftwerken mit Hilfe dezentraler Alternativen ersetzt werden. 
+ Diese Übernahme der Redispatchaufgaben durch dezentrale Anlagen ist allerdings mit einer signifikanten Erhöhung der Redispatchkosten verbunden.</abstract>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20190225-111832-1</identifier>
+                    <identifier type="sys">HT019987466</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9120</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9120">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2019/nebel/de1902.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9120"
+            DMDID="DMD_wuppertal_elpub_9120">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9120"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

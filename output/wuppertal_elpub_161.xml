@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_161">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Verstehensprozesse beim Lesen fremdsprachlicher Hypertexte: Eine empirische Untersuchung.</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Groß, Annette</displayForm>
+                        <namePart type="family">Groß</namePart>
+                        <namePart type="given">Annette</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-05-11</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">A hypertext can be defined as a computer-based, non-linear representation of information. The author of a hypertext divides content into autonomous units (nodes) which are connected to each other by links. There is neither a sequence to determine the reader’s progression through the hypertext nor are there any signals to explain the relation between the information units. The author of a hypertext cannot anticipate in which order the nodes will be read. In terms of local coherence there is no difference between linear and non-linear texts; however they differ in their global coherence. The links in the nodes show that there is a semantic connection between the activated node and another node. What they do not indicate is the way in which the two nodes are semantically related. Consequently it is up to the reader to find the semantic relations between the nodes. This means that he has to reconstruct the hypertext’s global coherence by himself, i.e. without the linguistic help of cohesion markers such as connectives, pronouns etc. which support the reader’s construction processes in linear texts. Studies, in which the comprehension of hypertexts has been compared to linear texts, show how the absence of linearity influences information processing. Many readers fail to understand hypertexts because they cannot locate the node that has been activated in its larger context and do not know how the different nodes are related to each other. These problems are often referred to as lost in hyperspace. It was the purpose of the following investigation to explore the cognitive abilities that help readers to comprehend hypertexts. Although a non-linear text differs from a linear presentation of information, variables that influence the understanding of linear texts may play an important role in the processing of hypertexts. Therefore the study consideres variables that determine the comprehension of linear texts (language competence, background knowledge and reading strategies) as well as variables that influence the processing of hypertexts (strategies for information location and Internet-experience). The second aim of the study is to compare the abilities and strategies of good hypertext readers to those of bad hypertext readers. Good hypertext readers are able to infer the semantic relations between nodes and thereby understand how the content of the nodes is connected to the content of other nodes, whereas bad hypertext readers encounter problems in their comprehension processes. Based on two English articles on problems of the organisation of the Internet, a hierarchical hypertext with 28 nodes was designed in TOOLBOOK. The hypertext consists of five chapters and of three hierarchy levels. A list overview allows the user to move to the beginning of each chapter. The hypertext was read by 106 subjects from three different departmens of the University of Wuppertal with different levels of second language competence. The session began with the subjects filling out an English language competence test. Then the subjects’ background knowledge was tested by the method of free association. After that they filled out a questionnaire on their experience of reading non-linear texts and worked through a questionnaire which investigated their use of reading strategies. Before the students read the hypertext, they were given a search question that had to be answered on the basis of the information in the hypertext. The students were given 25 minutes to read the hypertext. A log-file recorded the students’ navigation through the hypertext and was later examined for the use of strategies for information location. After reading the hypertext the subjects wrote the essay and completed an inference test which investigated whether the semantic relation between nodes had been inferred. The data was analysed by quantitative methods. The results indicate that second language competence is not the most important variable for the understanding of second language hypertexts. Weakness in second language skills can be compensated by extensive background knowledge about the hypertext’s content. Moreover, it is shown that it is the experience in reading non-linear texts as well as coherence strategies and strategies for information location that help readers to understand second language hypertexts successfully.</abstract>
+                    <classification authority="ddc">400</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » Allgemeine Literaturwissenschaft"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20010317</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_161</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_161">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-278/d040004.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_161"
+            DMDID="DMD_wuppertal_elpub_161">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_161"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

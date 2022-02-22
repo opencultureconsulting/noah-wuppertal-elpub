@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_15070">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Application of Novel Analysis Workflows in an ATLAS Search for Supersymmetry</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Errenst, Martin</displayForm>
+                        <namePart type="family">Errenst</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Zeitnitz, Christian</displayForm>
+                        <namePart type="family">Zeitnitz</namePart>
+                        <namePart type="given">Christian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Elsing, Markus</displayForm>
+                        <namePart type="family">Elsing</namePart>
+                        <namePart type="given">Markus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-08-11</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The size of the ATLAS collaboration results in a broad and diverse analysis software landscape. Previous and ongoing harmonization efforts aim to reduce the computational and storage footprint of analyses and provide common concepts to discuss and develop analysis software within the collaboration. In this dissertation, the recently introduced CP (Combined Performance) algorithms are studied in the context of an ongoing search for R-parity violating Supersymmetry in the final state of 1+ or 2 samesign leptons and 4 to 15+ (b-)jets. A comparison between the reference implementation of the analysis and a new CP algorithm version allows for a detailed discussion of the configuration and computing performance.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20210811-094205-7</identifier>
+                    <identifier type="doi">10.25926/6nfh-5242</identifier>
+                    <identifier type="sys">HT021088046</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_15070</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_15070">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2021/errenst/dc2109.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_15070"
+            DMDID="DMD_wuppertal_elpub_15070">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_15070"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

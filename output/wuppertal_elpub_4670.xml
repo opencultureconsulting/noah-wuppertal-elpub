@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_4670">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Abraham Gotthelf Kästner als Lehrbuchautor. Unter Berücksichtigung weiterer deutschsprachiger mathematischer Lehrbücher für den universitären Unterricht.</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kröger, Desirée</displayForm>
+                        <namePart type="family">Kröger</namePart>
+                        <namePart type="given">Desirée</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die sogenannten mathematischen &quot;Anfangsgründe&quot; präsentieren sich als besondere Lehrbücher des 18. Jahrhunderts. Es handelt sich hierbei um einführende Lehrwerke, die in erster Linie für die Lehre an deutschsprachigen Universitäten und für Studenten jeden Wissensgrades konzipiert wurden. Sie enthalten all diejenigen Disziplinen, die damals unter dem Namen der Mathematik verstanden wurden. Aus diesem Grund findet sich nicht nur die reine, sondern auch die angewandte Mathematik, beispielsweise Mechanik, Statik und Optik. Ein wichtiger Aspekt ist, dass diese Lehrbücher in Deutsch geschrieben wurden. Latein war noch vor dem 18. Jahrhundert die dominierende Wissenschaftssprache, aber nicht jeder beherrschte Latein. Durch die Verwendung der deutschen Sprache hatte nun ein breiterer Personenkreis die Möglichkeit, die Mathematik zu erlernen, auch solche Personen, die nicht zu einem Studium zugelassen wurden. Es gibt eine Handvoll berühmter &quot;Anfangsgründe&quot;-Autoren. Einer von ihnen ist Abraham Gotthelf Kästner (1719-1800), Professor für Mathematik und Physik an der Universität Göttingen. Er veröffentlichte sein Lehrbuch &quot;Mathematische Anfangsgründe&quot; ab 1758, das in der zweiten Hälfte des 18. Jahrhunderts führend war. 
+ Die vorliegende Arbeit besteht aus zwei Teilen. Erstens erfolgt eine Charakterisierung der &quot;Anfangsgründe&quot; als besondere Lehrbuchgattung. Zweitens werden Kästner als erfolgreicher Lehrbuchautor und seine Verdienste innerhalb der &quot;Anfangsgründe&quot;-Tradition dargestellt.</abstract>
+                    <abstract type="content" lang="eng">The so-called mathematical &quot;Anfangsgründe&quot; appear as specific 18th-century textbooks. They are introductory textbooks, which were mainly created to assist teaching mathematics at German-speaking universities and for the use by students at any level. They contain all subjects which were associated with mathematics at the time. Therefore, you can find not only pure, but also applied mathematics, for instance mechanics, statics, and optics in it. Very important is that these textbooks were written in German. Actually, Latin was the dominant language within the scientific community before the 18th century, but not everybody could read and write Latin. By using the German language, a broader audience could learn mathematics, including those who were not allowed to study. A handful of popular &quot;Anfangsgründe&quot;-authors are known; one of them is Abraham Gotthelf Kästner (1719-1800), professor of mathematics and physics at the University of Göttingen. Since 1758, he published his textbook &quot;Mathematische Anfangsgründe&quot;, which was leading in the second half of the 18th century.
+ The work in hand is divided into two parts. Firstly, the &quot;Anfangsgründe&quot; will be characterized as a specific literary genre. Secondly, Kästner will be presented as an influential textbook-writer and his merits within the &quot;Anfangsgründe&quot;-tradition will be showed up.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20150311-103303-7</identifier>
+                    <identifier type="sys">HT018585833</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_4670</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_4670">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2014/kroeger/dc1434.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_4670"
+            DMDID="DMD_wuppertal_elpub_4670">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_4670"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

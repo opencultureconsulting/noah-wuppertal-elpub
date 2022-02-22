@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_609">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Quantitative Erfassung von thermischen Eigenschaften mit Hilfe der Rastersondenmikroskopie</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Fiege, Gero</displayForm>
+                        <namePart type="family">Fiege</namePart>
+                        <namePart type="given">Gero</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002-01-09</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Im Rahmen der Materialwissenschaften und der Weiterentwicklung moderner elektronischer Bauelemente kommt der Erfassung thermischer Eigenschaften, wie der lokalen thermischen Leitfähigkeit oder der Temperaturverteilung im mikroskopischen und nanoskopischen Maßstab, eine stetig wachsende Bedeutung zu. 
+Auf der Rastersondenmikroskopie basierende thermische Messverfahren nutzen eine spitze Sonde, die in Kontakt mit der Probenoberfläche gebracht wird, um simultan die Topographie und die thermischen Eigenschaften der Probe zu vermessen. Dadurch kann mit dieser Technik das Beugungslimit herkömmlicher optisch basierter thermischer Analyseverfahren, wie beispielsweise die Infrarot-Thermographie, unterschritten und damit eine deutlich verbesserte Ortsauflösung erzielt werden. 
+Im Rahmen dieser Arbeit werden neu- und weiterentwickelte Messtechniken zur quantitativen Erfassung von Temperaturverteilungen und lokaler thermischer Leitfähigkeiten vorgestellt. Anhand einiger Beispiele wird ihr Einsatz in der Fehleranalyse von Halbleiterbauelementen und zur Charakterisierung von Materialsystemen demonstriert.</abstract>
+                    <abstract type="content" lang="eng">Within the scope of materials science and the further development of state-of-the-art electronic devices the measurement of thermal properties like the local thermal conductivity or temperature distributions in the microscopic and nanoscopic range gains in significance. 
+Scanning Probe Microscopy based thermal measurement techniques are using a sharp probe tip, brought in close proximity to a sample surface to record the surface topography as well as thermal properties of the sample. Thereby thermal microscopy breaking the diffraction limit of optical based techniques, e.g. infrared thermography, can be performed in order to improve the spatial resolution significantly. 
+In this work new and further developments of measurement techniques for quantitative measurements of temperature profiles and the local thermal conductivity based on the scanning thermal microscope are presented. The abilities of this technique for failure analysis of semiconductor devices and the characterisation of material systems are demonstrated.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20020024</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_609</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_609">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-705/d130106.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_609"
+            DMDID="DMD_wuppertal_elpub_609">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_609"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

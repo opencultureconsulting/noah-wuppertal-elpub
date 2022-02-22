@@ -1,0 +1,20 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:5910</id><datestamp>2018-01-22</datestamp><setSpec>DDC:6</setSpec>
+          <dc:title xml:lang="de">Globale Abhängigkeitsanalyse und Visualisierung zur Parallelisierung sequentieller Programmsysteme</dc:title>
+          <dc:creator>Potthoff, Nils</dc:creator>
+          <dc:date>2018-01-22</dc:date>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/informationstechnik/diss2016/potthoff</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=5910</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20160621-102956-7</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-5671/de1604.pdf</dc:identifier>
+          <dc:description xml:lang="de">&lt;p&gt;Die aktuelle Entwicklung von Prozessoren hat zu einer weiten Verbreitung von Multi- und Many-Core-Prozessoren geführt. Demgegenüber steht nach wie vor das etablierte sequentielle Programmierparadigma. Eine effiziente Entwicklung mehrerer parallel arbeitender Instanzen erfordert in der Regel die explizite Programmierung von Kommunikations- und Synchronisierungsaufgaben. Durch das zusätzlich benötigte Wissen über die Zielarchitektur und parallele Algorithmen erreicht Softwareentwicklung eine höhere Komplexität. Dies geht einher mit einem erhöhten Fehlerrisiko. Zudem werden Reimplementierungen etablierter Programme notwendig. Um den Entwicklungsaufwand gering zu halten und zugleich von Mehrkernarchitekturen profitieren zu können, verfolgt diese Forschungsarbeit einen Ansatz zur rechnergestützten Parallelisierung sequentieller Programme mittels eines Zerlegungsmodells. Fragmentierungsansätze wurden herangezogen und in Hinblick auf das Ziel adaptiert, um deren Eignung für die Parallelisierung und mögliche Strategien zu prüfen. &lt;br&gt;&lt;br&gt;&#13;
+&#13;
+Das für weitere Schritte gewählte Modell führt zu Fragmenten, bei denen alle Kontroll- und Datenflüsse bekannt sein müssen. Konkrete Datenabhängigkeiten sind für die Ausführungsdauer einzelner Fragmente zudem statisch. Dadurch wird eine Umordnung in der Ausführung möglich. In der Arbeit werden Parallelisierungsstrategien auf Basis ermittelter Kontroll- und Datenflussabhängigkeiten zwischen gebildeten Fragmenten eines Programmsystems präsentiert. Um Entwicklern einen Eindruck über existierende Abhängigkeiten vermitteln zu können, ist Visualisierung ein geeignetes Mittel. Diese wird für reale Anwendungen schnell komplex. Die besonderen Eigenschaften des zugrundeliegenden Modells erlauben einen Vergleich mit digitalen bzw. kombinatorischen Schaltungen. Es wird der daraus abgeleitete Visualisierungsansatz präsentiert. Darüber hinaus ergibt sich zudem eine mögliche Transformation in Schaltungen auf Systemebene, welche diskutiert wird. &lt;br&gt;&lt;br&gt;&#13;
+&#13;
+Für eine Umordnung der Ausführung zur Nutzung der Parallelität wurde ein Ausführungsmodell entwickelt. Dieses basiert auf einer Ablaufplanung, welche durch Kapselung der Fragmente und Abflachung der Aufrufhierarchie möglich wird. Das Verhalten dieses Modells wird hinsichtlich parallelisierbarer Strukturen diskutiert. Konkrete Ausprägungen der theoretisch entwickelten Strategien werden anhand von Beispielen belegt.</dc:description>
+          <dc:subject>600 Technik, Medizin, angewandte Wissenschaften</dc:subject>
+          <dc:subject>Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Informationstechnik » Dissertationen</dc:subject>
+          <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
+          <dc:language>deu</dc:language>
+          <dc:format>application/pdf</dc:format>
+          <dc:type>Text</dc:type>
+        </oai_dc:dc>

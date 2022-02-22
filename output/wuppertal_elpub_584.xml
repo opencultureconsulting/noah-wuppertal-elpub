@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_584">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zur Grenzlast eines Druckpfahls - Untersuchungen für den Einzel- und den Gruppenpfahl</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mörchen, Nicole</displayForm>
+                        <namePart type="family">Mörchen</namePart>
+                        <namePart type="given">Nicole</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003-07-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In Modellversuchen wird die Grenzlast von Druckpfählen und Druckpfahlgruppen untersucht. Für die einzeln stehenden Druckpfähle werden 23 Pfahltypen mit unterschiedlichen Längen und Durchmessern verwendet, die Gruppenversuche werden nur mit einem Pfahltyp mit d = 25 mm und l = 200 mm, angeordnet als 4er- oder 5er-Gruppe, durchgeführt. Weiterhin wird in Modellversuchen an „gemischten“ Pfahlgruppen aus Zug- und Druckpfählen mit gleicher und unterschiedlicher Länge die jeweilige Pfahlgrenzlast in Abhängigkeit des vorhandenen Pfahlachsabstandes betrachtet. In Anlehnung an die Modellversuche mit Einzelpfählen wird ein schalenstatischer Berechnungsansatz zur Ermittlung der Pfahlgrenzlast entwickelt. Es wird davon ausgegangen, dass um den Pfahl bei Belastung rotationssymmetrische Schalentragwerke entstehen. An einer aus dem Schalentragwerk herausgeschnittenen horizontalen, sektorförmigen Elementscheibe mit definierter Dicke werden die Gleichgewichtsbedingungen der Vertikal- und Horizontalkräfte aufgestellt. Am oberen und unteren Rand der Elementscheibe treten Meridiankräfte infolge Schaleneigengewicht, Bodenüberschüttung und Randlast auf, die eine nach außen gerichtete horizontale Kraft für jede Schale zur Folge haben. Dieser Kraft steht an der Mantelschale der bis zu einem gewissen Grad mobilisierte radiale Erddruck entgegen. Durch Erfüllen der Gleichgewichtsbedingung für Horizontalkräfte kann für den einzelnen Pfahl die in jede Schale eingeleitete Randlast und durch ihre Summation über die Pfahllänge die Grenzlast bestimmt werden.
+ Aus der im Modellversuch gemessenen Grenzlast wird durch Anwendung des schalenstatischen Berechnungsansatzes der mobilisierte Erdwiderstand berechnet. Für schlanke Pfähle mit gegenüber der Mantelreibung geringem Spitzenwiderstand erweist sich diese Berechnung als stabil. Weniger gut gelingt dies für gedrungene Pfähle, woraus zu schließen ist, dass sich das Berechnungsmodell vor allem für Mantelreibungspfähle eignet.
+ Bei großmaßstäblichen Pfahlprobebelastungen muss eine Modifikation des entwickelten Berechnungsmodells hinsichtlich der Größe des mobilisierten Erdwiderstandes erfolgen, um die bekannte Pfahlgrenzlast zu erhalten. Es gelingt nicht, die Eingabeparameter des Berechnungsmodells so allgemein zu definieren, dass eine zutreffende Angabe der Grenzlast im Vorfeld der Pfahlherstellung sicher möglich sein wird.
+ Anschließend wird der Berechnungsansatz auf Pfahlgruppen übertragen. Eine rein geometrische Betrachtung zeigt, dass es möglich ist, den Pfahlachsabstand, ab dem keine gegenseitige Beeinflussung der Pfähle mehr vorliegt, zu bestimmen. Allerdings gelingt es nicht, bei kleineren Pfahlachsabständen die Gruppengrenzlast quantitativ – ausgehend von einem dicken Ersatzpfahl – mit dem bei zunehmendem Achsabstand der Pfähle in Einzelpfähle zerfallenden Ersatzpfahlmodell zu erfassen.
+ Kombiniert man den für Druckpfähle entwickelten Berechnungsansatz mit dem schalenstatischen Ansatz für Zugpfähle, kann auf geometrischem Wege der Achsabstand bestimmt werden, ab dem in einer „gemischten“ Pfahlgruppe keine Beeinflussung der Pfähle mehr auftritt. Bei diesem kritischen Pfahlachsabstand erreicht jeder Pfahl die gleiche Grenzlast wie ein unbeeinflusster Einzelpfahl.
+ Der dargestellte Berechnungsansatz bietet für Pfahlgruppen die Möglichkeit einen kritischen Pfahlachsabstand, bei dem sich die Pfähle nicht mehr gegenseitig beeinflussen, festzulegen. Allerdings können für kleinere Achsabstände keine quantitativen Aussagen zur Gruppentragfähigkeit getroffen werden. Für Einzelpfähle kann bei bekannter Grenzlast der im Boden auftretende Spannungszustand in der Pfahlumgebung wirklichkeitsnah beschrieben werden.
+ Mit dem vorgeschlagenen Berechnungsansatz ist keine Berücksichtigung von Verformungen möglich. Dies zeigt sich deutlich in der Festlegung des Mobilisierungsfaktors . für den Erdwiderstand. Da die im Einzelfall benötigte Größe des Erdwiderstandes von den eingetretenen Verformungen abhängig ist, diese aber keinen Eingang in das Berechnungsmodell finden, kann für . kein durch eine Funktion beschreibbarer Zusammenhang mit der Pfahlgeometrie gefunden werden.</abstract>
+                    <abstract type="content" lang="eng">The ultimate bearing capacity of single piles and pile groups is examined in 1g-model tests. For the single piles 23 pile types with different length and diameter are used. The group tests are executed with a pile type, 25 mm in diameter and with a length of 200 mm, arranged in groups of four or five piles.
+ Based on the model tests with single piles a hypothetical factor for the analysis is developed to ascertain the pile bearing capacity. In the area around the pile a spatial structure of rotational symmetric jackets arises under pile loading. The equilibrium conditions for vertical and horizontal forces are set up on a horizontal, sectoral element disc with a defined thickness, which is cut out of the jacket structure. On the upper and the lower edge of the element disc, meridian forces due to the self-weight of the jacket, soil coverage and edge load appear and these meridian forces result in a horizontal force in outward direction for every jacket. On the boundary surface of the spatial structure the mobilised radial earth pressure acts in opposite direction to the horizontal force. By fulfillment of the equilibrium conditions for the horizontal forces it is possible to estimate the edge load which is initiated in every single jacket by the pile. The addition of these edge loads over the pile length leads to the ultimate pile load.
+ From the ultimate pile force, measured in the model test, the mobilised earth pressure is calculated by application of the determined jacket static factor for the analysis. The calculation is well suited for lean piles with low point resistance compared to shaft friction resistance. For compact piles the calculation is less reliable. Drawn out from this, the calculation model is primarily suitable for shaft-friction piles.
+ Derived from full-scale pile loading-tests a modification of the developed calculation model in regard to the size of the mobilised earth pressure has to be done to achieve the known ultimate pile load. There is no possibility in defining the initial conditions of the calculation model in a general approach to allow the prediction of the ultimate pile load prior to the pile manufacturing.
+ Subsequently the calculation model is transfered on pile groups. A geometrical consideration shows the possibility to define the distance between the pile axis where the piles do not interact. But it is not possible to define the ultimate pile group load with the replacement pile model seperated in single piles due to increasing pile axis distance.
+ A combination of the calculation model for piles under pressure with the jacket static approach for tension piles allows the determination of the pile axis distance, where no more interaction between the piles appear, in a geometrical way. At this critical pile axis distance every pile in the group reaches the same ultimate load as an unaffected single pile.
+ The shown calculation model offers the possibility to define a critical pile axis distance for pile groups at which the piles do not interact. But no quantitative statements for the ultimate pile group load can be deduced for lower pile axis distances. The stress state in the pile area at a known ultimate load can be described realistically.
+ The proposed calculation model does not take the deformations into account, which becomes obvious in the determination of the mobilisation factor ê for the passive earth pressure. Due to the size of the passive earth pressure, depending on the occuring deformations, which are not considered in the calculation model, it is impossible to find an interrelation between ê and the pile geometry.</abstract>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Architektur und Bauingenieurwesen » Bauingenieurwesen"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20030286</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_584</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_584">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-680/d110303.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_584"
+            DMDID="DMD_wuppertal_elpub_584">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_584"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

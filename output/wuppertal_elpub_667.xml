@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_667">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>An Insight into the Aphasics&apos; Language - Its Diagnosis with the Sub-Tests of the AAT and Therapy with LingWare and NeuroLing</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Berkani, Mohamed</displayForm>
+                        <namePart type="family">Berkani</namePart>
+                        <namePart type="given">Mohamed</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-07-07</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Language diagnosis and therapy has been dealt with in many countries. However the involvement of PC programs in the domain of therapy has been approached with so much scepticism. 
+In this research paper I submitted an overview about language diagnosis and therapy, involved a German method of testing the aphasics’ language and used certain PC programs in the sessions of aphasia therapy. 
+The conclusion drawn from the whole work highlights that the amelioration of the disorders and the achievement of recovery can be attained by the therapists within a particular period of time through the use of testing and sessions of therapy intermittently and continuously.</abstract>
+                    <classification authority="ddc">400</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » Allgemeine Sprachwissenschaft"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20080265</identifier>
+                    <identifier type="sys">HT015618135</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_667</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_667">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-763/da0801.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_667"
+            DMDID="DMD_wuppertal_elpub_667">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_667"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

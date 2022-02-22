@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_311">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Quarkmassen in der vollen QCD</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Eicker, Norbert</displayForm>
+                        <namePart type="family">Eicker</namePart>
+                        <namePart type="given">Norbert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003-04-08</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Massen der leichten Quarks sind fundamentale Parameter der Quantenchromodynamik (QCD), der Theorie der starken Wechselwirkung. Aus der Einsicht, dass freie Quarks nicht beobachtet werden können (confinement), folgt unmittelbar, dass es unmöglich ist, deren Masse direkt zu bestimmen. Stattdessen muss die Abhängigkeit beobachtbarer Größen von den Quarkmassen bestimmt werden, um anschließend durch Vergleich mit physikalischen Resultaten die physikalischen Quarkmassen zu bestimmen.
+ Der einzig bekannte Zugang zur absoluten Größe der leichten Quarkmassen ist die Berechnung der QCD auf dem Gitter. Alle anderen Ansätze können entweder die absolute Größe nicht bestimmen (wie etwa die chirale Störungstheorie, die nur Massenverhältnisse liefert) oder verwenden Näherungen, deren Auswirkungen nicht kontrolliert werden können.
+ Die Arbeit präsentiert neue Resultate zur Masse des leichten und des strange Quarks der SESAM/TχL Kollaboration. Sie wurden auf Gittern der Größe 16³ x 32 bzw. 24³ x 40 berechnet, was die Beobachtung von finite-size Effekten ermöglicht. Da die SESAM/TχL Ensembles mit β=5.6 mittlerweile durch Konfigurationen mit β=5.5 ergänzt wurden ist es außerdem möglich, die erste Kontinuumsextrapolation der Quarkmassen mit standard Wilson-Fermionen durchzuführen.
+ Im zweiten Teil der Arbeit wird ein mehr technischer Aspekt der Gitter-QCD Simulationen behandelt. Die zentrale numerische Aufgabe bei Berechnungen in der vollen QCD ist die Lösung großer, dünn besetzter linearer Gleichungssysteme auf Parallelrechnern. Neben der Wahl des richtigen Gleichungslösers spielt bei der Verbesserung dieser Aufgabe vor allem die Optimierung des Präkonditionierungsschemas eine wesentliche Rolle.
+ Im Rahmen dieser Arbeit werden dazu durch ll-SSOR Präkonditionierung erzielte Ergebnisse für O (a)-verbesserte Fermionen präsentiert. Es wird gezeigt, dass der de facto Standard heutiger Simulationen, even-odd Präkonditionierung, um mehr als einen Faktor zwei geschlagen wird. Darüberhinaus wird das ll-SSOR Präkonditionierungschema auf hyperkubische Fermionen angewendet, einem neueren, durch perfekte Wirkungen inspirierten Ansatz.</abstract>
+                    <abstract type="content" lang="eng">The masses of the light quarks play the role of fundamental parameters of Quantum Chromodynamics (QCD), the theory of the strong interaction. Due to confinement, the phenomenon that free quarks cannot be observed, it is impossible to determine quarkmasses directly from experiments. Instead, one has to determine the dependence of certain quantities on the quarkmasses. Then the physical quarkmasses are given by comparison with physical results.
+ The only known access to the absolute values of light quarkmasses is to evaluate QCD on a lattice. All other approaches either cannot determine absolute values (e.g. only ratios as with chiral perturbation theory) or have to use approximations with uncontrollable impact.
+ We present new results on the mass of the light and strange quarks from SESAM/TχL. The results were obtained on lattice-volumes of 16³ x 32 and 24³ x 40 points, which allow to investigate finite-size effects. Since the SESAM/TχL ensembles with β=5.6 now are complemented by configurations with β=5.5, moreover, we are able to attempt the first continuum extrapolation of the quark masses with standard Wilson fermions.
+ In the second part a more technical aspect of lattice QCD simulations is treated. The main computational task in full QCD simulations is the solution of large sparse linear equations on parallel computers. To improve this job, besides the choice of the solver, the optimization of the preconditioning scheme plays a major role.
+ Here we present results obtained by the ll-SSOR preconditioner applied to O (a) improved fermions. We show that the de facto standard in todays simulations, even-odd preconditioning, is outperformed by a factor of two. Furthermore we successfully employ the ll-SSOR preconditioning scheme to hypercube fermions, a recent approach inspired by perfect actions.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20030175</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_311</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_311">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-405/d080114.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_311"
+            DMDID="DMD_wuppertal_elpub_311">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_311"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

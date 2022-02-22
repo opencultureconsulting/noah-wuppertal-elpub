@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_7690">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>IeeeCC754++ - An Advanced Set of Tools to Check IEEE 754-2008 Conformity</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hüsken, Matthias</displayForm>
+                        <namePart type="family">Hüsken</namePart>
+                        <namePart type="given">Matthias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Frommer, Andreas</displayForm>
+                        <namePart type="family">Frommer</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Pleiter, Dirk</displayForm>
+                        <namePart type="family">Pleiter</namePart>
+                        <namePart type="given">Dirk</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-02-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The „IEEE Standard for Binary Floating-Point Arithmetic“ IEEE 754 has arguably been one of the most influential standards for the broad area of scientic computing. Floating point arithmetic conforming to the standard implies that numerical algorithms behave identically across the various computing platforms (or at least in a predictable manner) and that developers of numerical algorithms can rely on the standard when addressing stability issues that might otherwise depend on the floating-point environment. With this thesis, we provide a contribution to evaluating the conformity of a given floating-point environment to IEEE 754-2008, the current version of the standard. In particular, we extended the well known testing tool IeeeCC754 with a large number of features, such as support for IEEE 754-2008, new analysis facilities, additional floating-point operators, and new test vectors to verify that these operators are implemented in a conforming manner. Furthermore, we heavily expanded the selection of supported floating-point environments and provide facilities to easily extend our new tool IeeeCC754++ with new ports targeted at future floating-point platforms. Additionally, we developed a testing framework that enables large-scale evaluation of floating-point environments and a variation of the testing framework tailored to studying the influence of compiler options on the behaviour of numerical applications regarding floating-point accuracy as well as application performance.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20180213-104430-5</identifier>
+                    <identifier type="sys">HT019615754</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_7690</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_7690">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2017/huesken/dc1735.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_7690"
+            DMDID="DMD_wuppertal_elpub_7690">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_7690"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

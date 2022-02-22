@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_2724">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Optimierung von Applikationen aus der Hochspannungstechnik mit dünnen Schichten aus mikrovaristorgefüllten Polymeren mithilfe von nichtlinearen transienten 3D Simulationen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Weida, Daniel</displayForm>
+                        <namePart type="family">Weida</namePart>
+                        <namePart type="given">Daniel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Schichten aus ZnO-Mikrovaristormaterial sind dünn im Vergleich zu ihrer lateralen Ausdehnung. Folglich wirkt das Material überwiegend in den zur Oberfläche tangentialen Richtungen feldsteuernd. Aufgrund der geringen Dicke kann die feldsteuernde Wirkung in der zur Oberfläche normalen Richtung meist vernachlässigt werden. Somit können diese dünnen Schichten näherungsweise als 2D-Objekte in den 3DSimulationen berücksichtigt werden. Mit dieser Option wurde die vorhandene Software erweitert. Die Vorteile sind deutlich schnellere Simulationszeiten und eine vereinfachte Modellierung. Die aufwendige Erstellung eines Volumenmodells der dünnen Schicht entfällt. Stattdessen können der gemeinsamen Fläche des angrenzenden Volumens die entsprechenden Materialeigenschaften der dünnen Schicht zugewiesen werden. 
+
+ In den untersuchten möglichen Anwendungen wurden die Vor- und Nachteile der Weiterentwicklungen gegeneinander abgewogen. Die Verwendung von Elementen und Ansatzfunktionen höherer Ordnung führte zu genaueren Ergebnissen. Diese sind jedoch immer gegen den höheren Aufwand in der Gittergenerierung und die deutlich längere Simulationszeit abzuwägen. Die Modellierung der dünnen Schichten als 2D-Flächen in den 3D-Simulationen vereinfachte in allen untersuchten Anwendungen die Modellerstellung. Zudem verkürzte sie deutlich die Simulationszeiten. Der Modellierungsfehler durch die Dimensionsreduktion der dünnen Schicht ist hierbei problemabhängig und sollte bei der Interpretation der Ergebnisse z.B. durch eine Fehlerabschätzung berücksichtigt werden. Die Simulationsergebnisse wurden anhand von Messungen validiert. 
+
+ Die gewonnenen Ergebnisse und Einsichten können für eine Auslegung von Applikationen in der Hoch- und Mittelspannungstechnik mit einer Feldsteuerung durch dünne Schichten aus mikrovaristorgefüllten Elastomeren oder Lacken eingesetzt werden. Auch wenn die Arbeit neben den numerischen und simulationstechnischen Fragestellungen auch praktische Probleme berücksichtigt hat, bleiben offene Fragen für weitere Forschungen. In den Simulationsmodellen werden überwiegend makroskopische Effekte berücksichtigt. Oft spielen jedoch gerade mikroskopische Effekte eine wesentliche Rolle im elektrischen Verhalten. Es stellt sich die Frage, was die Begriffe Leitfähigkeit und Permittivität eines Materials bzw. Materialverbunds bedeuten. Dies ist bei linearen Materialien relativ klar, bei nichtlinearen Materialien jedoch weniger klar definiert. Diskussionswürdig ist die Berücksichtigung von komplizierteren nichtlinearen Effekten wie z.B. in den Ersatzschaltbildern in [A50]. Die Untersuchung der Applikationen unter Wechselstrom- und Impulsbelastung stellt keine Einschränkung dar, da sich aus den Erkenntnissen, die aus dieser Arbeit resultieren, auch Hinweise zu Weiterentwicklung bezüglich Anwendungen der Hochspannungs-Gleichstrom-Übertragung (HGÜ) ableiten lassen.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20120405-122218-6</identifier>
+                    <identifier type="sys">HT017223526</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_2724</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_2724">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-2869/de1105.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_2724"
+            DMDID="DMD_wuppertal_elpub_2724">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_2724"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

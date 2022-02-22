@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_981">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Anwendung feldtheoretischer Verfahren zur Bestimmung der Kanalkapazität von MIMO-Systemen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ndoumbè Mbonjo Mbonjo, Hervé</displayForm>
+                        <namePart type="family">Ndoumbè Mbonjo Mbonjo</namePart>
+                        <namePart type="given">Hervé</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-09-18</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die vorliegende Arbeit befasst sich mit der Anwendung feldtheoretischer Verfahren zur Bestimmung der Kanalkapazität von drahtlosen Multiple Input Multiple Output (MIMO)-Systemen, d.h. von Nachrichten-Übertragungssystemen, die über M(M &gt;1)-Tore auf der Sende- und N(N&gt;1)-Tore auf der Empfangsseite verfügen. Insbesondere liegt der Schwerpunkt dieser Arbeit auf der Untersuchung der Auswirkungen modellierungsbedingter Unterschiede verschiedener feldtheoretischer Verfahren auf die Kanalkapazität. 
+Dazu wird das MIMO-System als ein eingangs- und ausgangsseitig beschaltetes Mehrtor modelliert, dessen Übertragungsverhalten durch seine Z-Parameter und die vorgegebene Beschaltung beschrieben wird. Darauf aufbauend wird die Leistungsbilanz der gesamten Übertragungsstrecke aufgestellt, worauf eine Formulierung der Kanalkapazität als Funktion der Z-Parameter und der Beschaltung des MIMO-Mehrtors folgt. 
+Anschließend wird auf die feldtheoretische Bestimmung der Z-Parameter eingegangen. Sie beruht auf der Anwendung des Reziprozitätssatzes auf Antennen-Mehrtore. Die Gleichungen für die Koppelimpedanzen des Mehrtors werden als Funktionen der Stromdichteverteilungen auf den Antennen, die durch eingeprägte Stromquellen an den Klemmen des Mehrtors erzeugt werden, und der Green&apos;schen Funktion der Umgebung formuliert. Die Lösungsschritte für die Momentenmethode (engl. Method of Moments, abgekürzt MOM), für die Methode der Finiten Differenzen im Zeitbereich (engl. Finite Difference Time Domain Method, abgekürzt FDTD) und für ein auf einer Verknüpfung der MOM und/oder der FDTD mit einer strahlenoptischen Vorgehensweise basierendes Berechnungsverfahren werden aufgezeigt. Dadurch ist es möglich diese feldtheoretische Verfahren auf ihre Eignung zur Bestimmung der Z-Parameter und demzufolge der Kanalkapazität für einige Klassen von Szenarien zu untersuchen. Ergebnisse für die Kanalkapazität einiger Konfigurationen werden diskutiert.</abstract>
+                    <abstract type="content" lang="eng">The work deals with the application of field theoretical methods for the determination of the channel capacity of wireless Multiple Input Multiple Output (MIMO)-systems, i.e. wireless communication systems with M (M&gt;1) (antenna) ports at the transmitting and N (N&gt;1) (antenna) ports at the receiving side. The main focus of the work is the investigation of the effects of modeling differences of field theoretical methods on the channel capacity. 
+For this purpose the MIMO-system is modeled as a multi port, the transmission behaviour of which is described by its Z-parameters and (predefined) loads at the transmitting and at the receiving side. On the basis of this model a power balance is drawn and the channel capacity is formulated as function of the Z-parameters and the loads. 
+The field theoretical computation of the Z-parameters is subsequently addressed. It is based on the application of the reciprocity theorem on antenna multi port networks. The equations for the mutual impedances of the multi port are formulated as functions of the current density distributions on the antennas, which are produced by impressed current sources at the ports, and Green&apos;s function of the surroundings. The solution steps for the Method of Moment (MOM), for the method of the Finite Difference in the Time Domain (FDTD) and for a computational method based on a combination of the MOM and/or the FDTD with a ray optical procedure are presented. Through this the suitability of these field theoretical methods for the computation of the Z-parameters and therefore for the computation of the channel capacity of some classes of scenarios can be investigated. Results for the channel capacity of some configurations are discussed.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20070816</identifier>
+                    <identifier type="sys">HT015291085</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_981</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_981">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2007/mbonjo/de0703.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_981"
+            DMDID="DMD_wuppertal_elpub_981">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_981"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

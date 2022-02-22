@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_617">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>High resolution frequency analysis in Scanning Probe Microscopy</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lepidis, Polichronis</displayForm>
+                        <namePart type="family">Lepidis</namePart>
+                        <namePart type="given">Polichronis</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003-03-07</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Mit der rasanten Weiterentwicklung rastersondenbasierter Methoden der letzten Jahre, entwickelte sich eine Vielzahl neuer Anwendungsgebiete. Dies gilt nicht nur für den Bereich atomarer Auflösung, auch im mesoskopischen Bereich ist das Rastersondenmikroskop zu einem wertvollen Werkzeug zur Charakterisierung von Material- und Bauelementeigenschaften geworden. Vielfach wird das Mikroskop dabei im sogenannten dynamischen Modus betrieben. Dabei wird der Kraftsensor, üblicherweise ein Biegebalken, an dem eine dünne Spitze befestigt ist, zu mechanischen Schwingungen angeregt und die Störung des Resonanzverhaltens durch Kraftwechselwirkungen zwischen der oszillierenden Spitze und der zu untersuchenden Probe ausgewertet. Durch Analyse des Frequenzverhaltens (Amplituden- und Phasengang) des Spitze/Proben-Systems, lassen sich vielfältige Material- bzw. Bauelementparamter extrahieren. Im Rahmen dieser Arbeit wird ein System zur Frequenzgangsanalyse vorgestellt, welches, integriert in ein kommerzielles Rastersondenmikroskop, kostengünstig und mit einfacher Handhabung die präzise Erfassung von Amplituden- und Phasengang ermöglicht. Die Einsatzmöglichkeiten eines solchen Systems werden am Beispiel eines Meßstandes zur Erfassung des dynamischen Verhaltens lokaler thermomechanischer Eigenschaften von Polymeren vorgestellt.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20030087</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_617</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_617">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-713/d130203.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_617"
+            DMDID="DMD_wuppertal_elpub_617">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_617"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

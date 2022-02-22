@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_813">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kopplung einer MPLI-Quelle an ein Flugzeitmassenspektrometer und Entwicklung von Ionisationslabeln für die GC-Anwendung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mönnikes, René Nikolas</displayForm>
+                        <namePart type="family">Mönnikes</namePart>
+                        <namePart type="given">René Nikolas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-07-07</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The ionisation of atoms and molecules via stepwise excitation of long-lived intermediate electronic states is called resonance-enhanced multiphoton ionisation (REMPI). At comparably low power densities, on the order of 10⁶ W cm-2, REMPI becomes an ionisation method which is selective and sensitive towards aromatic hydrocarbons. On the one hand, the method presents an advantage because aromatic compounds can be ionised directly from a complex matrix without the resonant excitation of matrix elements or commonly used solvents. On the other hand, this method limits the analyte spectrum. In order to extend the method&apos;s selectivity and sensitivity to non-aromatic compounds, ionisation labels have been adopted. These consist of an aromatic group (ionophore) which is primarily excited, a spacer, and an anchor group that is covalently coupled to the analyte. 
+This work is concerned with the development of ionisation labels for GC applications. Here, the vaporisation of the analyte-label derivative is the property of capital importance. First, the spectroscopic characteristics of the potential labels and the derivatives were investigated by examination of their respective (1+1) REMPI spectra with an optical resolution of about 0.1 nm. For this propose, a time-of-flight mass spectrometer equipped with a medium pressure laser ionisation (MPLI) source was available. The system was refurbished, equipped with a new data-acquisition unit and coupled with an Nd:Yag laser pumped optical parametric oscillator (OPO), which generates laser light of variable frequencies in a range of 200 nm to 3100 nm. As part of this project, special software was written for the control and synchronisation of OPO, mass spectrometer and data acquisition. 
+Another important detail, which was required for recording REMPI spectra, was the design of the sample inlet. A means of transporting the analytes continuously into the ion source was created. The challenge here is to vaporise the liquid samples without diluting them too much. High dilution, as is used for pneumatically assisted vaporisation, would lead either to overtaxing the pumping system or to a decrease of the method&apos;s sensitivity. In addition to the optimisation of the sample-inlet arrangement, the configuration of the ion-source had to be revised. To this end, an auxiliary repeller was established to optimise the ions&apos; trajectories on their way through the differential pumping stage to the detector. The result of this development was a pressure-controlled sample inlet, which also enabled the vaporisation of compounds of low volatility without pressure fluctuations in the source. 
+The first step in the development of the ionisation labels was the recording of REMPI spectra of benzene derivatives. These compounds are suitable labels because they undergo ionisation during the REMPI process and have only little effect on the vaporisation of the label-analyte derivative. Another factor that had to be considered in the selection of labels was the ionisation yield at fixed-frequency laser wavelengths in the UV-range. Fixed-frequency lasers offer the advantages of low costs and a high repetition rate, which benefits the performance when coupling with chromatographic systems. From the beginning, the potential labels p-fluorotoluene and p-xylene were selected because of their good ionisation yield at the fourth harmonic of Nd:YAG lasers (l: 266 nm). Furthermore, aromatic silylation reagents were employed because of their rapid reactions. For detailed studies, the archetypical analytes palmitic acid and palmityl alcohol were derivatised with the potential labels, and their REMPI spectra were recorded. The measurements showed a shift of the derivatives&apos; absorption bands, which could be explained by reduction of electron density at the aromatic ring as well as intramolecular interactions between ionophore and the coupled analyte. By variation of ionophore, spacer, and anchor group, derivatives with an ionisation maximum at the fixed-frequency laser wavelength of 266 nm could be created. It was shown that the influence of the coupled analyte on the absorption bands of the derivative could be minimised. These results lead to the conclusion that the mass-spectrometric response factors for analytes tagged with the same REMPI label are virtually identical. Provided that the presently investigated analytes have the same derivatisation yield and similar vaporisation, this method leads to a significantly simplified analysis of the data. It was shown that mixtures of fatty alcohols in both standards and real samples could be quantified without chromatographic separation, solely on the basis of the mass spectra. 
+Similarly, the appropriateness of labels in GC analyses was demonstrated. A temperature- controlled line was constructed to transfer the sample into the ion source of the mass spectrometer. The analyses of a PAH mixture and labelled fat chemicals proved the functional efficiency of the GC-MPLI-MS coupling.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20090720</identifier>
+                    <identifier type="sys">HT015987866</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_813</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_813">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2009/moennikes/dc0904.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_813"
+            DMDID="DMD_wuppertal_elpub_813">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_813"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

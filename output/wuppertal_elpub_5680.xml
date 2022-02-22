@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5680">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Modes of Firm Growth and Their Effects on Firm Performance - An Empirical Analysis of the Chemical Industry</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Tingler, Stephan</displayForm>
+                        <namePart type="family">Tingler</namePart>
+                        <namePart type="given">Stephan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-09-15</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Das Wachstum von Firmen ist sowohl für Forscher als auch Praktiker von höchster Relevanz. Nahezu alle Interessensgruppen betrachten Firmenwachstum als ein positives Phänomen. Trotz dieser insgesamt positiven Wahrnehmung von Unternehmenswachstum sind die entsprechenden Auswirkungen auf die Unternehmensperformance sowohl aus theoretischer als auch empirischer Perspektive nicht eindeutig. Um diese Auswirkungen besser verstehen zu können ist eine detailliertere Analyse des Unternehmenswachstums erforderlich. Eine mögliche, differenziertere Perspektive des Unternehmenswachstums ist eine Analyse der einzelnen Wachstumsmodi sowie deren entsprechenden Auswirkungen auf die Firmenperformance. Firmenwachstum kann in anorganisches sowie organisches Wachstum unterteilt werden, welches wiederum in Wachstum durch Marktmomentum sowie Wachstum durch Marktanteilsveränderungen unterteilt werden kann. Um die Auswirkungen dieser unterschiedlichen Wachstumsmodi auf die Unternehmensperformance zu untersuchen wurde eine empirische Analyse von Unternehmen der chemischen Industrie durchgeführt. Sowohl eine Mittelwertsvergleichsanalyse als auch ein Fixed-Effects-Panelregressionsmodell zeigen signifikante Unterschiede in den Leistungseffekten der einzelnen Wachstumsmodi. In einem Zwei-Wachstumsmodi-Modell zeigt organisches Firmenwachstum deutlich bessere Leistungseffekte im Vergleich zu anorganischem Wachstum. In einem Drei-Wachstumsmodi-Modell zeigt Wachstum durch Marktmomentum die positivsten Performanceeffekte gefolgt von Wachstum über Marktanteilsveränderungen sowie anorganischem Wachstum in absteigender Reihenfolge. Die Ergebnisse dieser Arbeit liefern erste Einblicke für Forscher und Praktiker im Hinblick auf die Performanceeffekte der einzelnen Firmenwachstumsmodi. Basierend auf diesen Ergebnissen müssen Führungskräfte ihre Wahl der Wachstumsmodi und damit Wachstumsstrategien deutlich bewusster treffen.</abstract>
+                    <abstract type="content" lang="eng">Firm growth represents one of the major constructs of interests to researchers and practitioners comparably. Across all interest groups, firm growth itself is almost exclusively regarded as a positive phenomenon. However, despite the overall positive perception of firm growth, its effects on firm performance remain ambiguous from a theoretical as well as empirical perspective. In order to better understand its consequences, a more detailed analysis of firm growth is necessary. One perspective of a more differentiated analysis of firm growth is to consider the different modes of growth and the corresponding performance consequences. Firm growth can be differentiated into inorganic growth and organic growth, which can be further decomposed into growth from market momentum and growth via market share changes. To integratively analyze the performance effects of these different firm growth modes, an empirical analysis focusing on companies from the chemical industry is conducted. A mean comparison analysis as well as a fixed effects panel regression model reveal signifciant differences in the performance effects across the different firm growth modes. In a two-growth-modes-model, organic firm growth shows better performance consequences compared to inorganic firm growth. In a three-growth-modes-model, growth from market momentum has the most positive effects on firm performance followed by growth via market share changes and inorganic growth in descending order. These results provide initial insights for researchers and practitioners on the performance effects of growth modes. Based on these results, managers may need to be more concerned about their choice of growth modes and thus in defining their respective growth strategies.</abstract>
+                    <subject>
+                        <topic>Firm Growth</topic>
+                        <topic>Firm Growth Modes</topic>
+                        <topic>Firm Performance</topic>
+                        <topic>Chemical Industry</topic>
+                        <topic>Growth Strategies</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20160419-114304-1</identifier>
+                    <identifier type="sys">HT018954677</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5680</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5680">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2015/tingler/db1502.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5680"
+            DMDID="DMD_wuppertal_elpub_5680">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5680"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

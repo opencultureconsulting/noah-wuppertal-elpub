@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_10480">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Zyklografie Wilhelm Fiedlers</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wengel, Robert</displayForm>
+                        <namePart type="family">Wengel</namePart>
+                        <namePart type="given">Robert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Volkert, Klaus</displayForm>
+                        <namePart type="family">Volkert</namePart>
+                        <namePart type="given">Klaus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-05-13</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die vorliegende Dissertation beschäftigt sich mit der von Wilhelm Fiedler im 19. Jahrhundert entwickelten Abbildungsmethode der Zyklografie und gliedert sich in drei Teile. Der erste Abschnitt der Arbeit behandelt neben der Biografie Fiedlers historische Aspekte der Entwicklung der Zyklografie. So werden Fiedlers Leben und Wirken sowie seine Beiträge zur Mathematik thematisiert. Unter Bezugnahme auf verschiedene historische Quellen wird rekonstruiert, wann und unter welchen Umständen die Zyklografie entstand. An dieser Stelle wird insbesondere aufgezeigt, weshalb Fiedler die Veröffentlichung seines Lehrwerkes „Cyklographie oder Construction der Aufgaben über Kreise und Kugeln und elementare Geometrie der Kreis- und Kugelsysteme“ (kurz: Cyklographie) verzögerte. Darüber hinaus gibt dieser Abschnitt der Arbeit Aufschluss darüber, welche Themen in der Cyklographie behandelt werden und wie die Zyklografie rezipiert wurde. Der zweite Teil der Arbeit arbeitet die mathematische Theorie in einer modernen, zeitgemäßen Struktur und Symbolik auf. Hier wird mit den Grundlagen der Zentralprojektion im klassischen Sinne begonnen und das zyklografische Abbildungsverfahren eingeführt. Zahlreiche Konstruktionsaufgaben mit vielen ergänzenden Abbildungen demonstrieren die Nützlichkeit und Sinnhaftigkeit der Zyklografie. Darüber hinaus wird das Konzept der Kreisbüschel im zyklografischen Stile behandelt und in diesem Kontext der Bezug zur Hyperbel hergestellt. Dabei werden auch Begriffe, wie die Potenz eines Punktes in Bezug auf einen Kreis und die Kreisinversion, angesprochen. Einen weiteren zentralen Aspekt dieses Abschnittes bildet die Diskussion des Apollonischen Berührproblems unter Anwendung des zyklografischen Verfahrens. Hierbei werden sowohl ein analytischer Ansatz als auch eine Möglichkeit aufgezeigt, das Problem mit Zirkel und Lineal zu lösen. Den Abschluss des Abschnittes bilden Fragestellungen mit dem Schwerpunkt der Bestimmung von Kreisen, die andere unter bestimmten Winkeln schneiden. Der finale Teil der Arbeit beschäftigt sich mit einem didaktischen Diskurs der Zyklografie. Es werden unter anderem Fiedlers didaktische Ansichten zur Vermittlung und Lehre der Geometrie auf Grundlage historischer Quellen herausgearbeitet. So erfährt man, welche Aspekte Fiedler in der Lehre von Geometrie wichtig waren. Im Anschluss daran wird eine selbst entwickelte Unterrichtsreihe mit dem Themenschwerpunkt einer unterrichtlichen Behandlung der Zyklografie in der schulischen Oberstufe dargestellt. Hier werden curricular relevante Aspekte des Oberstufenunterrichts im Fach Mathematik, wie die Untersuchung von Geraden im Raum, aufgegriffen und zyklografisch behandelt. Den Abschluss des letzten Teils der Dissertation bildet eine Diskussion der Vorzüge und Nachteile der Behandlung von Raumgeometrie mit der zyklografischen Methode im Vergleich zur Anwendung von Analytischer Geometrie mit Linearer Algebra. In diesem Kontext wird die Frage aufgegriffen, weshalb sich die Abbildungsvorschrift nicht durchsetzen konnte und heute nur wenig bekannt ist.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20200513-100658-4</identifier>
+                    <identifier type="doi">10.25926/ap24-xa94</identifier>
+                    <identifier type="sys">HT020535707</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_10480</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_10480">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2020/wengel/dc2002.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_10480"
+            DMDID="DMD_wuppertal_elpub_10480">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_10480"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

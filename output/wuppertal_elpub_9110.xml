@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9110">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Real-Time Simulation and Prognosis of Smoke Propagation in Compartments Using a GPU</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Küsters, Anne</displayForm>
+                        <namePart type="family">Küsters</namePart>
+                        <namePart type="given">Anne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-02-04</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The evaluation of life safety in buildings in case of fire is often based on smoke spread calculations. However, recent simulation models – in general, based on computational fluid dynamics – often require long execution times or high-performance computers to achieve simulation results in or faster than real-time. 
+Therefore, the objective of this study is the development of a concept for the real-time and prognosis simulation of smoke propagation in compartments using a graphics processing unit (GPU). The developed concept is summarized in an expandable open source software basis, called JuROr (Jülich&apos;s Real-time simulation within ORPHEUS). JuROr simulates buoyancy-driven, turbulent smoke spread based on a reduced modeling approach using finite differences and a Large Eddy Simulation turbulence model to solve the incompressible Navier-Stokes and energy equations. This reduced model is fully adapted to match the target hardware of highly parallel computer architectures. Thereby, the code is written in the object-oriented programming language C++ and the pragma-based programming model OpenACC. This model ensures to maintain a single source code, which can be executed in serial and parallel on various architectures. 
+Further, the study provides a proof of JuROr&apos;s concept to balance sufficient accuracy and practicality. First, the code was successfully verified using unit and (semi-) analytical tests. Then, the underlying model was validated by comparing the numerical results to the experimental results of scenarios relevant for fire protection. Thereby, verification and validation showed acceptable accuracy for JuROr&apos;s application. Lastly, the performance criteria of JuROr – being real-time and prognosis capable with comparable performance across various architectures – was successfully evaluated. Here, JuROr also showed high speedup results on a GPU and faster time-to-solution compared to the established Fire Dynamics Simulator. These results show JuROr&apos;s practicality.</abstract>
+                    <abstract type="content" lang="ger">Die Bewertung der Personensicherheit bei Feuer in Gebäuden basiert häufig auf Berechnungen zur Rauchausbreitung. Bisherige Simulationsmodelle – im Allgemeinen basierend auf numerischer Strömungsdynamik – erfordern jedoch lange Ausführungszeiten oder Hochleistungsrechner, um Simulationsergebnisse in und schneller als Echtzeit liefern zu können. 
+Daher ist das Ziel dieser Arbeit die Entwicklung eines Konzeptes für die Echtzeit- und Prognosesimulation der Rauchausbreitung in Gebäuden mit Hilfe eines Grafikprozessors (GPU). Zusammengefasst ist das entwickelte Konzept in einer erweiterbaren Open-Source-Software, genannt JuROr (Jülich&apos;s Real-time Simulation in ORPHEUS). JuROr simuliert die Ausbreitung von auftriebsgetriebenem, turbulentem Rauch basierend auf einem reduzierten Modellierungsansatz mit finiten Differenzen und einem Large Eddy Simulation Turbulenzmodell, um inkompressible Navier- Stokes und Energiegleichungen zu lösen. Das reduzierte Modell ist voll- ständig angepasst an hochparallele Computerarchitekturen. Dabei ist der Code implementiert mit C++ und OpenACC. Dies hat den Vorteil mit nur einem Quellcode verschiedenste serielle und parallele Ausführungen des Programms für unterschiedliche Architekturen erstellen zu können. 
+Die Studie liefert weiterhin einen Konzeptnachweis dafür, ausreichende Genauigkeit und Praktikabilität im Gleichgewicht zu halten. Zunächst wurde der Code erfolgreich mit Modul- und (semi-) analytischen Tests verifiziert. Dann wurde das zugrundeliegende Modell durch einen Vergleich der numerischen mit den experimentellen Ergebnissen für den Brandschutz relevanter Szenarien validiert. Die Verifizierung und Validierung zeigten dabei ausreichende Genauigkeit für JuROr. Zuletzt, wurden die Kriterien von JuROr – echtzeit- und prognosefähig zu sein mit vergleichbarer Leistung auf unterschiedlichsten Architekturen – erfolgreich geprüft. Zudem zeigte JuROr hohe Beschleunigungseffekte auf einer GPU und schnellere Lösungszeiten im Vergleich zum etablierten Fire Dynamics Simulator. Diese Ergebnisse zeigen JuROr&apos;s Praktikabilität.</abstract>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Architektur und Bauingenieurwesen » Bauingenieurwesen"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20190204-092259-7</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9110</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9110">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/bauingenieurwesen/diss2018/kuesters/dd1804.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9110"
+            DMDID="DMD_wuppertal_elpub_9110">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9110"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

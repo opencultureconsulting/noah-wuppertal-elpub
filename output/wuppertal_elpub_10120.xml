@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_10120">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Structural and Optoelectronic Properties, Phase Transitions, and Degradation of Semiconducting CsPbI₃-Perovskite Thin-Films for Photovoltaics</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Becker, Pascal</displayForm>
+                        <namePart type="family">Becker</namePart>
+                        <namePart type="given">Pascal</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-01-09</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This work presents an overview of CsPbI₃ thin-films deposited by co-evaporation, covering the fabrication process, crystallographic and optoelectronic properties, high temperature phase transition and degradation of the material. For the first time, these aspects are studied on sample libraries with a continuous lateral gradient in composition. For the fabrication of these films, an evaporation system was specifically designed and set up, that allows the flexible and controllable deposition of the films and the capability to conduct various in-situ characterization methods. High-throughput characterization methods are employed to investigate the CsPbI₃ libraries allowing unprecedented fast screening of the properties of the material. The polymorphic transitions of the CsPbI₃ system are studied in detail with in-situ methods. Models for the formation of the perovskite-CsPbI₃ and its degradation to the non-perovskite polymorph films are developed as a function of temperature and atmospheric conditions.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20200109-101650-1</identifier>
+                    <identifier type="doi">10.25926/0088-s132</identifier>
+                    <identifier type="sys">HT020388432</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_10120</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_10120">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2019/becker/dc1942.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_10120"
+            DMDID="DMD_wuppertal_elpub_10120">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_10120"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

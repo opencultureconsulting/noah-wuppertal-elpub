@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_11360">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Varianten der Interpretation beim deutschen Konjunktiv I. Eine formbasierte Ableitung der Funktionsbereiche Indirektheit und Direktivität.</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Richarz, Benjamin</displayForm>
+                        <namePart type="family">Richarz</namePart>
+                        <namePart type="given">Benjamin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lohnstein, Horst</displayForm>
+                        <namePart type="family">Lohnstein</namePart>
+                        <namePart type="given">Horst</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Petrova, Svetlana</displayForm>
+                        <namePart type="family">Petrova</namePart>
+                        <namePart type="given">Svetlana</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-02-12</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Diese Arbeit betrachtet den deutschen Konjunktiv I zusammenhängend in seinen Funktionsbereichen &apos;Indirektheit&apos; und &apos;Direktivität&apos; (im weiter gefassten Sinne): Im Unterschied zu vielen Forschungsansätzen, in denen die Funktionen des Konjunktivs entweder als disparate semantische Grundtypen oder aber als Sprechaktoperatoren aufgefasst werden, wird der Konjunktiv I hier insgesamt auf flexionaler Basis als kompositionale Form verstanden und so als Träger einer abstrakten Grundbedeutung modelliert. Die Funktionstypen ergeben sich auf Grundlage dieses semantischen Eigenschaft als Interpretationsbereiche, die durch kontextuelle Bedingungen gesteuert werden. Diese Auffassung erlaubt ein integriertes Verständnis der Verbform, ohne dabei Phänomene auszuschließen, und steht im Zusammenhang einer größer angelegten Finitheitstheorie.</abstract>
+                    <subject>
+                        <topic>Verbmodus Finitheit Semantik Pragmatik Kontext</topic>
+                    </subject>
+                    <classification authority="ddc">430</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » Germanistik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20210212-133425-7</identifier>
+                    <identifier type="doi">10.25926/r96j-4e69</identifier>
+                    <identifier type="sys">HT020893372</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_11360</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_11360">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fba/germanistik/diss2020/richarz/da2001.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_11360"
+            DMDID="DMD_wuppertal_elpub_11360">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_11360"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

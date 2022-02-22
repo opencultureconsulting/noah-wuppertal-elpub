@@ -1,0 +1,66 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9790">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Beitrag zum Tragverhalten des Lasteinleitungsbereichs von Hohlprofil-Verbundstützen unter Berücksichtigung der Verformungseigenschaften von Schubringen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Menkenhagen, Philipp</displayForm>
+                        <namePart type="family">Menkenhagen</namePart>
+                        <namePart type="given">Philipp</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-09-19</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In der vorliegenden Arbeit wird über experimentelle und theoretische Untersuchungen an Lasteinleitungsbereichen von Hohlprofilverbundstützen mit massivem Einstellprofil berichtet, bei denen als Verbundmittel um den Einstellkern angeschweißte Schubringe zum Einsatz kommen. Der Anwendungsbereich umfasst Stahlgüten S235 bis S460 in Kombination mit normalfesten Betonen. Besonderes Augenmerk gilt dem Last-Verformungsverhalten für unterschiedliche geometrische und materialtechnische Randbedingungen. 
+ Versuche an zwei unterschiedlichen Lasteinleitungsbereichen von Hohlprofilverbundstützen bilden die Grundlage für ein numerisches Rechenmodell mit dessen Hilfe die Erkenntnisse auf weitere geometrische und materialtechnische Randbedingungen ausgeweitet werden. Auf Basis der FE-Berechnungen wird eine Näherungslösung zur Bestimmung der Längsschubtragfähigkeit der Schubringe hergeleitet.
+ Mit dieser Näherungslösung wird die Last-Verformungsbeziehung unterschiedlicher Lasteinleitungsbereiche angenähert. Hierbei ist es sowohl möglich, die maximal übertragbaren Spannungen unter den Schubringen zu ermitteln, als auch die übertragbaren Spannungen für beliebige Verformungszustände mit ausreichender Genauigkeit für baupraktische Anwendungszwecke zu bestimmen.
+ Beim Einsatz mehrerer Schubringe ist ein besonderes Augenmerk auf die Einhaltung der Einzeltragfähigkeiten der verwendeten Stützenkomponenten zu legen, weil bei bestimmten Randbedingungen nicht von einer gleichmäßigen Verteilung der Traganteile ausgegangen werden kann.
+ Es wird ein vereinfachtes Federmodell vorgestellt, mit dem sich die Tragfähigkeiten der Schubringe und der verwendeten Stützenkomponenten über das Last-Verformungsverhalten nachweisen lassen. Hierbei dienen die am Einzelschubring ermittelten Federkennlinien als Eingangsparameter für die Nachrechnung mit Hilfe eines Stabwerksprogramms.
+ Als Ergebnis liefert die Arbeit ein Berechnungsverfahren für die Bemessung von Lasteinleitungsbereichen mit Schubringen als Verbundmittel.</abstract>
+                    <abstract type="content" lang="eng">In this paper it is reported about experimental and theoretical investigations dealing with the load transfer areas of hollow section composite columns with massive steelcore profiles. In this columns shear rings are welded on the core profile for transmitting the longitudinal shear forces between the core and the surrounding concrete. The Scope of these research ist limited to normal-strength concrete and steel grades S235 to S460. Especially the load-deformation behaviour for columns with different materials and geometrically boundary conditions is analysed.
+ Experimental analysis with two different test specimen are conducted to verify an numerical calculation model to extend the findings to other materials and geometrical boundary conditions. Based on this model an approximate solution is developed to reproduce the maximal normal stress directly under the thrust rings.
+ With this solution the load-deformation behaviour of various load transfer areas can be re-produced. It is possible to compute the maximum normal stress under the welded shear rings either, or the applicable normal stress for a defined deformation state. The solution provides results that are sufficiently precise for building practice conditions.
+ In case of using various shear rings the resistance of the different components have to be checked carefully, because the assumption of an uniform distribution oft he normal stress on all thrust rings is not true for all deformation states at some boundary conditions. A simplicated spring model to check the resistance of the thrust rings an other components by the load-deformation behaviour is introduced. With the determined spring characteristic curves for single shear rings it is possible to reproduce the real behaviour with a simple 2D framework program.
+ As a conclusion this paper presents a calculation model to analyse the load transfer areas of hollow section columns with massive core profiles and shear rings for the longitudonal shear transfer.</abstract>
+                    <classification authority="ddc">620</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Architektur und Bauingenieurwesen » Bauingenieurwesen"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20190919-113711-0</identifier>
+                    <identifier type="doi">10.25926/dpkt-y504</identifier>
+                    <identifier type="sys">HT020293552</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9790</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9790">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/bauingenieurwesen/diss2019/menkenhagen/dd1906.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9790"
+            DMDID="DMD_wuppertal_elpub_9790">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9790"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

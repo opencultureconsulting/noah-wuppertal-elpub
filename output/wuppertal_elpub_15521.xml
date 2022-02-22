@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_15521">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Neuartige multifunktionelle Tenside auf Basis nachwachsender Rohstoffe</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lübke, Marco</displayForm>
+                        <namePart type="family">Lübke</namePart>
+                        <namePart type="given">Marco</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-13</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The increasing consumption of fossil materials will be a major challenge for the world, as this will harmfully affect the environment continuously. The increasing demand will lead to increasing costs for fossil raw materials, with negative impact and high prices for products of the chemical industry. Therefore, the use of renewable feedstocks is the way the chemical industry has to go. The use of different naturally oils is an important part to replace fossil materials. 
+ The development of new chemical products based on renewable materials is a major challenge for the chemical industry to keep the world in balance. The new products must be more efficient compared to previous chemical products. To be competitive, but better to be advantageous, smart design of the new products is necessary. 
+ The aim of this work was to investigate whether the synthesis of multifunctional surfactants is possible under use of renewable starting material. Additional target was to synthesize substances with bacteriostatic properties and corrosion inhibition. In order to create such multifunctional substances, it was necessary to obtain structure-activity relationships of the different functionalities. To accomplish this task, a compound library was developed. The library was based on oleic acid, oleic alcohol and ricinoleic acid as starting material. The double bounds of the fatty acids were epoxidized in a first step to provide further functionalization to create a wide compound library for the structure-activity relationship. Furthermore, various esters based on oleic alcohol and different hydroxycarboxylic acids were synthesized and their surface activity were tested. 
+ The structure-activity relationships for corrosion inhibition and bacteriostatic are determined with statistical methods. 
+ Amines showed strong bacteriostatic properties. Citric acid esters and imides showed strong corrosion inhibition and good surface activity. The synthesis of a compound combining the previously mentioned structural characteristics was performed. The new synthesized compounds showed all properties of the mono functionalized compounds.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20211213-114753-3</identifier>
+                    <identifier type="doi">10.25926/e0bg-n145</identifier>
+                    <identifier type="sys">HT021181117</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_15521</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_15521">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2021/luebke/dc2126.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_15521"
+            DMDID="DMD_wuppertal_elpub_15521">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_15521"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

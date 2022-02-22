@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_254">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>New applications of the Fourier restriction norm method to wellposedness problems for nonlinear evolution equations</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Grünrock, Axel</displayForm>
+                        <namePart type="family">Grünrock</namePart>
+                        <namePart type="given">Axel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002-12-11</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In this thesis we are mainly concerned with local wellposedness (LWP) problems for nonlinear evolution equations, two global results will then be a direct consequence of conservation laws. A standard scheme to prove LWP is the application of the contraction mapping principle to the corresponding integral equation in a suitable Banach function space. In this context the use of a two parameter scale of function spaces closely adapted to the linear equation was introduced by Bourgain. The use of these spaces not only benefits of the above mentioned space time estimates, but also exploits certain structural properties of the nonlinearity, thus improving in many cases the results previously known. The idea was picked up by many authors, further developed and simplyfied, and is meanwhile known as the &quot;Fourier restriction norm method&quot;. 
+ This thesis is divided into two parts, the first of them being devoted to the description of this method, starting with definitions and elementary properties, continuing with a general local existence theorem, which reduces the wellposedness problem to nonlinear estimates, explaining how to insert the space time estimates into the framework of the method and finally discussing two strategies to tackle the crucial nonlinear estimates. It also contains, in a slightly modified form, some of the Strichartz type estimates for the Schroedinger equation in the periodic case due to Bourgain. We have tried to reach a high degree of selfcontainedness in this exposition. 
+ The second part contains the new research results, which we have obtained by the method. Here we are concerned with a certain class of derivative nonlinear Schroedinger equations, with solutions of nonlinear Schroedinger equations in Sobolev spaces of negative index and, finally, with the generalized Korteweg-deVries equation of order three. For a detailed summary we refer to the beginning of part II.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20020448</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_254</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_254">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-347/d070203.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_254"
+            DMDID="DMD_wuppertal_elpub_254">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_254"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

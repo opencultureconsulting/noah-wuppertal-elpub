@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_465">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Impact of Road Traffic Emissions on the Ozone Formation in Germany</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gomes, Jewel Andrew Gilbert</displayForm>
+                        <namePart type="family">Gomes</namePart>
+                        <namePart type="given">Jewel Andrew Gilbert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002-03-27</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Several measurement campaigns of nonmethane hydrocarbons (NMHC) and nitrogen oxides (NOₓ) were carried out in a road traffic tunnel (the Kiesberg tunnel) and in the city of Wuppertal in order to investigate the road traffic exhaust and their impact on city air. In addition, measurements were carried out in a rural area (Menz) of Germany for comparing and explaining indirectly some aspects of the emission situation of the city of Wuppertal. 
+The three measurement campaigns during 1997-98 in the Kiesberg tunnel showed similar NMHCs-profiles relative to benzene. They indicated that in spite of the increase of catalyst-equipped passenger cars in the administrative area of Düsseldorf, there were no significant changes in the road traffic exhaust situation in the case of NMHC emissions over this period of time due to the very high contribution of NMHC emissions from the uncontrolled vehicles (so-called super emitters). The NMHC-profile for the road traffic exhaust shows almost equal percental contribution of alkanes, alkenes/alkynes and aromatic compounds. Toluene (1.7±0.5 ppbC/ppbC) among the aromatic compounds, ethene/ethyne (2.5±0.8 ppbC/ppbC) among the alkenes/alkynes, and iso-pentane (1.2±0.4 ppbC/ppbC) among the alkanes showed the largest emission ratios relative to benzene. These compounds within their respective emission ratios can thus be considered as markers for road traffic exhaust. A comparison of the fuel’s composition with the compostion of the road traffic exhaust in the Kiesberg tunnel indicates an increase of the alkene contribution during the combustion. The NMHC/NOₓ ratio in ppbC/ppbv was found to be 0.6-20 for weekdays and 4.4±0.4 for weekends, which are in agreement with literature studies. The emission factors (mg/km) and emission indices (g/kg fuel) of NMHCs and NOₓ for light duty vehicles (LDV) and heavy duty vehicles (HDV) were calculated by comparing their measured emission ratios relative to CO₂ with the emission value of CO₂ in mg/km (using the German Handbook of Emission Factors for Road Transport) and in g/kg fuel (literature values), respectively, and compared with other studies. The applicability of these factors and indices for estimation of the emissions from LDV in North-Rhine Westfalia is also presented. 
+The NMHC-profile for the city air of Wuppertal showed that the percental contributions of alkanes, alkenes/alkynes and aromatic hydrocarbons were 57.2±6.5%, 14.5±3.6% and 28.3±5.1%, respectively. Comparison with other literature values shows that the toluene/benzene emission ratio (1.7±0.5) can justifiably be used as a marker for the road traffic sector in a region or an air mass. The calculated NMHC/NOₓ values (2.4-4.8) for the city air of Wuppertal agreed well with those of other studies of urban areas. The higher values of this ratio in comparison with that of the Kiesberg tunnel can be explained by the more frequent urban stop-and-go driving situation in the city. It was also confirmed that the limit values for benzene and NO₂ prescribed by the Federal immission control act of Germany (1998) were not exceeded in the city of Wuppertal. 
+A comparison of the NMHC-profile relative to benzene (ppbC/ppbC) for the city of Wuppertal with that of the tunnel air showed that road traffic still has the largest contribution in the measured NMHC-mix (in the range of C₂-C₉) for the city of Wuppertal, which is in contrast with the report of Federal Environment Agency of Germany (Umweltbundesamt), and this can also be generalized for other German cities. The comparison also showed small effects possibly from other sources, namely solvents and leakage of natural gas. The calculations of percental OH reactivities and the approximate percental MIR and POCP indices for the tunnel air and the city air of Wuppertal showed that only a few NMHCs had major contributions with regard to the ozone formation potential of the measured NMHC-mix and alkenes had the largest percental contribution.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20020159</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_465</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_465">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-560/d090115.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_465"
+            DMDID="DMD_wuppertal_elpub_465">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_465"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

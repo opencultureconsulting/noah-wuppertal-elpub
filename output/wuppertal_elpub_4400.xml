@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_4400">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Autarke, koordinierte Spannungs- und Leistungsregelung in Niederspannungsnetzen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Oerter, Christian</displayForm>
+                        <namePart type="family">Oerter</namePart>
+                        <namePart type="given">Christian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Zdrallek, Markus</displayForm>
+                        <namePart type="family">Zdrallek</namePart>
+                        <namePart type="given">Markus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Umstrukturierung der Energieversorgung, geprägt durch den Begriff Energiewende, hat weitreichende Auswirkungen auf die elektrischen Netze, insbesondere auf der Verteilungsnetzebene. Die heute typischen Verteilungsnetze, vor allem die Niederspannungsnetze, sind für die mit der Umstrukturierung verbundenen neuen Anforderungen nicht ausgelegt, so dass einerseits kurzzeitige Überschreitungen des zulässigen Spannungstoleranzbereichs auftreten können, andererseits steigt die Auslastung von Netzkomponenten an, so dass diese in einzelnen Fällen überlastet werden. 
+
+ Derartige kritische Netzlastsituationen lassen sich mittels konventioneller Netzausbaumaßnahmen vermeiden, die jedoch häufig mit hohen Investitionskosten verbunden sind. Die sogenannten intelligenten Netze stellen eine Alternative zu konventionellen Netzausbaumaßnahmen dar. Durch den Einsatz von Mess- und Automatisierungstechnik werden die Spannungen an einzelnen Netzknoten, Leistungsflüsse und Betriebsmittelauslastungen quantifizierbar, auftretende Toleranzbereichüberschreitungen hinsichtlich Spannungsband oder Auslastung können identifiziert und lokalisiert werden. Durch die gezielte Regelung von steuerbaren Komponenten im Netz können die identifizierten Probleme behoben werden. Zu den generellen Regelungsmöglichkeiten in Niederspannungsnetzen zählen einerseits die direkte Spannungsregelung durch regelbare Ortsnetztransformatoren oder leistungselektronische Spannungsregler, anderseits die Leistungsregelung von Netzteilnehmern, d.h. Blindleistungs- und Wirkleistungsregelung, die sowohl zur indirekten Spannungsregelung als auch zur Vermeidung bzw. Behebung von Überlastungen genutzt werden kann. Die Netzautomatisierung erhöht damit die Aufnahmefähigkeit der Verteilungsnetze für dezentrale Erzeugungsanlagen durch Regelungseingriffe in kritischen Netzlastsituationen, die häufig nur zeitlich begrenzt auftreten. 
+
+ Die vorliegende Arbeit befasst sich mit der Entwicklung einer autarken, koordinierten und selektiven Spannungs- und Leistungsregelung für Niederspannungsnetze. Als Grundlage für die Spannungs- und Leistungsregelung im Niederspannungsnetz dient die Identifikation und Analyse des aktuellen Netzzustands. Wenn Toleranzbereichüberschreitungen identifiziert werden, können diese durch gezielte Regelungseingriffe entsprechend der im Rahmen dieser Arbeit entwickelten Regelungsstrategien ausgeregelt werden. Die Regelungsstrategien wurden in zur Realisierung eines dezentralen Automatisierungskonzepts in ein Automatisierungssystem integriert, so dass ein Online-Betrieb, unabhängig von einem übergeordneten Leitsystem, ermöglicht wird. Durch die zyklische Analyse des Netzzustands und gezielte Regelungseingriffe kann somit ein zulässiger Betriebszustand des Netzes unter den dargestellten gestiegenen Anforderungen aufrechterhalten werden. Die Verifikation der Funktionsweise erfolgte anhand umfangreicher Simulationen und Tests, sowohl in einer Testumgebung, die den Netzbetrieb abbildet, als auch im realen Netzbetrieb. Die vorgestellten Regelungsstrategien und deren Realisierung in einem dezentralen Automatisierungskonzept stellen einen Beitrag zur Entwicklung von intelligenten Netzen dar.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20141126-112206-8</identifier>
+                    <identifier type="sys">HT018520986</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_4400</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_4400">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2014/oerter/de1405.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_4400"
+            DMDID="DMD_wuppertal_elpub_4400">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_4400"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

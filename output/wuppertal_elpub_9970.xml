@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9970">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Computersimulation von Transport- und Gleichgewichtseigenschaften molekularer Systeme</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Engelmann, Sven</displayForm>
+                        <namePart type="family">Engelmann</namePart>
+                        <namePart type="given">Sven</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-11-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die vorliegende Dissertationsschrift befasst sich mit der Analyse von Stoffeigenschaften ausgewählter Substanzen mithilfe von Molekulardynamiksimulationen. Dabei finden Methoden aus der Transport- und Fluktuationstheorie Verwendung. Die Stoffeigenschaften der besagten Substanzen sind solche, die unter bestimmten thermophysikalischen Bedingungen durch experimentelle oder theoretische Ansätze bisher erst teilweise verstanden sind. Die Herangehensweise über Molekulardynamik-Computersimulationen soll hier eine weitere Perspektive bieten, mit deren Hilfe dieses Verhalten verstanden werden kann. Zu diesem Zweck sind zwei unterschiedliche Systeme von besonderem Interesse. Zum einen handelt es sich um vulkanisiertes cis-1-4-Polyisopren, dessen Transporteigenschaft Wärmeleitfähigkeit in Form des Wärmeleitfähigkeitstensors in Abhängigkeit einer vorgegebenen Dehnung um bis zu 200% seiner ursprünglichen Länge betrachtet wird. Es ist ein exponentielles Verhalten der Wärmeleitfähigkeit in Streckrichtung zu beobachten, die auf kurzlebige Phononen zurückzuführen ist, die sich entlang der Polymerketten ausbreiten. Das andere System ist das Nanofluid aus einer Salzschmelze von Kaliumnitrat und Silicapartikeln. In diesen Systemen zeigt sich ein kontraintuitiver Anstieg der Wärmekapazität für einen schon geringen Massenanteil an Silicapartikeln. Dieses Verhalten wird unter Zuhilfenahme räumlicher und spektraler Verteilungen untersucht.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20191128-103740-0</identifier>
+                    <identifier type="doi">10.25926/29df-k276</identifier>
+                    <identifier type="sys">HT020338423</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9970</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9970">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2019/engelmann/dc1933.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9970"
+            DMDID="DMD_wuppertal_elpub_9970">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9970"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>
