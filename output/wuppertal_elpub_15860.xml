@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_15860">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Motorische Kontrolle unter körperlicher Ermüdung - Der Einfluss unterschiedlicher Belastungsprotokolle auf ausgewählte biomechanische und subjektive Parameter bei einbeinigen Sprüngen und Landungen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Illner, Fabian</displayForm>
+                        <namePart type="family">Illner</namePart>
+                        <namePart type="given">Fabian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-02-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <classification authority="ddc">610</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Human- und Sozialwissenschaften » Sportwissenschaft"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20220222-092009-7</identifier>
+                    <identifier type="doi">10.25926/8g8y-c389</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_15860</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_15860">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbg/sportwissenschaft/diss2021/illner/dg2105.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_15860"
+            DMDID="DMD_wuppertal_elpub_15860">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_15860"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>
