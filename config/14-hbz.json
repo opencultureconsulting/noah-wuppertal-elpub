@@ -6,7 +6,7 @@
       "mode": "row-based"
     },
     "baseColumnName": "urn",
-    "urlExpression": "grel:'https://lobid.org/resources/search?q=urn:\\\"' + value + '\\\"'",
+    "urlExpression": "grel:'https://lobid.org/resources/search?q=urn%3A%22' + value + '%22'",
     "onError": "set-to-blank",
     "newColumnName": "lobid",
     "columnInsertIndex": 5,
@@ -19,14 +19,14 @@
       },
       {
         "name": "user-agent",
-        "value": "OpenRefine 3.4 [6443506]"
+        "value": "OpenRefine 3.5.0 [d4209a2]"
       },
       {
         "name": "accept",
         "value": "*/*"
       }
     ],
-    "description": "Create column lobid at index 5 by fetching URLs based on column urn using expression grel:'https://lobid.org/resources/search?q=urn:\\\"' + value + '\\\"'"
+    "description": "Create column lobid at index 5 by fetching URLs based on column urn"
   },
   {
     "op": "core/column-addition",
