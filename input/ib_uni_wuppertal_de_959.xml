@@ -1,0 +1,65 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:959</id><datestamp>2018-01-22</datestamp><setSpec>DDC:6:60:600</setSpec>
+          <dc:title xml:lang="de">H-unendlich-Methode für lineare Deskriptorsysteme mit nicht-properem Übertragungsverhalten</dc:title>
+          <dc:creator>Bernhard, Dirk</dc:creator>
+          <dc:date>2008-02-27</dc:date>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/sicherheitstechnik/diss2007/bernhard</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=959</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20080088</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1065/dd0711.pdf</dc:identifier>
+          <dc:description xml:lang="de">Deskriptorsysteme sind mathematische Modelle technischer Prozesse, die durch Differential- und algebraische Gleichungen beschrieben werden. Dadurch erlauben sie einen wesentlich besseren physikalischen Einblick in das Verhalten dynamischer Systeme als die meist abstrakte Formulierung im Zustandsraum. Dieser Vorteil wird jedoch durch vermehrte Schwierigkeiten bei der Analyse und Synthese derartiger Systeme erkauft.&lt;br&gt;&#13;
+Bei Deskriptorsystemen mit nicht-properem Übertragungsverhalten hängt das Eingangs-/ Ausgangsverhalten im Zeitbereich von höheren Ableitungen der Eingangsgrößen ab. Nicht-properes Übertragungsverhalten kann nur bei Deskriptor-Realisierungen mit höherem Index auftreten [1], [2].&lt;br&gt;&#13;
+Mit der H&lt;sub&gt;∞&lt;/sub&gt;-Methode kann ein Regler entworfen werden, der unter Vorgabe von dynamischen Gewichtungsfunktionsmatrizen gutes Führungs- und Störverhalten aufweist und gleichzeitig robust gegenüber Parameterunsicherheiten ist.&lt;br&gt;&#13;
+Das Ziel der Arbeit ist die Untersuchung der Anwendbarkeit bekannter H&lt;sub&gt;∞&lt;/sub&gt;-Methoden auf Regelstrecken, die als Deskriptorsystem vorliegen und nicht-properes Übertragungsverhalten zeigen. In dieser Arbeit werden zwei H&lt;sub&gt;∞&lt;/sub&gt;-Lösungsansätze in Deskriptorform diskutiert [3], [5]. Die Analyse beider Ansätze führt zu einer Erweiterung der Regularitätsbedingungen, die Voraussetzung zur Lösung des nicht-properen H&lt;sub&gt;∞&lt;/sub&gt;-Problems ist. Dabei führt der in der Arbeit vorgeschlagene Ansatz nicht nur zu einer rein mathematischen Lösung des nicht-properen H&lt;sub&gt;∞&lt;/sub&gt;-Problems, sondern vor allem zu einem technisch realisierbaren H&lt;sub&gt;∞&lt;/sub&gt;-Regler. Eine der Voraussetzungen zur Lösung des Problems ist der Entwurf von Formfiltern, die ein nicht-properes Übertragungsverhalten einer Regelstrecke in ein properes Übertragungsverhalten überführen. Das Verfahren wird in dieser Arbeit als Methode der "Properisierung" bezeichnet. Diese Methode dient dem Entwurf von Formfiltern auf der Grundlage von Systeminformationen einer bestimmten Deskriptorsystem-Darstellung, der so genannten "Weierstraß-Kronecker-Normalform".&lt;br&gt;&#13;
+Der nicht-propere H&lt;sub&gt;∞&lt;/sub&gt;-Entwurf in Deskriptorform und die Methode der "Properisierung" werden an einem Anwendungsbeispiel aus der sicherheitstechnischen Regelungstechnik veranschaulicht. Das Anwendungsbeispiel basiert auf einem Benchmark-Problem [4], mit welchem die aktive Dämpfung von Gebäudeschwingungen, verursacht durch Erdbeben, simuliert werden kann.&lt;br&gt;&lt;br&gt;&#13;
+[1]        Müller, P. C.: Linear-Quadratic Optimal Control of Non-Proper Descriptor Systems.&lt;br&gt;&#13;
+      Proc. MTNS 2000, Perpignan, 2000.&lt;p&gt;&#13;
+[2]        Müller, P. C.: Optimal Control of Proper and Nonproper Descriptor Systems.&lt;br&gt;&#13;
+      Archive of Applied Mechanics 72, 2003.&lt;p&gt;&#13;
+[3]        Rehm, A.; Allgöwer, F.: H  Control of Descriptor Systems with high Index.&lt;br&gt;&#13;
+      IFAC World Congress, Beijing, P. R. China, Vol. D, S. 31-37, 1999.&lt;p&gt;&#13;
+[4]        Spencer, B. F., Jr.; Christenson, R. E.; Dyke, S. J.: Next Generation Benchmark Control Problems for Seismically Excited Buildings.&lt;br&gt;&#13;
+      Proc. 2nd World Conf. on Structural Control, Vol. 2, S. 1135-1360, 1999.&lt;p&gt;&#13;
+[5]        Takaba, K.; Morihira, N.; Katayama, T.: H  Control for Descriptor Systems - A J-Spectral&#13;
+Factorization Approach.&lt;br&gt;&#13;
+      Proc. 33rd Conf. on Decision and Control, Lake Buena Vista, FL, S. 2251-2256, 1994.</dc:description>
+          <dc:description xml:lang="en">Descriptor systems are mathematical models, consisting of differential and algebraic equations, of technical processes. Thus, descriptor systems allow for a significantly better insight into the physical behaviour of dynamic systems compared to descriptions given in the state-space which are often very abstract. But this advantage is bought at the expense of increased difficulties concerning analysis and synthesis.&lt;br&gt;&#13;
+The input-/output behaviour of descriptor systems with non-proper transfer behaviour depends on higher derivatives of the inputs in the time domain. Therefore, non-proper transfer behaviour only appears in descriptor systems of higher index [1], [2].&lt;br&gt;&#13;
+The H&lt;sub&gt;∞&lt;/sub&gt;-approach allows for the design of a controller that features a good response- and disturbance reaction by the presetting of dynamical weighting matrices and coinstantaneous a robustness concerning parameter uncertainties.&lt;br&gt;&#13;
+The aim of this thesis is to check the applicability of known H&lt;sub&gt;∞&lt;/sub&gt;-approaches to closed loop controlled systems given in descriptor form with non-proper transfer behaviour. Two H&lt;sub&gt;∞&lt;/sub&gt;-methods of resolution in descriptor form [3], [5] are discussed. The analysis of the methods leads to an extension of the regularity conditions which are pre-conditions for the solution of non-proper H&lt;sub&gt;∞&lt;/sub&gt;-problems. The proposed approach does not result in a pure mathematical solution of the non-proper H&lt;sub&gt;∞&lt;/sub&gt;-problems though. It rather leads to a realizable H&lt;sub&gt;∞&lt;/sub&gt;-controller. One of the pre-conditions for the solution is the design of form filters transferring the non-proper transfer behaviour of the plant into a proper one. This method is called "properization". Properization is used to design form filters on the basis of system information given by a special representation of the descriptor system, the so-called "Weierstraß-Kronecker" normal form.&lt;br&gt;&#13;
+The non-proper H&lt;sub&gt;∞&lt;/sub&gt;-design and the properization are illustrated by an example out of safety control engineering. This example is based on a benchmark [4] simulating the active damping of building vibrations.&#13;
+&lt;br&gt;&lt;br&gt;&#13;
+[1]        Müller, P. C.: Linear-Quadratic Optimal Control of Non-Proper Descriptor Systems.&lt;br&gt;&#13;
+      Proc. MTNS 2000, Perpignan, 2000.&lt;p&gt;&#13;
+[2]        Müller, P. C.: Optimal Control of Proper and Nonproper Descriptor Systems.&lt;br&gt;&#13;
+      Archive of Applied Mechanics 72, 2003.&lt;p&gt;&#13;
+[3]        Rehm, A.; Allgöwer, F.: H  Control of Descriptor Systems with high Index.&lt;br&gt;&#13;
+      IFAC World Congress, Beijing, P. R. China, Vol. D, S. 31-37, 1999.&lt;p&gt;&#13;
+[4]        Spencer, B. F., Jr.; Christenson, R. E.; Dyke, S. J.: Next Generation Benchmark Control Problems for Seismically Excited Buildings.&lt;br&gt;&#13;
+      Proc. 2nd World Conf. on Structural Control, Vol. 2, S. 1135-1360, 1999.&lt;p&gt;&#13;
+[5]        Takaba, K.; Morihira, N.; Katayama, T.: H  Control for Descriptor Systems - A J-Spectral&#13;
+Factorization Approach.&lt;br&gt;&#13;
+      Proc. 33rd Conf. on Decision and Control, Lake Buena Vista, FL, S. 2251-2256, 1994.</dc:description>
+          <dc:description xml:lang="fr">Les systèmes-descripteurs sont des models mathématiques, qui decrivent des processus techniques des équations différentielles et algébriques. C'est pour cela que les systèmes dynamiques sont décrits d'une manière plus precise que par la description plus abstracte dans l'espace des états. Cependant l'inconvenient se presente dans la difficulté de l'analyse et la synthèse de ce sorte de système.&lt;br&gt;&#13;
+Le comportement d'entrée et de sortie des systèmes-descripteurs linéairs avec transmission non-propre depend des dérivées plus hautes de grandeurs d'entrée. Une transmission non-propre peut se produire seulement au cas où les systèmes-descripteurs ont un index plus haut [1], [2].&lt;br&gt;&#13;
+Avec la mèthode H&lt;sub&gt;∞&lt;/sub&gt; on peut élaborer un régulateur, qui se laisse bien guider avec l'aide des matrices de fonction d'évaluation. Ce regulateur ne soumit pas facilement aux erreurs et il n'est pas sensible aux paramètres incertains.&lt;br&gt;&#13;
+Le but de cette dissertation est l'examination de l'applicabilité des mèthodes H&lt;sub&gt;∞&lt;/sub&gt; connues sur un système réglé, qui existent comme des systèmes descripteurs avec transmission non-propre. Cette dissertation discute deux H&lt;sub&gt;∞&lt;/sub&gt;-solutions possibles, qui ont la forme d'un descripteur [3], [5]. L'analyse des deux possibilités mêne à une augmentation des conditions de regularité comme une condition pour resoudre des problèmes de H&lt;sub&gt;∞&lt;/sub&gt; non-propre. Pourtant la possibilité proposée dans cette dissertation ne presente pas une solution seulement mathématique des H&lt;sub&gt;∞&lt;/sub&gt;-problèmes non-propres, mais surtout elle mêne à la réalisation technique d'un H&lt;sub&gt;∞&lt;/sub&gt;-régulateur. Pour resoudre ce problème il est nécessaire de créer des filtres de forme, qui transfèrent une transmission non-propre d'un système réglé en une transmission propre. Le procédé dans cette dissertation sera nomé la mèthode "properisation". Cette mèthode sert à la création des filtres de forme sur la base des informations d'un certain système-descripteur, connu comme "Weierstraß-Kronecker" forme normale.&lt;br&gt;&#13;
+Les linéaments H&lt;sub&gt;∞&lt;/sub&gt; non-propre et la mèthode de "properasition" seront concrétisés par un exemple de pratique des techniques de sécurité. Cet exemple de pratique se base sur un test d'évaluation [4], avec lequel on simule l'amortissement actif des mouvements oscillatoires des immeubles provoqués par des séismes.&#13;
+&lt;br&gt;&lt;br&gt;&#13;
+[1]        Müller, P. C.: Linear-Quadratic Optimal Control of Non-Proper Descriptor Systems.&lt;br&gt;&#13;
+      Proc. MTNS 2000, Perpignan, 2000.&lt;p&gt;&#13;
+[2]        Müller, P. C.: Optimal Control of Proper and Nonproper Descriptor Systems.&lt;br&gt;&#13;
+      Archive of Applied Mechanics 72, 2003.&lt;p&gt;&#13;
+[3]        Rehm, A.; Allgöwer, F.: H  Control of Descriptor Systems with high Index.&lt;br&gt;&#13;
+      IFAC World Congress, Beijing, P. R. China, Vol. D, S. 31-37, 1999.&lt;p&gt;&#13;
+[4]        Spencer, B. F., Jr.; Christenson, R. E.; Dyke, S. J.: Next Generation Benchmark Control Problems for Seismically Excited Buildings.&lt;br&gt;&#13;
+      Proc. 2nd World Conf. on Structural Control, Vol. 2, S. 1135-1360, 1999.&lt;p&gt;&#13;
+[5]        Takaba, K.; Morihira, N.; Katayama, T.: H  Control for Descriptor Systems - A J-Spectral&#13;
+Factorization Approach.&lt;br&gt;&#13;
+      Proc. 33rd Conf. on Decision and Control, Lake Buena Vista, FL, S. 2251-2256, 1994.</dc:description>
+          <dc:subject>600 Technik, Medizin, angewandte Wissenschaften » 600 Technik » 600 Technik, Technologie</dc:subject>
+          <dc:subject>Fakultät für Maschinenbau und Sicherheitstechnik » Sicherheitstechnik » Dissertationen</dc:subject>
+          <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
+          <dc:language>deu</dc:language>
+          <dc:format>application/pdf</dc:format>
+          <dc:type>Text</dc:type>
+        </oai_dc:dc>
