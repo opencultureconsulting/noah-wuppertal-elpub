@@ -1,61 +1,15 @@
-<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:5470</id><datestamp>2018-01-22</datestamp><setSpec>DDC:6:62:624</setSpec>
-          <dc:title xml:lang="de">Entwicklung eines Verfahrens zur photogrammetrischen Verformungsmessung mittels handelsüblicher Digitalkamera und Systemidentifikation mit der Methode der inversen finiten Elemente</dc:title>
-          <dc:creator>Stephan, Christoph</dc:creator>
-          <dc:date>2018-01-22</dc:date>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/bauingenieurwesen/diss2015/stephan</dc:identifier>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=5470</dc:identifier>
-          <dc:identifier>urn:nbn:de:hbz:468-20160118-112918-7</dc:identifier>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-5250/dd1505.pdf</dc:identifier>
-          <dc:description xml:lang="de">&lt;p&gt;Um die Standsicherheit und Funktionstüchtigkeit bestehender Bauwerke während ihrer gesamten Lebensdauer&#13;
-gewährleisten zu können, sind regelmäßige Untersuchungen und Bewertungen unerlässlich.&#13;
-Von besonderem Interesse sind dabei zerstörungsfreie Prüfmethoden, die beispielsweise auf Verformungs- oder&#13;
-Frequenzmessungen an der Struktur basieren.&lt;br&gt;&#13;
-Im ersten Teil dieser Arbeit werden Verfahren vorgestellt, die das Potenzial handelsüblicher Digitalkameras&#13;
-aus dem Jahre 2015 nutzen, um solche Messungen photogrammetrisch durchzuführen. Dazu&#13;
-wird die Position vorgegebener Punkte der Struktur in mehreren, nacheinander aufgenommenen Fotos&#13;
-des unverformten und verformten Zustands zunächst in Pixeln identifiziert und anschließend in echte&#13;
-Längeneinheiten umgerechnet. Die hierzu nötige genaue Kenntnis der Kamera und des Abbildungsvorgangs&#13;
-sowie dessen Invertierung werden eingehend erläutert.&lt;br&gt;&#13;
-Ein numerisches Verfahren zur Systemidentifikation bildet die Methode der inversen Finiten Elemente&#13;
-(iFEM), die im zweiten Teil dieser Arbeit vorgestellt und weiterentwickelt wird. Einer klassischen&#13;
-Modellierung mit Finiten Elementen werden zusätzliche Struktur- und Lastfreiheitsgrade hinzugefügt.&#13;
-Diese, sowie Abweichungen der rechnerischen Lösung von Messwerten, die an der bestehenden Struktur&#13;
-durchgeführt werden, werden mit Kosten bestraft, die es zu minimieren gilt. Es wird eine Erweiterung&#13;
-präsentiert, bei der die Kostenfunktion direkt minimiert wird, was unter anderem eine Berücksichtigung&#13;
-von Eigenfrequenzen als zusätzliche Messwerte und die Beschränkung von Freiheitsgraden erlaubt.&lt;br&gt;&#13;
-Im dritten Teil der Arbeit werden zunächst in einer Reihe von Laborversuchen die Leistungsfähigkeiten&#13;
-und Genauigkeiten der photogrammetrischen Messmethode und der iFEM untersucht. Verformungen&#13;
-können mit einer Genauigkeit von ±0,2 Pixel ermittelt werden. Unter Berücksichtigung der Auflösung&#13;
-der verwendeten Kamera und einer Breite des Messbereichs von 30 cm entspricht dies 0,008 mm. Ebenso&#13;
-kann die grundsätzliche Funktionstüchtigkeit der iFEM gezeigt werden. Allerdings bleibt die Methode&#13;
-bei einer Reihe von Anwendungen deutlich hinter den Erwartungen zurück.&lt;br&gt;&#13;
-Schließlich werden die Methoden bei realen Anwendungsbeispielen eingesetzt, um ihre Praxistauglichkeit&#13;
-zu demonstrieren.</dc:description>
-          <dc:description xml:lang="en">&lt;p&gt;Regular inspections and assessments of existing structures are indispensable for ensuring their stability&#13;
-and serviceability throughout their life span. Non-destructive testing methods based on displacement and&#13;
-frequency measurements are of particular interest for this purpose.&lt;br&gt;&#13;
-The first part of this work presents techniques using the potential of ordinary digital cameras from 2015&#13;
-to perform those measurements photogrammetrically. The position of given points of the structure therefore&#13;
-is identified in pixels on several pictures in a row taken from the undeformed and deformed state,&#13;
-respectively. The pixel units are then transformed into true length units. A good understanding of the&#13;
-camera and the mapping process as well as its inversion is necessary and will thus be explained in detail.&#13;
-One numerical technique for system identification is the method of inverse finite elements (iFEM) which&#13;
-will be assessed and advanced in the second part of this work. Additional degrees of freedom for structural&#13;
-properties and loads are added to the classical finite element model. These, as well as the deviations of the&#13;
-calculated solution with respect to the measurements taken from the existing structure, are penalised by&#13;
-costs which need to be minimised. An extension is presented which directly minimises the cost function.&#13;
-Among other benefits, this allows to consider eigenfrequencies as additionally measured values and to&#13;
-constrain the degrees of freedom.&lt;br&gt;&#13;
-A number of laboratory tests are then carried out in the third part of this work to investigate the performance&#13;
-and accuracy of the photogrammetric measurement method and the iFEM. Displacements can be&#13;
-determined with an accuracy of ±0,2 pixels. This corrensponds to 0,008 mm considering the resolution of&#13;
-the camera and the width of the measuring range of 30 cm. The general functionality of the iFEM can&#13;
-be equally shown, but the method fails to live up to expectations for a series of applications.&lt;br&gt;&#13;
-Finally, the methods are applied to real examples of use to demonstrate their practicability.</dc:description>
-          <dc:subject>600 Technik, Medizin, angewandte Wissenschaften » 620 Ingenieurwissenschaften » 624 Bauingenieurwesen, Ingenieurbauten</dc:subject>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:9270</id><datestamp>2019-04-10</datestamp><setSpec>DDC:6:62:620</setSpec>
+          <dc:title xml:lang="en">The use of sewage sludge hydrochar for improving soil fertility in the Cerrado region of Brazil – scientific effects and social acceptance</dc:title>
+          <dc:creator>Medeiros Melo, Tatiane</dc:creator>
+          <dc:date>2019-04-10</dc:date>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/bauingenieurwesen/diss2019/melo</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=9270</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20190410-113632-1</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-8660/dd1903.pdf</dc:identifier>
+          <dc:subject>600 Technik, Medizin, angewandte Wissenschaften » 620 Ingenieurwissenschaften » 620 Ingenieurwissenschaften und zugeordnete Tätigkeiten</dc:subject>
           <dc:subject>Fakultät für Architektur und Bauingenieurwesen » Bauingenieurwesen » Dissertationen</dc:subject>
           <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
-          <dc:language>deu</dc:language>
+          <dc:language>eng</dc:language>
           <dc:format>application/pdf</dc:format>
           <dc:type>Text</dc:type>
         </oai_dc:dc>
