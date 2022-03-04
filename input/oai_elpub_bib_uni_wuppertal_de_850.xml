@@ -1,0 +1,40 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:850</id><datestamp>2018-01-22</datestamp><setSpec>DDC:5:51:510</setSpec>
+          <dc:title xml:lang="en">Multigrid methods for structured grids and their application in particle simulation</dc:title>
+          <dc:creator>Bolten, Matthias</dc:creator>
+          <dc:date>2008-10-29</dc:date>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2008/bolten</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=850</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20080543</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-956/dc0818.pdf</dc:identifier>
+          <dc:description xml:lang="de">Mehrgitterverfahren sind optimale, d.h. linear skalierende, Verfahren zur Lösung einer großen Zahl von Problemen, z.B. von elliptischen partiellen Differentialgleichungen.&#13;
+Viele dieser Anwendungen, z.B. partielle Differentialgleichungen die auf strukturierten Gittern diskretisiert sind, besitzen viel Struktur, die eine effiziente Implementierung des Mehrgitterverfahrens auf seriellen und parallelen Computern erlaubt.&#13;
+Neben der Standard-Theorie für geometrische Mehrgitterverfahren wurde eine variationelle Theorie von einer Vielzahl von Autoren entwickelt, wobei die variationelle Theorie auf der Verwendung des Galerkin-Grobgitteroperators basiert.&#13;
+&#13;
+&#13;
+In dieser Arbeit werden Mehrgitterverfahren zur Lösung linearer Gleichungssysteme mit strukturierten Koeffizientenmatrizen analysiert.&#13;
+Ein modifiziertes Schema zur Lösung der Poissongleichung in unbeschränkten Gebieten wird vorgestellt und sein Fehlerverhalten im Detail analysiert.&#13;
+Diese Methode nutzt eine endliche Anzahl von hierarchischen Vergröberungen und Vergrößerungen des Diskretisierungsgitters und Einsetzen von speziellen Randbedingungen auf dem gröbsten Level.&#13;
+Ein FAS-artiges Mehrgitterverfahren eignet sich gut zur Lösung dieses Problems.&#13;
+Partielle Differentialgleichungen mit konstanten Koeffizienten und periodischen Randbedingungen die auf equidistanten Gittern diskretisiert sind führen auf zirkulante Koeffizientenmatrizen.&#13;
+Daher kann in diesem Fall die vorhandene Theorie für zirkulante Matrizen angewandt werden.&#13;
+Diese Theorie basiert auf der klassischen Theorie für algebraische Mehrgitterverfahren, die in diesem Zusammenhang um die Verwendung von nicht-Galerkin-Grobgitteroperatoren erweitert wird.&#13;
+Ein Parallelisierungsansatz für zirkulante Matrizen basierend auf Gebietszerlegung wird vorgestellt.&#13;
+&#13;
+&#13;
+Die entwickelten Verfahren werden in Partikelsimulationsmethoden, wie sie in vielen Feldern der Physik gebraucht werden, angewandt. Das Problem wird vorgestellt und konsistent in einer Art formuliert, die es erlaubt das Problem durch Lösen der Poissongleichung in unbeschränkten oder periodischen Gebieten und eine Nahfeldkorrektur zu behandeln. Motiviert durch Methoden wie P3M basiert diese Umformulierung auf dem Ersatz von Punktladungen durch Distributionen mit beschränkten Träger. Durch die Umformulierung werden keine weiteren Fehler eingeführt. Daher ist der Fehler des Gesamtverfahrens nur durch den Diskretisierungsfehler und durch den Interpolationsfehler der verwendeten numerischen Schemata verursacht.&#13;
+&#13;
+Es werden numerische Beispiele für das FAS-artige Mehrgitterverfahren für das hierarchisch vergröberten Gitter, für das Mehrgitterverfahren für zirkulante Matrizen mit Ersatz des Galerkin-Grobgitteroperators, für sein paralleles Skalierungsverhalten auf Blue Gene/L und Blue Gene/P und für die Partikelsimulationsmethode, die das Mehrgitterverfahren nutzt, vorgestellt.</dc:description>
+          <dc:description xml:lang="en">Multigrid methods are optimal, i.e. linearly scaling, methods for the solution of a broad range of problems, including elliptic partial differential equations. Many of these applications, e.g. partial differential equations discretized on structured grids, posses a lot of structure that allows an efficient implementation of multigrid methods on serial and parallel computers. Besides the standard geometric multigrid theory, a variational theory was developed by a number of authors, where the variational theory is based on the use of the Galerkin coarse grid operator.&#13;
+&#13;
+In this work multigrid methods for the solution of linear systems of equations with structured coefficient matrices are analyzed. A modified discretization scheme for the solution of the Poisson equation in unbounded domains is presented and its error behavior is analyzed in detail. The method involves hierarchically coarsening and extending the discretization grid finitely often and imposing special boundary conditions on the boundary on the coarsest level. FAS-type multigrid is well suited to solve this problem.  Partial differential equations with constant coefficients and periodic boundary conditions that are discretized on equispaced grids lead to circulant coefficient matrices. Therefor the theory of multigrid methods for circulant matrices is applicable to that case. The theory is based on the classical algebraic multigrid theory that is extended in this context to include non-Galerkin coarse grid operators, as well. A parallelization strategy based on domain decomposition is presented for circulant matrices.&#13;
+&#13;
+The developed methods are applied in particle simulation methods, as they are needed in various fields of physics. The problem is introduced and consistently reformulated in a way that allows to treat the problem with the solution of the Poisson equation in either unbounded or periodic domains with an added near-field correction. Motivated by methods like P3M this reformulation is based on replacing the point charges by finitely supported distributions. No additional errors are introduced by the reformulation. So the error of the resulting method is caused by the discretization error and the interpolation error of the used numerical schemes, only.&#13;
+&#13;
+Numerical examples are presented for the FAS-type multigrid solver for the hierarchically coarsened grid, for the multigrid solver for circulant matrices including the replacement of the Galerkin coarse grid operator, for its parallel scaling behavior on Blue Gene/L and Blue Gene/P and for the particle simulation method that uses the multigrid solver.</dc:description>
+          <dc:subject>500 Naturwissenschaften und Mathematik » 510 Mathematik » 510 Mathematik</dc:subject>
+          <dc:subject>Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik » Dissertationen</dc:subject>
+          <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
+          <dc:language>eng</dc:language>
+          <dc:format>application/pdf</dc:format>
+          <dc:type>Text</dc:type>
+        </oai_dc:dc>

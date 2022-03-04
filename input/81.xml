@@ -1,68 +1,55 @@
-<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:1381</id><datestamp>2018-01-22</datestamp><setSpec>DDC:5:53:530</setSpec>
-          <dc:title xml:lang="en">Topics in the Measurement  of Top Quark Events with ATLAS</dc:title>
-          <dc:title xml:lang="de">Pixel Detector Optoelectronics, Track Impact  Parameter Calibration, Acceptance Correction  Methods</dc:title>
-          <dc:creator>Sandvoss, Stephan A.</dc:creator>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:7581</id><datestamp>2018-01-22</datestamp><setSpec>DDC:5:54</setSpec>
+          <dc:title xml:lang="en">Investigation of Gaseous and Particulate Vehicle Emissions in Real-World Driving Conditions</dc:title>
+          <dc:creator>Gallus, Jens Achim</dc:creator>
           <dc:date>2018-01-22</dc:date>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2009/sandvoss</dc:identifier>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=1381</dc:identifier>
-          <dc:identifier>urn:nbn:de:hbz:468-20100160</dc:identifier>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1478/dc0919.pdf</dc:identifier>
-          <dc:description xml:lang="de">Diese Arbeit beschreibt Verfahren, die insbesondere zur Messung von Top-Quark&#13;
-Ereignissen mit dem ATLAS Detektor am Large Hadron Collider (LHC) des&#13;
-CERN angewendet werden köonnen. Es wurden Beiträge zu drei wesentlichen Bereichen&#13;
-erbracht: dem Detektoraufbau und seiner Überprüfung, der Datenkalibration&#13;
-und der ersten physikalischen Analyse.&lt;br&gt;&#13;
-Der Pixel Detektor verfügt über etwa 80 Millionen Auslesekanäle und repräsentiert&#13;
-damit mehr als 90% aller Auslesekanäle des ATLAS Detektors. Es wurde&#13;
-eine Methode zur Anwendung eines optischen Reflektometers entwickelt, mit&#13;
-der die Unversehrtheit der Lichtwellenleiterkabel, die die auslesende Optoelektronik&#13;
-außerhalb des Pixel Detektors mit derjenigen innerhalb verbinden, schnell&#13;
-getestet werden kann. Damit wurde die Einsatzbereitschaft des Pixel Detektors&#13;
-nach Produktion, Test und Installation dieser Ausleseelektronik (Back of Crate&#13;
-Karten) sichergestellt.&lt;br&gt;&#13;
-Präzisionsmessungen erfordern eine sorgfältige Detektorkalibration. Hierzu&#13;
-kann ein Verfahren beitragen, das die Spurstoßparameter von Monte Carlo (MC)&#13;
-Datensätzen an die Verteilungen von Daten anpaßt. Zunächst werden die Spur-und&#13;
-Jetrekonstruktion sowie das &lt;i&gt;b&lt;/i&gt;-Tagging von Jets in ATLAS vorgestellt. Die&#13;
-Stoßparameter von Spuren sind vor allem durch den innersten Detektor bestimmt,&#13;
-den Pixel Detektor. Die Genauigkeit der Spurstoßparameter hat großen Einfluß&#13;
-auf die Resultate des &lt;i&gt;b&lt;/i&gt;-Taggings und damit auf die Selektion und Analyse von&#13;
-Top Quark Ereignissen.&lt;br&gt;&#13;
-Zu Anfang der Messungen wird es Abweichungen in den Stoßparameterverteilungen&#13;
-zwischen simulierten und realen Daten geben, z.B. weil die relative&#13;
-Anordnung von Detektorteilen nicht genau genug bekannt ist. Auf die Spuren&#13;
-mit negativen Stoßparametern gestützt, die hauptsächlich von der intrinsischen&#13;
-Detektorauflösung abhängen, werden die Stoßparameter der simulierten Spuren&#13;
-angepaßt. Eine Implementierung im Athena Framework von ATLAS wurde aufgrund&#13;
-fehlender Kollisionsdaten mit zwei MC Top-Quark-Paar Datensätzen verschiedener&#13;
-Detektorgeometrien getestet. Mit der verfügbaren Statistik lassen sich&#13;
-Verbesserungen bei der Übereinstimmung von simulierten mit (pseudo-) realen&#13;
-Daten für Spuren mit Stoßparametern kleiner als 0.4 mm bis zu einem Faktor von&#13;
-4 erreichen.&lt;br&gt;&#13;
-Die Analyse der ersten Top-Quark Ereignisse dient sowohl der Kalibration&#13;
-und Leistungsverbesserung des ATLAS Detektors als auch der Validierung bisheriger&#13;
-Messungen und der Überprüfung theoretischer Vorhersagen bei Energien,&#13;
-die nie zuvor erreicht wurden. Ein weiteres Verfahren gewichtet die Vorhersagen&#13;
-von Monte Carlo Generatoren für Top-Quark Observablen, so daß sie mit Daten&#13;
-übereinstimmen. Bei Top-Quark Messungen lassen sich so systematische Unsicherheiten&#13;
-verringern, die durch unterschiedliche Modellierung zugrundeliegender&#13;
-physikalischer Prozesse verursacht werden. Zunächst werden alle Schritte der MC&#13;
-Simulation in ATLAS vorgestellt, von der Generierung eines Ereignisses über die&#13;
-Simulation im Detektor bis zu seiner Rekonstruktion.&lt;br&gt;&#13;
-Die Vorhersagen von fünf Monte Carlo Generatoren werden hinsichtlich der totalen&#13;
-Selektionseffizienz von semileptonischen Top-Quark-Paar Ereignissen verglichen.&#13;
-Diese Effizienzen weichen wie einige Verteilungen der Selektionsobservablen&#13;
-und des Transversalimpulses des hadronisch zerfallenden Top Quarks um bis zu&#13;
-20% voneinander ab. Das führt zu einer systematischen Unsicherheit der Messung&#13;
-aufgrund der Modellierung des zugrundeliegenden physikalischen Prozesses.&#13;
-Um diese Unsicherheit für die ersten Daten zu verringern, rewichtet das entwikkelte&#13;
-Verfahren die MC Ereignisse anhand einer einzigen gemessenen Verteilung:&#13;
-anhand des Transversalimpulses des hadronisch zerfallenden Top-Quarks. Eine&#13;
-Implementierung und Anwendung im Athena Framework zeigt Verbesserungen&#13;
-von bis zu einem Faktor 10, die systematische Unsicherheit in der totalen&#13;
-Selektionseffizienz fällt um mehr als den Faktor 4 von etwa 20% auf unter 5%.</dc:description>
-          <dc:subject>500 Naturwissenschaften und Mathematik » 530 Physik » 530 Physik</dc:subject>
-          <dc:subject>Fakultät für Mathematik und Naturwissenschaften » Physik » Dissertationen</dc:subject>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2017/gallus</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=7581</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20171220-093940-7</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-7379/dc1728.pdf</dc:identifier>
+          <dc:description xml:lang="en">&lt;p&gt;In the European Union (EU), the upcoming Euro-6d regulation will include Real&#13;
+Driving Emissions (RDE), measured by a Portable Emission Measurement System&#13;
+(PEMS). The regulation will comprise the on-road measurement of Diesel NO&lt;sub&gt;x&lt;/sub&gt;&#13;
+and Particle Number (PN) emissions on an RDE compliant test route. Chassis&#13;
+dynamometer tests, such as the New European Driving Cycle (NEDC), are not&#13;
+able to cover the entire spectrum of driving situations that occur during on-road&#13;
+driving. On-road exhaust measurements depend on numerous conditions, such as&#13;
+ambient temperature, driving style and road grade that can hardly be accounted&#13;
+for in the test cell.&lt;/p&gt;&#13;
+&lt;p&gt;The present study addresses the impact of different driving conditions on onroad&#13;
+exhaust emissions. The focus is on the characterisation of different driving&#13;
+styles, the fraction of cold start emissions and the correlation with road grade&#13;
+along a route profile, which are all expected to have a high impact on exhaust&#13;
+emissions. Gaseous emission results for three Diesel vehicles (Euro-4, Euro-5 and&#13;
+Euro-6.1) and PN measurements with a prototype PN PEMS for two gasoline&#13;
+vehicles (Euro-5, Euro-6.1) are presented.&lt;/p&gt;&#13;
+&lt;p&gt;Correlation measurements of CO&lt;sub&gt;2&lt;/sub&gt; and NO&lt;sub&gt;x&lt;/sub&gt; emissions were conducted between the PEMS and the test cell which proved the PEMS results within a deviation&#13;
+of 4 to 15% from the test cell. The PN PEMS showed a good agreement with&#13;
+an established Particle Measurement Program (PMP) set-up down to emissions&#13;
+of 1·10&lt;sup&gt;10&lt;/sup&gt; km&lt;sup&gt;−1&lt;/sup&gt;. A PM PEMS was used in parallel for soot measurements as an independent technique. PN-to-soot ratios were determined for both test cell and on-road measurements, and appeared to be comparable at 1.3·10&lt;sup&gt;12&lt;/sup&gt; mg&lt;sup&gt;−1&lt;/sup&gt; indicating a constant performance of the PN PEMS.&lt;/p&gt;&#13;
+&lt;p&gt;Different driving styles (soft, normal, severe) were characterized by several driving&#13;
+parameters. Especially acceleration based driving parameters Relative Positive&#13;
+Acceleration (RPA), Mean Positive Acceleration (MPA) and v·a&lt;sub&gt;pos&lt;/sub&gt;95 were found&#13;
+to show a good separation of different driving styles. Most notably, elevated RPA and MPA could explain increases of CO&lt;sub&gt;2&lt;/sub&gt;, NO&lt;sub&gt;x&lt;/sub&gt; and PN emissions during&#13;
+severe driving. The comparison to reference data obtained from the World harmonized&#13;
+Light-duty Test Cycle (WLTC, version 5.3) and from Field Operational&#13;
+Tests (FOT) proved that the normal PEMS trips can be attributed to normal&#13;
+driving.&lt;/p&gt;&#13;
+&lt;p&gt;The cold start effect was investigated down to ambient temperatures below 0°C.&#13;
+A large cold start peak was observed, especially for CO, HC and PN emissions,&#13;
+which constituted to a large fraction of the corresponding total emissions. Several&#13;
+methods were applied to quantify cold start emissions during on-road driving and&#13;
+define Cold Start Excess Emissions (CSEE).&lt;/p&gt;&#13;
+&lt;p&gt;Based on different altitude data sources, the route characteristics of four routes&#13;
+were investigated applying the parameter Cumulated Altitude Gain (CAG). One&#13;
+route had more than 100% as much CAG, leading to almost 100% higher distance&#13;
+specific NO&lt;sub&gt;x&lt;/sub&gt; emissions at similar driving dynamics. A filtering and a subsequent&#13;
+smoothing process, as implemented in the RDE regulation draft, lowered the cumulated&#13;
+altitude gain values by 40 to 50%. Based on repetitive measurements,&#13;
+the road grades for two routes were calculated within 100m segments with an&#13;
+average precision of 0.29% and 0.12%. CO&lt;sub&gt;2&lt;/sub&gt; and NO&lt;sub&gt;x&lt;/sub&gt; emissions showed a linear increase with road grade for all urban, rural and motorway parts. Larger emissions at higher road grades could be explained by more frequent high engine load&#13;
+points.&lt;/p&gt;</dc:description>
+          <dc:subject>500 Naturwissenschaften und Mathematik » 540 Chemie</dc:subject>
+          <dc:subject>Fakultät für Mathematik und Naturwissenschaften » Chemie » Dissertationen</dc:subject>
           <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
           <dc:language>eng</dc:language>
           <dc:format>application/pdf</dc:format>

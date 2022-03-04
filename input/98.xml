@@ -1,51 +1,24 @@
-<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:1398</id><datestamp>2018-01-22</datestamp><setSpec>DDC:5:51:510</setSpec>
-          <dc:title xml:lang="de">Auf Takagi-Faktoren basierende Präkonditionierung des CSYM-Verfahrens</dc:title>
-          <dc:creator>Fischer, Sigrid Marion</dc:creator>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:1698</id><datestamp>2018-01-22</datestamp><setSpec>DDC:5:51:510</setSpec>
+          <dc:title xml:lang="en">Multiple Objective Optimization and Implications for Single Objective Optimization</dc:title>
+          <dc:creator>Gorski, Jochen</dc:creator>
           <dc:date>2018-01-22</dc:date>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2006/fischer</dc:identifier>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=1398</dc:identifier>
-          <dc:identifier>urn:nbn:de:hbz:468-20060062</dc:identifier>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1495/dc0602.pdf</dc:identifier>
-          <dc:description xml:lang="de">Die Notwendigkeit, Gleichungssysteme mit einer großen komplex symmetrischen Matrix zu lösen, wächst&#13;
-in verschiedenen Anwendungsgebieten. Im Rahmen dieser Arbeit wird das CSYM-Verfahren untersucht,&#13;
-das die komplexe Symmetrie der Matrix nutzt, und dadurch nur etwa den halben Speicherbedarf und&#13;
-Rechenaufwand hat wie Iterationsverfahren für allgemeine Matrizen. Gegenüber anderen Verfahren mit&#13;
- kurzen Rekursionen hat das CSYM-Verfahren zudem die sehr wichtige Eigenschaft, dass kein verfrühter&#13;
- Abbruch auftreten kann. Damit ist das CSYM-Verfahren von besonderer Bedeutung für das Lösen von&#13;
- größeren Gleichungssystemen mit komplex symmetrischer Matrix. &lt;br&gt;&#13;
-Die vorliegende Arbeit beschäftigt sich damit, für das CSYM-Verfahren geeignete Klassen von&#13;
-Präkonditionierern zu finden. Für die Präkonditionierung des CSYM-Verfahrens reicht es nicht aus,&#13;
-einen symmetrischen Präkonditionierer zu wählen, sondern er muss symmetrisch faktorisiert vorliegen.&#13;
-Zunächst untersuchen wir die Änderungen der Singulärwerte der ursprünglichen Matrix bei beidseitiger&#13;
-Präkonditionierung und leiten daraus Forderungen an einen guten Präkonditionierer ab. Die&#13;
-Untersuchung der Transformation zwischen verschiedenen Faktorisierungen des gleichen&#13;
-Präkonditionierers hilft bei der Beantwortung der Frage, welche Faktorisierung bei einem festen&#13;
-Präkonditionierer optimal ist. Dabei liefert der Takagi-Faktor die besten Ergebnisse. Als konkrete&#13;
-Anwendungen werden das CSYM-Verfahren mit Deflation und mit faktorisierten Block-Präkonditionierern&#13;
-untersucht.</dc:description>
-          <dc:description xml:lang="en">In various application fields it becomes more and more important to solve large linear system with&#13;
-complex symmetric matrices. In this work we consider CSYM that takes into account the complex&#13;
-symmetry of the matrix, and so needs about half the storage and computational cost of iterative&#13;
-methods for general matrices. In contrast to other methods with short recursions CSYM has the&#13;
-important property that an early breakdown cannot occur. Thus CSYM is of special interest for&#13;
-solving larger linear systems with complex symmetric matrices. &lt;br&gt;&#13;
-This work focuses on finding an appropriate class of preconditioners for CSYM. To precondition the&#13;
-CSYM method with a symmetric preconditioner we have to factorize it symmetrically. First we examine&#13;
-how the singular values of the original matrix change by the application of a two sided&#13;
-preconditioner and deduce some properties a good preconditioner should have. Analysis of&#13;
-transformations between different factorizations of a fixed preconditioner provides an answer to the&#13;
-question which factorization might be optimal. Here the Takagi factor outperforms the others.&#13;
-As applications we consider CSYM with deflation and with factorized block preconditioners.</dc:description>
-          <dc:subject>Iterative methods for linear systems</dc:subject>
-          <dc:subject>Complex symmetric matrices</dc:subject>
-          <dc:subject>Singular values</dc:subject>
-          <dc:subject>Preconditioning</dc:subject>
-          <dc:subject>Takagi factorization</dc:subject>
-          <dc:subject>Deflation</dc:subject>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2010/gorski</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=1698</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20101129-120637-5</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1847/dc1018.pdf</dc:identifier>
+          <dc:description xml:lang="en">Taking the right decisions is one of the main aspects in everyday life. If a decision has to be made with respect to only a single criterion, it is often quite simple to find a satisfactory solution for the problem. However, only in rare cases important decisions are influenced by a single criterion. Often several independent and conflicting aspects have to be taken into account. Based on these different criteria, one is faced with the problem to find the "best" alternative among many possible decisions. This idea leads to the concept of multiple objective optimization, where optimality a of feasible solution is defined based on the Pareto-concept. In more detail, a solution of such a problem is called efficient, when there does not exist any other solution that is as good as the given one in all considered criteria and strictly better in at least one criterion.&lt;br&gt;&#13;
+&#13;
+      While traditionally, methods from single objective optimization are used to determine efficient solutions of a given multiple objective problem, the reverse approach is taken in this work. In more detail, it is discussed how ideas from multiple objective optimization can be used to solve single objective problems, mainly focusing on two different aspects. On the one hand, solution concepts from multiple objective optimization are used to directly derive optimal solutions for single objective problems in the context of combinatorial optimization. On the other hand, improved versions of existing solution concepts for single objective problems are presented that exploit additional information induced by a multiple objective description of the considered single objective problem. In this context, problems from biconvex optimization are discussed in further detail.&lt;br&gt;&#13;
+&#13;
+      In addition to this main topic several related aspects, especially from the field of (multiple objective) combinatorial optimization are discussed. For example, the connectedness of the efficient set for combinatorial problems like the shortest-path, the assignment or the knapsack problem is investigated. From a theoretical point of view the connectedness of efficient solutions is a powerful property since it allows the construction of the complete efficient set using simple neighborhood search techniques. It is shown in this work that the efficient set is non-connected for many classes of combinatorial problems but that there exist special versions of matroid and knapsack problems that satisfy this property.&lt;br&gt;&#13;
+&#13;
+      Starting from results for combinatorial problems with bottleneck objectives a new kind of objective, the so-called  k-max objective is introduced that generalizes the concept of a bottleneck function. Given a k-max optimization problem, not the largest cost coefficient of a feasible solution is of interest, but it is aimed to minimize the k-th largest among these coefficients. Based on general algorithms for solving multiple objective combinatorial problems with bottleneck and k-max objectives it is shown how these approaches can be used to solve constrained single objective problems as well as algebraic sum problems involving such objectives. In more detail, solution approaches for the minimum deviation problem, the balanced optimization problem as well as the k-sum optimization problem and generalized versions of these problems are presented.&lt;br&gt;&#13;
+&#13;
+      Besides these topics from combinatorial optimization, continuous and mixed-integer optimization problems from the field of biconvex optimization are investigated. In this context, an optimization problem is called biconvex if its set of variables can be partitioned into two disjoint blocks such that the resulting two subproblems are convex with respect to one block if the other block is assumed to be fixed. It is well-known that local optimal solutions for biconvex problems can be found by alternately solving the two induced convex subproblems. In this work, ideas from multiple objective optimization are used to develop enhanced versions of this solution approach taking into account additional descent information contained in the block of fixed variables as a second criterion in the two different subproblems. Amongst others, several variants of this enhanced approach are presented and compared to the original search strategy by means of detailed numerical tests of the proposed algorithms at the example of a biconvex optimization problem from location theory.</dc:description>
           <dc:subject>500 Naturwissenschaften und Mathematik » 510 Mathematik » 510 Mathematik</dc:subject>
           <dc:subject>Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik » Dissertationen</dc:subject>
           <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
-          <dc:language>deu</dc:language>
+          <dc:language>eng</dc:language>
           <dc:format>application/pdf</dc:format>
           <dc:type>Text</dc:type>
         </oai_dc:dc>
