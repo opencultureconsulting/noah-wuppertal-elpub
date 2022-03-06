@@ -1,41 +1,33 @@
-<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:9290</id><datestamp>2019-05-02</datestamp><setSpec>DDC:3:33</setSpec>
-          <dc:title xml:lang="en">A Quantitative Approach to Tower Crane Selection and Positioning on Construction Sites</dc:title>
-          <dc:creator>Dienstknecht, Michael</dc:creator>
-          <dc:contributor>Briskorn, Dirk</dc:contributor>
-          <dc:contributor>Bock, Stefan</dc:contributor>
-          <dc:date>2019-05-02</dc:date>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2019/dienstknecht</dc:identifier>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=9290</dc:identifier>
-          <dc:identifier>urn:nbn:de:hbz:468-20190502-113205-9</dc:identifier>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-8700/db1901.pdf</dc:identifier>
-          <dc:description xml:lang="en">&lt;p&gt;Tower cranes are a key factor in construction projects from both an operational and an economic perspective as they are the predominant lifting equipment and are among&#13;
-the most expensive construction equipment. A literature review revealed that the academic literature lacks appropriate problem formulations and optimization approaches&#13;
-despite of tower cranes' real-world importance.&lt;/p&gt;&#13;
-&#13;
-&lt;p&gt;The thesis at hand addresses this gap and introduces two optimization problems concerning the selection and on-site location of tower cranes, namely the tower crane&#13;
-selection and positioning problem (TCSPP) and the tower crane selection and positioning problem in a grid (TCSPP-GRID). Both are focused on a set of crane types&#13;
-differing in their specifications, i.e. rental cost, maximum operating height and maximum weight-dependent lifting radius. Cranes need to be selected and located on a&#13;
-given polygonal construction site in order to cover pairs of supply and demand areas with polygonal ground plans. Demand areas, in addition, have a certain height&#13;
-which may prevent certain crane types from serving the pair associated with the respective demand area and they have a maximum load weight to be lifted at any point of&#13;
-the demand and the supply area. When locating cranes it has to be taken into account that a crane may neither be located in a supply or a demand area nor in crane&#13;
-type-specific forbidden areas of polygonal ground plan (e.g. due to ground conditions). A pair is said to be covered if at least one crane can establish an&#13;
-uninterrupted lift path for the pair's maximum weight between any two points of the demand and supply areas corresponding to the pair. The objective is to find a&#13;
-minimum cost selection of cranes and their on-site locations so that each crane is in a feasible position and each pair is covered by at least one crane.&lt;/p&gt;&#13;
-&#13;
-&lt;p&gt;In the TCSPP, cranes may be located continuously in every point not occupied by a demand, supply or forbidden area and a pair is considered to be covered by a specific&#13;
-crane if both the demand and the supply area are completely within the crane's maximum operating radius for the pair's maximum load weight and if the crane has&#13;
-sufficient operating height. The problem is shown to be NP-complete. We prove that we can restrict ourselves to a finite set of potential crane locations without loss&#13;
-of optimality which, in turn, allows us to employ the classic set cover problem for solving an instance of the TCSPP. The approach is computationally tested and&#13;
-analyzed and turns out to perform favorably.&lt;/p&gt;&#13;
-&#13;
-&lt;p&gt;The TCSPP-GRID, in contrast to the TCSPP, respects crane interdependencies in terms of minimum distances and crane interferences as well as interferences of cranes&#13;
-with given on-site obstacles. However, cranes may not be located continuously, but may only be positioned at the intersection points of a grid being laid over the&#13;
-construction site. The problem is proven to be NP-hard despite of this artificial discretization. We show how to derive inputs that allow for linear models from the&#13;
-given, mainly geometric instance data. Four mixed-integer linear programming formulations are presented as well as a branch and bound approach. A computational study&#13;
-is conducted comparing the performance of the branch and bound approach and standard solver CPLEX based on the mixed-integer models. It is found that the former turns&#13;
-out to compete favorably against the latter.&lt;/p&gt;</dc:description>
-          <dc:subject>300 Sozialwissenschaften » 330 Wirtschaft</dc:subject>
-          <dc:subject>Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics » Dissertationen</dc:subject>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:1390</id><datestamp>2018-01-22</datestamp><setSpec>DDC:6:60:600</setSpec>
+          <dc:title xml:lang="de">Berechnung der Hochfrequenz-Exposition von Personen in Szenarien mit Sendeeinrichtungen typischer Kommunikationssysteme</dc:title>
+          <dc:creator>Zhou, Yi</dc:creator>
+          <dc:date>2018-01-22</dc:date>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2009/zhou</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=1390</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20100153</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1487/de0907.pdf</dc:identifier>
+          <dc:description xml:lang="de">Untersuchungen zur Exposition eines Menschen durch die von Quellen in Kommunikationssystemen ausgehenden elektromagnetischen Hochfrequenz-Felder konzentrierten sich in der Vergangenheit häufig auf das Problem eines unmittelbar am Körper des Nutzers betriebenen Handys oder auf die im Bereich des Arbeitsschutzes wichtige Fragestellung des Sicherheitsabstandes zu Antennenstandorten von Rundfunk- oder Mobilfunk-Sendern.&lt;br&gt;&#13;
+Seit der Einführung neuer digitaler Funk-Technologien finden aber zunehmend auch mobile Kommunikationssysteme Verbreitung, bei denen die Strahlungsquellen weder weit vom Körper entfernt noch in unmittelbarem Körperkontakt angeordnet sind. Typische Beispiele sind Notebooks, die über integrierte Antennen UMTS-Signale aussenden, oder die Endgeräte von ‚Wireless LANs', die im Prinzip an jedem Punkt eines Raumes und somit in sehr unterschiedlichen Abständen von Personen installiert sein können.&lt;br&gt;&#13;
+Das wesentliche Ziel dieser Arbeit ist die Bestimmung der Exposition von Personen durch derartige körpernah betriebene Kommunikationsendgeräte. Dabei steht nicht, wie in manchen Studien, das Immissionsfeld - charakterisiert durch die externe Feldstärke oder Leistungsdichte - im Vordergrund, sondern die tatsächlich im menschlichen Körper absorbierte Hochfrequenzleistung - dargestellt durch die Spezifische Absorptionsrate (SAR).&#13;
+Die SAR hängt - neben der Sendecharakteristik der Quelle, wie Leistung, Nah- oder Fernfeld-Verteilung und Modulation - auch von der geometrischen Gestalt des Körpers und der räumlichen Verteilung der komplexen Gewebe-Permittivität, von Form und Größe des Mittelungsvolumens, von Abstand und Orientierung des Körpers zur Strahlungsquelle, von den Eigenschaften des umgebenden Raumes usw., kurz, von der Konfiguration der Gesamtanordnung ab.&#13;
+In Anbetracht der Vielzahl möglicher Konfigurationen scheidet ein experimenteller Ansatz aus Kostengründen von vorneherein aus.&#13;
+Die Untersuchungen werden daher mit Hilfe numerischer Berechnungen für drei nach klaren Kriterien ausgewählte Endgeräte durchgeführt, die in unterschiedliche Szenarien eingebettet sind.&#13;
+Dabei kommen vier verschiedene Menschmodelle (Erwachsener und Jugendlicher, jeweils sitzend und stehend) zum Einsatz.&#13;
+Als Rechenverfahren wird die Finite Differenzen - Methode im Zeitbereich, umgesetzt in einen parallelisierten Programmcode, verwendet.&#13;
+Die angewandte Vorgehensweise und die Rechenergebnisse werden dargestellt.&#13;
+Zusätzlich werden die denkbaren Prinzipien zur weiteren Reduzierung der SAR körpernaher Endgeräte unter Berücksichtigung der bis dahin vorgestellten Resultate untersucht.&lt;br&gt;&#13;
+Als weiteres Ziel dieser Arbeit wird ein modular aufgebautes, SAR-basiertes Berechnungsverfahren zur näherungsweisen Ermittlung der Exposition bei Einwirkung mehrerer verschiedenartiger Quellen auf eine Person beschrieben.&#13;
+Damit können die in Form eines Katalogs von Datenblättern vorliegenden SAR-Verteilungen, die aus Einzelberechnungen für konkrete körperberührende und körpernahe Quellen sowie für Fernfelder unterschiedlicher Frequenzen und Einfallsrichtungen gewonnen wurden, quellenspezifisch gewichtet und durch Superposition zu einer Summen-SAR zusammengefasst und hinsichtlich ihrer gemeinsamen Wirkung auf die Person bewertet werden.</dc:description>
+          <dc:description xml:lang="en">In the past, studies on human exposure to sources of high-frequency electromagnetic fields as used in communication systems often focused on the issue of a mobile phone operated in direct contact to the body of the user or on the important issue of occupational safety near antenna sites of radio or mobile stations. Since the introduction of new digital wireless technologies an increasing popularity of mobile communication systems has been occurred, with the radiation sources being neither far away from the body nor in direct physical contact.&lt;br&gt;&#13;
+Typical examples are notebooks emitting UMTS signals by built-in antennas, or the terminals of wireless LANs, which can basically be located at any point of a room and thereby at various distances from people.&lt;br&gt;&#13;
+The main focus of this study is the determination of human exposure by such communication devices operating near the human body.&lt;br&gt;&#13;
+Here, the emphasis is not on the immission fields characterized by the external field strength or power density as in some other studies, but on the actual power absorbed in the human body - expressed in terms of the Specific Absorption Rate (SAR).&lt;br&gt;&#13;
+The SAR depends - apart from the transmission characteristics of the source, such as radiated power, near- or far-field distribution and modulation - also on the geometric shape of the body and on the spatial distribution of the complex permittivity of tissues, on the shape and size of the averaging volume, on distance and orientation of the body to the radiation source, on the electrical properties of the environment, etc., in short, on the configuration of the overall arrangement.&lt;br&gt;&#13;
+Given the large number of possible configurations, an experimental approach has to be ruled out from the start for cost reasons. The investigations are carried out, therefore, with the help of numerical calculations applied to three types of devices, which are selected according to well-defined criteria and which are embedded in many different scenarios.&lt;br&gt;&#13;
+Four different human models (adult and adolescent, each sitting and standing) are employed in the computational procedure, which is based upon the finite difference time domain method implemented in a parallelized program code. The applied approach and the calculation results are presented. In addition, supposable principles for a further reduction of the SAR originating from the devices under consideration - taking into account the results presented so far - are investigated.&lt;br&gt;&#13;
+A further objective of this work is a modular, SAR-based calculation method for the approximate determination of a person's simultaneous exposure to several different sources. It makes use of a catalogue of data sheets with normalized partial-body SAR distributions which were obtained from computations for particular sources operating near the body and in body contact and for far fields of different frequencies and directions of incidence. By source-specific weighting and superposition of different individual SAR distributions taken from the data sheets, the total SAR and thereby the joint effect of multiple sources on a person can be assessed.</dc:description>
+          <dc:subject>600 Technik, Medizin, angewandte Wissenschaften » 600 Technik » 600 Technik, Technologie</dc:subject>
+          <dc:subject>Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik » Dissertationen</dc:subject>
           <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
           <dc:language>deu</dc:language>
           <dc:format>application/pdf</dc:format>

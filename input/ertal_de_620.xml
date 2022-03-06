@@ -1,0 +1,80 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:620</id><datestamp>2018-01-22</datestamp><setSpec>DDC:6:60:600</setSpec>
+          <dc:title xml:lang="de">Nichtminimalphasige Mikrowellenfilter und Eingangsmultiplexer für die Satellitenkommunikation</dc:title>
+          <dc:creator>Viertel, Michael</dc:creator>
+          <dc:date>2003-08-01</dc:date>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fb13/diss2003/viertel</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=620</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20030316</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-716/d130302.pdf</dc:identifier>
+          <dc:description xml:lang="de">Im Rahmen dieser Arbeit wurde ein vierkanaliger Eingangsmultiplexer für den Einsatz in&#13;
+Kommunikationssatelliten entwickelt. Dieser arbeitet im Ka-Band und besteht aus zwei&#13;
+non-contiguous Diplexern, die über einen Hybrid-Koppler zusammengeschaltet sind. Die&#13;
+Diplexer ihrerseits übertreffen den derzeitigen Stand der Technik, indem sie nicht mit einer&#13;
+Zirkulatorkette und extern entzerrten Filterzügen, sondern mit einem Sammelschienen-&#13;
+Verteilnetzwerk und selbstentzerrenden Filtern realisiert wurden. Es wurde demonstriert,&#13;
+dass durch den vollständigen Verzicht auf Zirkulatoren sowohl die Masse und das Volumen&#13;
+des gesamten Eingangsmultiplexers als auch die Einfügedämpfung eines jeden einzelnen&#13;
+Kanals signifikant reduziert werden kann. Dadurch, dass die beiden non-contiguous Diplexer mechanisch übereinander angeordnet wurden, konnte eine zusätzliche Einsparung&#13;
+an Grundfläche erzielt werden. Gegenüber konventionellen Diplexern konnte der Grundflächenbedarf mit dem neuen Diplexer-Design um fast 50% und das Gewicht um mehr als&#13;
+30% gesenkt werden. Eine Masse- und Volumenreduktion sowie eine Verkleinerung der&#13;
+benötigten Grundfläche transformieren sich direkt in eine Kostenersparnis beim Raketenstart. Für 1 kg Nutzlast müssen derzeit ungefähr 50 000 US$ veranschlagt werden.&#13;
+&lt;br&gt;&lt;br&gt;&#13;
+Sowohl der Hybrid-Koppler als auch die Sammelschienen-Verteilnetzwerke und die selbstentzerrenden Filter wurden in Hohlleitertechnik realisiert, wobei für die Filter zylinderförmige Resonatoren, die im TE&lt;sub&gt;113&lt;/sub&gt;-Mode betrieben werden, gewählt wurden. Ausgangspunkt&#13;
+für die Realisierung der Filter war die Entwicklung von Computerprogrammen. Hierbei&#13;
+wurden auf der Theorie von Reaktanzfiltern basierende Approximations- und Syntheseverfahren implementiert, die den Entwurf beliebiger selbstentzerrender Filterstrukturen&#13;
+mit gleichmäßiger Welligkeit der Gruppenlaufzeit im Durchlassbereich erlauben. Da heutige kommerzielle Spezifikationen von Kanalfiltern für Eingangsmultiplexer üblicherweise&#13;
+hochkreisige Filter erfordern, musste auf eine hohe numerische Genauigkeit der Programme geachtet werden, die mit so genannten Multiprecision-Routinen erreicht wurde. Das&#13;
+Ergebnis von Approximation und Synthese sind die Pol- und Nullstellenschemata sowie&#13;
+die Koppelfaktoren von Filtern. Letztere beschreiben ein Referenznetzwerk vollständig&#13;
+und sind die Grundlage für eine Realisierung.&#13;
+&lt;br&gt;&lt;br&gt;&#13;
+In einem weiteren Schritt wurde überprüft, welche übertragungsfunktionen achtkreisiger&#13;
+bis zwölfkreisiger Filter sich für einen Aufbau selbstentzerrender Filterstrukturen, die den&#13;
+heutigen Kundenforderungen genügen, eignen. Das Ergebnis dieser Untersuchung ist eine Anzahl von "Standard"- Übertragungsfunktionen, welche die allermeisten derzeitigen&#13;
+kommerziellen Spezifikationen erfüllen. Es wurde darüber hinaus gezeigt, dass das Optimum für eine Realisierung in Hohlleitertechnik zwölfkreisige Filter mit sechs endlichen&#13;
+Transmissionsnullstellen sind. Von diesen werden zwei auf der imaginären Frequenzachse&#13;
+zur Versteilerung der Filterflanken und vier in der komplexen Frequenzebene zur Glättung&#13;
+der Gruppenlaufzeit im Durchlassbereich platziert.&#13;
+&lt;br&gt;&lt;br&gt;&#13;
+Zur Verifikation des Entwurfsverfahrens wurden diverse selbstentzerrende TE&lt;sub&gt;113&lt;/sub&gt;-Dual-&#13;
+Mode Hohlleiterfilter unterschiedlicher Kreiszahlen und Bandbreiten hergestellt, abgegli-&#13;
+chen sowie charakterisiert. Die Messungen zeigen eine sehr gute Übereinstimmung mit&#13;
+der Theorie. Ein Filter, das bezüglich einer kommerziellen Spezifikation entworfen wurde,&#13;
+erfüllt diese vollständig. Diese Spezifikation wurde auch für die Kanalfilter des in dieser&#13;
+Arbeit vorgestellten Eingangsmultiplexers verwendet. Die Charakterisierung der beiden&#13;
+non-contiguous Diplexer zeigte, dass die Filter ihre Spezifikationen auch über einen weiten Temperaturbereich (22°C bis 100°C) einhalten. Dass die Übertragungscharakteristiken über Temperatur nicht degradieren, ist auf den vollständigen Verzicht von Zirkulatoren&#13;
+gegenüber dem konventionellen Diplexer-Design zurückzuführen. Nach dem Zusammenschalten der beiden Diplexer zeigen alle Kanäle jedoch eine geringfügige Fehlanpassung.&#13;
+Diese wird durch den Einfluss von Hybrid-Koppler und Isolatoren verursacht, könnte aber&#13;
+durch einen nachträglichen Abgleich der Filter behoben werden. Alle anderen Spezifikationen werden weiterhin eingehalten.&#13;
+&lt;br&gt;&lt;br&gt;&#13;
+Bevor dieses erfolgreich getestete Konzept in der Raumfahrt eingesetzt werden darf, muss&#13;
+der Eingangsmultiplexer jedoch noch einer Qualifizierung unterzogen werden. Bei dieser wird beispielsweise durch Vibrations- und Temperaturtests die Funktionsfähigkeit des&#13;
+Geräts nach starker mechanischer bzw. thermischer Belastung nachgewiesen. Darüber hinaus ist es sinnvoll, das Konzept für höhere Kanalzahlen sowie für Filter mit anderen Bandbreiten zu verifizieren, um eine möglichst große Anzahl an Kundenforderungen erfüllen zu&#13;
+können. Die Abarbeitung dieser Schritte wird mit Sicherheit erfolgen (ESA-Projekt: Next&#13;
+Generation IMUX (NGIMUX), Vertragsnummer: 16638/02/NL/US).&#13;
+&lt;br&gt;&lt;br&gt;&#13;
+Des Weiteren sind eine Vielzahl an Verbesserungsmöglichkeiten hinsichtlich einer weiteren Einsparung an Masse und Volumen denkbar. Der Hybrid-Koppler und die Isolatoren können durch kleinere, aber dafür empfindlichere Bauteile in koaxialer bzw. planarer Technologie ersetzt werden. Ein vollständiger Verzicht auf diese Komponenten ist mit&#13;
+contiguous-Verteilnetzwerken möglich, wodurch die vom Hybrid-Koppler und den Isolatoren verursachten Verluste von ca. 4 dB eingespart werden können. Allerdings verdoppelt&#13;
+sich der Grundflächenbedarf des Eingangsmultiplexers, da ein zweilagiger Aufbau nicht&#13;
+mehr möglich ist. Zusätzlich muss bereits bei der Approximation der Einfluss der Nachbarkanäle berücksichtigt werden, wodurch die Anforderungen beim Filterentwurf steigen.&#13;
+&lt;br&gt;&lt;br&gt;&#13;
+Eine weitere Möglichkeit, die man für eine Masse- und Volumenreduktion in Erwägung&#13;
+ziehen kann, bietet die Nutzung des TE&lt;sub&gt;112&lt;/sub&gt;-Modes, wodurch sich die Filterzüge um ungefähr ein Drittel verkürzen. Es ist jedoch zu überprüfen, ob die mit der Verkürzung&#13;
+einhergehende Verschlechterung der Güte hinnehmbar ist und ob die asymmetrische Lage der Schraubenkränze (bezogen auf die Länge der Resonatoren) sowie die geringeren&#13;
+Abstände zwischen den Blenden bzw. zwischen den Blenden und den Schraubenkränzen&#13;
+bei der Umsetzung in die Filtergeometrie noch handhabbar sind.&#13;
+&lt;br&gt;&lt;br&gt;&#13;
+Eine Option, mit der Masse und Volumen signifikant verringert werden können, ist der&#13;
+Einsatz von dielektrischen Filtern, die bereits im C-Band und im Ku-Band Stand der&#13;
+Technik sind. Mit den derzeit zur Verfügung stehenden Dielektrika (ε&lt;sub&gt;&lt;i&gt;r&lt;/i&gt;&lt;/sub&gt; ≈ 20 . . . 30) ist&#13;
+jedoch die Volumenreduktion von Ka-Band Filtern derart groß, dass die Filter überaus&#13;
+empfindlich werden, was einen erheblichen Entwurfs-, Fertigungs- und somit auch Kostenaufwand zur Folge hat. Ein Einsatz dieser Technologie im Ka-Band ist somit von einer&#13;
+Entwicklung neuartiger, temperaturkompensierter Dielektrika hoher Güte, die gleichzeitig&#13;
+eine niedrigere Dielektrizitätskonstante (ε&lt;sub&gt;&lt;i&gt;r&lt;/i&gt;&lt;/sub&gt; ≈ 10) aufweisen müssen, abhängig.</dc:description>
+          <dc:subject>600 Technik, Medizin, angewandte Wissenschaften » 600 Technik » 600 Technik, Technologie</dc:subject>
+          <dc:subject>Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik » Dissertationen</dc:subject>
+          <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
+          <dc:language>deu</dc:language>
+          <dc:format>application/pdf</dc:format>
+          <dc:type>Text</dc:type>
+        </oai_dc:dc>
