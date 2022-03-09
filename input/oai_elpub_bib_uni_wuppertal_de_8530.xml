@@ -1,0 +1,54 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:8530</id><datestamp>2018-08-01</datestamp><setSpec>DDC:6:60</setSpec>
+          <dc:title xml:lang="de">Architekturvorschlag für ein serverbasiertes Farbmanagementsystem für displaybasierte Endgeräte</dc:title>
+          <dc:title xml:lang="en">An architectural proposal for a server-based color management system suitable for display-based devices</dc:title>
+          <dc:creator>Lahme, Stefan</dc:creator>
+          <dc:contributor>Brües, Stefan</dc:contributor>
+          <dc:contributor>Kühn, Wolfgang</dc:contributor>
+          <dc:date>2018-08-01</dc:date>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/medientechnik/diss2018/lahme</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=8530</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20180801-133352-6</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-7973/de1803.pdf</dc:identifier>
+          <dc:description xml:lang="de">&lt;p&gt;Jedes displaybasierte Gerätemodell, wie z.B. ein spezifisches Smartphone, besitzt charakteristische Farbwiedergabeeigenschaften, die einerseits von der zugrunde liegende Displaytechnologie als auch von den systemseitigen Helligkeits- und Farbeinstellungen beeinflusst werden.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Diese Arbeit befasst sich mit dem Architekturvorschlag für ein serverbasiertes Farbmanagementsystem, das eine plattformübergreifende, konsistente Farbwiedergabe gewährleisten soll und sich insbesondere für den Einsatz auf displaybasierten Endgeräten eignet.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Hierzu werden eingangs die Ursachen für die individuellen Farbwiedergabeeigenschaften displaybasierter Endgeräte erläutert sowie zentrale Systemkomponenten vorgestellt, die für die Umsetzung des Farbmanagementsystems erforderlich sind.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Um den vorgeschlagenen Architekturentwurf gegenüber anderen Systemen abzugrenzen, werden vorab bereits existierende Architekturansätze vorgestellt und im Hinblick auf ihren Einsatzzweck sowie ihre jeweiligen Vor- und Nachteile eingeordnet.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Den Kern der Arbeit bildet eine ausführliche Modellierung der vorgeschlagenen Farbmanagementarchitektur. Hierzu werden die einzelnen Schichten, die darin enthaltenen Module und deren Zusammenspiel erläutert. Unter anderem werden das zugrunde liegende, objektorientierte Datenmodell, die zentrale Anwendungslogik sowie Schnittstellen zu angebundenen Peripheriesystemen beschrieben.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Im Anschluss an die Architekturmodellierung erfolgt ein Vorschlag für die Umsetzung einer Programmierschnittstelle auf Basis gegenwärtiger Kommunikationsstandards, sowie eine prototypische Implementierung des vorgeschlagenen Systems unter Verwendung aktueller Werkzeuge und Frameworks.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Mit Hilfe des implementierten Prototypen wird das Farbanpassungspotenzial des vorgestellten Architekturentwurfs unter Verwendung aktueller, displaybasierter Testgeräte untersucht. In diesem Zusammenhang findet sowohl eine visuelle als auch eine messtechnische Auswertung der Farbanpassungseigenschaften statt.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Abschließend werden die wichtigsten Ergebnisse der Arbeit zusammengefasst und anhand der Zielsetzung eingeordnet. Zudem wird ein Ausblick auf zukünftige Fragestellungen sowie mögliche Erweiterungspotenziale gegeben.&lt;/p&gt;</dc:description>
+          <dc:description xml:lang="en">&lt;p&gt;Each display-based device model, such as a specific smartphone, has distinctive color rendering properties, which are influenced by the built-in display technology as well as the system-specific brightness and color settings.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;This work is concerned with the approach of an architectural proposal for a server-based color management system, which is designed to ensure cross-platform color consistency and is particularly suitable for connected, display-based devices.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;For this purpose, the causes for individual color rendering properties of display-based devices are explained initially. In addition, the main components of a color management system, which are required for the realization of the proposed design, are introduced.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;In order to differentiate the proposed architectural design from other solutions, the existing approaches are introduced and classified regarding their purpose as well as their advantages and disadvantages.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;The focus of this work is a detailed modelling of the proposed color management architecture. In this context, the individual layers, the contained modules and their interaction are explained. This includes the design of an object-oriented data model, the application logic as well as the interfaces to connected peripheral systems.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Subsequently, a proposal of an application programming interface based on modern communication standards is introduced. Furthermore, the architectural design is implemented prototypically using current tools and frameworks.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;With the use of the implemented prototype, the color matching potential of the proposed system is examined using current, display-based devices. In this concern, both a visual and a measurement-based evaluation is conducted.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Finally, the main results of the work are summarized and classified according to the initial objective. In addition, a prospect on future issues as well as potential enhancements is given.&lt;/p&gt;</dc:description>
+          <dc:subject>Color management</dc:subject>
+          <dc:subject>Smartphones</dc:subject>
+          <dc:subject>Tablets</dc:subject>
+          <dc:subject>LCD</dc:subject>
+          <dc:subject>OLED</dc:subject>
+          <dc:subject>Displays</dc:subject>
+          <dc:subject>600 Technik, Medizin, angewandte Wissenschaften » 600 Technik</dc:subject>
+          <dc:subject>Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Medientechnik » Dissertationen</dc:subject>
+          <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
+          <dc:language>deu</dc:language>
+          <dc:format>application/pdf</dc:format>
+          <dc:type>Text</dc:type>
+        </oai_dc:dc>

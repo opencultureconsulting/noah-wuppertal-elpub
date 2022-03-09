@@ -1,68 +1,25 @@
-<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:3352</id><datestamp>2018-01-22</datestamp><setSpec>DDC:5:53:530</setSpec>
-          <dc:title xml:lang="de">The Finite State Machine for the ATLAS Pixel Detector and Beam Background Studies with the ATLAS Beam Conditions Monitor</dc:title>
-          <dc:creator>Lantzsch, Kerstin</dc:creator>
-          <dc:date>2018-01-22</dc:date>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2011/lantzsch</dc:identifier>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=3352</dc:identifier>
-          <dc:identifier>urn:nbn:de:hbz:468-20130206-154031-3</dc:identifier>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-3470/dc1132.pdf</dc:identifier>
-          <dc:description xml:lang="de">&lt;p&gt;Der Large Hadron Collider am CERN bei Genf hat Ende 2009 mit den ersten Proton-Proton Kollisionen seinen&#13;
-Betrieb aufgenommen. Der ATLAS-Detektor ist einer der Universaldetektoren, und wurde entwickelt und gebaut&#13;
-um neue physikalische Phänomene zu studieren und das Wissen und Verständnis der zugrundeliegenden Theorie&#13;
-zu verbessern. Der Pixeldetektor ist der innerste Subdetektor von ATLAS und wird mit seinen 80 Millionen&#13;
-Auslesekanälen eine wichtige Rolle spielen bei der Identifikation und Vermessung der interessanten physikalischen&#13;
-Phänomene. Komplexe Kontrollsysteme sind erforderlich, um ein System wie den Pixeldetektor sicher betreiben&#13;
-zu können. Letztendlich wird ein einziger Operator für die Kontrolle und Überwachung des gesamten ATLASDetektors&#13;
-zuständig sein.&#13;
-&lt;br&gt;&lt;br&gt;Diese Arbeit besteht aus drei Teilen. Der erste Teil gibt einen Überblick über das Experiment. Kapitel 1 gibt&#13;
-mit einer kurzen Zusammenfassung des Standardmodells der Teilchenphysik eine Motivation zum Bau großer&#13;
-Beschleuniger und Detektoren. In Kapitel 2 wird der Beschleuniger beschrieben, und der ATLAS-Detektor mit&#13;
-seinen Subsystemen wird vorgestellt. Da der Pixeldetektor und der Beam Conditions Monitor von spezieller&#13;
-Bedeutung für diese Arbeit sind, werden sie in größerem Detail in Kapitel 3 und 4 beschrieben.&#13;
-&lt;br&gt;&lt;br&gt;Der Schwerpunkt dieser Arbeit liegt im zweiten Teil, der das Kontrollsystem des ATLAS Pixeldetektors behandelt.&#13;
-In Kapitel 5 werden die Hardware- und Software-Komponenten beschrieben. Kapitel 6 und 7 stellen den&#13;
-Hauptteil der zugrundeliegenden Arbeit dar. Der Betrieb der ATLAS Subdetektoren wird hauptsächlich durch die&#13;
-Zustandsmaschine (FSM) gewährleistet. Kapitel 6 beginnt mit einer Einführung der zugrundeliegenden Software-&#13;
-Komponenten. Die Anforderungen für die Pixel-FSM werden dargelegt, und die Pixel-spezifische Implementierung&#13;
-diskutiert. In Kapitel 7 werden Skripte vorgestellt, die ergänzend zur FSM entwickelt wurden, um sicherheitsrelevante&#13;
-Aspekte abzusichern, sowie die Automatisierung von Prozeduren zur Interaktion mit externen Systemen&#13;
-handhaben.&#13;
-&lt;br&gt;&lt;br&gt;Der letzte Teil beschäftigt sich mit Untergrundereignissen aufgrund von strahlbezogenen Belangen. Kapitel 8&#13;
-beschreibt potentielle Szenarios zu Strahlverlust, sowie Untergrund während des regulären Betriebs. Während der&#13;
-frühen Betriebs-Phase mit wenigen Protonen-Paketen und einer Strahlenergie von bis zu 3500 GeV wurden Daten&#13;
-vom Inneren Detektor und des Beam Condition Monitors korreliert.&#13;
-&lt;br&gt;&lt;br&gt;Eine Zusammenfassung und Bewertung dieser Arbeit im Hinblick auf den Betrieb des ATLAS Pixeldetektors wird&#13;
-im Abschluß dieser Arbeit gegeben.</dc:description>
-          <dc:description xml:lang="en">&lt;p&gt;The Large Hadron Collider at CERN near Geneva has started operation with the first proton-proton collisions in&#13;
-the end of 2009. The ATLAS detector is one of the general purpose experiments designed to take full advantage of&#13;
-the possibilities to study new physics phenomena and improve the knowledge and understanding of the currently&#13;
-known state of theory. The Pixel Detector is the innermost sub-detector of ATLAS and with its 80 million readout&#13;
-channels will play an important role in the identification and measurement of the interesting physics phenomena.&#13;
-To operate a complex detector like the Pixel Detector in a safe and coherent way, sophisticated control systems are&#13;
-necessary. In the end, the control and supervision of the Pixel Detector has to be handled by a single shift operator&#13;
-integrated into the ATLAS control system and in coordination with the data acquisition and the accelerator.&#13;
-&lt;br&gt;&lt;br&gt;This thesis is divided into three parts. In the first part an overview of the experiment is given.&#13;
-In chapter 1 the motivation for building large accelerators and detectors is given with a short summary of the&#13;
-Standard Model of particle physics and the phenomena to be studied at the LHC. In chapter 2 the accelerator is&#13;
-described, and the ATLAS detector and its subsystems are introduced. As the Pixel Detector and the Beam Conditions&#13;
-Monitor are of special relevance to this thesis, they are described in more detail in chapters 3 and 4.&#13;
-&lt;br&gt;&lt;br&gt;The focus of this thesis lies in the second part, covering the Control System of the ATLAS Pixel Detector.&#13;
-In chapter 5 the hardware and software components are described. Chapter 6 and 7 constitute the main part of the&#13;
-performed work. The Finite State Machine (FSM) is the main tool for the operation of the ATLAS sub-detectors.&#13;
-Chapter 6 starts with an introduction to the underlying (common) software components and prior work. The&#13;
-requirements for the Pixel FSM originating from various directions are stated, and the pixel specific FSM implementation&#13;
-is discussed. Complementary to the FSM, background scripts have been developed to address safety&#13;
-and automatization aspects. The first part of chapter 7 presents the implemented safety actions to protect the Pixel&#13;
-Detector from danger, while the second part deals with automatization of complex interactions with external systems.&#13;
-&lt;br&gt;&lt;br&gt;Finally, the third part treats beam background related issues.&#13;
-Chapter 8 describes background related to potential beam loss accidents and accident scenarios, as well as background&#13;
-during regular operation. During the early running with few bunches and beam energies of up to 3500 GeV&#13;
-data from the inner detector and the beam conditions monitor has been correlated for different energies and beam&#13;
-optics.&#13;
-&lt;br&gt;&lt;br&gt;Concluding this thesis is a summary and evaluation of this work in the larger context of the operation of the ATLAS&#13;
-Pixel Detector. Achieved results are presented and an outlook for possible future developments and work is given.</dc:description>
-          <dc:subject>500 Naturwissenschaften und Mathematik » 530 Physik » 530 Physik</dc:subject>
-          <dc:subject>Fakultät für Mathematik und Naturwissenschaften » Physik » Dissertationen</dc:subject>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:9752</id><datestamp>2019-09-18</datestamp><setSpec>DDC:8:80</setSpec>
+          <dc:title xml:lang="de">Die provenzalische Renaissance in Deutschland. Übersetzung und Edition von Frédéric Mistrals &lt;i&gt;Mirèio&lt;/i&gt; um 1900</dc:title>
+          <dc:creator>Stralla, Melanie</dc:creator>
+          <dc:contributor>Kocher, Ursula</dc:contributor>
+          <dc:date>2019-09-18</dc:date>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fba/literaturwissenschaft/diss2019/stralla</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=9752</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20190918-131950-7</dc:identifier>
+          <dc:identifier>https://doi.org/10.25926/jdy5-mw39</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-9136/da1901.pdf</dc:identifier>
+          <dc:description xml:lang="de">&lt;p&gt;Dass die provenzalische Renaissance im 19. Jahrhundert in bedeutender Weise nach Deutschland ausgestrahlt hat, ist bis heute unbeachtet geblieben. Aus dem Netzwerk, das sich hier zur Unterstützung des neuprovenzalischen Dichters Frédéric Mistral sowie des um ihn entstandenen Zirkels &lt;i&gt;Felibrige&lt;/i&gt; gebildet hatte, ging die bis heute erfolgreichste deutsche &lt;i&gt;Mirèio-&lt;/i&gt;Übersetzung von August Bertuch (Erstauflage 1893) hervor. Doch diese in sechs Auflagen vorliegende deutsche Fassung von &lt;i&gt;Mirèio&lt;/i&gt; war bei weitem nicht die einzige. Beinahe vollständig in Vergessenheit geraten sind die erste deutsche Übersetzung &lt;i&gt;Mirèio&lt;/i&gt; durch Betty Dorieux-Brotbeck (1880) sowie die 1906 erschienene Übersetzung durch Franziska Steinitz. Während jeder der drei Texte durch eine individuelle Übersetzungshaltung geprägt ist, spiegelt sich in ihnen ebenfalls das Spannungsverhältnis von Übersetzung und Edition, denn alle Übersetzerinnen und Übersetzer traten auch als Herausgeberinnen und Herausgeber ihrer Texte in Erscheinung. &#13;
+Unter Zuhilfenahme der Methodik der ,Descriptive Translation Studies' geht die Arbeit der Frage nach, wie übersetzerisches und editorisches Handeln in den vorliegenden Fällen auf die deutschen Fassungen von &lt;i&gt;Mirèio&lt;/i&gt; eingewirkt und so auch das Bild der provenzalischen Renaissance in Deutschland geprägt haben. Jenseits der Textanalyse, die den Umgang der Übersetzerinnen und Übersetzer mit dem ‚doppelten Ausgangstext‘, den die Werke Mistrals ausnahmslos mit sich bringen, beleuchtet, werden ebenso Vermarktungsstrategien einzelner Übersetzungen (v. a. die rhapsodischen Vorträge August Bertuchs) sowie ihre Aufnahme durch die zeitgenössische Kritik besprochen.&lt;/p&gt;</dc:description>
+          <dc:subject>Provenzalisch</dc:subject>
+          <dc:subject>Mistral</dc:subject>
+          <dc:subject>Felibrige</dc:subject>
+          <dc:subject>Übersetzung</dc:subject>
+          <dc:subject>Edition</dc:subject>
+          <dc:subject>Bertuch</dc:subject>
+          <dc:subject>Dorieux-Brotbeck</dc:subject>
+          <dc:subject>Steinitz</dc:subject>
+          <dc:subject>800 Literatur » 800 Literatur, Rhetorik, Literaturwissenschaft</dc:subject>
+          <dc:subject>Fakultät für Geistes- und Kulturwissenschaften » Allgemeine Literaturwissenschaft » Dissertationen</dc:subject>
           <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
           <dc:language>deu</dc:language>
           <dc:format>application/pdf</dc:format>
