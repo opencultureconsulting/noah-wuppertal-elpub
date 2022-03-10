@@ -1,28 +1,28 @@
-<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:11480</id><datestamp>2021-03-22</datestamp><setSpec>DDC:5:51:510</setSpec>
-          <dc:title xml:lang="en">Geometric Integration on Lie Groups and its Applications in Lattice QCD</dc:title>
-          <dc:creator>Wandelt, Michèle</dc:creator>
-          <dc:date>2021-03-22</dc:date>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2020/wandelt</dc:identifier>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=11480</dc:identifier>
-          <dc:identifier>urn:nbn:de:hbz:468-20210322-110757-5</dc:identifier>
-          <dc:identifier>https://doi.org/10.25926/c8nn-p108</dc:identifier>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-10788/dc2023.pdf</dc:identifier>
-          <dc:description xml:lang="en">&lt;p&gt;Geometric integration on Lie groups is an important issue concerning applications in Lattice Quantum Chromodynamics (Lattice QCD).&#13;
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:10480</id><datestamp>2020-05-13</datestamp><setSpec>DDC:5:51</setSpec>
+          <dc:title xml:lang="de">Die Zyklografie Wilhelm Fiedlers</dc:title>
+          <dc:creator>Wengel, Robert</dc:creator>
+          <dc:contributor>Volkert, Klaus</dc:contributor>
+          <dc:date>2020-05-13</dc:date>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2020/wengel</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=10480</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20200513-100658-4</dc:identifier>
+          <dc:identifier>https://doi.org/10.25926/ap24-xa94</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-9802/dc2002.pdf</dc:identifier>
+          <dc:description xml:lang="de">Die vorliegende Dissertation beschäftigt sich mit der von Wilhelm Fiedler im 19. Jahrhundert entwickelten Abbildungsmethode der Zyklografie und gliedert sich in drei Teile.&#13;
 &#13;
-&lt;p&gt;This thesis is split into three parts concerning various geometric numerical integration schemes on Lie groups and its applications in Lattice QCD.&#13;
+Der erste Abschnitt der Arbeit behandelt neben der Biografie Fiedlers historische Aspekte der Entwicklung der Zyklografie. So werden Fiedlers Leben und Wirken sowie seine Beiträge zur Mathematik thematisiert. Unter Bezugnahme auf verschiedene historische Quellen wird rekonstruiert, wann und unter welchen Umständen die Zyklografie entstand. An dieser Stelle wird insbesondere aufgezeigt, weshalb Fiedler die Veröffentlichung seines Lehrwerkes „Cyklographie oder Construction der Aufgaben über Kreise und Kugeln und elementare Geometrie der Kreis- und Kugelsysteme“ (kurz: Cyklographie) verzögerte. Darüber hinaus gibt dieser Abschnitt der Arbeit Aufschluss darüber, welche Themen in der Cyklographie behandelt werden und wie die Zyklografie rezipiert wurde.&#13;
 &#13;
-&lt;p&gt;The first part (chapter 2 and 3) covers some foundations of Lattice QCD with focus on the Hamiltonian equations of motion occurring in Hybrid Monte Carlo (HMC) simulations and the Wilson flow. Moreover, Runge-Kutta methods for Lie groups are introduced as numerical integration schemes. The key developments of this thesis are based on these topics: the investigation and improvement of Lie group methods in part two and its application in HMC simulations in part three. &#13;
+Der zweite Teil der Arbeit arbeitet die mathematische Theorie in einer modernen, zeitgemäßen Struktur und Symbolik auf. Hier wird mit den Grundlagen der Zentralprojektion im klassischen Sinne begonnen und das zyklografische Abbildungsverfahren eingeführt.&#13;
+Zahlreiche Konstruktionsaufgaben mit vielen ergänzenden Abbildungen demonstrieren die Nützlichkeit und Sinnhaftigkeit der Zyklografie. Darüber hinaus wird das Konzept der Kreisbüschel im zyklografischen Stile behandelt und in diesem Kontext der Bezug zur Hyperbel hergestellt. Dabei werden auch Begriffe, wie die Potenz eines Punktes in Bezug auf einen Kreis und die Kreisinversion, angesprochen.&#13;
+Einen weiteren zentralen Aspekt dieses Abschnittes bildet die Diskussion des Apollonischen Berührproblems unter Anwendung des zyklografischen Verfahrens. Hierbei werden sowohl ein analytischer Ansatz als auch eine Möglichkeit aufgezeigt, das Problem mit Zirkel und Lineal zu lösen.&#13;
+Den Abschluss des Abschnittes bilden Fragestellungen mit dem Schwerpunkt der Bestimmung von Kreisen, die andere unter bestimmten Winkeln schneiden.&#13;
 &#13;
-&lt;p&gt;Part two (chapters 4-6) contains the mathematical achievements of this thesis. On the one hand, Munthe-Kaas Runge-Kutta methods are improved for general purposes as well as for geometric integration. First, a step size control is combined with a Munthe-Kaas Runge-Kutta scheme using the Cayley transform as local parameterization. Then, the focus is turned on geometric integration: the Cayley transform is applied inside the Leapfrog method for Lie groups. Furthermore, symmetric partitioned Runge-Kutta schemes and time-reversible projection schemes are developed here. These schemes will be applied in Lattice simulations in part three. Additionally, exponential smoothing splines are deduced from a combination of exponential and smoothing splines. They are used for the detection of a phase transition in Finite Temperature QCD via the Wilson flow.&#13;
-&#13;
-&lt;p&gt;In part three (chapter 7 and 8), all of these methods are applied in the context of HMC simulations, the Wilson flow and Finite temperature QCD. In simulations of lattice gauge fields, the Hamiltonian equations of motion occur. Here, the three novel geometric integration methods Cayley-Leapfrog, symmetric partitioned Runge-Kutta and time-reversible projection are applied. Afterwards, their convergence orders and the properties time-reversibility and volume-preservation are investigated with the result that the Cayley-Leapfrog method is very promising for the usage in Lattice QCD computations. The other methods are candidates for further improvements. The second result is the enhancement of the computation of the Wilson flow using a step size control combined with a Munthe-Kaas Runge-Kutta method. Last but not least, a novel and fast method for the detection of a phase transition in Finite Temperature QCD is developed: the energy difference method. This method detects the phase transition using the difference of the temporal and spatial part of the Wilson energy in combination with the exponential smoothing spline derived in part 2. &#13;
-&#13;
-&lt;p&gt;Finally, this work closes (in chapter 9) with a conclusion of the results followed by an outlook of possible further research.</dc:description>
-          <dc:rights>Alle Rechte vorbehalten</dc:rights>
-          <dc:subject>500 Naturwissenschaften und Mathematik » 510 Mathematik » 510 Mathematik</dc:subject>
+Der finale Teil der Arbeit beschäftigt sich mit einem didaktischen Diskurs der Zyklografie. Es werden unter anderem Fiedlers didaktische Ansichten zur Vermittlung und Lehre der Geometrie auf Grundlage historischer Quellen herausgearbeitet. So erfährt man, welche Aspekte Fiedler in der Lehre von Geometrie wichtig waren. Im Anschluss daran wird eine selbst entwickelte Unterrichtsreihe mit dem Themenschwerpunkt einer unterrichtlichen Behandlung der Zyklografie in der schulischen Oberstufe dargestellt. Hier werden curricular relevante Aspekte des Oberstufenunterrichts im Fach Mathematik, wie die Untersuchung von Geraden im Raum, aufgegriffen und zyklografisch behandelt.&#13;
+Den Abschluss des letzten Teils der Dissertation bildet eine Diskussion der Vorzüge und Nachteile der Behandlung von Raumgeometrie mit der zyklografischen Methode im Vergleich zur Anwendung von Analytischer Geometrie mit Linearer Algebra. In diesem Kontext wird die Frage aufgegriffen, weshalb sich die Abbildungsvorschrift nicht durchsetzen konnte und heute nur wenig bekannt ist.</dc:description>
+          <dc:subject>500 Naturwissenschaften und Mathematik » 510 Mathematik</dc:subject>
           <dc:subject>Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik » Dissertationen</dc:subject>
           <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
-          <dc:language>eng</dc:language>
+          <dc:language>deu</dc:language>
           <dc:format>application/pdf</dc:format>
           <dc:type>Text</dc:type>
         </oai_dc:dc>

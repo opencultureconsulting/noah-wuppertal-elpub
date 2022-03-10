@@ -1,32 +1,50 @@
-<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:994</id><datestamp>2018-01-22</datestamp><setSpec>DDC:6:60:600</setSpec>
-          <dc:title xml:lang="de">Farbmetrisch basierte Modellentwicklung zur Farbbildoptimierung mittels genetischer Programmierung</dc:title>
-          <dc:creator>Blei, Andreas</dc:creator>
-          <dc:date>2004-08-09</dc:date>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/medientechnik/diss2004/blei</dc:identifier>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=994</dc:identifier>
-          <dc:identifier>urn:nbn:de:hbz:468-20040368</dc:identifier>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1100/de0405.pdf</dc:identifier>
-          <dc:description xml:lang="de">Das Ziel der vorliegenden Arbeit liegt in der Entwicklung einer langfristig einsetzbaren und künftigen Aufgabenstellungen gerecht werdenden Lösung des Problems der von unabhängigen Bewertungs- und Manipulationsmodulen getragenen, autonomen Farbbildoptimierung. Die Schwerpunkte der Arbeit liegen in der Entwicklung einer modularen Bewertungsstruktur und dem Nachweis eines effizienten Optimierungsverfahrens.&#13;
-&lt;p&gt;Im Rahmen der Entwicklung der Bewertungsstruktur wird das Optimierungsziel anhand der Analyse der natürlichen Farbbilder der Reihe &lt;i&gt;ISO 12640-3 L* a*b* standard colour image data WD1&lt;/i&gt; festgelegt. Hieraus resultiert ein auf der Bewertungsstruktur basierendes Optimierungsverfahren, das ein quasi optimales Farbbild hinsichtlich der Reihe ISO 12640-3 liefert. Die Anpassung der Bewertungsstruktur an andere Bezugsreihen ist durch ihre Modularität auf einfache Weise durchführbar.&#13;
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:464</id><datestamp>2018-01-22</datestamp><setSpec>DDC:5:54:540</setSpec>
+          <dc:title xml:lang="en">Building Blocks for 2-Deoxy-L-Nucleosides</dc:title>
+          <dc:creator>Fazio, Fabio</dc:creator>
+          <dc:date>2001-10-04</dc:date>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fb09/diss2001/fazio</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=464</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20010550</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-559/d090107.pdf</dc:identifier>
+          <dc:description xml:lang="en">&lt;p&gt;The major topic of this work was the development of&#13;
+      novel synthetic routes towards enantiomerically pure building blocks for&#13;
+      2-deoxy-L-ribose and non-natural L-nucleosides derived thereof, with their&#13;
+therapeutic importance outlined in Chapter 1. &lt;/p&gt;&#13;
 &#13;
-&lt;p&gt;Die Verwendung unabhängiger Bewertungsmodule verlangt nach einer normierten Betrachtung der einzelnen Module zur Gewährleistung ihrer Gleichwertigkeit, da jedes Modul seine eigenen Wertebereiche und Optimalwerte besitzt. Um dies zu gewährleisten werden die Ergebniswerte der einzelnen Bewertungsmodule mittels einer mehrwertigen Logik in das Intervall [0,1] überführt. Ferner werden hierdurch linguistische Variablen zur Bewertung eines Farbbildes in das Optimierungsverfahren integriert, um eine problemlose Erweiterung oder Veränderung der Module zu ermöglichen.&#13;
 &#13;
-&lt;p&gt;In dieser Arbeit wird der Entwicklung einer Gesamtbewertungsfunktion zur Bestimmung der Güte eines Farbbildes besondere Aufmerksamkeit gewidmet. Es wird nachgewiesen, dass eine Funktion aus unabhängigen Teilbewertungen erstellt werden kann. Die ausgewählten Bewertungsmodule dienen dem Nachweis der Existenz einer auf linguistischen Variablen basierenden Gesamtbewertungsfunktion. Zur Gewährleistung einer autonomen Farbbildoptimierung wird der CIE 1976 (L*a*b*) Bezugsfarbraum mit der CIE 1994  &lt;font face="symbol"&gt;D&lt;/font&gt;E&lt;sub&gt;&lt;small&gt;94&lt;/small&gt;&lt;/sub&gt;  Farbabstandsformel verwendet, da dieser Bezugsfarbraums mit der Farbabstandsformel, die hinsichtlich der menschlichen Farbwahrnehmung nahezu gleichabständig ist. Diese Festlegung gewährleistet bei der Anwendung analytischer oder statistischer Verfahren aussagekräftige Ergebnisse.&#13;
 &#13;
-&lt;p&gt;Auf Grund der Tatsache, dass eine auf mehrwertiger Logik basierende Bewertungsfunktion i. Allg. nicht stetig differenzierbar ist, wird die Auswahl eines numerischen Optimierungsverfahrens beschränkt. Ein geeignetes Verfahren ist die genetische Programmierung, da diese die erstellte Gesamtbewertung als zu optimierende Funktion akzeptiert. Das resultierende Optimierungsverfahren liefert eine Basisvariante, die den effektiven Einsatz der genetischen Programmierung nachweist. Insbesondere wird gezeigt, dass die Anwendung zweier Voroptimierungsphasen selbst bei einer kleinen Populationsgröße die Optimierung eines Farbbildes gewährleistet.</dc:description>
-          <dc:description xml:lang="en">The destination of the present paper is in the evolution of an on a long-term basis usable solution of the problem of a autonomous colour image optimisation based on independent evaluation and manipulation modules. The emphases of the paper are in the evolution of a modular evaluation structure and the proof of an efficient optimisation algorithm.&#13;
+&lt;p&gt;In Chapter 2 the synthesis of enantiomerically&#13;
+pure &lt;i&gt;R-&lt;/i&gt;(+)-5-benzyloxymethyl-5&lt;/b&gt;&lt;i&gt;H&lt;/i&gt;-furan-2-one (&lt;b&gt;1&lt;/b&gt;) is described,&#13;
+which we chose as chiral starting material for the synthesis of 2-deoxy-L-ribose. &lt;b&gt;1&lt;/b&gt; was obtained from&#13;
+L-ascorbic acid in 5 steps and 26% overall yield. As an alternative &lt;b&gt;1&lt;/b&gt; can also be obtained from &lt;i&gt;R&lt;/i&gt;-(-)-benzylglycidol&#13;
+by either using PhSeCH&lt;sub&gt;2&lt;/sub&gt;CO&lt;sub&gt;2&lt;/sub&gt;H (2 steps, 61% overall yield)&#13;
+or PhSCH&lt;sub&gt;2&lt;/sub&gt;CO&lt;sub&gt;2&lt;/sub&gt;H (3 steps, 35% overall yield). &lt;/p&gt;&#13;
 &#13;
-&lt;p&gt;Within the framework of the evolution of the evaluation structure the optimisation destination is determined by means of the analysis of the natural colour images of the &lt;i&gt;ISO series 12640-3 standard L*a*b* colour image data WD1&lt;/i&gt;. An optimisation algorithm based on the evaluation structure, which generates a quasi optimal colour image with regard to the ISO series 12640-3 results from that. The adaptation of the evaluation structure to other series is feasible through modularity of this structure in a simple way.&#13;
 &#13;
-&lt;p&gt;The use of independent evaluation modules demand a standardized consideration of the individual modules for the guarantee of the uniformity, because every module have its own value ranges and optimum values. To guarantee this, the results of the individual evaluation modules are transfered by means of a fuzzy logic into the range [0,1]. Further through that linguistic variable are integrated for the evaluation of a colour image in order to allow a problem-free enlargement or modification of the modules.&#13;
 &#13;
-&lt;p&gt;In this paper special attention is dedicated to the evolution of an entire evaluation function for the determination of the kindness of a colour image. It is verified that a function can be made out from independent partial evaluations. The selected evaluation modules serve the proof of the existence of an entire evaluation function based on linguistic variables. For the guarantee of an autonomous colour image optimisation the CIE 1976 (L*a*b*) colour space is employed with the CIE 1994  &lt;font face="symbol"&gt;D&lt;/font&gt;E&lt;sub&gt;&lt;small&gt;94&lt;/small&gt;&lt;/sub&gt; colour difference formula, because this colour space with this colour difference formula is almost perceptually uniform with regard to the human colour perception. This determination guarantees meaningful results during the use of analytical or statistical procedures.&#13;
-&#13;
-&lt;p&gt;Due to the fact that an evaluation function based on fuzzy logic is generally not continuously differentiable the selection of a numeric optimisation procedure is limited. A suitable procedure is the genetic programming, because this procedure accepts  the made out evaluation function. The resultant optimisation algorithm represents a basic variant, which verifies the effective use of the genetic programming. In particular it is shown that the use of two pre-optimisation phases guarantees the optimisation of a colour image even at a small population size.</dc:description>
-          <dc:subject>600 Technik, Medizin, angewandte Wissenschaften » 600 Technik » 600 Technik, Technologie</dc:subject>
-          <dc:subject>Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Medientechnik » Dissertationen</dc:subject>
+&lt;p&gt;In Chapter 3 the synthesis of 2-deoxy-L-ribose and&#13;
+building blocks derived thereof starting from &lt;b&gt;1&lt;/b&gt; is described. We were&#13;
+able to prepare 2-deoxy-L-ribose following two different routes:&#13;
+&lt;br&gt;The first route is&#13;
+based on previous experiments described by Fleming &lt;i&gt;et al.&lt;/i&gt; related to the diastereoselective addition of silyl cuprate reagents to Michael systems, and to the fact that the silyl functions in the resulting derivatives can be transformed into the corresponding hydroxy groups with retention of configuration. We were able to synthesize 2-deoxy-L-ribose (4 steps, 28% overall yield from &lt;b&gt;1&lt;/b&gt;) and related building blocks in enantiomerically pure form.&#13;
+&lt;br&gt;The second route involves a) dihydroxylation of &lt;b&gt;1&lt;/b&gt;, b) selective protection of the 2-OH group and    c) selective removal of this function. This way 2-deoxy-L-ribose was obtained from &lt;b&gt;1&lt;/b&gt; in 5 steps with an overall yield of 18%. &#13;
+&lt;br&gt;In comparing the two routes we feel that the&#13;
+dihydroxylation route has several advantages in using a) simpler procedures, b) commercially available reagents and c) being faster. The only remaining drawback is the requirement for one additional step and a lower overall yield (18%) as compared to the silyl based procedure (28%). This is, in our opinion, more than compensated by the rapid and facile procedure.&lt;/p&gt;&#13;
+&lt;p&gt;In Chapter 4 the synthesis of two selected&#13;
+2-deoxy-L-nucleosides is described. The Vorbrüggen procedure was used in the case of L-thymidine and the KI catalyzed procedure in the case of 2-deoxy-L-adenosine. In&#13;
+order to avoid equilibration between the pyranoside and furanoside forms of the free sugar, the 5-&lt;i&gt;O&lt;/i&gt;-benzyl protected derivative &lt;b&gt;47&lt;/b&gt; was employed.&#13;
+In order to demonstrate the usefulness of our building block having the backbone of 2-deoxy-L-ribose, we synthesized L-thymidine - a pyrimidine L-nucleoside-&#13;
+and 2-deoxy-L-adenosine, a purinic nucleoside. L-thymidine and 2-deoxy-L-adenosine were obtained in 48% and 30% overall yield, respectively. The major and unresolved&#13;
+remaining problem is the lack of diastereoselectivity in the coupling reactions leading to mixtures of α,β-anomers of the final nucleosides.&lt;/p&gt;&#13;
+&lt;p&gt;In Chapter 5 the instability of δ-lactones towards acid catalysis is investigated. The enantiomerically pure (≥98% ee) &lt;i&gt;R&lt;/i&gt;-(+)-6-methyl-tetrahydro-pyran-2-one &lt;b&gt;(87)&lt;/b&gt; was prepared &lt;i&gt;via&lt;/i&gt; TFA catalyzed cyclization of the corresponding acid. It was observed that this δ-lactone converts into an equilibrium mixture with its trimer &lt;b&gt;(90)&lt;/b&gt; (monomer/trimer 20:80) corresponding&#13;
+to a ΔG≅-0.8 kcal mol&lt;sup&gt;-1&lt;/sup&gt; if traces of TFA&#13;
+are still present in the final product. The transformation can be followed by &lt;sup&gt;1&lt;/sup&gt;H&#13;
+and &lt;sup&gt;13&lt;/sup&gt;C-NMR. The structure of &lt;b&gt;90&lt;/b&gt; was established by chemical correlation with the monomer and its molecular weight determined &lt;i&gt;via&lt;/i&gt; its colligative&#13;
+properties. &lt;i&gt;p&lt;/i&gt;-TsOH in contrast was shown to be a highly suitable catalyst for such cyclizations leading to pure and stable δ-lactones.&lt;/p&gt;</dc:description>
+          <dc:subject>500 Naturwissenschaften und Mathematik » 540 Chemie » 540 Chemie und zugeordnete Wissenschaften</dc:subject>
+          <dc:subject>Fakultät für Mathematik und Naturwissenschaften » Chemie » Dissertationen</dc:subject>
           <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
-          <dc:language>deu</dc:language>
+          <dc:language>eng</dc:language>
           <dc:format>application/pdf</dc:format>
           <dc:type>Text</dc:type>
         </oai_dc:dc>

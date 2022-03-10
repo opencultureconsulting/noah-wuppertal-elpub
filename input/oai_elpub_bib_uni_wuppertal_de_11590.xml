@@ -1,0 +1,23 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:11590</id><datestamp>2021-04-28</datestamp><setSpec>DDC:5:53</setSpec>
+          <dc:title xml:lang="en">Design and Characterisation of an MRI Compatible Human Brain PET Insert by Means of Simulation and Experimental Studies</dc:title>
+          <dc:creator>Lenz, Mirjam</dc:creator>
+          <dc:contributor>Pietrzyk, Uwe</dc:contributor>
+          <dc:date>2021-04-28</dc:date>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2020/lenz</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=11590</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20210428-104546-2</dc:identifier>
+          <dc:identifier>https://doi.org/10.25926/d4s5-bc37</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-10924/dc2026.pdf</dc:identifier>
+          <dc:description xml:lang="en">Positron emission tomography (PET) is a widely used in-vivo imaging technique to visualise metabolism, allowing for a broad spectrum of applications in oncology, cardiology and neuroscience. At present, an MRI compatible human brain PET scanner for applications in neuroscience is being constructed in the scope of a Helmholtz Validation Fund project.&#13;
+In this thesis, a detector for this novel PET device was designed. The detector concept combined three scintillator layers with a lightguide and digital silicon photomultipliers (dSiPMs). Monte Carlo simulations were used to optimise the dimensions of the scintillator arrays, so that the new scanner design yielded the maximum possible sensitivity. The benefit from the additional depth information, which can be acquired with three scintillator layers, was evaluated and proven to be higher compared to a less expensive two layer geometry. Since a more homogeneous spatial resolution was achieved in the whole field of view, this finding had a high relevance for the envisaged neuroscientific applications.&#13;
+In order to accurately acquire the depth information, new strategies for decoding the flood map during the calibration of a detector module were developed. This required realistic simulation data with ground truth information, so that the simulation toolkit GATE was extended to model the electronic readout of the dSiPMs. To overcome extended simulation times and to provide simulations on a statistically sound basis, the GATE studies were executed on the supercomputer JURECA. The simulated data were matched to measured data from test detectors. This allowed the determination of an optimum thickness of a lightguide between the scintillators and the dSiPMs. Moreover, the number of correctly identified scintillation events was evaluated by means of different event positioning approaches and different clustering methods during the calibration step. The highest amount of correctly identified events in a single detector block was achieved with model-based clustering and Maximum Likelihood positioning (61.5 %). By simulating the whole propagation and detection of scintillation photons including ground truth information, this study provides the opportunity to improve the positioning approaches and to enhance this number in future.&#13;
+The gained insights were further applied to select a surface finish of the scintillators. Measurements with crystal samples of the final detector dimensions showed that rough lateral crystal surfaces yielded the best signal separation in the calibration flood map.&#13;
+The experimental and simulation studies presented in this thesis had a major influence on the final detector design of the novel brain PET. The detailed simulations including the propagation and detection of scintillation photons were in good agreement with measured data, and could be a promising approach for future detector design studies.</dc:description>
+          <dc:rights>Alle Rechte vorbehalten</dc:rights>
+          <dc:subject>500 Naturwissenschaften und Mathematik » 530 Physik</dc:subject>
+          <dc:subject>Fakultät für Mathematik und Naturwissenschaften » Physik » Dissertationen</dc:subject>
+          <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
+          <dc:language>eng</dc:language>
+          <dc:format>application/pdf</dc:format>
+          <dc:type>Text</dc:type>
+        </oai_dc:dc>
