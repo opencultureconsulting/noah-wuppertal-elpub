@@ -1,22 +1,63 @@
-<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:6011</id><datestamp>2018-01-22</datestamp><setSpec>DDC:5:53</setSpec>
-          <dc:title xml:lang="en">Performance of the Insertable B-Layer for the ATLAS Pixel Detector during Quality Assurance and a Novel Pixel Detector Readout Concept based on PCIe</dc:title>
-          <dc:creator>Heim, Timon</dc:creator>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:7511</id><datestamp>2018-01-22</datestamp><setSpec>DDC:5:57:570</setSpec>
+          <dc:title xml:lang="en">Chloroplast Genome Diversity in the Phototrophic Euglenoids, with Emphasis on Genome Structure, Synteny and Intron Evolution</dc:title>
+          <dc:creator>Dabbagh, Nadja</dc:creator>
+          <dc:contributor>Preisfeld, Angelika</dc:contributor>
+          <dc:contributor>Preisfeld, Angelika</dc:contributor>
+          <dc:contributor>Wägele, Heike</dc:contributor>
+          <dc:contributor>Simon, Martin</dc:contributor>
           <dc:date>2018-01-22</dc:date>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2015/heim</dc:identifier>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=6011</dc:identifier>
-          <dc:identifier>urn:nbn:de:hbz:468-20160725-094929-4</dc:identifier>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-5814/dc1538.pdf</dc:identifier>
-          <dc:description xml:lang="en">During the first long shutdown of the LHC the Pixel detector has been upgraded with a new 4th innermost layer, the Insertable B-Layer (IBL). The IBL will increase the tracking performance and help with higher than nominal luminosity the LHC will produce. The IBL is made up of 14 staves and in total 20 staves have been produced for the IBL. This thesis presents the results of the final quality tests performed on these staves in an detector-like environment, in order to select the 14 best of the 20 staves for integration onto the detector. The test setup as well as the testing procedure is introduced and typical results of each testing stage are shown and discussed. The overall performance of all staves is presented in regards to: tuning performance, radioactive source measurements, and number of failing pixels. Other measurement, which did not directly impact the selection of staves, but will be important for the operation of the detector or production of a future detector, are included.&#13;
-&#13;
-Based on the experience with readout systems of the IBL, a novel readout concept has been developed. This concept is based around the idea of moving as much functionality into the software of the controlling host computer as possible. The YARR system was developed with focus on the usage of modern multi core CPU architectures, and an FPGA interfaced via a PCIe link. The initial implementation is performed for the FE-I4 chip, which is used in the IBL, but not limited to one chip type, due to the flexible software implementation. The hardware chosen for YARR, is the SPEC board, which is a low cost off-the-shelf PCIe card carrying an FPGA, which can be used as a reconfigurable I/O interface. The firmware for the FPGA, as well as the software is described in-depth and its performance is evaluated for the usage with FE-I4s and extrapolated for the usage with future detector front-ends. In comparison with existing FE-I4 readout systems, YARR shows exceptional performance for much lower cost. This makes it very interesting for the usage in laboratories and for testbeam campaigns. The software is easily scalable to higher performance systems and the necessary steps to replace the existing hardware with another one to accommodate higher link speed are discussed in the conclusion.</dc:description>
-          <dc:subject>CERN</dc:subject>
-          <dc:subject>LHC</dc:subject>
-          <dc:subject>ATLAS</dc:subject>
-          <dc:subject>Pixel</dc:subject>
-          <dc:subject>IBL</dc:subject>
-          <dc:subject>Readout</dc:subject>
-          <dc:subject>500 Naturwissenschaften und Mathematik » 530 Physik</dc:subject>
-          <dc:subject>Fakultät für Mathematik und Naturwissenschaften » Physik » Dissertationen</dc:subject>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/biologie/diss2017/dabbagh</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=7511</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20171201-113132-6</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-7307/dc1725.pdf</dc:identifier>
+          <dc:description xml:lang="en">To shed light on chloroplast genome evolution in the phototrophic euglenoids the cpGenomes of Euglena mutabilis (SAG 1224-9b), Trachelomonas grandis (SAG 204.80) and Eutreptiella pomquetensis (CCMP 1491) were isolated, sequenced and annotated. The chloroplast&#13;
+genomes were investigated intensively and compared to other cpGenomes of phototrophic euglenoids, with special focus on genome size and structure, number and localization of&#13;
+rRNA operons as well as introns. As a cause for genome size differences three major reasons&#13;
+have been identified. First, the intergenic space between the cpGenomes of different taxa&#13;
+varied greatly, even between closely related species. Second, the rRNA operon numbers&#13;
+between different taxa were not uniform. Third, the different intron numbers and intron types&#13;
+between different taxa led to the main reason for size differences in euglenoids cpGenomes.&#13;
+Comprehensive trends of intron number and intron type have been detected in closely as well&#13;
+as distantly related euglenoids. These trends can be used to explain intron density and quantity&#13;
+as well as high or low similarities in the evolution of introns in all phototrophic euglenoids.&#13;
+The expansion and evolution of psbC introns can partly be elucidated by assumed horizontal&#13;
+intron transfers in the chloroplast of euglenoids after the split from Eutreptiales and&#13;
+Euglenales.&#13;
+Findings concerning the emergence and evolution of group III introns supported the&#13;
+hypothesis that group III introns are degenerated group II introns. Surprisingly, the&#13;
+cpGenomes of the basally branching Eutreptiales are free of group III introns, although the&#13;
+results indicated that their evolution began in Eutreptiales as intermediate stages of group II&#13;
+and III introns (mini group II introns).&#13;
+Furthermore, a new phylogenomic analysis of phototrophic euglenoids was performed and&#13;
+compared to recently published phylogenetic analyses. As a new approach genome-level&#13;
+characters from all known cpGenomes of euglenoids have been used as a tool to complement&#13;
+the phylogenomic analysis. Metacharacter analyses yielded gene arrangement, cluster&#13;
+arrangement and rRNA operons as viable metacharacters with partly important modifications&#13;
+between the taxa. Significant cluster rearrangement was identified in several clades that&#13;
+matched the phylogenetic reconstruction. Using the rRNA operon as a metacharacter revealed&#13;
+a trend of loss of one rRNA copy following the diversification of Euglenales. Basally&#13;
+branching Eutreptiales contained two copies, which is identical to the structure in the surmised chloroplast donor Pyramimonas parkeae. Only for both Euglena gracilis species&#13;
+and Strombomonas acuminata an independent acquirement of further rRNA operons was&#13;
+recognizable.&#13;
+The cpGenome of Eutreptiella pomquetensis showed the same quadripartite cpGenome&#13;
+structure as Pyramimonas parkeae, corroborating the close relationship between these two&#13;
+taxa. The present work provides a sound basis for further examinations of chloroplast genome&#13;
+analyses to get a more thorough understanding of intron evolution within the phototrophic&#13;
+euglenoids. Likewise it represents a precursor for future studies concerning genome-level&#13;
+features in phototrophic euglenoids.</dc:description>
+          <dc:source xml:lang="de">Die Dissertation enthält Material folgender Quellen:&#13;
+&lt;br&gt;&lt;br&gt;&#13;
+Journal of Eukaryotic Microbiology 2016, 0, 1–14&lt;br&gt;&#13;
+doi:10.1111/jeu.12334&#13;
+&lt;br&gt;&lt;br&gt;&#13;
+Dabbagh et al. (2017), &lt;br&gt;Chloroplast genome expansion by intron multiplication in the basal psychrophilic euglenoid&#13;
+Eutreptiella pomquetensis. &lt;br&gt;PeerJ 5:e3725; DOI 10.7717/peerj.3725</dc:source>
+          <dc:subject>Chloroplast</dc:subject>
+          <dc:subject>Genome</dc:subject>
+          <dc:subject>Phototrophic Euglenoids</dc:subject>
+          <dc:subject>Introns</dc:subject>
+          <dc:subject>500 Naturwissenschaften und Mathematik » 570 Biowissenschaften; Biologie » 570 Biowissenschaften; Biologie</dc:subject>
+          <dc:subject>Fakultät für Mathematik und Naturwissenschaften » Biologie » Dissertationen</dc:subject>
           <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
           <dc:language>eng</dc:language>
           <dc:format>application/pdf</dc:format>
