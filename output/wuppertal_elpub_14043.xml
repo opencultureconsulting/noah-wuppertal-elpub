@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14043">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Windelband: Ankündigung der Lehrveranstaltungen für das Wintersemester 1914/15, Heidelberg, 22.10.1914, 1 S., hs. (lat. Schrift), UA Heidelberg, PA 2449, Bl. 16</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Windelband: Ankündigung der Lehrveranstaltungen für das Wintersemester 1914/15, Heidelberg, 22.10.1914, 1 S., hs. (lat. Schrift), UA Heidelberg, PA 2449, Bl. 16 Im Wintersemester 1914/15 will ich vortragen: 1) Kant und seine Zeit[a] (drei[b]stündig statt, wie angezeigt, vierst[ündig].[c] Dinstags[d] Mittwochs Donnertags 5–6 Uhr Audit[orium] No. 13. Anfang Dinstag den 3t. November 2) Geschichtsphilosophie[e] (ein[f]stündig) Freitags 5–6 Audit[orium] No. 13. Anfang Freitag den 6. November. Im philosophischen Seminar[g] werde ich Kant’s Prolegomena[h] behandeln Montags 6–8 Uhr, privatissime et gratis. Diese Uebungen denke ich in meiner Wohnung abzuhalten; die Zulassung dazu setzt unbedingt persönliche Anmeldung voraus. Sprechstunde: Montags und Donnerstags 12–1 Uhr. Heidelberg, 22 October 1914 W Windelband Anmerkungen zum Textbefund a↑Kant und seine Zeit ] unterstrichen b↑drei ] Wortteil unterstrichen c↑(dreistündig statt, wie angezeigt, vierst[ündig]. ] von vermutlich anderer Hd. gestrichen; darunter von selber Hd.: 4. Stunde wird noch bestimmt; am Rand: 4stdg d↑Dinstags ] so wörtlich e↑Geschichtsphilosophie ] unterstrichen f↑ein ] Wortteil unterstrichen g↑philosophischen Seminar ] unterstrichen h↑Kant’s Prolegomena ] unterstrichen</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000043-5</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14043</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14043">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13043/edWW2020-13043.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14043"
+            DMDID="DMD_wuppertal_elpub_14043">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14043"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

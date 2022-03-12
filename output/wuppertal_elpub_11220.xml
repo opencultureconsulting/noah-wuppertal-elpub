@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_11220">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Fire Fighting and Sustainable Accomplishment of Near Surface Coal Seam Fires</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Barth, Uli␞Cai, Zhongyong,␞Knobloch, Andreas␞Korten, Alexander A.␞Krietsch, Arne␞Kus, Jolanta␞Liu, Xiaochen␞Rüter, Horst␞Schlömer, Stefan␞Schmidt, Martin␞Suhendra, S␞Vasterling, Margarete␞Wu, Jianjun␞Wündrich, Thomas</displayForm>
+                        <namePart type="family">Barth</namePart>
+                        <namePart type="given">Uli␞Cai</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-12-16</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Funding Information: The project on which this publication is based received funding from the German Federal Ministry of Education and Research (BMBF) and the Ministry of Science and Technology (MoST) of the P.R. China, under reference numbers FKZ 0330490 and 2007DFA90500, respectively.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Maschinenbau und Sicherheitstechnik » Sicherheitstechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20201223-093113-7</identifier>
+                    <identifier type="doi">10.25926/6bkw-6409</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_11220</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_11220">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-10531/BPM_Firefighting_final.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_11220"
+            DMDID="DMD_wuppertal_elpub_11220">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_11220"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_355">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Remote Sensing and Modelling of the Earth&apos;s Middle Atmosphere: results of the CRISTA Experiment</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Riese, Martin</displayForm>
+                        <namePart type="family">Riese</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-12-07</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">The CRISTA experiment provided high-quality limb observations of atmospheric infrared emission with high spatial resolution. The inversion of these observations to atmospheric temperature and trace gas distributions is based on an efficient data system. The fast measurement technique of CRISTA results in a large amount of radiance data. The radiative transfer calculations required to retrieve atmospheric pressures, temperatures, and trace gas mixing ratios (level 2 data) are very complex and several iterations of the whole retrieval process have to be performed in order to achieve high-quality retrieval results. The CRISTA forward radiance model therefore uses fast radiative transfer codes based on precalculated atmospheric emissivity lookup tables which account for the details of the CRISTA spectroscopy. The forward model is the core of a multiple-emitter multiple-spectral sampling point onion-peeling algorithm, which proved to be well suited to resolve horizontal and vertical atmospheric structures. 
+ CRISTA provides information on the most prominent atmospheric wave types, e. g. on thermal tides and on planetary waves. Temperatures measured by CRISTA-1 (November 1994) show pronounced tidal structures which can be described by the linear theory as implemented in the GSWM (Global Scale Wave Model, Hagan et al., 1995). Planetary wave-two signatures observed during CRISTA-2 are consistent with those expected from a migrating planetary wave with an ozone signature, which is dynamically driven at lower altitudes (below 35 km) and photochemically driven at higher altitudes. CRISTA results above the middle stratosphere show a better agreement with photochemical equilibrium calculations than previous analyses. 
+ CRISTA observations are especially suited for analyses of atmospheric transport processes. In the equatorial stratopause region (50 km) circulation cells arising from inertially unstable conditions were present during the CRISTA-1 observation period. Two separate circulation cells in different longitude bands with opposite phases were observed. Another new finding is that the upper stratospheric circulation cell appears to be linked to a lower-stratosphere Kelvin wave with a zonal wavenumber of one. Since the Kelvin wave has about the same vertical scale as the circulation cells (» 10 km), and is approximately in phase with it, interactions between these two dy- namical features may have occurred. The vertical motion associated with the Kelvin wave could have affected the inertially unstable flow, e. g. by controlling its vertical scale. The temperature perturbations observed by CRISTA are rather small and may have been below the detection limit of previous observations. Circulation cells arising from inertially unstable conditions could be more common than previous studies would indicate and thus play a significant role for tracer transport in this atmospheric region. 
+ High resolution stratospheric trace gases distributions measured by CRISTA are ideally suited for studies of stratospheric transport related to planetary wave activity, especially when they are used in conjunction with a three-dimensional transport model. The CRISTA missions took place during periods of disturbed dynamical conditions characterized by relatively large wave activity and associated exchange of tropical and extra-tropical air. As a result, numerous small and medium-scale structures were present in the trace gas distributions measured by CRISTA. The detailed structure of the observed constituent distributions has been modeled with the NCAR ROSE chemical transport model. The modeled trace gas distributions capture most of the measured planetary-scale and medium-scale structures, especially at high and middle latitudes. 
+ For quantitative studies of transport and photochemical processes the ROSE CTM has been used as the core of a sequential data assimilation system. Sequential assimilation of long-lived species and chemical families appears to be an attractive technique to create synoptic trace gas fields from asynoptic satellite observations. The assimilation system provides synoptic distributions that are consistent with the CRISTA measurements at each time step of the model (20 min). Data gaps are filled and the measured trace gas distributions are extrapolated towards higher latitudes. The assimilation system provides, in addition, distributions of unmeasured species (con- sistent with the measurements). The main advantage of assimilated trace gas distributions is the availability of synoptic trace gas fields derived from observations on the temporal and spatial grid of the meteorological fields. This allows, for example, for quantitative studies of eddy fluxes and of their influence on the temporal evolution of the background atmosphere. Horizontal eddy fluxes of CFC-11 (31.6 mbar) calculated for CRISTA-1 from the assimilated trace gas concentrations are in reasonable agreement with respective fluxes calculated from modeled trace gas fields without data assimilation. Both data sets indicate a large degree of temporal cancellation of eddy transport during the time period of the CRISTA-1 measurements. A study of the CH4 budget at 4.6 mbar indicates that irreversible transport processes are rather important at this pressure level during the time period of the CRISTA-1 measurements. Most interesting is a pronounced mixing event from mid-latitudes into the tropics, which is also evident in measured and calculated zonal mean CH4 mixing ratio tendencies. 
+ To study chemical processes of short-lived species under realistic conditions, the assimilation system has been extended to chemical families such as NOy, Clx, and Ox. Through this approach, simulations of short-lived species such as N2O5 and NO2 can be constrained by CRISTA observations of long-lived species, and total amounts of chemical families, derived from measurements of individual family members. This allows for meaningful comparisons of measured and modeled short-lived species. In the present case, the approach has been successfully used to perform a study of the partitioning ratios of the nitrogen family. In particular, the dependence of the partitioning on assumptions made for the aerosol loading and key gas-phase reaction rates was investigated. Very good agreement between measured and modeled fields was found in terms of significant diurnal variations and large longitudinal variations. Sequential assimilation of chemical families appears to be an attractive method to investigate global fields of chemically active species provided by satellite observations, thereby testing our current understanding of photochemical processes.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik » Habilitationsschriften"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20010706</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_355</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_355">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-449/h080001.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_355"
+            DMDID="DMD_wuppertal_elpub_355">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_355"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

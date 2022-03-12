@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_15210">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Roadmap zur ökonomischen Analyse von E-Health Anwendungen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Müller-Mielitz, Stefan␞Lux, Thomas␞Köberlein-Neu, Juliane␞Fachinger, Uwe</displayForm>
+                        <namePart type="family">Müller-Mielitz</namePart>
+                        <namePart type="given">Stefan␞Lux</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-08-26</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">E-health interventions are considered an important success factor in the continuous improvement of health care both nationally and internationally. Particularly in integrated care arrangements, they are an important infrastructural element. Of course, when developing new interventions and introducing them into the healthcare system, health economic evaluations (HEEs) are mandatory. From a healthcare organizational as well as governmental view, it is especially important that interventions are cost-effective and affordable. Consequently, there is a growing interest in studying digital intervention’s implications on healthcare costs. In order to enable a standardized procedure, the working group &quot;E-Health&quot; of the German Society for Health Economics has begun to develop a roadmap for the health economic evaluation of e-health interventions, which complements current recommendations that exist for Germany. 
+
+
+Dateigröße: 366 KB</abstract>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics » Schumpeter Discussion Papers (SDP)"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20210826-104728-2</identifier>
+                    <identifier type="sys">HT021058161</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_15210</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_15210">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp21/sdp21001.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_15210"
+            DMDID="DMD_wuppertal_elpub_15210">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_15210"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

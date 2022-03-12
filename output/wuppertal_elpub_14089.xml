@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14089">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Windelband an Senat der Universität Freiburg, Freiburg i. Br., 2.5.1877, 1 S., hs. (lat. Schrift), UA Freiburg, B 24/4190 Personalakte Windelband</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Windelband an Senat der Universität Freiburg, Freiburg i. Br., 2.5.1877, 1 S., hs. (lat. Schrift), UA Freiburg, B 24/4190 Personalakte Windelband Freiburg am 2t Mai 1877. Dem Senat der Universität Freiburg theile ich in höflicher Beantwortung der geehrten Zuschrift vom 29. April[1] hiermit ergebenst mit, daß ich meinen Dienst als Professor in Zürich am 12tn April 1876 angetreten habe. Prof Dr W. Windelband Anmerkungen der Herausgeber 1↑Zuschrift vom 29. April ] das Ministerium des Innern hatte den Senat am 26.4.1877 gebeten, den Tag des Dienstantritts Windelbands in Zürich für die Berechnung der anzuerkennenden Dienstzeiten, Gehälter und Witwenversorgungsbeiträge mitzuteilen. Der Senat reichte die Frage am 29.4.1877 weiter an Windelband, vgl. dieselbe Akte. Schreiben an Windelband nicht überliefert.</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000089-6</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14089</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14089">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13089/edWW2020-13089.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14089"
+            DMDID="DMD_wuppertal_elpub_14089">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14089"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

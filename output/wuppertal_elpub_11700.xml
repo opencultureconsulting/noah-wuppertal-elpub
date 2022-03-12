@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_11700">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Algebraic Multigrid - Adaptivity and Structure-Preservation</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kahl, Karsten</displayForm>
+                        <namePart type="family">Kahl</namePart>
+                        <namePart type="given">Karsten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-05-19</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Multigrid methods can be viewed as the ultimate answer to the question how one should solve linear systems of equations which originate from the discretization of particular partial differential equations. This perspective is justified by their potential for optimal asymptotic complexity (linear in the number of degrees of freedom) as well as their numerical robustness. This unparalleled efficiency of multgrid methods is obtained by a multi-scale resolution of the iterative process, such that only local computations need to be done on each scale. An important step in the generalization of the algebraic multigrid idea has been the introduction of adaptivity in combination with structure-preservation in the construction of multigrid hierarchies. These concepts enable the construction of highly efficient multigrid methods for a wide variety of applications.</abstract>
+                    <abstract type="content" lang="ger">Mehrgitterverfahren können als ultimative Antwort für die Lösung dünnbesetzter, linearer Gleichungssysteme angesehen werden, die in der Diskretisierung von bestimmten partiellen Differentialgleichungen entstehen. Diese Sichtweise ist vor Allem dadurch begründet, dass Mehrgitterverfahren in der Lage sind solche Gleichungssysteme mit einem Aufwand zu lösen, der linear mit der Anzahl an Unbekannten skaliert. Diese unübertroffene Effizienz von Mehrgitterverfahren wird durch die Auflösung des Problems auf mehreren Skalen ermöglicht, so dass die Berechnungen sich auf jeder Skala lokalisieren lassen. Ein wichtiger Baustein auf dem Weg algebraische Mehrgitterverfahren weiter zu Verallgemeinern stellt die Einführung von Adaptivität in Kombination mit Ideen der Strukturerhaltung dar. Diese Ideen ermöglichen die Konstruktion hocheffizienter Mehrgitterverfahren für ein breites Spektrum von Anwendungen.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik » Habilitationsschriften"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20210517-121540-7</identifier>
+                    <identifier type="doi">10.25926/5q92-sg47</identifier>
+                    <identifier type="sys">HT021116064</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_11700</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_11700">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/habi2018/kahl/hc1801.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_11700"
+            DMDID="DMD_wuppertal_elpub_11700">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_11700"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

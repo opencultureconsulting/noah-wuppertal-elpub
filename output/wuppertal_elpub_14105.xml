@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14105">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Windelband an Georg Jellinek, Axenfels, 23.8.1878, 1 S., hs. (dt. Schrift), Postkarte an Herrn Dr. Georg Jellinek | Wien | Seitenstettengasse 4 | Oesterreich, mit Poststempel BRUNNEN | 23 VIII 78-4, Bundesarchiv Koblenz, Nachlass Georg Jellinek, N 1136/56</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Windelband an Georg Jellinek, Axenfels, 23.8.1878, 1 S., hs. (dt. Schrift), Postkarte an Herrn Dr. Georg Jellinek | Wien | Seitenstettengasse 4[1] | Oesterreich, mit Poststempel BRUNNEN | 23 VIII 78-4, Bundesarchiv Koblenz, Nachlass Georg Jellinek, N 1136/56 Axenfels 23 Aug[ust] 1878 Lieber Freund! Für den Fall, daß Du noch keine Entschlüsse gefaßt haben solltest, vermelde ich hiermit in der Hoffnung, daß diese Karte den Weg zu Dir sich den beiden ersten Briefen[2] ähnlich suchen möge, den folgenden Fortgang der Dinge: Nachdem ich keine Depesche von Dir erhalten, bin ich gestern 22. d[es] M[onats] abgefahren, habe auf dem Vierwaldstätter wieder Ehrenberg und Rümelin getroffen. Diese sind den Gotthard hinauf, um über Grimsel und Meiringen nach Interlaken zu gehen und dort etwa achttägige Station zu nehmen. Brief poste restante. Was mich allein betrifft, so bin ich zunächst Hôtel Axenfels über Brunnen für mindestens acht Tage abgestiegen. Für Nachsendung der nach Fr[eiburg] an mich geschickten Sachen ist Sorge getragen! Wenn Du noch kommen kannst, freut es mich sehr. Wie, wenn Du hierherkämst, wo es sehr gut ist? Doch komme ich Dir gern auch entgegen; da ich so wie so Höher noch in’s Oberland will! Deinen verehrten Herrn Vater[3] bitte doch in meinem Namen um Verzeihung, daß ich der Kürze halber ihn mit dem via Crémieux an Dich gesandten Briefe[4] vermuthlich belästigt habe! Mit herzlichem Gruße Dein W Windelband Anmerkungen der Herausgeber 1↑Seitenstettengasse 4 ] Anschrift des Wiener Stadttempels (Synagoge), wo Adolf Jellinek seit 1865 Prediger war. 2↑beiden ersten Briefen ] beide Windelband an Jellinek vom 18.8.1878 3↑Herrn Vater ] vgl. Windelband an Jellinek vom 18.8.1878 (1) 4↑Briefe ] vgl. Windelband an Jellinek vom 18.8.1878 (1)</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000105-9</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14105</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14105">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13105/edWW2020-13105.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14105"
+            DMDID="DMD_wuppertal_elpub_14105">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14105"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

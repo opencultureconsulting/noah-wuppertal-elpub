@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3707">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entwicklung eines Analysewerkzeugs zur Identifikation und Analyse von Präsenzlücken im Handel</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wicht, Jürgen</displayForm>
+                        <namePart type="family">Wicht</namePart>
+                        <namePart type="given">Jürgen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Out-of-Stock along the Supply Chain is a frequent phenomenon with significant effects on sales and total profit in retail industry. Therefore, in this context, decision support information to identify the duration and extent of this Out-of-Stocks as well as about possible structures inside inventory and sales data, which are relevant for their appearance, is of major interest. A purpose-built analyzing tool based on specific retail store data is described, which is suitable to improve both, the administrative planning processes as well as the physical replenishment processes within a chain store retail company.</abstract>
+                    <abstract type="content" lang="ger">JEL-Classification : C1, C8, L8 
+
+Dateigröße: 1,4 MB</abstract>
+                    <subject>
+                        <topic>out of stock detection</topic>
+                        <topic>out of stock analysis</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20130903-122335-6</identifier>
+                    <identifier type="sys">HT017762508</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3707</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3707">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp13/sdp13007.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3707"
+            DMDID="DMD_wuppertal_elpub_3707">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3707"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

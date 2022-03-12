@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14084">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Friedrich Kössing an Windelband, 7.2.1877, 1 S., hs., Briefentwurf, UA Freiburg, B1/1259 Lehrstühle der Philosophischen Fakultät</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Friedrich Kössing an Windelband, 7.2.1877, 1 S., hs., Briefentwurf, UA Freiburg, B1/1259 Lehrstühle der Philosophischen Fakultät Freiburg[a] den 7 Febr[uar] 77. Beschluß 1) An Herrn Professor Dr. Windelband in Zürich. Euer Hochwohlgeboren Theilen wir Abschrift des Erlasses[1] Gr[oßherzoglichen] Ministerium des Innern vom 5. l[aufenden] Monats[b] No. 2061. mit und ersuchen Sie, den Tag, an welchem Sie den neuen Dienst antreten wollen, seiner Zeit gefälligst vorher bezeichnen zu wollen. Wir setzen noch bei, daß nach einer althergebrachten u[nd] höhern Orts bestätigten Sitte jeder neu eintretende Professor die Obliegenheit hat, im Laufe des nächsten halben Jahres nach seinem Dienstantritt entweder eine Antrittsrede zu halten oder ein Programm zu schreiben, welches auf Kosten der Universität gedruckt wird. Nach Erfüllung dieser Obliegenheit erfolgt die eidliche Verpflichtung auf das Lehramt. Schließlich ersuchen wir Sie um gefällige Bezeichnung der Vorlesungen, welche Sie im kommenden Semester zu halten gedenken, um die ministerielle Genehmigung hierfür erwirken zu können. 2. […] Akadem[isches] Direktorium Kössing[c] Anmerkungen zum Textbefund a↑Freiburg ] Freibg b↑Monats ] Mts. c↑Kössing ] eigenhändige Unterschrift Anmerkungen der Herausgeber 1↑Erlasses ] vgl. UA Freiburg, B1/1259 Lehrstühle der Philosophischen Fakultät: Mitteilung der Ernennung Windelbands durch das Ministerium des Inneren an den Senat der Universität Freiburg am 5.2.1877: Gehalt jährlich 3600 Mark, zuzüglich gesetzlichen Wohnungszuschusses und Ersatz der Umzugskosten sowie des Einkaufsgeldes in die Witwenkasse (das zurückzuerstatten sei, falls Windelband vor Ablauf von 5 Jahren den badischen Staatsdienst verlassen sollte), unter Anerkennung der in der Schweiz geleisteten Dienstjahre.</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000084-5</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14084</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14084">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13084/edWW2020-13084.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14084"
+            DMDID="DMD_wuppertal_elpub_14084">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14084"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

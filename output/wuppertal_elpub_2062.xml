@@ -1,0 +1,66 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_2062">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>effect of free primary school choice on ethnic groups</title>
+                        <subTitle>Evidence from a policy reform</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schneider, Kerstin␞Schuchart, Claudia␞Weishaupt, Horst␞Riedel, Andrea</displayForm>
+                        <namePart type="family">Schneider</namePart>
+                        <namePart type="given">Kerstin␞Schuchart</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In 2008, school districts were abolished in North Rhine-Westphalia, the most populous German federal state. Critics have argued that free school choice will lead to increased segregation and educational disparities. The data used is from Wuppertal, a major city in NRW. Since the Turkish population is the largest minority in Germany, but also one of the least integrated, the focus of this paper is on the effect of the new school law on the school choice of Turkish (Muslim) versus non-Turkish (non-Muslim) families. Free school choice has led, in fact, to increased choice on the part of both advantaged and (to a lesser extent) disadvantaged families. Motives behind choice include proximity, the composition of the school, and the academic quality of the school. The effect of this increased choice on segregation is inconclusive. 
+
+JEL classification: I20, H75, J15 
+
+Dateigröße: 1,12 MB</abstract>
+                    <subject>
+                        <topic>educational policy reform</topic>
+                        <topic>school districts</topic>
+                        <topic>school choice</topic>
+                        <topic>segregation</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics » Schumpeter Discussion Papers (SDP)"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20110616-093503-7</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_2062</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_2062">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp11/sdp11007.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_2062"
+            DMDID="DMD_wuppertal_elpub_2062">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_2062"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14003">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Windelband: Matrikeleintrag Universität Göttingen, Göttingen, 21.10.1869, hs. (lat. Schrift, Einträge in Vordruck), UA Göttingen, Matrikelband 12, Matrikelnr. 82</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Windelband: Matrikeleintrag Universität Göttingen, Göttingen, 21.10.1869, hs. (lat. Schrift, Einträge in Vordruck), UA Göttingen[1], Matrikelband 12, Matrikelnr. 82 Vor- und Zunamen Wilhelm Windelband in Potsdam Stand und Wohnungsort der Eltern oder Vormünder verstorb[ener] Rechnungsrat in Potsdam. Vormund Stadtrath Hiller[2] in Potsdam. Vaterland Prov[inz] Brandenburg. Studium Philosophie. Betrag in Courant Thaler[a] 4[b] Bemerkungen M[aturitäts-]Ze[ugnis] Potsdam Un[iversitäts-]Ze[ugnis] Heidelberg[3][c] Anmerkungen zum Textbefund a↑Thaler ] im Druck: Thlr. b↑4 ] hs. von anderer Hand c↑M … Heidelberg ]  hs. von anderer Hand Anmerkungen der Herausgeber 1↑UA Göttingen ] mit Dank an Angelika Handschuck, UA Göttingen 2↑Stadtrath Hiller ] nicht ermittelt 3↑Heidelberg ] offenbar irrtümliche Ortsangabe. Ein Studienaufenthalt Windelbands in Heidelberg ist nicht nachgewiesen. Windelband studierte in Jena und Berlin.</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000003-1</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14003</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14003">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13003/edWW2020-13003.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14003"
+            DMDID="DMD_wuppertal_elpub_14003">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14003"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

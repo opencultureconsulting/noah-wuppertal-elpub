@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5850">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>You and I, Past and Present - Cognitive Processing of Perspective</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Macrae, Andrea</displayForm>
+                        <namePart type="family">Macrae</namePart>
+                        <namePart type="given">Andrea</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This article describes an experiment investigating the relationship between deic¬tic elements of focalisation and readers’ perspective-taking within imaginative conceptualisations of a fictional narrative scene. The text variables tested here are whether the narrative is written in the first or second person, and whether the narrative is written in the present or past tense. The experiment tests the ex¬istence and nature of a relationship between these person and temporal deictic elements of focalisation and the likelihood of a reader’s visual perceptual identi¬fication with the position of a narrator, narrator-character and / or character focaliser within a fictional scene. Within the experiment, participants read one of four variants of a short fictional text identical but for the person or tense employed in the narration. Results of the experiment suggest that person and temporal deixis both impact upon conceptual perspective-taking. Specifically, the results corroborate predictions that the present tense is more likely than the past tense to elicit readerly conceptual identification with a narrator, narrator-character or character focaliser. Perhaps more surprisingly, however, the results also suggest that there is no significant difference between first and second per¬son narration with respect to readers’ reported conceptual identification with the viewpoint of the narrator, narrator-character or character focaliser designated by that pronoun.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 5 (2016) H. 1"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20160607-154313-6</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5850</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5850">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-5625/dej16050105.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5850"
+            DMDID="DMD_wuppertal_elpub_5850">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5850"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1341">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Innovation, Credit Constraints, and Trade Credit: Evidence from a Cross-Country Study</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bönte, Werner␞Nielen, Sebastian</displayForm>
+                        <namePart type="family">Bönte</namePart>
+                        <namePart type="given">Werner␞Nielen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-05-31</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This paper studies the relationship between trade credit and innovation. While trade credit is well researched in the finance literature, its link to innovation has been neglected in prior research. We argue that innovative small and medium-sized enterprises (SMEs) are more likely to use trade credit than non-innovative SMEs because of credit constraints and that business partners may have incentives to offer trade credit especially to innovative SMEs. The relationship between innovation and trade credit is empirically examined by using a sample of SMEs from 14 European countries. The results of an econometric analysis confirm a positive relationship between innovation and trade credit. In particular, SMEs with product innovations have a higher probability of using trade credit than other SMEs. Moreover, the results suggest that the effect of product innovation is only statistically significant if SMEs report that access to financing or cost of financing are obstacles for the operation and growth of their businesses. Hence, the results point to the relevance of trade credit as a source of short-term financing for innovative SMEs which are credit constrained.</abstract>
+                    <abstract type="content" lang="ger">JEL Classification : G32, O31, L20 
+
+Dateigröße: 456,6 KB</abstract>
+                    <subject>
+                        <topic>trade credit</topic>
+                        <topic>innovation</topic>
+                        <topic>credit constraints</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20100250</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1341</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1341">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp10/sdp10005.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1341"
+            DMDID="DMD_wuppertal_elpub_1341">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1341"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

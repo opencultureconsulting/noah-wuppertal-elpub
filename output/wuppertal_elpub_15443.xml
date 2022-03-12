@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_15443">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Competition and Living Lab Platform (Annex 74) Science &amp; Technology (Subtask A) Focus Report 3: Project Facts Template</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Müller, Jan Martin␞Voss, Karsten␞Spiker, Olivia␞Balcerzak, Andrea␞Rottschy, Frauke␞Krapmeier, Helmut</displayForm>
+                        <namePart type="family">Müller</namePart>
+                        <namePart type="given">Jan Martin␞Voss</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-11-29</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The focus report “Project Facts Template” contains a series of templates designed for summarizing quanti-tative information on competition buildings. Design, planning and implementation of the contributions to a building competition such as the Solar Decathlon are a continuous process during the whole competition. A number of characteristic facts and indicators of the buildings are created, which identify in detail their prop-erties and expectations. It is target of the template to systematically record and update the project facts and indicators for the buildings and technical systems. The template is linked to a systematic structure of all relevant data sheets of the products applied.</abstract>
+                    <classification authority="ioo" displayLabel="Fakultät für Architektur und Bauingenieurwesen » Architektur » Veröffentlichungen"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20211201-100303-3</identifier>
+                    <identifier type="doi">10.25926/zaqc-9b57</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_15443</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_15443">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-14508/Annex_74_Focus%20Report%203.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_15443"
+            DMDID="DMD_wuppertal_elpub_15443">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_15443"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

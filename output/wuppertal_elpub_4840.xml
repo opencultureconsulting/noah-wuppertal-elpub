@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_4840">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>“The Poet, he nothing affirms, and therefore never lieth”? An analysis of editorial fiction</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Konrad, Eva-Maria</displayForm>
+                        <namePart type="family">Konrad</namePart>
+                        <namePart type="given">Eva-Maria</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Is the editorial fiction a possible challenge to Sir Philip Sidney’s famous defence of the poets? Predicated on an assertion-based definition of lying, this paper dis-cusses two historically consecutive versions of this phenomenon: A closer analysis of Gérard Genette’s category of the disavowing authentic authorial preface reveals that Genette’s arguments cannot defend editorial fictions written by ‘author-editors’ against accusations of lying. Rather, this first version of editorial fictions occasionally embodies lies for which the authors are to be held accountable. Editorial fictions written by ‘character-editors’, in contrast, do not meet the conditions of the assertion-based account of lying with the result that, in this case, neither the author nor the ‘character-editor’ can be accused of lying.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 4 (2015) H. 1"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20150519-150018-3</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_4840</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_4840">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-4747/dej15040101.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_4840"
+            DMDID="DMD_wuppertal_elpub_4840">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_4840"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

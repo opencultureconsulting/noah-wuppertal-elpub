@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_4190">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Monte Carlo Simulation for Scanner Design and Correction Methods in PET and PET/MRI</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gaens, Michaela Elisabeth</displayForm>
+                        <namePart type="family">Gaens</namePart>
+                        <namePart type="given">Michaela Elisabeth</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This work deals with the utilisation of Monte Carlo simulation for the optimisation of instrumentation and correction methods in PET and PET/MR imaging. A development pipeline is presented which allows to mimic the entire PET imaging process from the generation of the annihilation photons through the simulation of the measurement process to reconstructed images. This pipeline is applied in a scanner design study for an MR-compatible small animal PET insert. In order to overcome the problem of the long simulation times for realistic results, an implementation of a full PET Monte Carlo simulation for graphical processing units was developed and validated. Based on this implementation, a correction procedure for the eect of Compton scatter could be implemented. The new procedure was applied and validated in phantom and patient studies with a hybrid MR-BrainPET scanner. The results indicate improved contrast and quantication for the new approach compared to the current standard approach.</abstract>
+                    <abstract type="content" lang="ger">In dieser Arbeit werden Monte Carlo Simulationen verwendet, um Technik und Korrekturverfahren in der PET und PET/MR Bildgebung zu optimieren. Dafür wurde eine Entwicklungspipeline konstruiert, die es erlaubt, den gesamten Bildgebungsprozess von der Erzeugung der Annihilationsphotonen über die Simulation des Messprozesses bis zu rekonstruierten Bildern nachzuahmen. Diese Pipeline wird für Designstudien bezüglich eines MR-kompatiblen Kleintier-PET-Inserts verwendet. Die Realisierung einer PET Monte Carlo Simulation auf der Grakkarte wurde implementiert und validiert, um das Problem der langen Simulationszeiten für realistische Ergebnisse zu lösen. Darauf basierend war es möglich, ein Korrekturverfahren für Comptongestreute Ereignisse zu entwickeln. Dieses wurde sowohl in Phantomals auch in Patientenstudien mit einem MR-BrainPET Hybridtomographen angewendet und validiert. Das neue Verfahren liefert einen verbesserten Kontrast und ermöglicht eine genauere Quantizierung verglichen mit dem Standardverfahren.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20140918-143821-5</identifier>
+                    <identifier type="sys">HT018396209</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_4190</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_4190">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2014/gaens/dc1418.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_4190"
+            DMDID="DMD_wuppertal_elpub_4190">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_4190"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

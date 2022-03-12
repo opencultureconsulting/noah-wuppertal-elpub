@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3737">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>From emerging economies toward the Emerging Triad</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dehnen, Hermann Sebastian␞van Dinther, Jan H.␞Koubek, Norbert</displayForm>
+                        <namePart type="family">Dehnen</namePart>
+                        <namePart type="given">Hermann Sebastian␞van Dinther</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In this article an entirely new structural approach called the ‘Emerging Triad’ is identified, which is dealing with the increasing regional, intra- and interregional integration of the emerging regions Latin America, Southeast Asia and sub-Saharan Africa. In this context the increasing south-south cooperation’s, specific transregional free trade agreements as well as foreign direct investments are identified as the main driver for this ongoing networking process. For a deeper analysis of this development the regional trading blocs Mercosur, SADC and ASEAN as well as specific countries are chosen. Due to their increasing industrialization a similar development like the one of the BRIC countries can be anticipated for these regions in the upcoming years. Apart from the industrialization, the increasing integration and interdependence of specific countries or even regions is going to be a relevant factor with respect to future market entry decisions of companies of the southern developing countries and a deeper market penetration of northern developed market multinational enterprises. As a consequence the growing relevance of these regions in the global trade and business due to its strong economical development will lead to an ongoing alignment process between the established northern Triad and the new identified emerging triad. This convergence became obvious especially during the global crisis in 2009 and 2010. Finally the new approach of the Emerging Triad and the northern triad with its developed nations are included into a double helix structure which stands for the increasing tradeoff between the industrialized world and the emerging world.</abstract>
+                    <abstract type="content" lang="ger">Dateigröße: 830 KB</abstract>
+                    <subject>
+                        <topic>emerging triad</topic>
+                        <topic>emerging markets</topic>
+                        <topic>emerging market economies</topic>
+                        <topic>BRIC</topic>
+                        <topic>double helix structure</topic>
+                        <topic>base of the pyramid</topic>
+                        <topic>south-south cooperation</topic>
+                        <topic>regional integration</topic>
+                        <topic>triad</topic>
+                        <topic>FDI</topic>
+                        <topic>trade</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20131008-104717-3</identifier>
+                    <identifier type="sys">HT017794528</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3737</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3737">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp13/sdp13008.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3737"
+            DMDID="DMD_wuppertal_elpub_3737">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3737"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

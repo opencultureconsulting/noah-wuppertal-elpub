@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_2304">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Financial Investments, Information Flows, and Caste Affiliation: Empirical Evidence from India</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bönte, Werner␞Filipiak, Ute</displayForm>
+                        <namePart type="family">Bönte</namePart>
+                        <namePart type="given">Werner␞Filipiak</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This paper empirically investigates the relevance of social interaction and caste affiliation for individual awareness of financial instruments and investment behavior in India. The results of our empirical analysis, which is based on a large scale survey on saving patterns of Indians, suggest a positive relationship between financial knowledge and social interaction. However, especially backward caste people living in regions with a large fraction of backward castes have a lower probability of being aware of various financial instruments. In contrast, we find only weak empirical evidence for a direct effect of caste affiliation and social interaction on investment behavior.</abstract>
+                    <abstract type="content" lang="ger">JEL-Classification: G11, G14, R2, Z1 
+
+Dateigröße: 987 KB</abstract>
+                    <subject>
+                        <topic>Financial Literacy</topic>
+                        <topic>Social Interaction</topic>
+                        <topic>Social Networks</topic>
+                        <topic>Indian Caste System</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20111012-150411-5</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_2304</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_2304">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp11/sdp11014.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_2304"
+            DMDID="DMD_wuppertal_elpub_2304">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_2304"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1351">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Innovation im Steuerrecht - Wie kann die Thesaurierungsbegünstigung eine annähernd belastungsneutrale Besteuerung von Personen- und Kapitalgesellschaften gewährleisten?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schneider, Kerstin␞Wesselbaum-Neugebauer, Claudia</displayForm>
+                        <namePart type="family">Schneider</namePart>
+                        <namePart type="given">Kerstin␞Wesselbaum-Neugebauer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-02-18</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The paper addresses the question whether the preferential treatment of retained earnings according to section 34a EStG is suitable to achieve a comparable tax burden of partnerships and corporations. It can be shown that it is impossible to determine a reference value for all domestic companies. By introducing a &quot;virtual principle of separation&quot; (virtuelles Trennungsprinzip) we allow entrepreneurs to separate between the level of the firm and the owner of the firm, when retained earnings are to be taxed.</abstract>
+                    <abstract type="content" lang="ger">Der vorliegende Beitrag widmet sich der Frage, ob die begünstigte Besteuerung nicht entnommener Gewinne gem. § 34a EStG dazu geeignet ist, Personenunternehmen steuerlich vergleichbar zu belasten wie Kapitalgesellschaften. Durch die Einführung des virtuellen Trennungsprinzips wird den Personengesellschaften die Option eingeräumt, für ertragsteuerliche Zwecke eine getrennte Besteuerung von Unternehmen und Gesellschafter zu realisieren. 
+
+JEL Classification : H24, H25, D92, G32 
+
+Dateigröße: 542 KB</abstract>
+                    <subject>
+                        <topic>business taxation</topic>
+                        <topic>preferential treatment of retained earnings</topic>
+                        <topic>principle of separation</topic>
+                        <topic>trade tax</topic>
+                        <topic>Unternehmensbesteuerung</topic>
+                        <topic>Thesaurierungsbegünstigung</topic>
+                        <topic>Trennungsprinzip</topic>
+                        <topic>Gewerbesteuer</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20100115</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1351</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1351">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1537/sdp10002.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1351"
+            DMDID="DMD_wuppertal_elpub_1351">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1351"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

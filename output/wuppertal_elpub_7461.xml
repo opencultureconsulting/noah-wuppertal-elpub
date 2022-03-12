@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_7461">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Metalepsis and/as Hermeneutics</title>
+                        <subTitle>Julian Hanebeck’s Understanding Metalepsis</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Effe, Alexandra</displayForm>
+                        <namePart type="family">Effe</namePart>
+                        <namePart type="given">Alexandra</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Julian Hanebeck: Understanding Metalepsis: The Hermeneutics of Narrative Transgres¬sion. Berlin / Boston: De Gruyter 2017 (= Narratologia 56). 288 pp. GBP 81.99. ISBN 978-3-11-050122-3</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 6 (2017) H. 2"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20171121-122019-7</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_7461</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_7461">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-7295/dej17060213.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_7461"
+            DMDID="DMD_wuppertal_elpub_7461">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_7461"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

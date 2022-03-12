@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14017">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Carl Ledderhose an Georg Gerland, Straßburg, 23.5.1882, 1 S., Briefentwurf, ADBR Strasbourg, 103 AL 260 Bl. 64</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Carl Ledderhose an Georg Gerland[1], Straßburg, 23.5.1882, 1 S., Briefentwurf, ADBR Strasbourg, 103 AL 260 Bl. 64 Straßburg[a] 23/5 82 Sofort! An die philos[ophische] Facultät zu Händen des Decans Herrn Prof. Dr. Gerland Der Herr Prof. Dr. Liebmann hat mir angezeigt, daß er die ihm zugegangene Berufung an die Universität Jena angenommen habe. Die philos[ophische] Facultät ersuche ich demnach ergebenst, mir einen Personalvorschlag zur Wiederbesetzung des mit dem Beginn des nächsten Wintersemesters zur Erledigung kommenden Lehrstuhls umgehend mitteilen zu wollen. D[er] C[urator] d[er] U[niversität] Le[b] Anmerkungen zum Textbefund a↑Straßburg ] Strßbg b↑Le ] eigenhändiges Namenskürzel Ledderhoses, darunter von anderer Hand: ab 23/5 Anmerkungen der Herausgeber 1↑Georg Gerland ] 1833–1919, Geograph und Geophysiker, Studium in Berlin und Marburg, 1859 Promotion in Marburg, 1856–75 Gymnasiallehrer in Kassel, Hanau, Magdeburg und Halle, 1875 o. Prof. für Geographie in Straßburg (NDB).</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000017-1</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14017</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14017">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13017/edWW2020-13017.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14017"
+            DMDID="DMD_wuppertal_elpub_14017">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14017"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_10021">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Vom optimierten Selbst erzählen. Überlegungen zum transmedialen Phänomen der Instagram-Influencerin</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Löwe, Sebastian</displayForm>
+                        <namePart type="family">Löwe</namePart>
+                        <namePart type="given">Sebastian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-11</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Within the last three years, cultural influencers have utilized the rapidly evolving social digital platforms to become a mass phenomenon in the realm of social media. With their influence has come a profound shift in consumer behavior and hence in corporate marketing and sale strategies. These pioneers post content of their personal and professional lives on social media, particularly Instagram, with the aim of sparking wide-spread interest and interaction with highly strategic content and as a result, earn vast numbers of followers and likes. Despite their success, influencers surprisingly remain a desideratum in academic research, both in the fields of literature studies as well as media studies. This is primarily because both the cultural phenomenon and the technology are constantly and rapidly evolving. This paper scrutinizes Instagram’s influencers from a narrato-logical perspective to provide insights into Instagram’s media structure as well as into the visual and rhetorical strategies of the influencers themselves. The analysis of specific Instagram accounts and its subcategories reveals a rather distinct way social media influencers use Instagram to interact with their audiences. Deliberately blurring the lines between the extraordinary and everyday life, these influencers visually distinguish their taste, fitness and body shape, their habits and routines from ordinary lifestyles. Yet influencers render their lifestyles as prototypical by rhetorically connecting them to everyone else’s. Ultimately, influencers connect to their followers on a level of meaning by promoting a rigorous notion of self-expression through self-optimization against the backdrop of a competitive capitalist society. By setting the example of optimizing themselves, Instagram influencers eventually establish a link between aestheticization and self-realization, on the one hand, and disciplining self-expression and self-image on the other.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 8 (2019) H. 2"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20191204-142536-9</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_10021</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_10021">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-9403/dej19080202.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_10021"
+            DMDID="DMD_wuppertal_elpub_10021">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_10021"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_11162">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Negotiating Stories in the Anthropocene. The Case of Nathaniel Rich’s Losing Earth</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Caracciolo, Marco</displayForm>
+                        <namePart type="family">Caracciolo</namePart>
+                        <namePart type="given">Marco</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-12-08</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">It is almost a trope in contemporary discussions on the Anthropocene to call for new narratives that are able to convey the scale of the ecological crisis. When does a narrative become new, however? In this article, I build on Luc Herman and Bart Vervaeck’s theory of narrative in culture to develop a preliminary answer to that question. I first explore the field of Anthropocene discourse and chart the ways in which stories about the ecological crisis can depart from traditional narrative templates. Novelty, from that perspective, is a function of the complexity of narrative’s engagement with existing stories, genres, and motifs. To exemplify this approach, I focus on Nathaniel Rich’s nonfiction book Losing Earth (2019), which reconstructs the early days of the climate change debate in the 1980s. In my reading, Rich’s work fails to do justice to the complexity of the Anthropocene because it falls back on a conventional narrative structure – the tragic plot – and it makes use of an actantial structure that neatly separates heroes and villains. By discussing the shortcomings of Rich’s account, I emphasize the centrality of narrative form in negotiating the Anthropocene in both fiction and nonfictional discourse. 
+DIEGESIS. Interdisziplinäres E-Journal für Erzählforschung / Interdisciplinary E-Journal for Narrative Research. ISSN 2195-2116. https://www.diegesis.uni-wuppertal.de Jg. 9 (2020) H. 2, S. 16-33.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 9 (2020) H. 2"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20201201-101949-1</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_11162</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_11162">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-10501/dej20090202.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_11162"
+            DMDID="DMD_wuppertal_elpub_11162">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_11162"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_10596">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>A </nonSort>
+                        <title>Non-Narratable Future? Narrating Climate Change in Contemporary Fiction</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Meifert-Menhard, Felicitas</displayForm>
+                        <namePart type="family">Meifert-Menhard</namePart>
+                        <namePart type="given">Felicitas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-06-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Whenever one encounters theoretical discussions about contemporary climate change narratives, one word that is likely to appear is ‘crisis’: the Indian novelist Amitav Ghosh, himself expressly concerned with the representation of climate change in his writing, has argued that “the climate crisis is also a crisis of culture, and thus of the imagination” (2016, 9). This essay seeks to attempt a narratological-cum-ecocritical assessment of where the crisis of climate change’s cultural representation may reside; it will, at the same time, discuss select narrative texts that have made climate change their subject, namely Jeanette Winterson’s The Stone Gods (2007), Ian McEwan’s Solar (2010), and Jonathan Franzen’s The End of the End of the Earth (2018). It will also evaluate strategies of narration that may be more suited to capture the complexity and uncertainty of our planet’s future, such as the multi-linear, open-ended ‘future narrative’ (cf. Bode / Dietrich 2013; Meifert-Menhard 2013), arguing that narrative negotiations of climate change must adapt to the new historical and cultural conditions this phenomenon entails in order to avoid restrictive representations of what is, in fact, a hyperdimensional, open-ended, and multi-linear temporal development.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 9 (2020) H. 1"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20200618-090755-1</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_10596</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_10596">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-9919/dej20090106.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_10596"
+            DMDID="DMD_wuppertal_elpub_10596">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_10596"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

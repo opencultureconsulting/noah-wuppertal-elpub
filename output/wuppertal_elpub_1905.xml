@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1905">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Segregation in primary schools – Do school districts really matter?</title>
+                        <subTitle>Evidence from policy reforms</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Makles, Anna␞Schneider, Kerstin</displayForm>
+                        <namePart type="family">Makles</namePart>
+                        <namePart type="given">Anna␞Schneider</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">This paper analyzes the effect of the abolition of school districts in North-Rhine Westphalia on ethnic segregation in primary schools, using data from the school statistics from 2006/07 to 2008/09. The effect of the new policy is not easily identified, because several additional changes to the school law and nationality law have also affected segregation. We propose using a measure of systematic segregation and a Wald test in order to test for differences in systematic segregation and to estimate a random effects model to explain differences in systematic segregation across municipalities. The ethnic groups analyzed are Turkish and non-Turkish students, non-German and German students, and Muslim and non-Muslim students. It is shown that abolishing school districts has not increased systematic segregation in primary schools. However, segregation has been affected by policy changes other than the abolition of school districts. 
+
+JEL Classification : H75, I21, I28, J15 
+
+Dateigröße: 806 KB</abstract>
+                    <subject>
+                        <topic>School choice</topic>
+                        <topic>policy reform</topic>
+                        <topic>systematic segregation</topic>
+                        <topic>dissimilarity index</topic>
+                        <topic>school districts</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20110325-162037-2</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1905</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1905">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp11/sdp11003.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1905"
+            DMDID="DMD_wuppertal_elpub_1905">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1905"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

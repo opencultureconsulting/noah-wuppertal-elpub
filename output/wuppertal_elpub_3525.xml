@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3525">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Immersive Media in Quiroga, Borges, and Cortázar</title>
+                        <subTitle>What Allegories Tell about Transportation Experience</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Chihaia, Matei</displayForm>
+                        <namePart type="family">Chihaia</namePart>
+                        <namePart type="given">Matei</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In the short stories of Horacio Quiroga, Jorge Luis Borges and Julio Cortázar, immersive media are frequently staged as allegories of immersion. They are as-sociated with a specific type of plot which is about the access to diegetic worlds or exit from them, and which provides more information about historical contracts on fiction than do the frozen metaphors of being “lost in a text”. Media frames that are represented as fictional frames come with a variety of functions, including not only re-centring, but also disorientation (Quiroga); they refer to existing discourse rather than to existing technology and raise the question how experience can be narrated (Borges); and they tend to cross the line between allegoric representation and intermedial enactment of immersion (Cortázar). The methodological conclusion from this corpus would be to reconsider what fiction says about immersive media. As this would help understand how fictional frames change throughout history, it would also allow discussion of the cultural horizons of interview-based studies on immersive experience.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 2 (2013) H. 1"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20130527-123635-5</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3525</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3525">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-3635/dej13020104.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3525"
+            DMDID="DMD_wuppertal_elpub_3525">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3525"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3530">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zwischen Theorie und Praxis - Eine Einführung in die Narratologie im Spagat zwischen problemorientierter Theoriedarstellung und literaturwissenschaftlicher Textanalyse</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Fritsch, Birte</displayForm>
+                        <namePart type="family">Fritsch</namePart>
+                        <namePart type="given">Birte</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Silke Lahn / Jan Christoph Meister: Einführung in die Erzähltextanalyse. Unter Mitarbeit von Matthias Aumüller, Benjamin Biebuyck, Anja Burghardt, Jens Eder, Per Krogh Hansen, Peter Hühn und Felix Sprang. Stuttgart / Weimar: J.B. Metzler 2008. 311 S. EUR 19,95. ISBN 978-3-476-02226-4 
+
+Die große Menge narratologischer Einführungen ist ein deutliches Indiz für die eminente Bedeutung, die dem Erzählen derzeit zugeschrieben wird. Je mehr über dieses Phänomen geforscht wird, desto mehr Bedarf an Orientierung gibt es, die Einführungen zu geben versprechen. Der hier zu rezensierende Band möchte zugleich die narratologische Modellbildung vorstellen und Hilfestel¬lung für die Anwendung in der literaturwissenschaftlichen Praxis leisten. Es ist sein erklärtes Ziel, dem Leser „ein narratologisch fundiertes begriffliches und methodisches Instrumentarium an die Hand [zu] geben, mit dem die – größtenteils, aber nicht durchweg – vorinterpretative Erkundung und Beschreibung eines erzählenden Texts systematisch durchgeführt werden kann“ (S. IX). 
+ Im Vergleich zu anderen Einführungen liegt hier folglich ein deutlicher Fokus auch auf der pragmatischen Ebene, der sich vor allem in der lernerorien-tierten Aufarbeitung der vorgestellten Modelle widerspiegelt.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 2 (2013) H. 1"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20130527-145802-4</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3530</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3530">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-3640/dej13020109.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3530"
+            DMDID="DMD_wuppertal_elpub_3530">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3530"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

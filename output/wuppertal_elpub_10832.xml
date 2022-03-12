@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_10832">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Who’s Your Daddy? Intergenerational Mobility in the U.S. Financial Industry</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schürmann, Henrik</displayForm>
+                        <namePart type="family">Schürmann</namePart>
+                        <namePart type="given">Henrik</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-08-17</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This paper investigates the intergenerational mobility with regard to people’s decision to work in the U.S. financial industry over the last 47 years. I present evidence that children of fathers who worked in the financial industry during their childhood are about 8 percentage points more likely to work in finance themselves. This increase in likelihood is greater than in most other industries and is driven solely by wealthier families. In addition, I document that second-generation finance industry employees whose fathers already worked in finance enjoy a substantial income surplus compared to their industry peers.</abstract>
+                    <abstract type="content" lang="ger">JEL Classification : G20, J24, J30, J62, L14 
+
+Dateigröße: 600 KB</abstract>
+                    <subject>
+                        <topic>Financial industry</topic>
+                        <topic>Intergenerational mobility</topic>
+                        <topic>Informal networks</topic>
+                        <topic>Nepotism</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20200817-104413-7</identifier>
+                    <identifier type="sys">HT020570739</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_10832</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_10832">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp20/sdp20002.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_10832"
+            DMDID="DMD_wuppertal_elpub_10832">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_10832"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1976">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Ein </nonSort>
+                        <title>Urphänomen und seine Wirkung</title>
+                        <subTitle>Die Macht des Lichts und ihre ökonomischen Folgen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Koubek, Norbert</displayForm>
+                        <namePart type="family">Koubek</namePart>
+                        <namePart type="given">Norbert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In June 2010 Professor Dr. Norbert Koubek gave his valedictory lecture. He retired after four decades in the Department of Business and Economics at the University of Wuppertal. In his lecture Light and its economic consequences as a fundamental phenomenon Professor Dr. Norbert Koubek refers to the innovation theory of Joseph A. Schumpeter and to the model of the so called Kondratieff waves and discusses the economic aspects of light.</abstract>
+                    <abstract type="content" lang="ger">Dateigröße: 2,91 MB</abstract>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics » Schumpeter Discussion Papers (SDP)"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20110504-111343-5</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1976</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1976">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp11/sdp11005.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1976"
+            DMDID="DMD_wuppertal_elpub_1976">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1976"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

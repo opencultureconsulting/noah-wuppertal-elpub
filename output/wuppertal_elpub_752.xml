@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_752">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Testing the Modigliani-Miller theorem directly in the lab: a general equilibrium approach</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Qiu, Jianying␞Mahagaonkar, Prashanth</displayForm>
+                        <namePart type="family">Qiu</namePart>
+                        <namePart type="given">Jianying␞Mahagaonkar</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In this paper, we directly test the Modigliani-Miller theorem in the lab. Applying a general equilibrium approach and not allowing for arbitrage among firms with different capital structures, we are able to address this issue without making any assumptions about individuals&apos; risk attitudes and initial wealth positions. We find that, consistent with the Modigliani-Miller theorem, experimental subjects well recognized the increased systematic risk of equity with increasing leverage and accordingly demanded higher rate of return. Furthermore, the correlation between the value of the debt and equity is -0.94, which is surprisingly comparable with the -1 predicted by the Modigliani-Miller theorem. Yet, a U shape cost of capital seems to organize the data better. 
+
+JEL Classification : G32, C91, G12, D53 
+
+Dateigröße: 550,9 KB</abstract>
+                    <subject>
+                        <topic>The Modigliani-Miller Theorem</topic>
+                        <topic>Experimental Study</topic>
+                        <topic>Decision Making under Uncertainty</topic>
+                        <topic>General Equilibrium</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20090677</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_752</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_752">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp09/sdp09006.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_752"
+            DMDID="DMD_wuppertal_elpub_752">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_752"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

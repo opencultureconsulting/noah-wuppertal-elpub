@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14117">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Windelband an Wilhelm Nokk, Freiburg i. Br., 5.4.1880, 2 S., hs. (dt. Schrift), Generallandesarchiv Karlsruhe, 52 Nokk 201</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Windelband an Wilhelm Nokk, Freiburg i. Br., 5.4.1880, 2 S., hs. (dt. Schrift), Generallandesarchiv Karlsruhe, 52 Nokk 201 Freiburg iB. 5. April 1880[a] Hochverehrter Herr Oberschulrathsdirector,[b] Gestatten Euer Hochwohlgeboren mir, für das freundliche Interesse, welches Sie für meine Arbeit ausgesprochen haben, und für die liebenswürdige Förderung, welche Sie derselben angedeihen lassen wollen, meinen herzlichsten Dank zu sagen. Jedenfalls gedenke ich von dem werthvollen Rathe Euer Hochwohlgeboren, mich um Gewährung eines Reisegeldes von etwa 600 Mk.[c] aus dem Fonds für Künste und Wissenschaften im September zu bewerben, in der Hoffnung Gebrauch zu machen, daß mir dadurch im nächste Frühjahr eine Reise nach London[1] möglich gemacht wird, wenn ich dieselbe auch natürlich davon allein nicht würde bestreiten können. Ob meine eignen Mittel mir die Pariser Reise[2] | ermöglichen werden, muß ich freilich dahingestellt sein lassen. Daß es in diesem Jahre schon der Fall sein würde, ist mir sehr unwahrscheinlich, vielleicht gelingt es mir, bis zum Herbst 1881 so viel zu erübrigen, daß ich es unternehmen kann. Vielleicht findet sich auch noch später die Aussicht, daß, da das Schülen’sche Reisestipendium[3], wie ich hörte, gelegentlich auch getheilt worden ist, etwas von der Rate des Jahres 1882 dazu verwendet werden könnte, um Dasjenige, was ich aufzuwenden im Stande wäre, zu vervollständigen. Jedenfalls, hochverehrter Herr Oberschulrathsdirector, fühle ich Ihrem freundlichen Entgegenkommen gegenüber den lebhaftesten Dank, hoffe bestimmt auf die Gewährung eines entsprechenden, vielleicht sich noch etwas höher bemessenden Zuschusses für die Londoner Studien im Frühjahr 1881 aus dem bezeichneten Fonds, und verbleibe in lebhafter Anerkennung Ihrer großen Güte und in vorzüglicher Hochschätzung Euer Hochwohlgeboren ganz ergebenster W Windelband Anmerkungen zum Textbefund a↑Freiburg iB. 5. April 1880 ] in lat. Schrift b↑Oberschulrathsdirector, ] danach 4 Zeilen freigelassen c↑Mk. ] in lat. Schrift Anmerkungen der Herausgeber 1↑Reise nach London ] kam womöglich nicht zustande, vgl. Windelband an Nokk vom 30.3.1880. 2↑Pariser Reise ] wurde durchgeführt, vgl. Windelband an Jellinek vom 9.10.1880. 3↑Schülen’sche Reisestipendium ] Näheres nicht ermittelt</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000117-7</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14117</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14117">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13117/edWW2020-13117.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14117"
+            DMDID="DMD_wuppertal_elpub_14117">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14117"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

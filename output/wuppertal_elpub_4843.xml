@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_4843">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>“How Can a Woman Who Has Been Raped Be Be-lieved?” - Andrea Dworkin, Sexual Violence and the Ethics of Belief</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Serisier, Tanya</displayForm>
+                        <namePart type="family">Serisier</namePart>
+                        <namePart type="given">Tanya</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In June 2000, Andrea Dworkin, an American feminist activist and author, pub-lished an account of being raped in a Paris hotel room a year earlier. The story was met with widespread disbelief, including from feminist readers. This article explores the reasons for this disbelief, asking how and why narratives of rape are granted – or denied – truth status by their readers. The article argues for under-standing the conferral of belief as a narrative transaction involving the actions of both narrator and reader. It posits that Dworkin was widely seen as an unreliable narrator but argues that for ideologically charged narratives such as rape narratives judgements of reliability and belief inevitably draw upon the normative standpoint of the reader. I suggest that there are opposing criteria for establishing the truth of rape narratives; a ‘factual’ or legal model, which sees rape narratives as requiring scrutiny, and an ‘experiential’ model, located within certain strands of feminist politics, which emphasises the ethical importance of believing women’s narratives. The article finishes with a consideration of the place of belief within an ethics of reading and reception of rape narratives.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 4 (2015) H. 1"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20150519-152419-4</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_4843</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_4843">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-4746/dej15040104.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_4843"
+            DMDID="DMD_wuppertal_elpub_4843">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_4843"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

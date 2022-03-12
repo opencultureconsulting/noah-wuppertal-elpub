@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_356">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Ground state properties of antiferromagnetic spin-1/2 Heisenberg systems in external fields</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Fledderjohann, Andreas</displayForm>
+                        <namePart type="family">Fledderjohann</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2001-05-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The present work investigates the influence of external perturbations on the ground states of spin-1/2 antiferromagnetic Heisenberg chains and two-dimensional spin lattices. The lifting of the well-known zero-energy excitations (soft modes) of the unperturbed Heisenberg chain due to suitably chosen periodicities of applied perturbations is presented. The evolution of excitation energies and transition matrix elements is described by a complete set of differential equations and scaling solutions for small perturbations are discussed. A variety of topic quasi-one-dimensional spin systems (spin-Peierls chain, spin ladders in different geometries) are then embedded in the descriptive scheme of periodically perturbed Heisenberg chains. In particular, the energy gaps and, most noticeable, the formation of magnetization plateaus occurring in these systems are discussed in a single prediction scheme related to the soft mode positions of the previously unperturbed chain. Plateaus due to various kinds of perturbations are furthermore shown to be observable in static correlation functions of the perturbed chain. Particular emphasis is laid on the consideration of processes of spontaneous breaking of symmetry. The latter aspect is discussed for translationally invariant perturbations that do not provide an explicit change of the periodicity of the spin system. The presented investigations finally turn to two-dimensional spin systems first addressing the formation of a non-zero staggered magnetization (long range order) for increased two-dimensionality in terms of a translationally invariant perturbed (helical) spin system. Finally, first stages of a present study on the formation of magnetization plateaus in square spin lattices with frustrating diagonal couplings are given.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik » Habilitationsschriften"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20010694</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_356</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_356">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-450/h080101.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_356"
+            DMDID="DMD_wuppertal_elpub_356">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_356"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

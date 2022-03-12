@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_2804">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Stabilitätsanalyse für nichtlineare Systeme mithilfe der Intervallarithmetik</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Warthenpfuhl, Sascha Alexander</displayForm>
+                        <namePart type="family">Warthenpfuhl</namePart>
+                        <namePart type="given">Sascha Alexander</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Untersuchung der Stabilität eines dynamischen Systems stellt eine wichtige Aufgabe in der Systemanalyse dar. Ein Teilgebiet dieser Untersuchung ist die Bestimmung des Einzugsgebiets einer Ruhelage. Dieses bezeichnet das Gebiet von Zuständen, in welche das System ausgelenkt werden kann, sodass die Systemtrajektorien in die Ruhelage einlaufen. Mit Hilfe der Niveaumengen einer sogenannten Ljapunowfunktion ist es möglich, ein Teilgebiet des exakten Einzuggebiets algebraisch anzugeben. Das Problem besteht hierbei darin, den maximalen Funktionswert dieser Ljapunowfunktion anzugeben, sodass das durch die Niveaumengen beschränkte Gebiet ein Teilgebiet des Einzugsgebiets ist. In dieser Arbeit wird nun dargestellt, wie die Intervallarithmetik im Rahmen eines Branch-and-Bound-Algorithmus genutzt werden kann, um eine Einschließung für diesen maximalen Funktionswert der Ljapunowfunktion zu erhalten. Eine Evaluation des Verfahrens an 25 einschlägigen Beispielen aus der Literatur sowie eine Betrachtung der Parallelisierung des Verfahrens runden die Arbeit ab.</abstract>
+                    <abstract type="content" lang="eng">The stability analysis of dynamical systems is a main task in system analysis. One part of this analysis is the estimation of the domain of attraction, a set of initial conditions for which the system trajectories converge to the equilibrium point. Utilizing the level sets of a so-called Lyapunov function, it is possible to compute a subset of the exact domain of attraction. The problem here is to specify the maximum value of this Lyapunov function so that the domain bounded by the level sets is part of the domain of attraction. In this work a new method is presented. It utilizes interval arithmetic within a branch-and-bound-algorithm to compute an inclusion for the maximum value of the Lyapunov function. An evaluation of the new method on 25 benchmark examples and an investigation of the parallelization are shown as well.</abstract>
+                    <subject>
+                        <topic>Einzugsgebiet</topic>
+                        <topic>Stabilität</topic>
+                        <topic>Ljapunow</topic>
+                        <topic>nichtlineare Systeme</topic>
+                        <topic>domain of attraction</topic>
+                        <topic>region of attraction</topic>
+                    </subject>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ddc">620</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20120516-114847-9</identifier>
+                    <identifier type="sys">HT017283749</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_2804</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_2804">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-2924/de1202.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_2804"
+            DMDID="DMD_wuppertal_elpub_2804">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_2804"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

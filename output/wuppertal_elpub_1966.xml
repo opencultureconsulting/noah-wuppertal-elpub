@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1966">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Measurement, Monitoring, and Forecasting of Consumer Credit Default Risk</title>
+                        <subTitle>An Indicator Approach Based on Individual Payment Histories</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schwarz, Alexandra</displayForm>
+                        <namePart type="family">Schwarz</namePart>
+                        <namePart type="given">Alexandra</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The statistical techniques which cover the process of modeling and evaluating consumer credit risk have become widely accepted instruments in risk management. In contrast, we find only few and vague statements on how to define the default event, i. e. on the concrete circumstances that lead to the decision of identifying a certain credit as defaulted. Based on a unique data set of individual payment histories this paper proposes a definition of default which is based on the time due amounts are outstanding and the resulting profitability of the receivables portfolio. Furthermore, to assess the individual payment performance during the credit period, indicators for monitoring and forecasting default events are derived. The empirical results show that these indicators generate valuable information which can be used by the creditor to improve his credit and collection policy and hence, to improve cash flows and reduce bad debt loss. 
+
+JEL Classification : C44, G32, M21 
+
+Dateigröße: 850 KB</abstract>
+                    <subject>
+                        <topic>Credit Risk Analysis</topic>
+                        <topic>Credit Default</topic>
+                        <topic>Risk Management</topic>
+                        <topic>Accounts Receivable Management</topic>
+                        <topic>Performance Measurement</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20110503-154809-9</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1966</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1966">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp11/sdp11004.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1966"
+            DMDID="DMD_wuppertal_elpub_1966">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1966"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14015">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Regierungsratsbeschluss Nr. 402 vom 16.11.1876, Staatsarchiv des Kantons Zürich, MM 2.214 RRB 1876/3060, S. 615–617 – Regierungsratsbeschlüsse seit 1803 online: http://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3372572</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Regierungsratsbeschluss Nr. 402 vom 16.11.1876, Staatsarchiv des Kantons Zürich, MM 2.214 RRB 1876/3060, S. 615–617 – Regierungsratsbeschlüsse seit 1803 online[a]: http://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3372572 16. November 1876.[b] Prof. Windelband; Landrechtsertheilung.[c] Herr Professor Dr. Wilhelm Windelband von Potsdam-Preußen, wohnhaft in Riesbach, welcher am 12. Wintermonat[1] eventuell in den Bürgerverband der Gemeinde Riesbach aufgenommen wurde, stellt mit Zuschrift vom 12. dieß das Gesuch um Ertheilung des Kantonsbürgerrechtes.| Nach den beigelegten Akten ist der Ausweis über die in § 18, Abs[atz] 1 des Gemeindegesetzes vorgeschriebenen Erfordernisse geleistet; dagegen mangelt dem Petenten das Requisit eines zweijährigen Aufenthaltes in der Schweiz (§ 19), in dem sich derselbe erst seit April d[es] Jahres[d] in der Schweiz aufhält; dieses Requisit darf ihm gemäß § 22 erlassen werden. Ueber seine Entlassung aus dem bisherigen Staatsverbande (§ 21) hat sich Petent durch eine Urkunde der k[öniglich] preuß[ischen] Regierung zu Potsdam dat[iert] 17. Mai 1876 ausgewiesen. Der Regierungsrath, nach Einsicht eines Antrages der Direktion des Innern, beschließt: 1. Dem Petenten wird das Kantonsbürgerrecht ertheilt und seine Aufnahme in das Bürgerrecht der Gemeinde Riesbach bestätigt, unter der Bedingung, daß er sich innert Monatsfrist über Bezahlung der Einkaufsgebühren in das Gemeinde- und Kantonsbürgerrecht, letzterer im Betrage von Franken[e] 50 bei der Staatskanzlei ausweise. 2. Nach Erfüllung dieser Bedingung | ist ihm die Landrechtsurkunde auszustellen. 3. Mittheilung an den Petenten, unter Rücksendung der betreffenden Akten, an den Gemeinderath Riesbach und die Direktion der Finanzen. Anmerkungen zum Textbefund a↑Regierungsratsbeschlüsse seit 1803 online ] im vorliegenden Fall eigene Transkription b↑16. November 1876. ] am Kopf der S., unterstrichen c↑Prof. Windelband; Landrechtsertheilung. ] am linken Rand d↑Jahres ] Js. e↑Franken ] Frk. Anmerkungen der Herausgeber 1↑Wintermonat ] November</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000015-9</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14015</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14015">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13015/edWW2020-13015.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14015"
+            DMDID="DMD_wuppertal_elpub_14015">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14015"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

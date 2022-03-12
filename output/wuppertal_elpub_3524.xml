@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3524">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Ist Erzählen graduierbar?</title>
+                        <subTitle>Zur Problematik transmedialer Narrativitätsvergleiche</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Brütsch, Matthias</displayForm>
+                        <namePart type="family">Brütsch</namePart>
+                        <namePart type="given">Matthias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Comparing the narrativity of different texts within a given medium usually im¬plies a focus on the narrated and how the story is structured by the discourse. Comparing the narrativity of different media, on the other hand, requires both an examination of the way the story is presented as well as of questions of me¬diacy and narrative agency. Addressing the second topic, this paper seeks to classify transmedial comparisons according to their criteria for evaluating narra¬tivity and to examine positions which regard literature as a medium possessing a higher degree of narrativity or in a stricter sense than film and drama. Wolf Schmid’s model of narrative constitution serves as a theoretical framework for the critical review of this claim, and the exceptional case of backward narration is discussed in exemplifying central points of the argument put forth here.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 2 (2013) H. 1"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20130527-121359-5</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3524</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3524">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-3634/dej13020103.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3524"
+            DMDID="DMD_wuppertal_elpub_3524">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3524"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

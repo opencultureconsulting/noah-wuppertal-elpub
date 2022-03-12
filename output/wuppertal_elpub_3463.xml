@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3463">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>A </nonSort>
+                        <title>Bibliometric Based Review on Social Entrepreneurship and its Establishment as a Field of Research</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sassmannshausen, Sean Patrick␞Volkmann, Christine</displayForm>
+                        <namePart type="family">Sassmannshausen</namePart>
+                        <namePart type="given">Sean Patrick␞Volkmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This paper provides an overview on the state of art of research on social entrepreneurship and the establishment of this topic in the academic world. It uses scientometric methods, especially bibliometrics, in measuring the maturity of social entrepreneurship research. The empirical part reveals the increasing number of literature, the institutionalization of social entrepreneurship in seven dimensions, the emergence of thematic clusters, and methodological issue. The paper makes concrete suggestions on how to overcome methodological challenges at the boarder of advanced qualitative and early quantitative research designs. Using Harzing’s “Publish or Perish” software this article furthermore provides a ranking of the 20 most cited academic contributions in social entrepreneurship. Surprisingly, almost half of the most cited papers have not been published in journals but in books, rising doubts on the current (over-)rating of journal publications.</abstract>
+                    <abstract type="content" lang="ger">Dateigröße: 1,03 MB</abstract>
+                    <subject>
+                        <topic>Social entrepreneurship</topic>
+                        <topic>bibliometric study</topic>
+                        <topic>citations</topic>
+                        <topic>review</topic>
+                        <topic>organizational establishment</topic>
+                        <topic>academic institutionalization</topic>
+                        <topic>development of empirical measurement scales</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20130423-111122-6</identifier>
+                    <identifier type="sys">HT017621462</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3463</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3463">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp13/sdp13003.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3463"
+            DMDID="DMD_wuppertal_elpub_3463">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3463"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

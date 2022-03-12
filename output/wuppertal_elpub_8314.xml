@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_8314">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Von Sick of ... zu Sick with ... zu Walk with ... Die narrative Anerkennung individuellen Leidens und Lebens in der Medizin(ausbildung)</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Teufel, Daniel␞Dorner, Maximilian␞Berberat, Pascal O.</displayForm>
+                        <namePart type="family">Teufel</namePart>
+                        <namePart type="given">Daniel␞Dorner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-06-05</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Every individual has its unique reasons for seeing a doctor. It follows that, in order to find the appropriate remedy for each case, doctors need to pay particular attention in their endeavour to understand the individual problem. Easy to say, but hard if not impossible to achieve: Not often having the time for long personal conversations, doctors are nevertheless expected to understand the positions and perspectives, the desires and priorities, the troubles and sufferings of others in order to provide them the exact help they need and / or want. This is a professional challenge that should be addressed appropriately in the course of medical education. Confronted with the otherness of the individual other, and therefore with the impossibility of a 100% accurate understanding of each other, doctors need the mindset to acknowledge individual problems as individual problems as well as the attitude to side with their patients against these problems nevertheless. In other words: doctors need to think in narrative dimensions. This paper wants to discuss the potentials, limits and risks of respective elements in medical education around two case studies developed at TUM Medical School.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 7 (2018) H. 1"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20180522-171405-1</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_8314</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_8314">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-7740/dej18070105.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_8314"
+            DMDID="DMD_wuppertal_elpub_8314">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_8314"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

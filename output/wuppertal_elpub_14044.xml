@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14044">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Beglaubigte Abschrift der Sterbeurkunde, Heidelberg, 6.11.1915, 1 S., ms. ausgefüllter Vordruck, Generallandesarchiv Karlsruhe, 466-22/13586 (Witwenversorgung Martha Windelband)</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Beglaubigte Abschrift der Sterbeurkunde, Heidelberg, 6.11.1915, 1 S., ms. ausgefüllter Vordruck, Generallandesarchiv Karlsruhe, 466-22/13586 (Witwenversorgung Martha Windelband) Sterbeurkunde.[a] Nr. 1338 Heidelberg, am 23. Oktober 1915. Vor dem unterzeichneten Standesbeamten erschien heute, der Persönlichkeit nach bekannt, Privatdozent Doktor Wolfgang Windelband, wohnhaft in Heidelberg, Landfriedstraße 14, und zeigte an, daß der Großherzogliche Geheimerat Universitätsprofessor Doktor der Philosophie Wilhelm Heinrich Windelband, 67 Jahre alt, evangelischer Religion, wohnhaft in Heidelberg, Landfriedstraße 14, geboren zu Potsdam, Ehemann der Martha geborenen Wichgraf, wohnhaft in Heidelberg, Landfriedstraße 14, Sohn des Königlichen Rechnungsrats Heinrich Wilhelm Windelband[1] und dessen Ehefrau Friederike geborenen Gerloff, beide gestorben, zuletzt wohnhaft in Potsdam, zu Heidelberg, Landfriedstraße 14, am zweiundzwanzigsten Oktober des Jahres tausend neun hundert und fünfzehn, Nachmittags um Vier ein viertel Uhr verstorben sei. Der Anzeigende erklärte, von diesem Sterbefall aus eigener Wissenschaft unterrichtet zu sein. Vorgelesen, genehmigt und unterschrieben: Dr. Wolfgang Windelband Der Standesbeamte: In Vertretung: Heiler Daß vorstehender Auszug mit dem Sterbe-Haupt-Register des Standesamts zu Heidelberg gleichlautend sei, wird hiermit bestätigt. Heidelberg, am 6ten November 1915. Der Standesbeamte: i. V. Heiler[b] Anmerkungen zum Textbefund a↑Sterbeurkunde. ] am oberen Rand Vermerk: Cc. b↑Heiler ] eigenhändige Unterschrift, links daneben Amtssiegel des Standesamts Heidelberg und Gebührenvermerk Anmerkungen der Herausgeber 1↑Heinrich Wilhelm Windelband ] recte: Johann Friedrich Wilhelm Windelband</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000044-1</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14044</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14044">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13044/edWW2020-13044.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14044"
+            DMDID="DMD_wuppertal_elpub_14044">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14044"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

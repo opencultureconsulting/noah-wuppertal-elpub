@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3013">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Residuales organisationales Commitment: Ein konzeptioneller Ansatz zur Erweiterung der Bindungsforschung</title>
+                    </titleInfo>
+                    <titleInfo lang="eng" type="translated">
+                        <title>Residual organizational commitment: Effects of commitment to previous organizations on current organizational commitment</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Breitsohl, Heiko␞Ruhle, Sascha Alexander</displayForm>
+                        <namePart type="family">Breitsohl</namePart>
+                        <namePart type="given">Heiko␞Ruhle</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Organizational commitment of employees towards their employer is highly relevant for both the committed individual as well as the organization. Positive effects on task performance and job satisfaction as well as the reduction of absenteeism and turnover increase organizational competitiveness. Despite extensive research efforts, details of the development of OC remain largely unexplored, particularly with regards to differences at the person level. The aim of this paper is to deduce propositions on the role of residual commitment within this context. Based on the assumption that commitment does not necessarily end when organizational membership does, we posit that residual affective and residual normative commitment towards former organizations form competitive relationships with current commitment. Closer investigation of such parallel commitments may help explain inconclusive results of earlier studies investigating antecedents of OC. Finally, implications for research on organizational commitment and socialization will be discussed.</abstract>
+                    <abstract type="content" lang="ger">JEL classification: M12, M5 
+
+Dateigröße: 963 KB</abstract>
+                    <subject>
+                        <topic>organizational commitment</topic>
+                        <topic>three component model</topic>
+                        <topic>turnover</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20120911-113923-8</identifier>
+                    <identifier type="sys">HT017389431</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3013</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3013">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp12/sdp12007.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3013"
+            DMDID="DMD_wuppertal_elpub_3013">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3013"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

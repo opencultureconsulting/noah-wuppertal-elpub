@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_11169">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>erzählerische Form des Ideologischen. Facetten postkolonialer Narratologie</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Heinen, Sandra</displayForm>
+                        <namePart type="family">Heinen</namePart>
+                        <namePart type="given">Sandra</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-12-08</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Divya Dwivedi / Henrik Skov Nielsen / Richard Walsh (Hg.): Narratology and Ideology. Negotiating Context, Form, and Theory in Postcolonial Narratives. Columbus, OH 2018 (= Theory and Interpretation of Narrative) 
+DIEGESIS. Interdisziplinäres E-Journal für Erzählforschung / Interdisciplinary E-Journal for Narrative Research. ISSN 2195-2116. https://www.diegesis.uni-wuppertal.de Jg. 9 (2020) H. 2, S. 132-138.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 9 (2020) H. 2"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20201201-102901-5</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_11169</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_11169">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-10508/dej20090209.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_11169"
+            DMDID="DMD_wuppertal_elpub_11169">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_11169"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

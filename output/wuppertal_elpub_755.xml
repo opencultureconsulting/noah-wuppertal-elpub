@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_755">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Berufsbedingte Mobilität - empirische Befunde für Deutschland</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wesselbaum-Neugebauer, Claudia</displayForm>
+                        <namePart type="family">Wesselbaum-Neugebauer</namePart>
+                        <namePart type="given">Claudia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The deductibility of commuting costs in Germany is discussed permanently. The paper adresses the question, whether the taxpayers do react to the commuting allowances (Entfernungspauschale). It is shown that individual mobility depends on the responsibilities for companion, children and relatives. The commuting allowances are unsuitable to realize aims of urban, traffic and regional planning. Hence a return back to the system of full deductibility of work-related expenses is necessary if they choose public transportation. Furthermore a tax-deductible flat-rate per kilometer is required if they go by car.</abstract>
+                    <abstract type="content" lang="ger">Die steuerliche Abzugsfähigkeit der Fahrtenkosten zwischen Wohnung und Arbeitsstätte ist ein häufig und sehr konträr diskutierter Bereich in der Finanzwissenschaft, der Betriebswirtschaftlichen Steuerlehre und den Juristen. Die vorliegenden empirischen Befunde verdeutlichen, dass der berufliche Veranlassungsgrund die Wohnortwahl umso stärker prägt, je weniger Verpflichtungen gegenüber einem Partner, Kindern oder aber Angehörigen existieren. Als lenkungspolitische Maßnahme zur Realisierung von verkehrs-, siedlungs-, umwelt- und finanzpolitischen Zielen sind die Fahrtkosten auf Grund der vielfältigen Einflussgrößen ungeeignet. Aus diesem Grunde ist eine Rückkehr zum System des Abzugs der tatsächlichen Wegekosten bei Nutzung des Öffentlichen Personenverkehrs sowie einer an den Kosten für einen Mittelklassewagen orientierten Kilometerpauschale als typisierende Vereinfachung geboten. 
+
+JEL Classification : D1, H24, H31, H36 
+
+Dateigröße: 926,9 KB</abstract>
+                    <subject>
+                        <topic>mobility</topic>
+                        <topic>commuting allowance</topic>
+                        <topic>commuting cost</topic>
+                        <topic>labor</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20090899</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_755</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_755">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp09/sdp09009.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_755"
+            DMDID="DMD_wuppertal_elpub_755">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_755"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

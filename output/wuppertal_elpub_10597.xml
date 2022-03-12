@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_10597">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Erfindung der Zukunft. Vergangene und gegenwärtige Zukünfte ‚um‘ 1800 und 1900</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Siebenpfeiffer, Hania</displayForm>
+                        <namePart type="family">Siebenpfeiffer</namePart>
+                        <namePart type="given">Hania</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-06-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Mercier’s L’An 2440, published in 1770, marks the beginning of a new Science-Fiction narrative which fundamentally altered the previous order of past, present and future as metaphysically determined temporal dimensions. Its novelty derives from a complex narrative superposition of space and time, forerunning the epistemological shift ‘around’ 1800 by temporalizing space and spatializing time simultaneously. In Mercier’s futuristic fiction past, present and future no longer evolve chronologically, but begin to merge into a relative order of time in which the future is no longer ahead of us but multiplies into a double-folded concept of past and present futures. Paralleled only much later by H. G. Wells’s The Time Machine, published in 1895, Mercier’s novel thus provides a striking example for the conceptual faculties of literary fiction in general, as well as a special opportunity to reflect on the modern question of how to narrate time in times of temporal relativity.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 9 (2020) H. 1"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20200618-090821-6</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_10597</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_10597">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-9920/dej20090107.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_10597"
+            DMDID="DMD_wuppertal_elpub_10597">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_10597"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

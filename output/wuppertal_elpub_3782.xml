@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3782">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>journalistische Nachricht - eine veraltete Form des Erzählens?</title>
+                        <subTitle>Thesen zur Funktion der Erzählinstanz in journalistischen Texten</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Herrmann, Friederike</displayForm>
+                        <namePart type="family">Herrmann</namePart>
+                        <namePart type="given">Friederike</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Considering journalistic news as narratives makes it easier to understand the problems of reception that are specific to this field. This article is focused on the issue of the narrator, who normally is not visible in the news. This can create the impression of more objectivity, such as in the realistic novels of the 19th century. However, such a naive understanding of objectivity is out of date and with regard to democratic dialogue not valid. The article shows examples of how lack of coherence and a seemingly objective distancing language are often connected with the invisible narrative agent in the news. Online journalism shows first approaches to a more visible narrative authority in the news. Such a mode of narrative is easier to understand and thus addresses more empowered citizens. This seems to show how news can be better told, while neutrality can be maintained and transparency increased.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 2 (2013) H. 2"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20131120-171306-6</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3782</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3782">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-3895/dej13020202.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3782"
+            DMDID="DMD_wuppertal_elpub_3782">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3782"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

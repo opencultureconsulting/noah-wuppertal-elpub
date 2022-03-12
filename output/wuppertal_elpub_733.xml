@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_733">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Exploring Organizational Crises from a Legitimation Perspective - Results from a Computer Simulation and Illustrative Cases</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Breitsohl, Heiko</displayForm>
+                        <namePart type="family">Breitsohl</namePart>
+                        <namePart type="given">Heiko</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Organizational crises are rare, yet they fundamentally influence the evolution of organizations. An aspect of crises deserving more attention is the interaction of organizations and their stakeholders during a crisis from a legitimation perspective. This paper presents a simulation model mapping causal relationships behind this interaction. Results suggest that the nature and timing of organizational response to crises has considerable effect on the success and duration of attempts of regaining organizational legitimacy after a threatening event. Illustrative case studies demonstrate how several organizations have been (un-)successful in overcoming individual crises with respect to these influences.</abstract>
+                    <abstract type="content" lang="ger">Dateigröße: 693,1 KB</abstract>
+                    <subject>
+                        <topic>Organization theory</topic>
+                        <topic>crisis</topic>
+                        <topic>legitimation</topic>
+                        <topic>computer simulation</topic>
+                        <topic>system dynamics</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20080556</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_733</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_733">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp08/sdp08005.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_733"
+            DMDID="DMD_wuppertal_elpub_733">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_733"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

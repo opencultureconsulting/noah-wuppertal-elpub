@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3531">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Von narratologies zu narratology – der Beginn einer neuen Phase in der postklassischen Erzählforschung?</title>
+                        <subTitle>Jan Alber und Monika Fludernik kartographieren die postklassische Narratologie</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gebauer, Carolin</displayForm>
+                        <namePart type="family">Gebauer</namePart>
+                        <namePart type="given">Carolin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Jan Alber / Monika Fludernik (Hg.): Postclassical Narratology: Approaches and Analyses. Columbus, OH: Ohio State UP 2010. (Theory and Interpretation of Narrative). 323 Seiten. USD 32,95. ISBN 978-0-8142-5175-1 
+
+„Consolidation despite continuing diversity“: Untersuchungsgegenstand und Zielsetzung des Sammelbandes</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 2 (2013) H. 1"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20130527-150347-6</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3531</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3531">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-3641/dej13020110.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3531"
+            DMDID="DMD_wuppertal_elpub_3531">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3531"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

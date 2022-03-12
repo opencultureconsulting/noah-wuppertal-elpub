@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1708">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Mirror, mirror on the wall, who is the most entrepreneurial of them all?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bönte, Werner␞Jarosch, Monika</displayForm>
+                        <namePart type="family">Bönte</namePart>
+                        <namePart type="given">Werner␞Jarosch</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-11-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Recent empirical studies have shown that many employees would prefer to be self-employed, just as many nascent entrepreneurs are also in fulltime, paid employment. This paper investigates the factors determining individual preference for being self-employed, entrepreneurial intention and individual decision in taking steps to start a new venture. We argue that a cluster of psychological characteristics related to the tasks of an entrepreneur in an early stage of the entrepreneurial process, which we call individual entrepreneurial aptitude (IEA), is an important determinant of potential entrepreneurship and early stage start-up activities. To test our hypotheses we make use of a large scale general population survey conducted in 36 countries in the year 2009. We find a considerable variation of IEA between occupational groups, as well as within occupational groups. Our results suggest a strong positive relationship between IEA and self-employment preference. IEA is also a strong and robust predictor of entrepreneurial intention and nascent entrepreneurship, where the relationship appears to be non-linear. The probability of having entrepreneurial intention and being a nascent entrepreneur increases drastically if the level of IEA is very high. Moreover, our results indicate that IEA is positively related to the exploitation of perceived entrepreneurial opportunities.</abstract>
+                    <abstract type="content" lang="ger">JEL Classification : L26, J24 
+
+Dateigröße: 822,7 KB</abstract>
+                    <subject>
+                        <topic>self-employment</topic>
+                        <topic>nascent entrepreneurship</topic>
+                        <topic>individual entrepreneurial aptitude</topic>
+                        <topic>personality</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20101130-121524-2</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1708</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1708">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1537/sdp10009.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1708"
+            DMDID="DMD_wuppertal_elpub_1708">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1708"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

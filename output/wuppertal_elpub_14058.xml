@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14058">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Windelband an Rudolf Leuckart, Leipzig, 19.4.1873, 1 S., hs. (dt. Schrift), am Briefkopf links oben Prägestempel: oval umrandetes Feld, darin unter einer Krone der Schriftzug RATH, UA Leipzig, PA 1071, Bl. 11</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Windelband an Rudolf Leuckart, Leipzig, 19.4.1873, 1 S., hs. (dt. Schrift), am Briefkopf links oben Prägestempel: oval umrandetes Feld, darin unter einer Krone der Schriftzug RATH, UA Leipzig, PA 1071, Bl. 11 Leipzig. 19. April 1873 Hochverehrter Herr Professor! Die Stunde Sonnabend 26 April Mittags von 12–1 findet bei den Herrn meiner Prüfungscommission keinen Widerspruch, und ich ersuche daher, dieselbe festzuhalten[1]. Zugleich würden Sie mich ganz außerordentlich verbinden, wenn Sie die Güte haben wollten, mir die Wahl des Themas und des Collegs (da dasselbe auf dem Einladungstitel[2] gedruckt sein will) am Montag so bald als möglich nach meiner Wohnung Waisenhausstraße 6. II. melden zu lassen. Indem ich Ihrer Güte im Voraus den aufrichtigsten Dank sage, verbleibe ich mit vorzüglicher Hochachtung Ihr ergebenster W Windelband Anmerkungen der Herausgeber 1↑festzuhalten ] auf Bl. 12 derselben Akte findet sich die Zustimmung von Drobisch (20.4.1873); Ahrens (20.4.1872), Zöllner (21.4.1873) zum Termin 26.4.1873, 12 Uhr; gewählt wird das 2. Thema, vgl. Windelband an Leuckart vor 19.4.1873. 2↑Einladungstitel ] vgl. Windelbands Habilitationsschrift, deren vollständiger Titel im Druck lautet: Ueber die GEWISSHEIT DER ERKENNTNISS. Habilitationsschrift der philosophischen Facultät der Universität zu Leipzig vorgelegt und als Einladung zu der am 26. April 1873 Morgens 11 Uhr im Bornerianum Nr. VI zu haltenden Probevorlesung über das Verhältniss der Erkenntnisstheorie zur Metaphysik ausgegeben von Dr. Wilhelm Windelband. Berlin: F. Henschel 1873. 96 S. Das Vorwort datiert Rom, im April 1873. – Das im Sommer 1871 fertiggestellte Kolleggebäude Bornerianum (benannt nach Caspar Borner, Rektor der Leipziger Universität zur Zeit der Reformation) ist kriegszerstört.</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000058-1</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14058</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14058">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13058/edWW2020-13058.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14058"
+            DMDID="DMD_wuppertal_elpub_14058">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14058"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

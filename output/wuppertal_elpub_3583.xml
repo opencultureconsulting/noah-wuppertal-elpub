@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3583">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Time to BRIC it? Internationalization of European family firms in Europe, North America and the BRIC countries</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Procher, Vivien␞Urbig, Diemo␞Volkmann, Christine</displayForm>
+                        <namePart type="family">Procher</namePart>
+                        <namePart type="given">Vivien␞Urbig</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">For a sample of 1243 European companies, we analyse the link between firm type and foreign direct investment (FDI) locations. We find substantial empirical evidence that being a family firm does not only affect the overall propensity for FDI but that this effect is also specific to target regions. Overall, family firms invest more than managerial-led firms, particularly in Europe and North America. Furthermore the BRIC countries Brazil, Russia, India and China do not constitute a homogenous attractiveness cluster for FDI.</abstract>
+                    <abstract type="content" lang="ger">JEL classification: D21, F23, L22 
+
+Dateigröße: 707 KB</abstract>
+                    <subject>
+                        <topic>Foreign direct investment</topic>
+                        <topic>family firms</topic>
+                        <topic>BRIC</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics » Schumpeter Discussion Papers (SDP)"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20130612-112644-1</identifier>
+                    <identifier type="sys">HT017681902</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3583</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3583">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp13/sdp13004.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3583"
+            DMDID="DMD_wuppertal_elpub_3583">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3583"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

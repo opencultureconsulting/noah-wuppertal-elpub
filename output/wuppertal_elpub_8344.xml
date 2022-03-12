@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_8344">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Revision or Revolution? A Note on Behavioral vs. Neoclassical Economics</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schettkat, Ronald</displayForm>
+                        <namePart type="family">Schettkat</namePart>
+                        <namePart type="given">Ronald</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-06-06</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Behavioral economics, the analysis of economic decisions, has made enormous progress over the last decades and become accepted as a major field in economics. How is behavioral economics to be compared to the neoclassical model? As a revision of the neoclassical model enhancing the set of variables for motivation such as fairness in the utility function which is then to be maximized? Or is behavioral economics a revolution, a departure from the neoclassical axioms, a new model? This paper argues that many of the findings in behavioral economics are incompatible with the neoclassical model and have paved the way for a revolution in economics. 
+Dateigröße: 388 KB</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics » Schumpeter Discussion Papers (SDP)"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20180606-104034-4</identifier>
+                    <identifier type="sys">HT019709590</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_8344</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_8344">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp18/sdp18005.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_8344"
+            DMDID="DMD_wuppertal_elpub_8344">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_8344"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

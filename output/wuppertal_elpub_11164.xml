@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_11164">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>War and Peace in the Anthropocene. The Scale of Realism in Richard Powers’s The Overstory</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Grener, Adam</displayForm>
+                        <namePart type="family">Grener</namePart>
+                        <namePart type="given">Adam</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-12-08</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">While Amitav Ghosh and others have argued that the conventions of the realist novel inhibit its capacity to represent the climate crisis, this essay argues that a Lukácsian approach to realism attentive to its historicizing ambitions can help us to better theorize how realism might confront the scalar logic of the Anthropocene. It shows how Richard Powers’s The Overstory (2018) picks up the historical strain of realism developed by Scott, Tolstoy, and Eliot, but extends its scale to situate human life within arboreal and evolutionary timescales. As the novel historicizes environmental consciousness against the forces of globalization and capitalism, it figures the contradictions and discontinuities in understanding that emerge as one tries to think simultaneously across these different scales. Although the novel cannot overcome these discontinuities, its capacity to help us imagine inhabiting these multiple, incommensurable scales highlights the continued relevance of the realist mode within the context of the Anthropocene. 
+DIEGESIS. Interdisziplinäres E-Journal für Erzählforschung / Interdisciplinary E-Journal for Narrative Research. ISSN 2195-2116. https://www.diegesis.uni-wuppertal.de Jg. 9 (2020) H. 2, S. 45-62.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 9 (2020) H. 2"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20201201-102212-4</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_11164</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_11164">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-10503/dej20090204.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_11164"
+            DMDID="DMD_wuppertal_elpub_11164">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_11164"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

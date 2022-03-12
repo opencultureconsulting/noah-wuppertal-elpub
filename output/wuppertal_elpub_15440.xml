@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_15440">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Competition and Living Lab Platform (Annex 74) Science &amp; Technology (Subtask A) Main Report</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Voss, Karsten␞Balcerzak, Andrea␞Hendel, Susanne␞Simon, Katharina␞Stark, Moritz␞Walther, Karl␞Müller, Jan Martin␞Simon, Joseph␞Tian, Yuan␞Li,  Lucas␞Idrissi Kaitouni, Samir␞Herkel, Sebastian␞Bacher, Jean-Philippe</displayForm>
+                        <namePart type="family">Voss</namePart>
+                        <namePart type="given">Karsten␞Balcerzak</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-11-29</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">After an introduction, the main report includes two extensive chapters with a review of the European editions of the Solar Decathlon between 2010 and 2019. 65 solar-powered competition buildings with numerous innovations were created in the four competitions. While chapter 2 focuses on building design and construction, chapter 3 focuses on energy engineering. Both chapters contain extensive cross-sectional analyses, tables and comparative graphs. Based on chapter 3, a comprehensive journal paper was published in the Energy and Buildings journal titled “Solar Decathlon Europe – A Review on the Energy Engineering of Experimental Solar Powered Houses”. The presentation provides the background knowledge for the future development of the competition format. At the same time, it already shows which impulses have been introduced for the next edition in 2022 in Germany as a result of the analyses carried out. These include, among other things, the introduction of significantly improved documentation of the competition entries in terms of their characteristics and performance indicators. It has become apparent that the previous type of documentation was only suitable for cross-sectional analyses to a very limited extent.</abstract>
+                    <classification authority="ddc">720</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Architektur und Bauingenieurwesen » Architektur » Veröffentlichungen"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20211201-093535-7</identifier>
+                    <identifier type="doi">10.25926/jvxm-9k35</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_15440</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_15440">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-14505/Annex_74_Main%20Report.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_15440"
+            DMDID="DMD_wuppertal_elpub_15440">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_15440"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14115">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Windelband an Wilhelm Nokk, Freiburg i. Br., 18.3.1880, 1 S., hs. (dt. Schrift), Generallandesarchiv Karlsruhe, 52 Nokk 201</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Windelband an Wilhelm Nokk, Freiburg i. Br., 18.3.1880, 1 S., hs. (dt. Schrift), Generallandesarchiv Karlsruhe, 52 Nokk 201 Freiburg iB, 18 März 1880[a] Hochverehrter Herr Oberschulrathsdirector,[b] Indem ich mir gestatte, Euer Hochwohlgeboren die beiden einliegenden Briefe[1] des Senatsreferenten der Würzburger Universität, Herrn[c] Wislicenus[d][2], mit der ergebnen Bitte um discrete Behandlung der persönlichen Äußerungen, zu gefälliger Kennntißnahme und sofern es Euer Hochwohlgeboren angemessen erscheint, zur Mittheilung an den Herrn[e] Präsidenten des Ministeriums zu übersenden, bemerke ich, daß ich den ersten dieser Briefe sogleich dahin beantwortet habe[f], ich würde unter den angegebenen Bedingungen nicht in der Lage sein, einem Rufe an die Würzburger Universität Folge zu leisten. Mit der Bitte um gefällige Zurücksendung der beiden Schriftstücke verbleibe ich in vorzüglicher Hochschätzung Euer Hochwohlgeboren[g] ergebenster Dr. W. Windelband Prof. der Philosophie Anmerkungen zum Textbefund a↑Freiburg iB, 18 März 1880 ] in lat. Schrift. Links oben von Nokks Hd. mit Bleistift: beantwor[tet] | d[u]rch R[üc]ks[endun]g der St[üc]ke. | N[okk] b↑Oberschulrathsdirector, ] danach 4 Zeilen freigelassen c↑Herrn ] Hrn d↑Wislicenus ] in lat. Schrift e↑Herrn ] Hrn f↑beantwortet habe ] Schreiben nicht ermittelt g↑Hochwohlgeboren ] danach 3 Zeilen freigelassen Anmerkungen der Herausgeber 1↑beiden einliegenden Briefe ] liegen nicht bei 2↑Wislicenus ] Johannes Wislicenus (1835–1902), Chemiker, 1860 in Zürich promoviert, 1860 in Zürich habilitiert (Universität u. Polytechnikum), PD für Reine, Angewandte und Physikalische Chemie an der Universität Zürich, 1864 ao. Prof. für Chemie in Zürich, 1867 o. Prof., 1872 in Würzburg, 1885 in Leipzig (Leipziger Professorenkatalog).</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000115-5</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14115</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14115">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13115/edWW2020-13115.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14115"
+            DMDID="DMD_wuppertal_elpub_14115">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14115"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

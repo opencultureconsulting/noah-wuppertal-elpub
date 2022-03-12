@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_2678">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Productivity in German manufacturing firms: Does fixed-term employment matter?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Nielen, Sebastian␞Schiersch, Alexander</displayForm>
+                        <namePart type="family">Nielen</namePart>
+                        <namePart type="given">Sebastian␞Schiersch</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">A growing proportion of employees are working under fixed-term contracts. This paper empirically analyzes whether this strategy actually improves firm productivity. To this end, a large dataset of German manufacturing firms and various panel data models are used in order to reveal the expected non-linear effect. Thereby the analysis also takes into account distortions that may result from selection into the use of fixed-term employment. The results of the investigation show that there is no significant effect of fixed-term employment on labor productivity when controlling for the selection effect.</abstract>
+                    <abstract type="content" lang="ger">JEL Classification : D24, L23, L60 
+
+Dateigröße: 802 KB</abstract>
+                    <subject>
+                        <topic>fixed-term employment</topic>
+                        <topic>labor productivity</topic>
+                        <topic>manufacturing</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20120312-105213-9</identifier>
+                    <identifier type="sys">HT017202953</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_2678</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_2678">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-2674/sdp12004.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_2678"
+            DMDID="DMD_wuppertal_elpub_2678">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_2678"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3789">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>„wohlverstopfte Kristallflasche“ und das Schwarze Tor in Dresden</title>
+                        <subTitle>Raum als narratologische Kategorie</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Burghardt, Anja</displayForm>
+                        <namePart type="family">Burghardt</namePart>
+                        <namePart type="given">Anja</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Katrin Dennerlein: Narratologie des Raumes. Berlin: de Gruyter 2009. (= Narratologia Bd. 22). V, 247 S. Geb. EUR 99,95. ISBN 978-3-11-021991-3 
+
+ Eine der Aufgaben der Narratologie beim Erfassen des Raums besteht darin, einen Raumbegriff zu entwickeln, mit dessen Hilfe so Unterschiedliches wie die „wohlverstopfte Kristallflasche“ und das Schwarze Tor in Dresden aus E.T.A. Hoffmanns Der goldene Topf eingefangen werden können. Katrin Den-nerlein diskutiert in ihrer Dissertation die bestehende literaturwissenschaftliche Forschungsliteratur zum Raum und unterbreitet den Vorschlag einer kogni¬tionswissenschaftlich gestützten Raumkonzeption. Sie setzt sich den „Entwurf eines Raumkonzepts“ zum Ziel; zudem widmet sie ihre Studie „der Beschrei¬bung der narrativen Erzeugung von Raum, der Beschreibung von Darstel¬lungstechniken und deskriptiven Ansätzen zum Umgang mit Rauminformatio¬nen“ (S. 7), die bislang allzu wenig systematisch untersucht seien – wenn überhaupt (die „Vernachlässigung“ des Raums in der Narratologie diskutiert Dennerlein im Rahmen ihres Forschungsüberblicks, insbesondere S. 3-5). 
+ Eine Diskussion des Raums gehört in gewissem Maße zum spatial turn, der auch an der Literaturwissenschaft nicht vorüber gegangen ist und dabei die Erzähltheorie und Narratologie mehr als nur gestreift hat. Für die Narratologie allerdings sei der spatial turn kulturwissenschaftlicher Prägung wenig anschluss¬fähig, so betont die Autorin zu Beginn ihrer interdisziplinär ausgerichteten Studie Narratologie des Raums. Ebenfalls zu Recht unterstreicht sie, wie hetero¬gen die Diskussion um den Raum innerhalb der Literaturwissenschaft verläuft, und wie vielfältige metaphorische Übertragungen sie durchziehen. Dabei sam¬melten sich unter dem Stichwort „Raum“ so unterschiedliche Phänomene wie „semantischen Inkongruenzen und Mehrdeutigkeiten, die Abwesenheit einer klaren zeitlichen Struktur, der Umfang der hermeneutischen Operationen, die sich an einen Text anschließen lassen oder derjenige Raum, den Buchstaben auf dem Papier einnehmen“ (S. 50). In klarer Absetzung dagegen begrenzt Dennerlein ihren Untersuchungsgegenstand auf den „konkreten Raum der erzählten Welt“ (S. 48).</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 2 (2013) H. 2"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20131120-180812-6</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3789</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3789">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-3902/dej13020209.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3789"
+            DMDID="DMD_wuppertal_elpub_3789">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3789"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

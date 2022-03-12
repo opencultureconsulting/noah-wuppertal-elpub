@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14001">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Beglaubigte Abschrift des Taufscheins der Garnison-Kirche Potsdam vom 23.6.1848, Potsdam, 1.12.1905, 1 S., hs. ausgefüllter Vordruck, Generallandesarchiv Karlsruhe, 236-15267/2. Aktentitel: Großherzogtum Baden. Ministerium des Innern. Generalia. Staatsverfassung und Landstände. Die Wahl der Abgeordneten zur ersten Kammer | hier | des Abgeordneten der Universität Heidelberg betr. Gewählt: Dr. Wilhelm Windelband Geheimerat u. Professor in Heidelbe</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Beglaubigte Abschrift des Taufscheins der Garnison-Kirche Potsdam vom 23.6.1848, Potsdam, 1.12.1905, 1 S., hs. ausgefüllter Vordruck, Generallandesarchiv Karlsruhe, 236-15267/2. Aktentitel: Großherzogtum Baden. Ministerium des Innern. Generalia. Staatsverfassung und Landstände. Die Wahl der Abgeordneten zur ersten Kammer | hier | des Abgeordneten der Universität Heidelberg betr. Gewählt: Dr. Wilhelm Windelband Geheimerat u. Professor in Heidelberg. 1905 Tauf-Schein. Heinrich Wilhelm Windelband ehelicher Sohn des Regierungs-Secretärs Johann Friedrich Wilhelm Windelband und dessen Ehefrau Dorothea Charlotte Friederike geborenen Gerloff ist am 11ten (elften Mai 1848) Eintausend acht hundert acht und vierzig in Potsdam geboren und hat am 23ten Juni 1848 die heilige Taufe empfangen. Solches wird laut Taufregister der Königlichen Hof- und Garnisonkirche vom Jahre 1848 Nr. 4 hiermit amtlich bescheinigt. Potsdam, den 1ten Dezember 1905 Der Königliche Hofprediger[a] Kessler[b] Plötz[c] Hof-Küster. Anmerkungen zum Textbefund a↑Der Königliche Hofprediger ] am linken Rand Siegel der Garnison-Kirche b↑Kessler ] eigenhändige Unterschrift c↑Plötz ] eigenhändige Unterschrift</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000001-8</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14001</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14001">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13001/edWW2020-13001.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14001"
+            DMDID="DMD_wuppertal_elpub_14001">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14001"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_8930">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Writing Lourdes. Faith, Miracles, and the Elaboration of an Official Story</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Garrigou-Kempton, Emilie</displayForm>
+                        <namePart type="family">Garrigou-Kempton</namePart>
+                        <namePart type="given">Emilie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Late nineteenth-century France is a place of renewed religious fervor, particularly around the miraculous healings at Lourdes, where sick masses converge in hope of being healed of a wide range of ailments. The same period is also known for its belief in medical and scientific progress, leading to the production of competing narratives about faith, and the question of its role in the healing process becomes a concern in both medical discourse and Catholic literature. Lourdes itself crystallizes these questions and texts written by doctors, clerics, historians, journalists, and novelists illustrate a wide range of opinions about miracles and participate in the production of an ever-growing authoritative list of texts about the events at Lourdes. An analysis of famed neurologist Charcot’s The Healing Faith (1892) in conjunction with Lasserre’s Notre-Dame de Lourdes (1868) and Père Cros’s Histoire de Notre-Dame de Lourdes (1925) explores the role of faith in these narratives, along with the tensions and convergences between them.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 7 (2018) H. 2"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20181121-105650-8</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_8930</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_8930">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-8363/dej18070201.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_8930"
+            DMDID="DMD_wuppertal_elpub_8930">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_8930"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_2375">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Strategic Trading and Trade Reporting by Corporate Insiders</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Betzer, André␞Gider, Jasmin␞Metzger, Daniel␞Theissen, Erik</displayForm>
+                        <namePart type="family">Betzer</namePart>
+                        <namePart type="given">André␞Gider</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Regulations in the pre-Sarbanes–Oxley era allowed corporate insiders considerable flexibility in strategically timing their trades and SEC filings, e.g., by executing several trades and reporting them jointly after the last trade. We document that even these lax reporting requirements were frequently violated and that strategic timing of trades and reports was common. Event study abnormal returns are larger after reports of strategic trades than after reports of otherwise similar nonstrategic trades. Our results imply that delayed reporting impedes the adjustment of prices to the information revealed by insider trades. They lend strong support to the more stringent reporting requirements established by the Sarbanes–Oxley Act.</abstract>
+                    <abstract type="content" lang="ger">JEL-Classification: G14, G30, G32 
+
+Dateigröße: 850 KB</abstract>
+                    <subject>
+                        <topic>Insider trading</topic>
+                        <topic>directors&apos; dealings</topic>
+                        <topic>corporate governance</topic>
+                        <topic>market efficiency</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics » Schumpeter Discussion Papers (SDP)"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20111111-103006-5</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_2375</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_2375">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp11/sdp11015.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_2375"
+            DMDID="DMD_wuppertal_elpub_2375">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_2375"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

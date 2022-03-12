@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9383">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Art of Comic Reportage</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ludewig, Julia</displayForm>
+                        <namePart type="family">Ludewig</namePart>
+                        <namePart type="given">Julia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-06-13</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This essay offers a comparative and narratologically-informed close reading of four recent comic reportages from refugee camps around the world. The short accounts by Lucas Wild, Damien Glez, Reinhard Kleist, and Didier Kassaï showcase a diverse set of comics journalism with revealing similarities and differences. Focusing on the concepts of immediacy and mediatedness, I show how the reportages use the multimodal affordances of comics to elicit witnessing or meta-reflection effects, sometimes even summoning both in a single act of representation. In particular, I analyze intrusive vs. unobtrusive narrators and monstrators, respectively, as well as the function of portraits and interviews for the narratives. Although the four reportages contrast in the authors’ inclination to more obvious vs. veiled mediation and the different liberties taken to dramatize second-hand knowledge, they all complicate dichotomies such as subjectivity / objectivity, journalism / art, and immersion / reflection as they waver between and blend narrative strategies. Thus, these works present various possibilities of how journalistically-legitimized comic art looks today.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 8 (2019) H. 1"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20190603-161103-7</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9383</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9383">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-8812/dej19080103.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9383"
+            DMDID="DMD_wuppertal_elpub_9383">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9383"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,66 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_2191">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Disentangling the Link Between Stock and Accounting Performance in Acquisitions</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Betzer, André␞Goergen, Marc</displayForm>
+                        <namePart type="family">Betzer</namePart>
+                        <namePart type="given">André␞Goergen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">While empirical studies that use event-study methodology find on average that the gains from mergers and acquisitions are positive, those focusing on accounting figures tend to find a significant drop in performance. We argue that each of the four possible combinations between positive or negative abnormal stock returns and accounting performance is due to a distinct acquisition motive. We find strong empirical evidence in support of this claim. 
+
+JEL classification: G34, G3, G14 
+
+Dateigröße: 1 MB</abstract>
+                    <subject>
+                        <topic>Mergers and acquisitions</topic>
+                        <topic>performance measurement</topic>
+                        <topic>synergies</topic>
+                        <topic>preemption</topic>
+                        <topic>overvaluation</topic>
+                        <topic>corporate governance</topic>
+                        <topic>agency problems</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20110722-124418-2</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_2191</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_2191">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp11/sdp11010.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_2191"
+            DMDID="DMD_wuppertal_elpub_2191">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_2191"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

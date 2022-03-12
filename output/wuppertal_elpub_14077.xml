@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14077">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Windelband an Gottlieb Ziegler, Riesbach, 18.1.1877, 3 S., hs. (dt. Schrift), Staatsarchiv des Kantons Zürich, U 103.4.40, Bl. 19</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Windelband an Gottlieb Ziegler, Riesbach, 18.1.1877, 3 S., hs. (dt. Schrift), Staatsarchiv des Kantons Zürich[1], U 103.4.40, Bl. 19 Riesbach. 18 Jan[uar] 1877. Hochverehrter Herr Regierungs-Rath Indem ich Sie ergebenst ersuche, von dem einliegenden Briefe[2] Notiz zu nehmen, und denselben später von Ihnen zurückerbitte, gestatte ich mir, daran einige Bemerkungen zu knüpfen. So schwer es mir werden müßte, einen Wirkungskreis, in den Sie mich so liebenswürdig eingeführt haben, und in welchem ich so schnell und glücklich heimisch geworden bin, so bald schon wieder zu verlassen, so enthält doch der Ruf, der eben an mich ergeht, eine Reihe von Lockungen, denen es mir schwer sein wird zu widerstehen: | der Gedanke, in meine Heimat zurückzukehren, – die lebenslängliche Sicherung einer angenehmen Stellung – die bessere, namentlich im Verhältniß zu den Lebensbedingungen beider Städte wesentlich bessere Besoldung, welche eventuell noch in Aussicht scheint, – die bessere Versorgung meiner Familie, auf welche ich sehr zu sehen habe – daneben die geringer belastende Verpflichtung, welche allen deutschen Universitäten im Verhältniß zu den hiesigen eigen ist – die Befreiung von einer bindenden Nebenrücksicht, wie sie mir hier durch das der Hochschule einverleibte Institut der Lehramtsschule auferlegt ist: – Alles dies sind Vortheile[3], welche diejenigen meiner hiesigen Stellung, die ich in keiner Weise verkenne, zu compensiren drohen, und denen gegenü|ber ich nur dadurch sicher gestellt sein könnte, daß der Inhalt des Gespräches, welches ich neulich mit Ihnen hatte, bald eine greifbare Gestalt in einer oder der anderen Richtung annähme. Sie wollen mir, verehrter Herr Erziehungsdirector, gütigst erlauben, daß ich – alle weiteren Verhandlungen so lange suspendirend, – morgen, sei es am Vormittag oder Nachmittags zwischen 2 und 3 Uhr bei Ihnen vorspreche, um darüber mit Ihnen Rücksprache zu nehmen. ich bin in vorzüglichster Hochachtung Ihr ergebenster W Windelband Anmerkungen der Herausgeber 1↑Staatsarchiv des Kantons Zürich ] mit Dank an Florian Christen, Menziken (Schweiz) 2↑einliegenden Briefe ] vgl. Wilhelm Nokk an Windelband vom 17.1.1877 3↑Vortheile ] vgl. Windelband an Georg Jellinek vom 28.12.1877, wo er seine Gründe, den Freiburger Ruf anzunehmen, unverblümt darlegt</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000077-7</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14077</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14077">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13077/edWW2020-13077.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14077"
+            DMDID="DMD_wuppertal_elpub_14077">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14077"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

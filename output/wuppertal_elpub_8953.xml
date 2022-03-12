@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_8953">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Drehbuchnarratologie. Jan Heiner Gebhardts Erschließung eines Analysesets für einen fiktionalen ‚Gebrauchstext‘</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Korus, Dennis</displayForm>
+                        <namePart type="family">Korus</namePart>
+                        <namePart type="given">Dennis</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Jan Heiner Gebhardt (2016): Das Drehbuch als fiktionaler Erzähltext. Hamburg: Verlag Dr. Kovač 2016 (= NARRARE – Interdisziplinäre, intermediale und transgenerische Schriftenreihe zur Narratologie 4). 186 S. EUR 79,80. ISBN 978-3-830-09046-5</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 7 (2018) H. 2"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20181122-101053-5</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_8953</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_8953">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-8373/dej18070211.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_8953"
+            DMDID="DMD_wuppertal_elpub_8953">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_8953"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_2827">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Dividend Policy, Corporate Control and the Tax Status of the Controlling Shareholder</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Andres, Christian␞Betzer, André␞Goergen, Marc</displayForm>
+                        <namePart type="family">Andres</namePart>
+                        <namePart type="given">Christian␞Betzer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This paper studies the impact of the concentration of control, the type of controlling shareholder and the dividend tax preference of the controlling shareholder on dividend policy for a panel of 220 German firms over 1984-2005. While the concentration of control does not have an effect on the dividend payout, there is strong evidence that the type of controlling shareholder matters as family controlled firms have high dividend payouts whereas bank controlled firms have low dividend payouts. However, there is no evidence that the tax preference of the large shareholder has an impact on the dividend decision.</abstract>
+                    <abstract type="content" lang="ger">JEL Classification : G32, G35
+
+Dateigröße: 753 KB</abstract>
+                    <subject>
+                        <topic>Dividend policy</topic>
+                        <topic>payout policy</topic>
+                        <topic>Lintner dividend model</topic>
+                        <topic>tax clientele effects</topic>
+                        <topic>corporate governance</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20120524-102137-5</identifier>
+                    <identifier type="sys">HT017236213</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_2827</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_2827">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-2674/sdp12006.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_2827"
+            DMDID="DMD_wuppertal_elpub_2827">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_2827"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

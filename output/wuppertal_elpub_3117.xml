@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3117">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Nach dem ‚narrative turn‘</title>
+                        <subTitle>Handbücher und Lexika des 21. Jahrhunderts</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Scheffel, Michael</displayForm>
+                        <namePart type="family">Scheffel</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Recent years have seen the appearance of numerous lexica and handbooks devoted to general narratological questions which collect contributions from different disciplines. What are the strengths and weaknesses of these books (each of which is aimed at a large readership)? What kind of knowledge is archived, and what understanding of narratology is codified, in these works? This contribution approaches these questions in the form of an overview, and ultimately arrives at the following conclusion: if narratology is to become a truly transdisciplinary project, the theoretical and methodological bridges between participating disciplines have to be built. After the expansion of research fields and the current phase of consolidation (as documented in handbooks and lexica), such transdisciplinary collaboration would be the next step in the development of narratological research.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 1 (2012) H. 1"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20121031-151117-7</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3117</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3117">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-3220/dej12010104.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3117"
+            DMDID="DMD_wuppertal_elpub_3117">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3117"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

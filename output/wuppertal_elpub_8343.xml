@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_8343">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Discussing Social Business Innovations: An Interview with Professor Muhammad Yunus</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wirtz, Michael␞Volkmann, Christine</displayForm>
+                        <namePart type="family">Wirtz</namePart>
+                        <namePart type="given">Michael␞Volkmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-06-06</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Muhammad Yunus is one of the world’s leading social entrepreneurs, having been awarded the Nobel Peace Prize for founding the Grameen Bank in Bangladesh. This microfinance institution is the largest one until today, counting eight million borrowers. We conducted research on Grameen Bank, related organisations and the concept of social business over the past years and asked Yunus questions which arose as a result of the research. 
+Dateigröße: 485 KB</abstract>
+                    <subject>
+                        <topic>Social Business</topic>
+                        <topic>Grameen Bank</topic>
+                        <topic>Microfinance</topic>
+                        <topic>Social Business Cities</topic>
+                        <topic>Joint Ventures</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20180606-103131-7</identifier>
+                    <identifier type="sys">HT019709578</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_8343</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_8343">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp18/sdp18004.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_8343"
+            DMDID="DMD_wuppertal_elpub_8343">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_8343"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

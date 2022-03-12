@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_135">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zur Optimierung der Testing-the-Limits-Strategie in der Demenzfrüherkennung</title>
+                        <subTitle>Der Adaptive Figurenfolgen-Lerntest (ADAFI)</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schreiber, Michael</displayForm>
+                        <namePart type="family">Schreiber</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003-09-26</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Der Testing-the-Limits (Ttl) Ansatz hat sich als fruchtbare Methode für die Früherkennung einer dementiellen Erkrankung erwiesen. Es konnte gezeigt werden, daß sich Personen mit dem Verdacht einer Demenz durch eine niedrige kognitive Plastizität kennzeichnen lassen und kaum von Trainingsprogrammen zur fluiden Intelligenz profitieren. Allerdings ist dieser Ansatz für die klinische Praxis zu zeitaufwendig. Diagnostische Programme (DP) stellen eine alternative plastizitätsorientierte Methode dar, die in einer Sitzung zu applizieren ist. Im Gegensatz zum klassischen Ttl-Ansatz, bei dem die Abschätzung der Plastizität im Rahmen eines Prä-Posttest-Designs mit einem dazwischengeschalteten Training erfolgt, wird hierbei die Trainingsphase direkt in die Testung mit einbezogen. In der vorliegenden Arbeit wurde untersucht, ob das DP Adaptive Figurenfolgenlerntest (ADAFI) für die Früherkennung dementieller Erkrankungen geeignet ist. Der im ADAFI vorgelegte Aufgabentyp (logisches Auffüllen von Figurenfolgen) zur fluiden Intelligenz hat sich bereits in mehreren Studien zur Erfassung der kognitiven Plastizität älterer Menschen als günstig erwiesen. Es werden die Ergebnisse von zwei Untersuchungen dargestellt. Untersuchungsteilnehmer waren gesunde ältere Menschen und Personen mit einer leichten kognitiven Beeinträchtigung, für die ein erhöhtes Risiko für eine dementielle Entwicklung besteht. Die Befunde zeigen, daß a) mit dem ADAFI relevante Informationen gewonnen werden können, die im fluiden Intelligenzstatus nicht enthalten sind und b), die leicht kognitiv beeinträchtigten Untersuchungsteilnehmer weniger von dem bei der Bearbeitung des ADAFI vermittelten Interventionsangebot profitierten als die gesunden Teilnehmer. Darüber hinaus verbesserten plastizitätsorientierte Kennwerte die Diskrimination zwischen Gesunden und Risikopersonen. Diskutiert werden theoretische, methodische und praktische Implikationen.</abstract>
+                    <abstract type="content" lang="eng">The Testing-the-limits (Ttl) approach has been shown as a promising strategy for the early identification of dementia. It appeared that elderly at risk for dementia profit less from intelligence-activating training programs, in other words show low cognitive plasticity. However, the large time expenditure of this approach acts as limiting factor for its wider use in clinical practice. Computer based Diagnostic Programs (DP) represent an alternative cognitive plasticity method, which is easily to administer within a single session. In contrast to the generic Ttl-approach, which involve a pretest, a training phase, and a posttest, here the training phase is directly implemented into the test procedure. The aim of the present study was to investigate the utility of the DP Adaptive Figure Series Learning Test (ADAFI) for the early detection of dementia. Several studies on the subject of measuring the cognitive plasticity of old subjects have shown the usefulness of the fluid intelligence type of task used in the ADAFI (completion of figure series) for this purpose. Results of two studies are reported. Subjects were old subjects at risk for dementia and old healthy controls. The findings show a) that the application of the ADAFI produces considerable unique information beyond status of fluid intellectual functioning, and b) that at-risk participants profit less from the short-term intervention of the ADAFI. In addition, the accuracy of discrimination between healthy and at-risk participants appears higher when using markers of cognitive plasticity. Several theoretical, methodological, and practical issues are discussed.</abstract>
+                    <classification authority="ddc">150</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Human- und Sozialwissenschaften » Psychologie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20030401</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_135</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_135">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-324/d030205.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_135"
+            DMDID="DMD_wuppertal_elpub_135">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_135"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

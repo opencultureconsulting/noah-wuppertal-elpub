@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_11171">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Beehive Narratology? Why Narrative Research should not Ignore Complexity Theory</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sommer, Roy</displayForm>
+                        <namePart type="family">Sommer</namePart>
+                        <namePart type="given">Roy</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-12-08</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Marina Grishakova / Maria Poulaki (Hg.) Narrative Complexity. Cognition, Embodiment, Evolution. Lincoln, NE 2019 (= Frontiers of Narrative Series) 
+DIEGESIS. Interdisziplinäres E-Journal für Erzählforschung / Interdisciplinary E-Journal for Narrative Research. ISSN 2195-2116. https://www.diegesis.uni-wuppertal.de Jg. 9 (2020) H. 2, S. 148-157</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 9 (2020) H. 2"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20201201-103158-0</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_11171</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_11171">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-10510/dej20090211.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_11171"
+            DMDID="DMD_wuppertal_elpub_11171">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_11171"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

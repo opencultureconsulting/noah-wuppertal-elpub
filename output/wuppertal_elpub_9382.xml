@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9382">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>When Public Figures Become Comics. Reinhard Kleist’s Graphic Biographies</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Albiero, Olivia</displayForm>
+                        <namePart type="family">Albiero</namePart>
+                        <namePart type="given">Olivia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-06-12</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The genre of graphic biography is booming internationally. In the German context, Reinhard Kleist’s works confirm this trend. A successful artist based in Berlin, Kleist is the author of seven book-long biographies of public figures. His characters range from writers to famous politicians, musicians, and professional athletes with traumatic stories. This article examines how Kleist’s graphic biographies differently embrace the possibilities and challenges of narrating and depicting real-life persons and their experiences. It discusses how the graphic biographies strike a balance between factual and fictional details in reconstructing the original story, to which the artist will never have full access. Because graphic biographies are built around the characters they portray, this article uses Kai Mikkonen’s theory of characters in comics as a framework to show how Kleist renders real-life figures as characters at the intersection of factual and fictional narration. By focusing on Kleist’s Der Traum von Olympia (2015) and Der Boxer (2012), two works that describe traumatic stories embedded in their respective socio-political contexts, it explores how graphic biographies incorporate historical reconstruction, journalistic account, and personal story in rendering their characters. The article shows how these graphic biographies not only portray individual lives, but ultimately encourage reflections on similar stories that may remain untold.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 8 (2019) H. 1"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20190603-160516-7</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9382</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9382">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-8811/dej19080102.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9382"
+            DMDID="DMD_wuppertal_elpub_9382">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9382"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

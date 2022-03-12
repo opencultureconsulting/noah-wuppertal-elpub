@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_2122">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Welchen Einfluss hat die Wohnumgebung auf die Grundschulwahl von Eltern?</title>
+                        <subTitle>Analysen zur Bedeutung von kontextuellen und familiären Merkmalen auf das Wahlverhalten</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schuchart, Claudia␞Schneider, Kerstin␞Weishaupt, Horst␞Riedel, Andrea</displayForm>
+                        <namePart type="family">Schuchart</namePart>
+                        <namePart type="given">Claudia␞Schneider</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Aufgrund einer Schulgesetzänderung wurden in NRW für das Schuljahr 2008/2009 die Grundschuleinzugsbezirke aufgehoben. Der Beitrag geht der Frage nach, welchen Einfluss Merkmale der Wohnumgebung auf das Schulwahlverhalten von Eltern mit unterschiedlichen ökonomischen und kulturellen Ressourcen besitzen. Genutzt werden die Daten aus einer Telefonbefragung von N = 1576 Eltern, die mit Merkmalen der Schulstatistik und auf Schulbezirke aggregierte Daten der Kommunalstatistik verknüpft werden. Die Analysen zeigen, dass das individuelle Wahlverhalten von Eltern mit unterschiedlichen ökonomischen und kulturellen Ressourcen in Abhängigkeit von der Wohnumgebung variiert: In stärker benachteiligten Wohnumgebungen verstärkt sich der Zusammenhang zwischen Wahlverhalten und ökonomischen und kulturellen Ressourcen. Allerdings zeigen sich nur schwache Hinweise darauf, dass ein sozialisierender Einfluss der Wohnumgebung auf die individuellen Entscheidungskalkulationen als Ursache für den differenziellen Einfluss des Wohngebiets angenommen werden kann.</abstract>
+                    <abstract type="content" lang="eng">In 2008, school districts were abolished in North Rhine-Westphalia. The paper focuses on the question whether neighborhood characteristics have an influence on the school choice behavior of parents with different socioeconomic and cultural resources. The analysis is based on data of a telephone survey of N = 1576 parents combined with data from school statistics and official statistics. The results indicate that the relationship between choice behavior and cultural and socioeconomic resources of parents is stronger in socially deprived neighborhoods than in privileged neighborhoods. However, there is only weak evidence for the hypothesis that the neighborhood influences the underlying subjective motives of parental school choice. 
+
+Dateigröße: 853 KB</abstract>
+                    <subject>
+                        <topic>school choice</topic>
+                        <topic>neighborhood effects</topic>
+                        <topic>social inequality</topic>
+                        <topic>Schulwahl</topic>
+                        <topic>Nachbarschaftsforschung</topic>
+                        <topic>soziale Ungleichheit</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20110714-105612-9</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_2122</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_2122">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp11/sdp11009.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_2122"
+            DMDID="DMD_wuppertal_elpub_2122">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_2122"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

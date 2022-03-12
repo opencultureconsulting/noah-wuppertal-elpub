@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14152">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Windelband an Friedrich Theodor Althoff, Freiburg i. Br., 27.9.1883, 2 S., hs. (dt. Schrift), Geheimes Staatsarchiv Preußischer Kulturbesitz Berlin, Rep 92 Althoff C Nr. 1058</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Windelband an Friedrich Theodor Althoff, Freiburg i. Br., 27.9.1883, 2 S., hs. (dt. Schrift), Geheimes Staatsarchiv Preußischer Kulturbesitz Berlin, Rep 92 Althoff C Nr. 1058 Freiburg iB Dreisamstr[aße] 7 27 Sept[ember] 1883 Hochverehrter Herr Geheimerat[a],[b] Vor etwa acht Tagen fragte der Dekan der philos[ophischen] Fakultät in Breslau, Herr[c] Prof. Hertz[1], im Hinblick auf Ihre bevorstehende Anwesenheit bei mir an, ob ich noch geneigt wäre dem etwaigen Rufe nach Breslau unter annehmbaren Bedingungen Folge zu leisten. Darauf habe ich nicht anders als bejahend und dahin antworten können[2], daß ich von meiner gegenwärtigen[d] Straßburger Stellung aus einer solchen Vocation gern folgen würde. Doch habe ich nicht verfehlt, den Herrn Dekan darauf aufmerksam zu machen, daß ich durchaus nicht mit auch nur annähernder Wahrscheinlichkeit bestimmen kann, inwieweit etwa die Erneuerung des Fakultätsvorschlages geeignet wäre, die Bedenken zu überwinden, welche der Ausführung desselben bisher im Wege gestanden haben. Weiter glaubte ich, um die Discretion hinsicht|lich Ihrer gütigen Mittheilung an mich nicht zu verletzen, in meiner Antwort nicht gehen zu dürfen. Heute erfahre ich nun von Herrn[e] Prof. Hertz, daß Ihre Reise verschoben sei und er Ihnen deshalb schriftlich den Wunsch der Fakultät, auf mich zurückzukommen, vorlegen werde. Dieser Umstand veranlaßt mich, Ihnen, hochgeehrter Herr Geheimerat, diesen Hergang der Sache zu melden. Sie wissen selbst, daß die Erklärung, zu deren Abgabe ich in dieser Weise von der Fakultät veranlaßt[3] wurde, völlig meine Anschauung ausspricht, und daß ich von meiner jetzigen[f] Position aus die Berufung nach Breslau mit großer Freude begrüßen würde; im Uebrigen lege ich, wie bisher, meine Sache vertrauensvoll in Ihre Hände. Mit der Bitte, mich Ihrer verehrten Frau Gemahlin bestens empfehlen zu dürfen, in vorzüglicher Hochachtung Ihr ganz ergebner Windelband Anmerkungen zum Textbefund a↑Geheimerat ] so wörtlich b↑Hochverehrter Herr Geheimerat, ] links oben von Althoffs Hd. mit Bleistift: Windelband. | Philosophie c↑Herr ] Hr. d↑gegenwärtigen ] mit Bleistift unterstrichen e↑Herrn ] Hrn f↑jetzigen ] mit Bleistift unterstrichen Anmerkungen der Herausgeber 1↑Hertz ] Martin Julius Hertz (1818–1895), klassischer Philologe, seit 1862 o. Prof. in Breslau (ADB; NDB). 2↑antworten können ] Schreiben nicht ermittelt 3↑von der Fakultät veranlaßt ] d. h. von der Breslauer Philosophischen Fakultät</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000152-0</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14152</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14152">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13152/edWW2020-13152.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14152"
+            DMDID="DMD_wuppertal_elpub_14152">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14152"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6993">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Kehrseite des Wissens</title>
+                        <subTitle>Körperarbeit am Text – und was sie für die Narratologie bedeutet</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Söffner, Jan␞Schomacher, Esther</displayForm>
+                        <namePart type="family">Söffner</namePart>
+                        <namePart type="given">Jan␞Schomacher</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">When toddlers and younger children first encounter stories, they evince a strong tendency to act them out. They use role play and toys for enactment and thereby to experience the dynamics of a storyline, to pursue possible variations, to embody divergent perspectives, to learn about characters and their attitudes, and to cope with the narrated situations. In analogy with Lev Vygotsky’s (1962) basic insight that thinking is to be considered as an interiorized form of spoken language, it may accordingly be argued that the mental imagery which readers experience in following a narrative is (at least partially) to be understood as an interiorized form of playful enactment. Drawing on insights of the cognitive sciences, phenomenology and research on embodiment, this article pursues this hypothesis and takes a few first steps towards an enactivist perspective on literary narrative. In doing so, embodied knowledge – as opposed to propositional knowledge – will be the main issue.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 6 (2017) H. 1"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170606-142108-1</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6993</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6993">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-6777/dej17060104.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6993"
+            DMDID="DMD_wuppertal_elpub_6993">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6993"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

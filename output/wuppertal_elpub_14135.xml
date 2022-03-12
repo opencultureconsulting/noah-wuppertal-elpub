@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14135">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Adolf Michaelis an Windelband, Straßburg, 5.10.1882, Doppelblatt, hektographierte Hs. mit Unterschriftstempel, von Windelband hs. ausgefülltes Formular (lat. Schrift), ADBR Strasbourg, 103 AL 794 (Personalakte Windelband), Bl. 1</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Adolf Michaelis an Windelband, Straßburg, 5.10.1882, Doppelblatt, hektographierte Hs. mit Unterschriftstempel, von Windelband hs. ausgefülltes Formular (lat. Schrift), ADBR Strasbourg, 103 AL 794 (Personalakte Windelband), Bl. 1 Strassburg, den 5 October[a] 1882[b] Euer Hochwohlgeboren wird beiliegendes Formular übersandt mit dem Ersuchen, dasselbe auszufüllen und an das Secretariat in thunlichster Bälde zu remittiren. Der Rector I. V. Ad. Michaelis[c] An | den Herrn Professor Dr. Windelband. | Hochwohlgeboren | Hierselbst.[d] I. No 1870. | Vorname. Wilhelm Zuname. Windelband Geburtsort | Regierungsbezirk | Staat. Potsdam | Preussen 1. Tag und Jahr der Geburt. 11 Mai 1848 Persönliche Verhältnisse | (ob ledig oder verheirathet.) verheiratet. Amtliche Function. ord. Professor der Philosophie. Promotionsort und Datum. Göttingen | 7 April 1870 Titel| Orden | Ehrenzeichen. Grossherz. Badischer Hofrat | – | Deutsche Kriegsdenkmünze 1870/71 Frühere Stellungen | eventl. Anstellungs-Datum. Privatdocent in Leipzig | – | Ord. Prof. der Philosophie in Zürich vom 12 April 1876. | – | Ord. Prof. der Philosophie in Freiburg iB, | Anst[ellungs]termin 1 Febr. 1877 Antritt daselbst 17. März 77. Bemerkungen. Anmerkungen zum Textbefund a↑5 October ] hs. b↑82 ] hs. c↑Ad. Michaelis ] Stempel, nach eigenhändiger Unterschrift geschnitten d↑Windelband. | Hochwohlgeboren | Hierselbst. ] hs.</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000135-7</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14135</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14135">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13135/edWW2020-13135.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14135"
+            DMDID="DMD_wuppertal_elpub_14135">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14135"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

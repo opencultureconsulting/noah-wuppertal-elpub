@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14086">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Windelband an Wilhelm Nokk, Zürich, 17.2.1877, 3 S., hs. (dt. Schrift), Generallandesarchiv Karlsruhe, 52 Nokk 201</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Windelband an Wilhelm Nokk, Zürich, 17.2.1877, 3 S., hs. (dt. Schrift), Generallandesarchiv Karlsruhe, 52 Nokk 201 Zürich 17. Febr[uar] 1877.[a] Hochzuverehrender Herr Oberschulrathsdirector.[b] Die große Liebenswürdigkeit, mit welcher Euer Hochwohlgeboren die Verhandlungen geführt haben, ermuthigt mich, Sie um eine kleine Gefälligkeit in einer Angelegenheit zu ersuchen, die ich bei den Verhandlungen selbst zu berühren versäumt habe. Es wäre mir nämlich außerordentlich wünschenswerth, wenn der Ersatz meiner Umzugskosten im Betrage von 1500 Mk.[c] schon für die Tage des Umzugs selbst, in der zweiten Hälfte des März, auf die Universitätskasse angewiesen werden könnte. Da ich dieselben aus meiner laufenden Kasse, zumal am Ende des Quartals nicht bestreiten kann, so müßte ich dazu Geld aufnehmen, was unter jetzigen Verhältnissen nicht ohne wesentliche Verluste möglich wäre. | Sie wissen, daß ich unter Aufgabe pekuniärer Vortheile dem ehrenvollen Rufe der Großherzoglichen Regierung gefolgt bin; und Sie werden deßhalb diesen Wunsch, daß mir der Umzug nicht auch in dieser Hinsicht Nachtheile bereite, bei einem Familienvater begreiflich finden. Es würde mich sehr verbinden, wenn Euer Hochwohlgeboren diese meine Bitte bei Seiner Excellenz dem Herrn Präsidenten des Ministeriums gütigst befürworten wollten. In der Hoffnung, daß Ihnen diese Bitte nicht ungelegen sei, verbleibe ich mit vorzüglicher Hochschätzung[d] Euer Hochwohlgeboren[e] ganz ergebenster W Windelband Anmerkungen zum Textbefund a↑Zürich 17. Februar 1877. ]  in lat. Schrift b↑Oberschulrathsdirector. ] danach 6 Zeilen freigelassen c↑Mk. ] in lat. Schrift d↑Hochschätzung ] danach 2 Zeilen frei gelassen e↑Hochwohlgeboren ] danach 2 Zeilen freigelassen</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000086-7</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14086</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14086">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13086/edWW2020-13086.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14086"
+            DMDID="DMD_wuppertal_elpub_14086">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14086"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

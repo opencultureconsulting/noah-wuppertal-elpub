@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_709">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Produktionsfunktion / Prozessmodell vom Typ G - Erweiterung der Produktionsfunktion vom Typ F - eine Zusammenfassung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Matthes, Winfried</displayForm>
+                        <namePart type="family">Matthes</namePart>
+                        <namePart type="given">Winfried</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-06-05</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Forschungsbericht Fachgebiet BWL/Rechnergestütztes Controlling, Betriebswirtschaftlicher Forschungsbericht Nr. 13, ISSN 1862-5916</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics » Forschungsberichte Wirtschafts- und Sozialwissenschaften » BWL"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20080237</identifier>
+                    <identifier type="sys">HT015689713</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_709</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_709">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-805/frcb0801.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_709"
+            DMDID="DMD_wuppertal_elpub_709">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_709"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

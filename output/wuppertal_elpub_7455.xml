@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_7455">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Krankheit aus der Distanz</title>
+                        <subTitle>Alfred Döblins frühe Erzählungen als narrative Notate krankhafter Existenzen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kocher, Ursula</displayForm>
+                        <namePart type="family">Kocher</namePart>
+                        <namePart type="given">Ursula</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Alfred Döblin’s early short story volume Die Ermordung einer Butterblume und andere Erzählungen has often been considered an example of the interlocking of his medical and his literary work. With the writer’s “Berliner Programm” and his cinematic writing style in mind these two fields intertwine in the search for an adequate language and a suitable narrative style to describe perception disorders. Rather than focusing on the detection of a specific disease pattern, a narratological approach to selected short stories reveals Döblin’s strategies to turn the reader into a close observer of the abnormal conditions described in the texts, while at the same time denying him the possibility to come to a precise conclusion. Based on Genette’s theory the paper detects two categories – modus and pace – as the writer’s means to create notations of mad and deranged conditions.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 6 (2017) H. 2"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20171121-113331-6</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_7455</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_7455">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-7288/dej17060206.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_7455"
+            DMDID="DMD_wuppertal_elpub_7455">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_7455"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

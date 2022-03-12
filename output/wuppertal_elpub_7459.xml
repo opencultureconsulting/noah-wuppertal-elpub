@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_7459">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>“Us Two Together”</title>
+                        <subTitle>Creating an Autobiographical Visual Narrative about Dementia</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Cardon, Eva</displayForm>
+                        <namePart type="family">Cardon</namePart>
+                        <namePart type="given">Eva</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">‘Graphic medicine’ or ‘graphic pathography’, a subgenre of the autobiographical comic, enables patients or caregivers to relate personal encounters with disease, mostly to process these experiences. When I set out to create the graphic narrative Wij twee samen (“Us Two Together”, 2015), which deals with my father’s developing dementia and slow decline, the goal was to attract a broader audience’s interest. By using strategies and techniques that bridge the gap between fine arts, literature, design and comics, the autobiographical storyline evolved into a work of art that transcends the visual diary.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 6 (2017) H. 2"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20171121-120256-9</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_7459</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_7459">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-7292/dej17060210.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_7459"
+            DMDID="DMD_wuppertal_elpub_7459">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_7459"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

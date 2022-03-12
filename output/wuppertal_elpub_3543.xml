@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3543">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Narratives Verstehen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Stojković, Dragica</displayForm>
+                        <namePart type="family">Stojković</namePart>
+                        <namePart type="given">Dragica</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Brigitte Rath: Narratives Verstehen. Entwurf eines narrativen Schemas. Weilerswist: Velbrück Wissenschaft 2011. 216 S. EUR 24,-. ISBN 978-3-938808-99-3 
+
+Der Titel des Buches kündigt es an: Ausgangslage von Brigitte Raths Unternehmen ist nicht die Bestimmung von Texteigenschaften als Kennzeichen eines spezifischen Textgenres, sondern der Versuch, den Prozess des narrativen Verstehens als eine bestimmte Verstehensart zu modellieren. Das nötige Beschreibungsinstrument bietet der Schemabegriff der Kognitionspsychologie an, der für literaturwissenschaftliche Zwecke, spezifisch narratologische Fragen, weiterentwickelt wird. Der im ersten Kapitel erarbeitete Schemabegriff wird im zweiten Kapitel an einem Fallbeispiel (C. S. Lewis&apos; The Lion, the Witch and the Wardrobe) hinsichtlich seiner Beschreibungs- und Erklärungskraft erprobt. Die so gewonnenen Einsichten werden im dritten Kapitel verallgemeinert, systematisiert und begründet – was in den Entwurf eines elaborierten narrativen Schemas mündet. 
+ Im Folgenden werden das erste und das dritte Kapitel des Buches genauer vorgestellt und am Ende diskutiert. Auf die Darstellung des Fallbeispiels wird verzichtet, die Lektüre des Kapitels wird jedoch allen wärmstens empfohlen, die Einblick in die praktische Anwendung des narrativen Schemas erhalten möchten.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 2 (2013) H. 1"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20130528-111603-6</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3543</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3543">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-3644/dej13020113.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3543"
+            DMDID="DMD_wuppertal_elpub_3543">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3543"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

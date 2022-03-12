@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1144">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Congress L&apos;Aquila 1997: Student Counselling and Career Guidance.</title>
+                    </titleInfo>
+                    <titleInfo lang="ger" type="translated">
+                        <title>Orientation Académique et Professionelle.</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm></displayForm>
+                        <namePart type="family">null</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Student Counselling and Career Guidance. Understanding complexity. Respecting diversity.</abstract>
+                    <abstract type="content" lang="ger">Orientation Académique et Professionelle. Comprendre la complexité. Respecter la diversité.</abstract>
+                    <subject>
+                        <topic>Zentrale Studienberatung (ZSB) » Fedora - Forum Européen de l&apos; Orientation Académique » allgemein/general/général » Kongresse/Congresses/Les Congrès</topic>
+                    </subject>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20050653</identifier>
+                    <identifier type="sys">HT014997204</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1144</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1144">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/zsb/fedora/general/congress/laquila1997/congr97.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1144"
+            DMDID="DMD_wuppertal_elpub_1144">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1144"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6992">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Fiction, Self-Knowledge and Knowledge of the Self</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Köppe, Tilmann␞Langkau, Julia</displayForm>
+                        <namePart type="family">Köppe</namePart>
+                        <namePart type="given">Tilmann␞Langkau</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The claim that literary fiction is a valuable source of knowledge can be confronted with the following skeptical objection: on a standard account of the conditions for both the possession and transmission of knowledge, fiction cannot be con-sidered a source of knowledge, for we are not justified in believing any claims from fiction. Our paper argues that the skeptic is wrong. We will start by intro¬ducing the notion of self-knowledge, the knowledge a person has of their own con¬scious attitudes, and distinguish it from knowledge of the self. Both kinds of knowledge concern a person’s beliefs about herself, but they differ in their precise scope and justificatory conditions. We will then argue that the self-knowledge one easily gains by reading fiction is an important route to knowledge of the self, which in turn is hard to obtain, and that a case can be made for literary fiction being an especially valuable source of knowledge of the self.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 6 (2017) H. 1"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170606-141717-9</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6992</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6992">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-6776/dej17060103.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6992"
+            DMDID="DMD_wuppertal_elpub_6992">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6992"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

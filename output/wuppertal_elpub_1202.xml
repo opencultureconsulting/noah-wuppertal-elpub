@@ -1,0 +1,66 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1202">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Trainingsmanual: interkulturelle Kompetenz</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm></displayForm>
+                        <namePart type="family">null</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005-03-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Das Trainingsmanual Interkulturelle Kompetenz entstand im Kontext des &quot;Modularen Betreuungskonzepts zur studienorientierten Integration ausländischer Studierender (MOBIS)&quot; der Bergischen Universität. Die dem Manual zugrunde liegenden Trainings bieten für die Zielgruppe der Studierenden eine Möglichkeit, ihre Fähigkeiten im Bereich der Kommunikation in internatonalen Begegnungen erfolgreicher zu gestalten. Mit der konzeptionellen Einbindung der Vielfalt von Nationalitäten und Interessenlagen der Studierenden der Bergischen Universität nutzt das Training intensiv die vorhanden Potentiale. In jeweils vier Abschnitten (,Lernziele&apos;, ,Theoretischer Hintergrund&apos;, ,didaktische Hinweise für den Trainer/die Trainerin&apos; und ,Eingesetzte Materialien&apos;) stellt das Manual die acht Einheiten vor. In drei Anhängen werden die Folien, Übungen und Arbeitsblätter zur Verfügung gestellt. Schließlich erleichtert die beigefügte Seminarplanung den Überblick.</abstract>
+                    <abstract type="content" lang="eng">The training manual &quot;Interkulturelle Kompetenz&quot; was developed in the context of the &quot;Modulare Betreuungskonzept zur studienorientierten Integration ausländischer Studierender (MOBIS)&quot; (modular concept for the studies oriented integration of foreign students) at the Bergische Universität. The training that form the basis for this manual offer the students the possibility to increase their communication skills in international encounters. The available potential is utilised intensively by the integration of the diversity of nationalities and interests of the students at the Bergische Universität. The manual presents the eight units used in the training in four separate sections (,Lernziele&apos;, ,Theoretischer Hintergrund&apos;, ,didaktische Hinweise für den Trainer/die Trainerin&apos; und ,Eingesetzte Materialien&apos;). The transparencies, exercises and worksheets used during the training are provided in the appendices. Finally, the enclosed seminar plan facilitates the review.</abstract>
+                    <subject>
+                        <topic>Interkulturelle Kompetenz</topic>
+                        <topic>Interkulturelles Training</topic>
+                        <topic>Soziale Interaktion</topic>
+                        <topic>Partizipatives Lernen</topic>
+                        <topic>Auslandsstudium</topic>
+                        <topic>Intercultural competence</topic>
+                        <topic>intercultural training</topic>
+                        <topic>social interaction</topic>
+                        <topic>participative learning</topic>
+                        <topic>studies abroad</topic>
+                        <topic>Zentrale Studienberatung (ZSB) » Trainingsmanuale</topic>
+                    </subject>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20050308</identifier>
+                    <identifier type="sys">HT015742032</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1202</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1202">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1310/zsbtmbd1.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1202"
+            DMDID="DMD_wuppertal_elpub_1202">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1202"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

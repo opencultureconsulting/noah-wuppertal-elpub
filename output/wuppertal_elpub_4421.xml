@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_4421">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>‚Motivation von hinten‘ - Durchschaubarkeit des Erzählens und Finalität in der Geschichte des Erzählens</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Haferland, Harald</displayForm>
+                        <namePart type="family">Haferland</namePart>
+                        <namePart type="given">Harald</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The article discusses forms of narrative orientation, both towards the ending of a narrative and governed by it. Prevalent in pre-modern fiction is a specific kind of motivation, which the German scholar Clemens Lugowski called ‘motivation from behind’. This kind of motivation operates on the level of narrative dis¬course. Modern fiction tends to minimize this motivation in favour of causal motivations on the level of the narrated events or story. Finality (teleology) is a trait shared by all plots, therefore a story can be anticipated by readers. The article differentiates forms of finality and inquires into the transformation of finality from the beginning of oral narration in folktales to modern fiction.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 3 (2014) H. 2"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20141117-153550-4</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_4421</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_4421">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-4426/dej14030204.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_4421"
+            DMDID="DMD_wuppertal_elpub_4421">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_4421"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3161">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>A </nonSort>
+                        <title>threshold of discovery</title>
+                    </titleInfo>
+                    <titleInfo lang="ger" type="translated">
+                        <nonSort>A </nonSort>
+                        <title>Ein neuer Sammelband untersucht die Metalepse in der Populärkultur</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hanebeck, Julian</displayForm>
+                        <namePart type="family">Hanebeck</namePart>
+                        <namePart type="given">Julian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Der vorliegende narratologische Sammelband Metalepsis in Popular Culture ist das Ergebnis der gleichnamigen internationalen und interdisziplinären Konferenz, die vom 25. bis zum 27. Juni 2009 in Neuchâtel in der Schweiz stattfand. Er umfasst nicht nur zwölf Beiträge, die sich jeweils der Analyse metaleptischer Formen und Funktionen einzelner Genres und / oder Medien in der Populärkultur widmen, sondern auch ein Nachwort von John Pier, das einerseits den transmedialen Charakter der Metalepse hervorhebt und andererseits auf mediale Ausprägungen des Phänomens hinweist und in dieser Doppelung charakteristisch für eine Tendenz des gesamten Bandes ist. Es ist somit zum einen der besondere Verdienst dieses Bandes, im Anschluss an Werner Wolf (2005 und 2009) überzeugend die Medialität metaleptischer Phänomene in das Blickfeld zu rücken und die transmediale Gültigkeit der narratologischen Kategorie zu demonstrieren; zum anderen macht der Band offenkundig, inwiefern Meta-lepsen selbstverständlicher Teil unserer heutigen populären Kultur geworden sind, und zeigt die zahlreichen interpretatorischen Möglichkeiten, die metaleptische Transgressionen eröffnen. In der narratologischen Forschung des letzten Jahrzehnts ist dem Phänomen der Metalepse, das Gérard Genette terminologisch 1972 in die Erzähltheorie eingeführt hat, vermehrte Aufmerksamkeit geschenkt worden. Zu nennen wären in diesem Zusammenhang unter anderem Debra Malinas oft zitierte Studie Breaking the Frame aus dem Jahre 2002, Genettes kontrovers rezipiertes Buch Métalepse: De la figure à la fiction aus dem Jahr 2004, der von John Pier und Jean-Marie Schaeffer herausgegebene Sammelband Métalepses. Entorses au pacte de la représentation (2005) und die zahlreichen Artikel, die sich mittlerweile mit der narratologischen Kategorie beschäftigen. Der Band folgt den einflussrei-chen Beiträgen Werner Wolfs (2005 und 2009), die die transgenerische und transmediale Gültigkeit der narratologischen Analysekategorie ‚Metalepse‘postulieren - eine Einsicht, die in der Forschung mittlerweile weithin als unstrittig gilt. Somit beschäftigt sich der Band natürlich nicht mit der rhetorischen Tradition von Quintilian bis Fontanier, die den Begriff ,Metalepse‘ meist zur Bezeichnung kontextuell unpassend gebrauchter Synonyme verwendet. Insofern ist der Klappentext irreführend, wenn darin behauptet wird, dass der vorliegende Band sich mit dem rhetorischen Terminus beschäftigt („Metalepsis in Popular Culture introduces the rhetorical concept of metalepsis and applies it to contemporary culture“). Hier geht es ausschließlich um das narratologische Konzept, das, obgleich von Genette aus der rhetorischen Tradition entwickelt, von dem rhetorischen Gebrauch des Begriffs der ‚Metalepse‘ strikt zu unterscheiden ist.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 1 (2012) H. 1"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20121113-121643-7</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3161</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3161">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-3266/dej12010108.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3161"
+            DMDID="DMD_wuppertal_elpub_3161">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3161"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

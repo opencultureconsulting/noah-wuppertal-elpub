@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3014">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Integration von Nachhaltigkeitsfaktoren bei der Bestimmung kostenoptimaler Bestellzyklen in der Sustainable Supply Chain</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wicht, Jürgen</displayForm>
+                        <namePart type="family">Wicht</namePart>
+                        <namePart type="given">Jürgen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Simulations can be an appropriate tool in the determination of cost-optimal ordering and delivery requirements considering medium and long-term manipulable constraints. Against the background of sustainable supply chain management increasingly relevant environmental factors can be taken into account within such simulations by determining process-related CO2-costs and including these costs into the validation of individual simulation results. This is demonstrated by using the replenishment process between the distribution center and a store of an international drug store chain. Based on actual sales data, logistical product data and given restrictions on date and frequency of possible orders and deliveries different order cycles are simulated, subsequently evaluated and analyzed in terms of costs.</abstract>
+                    <abstract type="content" lang="ger">JEL classification: C6, L1, L8 
+
+Dateigröße 1,35 MB</abstract>
+                    <subject>
+                        <topic>Carbon Footprint</topic>
+                        <topic>Logistics Costs</topic>
+                        <topic>Order Cycle</topic>
+                        <topic>Replenishment</topic>
+                        <topic>Simulation</topic>
+                        <topic>Sustainable Supply Chain Management</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20120911-144723-4</identifier>
+                    <identifier type="sys">HT017389464</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3014</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3014">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp12/sdp12008.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3014"
+            DMDID="DMD_wuppertal_elpub_3014">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3014"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

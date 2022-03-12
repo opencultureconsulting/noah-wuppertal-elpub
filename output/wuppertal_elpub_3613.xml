@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3613">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Price Convergence in Euroland</title>
+                        <subTitle>Evidence from micro data without noise</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Meyer, Sophie-Charlotte␞Schettkat, Ronald</displayForm>
+                        <namePart type="family">Meyer</namePart>
+                        <namePart type="given">Sophie-Charlotte␞Schettkat</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Analyzing prices of truly homogenous consumer goods sold in Euroland, we find significant price convergence after the Euro cash changeover in 2002. The deviation of national log prices from the mean log price of the same product is much narrower with the Euro than before. We observe Sigma and Beta convergence, i.e. prices do not differ systematically between countries. Our result is in contrast to some other findings stating divergence rather than convergence but which do not control perfectly for heterogeneity of products. Because of information and transportation costs arbitrage is unlikely to occur in consumer items and reasons for convergence must therefore be sought in competition and advantages on the supplier’s side. If suppliers would minimize menu costs, price for the same item should be identical, which we do not observe.</abstract>
+                    <abstract type="content" lang="ger">JEL classification: D4, E31, F36 
+
+Dateigröße: 815 KB</abstract>
+                    <subject>
+                        <topic>convergence</topic>
+                        <topic>price setting</topic>
+                        <topic>law of one price</topic>
+                        <topic>Euro</topic>
+                        <topic>homogenous products</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20130712-114153-9</identifier>
+                    <identifier type="sys">HT017705544</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3613</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3613">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp13/sdp13005.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3613"
+            DMDID="DMD_wuppertal_elpub_3613">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3613"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14134">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Windelband an Karl Dilthey, Freiburg i. Br., 27.9.1882, 1 S., hs. (dt. Schrift), Postkarte an Herrn Prof. Dr. K. Dilthey | 16/10 nachges[endet] Florenz Borgo S. S. Apostoli (Casa Nardini[)] [gestr.:] Göttingen | event[uell] nachzuschicken!!, mit Poststempel FREIBURG: BADEN 2. | 29 9 | 82 | 6–7 N, Niedersächsische Staats- und UB Göttingen, Dilth. 141</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Windelband an Karl Dilthey, Freiburg i. Br., 27.9.1882, 1 S., hs. (dt. Schrift), Postkarte an Herrn Prof. Dr. K. Dilthey | 16/10 nachges[endet] Florenz Borgo S. S. Apostoli (Casa Nardini[)] [gestr.:] Göttingen | event[uell] nachzuschicken!!, mit Poststempel FREIBURG: BADEN 2. | 29 9 | 82 | 6–7 N, Niedersächsische Staats- und UB Göttingen, Dilth. 141 Freiburg i B 27 IX 82 Zu vermelden, daß wir den Wanderstecken ergreifen und vom 2 Oct[ober] an Strassburg i/Els Möllerstrasse 4[1] zu finden sind, wo ein Fremdenstüblein Deiner harrt! Die Götter mit Dir auf der Römerfahrt! Meine Frau grüßt! In Treue Dein W. Anmerkungen der Herausgeber 1↑Möllerstrasse 4 ] vgl. Windelband an Karl Dilthey vom 17.8.1882</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000134-1</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14134</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14134">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13134/edWW2020-13134.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14134"
+            DMDID="DMD_wuppertal_elpub_14134">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14134"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

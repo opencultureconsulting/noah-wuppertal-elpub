@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_15502">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>On Postcolonial Narratology and Reading Postcolonial Literature Narratologically</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Heinen, Sandra</displayForm>
+                        <namePart type="family">Heinen</namePart>
+                        <namePart type="given">Sandra</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-15</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The article discusses this special issue’s leading question ‘Why narratology?’ with regard to a specific group of texts, for which a separate version of narratological inquiry has been proposed as part of the diversification of narratologies: postcolonial literature. Previous outlines of a postcolonial narratology are reviewed and the fate of the project of postcolonial narratology is assessed, before an alternative take on reading postcolonial literatures narratologically is suggested. 
+DIEGESIS. Interdisziplinäres E-Journal für Erzählforschung / Interdisciplinary E-Journal for Narrative Research. ISSN 2195-2116. https://www.diegesis.uni-wuppertal.de Jg. 10 (2021) H. 1, S. 19-30.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 10 (2021) H. 1"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20211207-095403-3</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_15502</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_15502">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-14588/dej21100102.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_15502"
+            DMDID="DMD_wuppertal_elpub_15502">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_15502"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

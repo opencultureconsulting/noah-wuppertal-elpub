@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_15501">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Sinaloa in der ZEIT. Computergestützte Analyse von Ereignishaftigkeit und Erzählwürdigkeit in einem Korpus journalistischer Erzählungen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Chihaia, Matei</displayForm>
+                        <namePart type="family">Chihaia</namePart>
+                        <namePart type="given">Matei</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-15</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Annotation in CATMA helps measure the eventfulness and tellability of narrative within a given corpus. To analyze the narrations that mention the name of Sinaloa, Mexico, across 25 years’ issues of a German newspaper, DIE ZEIT, I follow the annotation protocol established by Vauth et al. (2021). The protocol yields a numeric index of eventfulness that can be used for the comparison of narrative texts within the corpus. The distribution of event types throughout the texts can also be used in order to represent styles of narration as a graph. In addition to this, plot tellability qua literariness can be quantified through the kind and distribution of transtextual and plot-relevant metapoetic cues. This twofold model of assessing eventfulness and tellability may seem simplistic in comparison to state of the art artificial intelligence research on event narration and plot understanding; however, this is offset by the promising advantages of integrating hermeneutic annotation – as an adequate implementation of human reading habits – with linguistic categories that can be used in machine learning models. 
+DIEGESIS. Interdisziplinäres E-Journal für Erzählforschung / Interdisciplinary E-Journal for Narrative Research. ISSN 2195-2116. https://www.diegesis.uni-wuppertal.de Jg. 10 (2021) H. 1, S. 1-18.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 10 (2021) H. 1"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20211207-094814-1</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_15501</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_15501">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-14587/dej21100101.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_15501"
+            DMDID="DMD_wuppertal_elpub_15501">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_15501"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

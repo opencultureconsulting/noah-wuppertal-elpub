@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_15503">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>At the Intersection of Gender Studies and Narratology. Contemporary Irish Women Writing Men</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Rennhak, Katharina</displayForm>
+                        <namePart type="family">Rennhak</namePart>
+                        <namePart type="given">Katharina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-15</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The chapter reacts to this special issue’s leading question “Why narratology?” by reflecting on a narrative phenomenon that has been neglected by literary and cul¬tural criticism: that of ‘women writing men.’ A number of reasons for the seeming reluctance to approach this question, which suggests itself as a fruitful object of study for both narratologists and gender-oriented literary critics, are discussed. Arguing for an integration of narratological and gender-oriented approaches in the context of the ‘new formalist’ turn, the chapter charts narrative constructions of masculinity in recent novels by Irish women writers. This corpus is approached through a discourse- (rather than story-) oriented lens. Using the two currently dominant ways of ‘perspectivising’ fictional worlds, the chapter first concentrates on women writers’ novels that feature male first-person narrators and in doing so deconstruct and reconstruct prevalent masculinities (Sara Baume’s Spill Simmer Falter Wither, Claire Kilroy’s The Devil I Know, and Caoilinn Hughes’ The Wild Laughter). It then goes on to analyse heterodiegetic novels that integrate male and female perspectives via multiple focalisation and mark their male protagonists’ views, emotions, and actions as decisive for any renegotiation of the concept of the Irish family (Anne Enright’s The Green Road, Helen Cullen’s The Dazzling Truth, and Ruth Gilligan’s The Butchers). 
+ DIEGESIS. Interdisziplinäres E-Journal für Erzählforschung / Interdisciplinary E-Journal for Narrative Research. ISSN 2195-2116. https://www.diegesis.uni-wuppertal.de Jg. 10 (2021) H. 1, S. 31-48.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 10 (2021) H. 1"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20211207-095815-2</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_15503</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_15503">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-14589/dej21100103.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_15503"
+            DMDID="DMD_wuppertal_elpub_15503">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_15503"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

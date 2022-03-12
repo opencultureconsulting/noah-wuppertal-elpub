@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_2524">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Energy and Material Efficiency Innovations: The Relevance of Innovation Strategies</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bönte, Werner␞Dienes, Christian</displayForm>
+                        <namePart type="family">Bönte</namePart>
+                        <namePart type="given">Werner␞Dienes</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This study explores the relationship between energy and material efficiency innovations (EMEIs) and innovation strategies employed by manufacturing firms to develop their process innovations. Firms may mainly develop process innovations in-house, let them mainly develop by other enterprises or institutions, or they or they may develop them jointly with external partners. The empirical analysis is based on data of European manufacturing firms obtained from the fourth Community Innovation Survey. Our results suggest that EMEIs are related to process innovation strategies. Firms which let mainly develop their process innovations by other enterprises or institutions tend to be less likely to introduce EMEIs at all and these firms are also less likely to introduce EMEIs with stronger efficiency effects. Moreover, our results do not suggest that firms following the &apos;cooperation strategy&apos; are more likely to introduce EMEIs and to reach a higher EMEI performance than firms following the &apos;in-house strategy&apos;. Hence, our results do not confirm the results of previous research pointing to a positive relationship between environmental innovations and cooperation with external partners.</abstract>
+                    <abstract type="content" lang="ger">JEL-Classification: D22, O32, O33, Q55 
+
+Dateigröße: 680 KB</abstract>
+                    <subject>
+                        <topic>energy and material efficiency</topic>
+                        <topic>process innovations</topic>
+                        <topic>innovation strategy</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20120116-102527-8</identifier>
+                    <identifier type="sys">HT017140893</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_2524</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_2524">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp12/sdp12001.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_2524"
+            DMDID="DMD_wuppertal_elpub_2524">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_2524"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_8311">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Patricia Lay-Dorsey’s Visual Narrative of Chaos and Quest</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Soares, Marta</displayForm>
+                        <namePart type="family">Soares</namePart>
+                        <namePart type="given">Marta</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-06-05</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Published in 2013, Falling into Place: Self-Portraits documents Patricia Lay-Dorsey’s daily journey of living with Multiple Sclerosis. Twenty years after her diagnosis, this American artist decided to take photos of herself so as to come to terms with her aging and disabled body, weaving a visual narrative that is both intimate and powerful. In this article, I look at Lay-Dorsey’s visual pathography in light of Arthur W. Frank’s narrative types of chaos and quest, exploring how her work combines traits of both categories as a way to eschew common (mis)representations of disabled people as “pitiable” and “inspiring.” On the one hand, the narrative outlined by Falling into Place is chaotic, giving an account of one’s lack of control in the face of a disease such as MS. Though Lay-Dorsey finds it uncomfortable to share these private moments of vulnerability, she takes her illness as a journey where chaos “falls into place,” a quest that allows the photographer/subject to accept and celebrate her body and where a disabling illness is taken as a possibility of growth.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 7 (2018) H. 1"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20180522-161224-0</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_8311</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_8311">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-7737/dej18070102.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_8311"
+            DMDID="DMD_wuppertal_elpub_8311">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_8311"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

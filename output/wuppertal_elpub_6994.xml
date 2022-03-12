@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6994">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Erfahrungswissen</title>
+                        <subTitle>Überlegungen zu einer narrativen Form von Wissen in Prosaerzählsammlungen der Frühen Neuzeit</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Struwe-Rohr, Carolin</displayForm>
+                        <namePart type="family">Struwe-Rohr</namePart>
+                        <namePart type="given">Carolin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Literary short texts of the Early Modern Period, like fables, tales and Merry tales, are meant to be simple forms of teaching, divided as they often are into two parts: narratio and moralisatio. The moralisatio as a form of propositionally structured knowledge has thereby been seen as the essential part which provides exemplary lessons to the reader. The narratio on the other hand, has been perceived to have merely an illustrative function subordinated to this didactic intention, or works as a form of entertainment. In contrast to this prevailing opinion, and following up on sociological studies on experience, this article argues that narration itself can be described as a form of knowledge of experiences. This form of knowledge focuses on concrete situations, subjectivity, temporal sequences and the inconclusiveness of findings, and can therefore also point out possibilities and limits of the propositional form of knowledge. These systematic considerations will be illustrated with reference to a so-called ‘Prosaerzählsammlung’ of the 16th century, the Wegkürzer (1557) by Martin Montanus.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 6 (2017) H. 1"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170606-142416-2</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6994</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6994">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-6778/dej17060105.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6994"
+            DMDID="DMD_wuppertal_elpub_6994">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6994"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

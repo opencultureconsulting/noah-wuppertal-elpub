@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5846">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Empirical Correlates of Narrative Closure</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Klauk, Tobias␞Köppe, Tilmann␞Weskott, Thomas</displayForm>
+                        <namePart type="family">Klauk</namePart>
+                        <namePart type="given">Tobias␞Köppe</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This paper presents an experimental investigation of the narratological concept of narrative closure. While narrative closure is a well-studied phenomenon in con-temporary narratology, it still lacks a serious empirical foundation. In order to fill that lacuna, we performed a controlled rating experiment aimed at validating some of the properties of narrative closure proposed in the narratological literature. Our results suggest that narrative closure is closely related to two connected properties: to the completeness of the text and to questions left open by the text.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 5 (2016) H. 1"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20160607-152704-7</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5846</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5846">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-5623/dej16050103.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5846"
+            DMDID="DMD_wuppertal_elpub_5846">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5846"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

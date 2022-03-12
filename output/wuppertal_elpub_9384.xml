@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9384">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Telling It Authentically. Documents in Graphic Illness Memoirs</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Pedri, Nancy</displayForm>
+                        <namePart type="family">Pedri</namePart>
+                        <namePart type="given">Nancy</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-06-12</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This article examines the narrative function of documents in graphic illness memoirs and asks how they can be used to secure an authenticity effect. Drawing examples from several graphic illness memoirs that openly challenge notions of documentary as firmly grounded in referential reality and the transparent objectivity of documentary evidence, it sheds light on the important function of an emotionally engaged subjective mind for achieving the type of emotional honesty that characterizes the form. Ultimately, it argues that readers reach an impression of authenticity through the dynamic interplay between documentary evidence and subjective strategies that pressure the truth value of that documentary evidence. In this way, authenticity and correlated notions of truth are situated between text and extradiegetic reality.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 8 (2019) H. 1"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20190603-162013-3</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9384</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9384">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-8813/dej19080104.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9384"
+            DMDID="DMD_wuppertal_elpub_9384">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9384"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

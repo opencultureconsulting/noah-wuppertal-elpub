@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_8830">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Animal Spirits: Die Verhaltensökonomischen Grundlagen der Keynesschen Theorie</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schettkat, Ronald</displayForm>
+                        <namePart type="family">Schettkat</namePart>
+                        <namePart type="given">Ronald</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-10-12</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Keynes‘ General Theory (GT) ist in zweierlei Hinsicht umfassender als das (neo-) klassische Modell: (1) sie schließt das Vollbeschäftigungsgleichgewicht als Sonderfall ein und (2) sie basiert auf realistischem mikroökonomischem Verhalten, dessen sozial isolierter, den Eigennutz maximierender homo oeconomicus der neoklassischen Ökonomie allenfalls ein ganz spezieller Fall ist. Keynes‘ Mikro basiert auf verhaltensökonomischen Grundlagen, die durch die Neurowissenschaften und die Experimente der Behavioral Economics eindrucksvoll bestätigt werden.
+ 
+Dateigröße: 597 KB 
+JEL classification: A1, A13, B21, B22, B31, D01, D81, D84, D9, E12, E14, E7</abstract>
+                    <abstract type="content" lang="eng">Keynes’s General Theory (GT) is more comprehensive than the (neo-) classical model: (1) is comprises the full-employment equilibrium as a special case and (2) it is based on realistic microeconomic behavior of which the selfish, utility maximizing homo oeconomicus is at best a very special case. Keynes’s microeconomic is based on behavioral foundations, which are verified by the neurosciences and the experiments of Behavioral Economics. 
+Dateigröße: 597 KB 
+JEL classification: A1, A13, B21, B22, B31, D01, D81, D84, D9, E12, E14, E7</abstract>
+                    <subject>
+                        <topic>Keynes’ economics</topic>
+                        <topic>behavioral economics</topic>
+                        <topic>microeconomics</topic>
+                        <topic>macroeconomics</topic>
+                        <topic>knowledge</topic>
+                        <topic>information</topic>
+                        <topic>uncertainty</topic>
+                        <topic>animal spirits</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20181015-101357-9</identifier>
+                    <identifier type="sys">HT019838059</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_8830</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_8830">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp18/sdp18008.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_8830"
+            DMDID="DMD_wuppertal_elpub_8830">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_8830"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

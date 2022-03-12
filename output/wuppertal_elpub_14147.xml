@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14147">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Windelband an Gustav Glogau, Straßburg, 22.7.1883, 3 S., hs. (dt. Schrift), UB Kiel, NL Glogau, Fasz. 28</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Windelband an Gustav Glogau, Straßburg, 22.7.1883, 3 S., hs. (dt. Schrift), UB Kiel, NL Glogau, Fasz. 28 Strassburg iE. 22 Juli 1883 Verehrtester Herr College, In der Hoffnung, daß Sie Sich in Ihrem neuen Wirkungskreise recht gut eingelebt und dort Ihre Wünsche erfüllt gefunden haben, erlaube ich mir mit einer Anfrage auf Besprechungen zurückzukommen, welche wir bei unserm letzten Zusammensein in Freiburg nur kurz berührten. Der Plan des Verlegers[1], von dem ich Ihnen damals sprach, ein corpus historicum philosophicum[a] in Einzeldarstellungen, die zusammen etwa 16 Bände[b] bilden sollen, herauszugeben, nimmt feste Gestalt an. Damals schienen Sie nicht abgeneigt, die nachkantische Philos[ophie] in Deutschland | dabei zu behandeln. Es würde aber dieser Theil nach Kant mit dessen Schule beginnen und etwa bis die 50. Jahre unseres Säculums bis zu den Schulstreitigkeiten und dem Materialismuskampfe reichen. Dafür stünden 2 Bände[c], die stark sein dürften, zur Verfügung. Das Manuscript müßte in etwa 4 Jahren zum Druck gelangen können, wäre aber vorher jederzeit sehr erwünscht. Dieser Theil des Ganzen, würde, wie alle andern, auch selbständig verkäuflich sein. Bevor der Verleger das definitive Circular ergehen läßt, wünsche ich über die Uebernahme der Hauptttheile sicher zu sein, und erlaube mir deshalb, bei Ihnen, verehrtester Herr College, anzufragen, ob Sie zur Bearbeitung des oben bezeichneten Theils (Deutsche Philos[ophie] des 19. Jahrh[underts]) geneigt sein würden. Es wäre | mir eine sehr große Freude, wenn ich auf Sie für einen so wichtigen Abschnitt zählen dürfte. Mit hochachtungsvollem Gruß Ihr ganz ergebner Windelband Anmerkungen zum Textbefund a↑corpus historicum philosophicum ] in lat. Schrift b↑Bände ] Bde c↑Bände ] Bde Anmerkungen der Herausgeber 1↑Plan des Verlegers ] Paul Siebeck in Tübingen, vgl. Windelband an Siebeck vom 7.3.1881</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000147-5</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14147</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14147">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13147/edWW2020-13147.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14147"
+            DMDID="DMD_wuppertal_elpub_14147">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14147"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

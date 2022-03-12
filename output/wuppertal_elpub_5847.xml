@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5847">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Narrative Rezeptionsangebote - Markus Engelns’ Spielen und Erzählen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Baumgartner, Robert</displayForm>
+                        <namePart type="family">Baumgartner</namePart>
+                        <namePart type="given">Robert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Markus Engelns: Spielen und Erzählen. Computerspiele und die Ebenen ihrer Realisie¬rungen. Heidelberg: Synchron 2014 (= DISKURSIVITÄTEN. Literatur. Kultur. Medien, Bd. 19). 412 S. EUR (D) 39,80. ISBN 978-3-939381-73-0</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 5 (2016) H. 1"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20160607-152924-4</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5847</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5847">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-5629/dej16050109.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5847"
+            DMDID="DMD_wuppertal_elpub_5847">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5847"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

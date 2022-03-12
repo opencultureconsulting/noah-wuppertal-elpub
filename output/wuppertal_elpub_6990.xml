@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6990">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>‚Entdeckungsgeschichten‘ der Quantenphysik</title>
+                        <subTitle>Zur narratologischen Erforschung einer naturwissenschaftlichen Erzählform</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gencarelli, Angela</displayForm>
+                        <namePart type="family">Gencarelli</namePart>
+                        <namePart type="given">Angela</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Scholars examining the significance of narration in the natural sciences currently face a striking research discrepancy: On the one hand, there is broad agreement that narrating plays a crucial role in the representation, popularization and even in the production of scientific knowledge. On the other hand, only a few case studies to date have discussed the specific narrative techniques employed in discourses or genres of the natural sciences and their function. Hence, this article aims to draw attention to the particular features of a distinctive narrative form produced by quantum physicists in the first half of the 20th century: the ‘narrative of discovery’. Pioneering physicists such as Max Planck or Werner Heisenberg unfold the complicated paths to their respective major discoveries much as a gripping story, which follows numerous blind alleys and failures in extensive scientific-technical detail. The high degree of both narrativity and ‘scientificality’ apparent in these narratives of discovery indicates, as the article argues, that the physicists strove to construct the genesis of their groundbreaking discoveries in a narrative way in order to achieve a deeper understanding of the discovery itself.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 6 (2017) H. 1"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170606-140133-9</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6990</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6990">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-6774/dej17060101.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6990"
+            DMDID="DMD_wuppertal_elpub_6990">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6990"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

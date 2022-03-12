@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14042">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Windelband: Nachtrag zum Gutachten über den Kuno-Fischer-Preis, Heidelberg, 12.7.1914, 1 S., hs. (lat. Schrift). Davon insgesamt drei Abschriften als Ts.-Durchschläge mit vereinzelten hs. Korrekturen von anderer Hand (zwei verschiedene Schreiber; UA Heidelberg, RA 5214 (2 Exemplare) sowie in H-IV-102/140 Bl. 403 (ein Exemplar)), UA Heidelberg, H-IV-102/140, Bl. 205</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Windelband: Nachtrag zum Gutachten über den Kuno-Fischer-Preis, Heidelberg, 12.7.1914, 1 S., hs. (lat. Schrift). Davon insgesamt drei Abschriften als Ts.-Durchschläge mit vereinzelten hs. Korrekturen von anderer Hand (zwei verschiedene Schreiber; UA Heidelberg, RA 5214 (2 Exemplare) sowie in H-IV-102/140 Bl. 403 (ein Exemplar)), UA Heidelberg, H-IV-102/140, Bl. 205 Nachtrag zu dem Gutachten über den Kuno-Fischer-Preis[a] Zu meinem Bedauern habe ich in meinem Gutachten vom 9. des Monats[b] die Besprechung eines Werks ausgelassen, das ich sehr ernsthaft in Betracht gezogen habe: es ist die beste der philosophiegeschichtlichen Monographien des letzten Lustrums, Heinrich Maierʼs[c] Sokrates (1914), – ein sehr gutes Buch von ausgebreiteter Gelehrsamkeit und sehr ansprechender, vielleicht etwas gar zu breiter Darstellung. Bei der sonst sehr umsichtigen Durcharbeitung der Quellen und der von ihnen abhängigen Sokrates-Bilder hat jedoch der Verfasser mit m. E. durchaus nicht zwingenden Gründen die Berichte des Aristoteles über Sokrates vollständig abgelehnt und auszuschalten gesucht: dadurch sind gerade die Züge, welche die Stellung des Sokrates in der Geschichte der Wissenschaft und des wissenschaftlichen Denkens charakterisieren, verwischt und verblasst, und was dann von dem „Evangelium“ des Sokrates in der liebevoll ausgeführten Darstellung Maiers übrig bleibt, ist nicht neu genug, um dem Werke den Wert einer vollkommen neuen Auffassung ihres vielumstrittenen Gegenstandes zu gewährleisten. Deshalb habe ich bei aller Anerkennung auch von diesem Buche Abstand genommen. Mein Antrag wird zwar durch diesen Nachtrag nicht verändert: aber es liegt mir daran, auch diesen negativen Beitrag zu seiner Begründung den Akten beizufügen. Heidelberg, den 12t Juli 1914 W Windelband Anmerkungen zum Textbefund a↑Kuno-Fischer-Preis ] unterstrichen b↑des Monats ] ds. Mts. c↑Heinrich Maierʼs ] unterstrichen</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000042-9</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14042</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14042">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13042/edWW2020-13042.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14042"
+            DMDID="DMD_wuppertal_elpub_14042">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14042"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14098">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Windelband an Carl Heyder, Freiburg i. Br., 15.5.1878, 2 S., hs. (dt. Schrift), UB Erlangen-Nürnberg; Autographenslg., Nachlass Hans Preuß Ms. 2666, A3</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Windelband an Carl Heyder, Freiburg i. Br., 15.5.1878, 2 S., hs. (dt. Schrift), UB Erlangen-Nürnberg; Autographenslg., Nachlass Hans Preuß Ms. 2666, A3 Freiburg i B. 15[a] Mai 1878 Hochzuverehrender Herr College, Zunächst erbitte ich Ihre gütige Verzeihung für die lange Verzögerung, welche der Ausdruck meines Dankes für Ihr liebenswürdiges, nun schon einen Monat altes Schreiben erfahren hat: ich hoffte immer mit demselben die weitere Stellung derjenigen Fragen verbinden zu dürfen, welche ich Ihrem Wunsche gemäß gern auf das vorgerücktere Stadium der zu erwartenden Verhandlungen[1] verschiebe. Sie haben in diese Angelegenheit mir schon so gütig und reichlich Ihre freundliche Mühwaltung zugewendet, daß ich Ihnen großen Dank schulde. Und so drängt es mich jetzt, denselben auszusprechen, da der Fortgang der Sache doch nicht so rasch von Statten zu gehen scheint, wie es vorauszusetzen schien. Der Nachrichten, welche mir Ihr damaliger Brief brachte, haben mich sehr gefreut, da namentlich auch die Darstellung der Pensionsverhältnisse so günstig ist, daß sie, meine Erwartungen gewissermaßen übersteigend, | seiner Zeit bei meiner Entscheidung gewiß in’s Gewicht fallen wird. Also nochmals meinen besten Dank. Weitere Nachrichten über die Angelegenheit sind mir bisher nicht zugegangen, und so scheint es, daß dieselbe an höherer Stelle noch nicht zur Entscheidung gelangt ist. Inzwischen hat hier das Semester unter recht günstigen Auspicien und unter einer stattlichen Frequenzvermehrung seinen Anfang genommen: lassen Sie mich, in der Ungewißheit halb schon in meinen Neigungen getheilt, für Erlangen das Gleiche wünschen! Mit aufrichtigem Danke und in vorzüglicher Hochschätzung Ihr ganz ergebner W Windelband Anmerkungen zum Textbefund a↑15 ] korrigiert aus 14 Anmerkungen der Herausgeber 1↑Verhandlungen ] über die Berufung nach Erlangen, vgl. Windelband an Heyder vom 28.3.1878.</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000098-8</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14098</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14098">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13098/edWW2020-13098.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14098"
+            DMDID="DMD_wuppertal_elpub_14098">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14098"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

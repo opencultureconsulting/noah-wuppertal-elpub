@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6350">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Strategisches Erzählen und Strategiewechsel im Umfeld neutestamentlicher Erzähltexte - Das lukanische Gleichnis vom barmherzigen Samariter als Anschauungsbeispiel</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Rüggemeier, Jan</displayForm>
+                        <namePart type="family">Rüggemeier</namePart>
+                        <namePart type="given">Jan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Modern biblical scholarship (of the post war era) has shown that the narrative traditions that underlie the canonical gospels are very adaptive as they have been tailored to suit different communicative situations. In this context Luke’s Merci¬ful Samaritan represents an interesting object of study. Luke has clearly revised and strategically reworked the parable by inserting it into a narrative frame that features a dialogue between Jesus and a Jewish teacher of the law. While the parable (inserted narrative) questions Jewish resentments and prejudices against the Samaritans via confronting the Jewish scholar with the exemplary behaviour of the foreigner, the frame narrative serves to warn Christian recipients against too hastily looking down on Jewish authorities. This corresponds to Luke’s oeu¬vre as a whole (gospel and book of acts) which is characterized by a remarkably nuanced and realistic representation of the Jewish authorities of his time.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 5 (2016) H. 2"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20161122-084213-8</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6350</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6350">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-6144/dej16050204.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6350"
+            DMDID="DMD_wuppertal_elpub_6350">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6350"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

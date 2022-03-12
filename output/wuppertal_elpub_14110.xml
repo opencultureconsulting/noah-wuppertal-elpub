@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14110">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Windelband an Ludwig Thomas, o. O. (Freiburg im Breisgau), o. D. (6.4.1879), 1 S., hs. (dt. Schrift), Württembergische Landesbibliothek Stuttgart, Autographensammlung Dr. Robert Amann, Cod. theol. et phil. qt. 631.81</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Windelband an Ludwig Thomas, o. O. (Freiburg im Breisgau), o. D. (6.4.1879), 1 S., hs. (dt. Schrift), Württembergische Landesbibliothek Stuttgart, Autographensammlung Dr. Robert Amann, Cod. theol. et phil. qt. 631.81 Lieber Thomas; Ob ich mich heute zu einem Marsche entschließen darf, ist höchst problematisch, da mich gestern ein neu hergerichteter Stiefel scheußlich gedrückt und mir am Fuße noch heut früh Schmerzen hinterlassen hat. Jedenfalls aber bleibe ich Versammlungspunct für die Gersthalm[1]-Karawane. Weiterhin läßt meine Frau anfragen, ob es Ihnen recht ist, morgen mit uns den Sonntagsbraten zu essen, der wegen unserer heutigen Parthie verschoben worden ist. Mit bestem Gruße Ihr Wd.[a] Anmerkungen zum Textbefund a↑Wd. ] darunter Vermerk mit Bleistift von anderer Hand: 6 April 79. Windelband Der 6.4.1879 war ein Sonntag. Anmerkungen der Herausgeber 1↑Gersthalm ] Gerstenhalm: Erhebung bei St. Ulrich im Schwarzwald (732 m), ca. 20 km südlich von Freiburg im Breisgaul</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000110-4</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14110</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14110">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13110/edWW2020-13110.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14110"
+            DMDID="DMD_wuppertal_elpub_14110">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14110"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

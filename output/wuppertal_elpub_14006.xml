@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14006">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Abgangszeugnis der Universität Göttingen, Göttingen, 5.4.1870, 1 S., hs. ausgefüllter und veränderter Vordruck (2 verschiedene Schreiber), UA Göttingen, Abgangszeugnisse 1870, Nr. 128</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Abgangszeugnis der Universität Göttingen, Göttingen, 5.4.1870, 1 S., hs. ausgefüllter und veränderter Vordruck (2 verschiedene Schreiber), UA Göttingen[1], Abgangszeugnisse 1870, Nr. 128 Wir Prorector und Senat der Königlich Hannoverschen Georg-Augusts-Universität bezeugen hiermit, daß der Studirende Dr. phil.s Wilhelm Windelband [au]s Potsdam[a] auf den Grund eines Zeugnisses der Universität Heidelberg[b] am 21ten October[c] 1869 als der Philosophie[d] beflissener unter die Zahl der Studirenden aufgenommen ist, und sich bis [2]zum Schluß der Wintervorlesungen[e] 1869/70 Studirens halber hier aufgehalten hat. Während seines Hierseins hat derselbe, den beigebrachten Zeugnissen zu Folge, n. V.[f] Psychologie bei H[of]R[at] Lotze Physik Th[eil] II bei Geheimen[g] R[at] Weber, physikalische Uebungen bei Prof. Kohlrausch besucht.[h] | Auch hat er belegt, jedoch über den Besuch theils wegen Abwesenheit, theils wegen Absterbens der Lehrer kein Zeugniß beibringen können.[i] Hinsichtlich seines Betragens wird bemerkt, daß überall keine Beschwerde gegen ihn vorgekommen ist. Gegeben unter meiner, des jetzigen Prorectors, Unterschrift und unter Beidruckung des Universitäts-Siegels. Göttingen, den 5ten April[j] 1870.[k] Anmerkungen zum Textbefund a↑Dr. … Potsdam ]  hs. von Schreiber 1 b↑Universität Heidelberg ] hs. von Schreiber 2 statt im Druck gestr.: Reife c↑October ] hs. von Schreiber 1 d↑Philosophie ] hs. von Schreiber 1 e↑zum Schluß der Wintervorlesungen ] hs. von Schreiber 1 statt im Druck gestr.: jetzt f↑n. V. ] danach im Druck gestr.: b. g↑Geheimen ] Gh h↑Psychologie … besucht ]  hs. von Schreiber 1 i↑Auch … können. ]  dieser Passus des Zeugnisvordrucks ist im Original gestrichen. j↑April ] hs. von Schreiber 1 k↑70. ] hs.; darunter unleserliche Namenskürzel. Anmerkungen der Herausgeber 1↑UA Göttingen ] mit Dank an Angelika Handschuck, UA Göttingen 2↑October ] vgl. den wahrscheinlich irrtümlichen Eintrag über ein Zeugnis der Universität Heidelberg für Windelband in der Göttinger Matrikel vom 21.10.1869. Windelbands Studienorte waren Jena und Berlin, ein Studienaufenthalt in Heidelberg ist nicht nachgewiesen.</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000006-9</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14006</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14006">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13006/edWW2020-13006.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14006"
+            DMDID="DMD_wuppertal_elpub_14006">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14006"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

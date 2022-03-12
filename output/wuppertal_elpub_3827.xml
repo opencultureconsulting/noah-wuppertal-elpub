@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3827">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Consistently wrong: Neoclassical micro-foundations and the macroeconomic policy ineffectiveness hypothesis</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jovicic, Sonja␞Schettkat, Ronald</displayForm>
+                        <namePart type="family">Jovicic</namePart>
+                        <namePart type="given">Sonja␞Schettkat</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The rational expectations hypothesis (REH) is based on two assumptions. The first is that, economic agents learn through experience how to avoid systematic errors. The second is that these errors are identified with reference to a model. Imperfect information may lead economic agents to misperceive changes in nominal economic variables as real but they learn from their mistake, change their behavior and will not make the same mistake again. Therefore, relations estimated from historical data may not hold after economic agents learned about the effects of, say, expansionary macroeconomic policies (the Lucas critique). Repeating the policy will affect nominal variables (prices) but not the real economy (policy ineffectiveness hypothesis). Policy ineffectiveness is derived from models based on neoclassical micro-foundations, claimed to be the basis for rigorous science. In this paper we investigate the learning process rigorously. When pulled into employment by misperceived expansionary macroeconomic policy, what do workers actually learn? Do they actually experience the long-run solution of the neoclassical model? After the introduction we discuss learning in the context of rational expectations. We then analyze the workers’ experience and the learning process, strictly applying neoclassical micro-foundations. We focus on two inconsistencies. First, unless unearned income is indexed, inflation will unambiguously cause labor supply to expand. Second, employers will respond to the macroeconomic impulse –misperceived or not-- with capacity expansion rather than pure price reactions. We conclude that the predictions of the REH do not hold if neoclassical micro foundations are rigorously applied.</abstract>
+                    <abstract type="content" lang="ger">Dateigröße: 660 KB</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics » Schumpeter Discussion Papers (SDP)"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20131223-105944-9</identifier>
+                    <identifier type="sys">HT018116974</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3827</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3827">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp13/sdp13010.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3827"
+            DMDID="DMD_wuppertal_elpub_3827">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3827"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

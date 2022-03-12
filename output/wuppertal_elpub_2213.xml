@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_2213">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Gender Differences in Competitiveness, Risk Tolerance, and other Personality Traits</title>
+                        <subTitle>Do they contribute to the Gender Gap in Entrepreneurship?</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bönte, Werner␞Jarosch, Monika</displayForm>
+                        <namePart type="family">Bönte</namePart>
+                        <namePart type="given">Werner␞Jarosch</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In this study we empirically investigate the contribution of personality traits to the gender gap in entrepreneurship. Our empirical analyses, which are based on data obtained from a large scale survey of individuals in 36 countries, suggest that a group of personality traits which we call Individual Entrepreneurial Aptitude (IEA) has a positive effect on latent and nascent entrepreneurship among women and men. Moreover, women’s considerably lower level of IEA contributes significantly to the gender gap in entrepreneurship. The lower level of IEA is mainly due to women’s lower levels of competitiveness and risk tolerance. Furthermore, these results are confirmed by the results of a country-level analysis which show that the within-country variation of entrepreneurial activities of women and men is significantly related to within-country variation of IEA.</abstract>
+                    <abstract type="content" lang="ger">JEL-Classification: J16, L26, D03 
+
+Dateigröße: 796 KB</abstract>
+                    <subject>
+                        <topic>entrepreneurship</topic>
+                        <topic>gender gap</topic>
+                        <topic>personality traits</topic>
+                        <topic>competitiveness</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20110728-152124-2</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_2213</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_2213">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp11/sdp11012.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_2213"
+            DMDID="DMD_wuppertal_elpub_2213">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_2213"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

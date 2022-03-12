@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_11920">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>German Teachers Learning about the Shoah in Israel - An Ethnography of Emotional Heritage and Contemporary Encounters</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lorenz, Friederike␞Levenson, Lance␞Resnik, Julia␞Kessl, Fabian</displayForm>
+                        <namePart type="family">Lorenz</namePart>
+                        <namePart type="given">Friederike␞Levenson</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This report is based upon research funded by the German-Israeli Foundation for Scientific Research and Development (GIF).</abstract>
+                    <classification authority="ddc">370</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Human- und Sozialwissenschaften » Erziehungswissenschaften » Veröffentlichungen"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20210615-115814-1</identifier>
+                    <identifier type="doi">10.25926/37he-aq36</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_11920</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_11920">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-11228/gtlatsii.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_11920"
+            DMDID="DMD_wuppertal_elpub_11920">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_11920"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

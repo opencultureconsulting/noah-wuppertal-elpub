@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14050">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Windelband an Gustav Freytag, Leipzig, 12.7.1872, 2 S., hs. (dt. Schrift), Staatsbibliothek zu Berlin, Haus Potsdamer Straße, Nachlass Freytag acc. Darmst. 1920.332</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Windelband an Gustav Freytag, Leipzig, 12.7.1872, 2 S., hs. (dt. Schrift), Staatsbibliothek zu Berlin, Haus Potsdamer Straße, Nachlass Freytag acc. Darmst. 1920.332 Leipzig, 12. Juli 1872 Hochverehrter Herr Hofrath! Wem es vergönnt worden ist, sich zu der Zahl derjenigen zu rechnen, denen die Verehrung des Dichters durch die Kenntniß der Persönlichkeit[1] gesteigert wird, der fühlt ein inniges Bedürfniß, wenigstens für einen Moment Ihre Aufmerksamkeit an dem Tage[2] auf sich zu lenken, an welchem wir uns unsern Empfindungen für das Wohl des Anders lebhafter bewußt zu werden und ihnen gern den vollen Ausdruck zu geben pflegen. Aber je lebhafter diese Empfindungen sind, – wie sollen Sie den Ausdruck eines Glückwunsches dem Manne gegenüber finden, dem in der Erinnerung eines thatenvollen Lebens und in dem mächtigen Schaffen der Gegenwart alle edlen Anforderungen an das Leben erfüllt zu | sein scheinen! So sind denn alle Wünsche, die wir Ihnen heute darbringen, zugleich Wünsche für uns selbst, da wir ein solches Leben nicht anders betrachten können, als im Zusammenhange seines werthvollen Wirkens. Mit diesem Wirken stehen Sie mitten im Herzen eines Volkes, dessen Geschichte, dessen Leben zu kräftigster Wirklichkeit zu gestalten Ihr innerster Beruf ist, und die Gewährung alles dessen, was zur Erhaltung dieser Ihrer Wirksamkeit nöthig und angenehm ist, das ist es, was mit so vielen Andern auch ich von einem gütigen Schicksal für Sie erbitte. Und um den Egoismus solcher Glückwünsche auf das Äußerste zu treiben, gestatten Sie mir daran die Bitte zu knüpfen, daß Sie Ihr gütiges Wohlwollen erhalten mögen Ihrem ergebnen W Windelband Anmerkungen der Herausgeber 1↑Kenntniß der Persönlichkeit ] vgl. Windelband an Georg Ebers vom 18.12.1871. Die Bekanntschaft wurde wahrscheinlich durch den gleichnamigen Neffe Gustav Freytags, Student in Halle vermittelt, der nicht nur zum Leipziger Bekanntenkreis Windelbands gehörte (vgl. Christian Keller: Victor Ehrenberg und Georg Jellinek Briefwechsel 1872–1911. Frankfurt a. M.: Klostermann 2005, S. 166) sondern bereits seit der gemeinsamen Potsdamer Schulzeit mit dem etwas älteren Windelband befreundet war, vgl. Otto Wallach 1847–1931 Chemiker und Nobelpreisträger. Lebenserinnerungen: Potsdam, Berlin, Bonn, Göttingen. Hg. v. G. Beer u. H. Remane. Berlin: Verlag für Wissenschafts- und Regionalgeschichte Engel 2000, S. 35. 2↑an dem Tage ] Gustav Freytags 56. Geburtstag am 13.7.1872.</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000050-2</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14050</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14050">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13050/edWW2020-13050.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14050"
+            DMDID="DMD_wuppertal_elpub_14050">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14050"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14014">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Regierungsratbeschluss (Kanton Zürich) Nr. 428 vom 19.2.1876, Staatsarchiv des Kantons Zürich, MM 2.211 RRB 1876/0428, S. 487 – Regierungsratsbeschlüsse seit 1803 online: http://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3357183</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Regierungsratbeschluss (Kanton Zürich) Nr. 428 vom 19.2.1876, Staatsarchiv des Kantons Zürich, MM 2.211 RRB 1876/0428, S. 487 – Regierungsratsbeschlüsse seit 1803 online[a]: http://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3357183 19. Februar 1876.[b] Prof. Windelband, Beitrag an dessen Uebersiedlungskosten.[c] Herr Professor Windelband verbindet mit der Erklärung, daß er den Ruf an die hiesige Hochschule annehme, das Gesuch, es möchte der ihm zugesicherte Beitrag an die Uebersiedlungskosten höher als 700 Franken bemessen werden. Die Erziehungsdirektion findet mit Hinsicht auf die Familienverhältnisse des Petenten und die bedeutende Entfernung seines bisherigen Wohnortes vom künftigen das Gesuch begründet. Der Regierungsrath, in Revision von Disp. I Schlußsatz des Beschlusses vom 12. Hornung[1], nach Einsicht eines Antrages der Erziehungsdirektion, beschließt: I. Dem Herrn[d] Professor Windelband wird an die Kosten der Uebersiedlung von Leipzig nach Zürich ein Beitrag von 1000 Frk. ertheilt. II. Mittheilung an die Erziehungsdirektion zur Vollziehung. Anmerkungen zum Textbefund a↑Regierungsratsbeschlüsse seit 1803 online ] im vorliegenden Fall eigene Transkription b↑19. Februar 1876. ] am Kopf der S., unterstrichen c↑Prof. … Uebersiedlungskosten. ]  am linken Rand d↑Herrn ] Hrn. Anmerkungen der Herausgeber 1↑Hornung ] Februar</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000014-3</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14014</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14014">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13014/edWW2020-13014.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14014"
+            DMDID="DMD_wuppertal_elpub_14014">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14014"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

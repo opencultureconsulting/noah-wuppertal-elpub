@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5312">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Von der Bezeugung zur narrativen Vergegenwärtigung. Fokalisierung im Reisebuch des Syrers Ḥanna Dyāb (1764)</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Stephan, Johannes</displayForm>
+                        <namePart type="family">Stephan</namePart>
+                        <namePart type="given">Johannes</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Travelogues involve different truth claims, depending on whether their authors attempt on the one hand to convey received knowledge about entities and places, or on the other hand, present accounts of the traveler character’s own experiences. This study focuses on a travelogue from 1764 written by the Arabian Nights’ Syrian storyteller, Ḥanna Dyāb. Having written his travelogue more than 50 years after his trip to Paris, he evidently conceived of his narrative as a means to re-enact his experiences as a young traveler. To describe his particular self-staging in this autodiegetic narration “before fiction” (Paige 2011), I argue that an understanding of focalization as a graded visual mediation between the character’s inner life and the reader is needed. This approach helps one grasp how, with reference to Dyāb’s travelogue, truth is not something the traveler witnesses, but rather something the reader is invited to realize. I conclude that, with this shift from witnessing to visualization (Vergegenwärtigung), Dyāb’s travelogue fulfills a core function of literature.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 4 (2015) H. 2"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20151117-113229-9</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5312</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5312">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-5154/dej15040203.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5312"
+            DMDID="DMD_wuppertal_elpub_5312">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5312"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

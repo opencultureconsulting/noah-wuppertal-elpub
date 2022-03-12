@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_8933">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Gott erzählen in biblischen Schriften des Alten Testaments</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Müllner, Ilse</displayForm>
+                        <namePart type="family">Müllner</namePart>
+                        <namePart type="given">Ilse</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In the Bible, God is one of many characters who is subject to the same principles of narrative modelling as the others. At the same time, however, God differs from other characters with regard to his transtextual attendance and the authority of his voice, which in turn influences the authority of the narrator’s voice. Biblical prophecy is conceptualized as a mediating voice between God and humans. In the narrative world, prophecy plays an important role in providing access to an otherwise inaccessible God. Moses, as the paradigm of biblical prophecy, is the model of a prophetic character who receives his own text (the Book of Moses). As a result, he becomes the model of an implied author who is able to create the character of God, while subjecting himself to the authority of this character.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 7 (2018) H. 2"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20181121-141917-6</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_8933</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_8933">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-8366/dej18070204.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_8933"
+            DMDID="DMD_wuppertal_elpub_8933">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_8933"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

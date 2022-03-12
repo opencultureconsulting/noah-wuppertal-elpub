@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_8312">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Authoring the Narrative Self in Dementia Care. A Bakhtinian Perspective</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Watanabe, Ryoko</displayForm>
+                        <namePart type="family">Watanabe</namePart>
+                        <namePart type="given">Ryoko</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-06-05</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This article examines the co-creation of narrative self in dementia care and the therapist’s expertise in the process. Applying Bakhtin’s theory of dialogue as the analytical framework, videotaped data were collected through interviews with an experienced occupational therapist as well as direct observation of his care sessions with two women with Alzheimer’s disease in a Japanese nursing home, before they were qualitatively analysed. The result indicated that the therapist created three kinds of voices: the voice of the person’s self, the voices of the actual others, and the voices of the imagined others towards the person. The women actively responded to the voices, jointly created possible and positive selves, and were able to achieve therapeutic activities. As a polyphonic author, the therapist intentionally produced the voices for therapeutic engagement thereby giving appropriate meaning to the therapy, building relationships with others, and expressing the persons’ hope for the therapy, for others, and for themselves.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 7 (2018) H. 1"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20180522-162148-4</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_8312</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_8312">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-7738/dej18070103.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_8312"
+            DMDID="DMD_wuppertal_elpub_8312">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_8312"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

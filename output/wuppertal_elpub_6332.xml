@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6332">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Geschichten ohne Ende - Präsentationsstrategien narrativierter Krankheitserfahrungen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Müller, Mareike von␞Wermeling, Matthias</displayForm>
+                        <namePart type="family">Müller</namePart>
+                        <namePart type="given">Mareike von␞Wermeling</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Illness narratives feature different strategies of making narrative sense out of a contingent experience. Such strategies have a lineage that goes back to narrative patterns known in medieval literature, and which retain validity in describing re-cent narrative attempts to generate meaning. This article argues that narrative sense is the product of a process of construction which is formed not solely by the narrator him- or herself, but is rather the result of a cooperative practice between narrator and listener or interviewer respectively. In support of this perspective, we draw on medieval literature and aspects of historical narratology to examine interviews with people suffering from epilepsy and inflammatory bowel disease. The main focus lies on the narrative patterns deployed by the narrators to report on their experiences with illness, as well as on the strategies of presentation chosen by the interviewers and scientists who summarize those interviews and present them in so-called mystories on the homepage www.krankheitserfahrungen.de.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 5 (2016) H. 2"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20161121-164951-2</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6332</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6332">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-6143/dej16050203.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6332"
+            DMDID="DMD_wuppertal_elpub_6332">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6332"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

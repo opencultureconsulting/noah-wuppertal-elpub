@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1177">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Summer University in Cyprus 2005: Knowledge &amp; Transitions</title>
+                    </titleInfo>
+                    <titleInfo lang="ger" type="translated">
+                        <title>Savoirs &amp; Transitions</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm></displayForm>
+                        <namePart type="family">null</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-03-15</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Challenges for Guidance and Counselling within the Context of Globalization and the Enlarged European Union.</abstract>
+                    <abstract type="content" lang="ger">L&apos;orientation et le conseil dans le contexte de la mondialisation et de l&apos;èlargissement de l&apos;Europe - Quels défis?</abstract>
+                    <subject>
+                        <topic>Zentrale Studienberatung (ZSB) » Fedora - Forum Européen de l&apos; Orientation Académique » allgemein/general/général » Sommeruniversitäten/Summer Universities/Les Universités d&apos; Été</topic>
+                    </subject>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20070213</identifier>
+                    <identifier type="sys">HT015143199</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1177</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1177">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/zsb/fedora/general/summeruni/cyprus05/su05.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1177"
+            DMDID="DMD_wuppertal_elpub_1177">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1177"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

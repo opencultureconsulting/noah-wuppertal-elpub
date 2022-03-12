@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14062">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Windelband an Moritz Lazarus, Leipzig, 23.2.1874, 2 S., hs. (dt. Schrift), UB der Humboldt-Universität zu Berlin, Nachl. Laz. I, 213</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Windelband an Moritz Lazarus, Leipzig, 23.2.1874, 2 S., hs. (dt. Schrift), UB der Humboldt-Universität zu Berlin, Nachl. Laz. I, 213 Leipzig. 23.II 74. Sehr verehrter Herr Professor! Anbei habe ich die Ehre, Ihnen meinen Versuch über die völkerpsychologische Betrachtungsweise des logischen Problems[1] zur Verfügung zu stellen: ich wiederhole die Bitte um Entschuldigung, daß um die Weihnachts- und Neujahrzeit herum, mir meine Gesundheitsverhältnisse durchaus nicht gestatteten, dem Versprechen nachzukommen: übrigens hätte ich, wenn ich geahnt hätte, daß Sie diesen Versuch doch noch in das erste Heft aufzunehmen beabsichtigen, Ihnen denselben schon vor einigen Wochen fertig stellen können. – Was den In|halt desselben betrifft, so habe ich dessen hypothetischen Charakter besonders betonen wollen. Es ist eben ein Erklärungsversuch, der sich zunächst seine Möglichkeit neben anderen feststellen muß. Es würde mir jedoch eine große Freude sein, wenn irgendwie einmal von competenter Sprachwissenschaftlicher Seite der Versuch, die Genesis der logischen Gesetzgebung völkerpsychologisch zu belauschen, weiter verfolgt[2] würde. Wenn Sie die Arbeit zum Abdruck bringen, so würden Sie mich außerordentlich verbinden, wenn Sie mir (eventuell auf meinen Kosten) etwa zehn Abzüge besorgen ließen. Mit treuer Verehrung ergebenst W Windelband Anmerkungen der Herausgeber 1↑völkerpsychologische Betrachtungsweise des logischen Problems ] vgl. Windelband: Die Erkenntnisslehre unter dem völkerpsychologischen Gesichtspunkte. Mit Rücksicht auf Sigwart, Logik I. Tübingen. Laupp’sche Bchhdlg. 1873. In: Zeitschrift für Völkerpsychologie und Sprachwissenschaft 8 (1875), 2. Heft 1874 (!), S. 166–178. 2↑weiter verfolgt ] vgl. Heymann Steinthal: Zusatz zum vorstehenden Artikel. In: Zeitschrift für Völkerpsychologie und Sprachwissenschaft 8 (1875), S. 178–189.</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000062-1</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14062</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14062">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13062/edWW2020-13062.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14062"
+            DMDID="DMD_wuppertal_elpub_14062">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14062"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

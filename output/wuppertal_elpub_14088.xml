@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14088">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Windelband an Karl Dilthey, Freiburg i. Br., 20.4.1877, 2 S., hs. (dt. Schrift), Niedersächsische Staats- und UB Göttingen, Dilth. 141</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Windelband an Karl Dilthey, Freiburg i. Br., 20.4.1877, 2 S., hs. (dt. Schrift), Niedersächsische Staats- und UB Göttingen, Dilth. 141 Freiburg. 20 April 1877. Lieber Carlo, Das kleine Geschichtchen, welches schon durch die Störung unserer Wanderpläne seinen eignen Willen so lebhaft bekundete, daß ich aller Besinnung baar nicht einmal daran dachte, Dich für die Rückkehr von Straßburg zu einem Aufenthalt hier zu verpflichten, benimmt sich als ein fesches, vergnügliches und höchst erfreuliches Töchterchen[1], welches, stolz darauf, seiner guten Mama so wenig Mühe bereitet und ihr auch auf die Dauer, soweit man bisher sieht, gar keine Unbequemlichkeiten verursacht zu haben, sich nun fröhlich an seiner natürlichen Quelle nährt und das ganze Haus mit dem Zauber seines unmelodischen Gequäckes tyrannisirt. Dieses Muster meines langperiodigen Styls durfte ich Dir nicht vorenthalten; übrigens geht wirklich Alles trefflich, und seitdem gestern auch meine Schwiegermama[2] wieder eingelaufen ist, schnurrt die Sache wie am Fädchen – ich hoffe nun wirklich, daß mir das Fräulein zu Pfingsten[3] erlauben wird, Euren Besuch zu erwidern – falls Ihr nicht die vierzehn Tage[4] einhalten solltet! | Grüße Frankenhäuser[5] bestens! Er wird bei der stillen Tapferkeit seiner Frau kaum gemerkt haben, was er uns war in dieser wunderlich glücklichen Nacht! wir aber werden’s ihm nie vergessen! Grüße auch seine Frau bestens und sage, sie möchte es uns vergeben, wenn wir ihn etwas müde zu ihr hätten zurückkehren lassen. Wenn Du die Güte hast, einliegende treffliche Collection[6] von Geistern ersten Ranges je fünfer Centiemes würdig zu halten, so wirst Du nicht nur mein Conto mit 40 ct belasten, sondern auch mein Herz mit tiefer Dankbarkeit. Ein andermal mehr. Jetzt jagt’s und lärmt’s noch um mich und in mir. Schönsten Gruß! Dein treuer Freund W. Windelband Anmerkungen der Herausgeber 1↑Töchterchen ] Meta Windelband (18.4.1877–11.2.1949) 2↑Schwiegermama ] Wilhelmine Wichgraf (1824–1890) 3↑Pfingsten ] 21.5.1877 4↑vierzehn Tage ] wahrscheinlich gemeint: des Wochenbetts, nach dem höflicherweise erst wieder Besuche erlaubt sind 5↑Frankenhäuser ] Ferdinand Frankenhäuser (1832–1894), Gynäkologe, Prof. in Zürich, 1880–81/82 Dekan der medizinischen Fakultät (https://www.histvv.uzh.ch/dozenten/frankenhaeuser_f.html). 6↑einliegende treffliche Collection ] Gegenstand der Sendung nicht ermittelt</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000088-9</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14088</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14088">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13088/edWW2020-13088.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14088"
+            DMDID="DMD_wuppertal_elpub_14088">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14088"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

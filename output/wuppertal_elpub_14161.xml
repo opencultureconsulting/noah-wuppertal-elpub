@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14161">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Windelband an Ernst Martin bzw. den Dekan der Philosophischen Fakultät der Universität Straßburg, Straßburg, 8.10.1886, 1 S., hs. (lat. Schrift), mit Sichtvermerken der Fakultätskollegen, ADBR Strasbourg, 62 Al 7 (Dekanat Ernst Martin 1886/87), Nr. 66</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Windelband an Ernst Martin bzw. den Dekan der Philosophischen Fakultät der Universität Straßburg, Straßburg, 8.10.1886, 1 S., hs. (lat. Schrift), mit Sichtvermerken der Fakultätskollegen, ADBR Strasbourg, 62 Al 7 (Dekanat Ernst Martin 1886/87), Nr. 66 Strassburg iE, den 8t October 1886 Die hohe | philosophische Fakultät der | Kaiser-Wilhelms-Universität ersuche ich ganz ergebenst um geneigte Zustimmung zu meiner Absicht, von dem für den beginnenden Winter angekündigten Publicum über „Schiller in seinen Beziehungen zur Philosophie“ (einstündig, Mittwochs 6–7) Abstand zu nehmen. Gehäufte und dringende, durch häusliche Verhältnisse vielfach verzögerte literarische Arbeiten machen es mir wünschenswerth, diese Vorlesung auf den nächsten Winter zu verschieben. Der statutenmässigen Verpflichtung zu einer Gratisvorlesung genüge ich in diesem Winter schon durch das angezeigte Seminar[1]. Prof. Dr. Windelband An | die hohe philosophische Fakultät | zu Handen[a] des Dekan | Herrn Prof Dr Martin | Hochwohlgeboren Anmerkungen zum Textbefund a↑Handen ] so wörtlich Anmerkungen der Herausgeber 1↑angezeigte Seminar ] im Vorlesungsverzeichnis für das WS 1886/87 hatte Windelband angekündigt: Geschichte der Philosophie des 19. Jahrhunderts Dienstag, Donnerstag und Freitag von 6–7 Uhr; Schiller in seinen Beziehungen zur Philosophie Mittwoch von 6–7 Uhr, publice; Herbart’s Einleitung in die Philosophie (im philosophischen Seminar) Donnerstag von 7–9 Uhr, privatissime und gratis.</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000161-0</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14161</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14161">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13161/edWW2020-13161.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14161"
+            DMDID="DMD_wuppertal_elpub_14161">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14161"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

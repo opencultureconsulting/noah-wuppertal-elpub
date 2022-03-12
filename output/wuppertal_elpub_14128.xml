@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14128">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Windelband an Carl Ledderhose, 28.5.1882, Telegramm aus Freiburg vom 28.5.1882, 3 Uhr 33 Minuten vormittags, angenommen 3 Uhr 55 Minuten vormittags, ausgefertigt 3 Uhr 47 mittags, ADBR Strasbourg, 103 AL 260 Bl. 69</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Windelband an Carl Ledderhose, 28.5.1882, Telegramm aus Freiburg vom 28.5.1882, 3 Uhr 33 Minuten vormittags, angenommen 3 Uhr 55 Minuten vormittags, ausgefertigt 3 Uhr 47 mittags, ADBR Strasbourg, 103 AL 260 Bl. 69 28.5.1882 Unterstaatsecretär Ledderhose Straßburg Els. Stehe zur Verfügung[1] Windelband Anmerkungen der Herausgeber 1↑Stehe zur Verfügung ] vgl. Ledderhose an Windelband vom 28.5.1882 sowie ADBR Strasbourg, 103 AL 794 (Personalakte Windelband), Bl. 7, Kurator Ledderhose an Rektor der Universität Straßburg vom 17.6.1882, Auszug: Durch Allerhöchstes Bestallungs-Reskript vom 7. d. Mts. ist der Großherzoglich Badische Hofrath, Professor Dr. Windelband zu Freiburg i/B. zum ordentlichen Professor in der philosophischen Fakultät der hiesigen Universität ernannt worden.</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000128-9</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14128</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14128">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13128/edWW2020-13128.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14128"
+            DMDID="DMD_wuppertal_elpub_14128">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14128"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

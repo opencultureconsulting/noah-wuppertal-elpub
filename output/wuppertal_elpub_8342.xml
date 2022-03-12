@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_8342">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Schumpeter und die Zukunft des Unternehmertums</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Pfriem, Reinhard</displayForm>
+                        <namePart type="family">Pfriem</namePart>
+                        <namePart type="given">Reinhard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-06-06</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Es ist das große Verdienst von Joseph A. Schumpeter, wie kein anderer Ökonom des 20.Jahrhunderts den Kapitalismus und die Dynamik seiner Entwicklung auf das Unternehmertum statt auf irgendwelche abstrakten Marktgeset-ze zurückgeführt zu haben. Ausgehend davon spürt der Text den kritischen Befun-den zur Erosion der Unternehmerfunktion nach, die Schumpeter in seinen beiden letzten Lebensjahrzehnten immer tiefergehend vorgelegt hat. Jenseits von Schumpeters – normativ betrachtet – Befürchtungen des Hinüberwachsens in einen bürokratischen Sozialismus gäbe es bzw. gibt es auch wirklich Möglichkeiten zu einer Revitalisierung von Unternehmertum im Sinne solidarischen, gemeinschaftsorientier-ten und auf nachhaltige Entwicklung gerichteten Wirtschaftens. 
+Dateigröße: 309 KB</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics » Schumpeter Discussion Papers (SDP)"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20180606-100412-2</identifier>
+                    <identifier type="sys">HT019709455</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_8342</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_8342">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp18/sdp18003.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_8342"
+            DMDID="DMD_wuppertal_elpub_8342">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_8342"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

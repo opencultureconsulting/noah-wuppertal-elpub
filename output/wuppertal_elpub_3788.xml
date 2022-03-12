@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3788">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Shared Experience</title>
+                        <subTitle>Alan Palmer Explores Social Minds</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Alders, Maximilian</displayForm>
+                        <namePart type="family">Alders</namePart>
+                        <namePart type="given">Maximilian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Alan Palmer: Social Minds in the Novel. Columbus, OH: Ohio State UP 2010. (= Theory and Interpretation of Narrative). 220 pp. USD 49,95. ISBN 978-0-8142-1141-0
+ 
+ “Little narratological work has been done on social minds in the novel” (45). 
+ 
+Narratives detail the multifarious ways in which individual characters fare while entangled in social scenarios. The emphasis in scholarly treatments has over-whelmingly been on the first part of this equation, i.e. single protagonists. The representation of shared experience, as a genuine phenomenon in its own right, has been largely ignored by narratologists. Alan Palmer’s Social Minds in the Novel is thus a timely investigation into, and mapping of, what he also refers to as intermental thought.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 2 (2013) H. 2"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20131120-180550-1</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3788</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3788">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-3901/dej13020208.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3788"
+            DMDID="DMD_wuppertal_elpub_3788">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3788"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

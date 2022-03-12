@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3528">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Möglichkeiten einer Narratologie des Unmöglichen</title>
+                        <subTitle>Erzähltheoretische Annäherungen an das ‚Unnatürliche‘ in Literatur, Film und anderen Medien</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bartsch, Christoph</displayForm>
+                        <namePart type="family">Bartsch</namePart>
+                        <namePart type="given">Christoph</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Jan Alber / Rüdiger Heinze (Hg.): Unnatural Narratives – Unnatural Narratology. Berlin / Boston: De Gruyter 2011 (= linguae &amp; litterae Bd. 9). 273 S. EUR 99,95. ISBN 311022903X 
+
+Seit einiger Zeit ist bei vielen Narratologen ein zunehmendes Ungenügen an der gegenwärtigen Ausrichtung erzähltheoretischer Strömungen beobachtbar. Sie beklagen die Annahmen neuerer Trends der Erzähltheorie – die sie u.a. durch die kognitivistischen Ansätze Monika Fluderniks (1996) und David Hermans (2009) vertreten sehen – , dass sich universale Basiselemente des Erzählens benennen lassen, die allen seinen Erscheinungsformen zugrunde liegen und im ‚natürlichen‘ (natural) Erzählen, d.h. im mündlichen Alltagser-zählen, prototypisch repräsentiert sind. Doch die Rückkopplung von Narrativität an kognitive und konversationsbasierte Parameter, die Präferenz realweltlicher Darstellungsinhalte und das Bestreben, einen Narrativitätsbegriff zu etablieren, der ‚alle‘ Formen des Erzählens abdeckt, drohe die distinktive Eigenart vieler vor allem literarisch-fiktionaler Erzählungen zu nivellieren. Stattdessen führen – so der Vorbehalt der Kritiker – Versuche, eine allumfas¬sende Erzähltheorie (universal narratology) zu etablieren, die seit Aristoteles be¬stehende mimetische Ausrichtung (mimetic bias) der theoretischen Auseinander¬setzung mit Erzählliteratur fort, da realistische Paradigmen wie etwa Wahrscheinlichkeit und Kohärenz als analytische Maßstäbe an fiktionale Texte herangetragen werden. Vertreter der sich in den vergangenen Jahren konstitu¬ierenden ‚unnatürlichen Narratologie‘ (unnatural narratology) begegnen diesen – wie sie sagen – reduktionistischen Tendenzen, indem sie die von ‚natürlichen‘ Erzählungen signifikant abweichenden Spezifika anderer – ‚unnatürlicher‘ – Erzählformen induktiv auszuloten und systematisch zu beschreiben versu¬chen. U.a. aus den Vorträgen einer 2008 von Jan Alber und Rüdiger Heinze an der Universität Freiburg veranstalteten Tagung „Unnatürliches Erzählen, Unnatural Narratives“ ist ein Sammelband hervorgegangen, der erstmals sys-tematisch das Spektrum dieser jungen und vitalen „subdomain of postclassical narratology“ (S. 6) in seiner ganzen Breite präsentiert. Der analytische Fokus der in vier thematische Rubriken aufgeteilten Aufsätze ist nicht nur auf Ro¬mane, Erzählungen und Dramen gerichtet, sondern darüber hinaus auch auf mündliches und autobiografisches Erzählen, auf Filme, Comics und graphic novels. Untersucht werden diese Erzählformen im Hinblick auf Paradigmen wie ‚Figur‘, ,(Erzähl)-Stimmen‘, ‚Zeit‘, ‚Ereignis‘ u.a. Da der Band die erste größere Publikation dieses narratologischen Forschungszweigs ist, kann er als gegen¬wärtige Bestandsaufnahme der bisher geleisteten Arbeiten auf diesem Gebiet angesehen werden.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 2 (2013) H. 1"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20130527-144131-1</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3528</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3528">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-3638/dej13020107.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3528"
+            DMDID="DMD_wuppertal_elpub_3528">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3528"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

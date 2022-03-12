@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_2756">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Compliance costs caused by agency action? Empirical evidence and implications for tax compliance.</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Eichfelder, Sebastian␞Kegels, Chantal</displayForm>
+                        <namePart type="family">Eichfelder</namePart>
+                        <namePart type="given">Sebastian␞Kegels</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The compliance costs of private taxpayers are not only affected by the tax law itself but also by its implementation through the tax authorities. In this paper we analyze the effect of the tax authorities on the burden of complying with tax regulations. Using survey data of Belgian businesses and controlling for potential endogeneity, we find empirical evidence that tax authority behavior is an important cost driver. According to our estimate, a customer-unfriendly tax administration increases the average compliance costs by about 25 %. Our outcome has interesting implications for tax compliance research. First of all, taxpayer services do not only affect “soft” factors like fairness and trust, but also “hard” aspects like costs. Furthermore, there may be an inherent ability of the administration to “punish” non-cooperative businesses by in-creased cost-burdens.</abstract>
+                    <abstract type="content" lang="ger">JEL classification: H26, H25, H83 
+
+Dateigröße: 740 KB</abstract>
+                    <subject>
+                        <topic>Tax compliance costs</topic>
+                        <topic>Red tape</topic>
+                        <topic>Tax administration</topic>
+                        <topic>Tax compliance</topic>
+                        <topic>Tax evasion</topic>
+                        <topic>Tax authority behavior</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20120410-151433-1</identifier>
+                    <identifier type="sys">HT017201698</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_2756</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_2756">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-2674/sdp12005.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_2756"
+            DMDID="DMD_wuppertal_elpub_2756">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_2756"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

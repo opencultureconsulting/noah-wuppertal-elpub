@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14009">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Revers nach § 7 der Habilitationsordnung der philosophischen Fakultät der Universität Leipzig, Leipzig, 26.4.1873, 1 S., Drucksache mit eigenhändiger Unterschrift, UA Leipzig, PA 1071, Bl. 14</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Revers nach § 7 der Habilitationsordnung[1] der philosophischen Fakultät der Universität Leipzig, Leipzig, 26.4.1873, 1 S., Drucksache mit eigenhändiger Unterschrift, UA Leipzig, PA 1071, Bl. 14 Der Unterzeichnete bekennt hiermit, dass ihm vom derzeitigen Decan der philosophischen Facultät unter dem heutigen Datum in Gemässheit der Ministerialverordnung vom 7. April 1861 eröffnet worden ist, dass er durch die ihm zu ertheilende venia legendi[2] weder auf eine Unterstützung durch Gratificationen, noch auf irgend eine feste Besoldung, noch auf künftige Erwerbung einer ausserordentlichen Professur einen Anspruch erhalte, dass vielmehr das eine wie das andere nach freiem Ermessen der höchsten Behörde nicht allein von dem Grade seiner Qualification zu dem academischen Lehramte und der Beschaffenheit seiner Leistungen, sondern auch davon werde abhängig gemacht werden, ob gerade einem speciellen wissenschaftlichen Bedürfnisse der Universität durch seine Lehrtüchtigkeit entsprochen werde. Leipzig, den 26. April 1873 Dr. W. Windelband.[a] Anmerkungen zum Textbefund a↑26. April 1873 Dr. W. Windelband. ]  von Windelband eigenhändig eingetragen Anmerkungen der Herausgeber 1↑§ 7 der Habilitationsordnung ] vgl. das Regulativ für die Habilitation der Privatdocenten bei der philosophischen Facultät der Universität Leipzig, genehmigt vom königlichen Ministerium des Cultus und öffentlichen Unterrichts am 4. Februar 1870. Leipzig: Druck von Alexander Edelmann, Universitäts-Buchdrucker, S. 5–6: Mit der Haltung des öffentlichen Vortrags sind die von dem Candidaten geforderten Habilitationsleistungen geschlossen | und erhält derselbe nunmehr, – nachdem er noch einen Revers unterzeichnet hat, in welchem er darauf aufmerksam gemacht wird, daß ihm aus seiner Habilitation ein Anrecht auf Renumeration oder künftige Beförderung nicht erwachse – eine Bescheinigung über die ihm ertheilte venia legendi, wobei das Fach oder die Fächer namhaft gemacht werden, auf welche sich die venia legendi erstreckt (UA Leipzig, Phil. Fak. A 2/2004 Bd. 2b, 35a). 2↑zu ertheilende venia legendi ] vgl. Bl. 15r derselben Akte (PA 1071) mit der Meldung des Dekans Rudolf Leuckart über die vollständige Durchführung des Hablitationsverfahrens Windelband an das Ministerium des Cultus und öffentlichen Unterrichts (o. D., nach 26.4.1873). Ein Aktenvermerk über Erteilung der venia legendi findet sich, ebenfalls von Leuckart, zusätzlich auf Bl. 7r der Akte.</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000009-8</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14009</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14009">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13009/edWW2020-13009.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14009"
+            DMDID="DMD_wuppertal_elpub_14009">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14009"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

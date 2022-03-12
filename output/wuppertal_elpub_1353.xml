@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1353">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>heirs of Schumpeter -an insight view of students&apos; entrepreneurial intentions at the Schumpeter School of Business and Economics-</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ruhle, Sascha Alexander␞Mühlbauer, Daniel␞Grünhagen, Marc␞Rothenstein, Jens</displayForm>
+                        <namePart type="family">Ruhle</namePart>
+                        <namePart type="given">Sascha Alexander␞Mühlbauer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-04-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This working paper addresses the question which dimensions of Ajzens (1988) Theory of Planned Behavior, named attitude towards start-up, perceived behavioral control and subjective norms can be used to explain the entrepreneurial intentions of business students. Furthermore we hypotheses an influence of attendance in entre-preneurship lectures, having entrepreneurs within ones family and the cultural background as possible enhancers of entrepreneurial intentions via the dimensions of the TPB. We found not only a highly significant connection between all dimensions of Ajzens model and the entrepreneurial intention, but although evidences for an influ-ence of the individuals social and cultural background on the EI.</abstract>
+                    <abstract type="content" lang="ger">JEL Classification : L26 
+
+Dateigröße: 1,85 MB</abstract>
+                    <subject>
+                        <topic>entrepreneurial intentions</topic>
+                        <topic>theory of planned behavior</topic>
+                        <topic>university entrepreneurship</topic>
+                        <topic>student survey</topic>
+                        <topic>new firm creation</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20100228</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1353</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1353">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp10/sdp10004.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1353"
+            DMDID="DMD_wuppertal_elpub_1353">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1353"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

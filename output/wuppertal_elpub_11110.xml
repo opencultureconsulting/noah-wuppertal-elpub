@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_11110">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zukunftsstudie Automotive Region Bergisches Städtedreieck 2030</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Braasch, Andreas␞Bramsiepe, Holger␞Deeg, Thorsten␞Förstmann, Fritz␞Gebuhr, Anne␞Heuwinkel, Friedel␞Kerkhoff, Dieter␞Koebnick, Rafael␞Kohl, Per␞Kolkau, Anette␞Krause, Michael␞Kummert, Anton␞Michalik, David␞Pieper, Michael␞Prokopowicz, Thomas␞Sandoval, Charlotte␞Velten, Jörg␞Vogelskamp, Stephan A.␞Wuhrmann, Daniel</displayForm>
+                        <namePart type="family">Braasch</namePart>
+                        <namePart type="given">Andreas␞Bramsiepe</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-11-17</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Prof. Dr.-Ing. Anton Kummert; Dipl. Ök. Stephan A. Vogelskamp (Hrsg.): 
+Automotive-Region Bergisches Städtedreieck 2030 – Abschlussbericht, 
+Wuppertal 2017 
+ISBN 978-3-947-84972-7 (Onlineausgabe) 
+ISBN 978--3947-84927-7 (Printausgabe)</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20201117-094347-3</identifier>
+                    <identifier type="doi">10.25926/j3h5-9n12</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_11110</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_11110">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-10424/zsarbsd2030.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_11110"
+            DMDID="DMD_wuppertal_elpub_11110">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_11110"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5317">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wie Nachrichten (Geschichten) erzählen. Christoph Bietz’ Analyse telemedialer ‚Wirklichkeitskonstruktion‘</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Stier, Maximilian</displayForm>
+                        <namePart type="family">Stier</namePart>
+                        <namePart type="given">Maximilian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Christoph Bietz: Die Geschichten der Nachrichten. Eine narratologische Analyse teleme¬dialer Wirklichkeitskonstruktion. 
+Trier: Wissenschaftlicher Verlag Trier 2013 (= WVT-Handbücher und Studien zur Medienkulturwissenschaft Bd. 8). 412 S. EUR 46,50. 
+ISBN 978-3-86821-434-5</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 4 (2015) H. 2"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20151117-121026-2</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5317</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5317">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-5151/dej15040208.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5317"
+            DMDID="DMD_wuppertal_elpub_5317">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5317"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

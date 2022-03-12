@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14099">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Windelband an Wilhelm Lexis, Freiburg i. Br., 7.6.1878, 1 S., hs. (dt. Schrift), UA Freiburg, B 38/121 Philosophische Facultät, Dekanat Lexis 1878/79</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Windelband an Wilhelm Lexis, Freiburg i. Br., 7.6.1878, 1 S., hs. (dt. Schrift), UA Freiburg, B 38/121 Philosophische Facultät, Dekanat Lexis 1878/79 Freiburg i B. 7. Juni 1878 Hochverehrter Herr Dekan, Gestatten Sie mir, Ihnen mit der Bitte um gefällige Mittheilung an die philosophische Fakultät ergebenst die Anzeige zu machen, daß ich von Seiten der Königl[ich] bairischen Regierung eine Anfrage wegen Uebernahme einer Professur an der Universität Erlangen erhalten und dies der Großherzoglichen Regierung mit dem Ersuchen mitgetheilt habe, mir den Verbleib in der hiesigen Fakultät[1] ermöglichen zu wollen. In vorzüglicher Hochachtung Ihr ganz ergebenster W Windelband Anmerkungen der Herausgeber 1↑Verbleib in der hiesigen Fakultät ] vgl. die Aktenstücke in der Personalakte Windelband (UA Freiburg, B 24/4190): am 8.6.1878 teilt die philosophische Fakultät den Senat mit, daß Windelband, den man erst vor einem Jahr gewonnen habe, einen Ruf nach Erlangen erhalten habe; insbesondere bestehe die Gefahr, daß im Falle einer Pensionierung Senglers die Philosophie in Freiburg unvertreten bliebe. Die Fakultät fordert den Senat auf, er möge sich bei der Regierung um Windelband bemühen. Zusätzlich wendet sich am 11.6.1878 das Akademische Direktorium an den Senat wegen der Dringlichkeit der Angelegenheit: Ich bitte die Herren ihre Abstimmung schriftlich beizusetzen, und zwar: | 1.) Zu dem Gesuch für die durch die Pensionierung des Herrn Hofrath Sengler frei gewordene ordentliche Lehrkanzel zunächst nicht wieder einen ordentlichen Professor der Philosophie sondern die Besetzung einer bisher hier nicht vertretenen Lehrkanzel anzustreben und zwar für vergleichende Sprachwissenschaft. Ich glaube, daß der Senat dies Gesuch eifrig unterstützen und das Ministerium ersuchen muß, die Fakultät zu deßbezüglichen Vorschlägen aufzufordern. | 2.) Das Gesuch der philos[ophischen] Fakultät die Bestrebungen derselben bei dem Ministerium zu unterstützen, um den Verlust des Herrn Prof. Windelband von unserer Universität abzuwenden. Am 12.6.1878 ergeht ein entsprechendes Schreiben des Senats an das Ministerium des Innern am 12.6.1878, das am 1.7.1878 900 Mark Zulage rückwirkend vom 1.6. an bewilligt; im Ganzen schlugen sich Windelbands Bleibeverhandlungen nieder in einer Gehaltserhöhung von 900 Mark ab 1.6.1878 (4500 Mark + 660 Mark Wohnungszuschuß gegenüber anfänglich 3600 Mark + 660 Mark Wohnungszuschuß jährlich), siehe den Personalbogen in derselben Akte (Datum des Eintrags von anderer Hand am 26.6.1878). Am 3.4.1880 konnte Windelband zudem als Gründer des Freiburger Philosophischen Seminars hervortreten.</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000099-4</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14099</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14099">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13099/edWW2020-13099.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14099"
+            DMDID="DMD_wuppertal_elpub_14099">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14099"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

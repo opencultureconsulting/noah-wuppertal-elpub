@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14081">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Windelband an Gottlieb Ziegler, Riesbach, 26.1.1877, 2 S., hs. (dt. Schrift), Staatsarchiv des Kantons Zürich, U 103.4.40, Bl. 10</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Windelband an Gottlieb Ziegler, Riesbach, 26.1.1877, 2 S., hs. (dt. Schrift), Staatsarchiv des Kantons Zürich[1], U 103.4.40, Bl. 10 Riesbach 26 Januar 1877 An den Director des Erziehungswesens Herrn Regierungs-Rath Ziegler Zürich Hochverehrter Herr Erziehungsdirector! Nachdem ich am 18. Januar d[es] J[ahres] von der Großherzoglichen Badischen Regierung einen Ruf[2] an die Universität[a] Freiburg i/Breisgau erhalten, hatte ich die Ehre, noch am selben Tage[3] Ihnen die Vocation mit dem Bemerken mitzutheilen, daß dieselbe mich zu einer allfälligen Niederlegung meines Lehramts an hiesiger Universität[b] veranlassen müsse. Obwohl nun seitdem durch Ihre liebenswürdigen Bemühungen[4], denen ich den aufrichtigsten und herzlichsten Dank weiß, mir eine bedeutende Verbesserung meiner hiesigen Stellung und Lehrthätigkeit in | Aussicht gestellt wurde, so hat doch die Sicherstellung der Existenz meiner Familie mich unter schwerem Entschluß schließlich zur Annahme der Berufung der großherzoglichen Regierung nöthigen müssen, und indem ich meinen Dank für die freundliche Aufnahme, welche ich hier gefunden, an dieser Stelle auszusprechen nicht verfehle, suche ich in der Hoffnung, durch eine tüchtige Kraft[5] schon für den Sommer hier ersetzt zu werden, meine Enthebung[6] von der ordentlichen Professur der inductiven Philosophie für den Ablauf dieses Semesters hierdurch ergebenst nach. In vorzüglicher Hochachtung Ihr ergebenster Dr. W. Windelband Professor Anmerkungen zum Textbefund a↑Ruf an die Universität ] von anderer Hand mit rotem Farbstift unterstrichen b↑Universität ] von anderer Hand mit rotem Farbstift unterstrichen Anmerkungen der Herausgeber 1↑Staatsarchiv des Kantons Zürich ] mit Dank an Florian Christen, Menziken (Schweiz) 2↑einen Ruf ] vgl. Wilhelm Nokk an Windelband vom 17.1.1877 3↑am selben Tage ] vgl. Windelband an Ziegler vom 18.1.1877 4↑Bemühungen ] vgl. Kommentar zu Windelband an Gottlieb Ziegler vom 20.1.1877 5↑tüchtige Kraft ] Nachfolger Windelbands wurde Richard Avenarius aus Leipzig, vgl. Windelband an Gottlieb Ziegler vom 27.1.1877 6↑meine Enthebung ] vgl. auf Bl. 21r derselben Akte den Protokollauszug vom 7.2.1877 über den Beschluß des Erziehungsrats des Kantons Zürich vom 7.2.1877: 1. Vom Rücktritt der Herrn Prof. Windelband wird Notiz genommen. 2. Mittheilung an den akademischen Senat mit der Einladung, spätestens bis künftigen Mittwoch sein Gutachten betreffend Wiederbesetzung der Stelle einzureichen.</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000081-6</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14081</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14081">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13081/edWW2020-13081.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14081"
+            DMDID="DMD_wuppertal_elpub_14081">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14081"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1352">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Are earthquakes needed to shake economics?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schettkat, Ronald</displayForm>
+                        <namePart type="family">Schettkat</namePart>
+                        <namePart type="given">Ronald</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-04-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The current crisis is like an earthquake for the theoretical foundations of economic policies, which have guided governments and central banks for the last few decades. The efficient market hypothesis and its application to labor markets –“natural rate theory”- dominated interpretations of economic trends and policy prescriptions since the 1970s. Public policy, public institutions, and regulations were generally regarded as distortions of the otherwise well functioning markets. Economic trends were filtered through the lens of the “natural rate theory,” focusing on labor market institutions only and putting blinds on macroeconomic influences. Therefore, the recipe was a reshaping of institutional arrangements intended to allow markets to operate more freely, i.e. to bring the real world closer to the idealized theoretical model. This paper confronts the economic trends with the interpretations of the “natural rate theory” and argues that they hardly fitting the facts. The paper argues that monetary policy gained importance in the 1970s and enforced deflationary policies – which, in turn reduced growth, especially in upswings – and allowed employment to recover to its initial pre-recession levels. Deflationary bias was also guiding the design of major EU institutions, reducing potential and actual growth.</abstract>
+                    <abstract type="content" lang="ger">JEL Classification : E00, E24, E58, E6, J3 
+
+Dateigröße: 918,6 KB</abstract>
+                    <subject>
+                        <topic>economic crisis</topic>
+                        <topic>efficient market hypothesis</topic>
+                        <topic>natural rate theory</topic>
+                        <topic>deflationary bias</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20100216</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1352</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1352">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp10/sdp10003.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1352"
+            DMDID="DMD_wuppertal_elpub_1352">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1352"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

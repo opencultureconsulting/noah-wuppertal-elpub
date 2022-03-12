@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_4447">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Von sprachlichen Formen zu mentalen Räumen - Barbara Dancygier stellt ein kognitiv-linguistisches Beschreibungstool für die Analyse der Bedeutungsgenerierung in Erzähltexten vor</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bartsch, Christoph</displayForm>
+                        <namePart type="family">Bartsch</namePart>
+                        <namePart type="given">Christoph</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Barbara Dancygier: The Language of Stories. A Cognitive Approach. Cambridge: Cambridge University Press 2012. 228 S. EUR 79,70. ISBN 978-1-107-00582-2</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 3 (2014) H. 2"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20141118-121917-7</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_4447</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_4447">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-4420/dej14030210.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_4447"
+            DMDID="DMD_wuppertal_elpub_4447">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_4447"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

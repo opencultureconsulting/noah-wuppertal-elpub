@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3834">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>First do no harm. Then do not cheat: DRG upcoding in German neonatology</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jürges, Hendrik␞Köberlein, Juliane</displayForm>
+                        <namePart type="family">Jürges</namePart>
+                        <namePart type="given">Hendrik␞Köberlein</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Since 2003 German hospitals are reimbursed according to diagnosis related groups (DRGs). Patient classification in neonatology is based inter alia on birth weight, with substantial discontinuities in reimbursement at eight different thresholds. These discontinuities create strong incentives to upcode preterm infants into classes of lower birth weight. Using data from the German birth statistics 1996 to 2010 and German hospital data from 2006 to 2011, we estimate that since the introduction of DRGs, hospitals have upcoded at least 12,000 preterm infants and gained additional reimbursement in excess of 100 million Euro. The scale of upcoding in German neonatology enables us to study the anatomy of cheating in a profession that otherwise claims to have high ethical standards. We show that upcoding is not only positively linked with the strength of financial incentives but also with expected treatment costs measured by poor newborn health conditional on weight. This suggests that doctors and midwives do not indisriminately upcode any potential preterm infant as a rational model of crime would predict. Rather, they may find it easier to cheat when this helps aligning the lump-sum reimbursement with the expected actual treatment costs.</abstract>
+                    <abstract type="content" lang="ger">Dateigröße: 990 KB 
+
+JEL Classification: I11, I18, D20</abstract>
+                    <subject>
+                        <topic>Neonatal care</topic>
+                        <topic>DRG upcoding</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20140117-123136-5</identifier>
+                    <identifier type="sys">HT018137553</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3834</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3834">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp14/sdp14001.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3834"
+            DMDID="DMD_wuppertal_elpub_3834">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3834"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

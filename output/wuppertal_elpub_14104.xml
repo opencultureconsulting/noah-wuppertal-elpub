@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14104">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Windelband an Georg Jellinek, Freiburg i. Br., 18.8.1878 (2), 2 S., hs. (dt. Schrift), Bundesarchiv Koblenz, Nachlass Georg Jellinek, N 1136/56</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Windelband an Georg Jellinek, Freiburg i. Br., 18.8.1878 (2), 2 S., hs. (dt. Schrift), Bundesarchiv Koblenz, Nachlass Georg Jellinek, N 1136/56 Freiburg i B 18 Aug[ust] 78 Liebster Freund, Duplicat eines in großer Eile via Adolphe Crémieux[1] nach Paris an Dich gerichteten Briefes[2]: Ehrenberg hier nach der Schweiz durchgereist, vermuthet, daß Du Deinen Rückweg von Paris über die Schweiz nehmen könntest u[nd] ich gehe in dieser oder nächster Woche auch in die Schweiz. Daher Bitte von uns, dort ein Rendez-vous, am liebsten Interlaken oder Luzern zu bestimmen, – Bitte von mir, mich, falls Du über Straßburg kommst, hier abzuholen. Denke, wie schön! Im letzteren Falle bitte um Telegramm, da ich sonst vielleicht schon Mittwoch fahre. Briefe bitte zunächst hierher. Und hoffentlich also mündlich den Dank für Dein liebes Buch, das mir erst Ferienfreude war, da das Semester Nichts als sich selber gönnte! und hoffentlich viele Besprechungen darüber – und über Anderes! Meine Frau grüßt! Also auf Wiedersehen! Dein W Windelband Anmerkungen der Herausgeber 1↑Adolphe Crémieux ] Isaac-Adolphe Crémieux (1796–1880), Rechtsanwalt u. Politiker (frz. Justizminister nach 1848, inhaftiert, dann wieder nach 1870), seit ihrer Gründung 1863 Präsident der Alliance Israélite Universelle und damit erstrangige Kontaktperson jüdischer Reisender in Paris. 2↑Briefes ] vgl. Windelband an Jellinek vom 18.8.1878 (1)</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000104-3</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14104</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14104">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13104/edWW2020-13104.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14104"
+            DMDID="DMD_wuppertal_elpub_14104">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14104"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

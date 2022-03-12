@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_747">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Financial Signaling by Innovative Nascent Entrepreneurs</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Audretsch, David B.␞Bönte, Werner␞Mahagaonkar, Prashanth</displayForm>
+                        <namePart type="family">Audretsch</namePart>
+                        <namePart type="given">David B.␞Bönte</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">External finance is central for nascent entrepreneurs, people in the process of starting new ventures. We argue that nascent entrepreneurs use patents and prototypes in order to signal their ability to appropriate the returns from their innovation as well as the project&apos;s feasibility. Our analysis of 900 nascent entrepreneurs finds that patents and prototypes increase the likelihood of obtaining equity finance. Thus, if signals are credible, innovation positively impacts external financing. Interestingly, entrepreneurs in planning versus early start-up stage portray different signaling effects, indicating that the relation between finance and innovation depends on the stage of a start-up lifecycle. 
+
+JEL Classification : L26, M13, G14, G24, G32, O34 
+
+Dateigröße: 535,6 KB</abstract>
+                    <subject>
+                        <topic>Innovation</topic>
+                        <topic>Entrepreneurship</topic>
+                        <topic>Finance</topic>
+                        <topic>Information Asymmetries</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20090062</identifier>
+                    <identifier type="sys">HT015829803</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_747</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_747">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp09/sdp09001.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_747"
+            DMDID="DMD_wuppertal_elpub_747">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_747"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

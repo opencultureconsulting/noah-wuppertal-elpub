@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_756">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Bedeutung der VC-Finanzierung für die Legitimierung junger Unternehmen - Ergebnisse einer empirischen Studie</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Brink, Siegrun</displayForm>
+                        <namePart type="family">Brink</namePart>
+                        <namePart type="given">Siegrun</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This paper reviews the impact of legitimacy on new ventures and explores the overlap between two similar constructs, legitimacy and reputation. A positive organizational reputation can be crucial to successful venture development. Building on the idea that reputation is socially constructed, this paper depicts reputation as the outcome of the process of legitimation. In this context the study investigates the influence of venture capital and the relationship among venture capital finance and venture’s reputation. Results of the empirical study reveal a correlation between venture capital finance and the organizational reputation and legitimation of start-ups.</abstract>
+                    <abstract type="content" lang="ger">Die Gründer junger innovativer Unternehmen sind die Initiatoren eines unternehmerischen Prozesses, der in die Entwicklung bedeutender Innovationen, Wachstumsimpulse und in die Schaffung neuer Arbeitsplätze münden kann. Zugleich wird die Sterblichkeit dieser jungen Unternehmen in den ersten Jahren als überaus hoch eingeschätzt. Timmons/Bygrave (1986) konstatieren jedoch, dass die Finanzierung eines jungen Unternehmens mit Venture Capital zur Reduktion der Mortalitätswahrscheinlichkeit auf 20% bis 30% beitragen kann. Vor diesem Hintergrund wird hier im Rahmen einer Online-Befragung untersucht, welche Bedeutung eine Venture Capital-Finanzierung für die Entwicklung der Reputation junger Unternehmen im Rahmen der unternehmerischen Legitimierung hat. Es zeigt sich, dass eine frühe Finanzierung mit Venture Capital die organisationale Reputation junger Unternehmen positiv beeinflusst und damit zur Legitimierung dieser Unternehmen beitragen kann. 
+
+Dateigröße: 653,5 KB</abstract>
+                    <subject>
+                        <topic>Legitimation</topic>
+                        <topic>Legitimität</topic>
+                        <topic>Reputation</topic>
+                        <topic>Institutionalismus</topic>
+                        <topic>Venture Capital</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20090912</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_756</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_756">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp09/sdp09010.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_756"
+            DMDID="DMD_wuppertal_elpub_756">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_756"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

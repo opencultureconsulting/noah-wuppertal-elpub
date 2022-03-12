@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_7450">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Recognition and Empathy in Illness and Disability Memoirs</title>
+                        <subTitle>Christina Middlebrook’s Seeing the Crab and Harriet McBryde Johnson’s Too Late to Die Young</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Baena, Rosalia</displayForm>
+                        <namePart type="family">Baena</namePart>
+                        <namePart type="given">Rosalia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Focusing on the concepts of narrative empathy and recognition, this article aims to explore ways in which personal narratives may promote a renewed perception of illness and disability. Taking its cue from studies by Rita Felski (2008) and Suzanne Keen (2013), it investigates how empathic experience reflects the force and intensity of aesthetic encounters. Specifically, it addresses two texts that deal with the experience of illness and disability: Christina Middlebrook’s Seeing the Crab. A Memoir of Dying Before I Do (1996) and Harriet McBryde Johnson’s Too Late to Die Young. Nearly True Tales from a Life (2005). These authors write their lives in order to influence the way we perceive and understand illness and disability. Their major cultural mediation lies in their willingness to connect with their readers both affectively and cognitively, counter-arguing the culture of denial of death and rejecting pity and compassion in the face of illness and disability.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 6 (2017) H. 2"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20171121-110006-5</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_7450</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_7450">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-7283/dej17060201.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_7450"
+            DMDID="DMD_wuppertal_elpub_7450">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_7450"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

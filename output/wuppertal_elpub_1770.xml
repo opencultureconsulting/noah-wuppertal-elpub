@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1770">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>On the importance of growth spillovers and regional clustering in the Russian Federation?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Perret, Jens K.</displayForm>
+                        <namePart type="family">Perret</namePart>
+                        <namePart type="given">Jens K.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Regions differ from each other not only in their economic structure but concerning the impact they have on their neighbors. In the present study interregional spillover activities are analyzed for the regions of the Russian Federation. Instead of knowledge spillovers, more general growth spillovers are accounted for. The time period observed in this study is 1994 to 2008, therefore a large part of the Russian transition period. Using the local Moran&apos;s I statistic as a measure of regional spillover activity reveals that only limited spillover activity is present. Additionally, to account for the range of these spillovers, an approach introduced by Bottazzi and Peri (2003) is implemented. It is shown that the spillovers&apos; reach is very limited if present at all.</abstract>
+                    <abstract type="content" lang="ger">Dateigröße: 1,30 MB</abstract>
+                    <subject>
+                        <topic>Russian Federation</topic>
+                        <topic>Spillovers</topic>
+                        <topic>Spatial Economectrics</topic>
+                        <topic>Clustering</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20110119-161054-8</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1770</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1770">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp11/sdp11001.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1770"
+            DMDID="DMD_wuppertal_elpub_1770">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1770"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

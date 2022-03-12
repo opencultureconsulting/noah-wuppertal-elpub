@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_8934">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Wahrheit der Legende. Geltungsbedingungen und Geltungsstrategien legendarischen Erzählens am Beispiel der Legenda aurea</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Prautzsch, Felix</displayForm>
+                        <namePart type="family">Prautzsch</namePart>
+                        <namePart type="given">Felix</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">From a modern rationalist viewpoint, the credibility of Christian hagiography must appear at least doubtful. At the same time, legendary narratives claim to report what really happened in history, when God acted out of transcendence in immanence, in a saint’s life. This truth and reality of the Holy is revealed in the veneration of the saint by the faithful public of the legend. Hagiography thus generates a specific claim of its own to truth, which stands at the variance with the modern and secular separation of facticity and fiction, of ‚truth‘ and ‚legend‘. The present article discusses how, in the Legenda aurea, the most important collection of hagiographies of the high Middle Ages, this claim is realized in institutional and narrative strategies that present the individual legends as part of the liturgically recalled history of salvation. Therefore, the Legenda aurea affirms to impart authenticated facts, even where it acknowledges uncertainties in tradition and dubious embellishments. This conception of reality is replaced only in the Reformation’s criticism of legendary narratives, making history as a historical event the standard for the value of a sacred life.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 7 (2018) H. 2"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20181121-142558-2</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_8934</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_8934">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-8367/dej18070205.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_8934"
+            DMDID="DMD_wuppertal_elpub_8934">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_8934"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

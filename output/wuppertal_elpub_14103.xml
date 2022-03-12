@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14103">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Windelband an Georg Jellinek, Freiburg i. Br., 18.8.1878 (1), 2 S., hs. (dt. Schrift), Bundesarchiv Koblenz, Nachlass Georg Jellinek, N 1136/56</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Windelband an Georg Jellinek, Freiburg i. Br., 18.8.1878 (1), 2 S., hs. (dt. Schrift), Bundesarchiv Koblenz, Nachlass Georg Jellinek, N 1136/56 Freiburg i B. 18 Aug[ust] 1878 Liebster Freund Meinen Dank für Dein schönes Buch[1], das ich erst jetzt in den Ferien mit wirklich großem Genusse gelesen habe, bin ich nicht ohne Hoffnung, Dir persönlich abzustatten und daran Besprechungen über diese Deine Grundlagen der Rechtsphilosophie zu knüpfen, auf welche ich mich sehr freue. Auch Anderes hoffe ich mit Dir dabei zu verabreden. Ehrenberg hat mir nämlich, als er Rümelin[2] zur Reise in die Schweiz abholte, diese Hoffnungen erregt. Seines Wissens bist Du mit Deinem Herrn Papa[3] zur Zeit in Paris, und er schien es für wahrscheinlich zu halten, daß Du resp. Ihr den Rückweg über die Schweiz nähmet. Da nun Ehrenberg in der Schweiz ist, ich in diesen Tagen auch dahin gehe, so bitten wir Dich uns dort ein Rendez-vous zu geben; am liebsten Interlaken oder irgendwo am Vierwaldstätter See. Wenn Du schon in nächster Zeit kämest, und über Straßburg gingest, so würde es ein ideal schöner Gedanke sein, Du holtest mich hier ab. Ist das möglich, so bitte ich um Telegramm, da ich sonst wohl schon Mittwoch von hier fortgehe. | Verzeih, wenn ich sogleich schließe: ein gleichlautender Brief[4] sucht Dich auch noch über Wien zu erreichen; und für beide ist Postschluß. Meine Frau grüßt Dich – ich bitte um Realisirung dieses Plans und Empfehlungen an Deinen Herrn Vater[5]! Auf Wiedersehen! Dein W Windelband Briefe bitte unter allen Umständen zunächst hierher! Anmerkungen der Herausgeber 1↑Buch ] Jellinek: Die socialethische Bedeutung von Recht, Unrecht und Strafe. Wien: Hölder 1878. 2↑Rümelin ] vgl. Windelband an Karl Dilthey vom 3.8.1878 3↑Papa ] Adolf Jellinek (1821–1893) 4↑gleichlautender Brief ] vgl. Windelband an Jellinek vom 18.8.1878 (2) 5↑Vater ] Adolf Jellinek</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000103-7</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14103</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14103">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13103/edWW2020-13103.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14103"
+            DMDID="DMD_wuppertal_elpub_14103">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14103"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

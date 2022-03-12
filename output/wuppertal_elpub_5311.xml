@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5311">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Erzählungen als Handlungsbeschreibungen: Narrative Erklärungen politischer Ordnungen am Beispiel der Vertragstheorie</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dreyer, Malte</displayForm>
+                        <namePart type="family">Dreyer</namePart>
+                        <namePart type="given">Malte</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This article discusses narrative explanations in philosophy, and turns on the central thesis that narrative explanation in philosophy works primarily by de-scribing human action. The question of how description of this kind succeeds leads us to that of how discrete elements can be integrated to form an under-standable and convincing whole story. In accordance with my main thesis, I draw on the theory of narrative research as well as on the theory of action. The latter points to three ways of describing human action: causal, teleological and holistic descriptions. From this typology I deduce a list of narrative explanations and suggest some reasons for why we should prefer the holistic approach. In the final paragraph I illustrate my argument with the example of social contract the¬ory, which shows how the different types of narrative explanation work.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 4 (2015) H. 2"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20151117-112903-8</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5311</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5311">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-5153/dej15040202.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5311"
+            DMDID="DMD_wuppertal_elpub_5311">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5311"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14327">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Windelband an Wilhelm Raabe, Straßburg, August 1901, 1 S., hs. (lat. Schrift), im gedruckten Schmuckrahmen (aus einer Lorbeer- (links) und Eichengirlande (rechts), die sich oben in der Mitte treffen. In der linken oberen Ecke Wappenschild mit Uhu, in der rechten mit Rabe. Unten Spruchband zum 8 September 1901. vor Stadtansicht Braunschweigs, in zeichnerischer Rekonstruktion des mittelalterlichen Stadtbildes mit Blick von Südost auf Aegidienkirche im Vordergrund und St. Martini im Hintergrund, gezeichnet mit Monogramm IS links unten), Teil einer Geburtstagsadresse an Raabe, Stadtarchiv Braunschweig, Autographensammlung H III 10:36, Nr. 268</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Windelband an Wilhelm Raabe, Straßburg, August 1901, 1 S., hs. (lat. Schrift), im gedruckten Schmuckrahmen (aus einer Lorbeer- (links) und Eichengirlande (rechts), die sich oben in der Mitte treffen. In der linken oberen Ecke Wappenschild mit Uhu, in der rechten mit Rabe. Unten Spruchband zum 8 September 1901. vor Stadtansicht Braunschweigs, in zeichnerischer Rekonstruktion des mittelalterlichen Stadtbildes mit Blick von Südost auf Aegidienkirche im Vordergrund und St. Martini im Hintergrund, gezeichnet mit Monogramm IS links unten), Teil einer Geburtstagsadresse an Raabe, Stadtarchiv Braunschweig, Autographensammlung H III 10: 36, Nr. 268 Es ist dahin für immer, – jenes wunderliche Kleinleben der Deutschen, darin so tiefer und heiliger Idealismus steckte: und wenn wir dem Manne huldigen[1], der es im Bilde der Dichtung für alle Zeiten festgehalten hat, so sei es in der Hoffnung, dass auch in neuen Lebensformen unser Volk sich den Hunger nach dem Wesenhaften erhalte und bewahrt bleibe vor der Gier nach dem Nichtigen. Strassburg i/Els. August 1901. Wilhelm Windelband. Anmerkungen der Herausgeber 1↑wir dem Manne huldigen ] Windelbands Text ist Teil einer groß angelegten Glückwunschadresse an Wilhelm Raabe zu dessen 70. Geburtstag am 8.9.1901, vgl. Windelband an Louis Engelbrecht, vor 15.8.1901. Zahlreiche Gratulanten hatten ihre Glückwünsche auf vorgedruckten Blättern niedergeschrieben, die dann in einer Kassette gesammelt wurden. Vgl. den Erinnerungsbericht von Heinrich Spiero vom 8.9.1901 in: Wilhelm Raabe: Gespräche. Ein Lebensbild in Aufzeichnungen und Erinnerungen der Zeitgenossen. Hg. v. R. Schillemeit. Göttingen: Vandenhoek &amp; Ruprecht 1983 (Wilhelm Raabe Sämtliche Werke Ergänzungsbd. 4), S. 158–160: Eine festliche, frohgestimmte Menge füllte den Saal des Altstadtrathauses […] Der Rechtsanwalt und Schriftsteller Louis Engelbrecht führte Wilhelm Raabe in den Saal. […] Und als ihm Julius Lohmeyer und der Frankfurter Stadtbibliothekar Emil Sarnow einen großen Kasten mit Widmungen deutscher Dichter und Zeichner überreichten, da fischte er sogleich mit klugem Finderblick ein Blatt hervor […] Es war das erste Mal, daß sich bei festlichem Anlaß ganz Deutschland huldigend bei Wilhelm Raabe einstellte. […] Denn ihm ward das seltsame Schicksal, daß er mit wenigen Werken, vor allem mit einem ganz frühen, großen Erfolg errang und dann Jahrzente hindurch förmlich verschollen war, […] weil das Deutschland der sechziger und noch viel mehr der siebziger und achtziger Jahre von ihm nichts wissen wollte.</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000327-5</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14327</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14327">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13327/edWW2020-13327.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14327"
+            DMDID="DMD_wuppertal_elpub_14327">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14327"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

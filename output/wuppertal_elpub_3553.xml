@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3553">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Can a Single Still Picture Tell a Story?</title>
+                        <subTitle>Definitions of Narrative and the Alleged Problem of Time with Single Still Pictures</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Speidel, Klaus</displayForm>
+                        <namePart type="family">Speidel</namePart>
+                        <namePart type="given">Klaus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">That the same story can be told in different media is one of the fundamental claims of narratology. Claude Bremond (1964) famously listed verbal narrative, novels, theater, movies and ballet among potential vehicles for story. He thus prepared the ground for narratology’s future as a discipline engaged in narrative research across media, in principle including single still pictures. However, narratological research concerned with pictorial narrativity generally proceeds from the assumption that although single pictures may evoke or imply stories, they are unsuitable for storytelling in a strict narratological sense. Focusing on the key issue of temporality, this essay will show that a single still picture may indeed tell “a story proper” (Wolf 2003, 180) and can thus be regarded as a narrative, even according to a narrow definition.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 2 (2013) H. 1"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20130604-083458-0</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3553</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3553">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-3654/dej13020114.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3553"
+            DMDID="DMD_wuppertal_elpub_3553">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3553"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

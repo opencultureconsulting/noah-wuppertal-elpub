@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6150">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Tree structures in the geometric representation theory of quivers</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Weist, Thorsten</displayForm>
+                        <namePart type="family">Weist</namePart>
+                        <namePart type="given">Thorsten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-11-26</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">One of the major goals in the representation theory of quivers is the classification of isomorphism classes of representations of arbitrary quivers and the homomorphism spaces between them. Whence the classification problem is solved for representations of quivers of Dynkin type and those of extended Dynkin type, it is regarded as very hard for the remaining wild quivers. One of the main aims of this habilitation is to make a contribution to geometric representation theory with focus on wild quivers. Thereby, tree structures happen to play an important role. We concentrate on three aspects. The first one contributes to the mentioned classification problem in such a way that we introduce methods which can be used to construct isomorphism classes of indecomposable representations which can be described by as many parameters as predicted by Kac&apos;s Theorem. Often tree modules serve as a skeleton in this construction and the investigations raise hope that, at least for a certain class of roots, further considerations can lead to a normal form for indecomposable quiver representations. Geometric considerations build the bridge to the second, cohomological, aspect. Maybe the main knowledge gained in this theory throughout the last years is that the Euler characteristic of moduli spaces of stable quiver representations can be obtained in a purely combinatorial way when counting certain trees. But this is not the end of the story as there is an equivalent formula in the theory of Gromov-Witten invariants counting rational curves on weighted projective planes. In a sense, it turns out that in the theory of Gromov-Witten invariants certain tropical curves, whose underlying graphs are also trees, play the role of torus fixed points of moduli spaces. The third aspect is on the investigation of quiver Grassmannians attached to representations of extended Dynkin quivers of type D. We show that every quiver Grassmannian admits a cell decomposition into affine spaces. As we can associate a tree with each cell, the Euler characteristic is already given by its number. This can be used to obtain an explicit description of the generating functions of the Euler characteristics. These generating functions are then again important in the theory of cluster algebras as they can be used to determine the corresponding cluster variables.</abstract>
+                    <classification authority="ddc">510</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik » Habilitationsschriften"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20160916-103849-3</identifier>
+                    <identifier type="sys">HT019106915</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6150</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6150">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/habi2015/weist/hc1501.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6150"
+            DMDID="DMD_wuppertal_elpub_6150">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6150"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14045">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Universität Heidelberg, Akademisches Direktorium: Todesanzeige für Wilhelm Windelband, Heidelberg, 23.10.1915, 1 S., Drucksache, UB Heidelberg, A 2737 Folio RES::16.1911-16 (http://www.ub.uni-heidelberg.de/archiv/17455)</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Universität Heidelberg, Akademisches Direktorium: Todesanzeige für Wilhelm Windelband, Heidelberg, 23.10.1915, 1 S., Drucksache, UB Heidelberg, A 2737 Folio RES::16.1911-16 (http://www.ub.uni-heidelberg.de/archiv/17455) Universität Heidelberg. Akademisches Direktorium. Heidelberg, den 23. Oktober 1915. Wir machen die betrübende Anzeige[1], dass Herr Geheime Rat Professor Dr. Wilhelm Windelband gestern Nachmittag verschieden ist. Die Bestattung findet am Montag, den 25. Oktober, nachmittags 3 Uhr von der Friedhofkapelle aus statt. Anzug: Rock, schwarze Binde und Handschuhe. Bauer[2], d. Zt. Prorektor.[a] Anmerkungen zum Textbefund a↑Bauer, d. Zt. Prorektor. ] am Fuß der S. unter dem Trauerrand Druckhinweis UNIVERSITÄS-BUCHDRUCKEREI J. HÖRNING Anmerkungen der Herausgeber 1↑Anzeige ] vgl. die Kondolenztelegramme und -schreiben in der Personalakte Windelbands, UA Heidelberg, PA 2449, Bl. 17ff.: Großherzog Friedrich; Großherzogin Luise; Minister des Kultus und Unterrichts Karlsruhe; Präsident Evangelischer Oberkirchenrat Karlsruhe; Direktor Gymnasium Heidelberg; Direktor Oberrealschule Heidelberg; Grossherzoglicher Amtsvorstand; Wilhelm Prinz von Sachsen-Weimar, Herzog zu Sachsen, Oberstleutnant im Stabe der 8. Landwehr-Divison; Königliche Kommandantur des Offizier-Gefangenenlagers Heidelberg; Kommandantur des 1. Ersatz-Bataillons der Großherzoglich Mecklenburgischen Jäger-Bataillons Nr. 14; Stadtrat Heidelberg, Universitäten Budapest, Straßburg, Leipzig, Zürich; Technische Hochschule Karlsruhe 2↑Bauer ] Johannes Bauer (1860–1930), evangelischer Theologe, seit 1910 o. Prof. in Heidelberg, 1915 Prorektor (NDB).</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000045-7</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14045</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14045">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13045/edWW2020-13045.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14045"
+            DMDID="DMD_wuppertal_elpub_14045">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14045"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

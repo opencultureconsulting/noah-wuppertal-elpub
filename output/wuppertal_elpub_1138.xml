@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1138">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Hochschulabsolventen für den Europäischen Arbeitsmarkt - eine Herausforderung für die Universitäten</title>
+                    </titleInfo>
+                    <titleInfo lang="ger" type="translated">
+                        <title>Beiträge zur Hochschulpolitik 4/97</title>
+                    </titleInfo>
+                    <titleInfo lang="eng" type="translated">
+                        <title>Fedora Career Guidance and Employment: 4th European Conference at the University Rostock - 1996</title>
+                    </titleInfo>
+                    <titleInfo lang="eng" type="translated">
+                        <title>Graduate Employment in Europe - a Challenge for Universities, Developing Careers Guidance in Student Advisory Services</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm></displayForm>
+                        <namePart type="family">null</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <subject>
+                        <topic>Zentrale Studienberatung (ZSB) » Fedora - Forum Européen de l&apos; Orientation Académique » Arbeitsgruppen/Working Groups/Les Groupes de Travail » Career Guidance and Employment » Konferenzen/Conferences/Les Conférences</topic>
+                    </subject>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20070205</identifier>
+                    <identifier type="sys">HT015354236</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1138</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1138">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/zsb/fedora/workgr/employment/conf/rostock96/empl96.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1138"
+            DMDID="DMD_wuppertal_elpub_1138">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1138"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3787">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wie Comics erzählen</title>
+                        <subTitle>Jakob F. Dittmars Versuch einer Systematisierung der Comic-Analyse</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Abel, Julia</displayForm>
+                        <namePart type="family">Abel</namePart>
+                        <namePart type="given">Julia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Jakob F. Dittmar (2008): Comic-Analyse. 2., überarb. Aufl. Konstanz: UVK Verlagsgesellschaft 2011. 220 S. EUR 34,00. ISBN 978-3-86764-301-6 
+
+ Die Comic-Forschung hat in den letzten Jahren einen regelrechten ‚Boom‘ erlebt. Galt der Comic lange Zeit als triviales Massenmedium, das noch vor einer Generation bestenfalls zähneknirschend in Kinder- und Jugendzimmern (und nur dort) geduldet wurde, hat sich sein Ansehen mit dem Aufkommen anspruchsvoller, komplex erzählter ‚Graphic Novels‘ stark verändert. Zu den Meilensteinen auf diesem Weg zählt zweifellos Art Spiegelmans in Comicform verfasste Erzählung von den Holocaust-Erfahrungen seiner Familie, als erster Comic überhaupt wurde Maus. A Survivor’s Tale 1992 mit dem renommierten Pulitzer-Preis ausgezeichnet. Inzwischen werden Comics und speziell ‚Graphic Novels‘ regelmäßig in den Feuilletons deutschsprachiger Zeitungen rezensiert, und auch die deutsche Forschung hat, wenn auch im internationalen Vergleich verzögert, den Comic mittlerweile für sich entdeckt; seit 2005 erscheint das Jahrbuch Deutsche Comicforschung, parallel dazu sind in diesem Zeitraum eine Reihe von grundlegenden Monographien und Sammelbänden erschienen, und seit 2008 liegt mit Jakob F. Dittmars Comic-Analyse nun auch im deutsch¬sprachigen Raum ein ‚Baukasten‘ zur Strukturanalyse von Comics vor – wie gut sich mit ihm arbeiten lässt und ob es nicht geeignetere gibt, ist allerdings die Frage.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 2 (2013) H. 2"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20131120-180312-9</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3787</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3787">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-3900/dej13020207.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3787"
+            DMDID="DMD_wuppertal_elpub_3787">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3787"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

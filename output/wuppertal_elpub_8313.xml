@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_8313">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Potenzierte Fakten. Das Narrativ der Homöopathie</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wege, Sophia</displayForm>
+                        <namePart type="family">Wege</namePart>
+                        <namePart type="given">Sophia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-06-05</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The article introduces the central ideas of Homeopathy as put forward by Samuel Hahnemann in the 1820s, which remain valid in contemporary Homeopathy teachings although they are inconsistent with fundamental laws of nature and have been invalidated by evidence-based medicine. I will propose to conceptualize Homeopathy as a self-proclaimed factual narrative situated on the borderline of fiction, arguing that it fuses fictive with real / factual elements and that its immense popularity and pervasiveness can be explained by its narrative quality and functionality. Further, the article describes strategies of narrativation in the story of Homeopathy as wells as techniques on the level of discourse which mark the texts as part of factual scientific discourse.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 7 (2018) H. 1"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20180522-163044-1</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_8313</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_8313">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-7739/dej18070104.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_8313"
+            DMDID="DMD_wuppertal_elpub_8313">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_8313"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

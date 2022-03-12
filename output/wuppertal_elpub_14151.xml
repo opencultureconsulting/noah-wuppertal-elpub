@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14151">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Windelband an Friedrich Theodor Althoff, Freiburg i. Br., 10.9.1883, 2 S., hs. (dt. Schrift), Geheimes Staatsarchiv Preußischer Kulturbesitz Berlin, VI. HA Nl Althoff, F. T. Nr. 1020</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Windelband an Friedrich Theodor Althoff, Freiburg i. Br., 10.9.1883, 2 S., hs. (dt. Schrift), Geheimes Staatsarchiv Preußischer Kulturbesitz Berlin, VI. HA Nl Althoff, F. T. Nr. 1020 Freiburg iB Dreisamstr[aße] 7 10 Sept[ember] 83 Sehr verehrter Herr Geheimerat[a],[b] Mit bestem Dank für Ihre freundliche Zuschrift beantworte ich Ihre Fragen umgehend. Siebeck[1] ist bereits Mitte August nach Gießen übergesiedelt, wollte, als ich ihn zuletzt sprach, dann auf etwa eine Woche nach Thüringen reisen, und von Anfang September an mit Familie in Gießen sein. ich darf deshalb jetzt ihn dort nicht sicher vermuthen. Paul[2] hat, sowie ich hier gehört habe, den Ruf nach Jena noch nicht, obwol er primo loco[c] vorgeschlagen ist. Den Grund der Verzögerung gab mir ein sehr eingeweihter Je|nenser College dahin an, er bestehe lediglich darin, daß man von dem Ausfall der Berufung des Nachfolgers für den Kirchenhistoriker Hase[3] die Höhe der Anerbietungen abhängig machen müsse, welche man dort dem Germanisten bieten könne. Paul ist gegenwärtig in seiner Magdeburger Heimat und wird binnen etwa acht Tagen hier zurückerwartet. In der angenehmen Hoffnung, Sie bald wiederzusehen, verbleibe ich, verehrtester Herr Geheimerath[d], Ihr hochachtungsvoll ergebner Windelband Anmerkungen zum Textbefund a↑Geheimerat ] so wörtlich b↑Sehr verehrter Herr Geheimerat, ] links oben von Althoffs Hd. mit Bleistift: Windelband. c↑primo loco ] in lat. Schrift d↑Geheimerath ] so wörtlich Anmerkungen der Herausgeber 1↑Siebeck ] der Philosoph Hermann Siebeck 2↑Paul ] der Germanist Hermann Paul, vgl. Windelband an Friedrich Theodor Althoff vom 9.4.1883. 3↑Hase ] Karl Hase (1800–1890; 1883 geadelt), evangelischer Theologe u. Kirchenhistoriker, theologische Habilitation in Tübingen, mehrfach inhaftiert wegen Mitgliedschaft in einer Burschenschaft, 1828 in Leipzig für Philosophie habilitiert, 1830–1883 Prof. der Philosophie in Jena (NDB).</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000151-4</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14151</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14151">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13151/edWW2020-13151.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14151"
+            DMDID="DMD_wuppertal_elpub_14151">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14151"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

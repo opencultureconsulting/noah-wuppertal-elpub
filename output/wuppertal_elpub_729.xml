@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_729">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Central exit examinations increase performance...but take the fun out of mathematics</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jürges, Hendrik␞Schneider, Kerstin</displayForm>
+                        <namePart type="family">Jürges</namePart>
+                        <namePart type="given">Hendrik␞Schneider</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In response to PISA, all German federal states but one have adopted central exit examinations (CEEs) at the end of all secondary school tracks. Theoretically, the advantages of CEEs are fairly undisputed. CEEs make teaching and learning output observable and comparable across schools, and provide incentives for teachers and students to increase their effort. In line with earlier research, we confirm that CEEs have a positive causal effect on student performance. We also investigate what actually drives this effect. We find that the teachers&apos; main reaction to CEEs is to increase the amount of homework, and to check and discuss homework more often. Students report increased learning pressure, which has sizeable negative effects on student attitudes towards learning. Students who take central exit exams in mathematics like mathematics less, think it is less easy and they are more likely to find it boring. 
+
+JEL Classification : I28, H42, D02 
+
+Dateigröße: 446,2 KB</abstract>
+                    <subject>
+                        <topic>High-stakes testing</topic>
+                        <topic>student achievement</topic>
+                        <topic>teacher quality</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20080459</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_729</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_729">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp08/sdp08001.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_729"
+            DMDID="DMD_wuppertal_elpub_729">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_729"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

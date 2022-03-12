@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14090">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Windelband an Erziehungsdirektion des Kantons Zürich, Freiburg i. Br., 23.5.1877, 1 S., hs. (dt. Schrift), mit Aktennotiz von anderer Hand, Staatsarchiv des Kantons Zürich, U 103.4.40, Bl. 14</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Windelband an Erziehungsdirektion des Kantons Zürich, Freiburg i. Br., 23.5.1877, 1 S., hs. (dt. Schrift), mit Aktennotiz von anderer Hand, Staatsarchiv des Kantons Zürich[1], U 103.4.40, Bl. 14 Freiburg i. B. 23. Mai 1877. Der Tit. Erziehungsdirection bestätige ich dankend den Empfang der Anweisungen auf 8 fr Prüfungsgelder und 100 fr Collegiengelder für die Vorlesung über Geschichte der Pädagogik im vergangenen Winter. Der besonderen Honorirung dieser letzteren Vorlesung, welche man, als man mich um Einrichtung derselben anging, in Aussicht stellt, sehe ich fernerhin entgegen. Mit vorzüglicher Hochachtung Prof. Dr. Windelband[a] An die Erziehungsdirection des Kantons Zürich[b] Anmerkungen zum Textbefund a↑Prof. Dr. Windelband ] Namenszug von anderer Hand mit rotem Farbstift unterstrichen b↑An die Erziehungsdirection des Kantons Zürich ] unter dfer Adresse Aktennotiz: Professor Windelband war durch die Anstellungsurkunde zur unentgeltl[ichen] Bethätigung an der Lehramtsschule verpflichtet, soweit dadurch die wöch[entliche] Stundenzahl 10–12 nicht übersteigen würde. Hr. Windelband hatte im Wintersemester angekündigt | Aesthetik 3 | Antike Philosoph[ie] 4 | Kritik der Schopenh[auerischen] Ph[ilosophie] 1 | Philos[ophische] Uebungen 2 | Lehramtsschule 2 | Stunden 12 | Die Philosoph[ischen] Uebungen wurden nicht gelesen, also im Ganzen nur 10 Stunden. | Goob [Lesung des Namenszugs unsicher] Anmerkungen der Herausgeber 1↑Staatsarchiv des Kantons Zürich ] mit Dank an Florian Christen, Menziken (Schweiz)</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000090-8</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14090</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14090">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13090/edWW2020-13090.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14090"
+            DMDID="DMD_wuppertal_elpub_14090">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14090"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

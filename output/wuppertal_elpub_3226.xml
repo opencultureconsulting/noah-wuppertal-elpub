@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3226">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Dos Passos instead of Goethe!</title>
+                        <subTitle>Some observations on how the history of narratology is and ought to be conceptualized</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Martínez, Matías</displayForm>
+                        <namePart type="family">Martínez</namePart>
+                        <namePart type="given">Matías</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Taking as starting point some collective volumes since the year 2000 which aspire to provide new views on narratology, this essay discusses the problem of how to conceive the history of narratology in a way that is more enlightening than the linear narrative used so far to tell this story. It lists some aspects which are neglected by the usual narrative and favors a decentered conception of narratology’s development.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 1 (2012) H. 1"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20121121-123208-7</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3226</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3226">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-3333/dej12010116.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3226"
+            DMDID="DMD_wuppertal_elpub_3226">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3226"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

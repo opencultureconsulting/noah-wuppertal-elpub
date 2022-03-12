@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3781">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Fictual Matters</title>
+                        <subTitle>Narration as a Process of Relating in Mark Bowden’s Blackhawk Down (1997)</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Berning, Nora</displayForm>
+                        <namePart type="family">Berning</namePart>
+                        <namePart type="given">Nora</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Mark Bowden’s hypertext Blackhawk Down (1997) is a paradigmatic example of literary journalism. In this essay, I shall demonstrate that the performative power of Bowden’s hypertext is erected upon a number of textual signals that can be rendered intelligible with the help of analytical tools provided by narratology. I seek to shed light on the genre- and media-specific structures that serve as ways of cultural worldmaking as well as the ethical and epistemological functions of narratological categories that Bowden uses in order to advance narration so that it becomes a process of relating. The most urgent need in the context of a Critical Ethical Narratology (CEN) is to find a way to talk about the formal properties of hybridized (fictual) genres and to combine this discussion with a consideration of their ideological and ethical implications. The analytical framework of CEN promises to give insights into literary journalism as a genre that is heavily involved in the representation, construction and dissemination of ethical values and norms.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 2 (2013) H. 2"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20131120-170312-4</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3781</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3781">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-3894/dej13020201.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3781"
+            DMDID="DMD_wuppertal_elpub_3781">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3781"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

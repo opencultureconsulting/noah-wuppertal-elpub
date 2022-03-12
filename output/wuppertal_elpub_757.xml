@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_757">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>School Choice in German Primary Schools: How binding are school districts?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Riedel, Andrea␞Schneider, Kerstin␞Schuchart, Claudia␞Weishaupt, Horst</displayForm>
+                        <namePart type="family">Riedel</namePart>
+                        <namePart type="given">Andrea␞Schneider</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In this paper we look at school choice in primary schools in Germany. The data used is from Wuppertal, a major city in North-Rhine Westphalia (NRW), where school districts were abolished in 2008 to allow for free school choice. Here we look at the situation before 2008 to learn more about choice in the presence of school districts. Our analysis shows that it is not uncommon to visit a primary school that is not the assigned public school. Moreover, parents choose schools taking into account the distance to school, the quality and the socioeconomic composition of the school. Families from disadvantaged neighborhoods tend to send their children to the assigned school. A high percentage of migrants and/or economically disadvantaged families in the school district, however, induces parents to choose another school. Advantaged families make segregating choices, whereas the results for disadvantaged are not clear cut. The negative external effect of choice on the composition of the not chosen school is significant and the level of segregation in the primary schools is high and exceeds the level of residential segregation.</abstract>
+                    <abstract type="content" lang="ger">Dateigröße: 1,28 MB</abstract>
+                    <subject>
+                        <topic>Education system</topic>
+                        <topic>segregation</topic>
+                        <topic>school choice</topic>
+                        <topic>denominational school</topic>
+                        <topic>migration</topic>
+                        <topic>socioeconomic status</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20090929</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_757</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_757">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp09/sdp09011.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_757"
+            DMDID="DMD_wuppertal_elpub_757">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_757"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

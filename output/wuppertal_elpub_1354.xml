@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1354">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Phonetisch-akustische Detektion von Selbstsicherheit</title>
+                        <subTitle>Entwicklung eines automatisierten Messverfahrens zur Personalentwicklung</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Krajewski, Jarek␞Kessel, Silke</displayForm>
+                        <namePart type="family">Krajewski</namePart>
+                        <namePart type="given">Jarek␞Kessel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-05-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This paper describes a measurement approach for detecting sympathy and self-confidence based on speech characteristics as investigative personal assessment. The advantages of this automatic real time approach are that obtaining speech data is objective and non obtrusive, and it allows multiple measurement over long periods of time. Different types of acoustic features were computed. In order to identify speech correlates of self-confidence and sympathy, 10 actors were recorded, resulting in 100 segments of speech. 12 raters independently labeled the sympathy and self-confidence impression of the speech segments. Validation strategies reaching recognition rates for 2-class problems of 62.75-76.47 %, in classifying slight from strong sympathy and self-confidence.</abstract>
+                    <abstract type="content" lang="ger">Dateigröße: 909,1 KB</abstract>
+                    <subject>
+                        <topic>acoustic features</topic>
+                        <topic>self-confidence</topic>
+                        <topic>sympathy</topic>
+                        <topic>prosody</topic>
+                        <topic>human resources development</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20100270</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1354</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1354">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp10/sdp10006.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1354"
+            DMDID="DMD_wuppertal_elpub_1354">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1354"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

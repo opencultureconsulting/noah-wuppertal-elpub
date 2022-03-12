@@ -1,0 +1,35 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:989</id><datestamp>2018-01-22</datestamp><setSpec>DDC:6:60:600</setSpec>
+          <dc:title xml:lang="de">Regelzonenübergreifendes Netzengpassmanagement  mit optimalen Topologiemaßnahmen</dc:title>
+          <dc:creator>Kaptue Kamga, Alain Franck</dc:creator>
+          <dc:date>2009-10-21</dc:date>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2009/kaptuekamga</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=989</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20090956</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1095/de0904.pdf</dc:identifier>
+          <dc:description xml:lang="de">Ein Netzengpass liegt vor, wenn unter Annahme eine zu erwartende Einspeise- und Lastsituation die gewählten Beurteilungskriterien der Netzsicherheit für die Erfüllung der Übertragungs- und Versorgungsaufgaben der Übertragungsnetzbetreiber (ÜNB) nicht eingehalten werden können. Die zukünftige Entwicklung des internationalen Stromhandels, die Erhöhung des Anteils der Erzeugung von Strom aus erneuerbaren Energien (insbesondere die Einspeisung aus Windenergie) und die Entwicklung des Kraftwerkparks führen zunehmend zu regelzoneninternen und regelzonengrenzüberschreitenden Netzengpässen im europäischen Verbundnetz. In diesem Kontext hat das regelzonenübergreifende Netzengpassmanagement (NEM) das Ziel einer Netzengpassdetektion und Netzengpassbeseitigung für mehrere Regelzonen auf Basis eines gemeinsamen Datenmodells.&#13;
+&#13;
+&lt;p&gt;Zur Netzengpassbeseitigung greifen die ÜNB auf verschiedenen Maßnahmen wie die Topologieänderungen (netzbezogene Maßnahmen), das Redispatch (Einspeiseverlagerung der Wirkleistung der Kraftwerke) oder der Netzausbau zu.&#13;
+&#13;
+&lt;p&gt;In dieser Arbeit wird das regelzonenübergreifende NEM als ein Optimierungsproblem mit dem Ziel formuliert, den gesamten Aufwand an Maßnahmen zur Netzengpassbeseitigung zu minimieren. Dabei werden insbesondere Topologiemaßnahmen berücksichtigt. Das resultierende kombinatorische Optimierungsproblem besteht aus kontinuierlichen und diskreten Entscheidungsvariablen und wird mit einem Verfahren auf Grundlage genetischer Algorithmen gelöst.&#13;
+&#13;
+&lt;p&gt;Im Bereich der Netzengpassdetektion ermöglicht das vorgestellte Verfahren die Berücksichtigung von beliebigen Beurteilungskriterien von Übertragungsnetzen auf Basis der Netzberechnungsverfahren Lastflussrechnung, Ausfallsimulationsrechnung, Kurzschlusssimulationsrechnung. Im Bereich der Netzengpassbeseitigung kann das vorgestellte Verfahren für alle Phasen des NEM eingesetzt werden. Im kurzfristigen NEM können Kombinationen von Topologiemaßnahmen und Redispatch ermittelt werden. Im langfristigen NEM können Topologiemaßnahmen zur Reduktion des notwendigen Umfangs an Netzbausmaßnahmen ermittelt werden. Aufgrund des allgemeinen Modellansatzes kann das Verfahren für Aufgaben der Verlustminimierung, des Abschaltmanagements oder der Rückbauplanung angewendet werden.&#13;
+&#13;
+&lt;p&gt;Bei den untersuchten Fällen an realen Übertragungsnetzen mit großem Modellumfang konnte mit Topologiemaßnahmen eine erhebliche Reduktion des gesamten Aufwandes an Maßnahmen zur Netzengpassbeseitigung erzielt werden. Mit dieser Arbeit wird ein neues rechnergestütztes Verfahren zur Netzengpassdetektion und Netzengpassbeseitigung für alle Phasen des NEM vorgestellt. In der Netzausbauplanung, Netzbetriebsplanung, Netzbetriebsführung und im Bereich des regelzonenübergreifenden Netzsicherheitsmanagements werden Lösungen zur Effizienzsteigerung des Engpassmanagements für alle ÜNB nachgewiesen.</dc:description>
+          <dc:description xml:lang="en">Congestion on the transmission system occurs when for an expected generation and load pattern the transmission capacities are insufficient. The rapid growth of cross border trading, the increasing usage of renewable energies, for example wind energy, and the generation patterns in the future lead to congestion on the transmission systems. In this context the cross border congestion management have to detect and to alleviate congestions. The congestion detection is based on a common network data model for the involved transmission system operators (TSOs). In order to alleviate congestions, the TSOs can perform different type of measures such as network based measures (topology actions), market based measures (Redispatch) or network expansions.&#13;
+&#13;
+&lt;p&gt;In this work the cross border congestion management is formulated as an optimization problem with the objective to minimize the total costs of the measures to avoid congestions. Hereby topological actions are particularly considered. The resulting optimization problem includes discrete and continuous variables and is solved using an approach based on genetic algorithm.&#13;
+&#13;
+&lt;p&gt;In the area of congestion detection, this work presents a concept to model most of the network security requirements while assessing the transmission systems with the power flow analysis contingency analysis and short circuit analysis.&#13;
+&#13;
+&lt;p&gt;The new algorithm presented can be used in the short-, middle- and long term congestion management. In the short term congestion management network based measures such as switching of lines could be combined with Redispatch in order to reduce the total costs of the congestion management. In the long term congestion management network based measures could be combined with network expansion measures in order to avoid congestions.&#13;
+&#13;
+&lt;p&gt;The concept presented in this work enables furthermore the TSO to use the same algorithm for the purpose of loss minimization, outage management or the dismantlement planning on the grid.&#13;
+&#13;
+&lt;p&gt;Simulation studies on real networks demonstrate the functionality of the developed tool (NEMAS) for the cross border congestion management. Procedures to enhance the efficiency of the cross border congestion management with optimal topology actions are given.</dc:description>
+          <dc:subject>600 Technik, Medizin, angewandte Wissenschaften » 600 Technik » 600 Technik, Technologie</dc:subject>
+          <dc:subject>Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik » Dissertationen</dc:subject>
+          <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
+          <dc:language>deu</dc:language>
+          <dc:format>application/pdf</dc:format>
+          <dc:type>Text</dc:type>
+        </oai_dc:dc>

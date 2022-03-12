@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3118">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Schlaglichter auf narratologische Grundfragen</title>
+                        <subTitle>Gregory Currie legt eine »Philosophy of Stories« vor</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Blume, Peter</displayForm>
+                        <namePart type="family">Blume</namePart>
+                        <namePart type="given">Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Untersuchung von Gregory Currie widmet sich im Wesentlichen drei Themenkomplexen. Der erste Komplex, behandelt in den ersten drei Kapiteln, ist die Frage nach dem Wesenskern von Erzählungen, nach den spezifischen Differenzierungskriterien, durch die sich Erzählungen von anderen sprachli-chen oder nicht sprachlichen Äußerungsarten unterscheiden lassen. Der zweite Themenkomplex wird überraschenderweise in lediglich einem Kapitel erörtert, obwohl der Titel der Studie eine ausführlichere Behandlung erwarten lässt: Es geht dabei um die häufig behandelte Frage nach der Aussageinstanz von Erzählungen und die Trennung zwischen Autor und Erzähler. Den dritten Themenkomplex schließlich bildet die Frage des kommunikativen Rahmens, den Autoren für die Rezeption von Erzählungen vorgeben. In insgesamt sieben Kapiteln geht Currie sowohl den theoretischen Grundlagen für das kommunikative „framing“ von Erzählungen nach als auch konkreten Ausprägungsformen und insbesondere der Bedeutung von Figuren („characters“) für die Rezeptionslenkung.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 1 (2012) H. 1"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20121031-151718-5</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3118</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3118">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-3221/dej12010105.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3118"
+            DMDID="DMD_wuppertal_elpub_3118">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3118"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

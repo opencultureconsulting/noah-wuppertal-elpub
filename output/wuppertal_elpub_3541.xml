@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3541">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Ausweitung und Grenzen der postklassischen Narratologie</title>
+                        <subTitle>Der Wille zur Vermittlung neuer Forschungsergebnisse in Frankreich</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Leyh, Valérie</displayForm>
+                        <namePart type="family">Leyh</namePart>
+                        <namePart type="given">Valérie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">John Pier / Francis Berthelot (Hg.): Narratologies contemporaines. Approches nouvelles pour la théorie et l’analyse du récit. Paris: Éditions des archives contemporaines 2010. 274 S. EUR 28,-. ISBN 978-2813000200 
+
+Die Entstehung dieses Sammelwerks zu neuen narratologischen Forschungsansätzen geht aus besonderen Rahmenbedingungen hervor: Hinter dem dezenten Titel „Narratologies contemporaines“ verbirgt sich das gleichnamige französische Projekt, das sich innerhalb des Zentrums Centre de recherches sur les arts et le langage (CRAL) ausbildete und so an den die Forschung fördernden Centre National de la Recherche Scientifique (CRNS) gekoppelt ist. Zugleich wurde es aber auch in der Form eines jährlichen Seminars in das Masterprogramm (Master en sciences sociales) der Ecole des hautes études en sciences sociales (EHESS) integriert. Sowohl die Forschung als auch die Vermittlung der Forschungs¬ergebnisse in der Lehre liegen diesem Projekt von vornherein zugrunde. Unterschiedliche Aufsätze, die wenigstens zum Teil im Rahmen des Seminars „Narratologies contemporaines“ erarbeitet worden sind, werden in diesem Band erstmals gesammelt veröffentlicht. Dieser erhebt nicht den vermessenen Anspruch, ein „‚Panorama’ der zeitgenössischen Narratologie“ (S. 9) zu bieten, sondern möchte sich auf Ergebnisse neuer Entwicklungen der Narratologie beschränken. Ziel ist es auch, den – durch die internationale Forschung genährten – Aufschwung und die Erneuerung der Narratologie zu dokumentieren. Dass der renommierte Narratologe John Pier an der Quelle dieses Vorhabens steht und sich dadurch als Pionier der Grenzüberschreitung ausweist, verwundert kaum: Drei Jahre zuvor hatte er bereits einen Sammelband heraus¬gegeben, der sich um die Vermittlung, die positive Beeinflussung und gegenseitige Befruchtung deutscher und französischer Narratologie bemühte. In dem Werk Théorie du récit. L’apport de la recherche allemande (Pier 2007) veröffentlichte er zahlreiche Artikel anerkannter deutscher Narratologen in französischer Sprache und förderte dadurch den internationalen Austausch.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 2 (2013) H. 1"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20130528-105628-2</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3541</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3541">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-3642/dej13020111.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3541"
+            DMDID="DMD_wuppertal_elpub_3541">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3541"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

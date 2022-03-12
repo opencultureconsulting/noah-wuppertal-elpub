@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14035">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Windelband: Gutachten über Eduard Lindemeyer zur Bewerbung für das Reichlin-Meldegg-Stipendium, Heidelberg, 9.6.1909, 1 S., hs. (lat. Schrift), UA Heidelberg, H-IV-102/138 (Philosophische Fakultät 1908/09, Dekan: Friedrich Schöll), Bl. 285</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Windelband: Gutachten über Eduard Lindemeyer zur Bewerbung für das Reichlin-Meldegg-Stipendium, Heidelberg, 9.6.1909, 1 S., hs. (lat. Schrift), UA Heidelberg, H-IV-102/138 (Philosophische Fakultät 1908/09, Dekan: Friedrich Schöll), Bl. 285 Heidelberg, 9 Juni 1909 Hoch geehrter Herr Dekan, Zur Verleihung des Reichlin-Meldegg-Stipendiums[1] schlage ich stud. theol. Ed[uard] Lindemeyer[2] aus Bern vor, der von Herrn Koll[egen] Troeltsch als ein höchst eifrig und erfolgreich mit philosophischen Studien beschäftigter junger Mann empfohlen wird. Er erfüllt damit die Hauptbedingung des Statuts, und da diese keine Beschränkung durch Fakultäts- oder Staatsangehörigkeit kennt, so stehen der Verleihung auch keinerlei formale Bedenken im Wege. Windelband An den Dekan der philosophischen Fakultät | Herrn Geh[eimen] Hofrat Prof. Dr. Schöll[3] | hier Anmerkungen der Herausgeber 1↑Reichlin-Meldegg-Stipendiums ] vgl. Windelbands Gutachten über Ludwig Pfülb zur Bewerbung für das Reichlin-Meldegg-Stipendium vom 29.5.1903. 2↑Eduard Lindemeyer ]  immatrikuliert für evangelische Theologie, 1909: http://digi.ub.uni-heidelberg.de/diglit/matrikel1907/0183/image 3↑Schöll ] Friedrich Schöll, geb. 1850, vgl. Wer ist’s? 1912: seit 1877 Prof. der Klassischen Philologie in Heidelberg.</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000035-1</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14035</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14035">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13035/edWW2020-13035.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14035"
+            DMDID="DMD_wuppertal_elpub_14035">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14035"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

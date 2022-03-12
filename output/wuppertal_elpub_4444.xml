@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_4444">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Narratology beyond the Human</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Herman, David</displayForm>
+                        <namePart type="family">Herman</namePart>
+                        <namePart type="given">David</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">This essay uses Lauren Groff’s 2011 short story “Above and Below” to explore aspects of a narratology beyond the human, considering how ideas developed by scholars of narrative bear on questions about the nature and scope of human-animal relationships in the larger biosphere. Bringing Groff’s text into dialogue with the concept of “self-narratives” as developed by Kenneth J. Gergen and Mary M. Gergen, anthropological research on the ontologies projected by the members of different cultures, and ideas from literary narratology, I discuss how the structure and narration of Groff’s story reveal a fault line between two competing ontologies in the culture of modernity, one parsimonious and the other prolific when it comes to allocating possibilities for selfhood across species lines. More generally, in addition to illuminating how a given self-narrative locates the human agent in a transspecies constellation of selves, a narratology beyond the human can assist with the construction of new, more sustainable individual and collective self-narratives that situate the self within wider webs of creatural life.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 3 (2014) H. 2"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20141118-113504-3</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_4444</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_4444">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-4417/dej14030207.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_4444"
+            DMDID="DMD_wuppertal_elpub_4444">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_4444"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

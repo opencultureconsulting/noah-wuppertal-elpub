@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14010">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Anschlagszettel, Leipzig, WS 1874/75, 1 S., hs. (lat. Schrift), Spuren von Reißnägeln an allen vier Ecken, Württembergische Landesbibliothek Stuttgart, Cod. theol et phil. qt. 631.80</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Anschlagszettel, Leipzig, WS 1874/75, 1 S., hs. (lat. Schrift), Spuren von Reißnägeln an allen vier Ecken, Württembergische Landesbibliothek Stuttgart, Cod. theol et phil. qt. 631.80 Im Wintersemester 1874/75 werde ich 1) privatim Geschichte der neueren Philosophie[a] Montag, Dienstag, Donnerstag, Freitag Nachm[ittag] 4–5 Uhr 2) privatim sed gratis[b]. Ueber den Zusammenhang der deutschen Dichtung und der deutschen Philosophie[c] Mittwoch Nachm[ittag] 6–7 vortragen. Aud[itorium] Bornerianum[1] N. I Anfang[d] 29 Oct[ober] resp. 4 Nov[ember] In Rücksicht der Gesellschaft mit Besprechungen von Spinozaʼs Ethik bitte ich die einzelnen Herrrn nach dem 1t. Nov[ember] mit mir persönlich Rücksprache zu nehmen. (Weststraße 81 III) Dr. W. Windelband Anmerkungen zum Textbefund a↑privatim … Philosophie ]  unterstrichen b↑privatim sed gratis ] unterstrichen c↑Zusammenhang … Philosophie ]  unterstrichen d↑Anfang ] unterstrichen Anmerkungen der Herausgeber 1↑Bornerianum ] Name des 1870–71 errichteten dreigeschossigen Collegiengebäudes der Universität Leipzig, mit 10 Hörsälen, die Platz für 55–230 Hörer boten. Als Ruine nach dem 2. Weltkrieg abgetragen.</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000010-8</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14010</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14010">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13010/edWW2020-13010.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14010"
+            DMDID="DMD_wuppertal_elpub_14010">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14010"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3529">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Polyphonie als mehrfach eingebettete Rede bei Flaubert</title>
+                        <subTitle>Andrea Landvogts Verbindung linguistischer und narratologischer Ansätze zu einer Typologie der Redewiedergabe</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bode, Frauke</displayForm>
+                        <namePart type="family">Bode</namePart>
+                        <namePart type="given">Frauke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Andrea Landvogt: Discours cités. Eine äußerungs- und erzähltheoretisch fundierte Typologie der Redewiedergabe am Beispiel von Gustave Flaubert. Heidelberg: Universitätsverlag Winter 2011 (= Studia Romanica Bd. 162). 352 S. EUR 45,-. ISBN 978-3-8253-5780-1 
+
+In der vorliegenden Dissertationsschrift verfolgt die Autorin eine gleich dreifache Forschungsabsicht: Unter Verknüpfung linguistischer mit literaturwissenschaftlichen Ansätzen untersucht sie das Phänomen der Redewiedergabe im Französischen von sowohl äußerungstheoretischer als auch narratologischer Warte aus. Ihre Studie mündet in eine neue Typologisierung der discours cités, wobei die verschiedenen Verfahren insbesondere im Hinblick auf ihre graduelle Zitathaftigkeit funktionalisiert werden. Schließlich werden die herausge¬arbeiteten Wiedergabeverfahren im Detail an einem längeren Abschnitt aus Gustave Flauberts Madame Bovary erprobt. Der Arbeit liegt die zentrale These zugrunde, dass Flauberts „vielzitierte[r] style indirect libre“ (S. 13) weder das einzige noch das zentrale Merkmal der für Romane im Allgemeinen und Madame Bovary im Speziellen konstatierten Bachtin’schen Vielstimmigkeit sei, da diese vielmehr über eine Vielzahl von Verfahren der Redewiedergabe und ein daraus resultierendes „Spiel von Annäherung und Distanzierung“ (S. 15) funktioniere. 
+ Entsprechend ihrem Ansatz erarbeitet die Autorin in Anlehnung an die von Oswald Ducrot entwickelte Differenzierung der Enunziation in einen Produzenten der Äußerung (sujet parlant), einen Urheber des Äußerungsakts (locuteur) und das Subjekt der Äußerung (énonciateur) ein Modell des Äußerungsakts, das ebendiese Unterscheidung auch für den Part des Empfängers der Rede vorschlägt (Kapitel 2). In einem weiteren Schritt überträgt sie dieses Modell und erweitert es für den spezifischen Fall narrativen Sprechens (Kapitel 4), so dass auf dieser Grundlage Kriterien zur Funktionalisierung von Redewiedergabe (vgl. Kapitel 3) zur Verfügung stehen. Die Studie postuliert, dass die unterschiedlichen Verfahren der zitierten Rede auf den Prinzipien des Erwähnens, Berichtens und Darstellens beruhen. Insgesamt werden drei Gruppen von Wiedergabeverfahren unterschieden: monofunktionale (Kapitel 6), polyfunktionale (Kapitel 7) und modifizierte (Kapitel 8).</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 2 (2013) H. 1"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20130527-145226-5</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3529</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3529">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-3639/dej13020108.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3529"
+            DMDID="DMD_wuppertal_elpub_3529">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3529"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

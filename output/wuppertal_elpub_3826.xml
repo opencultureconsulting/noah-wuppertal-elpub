@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3826">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Does Inequality Promote Employment? An International Comparison</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jovicic, Sonja␞Schettkat, Ronald</displayForm>
+                        <namePart type="family">Jovicic</namePart>
+                        <namePart type="given">Sonja␞Schettkat</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This paper investigates whether the ‘big tradeoff’ between efficiency and inequality exists, and analyzes empirically the relationship between inequality, redistribution, and employment/unemployment. The analysis is based on a cross-country longitudinal data set (panel data) of 21 OECD countries in the period 1980 to 2010. We use inequality and redistribution measures (output indicators) rather than institutional variables (input indicators) as independent variables. We do not find a significant effect of income and wage distribution on labor market performance and cannot confirm the hypothesized ‘big tradeoff’.</abstract>
+                    <abstract type="content" lang="ger">Dateigröße: 818 KB</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics » Schumpeter Discussion Papers (SDP)"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20131223-105422-4</identifier>
+                    <identifier type="sys">HT018116973</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3826</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3826">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp13/sdp13009.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3826"
+            DMDID="DMD_wuppertal_elpub_3826">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3826"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_8341">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Auf der Schwelle zur „Vierten Industriellen Revolution“</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kurz, Heinz D.</displayForm>
+                        <namePart type="family">Kurz</namePart>
+                        <namePart type="given">Heinz D.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-06-06</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Arbeitslosigkeit durch rapide technische Neuerungen wird von vielen in der nahen Zukunft befürchtet. Auch die Einkommensverteilung und damit der gesellschaftliche Zusammenhalt können noch stärker in Schieflage geraten. Worin liegen die Gefahren der sogenannten „Vierten Industriellen Revolution“ und wo ihre Chancen? Der Autor gibt einen Überblick über die Zusammenhänge und empfiehlt wirtschaftspolitische Maßnahmen zur Bewältigung potenzieller Probleme. 
+Dateigröße: 365 KB</abstract>
+                    <abstract type="content" lang="eng">The paper discusses some of the probable effects of what is sometimes called the ‘Fourth Industrial Revolution’, based on cyber-physical systems and the internet of things. The attention focuses on their impact on the volume and composition of employment and the distribution of income. Some measures to ward off or mitigate socially harmful consequences of the new waves of technological change are discussed. 
+Dateigröße: 365 KB</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics » Schumpeter Discussion Papers (SDP)"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20180606-094220-5</identifier>
+                    <identifier type="sys">HT019709439</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_8341</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_8341">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp18/sdp18002.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_8341"
+            DMDID="DMD_wuppertal_elpub_8341">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_8341"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

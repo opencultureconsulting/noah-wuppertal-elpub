@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6860">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Research approach for individual team composition for the improvement of the application situation of methods in the area of design methodology</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gust, Peter␞Garbe, Marie␞Kuhlmeier, Marco</displayForm>
+                        <namePart type="family">Gust</namePart>
+                        <namePart type="given">Peter␞Garbe</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">A success factor for product development is the application of a design methodology. Numerous studies have shown the advantages, including shorter development times and reduced costs. However, other studies have shown that design methodology is often not (or only inadequately) applied. The reasons for this are diverse. One reason is that design methodology is considered very time-consuming, since the methods first have to be introduced and explained, and employees have to be qualified. This leads to a further argument for rejection, the assumption that the application is expensive. But the opposite is the case. Methodology, however, cannot be seen as a panacea, and some methods no longer correspond to the state of science. In addition, methods are often too rigid and difficult to adapt to operational needs. One factor for this is the number of available employees, which is often in conflict with the team sizes stipulated by scientific sources. To meet this discrepancy, this paper presents a research approach that deals with the individualization of team sizes. Various factors influencing team performance are described; these must be examined for their relevance. The paper describes a process under development, which is intended to provide an objective assessment of individual employees and an optimal team composition. In addition, the actuality of methods has to be critically examined.</abstract>
+                    <classification authority="ioo" displayLabel="Fakultät für Maschinenbau und Sicherheitstechnik » Maschinenbau » Veröffentlichungen"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170502-111652-8</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6860</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6860">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-6680/ResearchApproachForIndividualTeamComposition.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6860"
+            DMDID="DMD_wuppertal_elpub_6860">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6860"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

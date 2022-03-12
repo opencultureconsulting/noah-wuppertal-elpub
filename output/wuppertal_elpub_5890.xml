@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5890">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Planungs‐ und Betriebsgrundsätze für ländliche Verteilungsnetze - Leitfaden zur Ausrichtung der Netze an ihren zukünftigen Anforderungen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Harnisch, Sebastian␞Steffens, Philipp␞Thies, Hans Henning␞Monscheidt, Julian␞Münch, Linda␞Böse, Carsten␞Gemsjäger, Ben</displayForm>
+                        <namePart type="family">Harnisch</namePart>
+                        <namePart type="given">Sebastian␞Steffens</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Im Rahmen des gegenwärtigen Transformationsprozesses des deutschen Energieversorgungssystems steigt der Anteil der dezentralen Energiewandlungsanlagen kontinuierlich an. Vielfach werden hierbei technische Grenzen der Netze überschritten, sodass ein Netzausbau notwendig ist. Um die hieraus erwachsenden Investitionskosten zu minimieren, wird vermehrt der Einsatz innovativer Betriebsmittel vorgeschlagen. 
+
+Der Leitfaden beschreibt zunächst das Vorgehen für strategische Netzplanungen und geht dabei auch auf den Datenbedarf und Methoden zur Bildung von Einspeiseszenarien ein. Im Anschluss werden die technischen Rahmenbedingungen aufgeführt und dargestellt, wie Netzzustandsverletzungen vor Durchführung der Netzplanung identifiziert werden können. In einem ausführlichen Kapitel werden die für die Verteilungsnetzebenen wesentlichen innovativen Netztechnologien vorgestellt und mögliche Modellierungen für den Planungsprozess erläutert. Für die Nieder-, Mittel- und Hochspannungsebene werden in separaten Kapiteln Planungs- und Betriebsgrundsätze aufgestellt und diese ausführlich erklärt und begründet. Hierbei werden sowohl technische als auch Kostenaspekte behandelt. Dem Leitfaden sind ausführliche Planungsbeispiele für die drei Spannungsebenen angehängt.</abstract>
+                    <subject>
+                        <topic>Netzplanung</topic>
+                        <topic>Erneuerbare Energien</topic>
+                        <topic>Planungsgrundsätze</topic>
+                        <topic>Betriebsgrundsätze</topic>
+                        <topic>Netzausbau</topic>
+                        <topic>Verteilungsnetze</topic>
+                        <topic>Netztechnologien</topic>
+                        <topic>Netzautomatisierung</topic>
+                        <topic>Spitzenkappung</topic>
+                        <topic>Einspeisemanagement</topic>
+                    </subject>
+                    <classification authority="ddc">600</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20160617-144243-6</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5890</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5890">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-5651/eaw0216.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5890"
+            DMDID="DMD_wuppertal_elpub_5890">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5890"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

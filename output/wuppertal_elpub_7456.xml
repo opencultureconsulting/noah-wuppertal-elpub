@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_7456">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Narrative of Feminine Illness in Émile Zola’s Rougon-Macquart</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Marzel, Shoshana-Rose</displayForm>
+                        <namePart type="family">Marzel</namePart>
+                        <namePart type="given">Shoshana-Rose</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Between 1871 and 1893, Émile Zola wrote and published a cycle of twenty vol-umes entitled Les Rougon-Macquart. In this paper we investigate Zola’s fictional accounts of female illnesses in this series. We argue that Zola weaves his narrative by skillfully intermingling his medical knowledge (thus complying with Naturalism), gendered notions of his time, and literary objectives. We apply feminist narratologist Robyn Warhol’s concept of the “cultural construction of gender” and show how Zola, while deeply immersed in his own time, reproduces gendered construction of feminine diseases.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 6 (2017) H. 2"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20171121-113842-4</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_7456</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_7456">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-7289/dej17060207.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_7456"
+            DMDID="DMD_wuppertal_elpub_7456">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_7456"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5310">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Impact of Interactivity on Truth Claims in Life Stories</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Chew, Evelyn␞Mitchell, Alex</displayForm>
+                        <namePart type="family">Chew</namePart>
+                        <namePart type="given">Evelyn␞Mitchell</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Autobiographies, biographies, and documentary life stories all claim to tell a ‘true life story’. Yet each life story genre highlights different aspects of the truth. In autobiography, the personal subjective truth of self-identity is foregrounded. In biography, it is the seemingly objective truth about someone’s life asserted by another person, whose mediation introduces an element of subjectivity. In a documentary life story testimonial, the credibility of the objective truth present¬ed is of utmost importance, but so is the subjective life experience that under¬girds it. In this article we ask: How is interactivity exploited to construct the truth claims in interactive life stories across genres? By comparing three interac¬tive nonfiction life stories – an autobiography, Fitting the Pattern (Wilks 2008), the biographical docugame The Cat and the Coup (Brinson / ValaNejad 2011), and the documentary Alma (Fougère / Dewever-Plana 2012) –, we explore how the aspects of truth most relevant to each life story genre are foregrounded using in¬teractivity.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 4 (2015) H. 2"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20151117-112401-5</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5310</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5310">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-5152/dej15040201.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5310"
+            DMDID="DMD_wuppertal_elpub_5310">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5310"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

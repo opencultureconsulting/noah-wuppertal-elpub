@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9385">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Displacing the Memorial. Holocaust Comics in Conversation with Memory</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Polak, Kate</displayForm>
+                        <namePart type="family">Polak</namePart>
+                        <namePart type="given">Kate</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-06-12</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This paper explores how the reflexivity offered by graphic narratives makes them ideally suited to questioning how enshrined historical narratives can (and should) be troubled. In fact, many graphic narratives that engage with historical atrocities insist that the reader question how the past is framed. Surveying several strategies by which graphic narratives of historical atrocities leverage reader investment, I consider how three planes – identification with characters, inference, and point of view – are used to prompt reflection on the way that history is packaged for consumption and consider how these planes develop an ethical relationship with the reader.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 8 (2019) H. 1"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20190603-162953-0</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9385</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9385">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-8814/dej19080105.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9385"
+            DMDID="DMD_wuppertal_elpub_9385">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9385"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

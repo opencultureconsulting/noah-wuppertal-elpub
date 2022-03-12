@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1388">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Experimentelle Untersuchung und Modellierung der Volumenprozesse in einem mikrowellenangeregten Hexamethyldisiloxan/Sauerstoff/Argon-Beschichtungsplasma</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Leu, George Felix</displayForm>
+                        <namePart type="family">Leu</namePart>
+                        <namePart type="given">George Felix</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die vorliegende Dissertation befasst sich mit der Analyse der Volumenprozesse bei der Schichtabscheidung via Plasmapolymerisation in einem mikrowellenangeregten Hexamethyldisiloxan(HMDSO)/Argon/Sauerstoff-Plasma im Druckbereich zwischen 0.1 mbar und 1 mbar. 
+Leitidee ist die Analyse des Energieflusses durch elektromagnetische Felder in das Elektronengas, damit zu den schweren Teilchen und schließlich zu den Wänden des Reaktors. 
+Die Wechselwirkung zwischen den Elektronen und den schweren Teilchen wird mittels eines im Rahmen der Doktorarbeit entwickelten globalen Modells erklärt. In Argon-reichen Plasmen führt der Energieweg in Richtung Ionisation, aber auch in Richtung Strahlung und, so dass nur ein Bruchteil der eingespeisten Energie nicht sofort verloren geht. Hingegen wirken die sauerstoffreichen Plasmen als eine Art Energiereservoir: die energetisch günstigen Dissoziation- und Anregungskanäle verlangsamen den Energieverlust des Plasmas. 
+Die Messergebnisse in Plasmen mit Hexamethyldisiloxan bestätigen die in Plasmen ohne Monomer identifizierten Tendenzen. Die Vernichtungsrate des Monomers im Plasmavolumen steigt nicht nur mit der eingespeisten Leistung, sondern auch mit dem Sauerstoffanteil in Puffergas an. Die vom Sauerstoff gespeicherte Energie spielt eine entscheidende Rolle bei der Verarbeitung des Monomers. Die in der Fachliteratur veröffentlichten Ergebnisse über die Schichtabscheidungsrate und Schichteigenschaften in Hexamethyldisiloxan Plasmen stehen mit dieser Parametrisierung im Einklang.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20100182</identifier>
+                    <identifier type="sys">HT016322883</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1388</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1388">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1485/de0908.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1388"
+            DMDID="DMD_wuppertal_elpub_1388">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1388"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

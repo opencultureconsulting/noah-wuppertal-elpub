@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14053">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Windelband an Johannes Overbeck, Leipzig, 9.12.1872, 3 S., hs. (dt. Schrift), am Briefkopf gedrucktes Signet: zwei ineinandergeschlungene W-Versalien in einem von einem geschlossenen Gürtel gebildeten Ring, darüber eine fünfzackige Krone, UA Leipzig, PA 1071, Bl. 6-7</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Windelband an Johannes Overbeck, Leipzig, 9.12.1872, 3 S., hs. (dt. Schrift), am Briefkopf gedrucktes Signet: zwei ineinandergeschlungene W-Versalien in einem von einem geschlossenen Gürtel gebildeten Ring, darüber eine fünfzackige Krone, UA Leipzig, PA 1071, Bl. 6-7 Leipzig, 9. Dec[ember] 1872 Hochverehrter Herr Professor! Die liebenswürdige Güte, mit der Sie meine Habilitationsangelegenheit gefördert haben, ermuthigt mich, Ihre Zeit für einen Augenblick für mich in Anspruch zu nehmen. Seit dem zweiten Tage nach meinem Colloquium liege ich an einer Rippenfellentzündung danieder, und jetzt, wo ich meiner baldigen Genesung entgegensehe, dringen die Ärzte in mich, den Rest des Winters im Süden zuzubringen. Da ich bei diesen Entschließungen selbstverständlich auch noch immer meine Habilitation im | Auge behalte, so würden Sie mich durch gütige Beantwortung folgender Fragen[1] außerordentlich verbinden: Ist nach Abwickelung der übrigen Erforderlichkeiten zur Erlangung der venia legendi[a] die Probevorlesung durchaus unumgänglich? Welches wäre der letzte Termin, bis zu welchem ich die Probevorlesung gehalten haben müßte, um noch auf den Katalog des Sommers zu kommen? Wie lange pflegt es zu dauern, daß die Commission zwischen den drei eingereichten Themata entscheidet, oder wie ist dabei der Usus? Ich bedaure, daß ich auf diesem Wege Ihre werthe Gefälligkeit, hochverehrter Herr Professor, in Anspruch zu nehmen genöthigt bin, ich bitte zugleich, die flüchtige Schrift | und Schreibweise des Kranken zu entschuldigen, und bleibe in besonderer Verehrung und Hochachtung Ihr ergebenster Dr. W. Windelband. Thalstraße 15. II. Anmerkungen zum Textbefund a↑venia legendi ] in lat. Schrift Anmerkungen der Herausgeber 1↑Beantwortung folgender Fragen ] vgl. Windelband an Overbeck vom 11.12.1872</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000053-1</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14053</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14053">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13053/edWW2020-13053.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14053"
+            DMDID="DMD_wuppertal_elpub_14053">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14053"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9170">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Urbane Produktion – Konzept und Messung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Piegeler, Monika␞Spars, Guido</displayForm>
+                        <namePart type="family">Piegeler</namePart>
+                        <namePart type="given">Monika␞Spars</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-03-05</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Urbane Produktion wird als Baustein einer zukünftigen Stadtentwicklung diskutiert und dabei oftmals mit dem neuen Hoffnungsträger „Industrie 4.0“ gleichgesetzt. Aber, was genau ist Urbane Produktion und wie kann sie gemessen werden? Diese Arbeit liefert eine praxistaugliche Definition von Urbaner Produktion und ein geeignetes Werkzeug zu derer statistischen Messung. Dabei zeigen wir, dass Städte bereits heute über einen erheblichen Anteil stadtaffiner Branchen verfügen. Dieser Pool an Branchen, den wir als „Humus für die Urbane Produktion“ sehen, erlaubt unterschiedliche Blickwinkel auf das Forschungsdesiderat. 
+Dateigröße: 728 KB 
+JEL COde: L6; R1</abstract>
+                    <abstract type="content" lang="eng">Urban manufacturing is discussed as a crucial element of sustainable development of cities. Thereby, the terms ‘urban manufacturing’ and ‘industry 4.0’ are widely used as synonyms. But, what does it mean, ‘urban manufacturing’? This article provides a practical definition of urban manufacturing and the appropriate measurement. We argue that there is already a significant number of production in cities today, that is affine to urban areas. This pool of industries, which we call ‘humus of urban manufacturing’ allows for different views on urban manufacturing. 
+Dateigröße: 728 KB 
+JEL COde: L6; R1</abstract>
+                    <subject>
+                        <topic>Urbane Produktion</topic>
+                        <topic>Industrie 4.0</topic>
+                        <topic>Stadtentwicklung</topic>
+                        <topic>Nachhaltigkeit</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20190305-092042-6</identifier>
+                    <identifier type="sys">HT019995438</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9170</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9170">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp19/sdp19001.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9170"
+            DMDID="DMD_wuppertal_elpub_9170">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9170"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_8751">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Behavioral Economics of John Maynard Keynes</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schettkat, Ronald</displayForm>
+                        <namePart type="family">Schettkat</namePart>
+                        <namePart type="given">Ronald</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-09-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">After the publication of Keynes’ “General Theory,” economics was frequently described as schizophrenia: (neo-) classical at the micro-level, but Keynesian at the macro-level. In actuality, Keynes’ revolution was, to a substantial part, based on the behavioral micro-foundations of the i&gt;world we live in, which has been dismissed as ad hocery, or simply ignored or reclassified in the neoclassical synthesis. Keynes’ General Theory is truly general. It includes the full-employment equilibrium as a special case. In addition, its microeconomic foundations are broader than the extremely narrow behavioral assumption of the neoclassical model. Consequently, we argue that Keynes’ microeconomics – although not fully worked out - is actually revolutionary. This may be difficult for (neo-) classical economists to accept, but it is strongly confirmed by the recent results in behavioral economics. Keynes’ macroeconomics is the result of his microeconomics. Keynes’ theory is a criticism of (neo-) classical economics, where he offers alternatives from micro to macro. It is truly a general theory, micro and macro. 
+Dateigröße: 917 KB 
+JEL COde: A1, A13, B21, B22, B31, D01, D81, D84, D9, E12, E14, E7</abstract>
+                    <subject>
+                        <topic>Keynes’ economics</topic>
+                        <topic>behavioral economics</topic>
+                        <topic>microeconomics</topic>
+                        <topic>macroeconomics</topic>
+                        <topic>knowledge</topic>
+                        <topic>information</topic>
+                        <topic>uncertainty</topic>
+                        <topic>animal spirits</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20180920-120604-6</identifier>
+                    <identifier type="sys">HT019814978</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_8751</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_8751">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp18/sdp18007.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_8751"
+            DMDID="DMD_wuppertal_elpub_8751">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_8751"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

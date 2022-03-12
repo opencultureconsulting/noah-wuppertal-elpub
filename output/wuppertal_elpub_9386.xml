@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_9386">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Subjectivity and Comics Journalism in the French Magazine XXI. Discrepancy between Paratexts and Texts</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Vanoost, Marie␞Sepulchre, Sarah</displayForm>
+                        <namePart type="family">Vanoost</namePart>
+                        <namePart type="given">Marie␞Sepulchre</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-06-12</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Comics journalism is a form of narrative journalism, but also plays a part in a much wider movement – the hybridization of cultural products – and the increasing blurring of the boundaries between fact and fiction. It presents itself as a way to inject new life into a profession currently in crisis by resurrecting reporter subjectivity. Based on a corpus from the magazine XXI, this article analyses how the alleged subjectivity is expressed in the comics journalism paratext and how it is translated into the cartoon itself – in both its graphic and its textual dimensions. One of the most interesting results is the contrast between the two parts of the analysis: while the paratext almost systematically emphasizes the authors’ personal involvement, the authors make their presence fully known in slightly fewer than half of the cartoons analysed.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 8 (2019) H. 1"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20190603-163537-0</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_9386</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_9386">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-8815/dej19080106.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_9386"
+            DMDID="DMD_wuppertal_elpub_9386">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_9386"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

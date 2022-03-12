@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3114">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Interdisziplinarität als Anspruch und in Wirklichkeit Narratologische Institutionen zu Beginn des 21. Jahrhunderts</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Aumüller, Matthias␞Smerilli, Filippo</displayForm>
+                        <namePart type="family">Aumüller</namePart>
+                        <namePart type="given">Matthias␞Smerilli</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This contribution provides a survey of narratological institutions in Europe and North America. The term “narratological institution” is taken to mean an or-ganization that is devoted to supporting research in narratological matters by supplying researchers with informational structures such as web resources, the organization of workshops and conferences, newsletters and so on. Most atten-tion is paid to German institutions, not because we consider them the most im-portant ones, but simply because we know them better than others. We con-clude by a general remark about the self-characterization of these projects that share an emphasis on transdisciplinary orientation.</abstract>
+                    <abstract type="content" lang="ger">Wissenschaftliche Institutionen stellen Organisationsstrukturen der Wissensreproduktion und -produktion dar. Innerhalb dieser Strukturen können sie Wissenschaftlern Möglichkeiten des Forschens bieten. Im Idealfall wird deren Forschung institutionell gefördert durch das Bereitstellen von organisatorischen (Personal, Räumen), wissensvermittelnden (Bibliographien, Bibliotheken, Datenbanken), kommunikativen (Tagungen, Diskussionsforen, Vorträge) und nicht zuletzt von finanziellen Mitteln (Stipendien, Sachbeihilfen). Nicht immer sind diese Ressourcen im gleichen Maß vorhanden. Ziel unseres Aufsatzes ist es, die Strukturen einiger der derzeit wichtigsten narratologischen Institutionen vorzustellen. Wir werden die nordamerikanische (Kanada und USA) und Teile der der europäischen Forschungslandschaft (Dänemark Deutschland, Frank-reich, Großbritannien) in den Blick nehmen, wobei einen Schwerpunkt die deutschen Institutionen bilden. Innerhalb der einzelnen Kapitel behandeln wir die Institutionen in einer chronologischen Reihenfolge, die sich an ihrem Gründungszeitpunkt orientiert. Ein alphabetisches Verzeichnis aller von uns behandelten narratologischen Institutionen inklusive der dazugehörigen URLs haben wir am Ende des Aufsatzes zusammengestellt.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 1 (2012) H. 1"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20121031-141146-2</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3114</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3114">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-3217/dej12010101.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3114"
+            DMDID="DMD_wuppertal_elpub_3114">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3114"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

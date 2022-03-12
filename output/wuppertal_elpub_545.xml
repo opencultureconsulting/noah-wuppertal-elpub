@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_545">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Atmosphärische Aerosolprozesse - Labor- und Modelluntersuchungen -</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Vogt, Rainer</displayForm>
+                        <namePart type="family">Vogt</namePart>
+                        <namePart type="given">Rainer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004-02-16</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In this work two experimental methods are described which were developed to investigate heterogeneous reactions occurring on solid aerosol surfaces. Diffuse reflectance infrared Fourier transform spectroscopy (DRIFTS) and diffuse transmission infrared spectroscopy were utilized to elucidate the reaction mechanism and kinetics of the reactions of the nitrogen oxide compounds NO₂, HNO₃, and N₂O₅ with sea salt, mineral dust and soot surfaces. NaCl was used as a model compound for crystalline sea salt aerosol. It was shown that the reactions of HNO₃ and N₂O₅ represent important sinks for the nitrogen oxide budget. The NO₂ reaction plays only a minor role in the atmosphere. 
+It was found that during the heterogeneous reactions of NO₂, HNO₃, and N₂O₅ with mineral dust the first reaction step involves surface OH-groups. During all reactions surface saturation was observed. The kinetics of the reaction of NO₂ with Al₂O₃ was found to be approximately second order in NO₂. The kinetics of the HNO₃ and N₂O₅ reactions are first order. It could be shown that after surface saturation had occurred the reactivity could be widely restored by exposure to water vapor. The reaction of NO₂ is slow and is of negligible importance in the atmosphere. The reactions of HNO₃ and N₂O₅ with mineral dust appear to be fast and should be included in atmospheric models. 
+During the reactions of NO₂ and HNO₃ with soot surface species with the functional groups R-CO, R-NO₂, R-ONO, and R-ONO₂ could be identified. The reaction order of the NO₂ and HNO3 reactions are smaller than one. The uptake kinetics could be fitted using a fast and a slow saturation reaction. Because for both processes the number of reactive surface sites is limited, the soot reactions play only a minor role in the photooxidant budget of the atmosphere. 
+Within this work an autocatalytic halogen activation mechanism was developed, which was shown to represent a significant source for reactive bromine and chlorine in the marine boundary layer. The reactions were included in a photochemical box model and halogen radical concentrations and ozone destruction rates were calculated for marine boundary layer conditions. In addition, a new sulfur-(IV) oxidation mechanism involving HOCl and HOBr was proposed which would dominate and significantly increase the sulfur oxidation in the marine boundary layer. The bromine and chlorine activation scheme was investigated in combination with a newly developed iodine reaction scheme. It was shown that the chlorine and bromine activation was enhanced by iodine chemistry. Further the mechanism describes the enrichment of particulate iodine in the chemical form of iodate, which has been observed in the marine environment.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie » Habilitationsschriften"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20040570</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_545</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_545">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-641/h090201.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_545"
+            DMDID="DMD_wuppertal_elpub_545">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_545"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

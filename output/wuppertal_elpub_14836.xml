@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14836">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Windelband an Paul Siebeck, Badenweiler, 2.6.1914, 2 S., hs. (lat. Schrift), vorliniertes Papier mit gedrucktem Briefkopf unter Hotelansicht (mit Angabe der Druckerei KORNSAND &amp; Co. FRANKFURT A/M.): HOTEL RÖMERBAD BADENWEILER | BAD. SCHWARZWALD | TELEGR.-ADRESSE ROEMERBAD BADENWEILER | TELEFON NO. 10. | (unter Wappen:) GEBRÜDER JONER | HOFLIEFERANTEN S. K. H. des | GROSSHERZOGS VON BADEN | den …, Staatsbibliothek zu Berlin, Haus Potsdamer Straße, NL 488 A 0362,3</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Windelband an Paul Siebeck, Badenweiler, 2.6.1914, 2 S., hs. (lat. Schrift), vorliniertes Papier mit gedrucktem Briefkopf unter Hotelansicht (mit Angabe der Druckerei: KORNSAND &amp; Co. FRANKFURT A/M.): HOTEL RÖMERBAD BADENWEILER | BAD. SCHWARZWALD | TELEGR.-ADRESSE ROEMERBAD BADENWEILER | TELEFON NO. 10. | (unter Wappen:) GEBRÜDER JONER | HOFLIEFERANTEN S. K. H. des | GROSSHERZOGS VON BADEN | den …, Staatsbibliothek zu Berlin, Haus Potsdamer Straße, NL 488 A 0362,3 2. Juni 1914[a] Hochgeehrter Herr Doctor, Besten Dank für Ihren Brief[1] mit den freundlichen Grüssen und Wünschen für meine Erholung, die ich hier erfüllt zu finden hoffe: es behagt mir bisher hier ausserordentlich. Mit einer Auflage von 1600 Exemplaren und einem Pauschalhonorar von 2750 Mk. für die „Praeludien“ fünfter Auflage bin ich durchaus einverstanden. Wegen der russischen Uebersetzung möchte ich | Sie bitten, dem Verleger zu schreiben, dass ich es lieber sehen würde, wenn sie Herrn[b] Dr. Rudajeff übertragen würde, den ich kenne, den ich geprüft habe und dem ich meinerseits gesagt habe, dass ich ihn als Uebersetzer sehr gern sehen würde. Den Herrn Ivanovski kenne ich nicht näher. Sollte jedoch der Verleger sich schon fest gebunden haben, so stimme ich Ihrer Abmachung mit ihm auch für Herrn[c] Ivanovski zu. Wenn Sie den Anteil an der Entschädigungssumme an mich überweisen, so bitte ich dies wieder an die Rheinische Creditbank, Filiale Heidelberg, Depositenkasse Ludwigsplatz auf mein Konto zu tun, aber meine Rechnung[d] für die Versendung der „Einleitung“ und die nachträglich gelieferten Exemplare in Abzug zu bringen. In freundlicher Erwiderung Ihrer Pfingstgrüsse mit hochachtungsvollem Grusse wie stets der Ihrige Windelband Anmerkungen zum Textbefund a↑2. Juni 1914 ] darunter Eingangsvermerk von anderer Hd.: 5.VI.12 beantw. b↑Herrn ] Hrn. c↑Herrn ] Hrn. d↑meine Rechnung ] mit rotem Farbstift unterstrichen, am Rand von anderer Hd.: Coupon Anmerkungen der Herausgeber 1↑Ihren Brief ] vgl. Siebeck an Windelband vom 29.5.1914</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000836-4</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14836</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14836">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13836/edWW2020-13836.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14836"
+            DMDID="DMD_wuppertal_elpub_14836">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14836"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

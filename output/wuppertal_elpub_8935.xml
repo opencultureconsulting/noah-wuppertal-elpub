@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_8935">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Failure of Catharsis. The Reconstruction of Joseph’s Moral Intent in Two Post-Biblical Narratives</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sklar, Howard</displayForm>
+                        <namePart type="family">Sklar</namePart>
+                        <namePart type="given">Howard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Due to the sparseness of its narrative style, the biblical story of Joseph has prompted later scholars and writers to expand upon its suggestive meanings. In this essay, I examine two post-biblical retellings of the Joseph story, the medieval Book of Yashar and the allegedly pre-Christian series of deathbed “testaments” known collectively as The Testaments of the Twelve Patriarchs. These texts, elaborating imaginatively on details contained in the biblical model, draw distinctly different conclusions regarding the nature of the protagonist and the process by which he reconciles with his brothers. Although each of these three narratives meets some of the generic and moral expectations of the audiences to which they originally were addressed, I suggest that the post-biblical retellings ultimately fall short of the compressed suggestiveness and cathartic potency of the biblical narrative. In developing these claims, I will identify the rhetorical, lexical, and thematic features that distinguish the two later works from the biblical version.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 7 (2018) H. 2"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20181121-143336-4</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_8935</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_8935">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-8368/dej18070206.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_8935"
+            DMDID="DMD_wuppertal_elpub_8935">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_8935"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

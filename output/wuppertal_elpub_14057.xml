@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14057">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Windelband an Rudolf Leuckart, o. O. (Rom), o. D. (vor 19.4.1873), 1 S., hs. (dt. Schrift), am Kopf Notiz des Empfängers: 2170 Erhalten am 19. Apr. 73, am Briefkopf links oben Prägestempel: oval umrandetes Feld, darin unter einer Krone der Schriftzug RATH, UA Leipzig, PA 1071, Bl. 13r</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Windelband an Rudolf Leuckart, o. O. (Rom), o. D. (vor 19.4.1873), 1 S., hs. (dt. Schrift), am Kopf Notiz des Empfängers: 2170 Erhalten am 19. Apr. 73, am Briefkopf links oben Prägestempel: oval umrandetes Feld, darin unter einer Krone der Schriftzug RATH, UA Leipzig, PA 1071, Bl. 13r Der philosophischen Facultät der Universität Leipzig erlaubt sich der ergebenst Unterzeichnete, im Anschluß an die von ihm im November des vorigen Jahres geleisteten Praestanda zur Habilitation die folgenden Themata[1] behufs der Probevorlesung zu unterbreiten: 1) Ueber die Entwicklung des Begriffs des Unbewußten in der Deutschen Philosophie. 2) Ueber das Verhältniß der Erkenntnißtheorie zur Metaphysik. 3) Ueber die Bedeutung der Persönlichkeiten der Philosophen für die Geschichte der Philosophie. Dr. Wilh. Windelband. Anmerkungen der Herausgeber 1↑Themata ] gewählt wurde das 2. Thema, vgl. Windelbands Habilitationsschrift, deren vollständiger Titel im Druck lautet: Ueber die GEWISSHEIT DER ERKENNTNISS. Habilitationsschrift der philosophischen Facultät der Universität zu Leipzig vorgelegt und als Einladung zu der am 26. April 1873 Morgens 11 Uhr im Bornerianum Nr. VI zu haltenden Probevorlesung über das Verhältniss der Erkenntnisstheorie zur Metaphysik ausgegeben von Dr. Wilhelm Windelband. Berlin: F. Henschel 1873.</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000057-5</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14057</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14057">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13057/edWW2020-13057.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14057"
+            DMDID="DMD_wuppertal_elpub_14057">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14057"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

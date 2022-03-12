@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3861">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Health, financial incentives, and early retirement: Micro-simulation evidence for Germany</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jürges, Hendrik␞Thiel, Lars␞Bucher-Koenen, Tabea␞Rausch, Johannes␞Schuth, Morten␞Börsch-Supan, Axel</displayForm>
+                        <namePart type="family">Jürges</namePart>
+                        <namePart type="given">Hendrik␞Thiel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">About 20% of German workers retire on disability pensions. Disability pensions provide fairly generous benefits for those who are not already age-eligible for an old-age pension and who are deemed unable to work for health reasons. In this paper, we use two sets of individual survey data to study the role of health and financial incentives in early retirement decisions in Germany, in particular disability benefit uptake. We show that financial incentives to retire do affect sick individuals at least as much as healthy individuals. Based on 25 years of individual survey data and empirical models of retirement behavior, we then simulate changes in the generosity of disability pensions to understand how these changes would affect retirement behavior. Our results show that making the disability benefit award process more stringent without closing other early retirement routes would not greatly increase labor force participation in old age. 
+
+Dateigröße : 1,92 MB 
+
+JEL Classification : H55, J14, J26</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics » Schumpeter Discussion Papers (SDP)"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20140206-112013-6</identifier>
+                    <identifier type="sys">HT018160961</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3861</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3861">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp14/sdp14003.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3861"
+            DMDID="DMD_wuppertal_elpub_3861">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3861"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14126">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Windelband an Paul Siebeck, Freiburg i. Br., 16.5.1882, Text nach einer Transkription von Klaus Christian Köhnke, Umfang und Besonderheiten nicht bekannt, Staatsbibliothek zu Berlin, Haus Potsdamer Straße, NL 488</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Windelband an Paul Siebeck, Freiburg i. Br., 16.5.1882, Text nach einer Transkription von Klaus Christian Köhnke[1], Umfang und Besonderheiten nicht bekannt, Staatsbibliothek zu Berlin, Haus Potsdamer Straße, NL 488 Freiburg i. B. 16. Mai 1882 Verehrtester Herr Siebeck! Empfangen Sie meinen herzlichen Dank für die freundliche Zusendung von Sigwart’s „Kleineren Schriften“[2], womit Sie mich bei meiner Rückkehr sehr freudig überraschten – In betreff Ihrer liebenswürdigen Anfrage, die mir soeben zugeht, kann ich Ihnen nur mit bestem Danke erwidern, daß ich es mir stets zur Freude und Ehre schätzen werde, Sie zu meinen Zuhörern rechnen zu dürfen: wenn ich nicht befürchten muß, daß ein für die Studenten angelegtes Colleg[3] Ihnen langweilig werden möchte! In der Hoffnung, Sie im besten Wohlsein nächstens persönlich wiederzusehen, mit herzlichem Gruß und angelegentlicher Empfehlung von Haus zu Haus Ihr ergebenster Windelband Anmerkungen der Herausgeber 1↑Transkription von Klaus Christian Köhnke ] Kollation derzeit nicht möglich. Der Transkription liegt die Datei Manuskript: Windelband Briefe | herauszugeben von K. C. Köhnke | Ausdruck vom 1.3.2012 zugrunde, die den Herausgebern zur Verfügung steht. Ein Ausdruck dieser Datei befindet sich in öffentlichem Besitz (Universität Leipzig, Nachlass Klaus Christian Köhnke NL 330/3/1/2). Die Signatur des Originals ist mit Stichtag 14.5.2018 noch nicht bekannt. Laut telefonischer Auskunft von Roland Klein, Referat für Nachlässe und Autographen der Handschriftenabteilung der Staatsbibliothek zu Berlin – Preußischer Kulturbesitz vom 21.11. und 2.12.2016 ist die Erfassung des Nachlasses 488 (Verlagsarchiv Mohr-Siebeck) noch nicht abgeschlossen. 2↑Sigwart’s „Kleineren Schriften“ ] vgl. Christoph Sigwart: Kleine Schriften. 2 Bde. Freiburg i. B.: J. C. B. Mohr (Paul Siebeck) 1881. 3↑Colleg ] gemeinte Lehrveranstaltung nicht näher ermittelt. Siebeck erinnnert sich später (vgl. den Kommentar zu Siebeck an Martha Windelband vom 27.10.1915) an ein Kolleg über Geschichte der neueren Philosophie. Windelband las im SS 1882 in Freiburg: Logik, Rechtsphilosophie (im Zusammenhange mit den allgemeinen Principien der praktischen Philosophie), im Seminar: Kant’s transcendentale Aesthetik; im WS 1882/83 in Straßburg: Hauptprobleme der Philosophie, Logik, Geschichte der nachkantischen Philosophie.</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000126-7</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14126</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14126">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13126/edWW2020-13126.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14126"
+            DMDID="DMD_wuppertal_elpub_14126">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14126"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3526">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>narrative Potenzial der Handkamera</title>
+                        <subTitle>Zur Funktionalisierung von Handkameraeffekten in Spielfilmen und fiktionalen Filmclips im Internet</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kuhn, Markus</displayForm>
+                        <namePart type="family">Kuhn</namePart>
+                        <namePart type="given">Markus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This paper explores how hand-held cameras are used in fictional narrative films and Internet video clips, setting out to describe the range of functions the re-sulting stylistic hand camera effects may perform in audiovisual narration. To make the step from the actual use of hand-held consumer cameras (or similar devices) in production to a concept for textual analysis, it is first of all necessary to de¬scribe the ways in which this technical practice manifests itself within the aesthetic structure of the audiovisual text. This contribution will, therefore, first define the constitutive stylistic features of hand camera aesthetics. It will then pro¬ceed with some theoretical remarks on the role of the ‘camera’ in audiovisual narration. On this basis, a context-sensitive narratological analysis of prototypi¬cal examples will be conducted, leading to a typology of hand camera use that focuses on its functions as a device in audiovisual narration.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 2 (2013) H. 1"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20130527-124655-2</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3526</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3526">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-3636/dej13020105.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3526"
+            DMDID="DMD_wuppertal_elpub_3526">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3526"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

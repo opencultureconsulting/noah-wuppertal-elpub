@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3034">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Bildung als Mittel sozialen Aufstiegs? Zum Zusammenhang von Bevölkerungsentwicklung und Bildungsbeteiligung von Migranten</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schwarz, Alexandra␞Weishaupt, Horst</displayForm>
+                        <namePart type="family">Schwarz</namePart>
+                        <namePart type="given">Alexandra␞Weishaupt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In this paper, we examine current changes in the ethnic and social composition of the preschool and school aged population as well as the consequences these changes may have for educational participation and thus for overall educational attainment in the near future. Based on the micro-census 2008 survey, we identify groups of migrants by region of parents’ origin where children - despite low levels of parents’ education and comparatively few socioeconomic resources - have greater chances of upward educational mobility than non-migrant children. By contrast, children from less educated, non-migrant families show a much lower tendency to be upwardly mobile, and educational choices are more closely tied to the economic and social background. Thus, our analysis provides evidence that educational background and socio-economic resources in the students’ families are of greater importance for the overall development of educational attainment in Germany than characteristics of migration and ethnicity.</abstract>
+                    <abstract type="content" lang="ger">JEL Classification: H75, I24, J10, J15 
+
+Dateigröße: 710 KB</abstract>
+                    <subject>
+                        <topic>demografische Entwicklung</topic>
+                        <topic>Migration</topic>
+                        <topic>Bildung</topic>
+                        <topic>Bildungsmobilität</topic>
+                        <topic>soziale Mobilität</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20120924-142800-9</identifier>
+                    <identifier type="sys">HT017398433</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3034</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3034">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp12/sdp12009.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3034"
+            DMDID="DMD_wuppertal_elpub_3034">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3034"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

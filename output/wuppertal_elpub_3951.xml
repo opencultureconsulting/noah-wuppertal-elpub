@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3951">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Internarrativität - Überlegungen zum Zusammenspiel von Interaktivität und Narrativität in digitalen Spielen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Matuszkiewicz, Kai</displayForm>
+                        <namePart type="family">Matuszkiewicz</namePart>
+                        <namePart type="given">Kai</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This essay introduces a new theoretical approach for the analysis of digital games with a hybrid structure between interactivity and narrativity called “internarrativity”. The aim of this model is to enable an appropriate examination of the synergies of what may be characterized as “symbiotic internarrative digital games”. Internarrativity as a theoretical concept is derived from sociology, media and communication studies, literary studies and digital game studies. The model consists of three interconnected and progressively concertizing planes: internarrativity, internarrative and internarration. Following explication of the model, a short example is discussed, rendering the presence and function of internarratives in current digital games visible through focusing on the zombie apocalypse and the superhero story and their use in internarrative digital games. The argumentation closes with a glimpse of the potential as well as some possible limitations of the model of internarrativity.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 3 (2014) H. 1"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20140523-111527-5</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3951</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3951">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-4062/dej14030101.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3951"
+            DMDID="DMD_wuppertal_elpub_3951">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3951"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14130">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Hermann Wolff an Windelband, Leipzig, 1.7.1882 u. 2.7.1882, Briefentwurf, 2 S., hs., Sächsische Landesbibliothek, Staats- und UB Dresden, Nachlass Hermann Wolff, Mscr. Dresd. App. 1702, 114</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Hermann Wolff an Windelband, Leipzig, 1.7.1882 u. 2.7.1882, Briefentwurf, 2 S., hs., Sächsische Landesbibliothek, Staats- und UB Dresden, Nachlass Hermann Wolff, Mscr. Dresd. App. 1702, 114 G[eehrter] H[err] P[rofessor] Wenngleich schon Jahre verstrichen sind, daß wir hier an einer Universität[1] gemeinsam[a] thätig gewesen sind, u[nd] wenn wir auch nicht viel in direkte Berührung gekommen sind, so hoffe ich doch, daß Sie sich meiner noch freundlich erinnern werden. In dieser Voraussetzung erlaube ich mir, mich an Sie mit einer grossen Bitte zu wenden. Durch Ihren Weggang von Fr[eiburg] wird die dortige Professur erledigt und da Ihre Stimme in der Besetzungsfrage von dem entscheidensten Einfluß ist, so erlaube ich mich an Sie, geehrter H[err] Pr[ofessor] die ergebene Anfrage zu richten, ob Sie dabei meiner nicht gedenken wollen[2]. Unter den vorzuschlagenden Docenten glaube ich einer der älteren zu sein. Ich habe mich bemüht, mich um die Wissenschaft so viel als möglich verdient zu machen. Während meiner akademischen Lehrthätigkeit habe ich, wie Ihnen bekannt ist, folgende Werke geschrieben: Sp[ekulation] u[nd] Philos[ophie, 2. Bde.], in denen einer der empirischen Erfahrung zugewendete, eigentliche[b] Richtung vertreten ist, frei auffassende Thätigkeit wird endlich nach dem langen Ausharren meine größte Freude sein. In der Hoffnung, daß Sie, g[eehrter] H[err] Pr[ofessor] meine Bitte nicht übel denken werden, zeichne ich mit[c] | In[d][e] der Hoffnung, Ihnen nicht ungelegen zu kommen, zeichne ich mich mit vorzüglichster Hochachtung als Ihr ergebenster Dr. Hermann Wolff Docent der Philosophie. Leipzig, d[en] 1. Juli 1882. Anmerkungen zum Textbefund a↑gemeinsam ] Lesung unsicher b↑eigentliche ] Lesung unsicher c↑nach … mit ]  Text am Kopf der S. um 180° gedreht d↑In ] davor gestrichen: erfreuliche Thätigkeit zu gelangen, kennen Sie aus eigener Erfahrung und aus diesem Grunde werden Sie obige Anfrage nicht übel denken. e↑In ] am Kopf der S. Zugehörigkeitshinweis: Windelband. Professur in Freiburg | 2. Juli 82. Anmerkungen der Herausgeber 1↑Universität ] gemeint ist die Universität Leipzig 2↑gedenken wollen ] Wolff wird in den Freiburger Fakultätsakten nicht erwähnt.</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000130-6</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14130</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14130">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13130/edWW2020-13130.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14130"
+            DMDID="DMD_wuppertal_elpub_14130">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14130"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1023">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Subjektive Theorien von Lehrkräften zur Kooperation</title>
+                        <subTitle>Eine Analyse der Zusammenarbeit von Lehrerinnen und Lehrern in Lerngemeinschaften</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Fussangel, Kathrin</displayForm>
+                        <namePart type="family">Fussangel</namePart>
+                        <namePart type="given">Kathrin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-10-17</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die vorliegende Arbeit beschäftigt sich mit der unterrichtsbezogenen Kooperation von Lehrkräften. Vor dem Hintergrund der bisherigen Kooperationsforschung werden drei Formen der Zusammenarbeit differenziert: der Austausch, die gemeinsame Arbeitsorganisation und die Kokonstruktion. Die zentralen Fragestellungen der Arbeit beziehen sich zum einen auf die Subjektiven Theorien von Lehrkräften zur Kooperation und darauf wie diese sich verändern, wenn Lehrpersonen in schulübergreifende Lerngemeinschaften eingebettet sind. Lerngemeinschaften werden als Kooperationskontext dargestellt, der eine intensive unterrichtsbezogene Zusammenarbeit unterstützt. In zwei qualitativen Studien zeigt sich, dass Lehrkräfte, die in Lerngemeinschaften eingebettet sind, andere Subjektive Theorien zur Kooperation haben als solche Lehrpersonen, die nicht in einer solchen schulübergreifenden Lerngemeinschaft arbeiten. In einer dritten quantitativen Studie wird die Kooperation in Lerngemeinschaften genauer untersucht und mit derjenigen in schulinternen Fachgruppen verglichen. Dabei werden nicht nur verschiedene Kooperationsformen, sondern auch Bedingungen von Kooperation sowie Nutzenaspekte in den Blick genommen. Die Studie zeigt Unterschiede zwischen der Lerngemeinschafts- und der Fachgruppenkooperation auf. Insgesamt nehmen die Lehrkräfte Lerngemeinschaften als einen günstigen Kooperationskontext wahr.</abstract>
+                    <abstract type="content" lang="eng">The thesis is concerned with teacher cooperation in learning communities. The focus lies on instruction related teacher cooperation that refers to a special subject. Three types of cooperation are distinguished: exchange, common work organization and co-construction. The central research question of the thesis is whether teachers’ beliefs about cooperation change when they are working in a learning community. Teacher learning communities can support an intense cooperation. The study focuses on subject specific learning communities consisting of teachers from different schools. Two qualitative studies are presented that compare teachers’ beliefs in different cooperation contexts: learning communities and school departments. Results show that teachers’ beliefs about cooperation are more elaborated and multifaceted when they are working in a learning community. A third quantitative study deals with the question of how cooperation in learning communities works and how it differs from cooperation in school departments.</abstract>
+                    <classification authority="ddc">370</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Human- und Sozialwissenschaften » Erziehungswissenschaften"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20080475</identifier>
+                    <identifier type="sys">HT015778009</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1023</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1023">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbg/paedagogik/diss2008/fussangel/dg0802.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1023"
+            DMDID="DMD_wuppertal_elpub_1023">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1023"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

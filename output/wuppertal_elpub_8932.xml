@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_8932">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>“Where do you put Jesus in your thinking?” Negotiating Belief in Book Clubs</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Milota, Megan</displayForm>
+                        <namePart type="family">Milota</namePart>
+                        <namePart type="given">Megan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This essay will explore the ways in which a literary author’s explicit encoding of belief impacts narrative interest. Borrowing analytical tools from the fields of narrative theory and pragmatic theology, this essay will analyze recorded book club discussions of Louise Erdrich’s novel Last Report on the Miracles at Little No Horse (2001). In particular, it will focus on the ways participants negotiated three themes they deemed contentious and ethically problematic in the novel: the descriptions of gender as performative and porous, saintliness or hagiography, and the promotion of hybrid religious practices. This content analysis of participants’ negotiations of the novel’s themes will help elucidate some of the ways in which literary discussion can provide a space for individuals to articulate and refine their personal beliefs.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 7 (2018) H. 2"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20181121-122541-7</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_8932</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_8932">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-8365/dej18070203.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_8932"
+            DMDID="DMD_wuppertal_elpub_8932">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_8932"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

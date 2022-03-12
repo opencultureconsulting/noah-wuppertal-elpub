@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_730">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Monetary Policy and European Unemployment</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schettkat, Ronald␞Sun, Rongrong</displayForm>
+                        <namePart type="family">Schettkat</namePart>
+                        <namePart type="given">Ronald␞Sun</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In the long history of rising and persistent unemployment in Europe almost all institutions - employment protection legislation, unions, wages, wage structure, unemployment insurance, etc. - have been alleged and found guilty to have caused this tragic development at some point in time. Later, welfare state institutions in interaction with external shocks were identified as more plausible causes for rising equilibrium unemployment in Europe. Monetary policy has managed to be regarded as innocent. Based on the assertion of the neutrality of money in the medium and long run, the search for causes of European unemployment has shied away from the policy of central banks. But actually the institutional setup regarding monetary policy is very different between the FED and the Bundesbank (ECB). We argue that the interaction of negative external shocks and tight monetary policies may have been the major - although probably not the only - cause of unemployment in Europe remaining at ever higher levels after each recession. We identify the monetary policy of the Bundesbank as asymmetrical in the sense that the Bank did not actively fight against recessions, but that it dampened recovery periods. Less constraint on growth would have kept German unemployment at lower levels. 
+
+JEL Classification : E23, E24, E42, E43, E52, E58 
+
+Dateigröße: 657,9 KB</abstract>
+                    <subject>
+                        <topic>Production</topic>
+                        <topic>Employment</topic>
+                        <topic>Unemployment</topic>
+                        <topic>Monetary Policy</topic>
+                        <topic>Central Banks and Their Policies</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20080495</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_730</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_730">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp08/sdp08002.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_730"
+            DMDID="DMD_wuppertal_elpub_730">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_730"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

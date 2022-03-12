@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_750">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Financial System and Innovations-Determinants of Early Stage Venture Capital in Europe</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schröder, Christian</displayForm>
+                        <namePart type="family">Schröder</namePart>
+                        <namePart type="given">Christian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This paper highlights the role of financial development in producing innovative products and services. After a general overview of the function of the financial structure as well as financial development in realizing product and service innovations, this work examines a financial intermediary which is particularly specialized to finance high-tech innovations - the venture capitalist (VC). We employ a panel analysis to illustrate whether technical opportunities, taxes, stock market development, relative size of the banking sector, GDP growth and laterstage venture capital influence early stage venture capital investments. The empirical analysis was conducted in 15 European countries and looked at the period from 1995 to 2005. The results show that technical opportunities, size of the stock market and banking sector, interest rate growth and the amount of later-stage venture capital have a significant positive and corporate tax rate a negative impact on the amount of early stage risk capital. The structure of the national financial system seems not to have a significant influence. 
+
+JEL Classification : G23 
+
+Dateigröße: 777,7 KB</abstract>
+                    <subject>
+                        <topic>Early Stage Venture Capital</topic>
+                        <topic>Risk Capital</topic>
+                        <topic>Financial System</topic>
+                        <topic>Financing Innovations</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20090572</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_750</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_750">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp09/sdp09004.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_750"
+            DMDID="DMD_wuppertal_elpub_750">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_750"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14031">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Windelband: Gutachten über Ludwig Pfülb zur Bewerbung für das Reichlin-Meldegg-Stipendium, Heidelberg, 29.5.1903, 1 S., hs. (lat. Schrift), UA Heidelberg, H-IV-102/136 (Philosophische Fakultät 1903/04 Dekan Henry Thode), Bl. 137</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Windelband: Gutachten über Ludwig Pfülb zur Bewerbung für das Reichlin-Meldegg-Stipendium, Heidelberg, 29.5.1903, 1 S., hs. (lat. Schrift), UA Heidelberg, H-IV-102/136 (Philosophische Fakultät 1903/04 Dekan Henry Thode), Bl. 137 Heidelberg, 29. Mai 1903 Herrn stud. Ludwig Pfülb[1][a] bezeuge ich hierdurch auf sein Ansuchen[2] in Stipendienangelegenheiten, dass er in diesem Semester meine Vorlesung über Geschichte der Philosophie des 19. Jahrhunderts mit vorzüglichem Fleisse bis heute besucht hat. Ausserdem legte er mir eine Arbeit vor, die er in Seminarübungen bei Herrn Prof. Hensel im Winter 1901/02 vorgetragen hat. Der kurze Blick, den ich in das Manuscript warf, zeigte mir, dass er die Frage nach der doppelten Redaction von Kant’s Prolegomena mit grossem Fleiss auf Grund einer Nachprüfung der äusseren Daten zu lösen gesucht hatte. Jedenfalls dürfte das Manuscript als Beweis lebhaften Interesses und als Versuch eigner Arbeit anzusehen sein und somit den Petenten bei seiner Bewerbung zur Empfehlung gereichen. W Windelband Anmerkungen zum Textbefund a↑Ludwig Pfülb ] unterstrichen Anmerkungen der Herausgeber 1↑Ludwig Pfülb ] immatrikuliert für Philosophie, 1903: http://digi.ub.uni-heidelberg.de/diglit/matrikel1895/0349/image 2↑sein Ansuchen ] vgl. in derselben Akte Bl. 137 die Bewerbung Ludwig Pfülbs vom 15.4.1904 um ein Stipendium aus der Reichlin-Meldegg-Stiftung (über die Stiftung vgl. den Jahresbericht des Rektors Leo Koenigsberger in ders.: Hermann v. Helmholtz’s Untersuchungen über die Grundlagen der Mathematik und Mechanik. Rede zum Geburtsfeste des höchstseligen Grossherzogs Karl Friedrich und zur akademischen Preisvertheilung am 22. November 1895. Heidelberg: Hörning 1895, S. 55: Besondere Erwähnung verdienen die Vermächtnisse des verstorbenen Privatdocenten Dr. Freiherrn von Reichlin-Meldegg und des verstorbenen Hofraths Prof. Dr. Moos. Ersterer vermachte der Universität testamentarisch den Erlös seiner Bibliothek (1496 Mk. 81 Pf.), bestimmt zu einem Reichlin-Meldegg-Stipendium, das zum ehrenden Andenken seines Vaters an arme, strebsame, Philosophie studirende Akademiker der hiesigen Hochschule vergeben werden soll. Die Rede ist von Kuno von Reichlin-Meldegg u. dem Mediziner Salomon Moos).</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000031-6</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14031</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14031">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13031/edWW2020-13031.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14031"
+            DMDID="DMD_wuppertal_elpub_14031">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14031"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

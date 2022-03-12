@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_748">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Analyzing Rebound Effects</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schettkat, Ronald</displayForm>
+                        <namePart type="family">Schettkat</namePart>
+                        <namePart type="given">Ronald</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Are efficiency improvements in the use of natural resources the key for sustainable development, are they the solution to environmental problems, or will second round effects -so-called rebound effects- compensate or even overcompensate potential savings, will they fire back? The answer to this question will have fundamental policy implications but the research on rebound effects does not provide clear results. This paper aims to clarify the theoretical basis of various analytical approaches which lead to widely different estimates of rebound effects.</abstract>
+                    <abstract type="content" lang="ger">Sind Effizienzsteigerungen in der Verwendung natürlicher Resourcen der Schlüssel zu einer nachhaltigen Entwicklung, sind sie die Lösung des Umweltproblems oder werden Zweitrundeneffekte -sogenannte Reboundeffekte- potenzielle Einsparungen kompensieren oder gar überkompensieren? Die Beantwortung dieser Frage hat fundamentale Politikkonsequenzen, aber die Forschungen zum Reboundeffekt liefern keine eindeutigen Ergebnisse. Dieser Papier verdeutlicht die theoretische Basis unterschiedlicher Analyseansätze, die zu den sehr unterschiedlichen Schätzungen führen. 
+
+JEL Classification : Q01, O13, Q3, Q30, Q31, O33, Q4, Q40, Q41, Q5, Q50, Q55 
+
+Dateigröße: 657,8 KB</abstract>
+                    <subject>
+                        <topic>Agriculture</topic>
+                        <topic>Natural Resources</topic>
+                        <topic>Energy</topic>
+                        <topic>Environment</topic>
+                        <topic>Primary Products</topic>
+                        <topic>Technological Change</topic>
+                        <topic>Choices and Consequences</topic>
+                        <topic>Sustainable Development</topic>
+                        <topic>Nonrenewable Resources and Conservation</topic>
+                        <topic>Demand and Supply</topic>
+                        <topic>Environmental Economics</topic>
+                        <topic>Technological Innovation</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20090076</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_748</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_748">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp09/sdp09002.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_748"
+            DMDID="DMD_wuppertal_elpub_748">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_748"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5211">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Sustainable Insights 2015 (Band 1 der Schriftenreihe &quot;Ressourceneffizienz und Nachhaltigkeit im Bergischen Städtedreieck&quot;)</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Volkmann, Christine␞Stiebel, Jochen␞Helsper, Andreas␞Goertz, Eva-Maria␞Bischoff, Kathrin␞Males, Tijana␞Bogatz, Daniel␞Häuser, Patrick␞Mochkabadi, Kazem␞Monschau, Eva␞Denzer, Dana␞Bürger, Tobias␞Brüggemann, Nora</displayForm>
+                        <namePart type="family">Volkmann</namePart>
+                        <namePart type="given">Christine␞Stiebel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Sustainable Insights 2015 - Kongress für Studierende und Werkstatt für verantwortungsvolles Wirtschaften 2015 
+Wie integrieren Unternehmen Nachhaltigkeitskonzepte in ihre Geschäftspolitik und wie realistisch ist die Umsetzung im Betriebsalltag? Wie bewerten Studierende verschiedener Fachrichtungen Strategien für eine bessere Ressourceneffizienz? Welche Lösungen erarbeiten sie gemeinsam mit Unternehmen? 
+Zwei Tage Nachhaltigkeit im Praxistest – bei Sustainable Insights lernten über 100 Studierende, Young Professionals und Auszubildende aus ganz Deutschland engagierte Unternehmen kennen und entwickelten in Case Studies selbst eigene und praxisnahe Ideen. Diese Publikation dokumentiert den Kongress. Sustainable Insights fand 2015 zum ersten Mal statt, eine Wiederholung ist geplant. 
+Veranstaltet wurde Sustainable Insights von der Neuen Effizienz und dem Team von Prof. Dr. Christine Volkmann, Inhaberin des UNESCOLehrstuhls für Entrepreneurship und Interkulturelles Management an der Bergischen Universität Wuppertal und Vorsitzende des Jackstädtzentrums für Unternehmertums- und Innovationsforschung. 
+Schriftenreihe „Ressourceneffizienz und Nachhaltigkeit im Bergischen Städtedreieck“ 
+Die Schriftenreihe, herausgegeben von der Neuen Effizienz, ist die Plattform für Forschung, Projekte und Veranstaltungen zu Nachhaltigkeit und Ressourceneffizienz im Bergischen Städtedreieck. Sie richtet sich an Wissenschaftler und Studierende, Unternehmer und Experten sowie die interessierte Öffentlichkeit. Die Schriftenreihe ist über den Hochschulschriftenserver der Bergischen Universität sowie www.neue-effizienz.de digital frei verfügbar („Open Access“).</abstract>
+                    <subject>
+                        <topic>Neue Effizienz - Bergische Gesellschaft für Ressourceneffizienz mbH » Schriftenreihe Nachhaltigkeit und Ressourceneffizienz im Bergischen Städtedreieck</topic>
+                    </subject>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20150915-150643-6</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5211</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5211">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-5117/SI-2015-RZ.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5211"
+            DMDID="DMD_wuppertal_elpub_5211">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5211"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

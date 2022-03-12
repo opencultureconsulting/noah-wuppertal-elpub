@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14097">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Windelband an Karl Dilthey, Freiburg i. Br., 21.4.1878, 1 S., hs. (dt. Schrift), Niedersächsische Staats- und UB Göttingen, Dilth. 141</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Windelband an Karl Dilthey, Freiburg i. Br., 21.4.1878, 1 S., hs. (dt. Schrift), Niedersächsische Staats- und UB Göttingen, Dilth. 141 Freiburg i B. 21 April 78 Lieber Carlo, Es lastet schwer auf meiner Seele, daß Du vor drei Wochen in so unbehaglich beunruhigten Verhältnissen[1] bei uns gewesen und mit dem Eindrucke einer üblen Katastrophe[2] aus unserem Hause geschieden bist. Wir hoffen dies wieder gut zu machen, und glauben versichern zu können, daß, wofern[a] nicht ganz Unerwartetes eintritt, Du es auf der Rückfahrt besser haben wirst. Es nahen die Tage derselben, und die Zeit der schönen Ferien ist gezählt. Die Fülle dessen, was ich nicht gethan, und der Eintritt trüben Landregens zerstreuen die letzten Reste meiner problematischen Absicht und Aussicht, Dich abzuholen. Desto sicherer rechne ich auf die Erfüllung Deines Versprechens, daß wir Dich noch einmal hier haben sollen. Hoffentlich überzeugst Du uns persönlich, daß Baden Dir recht wohl gethan hat; ich rechne im Laufe dieser Woche auf Deinen jeden Moment, wenn auch unangesagt willkommenen Besuch. Mit den besten Grüßen meiner Frau Dein W Windelband Anmerkungen zum Textbefund a↑wofern ] so wörtlich Anmerkungen der Herausgeber 1↑unbehaglich beunruhigten Verhältnissen ] nicht ermittelt. Windelbands Frau erwartete ihr drittes Kind (30.7.1878 Geburt der Tochter Elly). 2↑üblen Katastrophe ] Karl Dilthey war bestohlen worden, vgl. Windelband an Karl Dilthey vom 26.8.1878.</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000097-1</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14097</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14097">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13097/edWW2020-13097.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14097"
+            DMDID="DMD_wuppertal_elpub_14097">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14097"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

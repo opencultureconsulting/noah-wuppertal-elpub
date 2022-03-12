@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_11167">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Kunst auf einem beschädigten Planeten zu leben. Der dystopische Roman als Erzählform des Anthropozäns am Beispiel nordeuropäischer Literatur</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Meurer-Bongardt, Judith</displayForm>
+                        <namePart type="family">Meurer-Bongardt</namePart>
+                        <namePart type="given">Judith</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-12-08</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">The article deals with Nordic literature and discusses the question of whether the dystopian novel is an emblematic genre of the Anthropocene. Starting from an overview of the genre with regard to the Anthropocene narratives and aesthetics, it is argued that the dystopian novel seems at first glance to produce the metanarrative of the Anthropocene, which is supposed to explain the present as a zero point from which man either creates a better future or descends towards dystopia. On closer inspection, however, it becomes apparent that, on the contrary, even early dystopias tend to critically reflect and transgress the anthropocentrism and normative temporality of the Anthropocene. Drawing on evidence from a classical dystopian novel from the first half of the twentieth century, Karin Boye’s Kallocain, and the works of two younger writers, Johanna Sinisalo and Johannes Anyuru, it will be shown how these tendencies become established and reinforced. By interweaving utopia / dystopia with the here and now, these novels become the expression of ‘heterotopian thinking and writing,’ which is to be understood as a practice of “staying with the trouble” (Haraway 2016) and as an art of living on the damaged earth. 
+DIEGESIS. Interdisziplinäres E-Journal für Erzählforschung / Interdisciplinary E-Journal for Narrative Research. ISSN 2195-2116. https://www.diegesis.uni-wuppertal.de Jg. 9 (2020) H. 2, S. 96-121.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 9 (2020) H. 2"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20201201-102703-1</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_11167</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_11167">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-10506/dej20090207.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_11167"
+            DMDID="DMD_wuppertal_elpub_11167">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_11167"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

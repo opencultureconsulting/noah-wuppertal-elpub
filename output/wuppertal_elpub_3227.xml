@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3227">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Merger of Classical and Postclassical Narratologies and the Consolidated Future of Narrative Theory</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sommer, Roy</displayForm>
+                        <namePart type="family">Sommer</namePart>
+                        <namePart type="given">Roy</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The first decade of the twenty-first century has seen an unprecedented growth of interest in narrative and storytelling. While classical narratology was mostly regarded as the domain of a small group of structuralist scholars dedicated to narrativity, who sought to identify and classify universal structures and patterns shared by all verbal narratives, the various new or postclassical approaches to narratology have also been interested in non-verbal and non-fictional storytelling, audio-visual media, and the cultural and historical contexts of narratives. Given this expansion in aims and objectives, it is hardly surprising that surveying narrative studies in general, and so-called contextual narratologies in particular, has become increasingly difficult. This article shows that there is considerable variation between existing attempts at mapping the field, and offers a new integrative model that is designed to clarify the relationship both between structuralist and postclassical narratologies, and between corpus-based and process-oriented contextual approaches. The systematic survey of current approaches is intended as a contribution to the ongoing consolidation of postclassical narratology. Ultimately, it might also facilitate communication between narratological approaches in literary and media studies on the one hand, and narrative research in other disciplines on the other.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 1 (2012) H. 1"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20121121-124341-0</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3227</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3227">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-3334/dej12010117.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3227"
+            DMDID="DMD_wuppertal_elpub_3227">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3227"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14146">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Windelband an Georg Jellinek, Straßburg, 16.7.1883, 2 S., hs. (dt. Schrift), Textverluste durch Aktenheftung, Bundesarchiv Koblenz, Nachlass Georg Jellinek, N 1136/32</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Windelband an Georg Jellinek, Straßburg, 16.7.1883, 2 S., hs. (dt. Schrift), Textverluste durch Aktenheftung, Bundesarchiv Koblenz, Nachlass Georg Jellinek, N 1136/32 Strassburg i/E. 16 Juli 83 Liebster Freund, Deinen lieben Brief beantworte ich umgehend, obwol die innigen Glückwünsche, welche meine Frau und ich zum morgenden Festtage[1] für Dich und Deine Gattin sagen, telegraphisch überholt werden müssen: ich hoffe aber, daß Dir diese Zeilen nachreisen werden, um Dir zu sagen, wie innig wir an Deinem Glücke Theil nehmen, und um Dich zu bitten, daß Du die schöne Absicht, uns Euren Besuch zu schenken, ja ausführen möchtest! Wir bringen die ganzen Ferien in unserm alten, lieben Freiburg zu und wohnen dort Dreisamstraße (No ?) im Hause des Hauptmann v. Ulmenstein, das Du leicht erkunden wirst! Indessen möchte ich erstens bemerken, daß vom 17–24 Sept[ember] in | Freiburg Naturforscherversammlung[2] ist. Dieses wa[r] wieder Weise! Da ich bei Dir kein Interesse für diesen großen Schwindel voraussetze, und da da[s] eine sehr unruhige, für ein behagliches Beisamm[en]sein gar wenig geeignete Woche sein wird. Zw[ei]tens möchte ich Dich in Anbetracht der Schwarzwaldtouren, die man Fr[eiburg] aus leicht macht, bitten, ein paar Tage vorher mir Deine Ankunft mitzutheilen, damit wir sicher sind, Euch ganz zu genießen! Und so freu ich mich unsagbar auf das Wie[der]sehen und Kennenlernen. Meine Frau grüßt herzlich. Diese Zeilen, Liebster, treffen Dich in vollem, höchstem Glück! Mögt Ihr überzeugt sein, daß Keiner innigeren Antheil daran nehmen kann als Dein alter Freund Windelband Anmerkungen der Herausgeber 1↑Festtage ] der Hochzeit Georg Jellineks mit Camilla Wertheim (NDB) 2↑Naturforscherversammlung ] vgl. Festschrift der 56. Versammlung deutscher Naturforscher und Ärzte. Gewidmet von der Naturforschenden Gesellschaft zu Freiburg i. B. Freiburg i. B., Tübingen: Mohr (Siebeck) 1883.</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000146-9</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14146</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14146">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13146/edWW2020-13146.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14146"
+            DMDID="DMD_wuppertal_elpub_14146">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14146"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3783">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Serialisierte Erzählung und kulturspezifische Pressenarrative</title>
+                        <subTitle>Die „Wulff-Affäre“ in der deutschen Presse</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Robert, Valérie</displayForm>
+                        <namePart type="family">Robert</namePart>
+                        <namePart type="given">Valérie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This paper addresses narrativity in press discourse from a postclassical and transdisciplinary perspective and seeks to describe dominant metanarratives in German journalistic culture. The corpus consists of all the press texts about the Wulff-scandal (that led to the resignation of the Bundespräsident in 2012). The paper defines the characteristics of narrativity in the press and presents the theory of French-speaking authors about press narration as a serialized macro-text with its own temporality. It proceeds to a close reading of the corpus and describes markers of narrativity, of seriality, of cohesion and of temporal organi-zation. The narration in the press is described as simultaneous, retrospective and prospective / performative. It appears that it is a kind of self-fulfilling narrative, organised in a teleological perspective with Wulff’s resignation as the only possi-ble resolution. In the underlying metanarrative, scandals appear as stages on the way to an exemplary democracy, in which the journalists have a central function, on the side of or against the politicians. The social group of journalists is de-scribed as a narrative community with its own narrative forms and culturally available plots, its own narrative memory, i.e. its own founding stories that are told again and again with an exemplary function, and with its own goals that are legitimated by the narratives.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 2 (2013) H. 2"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20131120-174412-1</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3783</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3783">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-3897/dej13020204.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3783"
+            DMDID="DMD_wuppertal_elpub_3783">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3783"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

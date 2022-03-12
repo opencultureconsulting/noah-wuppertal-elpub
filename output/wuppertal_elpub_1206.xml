@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1206">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Werkstattbericht 4: Entscheidungstraining zur Berufs- und Studienwahl</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm></displayForm>
+                        <namePart type="family">null</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005-03-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die Zentrale Studienberatung setzt seit 1991 ein Entscheidungstraining zur Berufs- und Studienwahl ein. Der Werkstattbericht geht auf die theoretische Fundierung der Entscheidungstrainings sowie auf die praktischen Herausforderungen im Anwendungskontext des Übergangs von der Schule zur Hochschule ein. Er zeigt Grenzen und Möglichkeiten dieser Entscheidungstrainings in Form systematischer Evaluationen auf und arbeitet die didaktische Konzeption einzelner Elemente heraus. 
+Der Abschnitt von H.-G. Müller und B. Strey zeigt zunächst die theoretischen Grundlagen des Entscheidungstrainings auf, insbesondere seine Verankerung in dem Konzept von Potocnik. Gestützt auf Evaluationsschritte wird prozessorientiert die Wuppertaler Weiterentwicklung des Entscheidungstrainings praxisorientiert dargestellt. 
+Der Abschnitt von C. Zimmermann und B. Diefenbach berichtet über die jüngeren Evaluationsergebnisse, die auf Basis einer Ausweitung der Entscheidungstrainings vorgenommen wurden, und diskutiert vertieft die Effekte dieses Trainingsangebots. Das Vorwort von G. Rott stellt Bezüge des Entscheidungstrainings zur aktuellen Hochschulentwicklung her.</abstract>
+                    <abstract type="content" lang="eng">The Central Student Counselling Service has been offering training for decision making in the field of career and studies choice since 1991. The report addresses the issue of the theoretical foundation of this training as well as practical challenges in the application in the transition from school to university. It identifies limitations and possibilities of this training in the form of a systematic evaluation and works out the didactic conception of individual elements. 
+The chapter by H.-G. MÜller and B. Strey describes the theoretical basis of the training for decision making, especially their anchorage in the concept by Potocnik. Based on evaluations, the process-oriented development of the training in Wuppertal is presented with a focus on its practice orientation. 
+The chapter by C. Zimmermann and B. Diefenbach reports on more recent evaluation results, which were based on an expansion of the training for decision making, and discusses in detail the effects of those training offerings. The preface by G. Rott establishes a relationship between the training for decision making and recent developments in the higher education sector.</abstract>
+                    <subject>
+                        <topic>Entscheidungskompetenz</topic>
+                        <topic>Trainingsseminare</topic>
+                        <topic>Ziel- und Handlungsplanung</topic>
+                        <topic>Übergang Schule Hochschule</topic>
+                        <topic>Schlüsselqualifikationen</topic>
+                        <topic>Decision making skills</topic>
+                        <topic>training seminars</topic>
+                        <topic>intention and action planning</topic>
+                        <topic>transition from school to university</topic>
+                        <topic>key qualifications</topic>
+                        <topic>Zentrale Studienberatung (ZSB) » Werkstattberichte</topic>
+                    </subject>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20050315</identifier>
+                    <identifier type="sys">HT015342200</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1206</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1206">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1314/zsbwb4.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1206"
+            DMDID="DMD_wuppertal_elpub_1206">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1206"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

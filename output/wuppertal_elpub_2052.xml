@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_2052">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Temporary Agency Work and Firm Competitiveness: Evidence from a panel data set of German manufacturing enterprises</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Nielen, Sebastian␞Schiersch, Alexander</displayForm>
+                        <namePart type="family">Nielen</namePart>
+                        <namePart type="given">Sebastian␞Schiersch</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This paper addresses the relationship between the utilization of temporary agency workers by firms and their competitiveness measured by unit labor costs, using a rich, newly built, data set of German manufacturing enterprises. The analysis is conducted by applying different panel data models while taking the inherent selection problem into account. Making use of dynamic panel data models allows us to control for firm specific fixed effects as well as for potential endogeneity of explanatory variables. 
+The results indicate a U-shaped relationship between the extent that temporary agency workers are used and the competitiveness of firms. 
+
+JEL Classification : D24, J24, L60 
+
+Dateigröße: 679,5 KB</abstract>
+                    <subject>
+                        <topic>temporary agency work</topic>
+                        <topic>competitiveness</topic>
+                        <topic>firm performance</topic>
+                        <topic>manufacturing</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20110603-121508-7</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_2052</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_2052">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp11/sdp11006.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_2052"
+            DMDID="DMD_wuppertal_elpub_2052">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_2052"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

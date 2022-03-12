@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_10020">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Playing with Identity. Authors, Narrators, Avatars, and Players in The Stanley Parable and The Beginner’s Guide</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Backe, Hans-Joachim␞Thon, Jan-Noël</displayForm>
+                        <namePart type="family">Backe</namePart>
+                        <namePart type="given">Hans-Joachim␞Thon</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-11</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This article offers a comparative analysis of Davey Wreden’s The Stanley Parable (Wreden 2011 / Galactic Cafe 2013) and The Beginner’s Guide (Everything Unlimited Ltd. 2015) in order to explore the interrelation of authors, narrators, avatars, and players as four salient functions in the play with identity that videogames afford. Building on theories of collective and collaborative authorship, of narratives and narrators across media, and of the avatar-player relationship, the article reconstructs the similarities and differences between the way in which The Stanley Parable and The Beginner’s Guide position their players in relation to the two games’ avatars, narrators, and (main) author, while also underscoring how both The Stanley Parable and The Beginner’s Guide use metareferential strategies to undermine any overly rigid conceptualization of these functions and their interrelation.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 8 (2019) H. 2"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20191204-142527-9</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_10020</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_10020">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-9402/dej19080201.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_10020"
+            DMDID="DMD_wuppertal_elpub_10020">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_10020"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

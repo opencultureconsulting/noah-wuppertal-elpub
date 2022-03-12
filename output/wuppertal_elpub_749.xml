@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_749">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Nicht zu früh bremsen! Der Einfluss der Geldpolitik auf die langfristige Wirtschaftsentwicklung in Deutschland und den USA</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schettkat, Ronald␞Sun, Rongrong</displayForm>
+                        <namePart type="family">Schettkat</namePart>
+                        <namePart type="given">Ronald␞Sun</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Almost all institutions - employment protection legislation, unions, wages, wage structure, unemployment insurance, etc. - have been alleged and found guilty to have caused this tragic development at some point in the long history of rising and persistent unemployment in Europe. US labor market institutions, assumed to leave markets unfettered, became the benchmark for Europe. Based on the assertion of neutrality of monetary policy in the medium and long run, the search for causes of European unemployment has shielded away from the policy of central banks. Actually, however, the institutional setup regarding monetary policy is very different between the FED and the Bundesbank (ECB). We argue that the interaction of negative external shocks and tight monetary policies may have been the major - although probably not the only - cause of unemployment in Europe remaining at ever higher levels each recession. We identify the monetary policy of the Bundesbank as asymmetrical in the sense that the Bank did not actively fight recessions, but that it dampened recovery periods.</abstract>
+                    <abstract type="content" lang="ger">Nahezu alle Institutionen - Kündigungsschutz, Gewerkschaften, Lohnspreizung, Arbeitslosenversicherung etc. - wurde verdächtigt und schuldig gesprochen die tragische Entwicklung der Arbeitslosigkeit in Europa verursacht zu haben. US-amerikanische Arbeitsmarktinstitutionen wurden zum Benchmark für Europa. Basierend auf der Annahme der mittel- und langfristigen realwirtschaftlichen Neutralität von Geldpolitik wurde diese bei der Suche nach den Ursachen europäischer Arbeitslosigkeit verschont. Tatsä,chlich unterscheiden sich die institutionellen Arrangements der Fed und der Bundesbank (der EZB) zumindest genauso stark wie die Arbeitsmarktinstitutionen. Wir argumentieren, dass das Zusammenwirken negativer Schocks und einer restriktiven Geldpolitik die wesentliche - wenn auch nicht die einzige - Ursache der mit jeder Rezession zunehmenden und auf hohen Niveau verweilenden Arbeitslosigkeit in Europa war. Die Bundesbank - Europas &quot;Zentralbank&quot; vor Etablierung der EZB - hat eine asymmetrische Geldpolitik in dem Sinne verfolgt, dass sie Rezessionen nicht aktiv bekämpfte, die Aufschwungphasen aber deutlich dämpfte. 
+
+JEL Classification : E23, E24, E42, E43, E52, E58 
+
+Dateigröße: 711,6 KB</abstract>
+                    <subject>
+                        <topic>Employment</topic>
+                        <topic>Unemployment</topic>
+                        <topic>Monetary Policy</topic>
+                        <topic>Central Banks and Their Policies</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20090562</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_749</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_749">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp09/sdp09003.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_749"
+            DMDID="DMD_wuppertal_elpub_749">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_749"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

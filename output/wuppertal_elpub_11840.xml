@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_11840">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Neurokognitive Dynamik semantischer Gedächtnisprozesse in algorithmischen Modellen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hofmann, Markus J.</displayForm>
+                        <namePart type="family">Hofmann</namePart>
+                        <namePart type="given">Markus J.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-08</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <classification authority="ddc">150</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Human- und Sozialwissenschaften » Psychologie » Habilitationsschriften"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20210608-090126-6</identifier>
+                    <identifier type="doi">10.25926/h0d8-f009</identifier>
+                    <identifier type="sys">HT021149055</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_11840</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_11840">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbg/psychologie/habi2021/hofmann/hg2101.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_11840"
+            DMDID="DMD_wuppertal_elpub_11840">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_11840"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

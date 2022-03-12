@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_913">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>On large-scale wave coupling across the stratopause</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Oberheide, Jens</displayForm>
+                        <namePart type="family">Oberheide</namePart>
+                        <namePart type="given">Jens</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-08-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The present understanding of Earth&apos;s mesosphere and lower thermosphere (MLT) region, and its coupling with the atmospheric layers below and above is far from being complete. For many years, its inaccessibility caused the lack of a comprehensive database and important open science questions remain.
+ 
+- What are the spatio-temporal variations of temperature, winds, and chemical constituents and what causes them? 
+- What are the sources and magnitudes of atmospheric waves and how do they interact with each other? 
+- What is the relative importance of radiation, chemistry, and dynamics for the momentum and energy budget? 
+- How large is the anthropogenic effect? 
+- Can we quantify the MLT effect on climate? 
+A key role in this context plays the large-scale vertical wave coupling across the stratopause by planetary waves and tides. Its better understanding is the leading objective of this work using data from several satellite instruments and models of differing character. Some emphasis is given to nonmigrating (non-Sun-synchronous) tides that are among the least understood and explored phenomena in the MLT.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik » Habilitationsschriften"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20070724</identifier>
+                    <identifier type="sys">HT015257170</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_913</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_913">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/habi2006/oberheide/hc0601.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_913"
+            DMDID="DMD_wuppertal_elpub_913">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_913"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

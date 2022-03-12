@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14021">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Anschlagszettel, Straßburg, 29.4.1889, 1 S., hs. (lat. Schrift), Faksimile in: Alte Straßburger Universitätsreden. Zur Erinnerung an die am 1. Mai 1872 gegründete Kaiser Wilhelms-Universität Straßburg. Hg. v. Vorstand der losen Vereinigung ehem. Straßburger Dozenten und Studenten. Frankfurt a. M.: Elsass-Lothringen-Institut 1932, nach S. 50 [=S. 61].</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Anschlagszettel, Straßburg, 29.4.1889, 1 S., hs. (lat. Schrift), Faksimile in: Alte Straßburger Universitätsreden. Zur Erinnerung an die am 1. Mai 1872 gegründete Kaiser Wilhelms-Universität Straßburg. Hg. v. Vorstand der losen Vereinigung ehem. Straßburger Dozenten und Studenten. Frankfurt a. M.: Elsass-Lothringen-Institut 1932, nach S. 50 [=S. 61]. Im Sommersemester 1889 gedenke ich vorzutragen: 1) Logik[a], vierstündig Dienstags, Mittwochs, Donnerstags und Freitags früh 7–8 Uhr Anfang Donnerstag, den 2 Mai. 2) Geschichte der Aesthetik[b], zweistündig Mittwochs und Freitags 9–10 Uhr. Anfang: Mittwoch den 8 Mai. Im philosophischen Seminar werde ich Donnerstags Abend 6–8 Uhr Uebungen über Leibnizʼ Nouveaux essais sur lʼentendement humain[c] privatissime et gratis, abhalten. Anmeldungen dazu erbitte ich persönlich in meinen Sprechstunden: im Directorzimmer des philos[ophischen] Seminars (No 72) an den Vorlesungstagen früh 8–9, sowie Donnerstags 5–6 Uhr. Strassburg iE, den 29 April 1889 Windelband Anmerkungen zum Textbefund a↑Logik ] unterstrichen b↑Geschichte der Aesthetik ] unterstrichen c↑Leibniz’ … humain ]  unterstrichen</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000021-0</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14021</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14021">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13021/edWW2020-13021.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14021"
+            DMDID="DMD_wuppertal_elpub_14021">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14021"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

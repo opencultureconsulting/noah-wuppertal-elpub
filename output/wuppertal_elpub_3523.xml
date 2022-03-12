@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3523">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Rhetoric of Intermediality</title>
+                        <subTitle>Adapting Means, Ends, and Ethics in Atonement</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bolton, Matthew</displayForm>
+                        <namePart type="family">Bolton</namePart>
+                        <namePart type="given">Matthew</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">In this paper, I examine the ending of Ian McEwan’s novel Atonement and Joe Wright’s film adaptation, considering the ways in which the shift in medium necessarily entails different rhetorical strategies which, in turn, entail different ethical judgments on the narrative’s central figure, Briony Tallis. Using the tools of rhetorical narrative theory, I argue that McEwan’s novel presents a particular challenge for adapters because its plot, its ontological play, and its ethics are all inextricably entwined with the affordances of verbal prose narrative, in the form of a novel-within-a-novel and a first-person diary coda. In order to transpose McEwan’s story to the screen, then, Wright must not only transpose the plot, but must do so by relying on the affordances of cinema to reproduce and rein¬terpret the novel’s rhetorical effects. But this move from prose to filmic dis¬course also necessarily shifts the ethical focus of the narrative from Briony’s own responsibilities as a character and an author to the audience’s investment in the fictional worlds which she creates, thereby also shifting McEwan’s indict¬ment of Briony onto the film’s viewers. In order to see both the logic of Wright’s transmedial adaptation and its ultimate ethical effects, I focus on two questions in particular: first, how do McEwan and Wright each prepare their dif¬ferent audiences for the radical reconfiguration of the narrative’s twist ending, each relying on a different set of medial affordances; and second, how are these different audiences affected by the ethics of these disparate endings once the twist is revealed? Further, addressing these questions leads me to reflect on the troubled concept of fidelity, considering in what ways it can be recuperated as a theoretical tool.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 2 (2013) H. 1"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20130527-120419-3</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3523</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3523">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-3633/dej13020102.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3523"
+            DMDID="DMD_wuppertal_elpub_3523">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3523"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

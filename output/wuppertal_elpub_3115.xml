@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3115">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Introductions to Narratology</title>
+                        <subTitle>Theory, Practice and the Afterlife of Structuralism</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Chihaia, Matei</displayForm>
+                        <namePart type="family">Chihaia</namePart>
+                        <namePart type="given">Matei</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This survey seeks to describe the main characteristics, as well as diversity, of extant introductions to narratology: the fact that most of them contain original contributions to scholarship, their special relationship to “soft” structuralism, the shift from “classical” to “postclassical” theory, and the changes that have af-fected academic teaching in the last decade, leading to further differentiation within academia. While some introductions target the student who has to do casual work on narratology, others lead to the heart of disciplinary scholarship, and a third group engages in meta-theoretical discussion that is as interesting for experts as it is for beginners. With its capacity to adapt to various audiences and to an ever more differentiated field of study, the introduction has become an important genre in narratological scholarship.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 1 (2012) H. 1"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20121031-145005-0</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3115</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3115">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-3218/dej12010102.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3115"
+            DMDID="DMD_wuppertal_elpub_3115">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3115"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

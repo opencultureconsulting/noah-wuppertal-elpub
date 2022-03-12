@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6331">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Narrating Science and Religion - Storytelling Strategies in Journey of the Universe</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Menning, Nancy␞Keller, Luke</displayForm>
+                        <namePart type="family">Menning</namePart>
+                        <namePart type="given">Nancy␞Keller</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">While scientific and religious narratives use distinct discourse strategies to reach different audiences, the documentary film Journey of the Universe combines scientific and humanistic perspectives to narrate the origin and evolution of the universe, life on Earth, and human consciousness. This science-based mythic telling of the universe story foregrounds science to enhance the story’s plausibility while using mythic elements to invite an ethical response. We evaluate how this film blends scientific and mythic storytelling strategies to present a plausible story with moral force. Journey of the Universe presents an image of humanity as naturally emerging from an increasingly complex cosmos, capable of profound wonder, and poised to use its intellectual gifts to renew the face of the earth. We argue that narrative strategies aligning scientific content with the viewer’s personal experiences of nature are generally effective, and that the film’s focus on the local and terrestrial, even in the midst of the vastness of the cosmos, supports its ecological message.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 5 (2016) H. 2"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20161121-164343-0</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6331</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6331">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-6142/dej16050202.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6331"
+            DMDID="DMD_wuppertal_elpub_6331">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6331"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

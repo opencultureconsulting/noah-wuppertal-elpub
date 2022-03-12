@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3321">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Trusting Financial Institutions: Out of Reach, out of Trust?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Filipiak, Ute</displayForm>
+                        <namePart type="family">Filipiak</namePart>
+                        <namePart type="given">Ute</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This paper empirically investigates the relationship between individual trust in financial institutions and individual access to these institutions. Based on a large-scale survey of savings patterns of Indians, we find that individuals reporting that they do not have access to certain financial institutions within a commutable distance of one day are less likely to trust these institutions with their money. Moreover, we find that this relationship holds for different banks and financial institutions offering services in low-income areas and that differences in trust can be explained to some extent by differences in individual access.</abstract>
+                    <abstract type="content" lang="ger">JEL classification: D1, G11, G21, R2 
+
+Dateigröße: 1,01 MB</abstract>
+                    <subject>
+                        <topic>Trust</topic>
+                        <topic>Financial Institutions</topic>
+                        <topic>Access</topic>
+                        <topic>India</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20130121-123209-6</identifier>
+                    <identifier type="sys">HT017518295</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3321</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3321">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp13/sdp13002.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3321"
+            DMDID="DMD_wuppertal_elpub_3321">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3321"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

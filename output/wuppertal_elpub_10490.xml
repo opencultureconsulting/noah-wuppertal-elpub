@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_10490">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Entrepreneurs embrace competition: Evidence from a lab-in-the-field study</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Urbig, Diemo␞Bönte, Werner␞Procher, Vivien␞Lombardo, Sandro Enrico Fiore</displayForm>
+                        <namePart type="family">Urbig</namePart>
+                        <namePart type="given">Diemo␞Bönte</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-05-13</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Referring to Isreal M. Kirzner (1973) and Joseph A. Schumpeter (1934), who emphasized the competitive nature of entrepreneurship, this study investigates whether potential and revealed entrepreneurs are more likely to seek competition than non-entrepreneurs. We provide a conceptual framework that links entrepreneurship to three facets of individual competitiveness drawn from economic, entrepreneurship, and psychological research: a desire to win, striving for personal development, and an enjoyment of competition. Following economic research linking competitive behavior in experiments to career choices, we conduct a lab-in-the-field study and demonstrate that entrepreneurs are more likely to enter competitions than non-entrepreneurs. Accounting for individual desires to win and mastery-related achievement motivations, our results indicate that entrepreneurs tend to enter competition for the sake of competition itself rather than for the prospect of winning it or personal development. Our results suggest that enjoyment of competition might be an additional factor driving entrepreneurs’ market entry decisions beyond well-known factors like overconfidence and risk taking.</abstract>
+                    <abstract type="content" lang="ger">JEL Classification : L26; C9; D9 
+
+Dateigröße: 532 KB</abstract>
+                    <subject>
+                        <topic>Enjoyment of competition</topic>
+                        <topic>Individual competitiveness</topic>
+                        <topic>Entrepreneurship</topic>
+                        <topic>Behavioral Economics</topic>
+                        <topic>Lab-in-the-field experiment</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20200513-113233-4</identifier>
+                    <identifier type="sys">HT020453714</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_10490</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_10490">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp20/sdp20001.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_10490"
+            DMDID="DMD_wuppertal_elpub_10490">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_10490"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

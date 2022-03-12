@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3513">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>House vs The Wire</title>
+                        <subTitle>Procedure and Complexity in Contemporary US Serial Television Drama</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Armbrust, Sebastian</displayForm>
+                        <namePart type="family">Armbrust</namePart>
+                        <namePart type="given">Sebastian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Over the last decade, US serial television productions have garnered critical acclaim and academic attention for their complex and innovative narrative structure. Labeled Quality Television and “not TV” (promo slogan of the pay-TV channel HBO) to signal their cultural value over the presumably lowbrow standard television fare, they have preferably been compared to more reputa¬ble narrative forms, such as the novel. This paper picks up on Mittell’s sug¬gestion to read The Wire, one of contemporary television’s arguably most complex productions, as a procedural instead. This genre of television is characterized by a highly formulaic structure, resolving a profession-specific problem within each episode. The Wire’s episodes are neither formulaic nor self-contained. This paper compares The Wire to House, a typical, formulaic, contemporary procedural. It explores to what degree The Wire is, neverthe¬less, structured by comparable principles and how narrative theory can con¬tribute to the analysis of serial plotting.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 2 (2013) H. 1"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20130527-110838-2</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3513</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3513">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-3632/dej13020101.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3513"
+            DMDID="DMD_wuppertal_elpub_3513">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3513"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

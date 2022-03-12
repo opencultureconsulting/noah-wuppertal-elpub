@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_8980">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Reginald Hansens Schmollerstudien: Die (Wieder)Entdeckung einer wirtschaftswissenschaftlichen Revolution</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lindenlaub, Dieter</displayForm>
+                        <namePart type="family">Lindenlaub</namePart>
+                        <namePart type="given">Dieter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-11-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Dieser Aufsatz ist ein Nachruf auf Reginald Hansen (1919-2016). Er berichtet über die Studien, die Hansen seit den 1960er Jahren zu Gustav Schmoller, dem prominentesten Vertreter der jüngeren historischen Schule der Nationalökonomie, anstellte. Diese Studien rücken die damals gängige Sicht zurecht, der bloß faktensammelnde, theorielose Schmoller habe die deutsche Nationalökonomie um Jahrzehnte zurückgeworfen. Schmoller fasste vielmehr, ähnlich wie heute der sogenannte Kritische Rationalismus, die Nationalökonomie als eine Wissenschaft auf, die nach empirisch prüfbaren Gesetzmäßigkeiten sucht und sich dabei an naturwissenschaftliche Methoden anlehnt; die diese Gesetzmäßigkeiten „aktivistisch“ nutzt, um verändernd in den Wirtschaftsablauf einzugreifen; und die Werturteile in ihren Aussagen im Prinzip vermeidet, aber „metaphysische“ Konstruktionen als erste Orientierungen erlaubt. Schmoller empfahl auf der Grundlage dieser Erkenntnistheorie eine Sozialpolitik, die undogmatisch und nachhaltig vor allem Eigenverantwortung und Selbsthilfe der Betroffenen ermöglichen sollte; Hansen sieht dieses Konzept im Kern in der Sozialen Marktwirtschaft der Bundesrepublik verwirklicht. Außerdem schlug Schmoller, von einer „nominalistischen“ Begriffsverwendung ausgehend, eine Einkommensbesteuerung nach den Verbrauchsmöglichkeiten vor, ein Konzept das sich in Deutschland letztlich aber nicht durchsetzte. Die umfangreiche Schmollerforschung der letzten dreißig Jahre („Schmoller-Renaissance“) ist der Interpretation Hansens, wie der Aufsatz weiter zeigt, nur bedingt gefolgt, besonders wenig in der Verknüpfung von erkenntnistheoretischen und politischen Vorstellungen. Hansens Interpretation hat aber Bestand. Einige Schlussbemerkungen deuten an, wie aktuell Schmoller in dieser Interpretation ist. 
+Dateigröße: 1.489 KB</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics » Schumpeter Discussion Papers (SDP)"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20181203-094447-0</identifier>
+                    <identifier type="sys">HT019896718</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_8980</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_8980">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp18/sdp18009.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_8980"
+            DMDID="DMD_wuppertal_elpub_8980">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_8980"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_732">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Why Powerful Buyers finance Suppliers&apos; R&amp;D</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bönte, Werner␞Wiethaus, Lars</displayForm>
+                        <namePart type="family">Bönte</namePart>
+                        <namePart type="given">Werner␞Wiethaus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">It is a common concern that pricing pressure by powerful buyers discourages suppliers&apos; R&amp;D investments. Employing a simple monopsonist - competitive upstream industry - framework, this paper qualifies this view in two respects. First, the monopsonist has an incentive to subsidize upstream R&amp;D which yields more upstream R&amp;D and higher profits in both industries than the monopsonist&apos;s commitment to higher prices. Secondly, in the presence of intra-industry R&amp;D spillovers between upstream firms, the monopsonist has an even stronger incentive to finance upstream R&amp;D. If the monopsonist finances more than fifty percent of suppliers R&amp;D efforts, R&amp;D investments in upstream industry will be higher than in the case of buyer competition. 
+
+JEL Classification : O31, O32, L13, L20 
+
+Dateigröße: 429,7 KB</abstract>
+                    <subject>
+                        <topic>Vertical Relationships</topic>
+                        <topic>Monopsony</topic>
+                        <topic>Buyer Power</topic>
+                        <topic>R&amp;D</topic>
+                        <topic>Knowledge Spillovers</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20080514</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_732</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_732">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp08/sdp08004.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_732"
+            DMDID="DMD_wuppertal_elpub_732">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_732"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

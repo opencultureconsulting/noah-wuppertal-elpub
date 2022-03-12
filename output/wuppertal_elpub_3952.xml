@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3952">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Narrativität vs. Interaktivität - Zur Gattungsdifferenzierung von Hyperfiction und Computergames</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Müller, Ralph</displayForm>
+                        <namePart type="family">Müller</namePart>
+                        <namePart type="given">Ralph</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This article explores the relationship between games and narratives by analyzing electronic texts (Elfriede Jelinek: Neid, Privatroman [2007-2008]; Michael Joyce: Afternoon, A Story [1987]), but also video games (Zork [Infocom 1980-1982]; Mass Effect [BioWare 2007-2012]) with respect to interactivity and narrativity. The analysis suggests that interactivity and narrativity are not mutually exclusive, but that the relationship between the two gradable categories is inversely reciprocal in such a way that an increase of interactivity is possible only at the expense of narrativity. My hypothesis is that this relationship may be explained if we consider eventfulness to be a part of narrativity: Eventfulness in narratives presupposes that events have consequences for the characters; such consequences, however, tend to limit the scope of interactivity.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 3 (2014) H. 1"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20140523-111534-4</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3952</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3952">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-4063/dej14030102.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3952"
+            DMDID="DMD_wuppertal_elpub_3952">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3952"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

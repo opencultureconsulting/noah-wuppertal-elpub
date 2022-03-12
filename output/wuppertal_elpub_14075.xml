@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14075">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Windelband an Gustav Vogt, Hottingen, 16.7.1876, 1 S., hs. (dt. Schrift), Staatsarchiv des Kantons Zürich, U 103.4.40, Bl. 9</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Windelband an Gustav Vogt, Hottingen, 16.7.1876, 1 S., hs. (dt. Schrift), Staatsarchiv des Kantons Zürich[1], U 103.4.40, Bl. 9 Hottingen. 16 Juli 1876 An das Tit. Rectorat der Universität Zürich Hochverehrter Herr Rector! In Erwiderung Ihrer geehrten Zuschrift vom gestrigen Tage bemerke ich zunächst, daß die Beschränkung meiner Vorlesungen auf die knapp gesetzliche Zahl von 9–10 Stunden bei mir lediglich aus dem collegialischen Bestreben hervorgegangen, bei der geringen Anzahl von Zuhörern, auf welche philosophische Vorlesungen an unserer Hochschule rechnen können, in keiner Richtung mit meinem Collegen, dem Herrn Prof. Kym[2] zu collidiren. Wenn gleichwohl die unbestimmte Bezeichnung 2–3 Stunden nicht für zulässig erklärt worden ist, so ersuche ich Sie ergebenst, meine Vorlesungsanzeigen dahin abzuändern, daß an Stelle der „2–3 Stunden“ nur 2 Stunden für die philosophischen Uebungen angesetzt und außerdem eine einstündige Vorlesung: „Kritik der schopenhauerischen Philosophie“ angekündigt[3] wird. Hochachtungsvoll W Windelband[a] Anmerkungen zum Textbefund a↑W Windelband ] Namenszug von anderer Hand mit blauem Farbstift unterstrichen Anmerkungen der Herausgeber 1↑Staatsarchiv des Kantons Zürich ] mit Dank an Florian Christen, Menziken (Schweiz) 2↑Kym ] Andreas Ludwig Kym (1822–1900), 1850 ao. Prof., 1857–1900 o. Prof. der Philosophie in Zürich (BEdPh). 3↑angekündigt ] im Vorlesungsverzeichnis der Universität Zürich ist für Windelband im WS 1876 ausgewiesen: Aesthetik (Dienstags–Donnerstags 16–17 Uhr, dreistündig); Geschichte der antiken Philosophie (Dienstags–Freitags 15–16 Uhr, vierstündig); Kritik der Schopenhauer’schen Philosophie (einstündig); Philosophische Uebungen mit Lectüre des ersten Buches von Spinoza’s Ethik (zweistündig).</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000075-5</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14075</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14075">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13075/edWW2020-13075.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14075"
+            DMDID="DMD_wuppertal_elpub_14075">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14075"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

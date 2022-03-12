@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14002">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Bericht über das Gymnasium zu Potsdam für das Schuljahr 1865–1866. Inhalt: 1. Vindicae Tullianae. Vom Conrector Dr. Fr. Gustav Sorof. 2. Schulnachrichten. Vom Direktor Dr. Friedrich A. Rigler. Potsdam: Gedruckt bei C. Krämer 1866, S. 36, Ratsschulbibliothek Zwickau, Schulschriftensammlung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Bericht über das Gymnasium zu Potsdam für das Schuljahr 1865–1866. Inhalt: 1. Vindicae Tullianae. Vom Conrector Dr. Fr. Gustav Sorof. 2. Schulnachrichten. Vom Direktor Dr. Friedrich A. Rigler. Potsdam: Gedruckt bei C. Krämer 1866, S. 36, Ratsschulbibliothek Zwickau, Schulschriftensammlung[1] Um Ostern [1866] werden folgende Abiturienten entlassen werden: 1) Wilhelm Windelband[2] aus Potsdam, 17½ Jahre alt, evangelischer Confession, Sohn des verstorbenen Rechnungsraths und Oberpräsidial-Secretairs Herrn Windelband[3], 9 Jahre auf der Anstalt[4], 2 Jahre in Prima, wird Philosophie und Geschichte studiren. […][a] Sämmtliche Abiturienten erhielten in der Prüfung am 6. März d[es] J[ahres] das Zeugniß der Reife und zwar die beiden zuerst genannten mit Erlassung der mündlichen Prüfung. Anmerkungen zum Textbefund a↑[…] ] folgen weitere 5 Namen: Ernst Berlin, Johannes Heym, Gustav Körbin, Hermann Gerlach, Walther Gottgetreu, sämtlich Söhne preußischer Beamten (Kreisgerichtsräte, Hofprediger, Hofbaurat). Anmerkungen der Herausgeber 1↑Schulschriftensammlung ] mit Dank an Andreas Barth, Ratsschulbibliothek Zwickau 2↑1) Wilhelm Windelband ] die Reihenfolge der Abiturientenliste ist hierarchisch geordnet, Windelband war somit Jahrgangsbester. 3↑Rechnungsraths und Oberpräsidial-Secretairs Herrn Windelband ] Johann Friedrich Wilhelm Windelband († 1859). 4↑9 Jahre auf der Anstalt ] 1857–1866, vgl. Windelbands eigene Schilderung in: Alfred Graf (Hg.): Schülerjahre. Erlebnisse und Urteile namhafter Zeitgenossen. Berlin-Schöneberg: Fortschritt (Buchverlag der „Hilfe“) 1912, S. 107–112. Aus dieser Zeit datiert die lebenslange Freundschaft mit dem späteren Nobelpreisträger der Chemie Otto Wallach (1847–1931).</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000002-5</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14002</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14002">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13002/edWW2020-13002.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14002"
+            DMDID="DMD_wuppertal_elpub_14002">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14002"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

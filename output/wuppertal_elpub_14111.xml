@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14111">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Windelband an Student Schmidt, Freiburg i. Br., 11.6.1879, 1 S., gedruckte Visitenkarte mit hs. Hinzufügungen (lat. Schrift), Württembergische Landesbibliothek Stuttgart, Autographensammlung Dr. Robert Amann, Cod. theol. et phil. qt. 631.82</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Windelband an Student Schmidt, Freiburg i. Br., 11.6.1879, 1 S., gedruckte Visitenkarte mit hs. Hinzufügungen (lat. Schrift), Württembergische Landesbibliothek Stuttgart, Autographensammlung Dr. Robert Amann, Cod. theol. et phil. qt. 631.82 Herrn stud. Schmidt[1] bittet Dr. Wilh. Windelband Professor der Philosophie. Freitag den 13. um 8 Uhr bei ihm zu Abend zu essen. 11.VI.79. Freiburg i.B. Anmerkungen der Herausgeber 1↑stud. Schmidt ] nicht ermittelt. Es kommen eine ganze Reihe von Schmidt in Frage: Josef Schmid (aus Waldkirch, Jura, immatrikuliert Winter 1877/78), Edmund Schmidt (Celle, Jura, Sommer 1879), Franz Schmidt (Wesel, Philologie, Winter 1878/79), Georg Schmidt (Leipzig, Medizin, Sommer 1879), Oskar Schmidt (Berlin, Medizin, Winter 1879/80), Dr. Otto Schmidt (Werden, Medizin, Sommer 1878), Victor Schmidt (Kirchweiler, Medizin, Sommer 1876), vgl. die Personalverzeichnissse der Universität Freiburg Sommer 1878 bis Winter 1879/80 (Sommer 1879 fehlt!): https://www.uniarchiv.uni-freiburg.de/unigeschichte/matrikelordner/verzeichnisse1216 (29.8.2017).</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000111-0</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14111</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14111">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13111/edWW2020-13111.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14111"
+            DMDID="DMD_wuppertal_elpub_14111">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14111"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

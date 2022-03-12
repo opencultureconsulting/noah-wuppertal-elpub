@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_2617">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Collateral damage: Educational attainment and labor market outcomes among German war and post-war cohorts</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jürges, Hendrik</displayForm>
+                        <namePart type="family">Jürges</namePart>
+                        <namePart type="given">Hendrik</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">We use data from the West German 1970 census to explore the link between being born during or shortly after World War II and educational and labor market outcomes 25 years later. We document, for the first time, that men and women born in the relatively short period between November 1945 and May 1946 have significantly and substantially lower educational attainment and occupational status than cohorts born shortly before or after. Several alternative explanations for this new finding are put to test. Most likely, a short but severe spell of quantitative and qualitative malnutrition immediately around the end of the war has impaired intrauterine conditions in first trimester pregnancies and resulted in longterm detriments among the affected cohorts. This conjecture is corroborated by evidence from Austria.</abstract>
+                    <abstract type="content" lang="ger">JEL classification: J24, N34 
+
+Dateigröße: 942 KB</abstract>
+                    <subject>
+                        <topic>fetal origins hypothesis</topic>
+                        <topic>malnutrition</topic>
+                        <topic>educational attainment</topic>
+                        <topic>labor market outcomes</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20120301-120131-8</identifier>
+                    <identifier type="sys">HT017154745</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_2617</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_2617">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp12/sdp12003.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_2617"
+            DMDID="DMD_wuppertal_elpub_2617">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_2617"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

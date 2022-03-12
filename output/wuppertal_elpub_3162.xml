@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3162">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Alte und neue Problemaspekte der Figur</title>
+                        <subTitle>Zu einem medienübergreifenden Versuch einer Begriffsbe-stimmung der Figur</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lacan, Carmen</displayForm>
+                        <namePart type="family">Lacan</namePart>
+                        <namePart type="given">Carmen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Obwohl die Figur ein viel diskutiertes Element der Literaturtheorie ist, haben sich die unterschiedlichen Aspekte dieses Begriffs als nur schwer einheitlich zu erfassen erwiesen, so dass viele bereits diskutierte Probleme der Figurenkonstitution doch immer wieder in narratologischen Untersuchungen vorkommen und die literaturwissenschaftliche Debatte neu erregen. Was ist der ontologische Status der Figur? Welches Verhältnis besteht zwischen Figuren und Personen? Oder zwischen Figur und Handlung? Wie trägt die Figurenkonstellation zur Gestaltung der Figur bei? Wie beeinflußt die Figur den Rezipienten? Auch dieser Tagungsband nimmt erneut solche Fragen sowohl in den einzelnen Beiträgen als auch in der ausführlichen Einleitung der Herausgeber auf. Unterschiedliche Aspekte des Figurenbegriffs werden fünf Themenbereichen zugeordnet. Der erste Abschnitt widmet sich allgemeinen theoretischen Fragestellungen. Im zweiten Teil werden die Figur und die Figurencharakterisierung in verschiedenen Medien untersucht; der dritte Teil behandelt das Verhältnis zwischen Figuren und Publikum. Im vierten Teil konzentrieren sich die Untersuchungen auf den Zusammenhang von Figuren, Kultur und Identität und im letzten Teil stehen transtextuelle und transmediale Figuren im Fokus.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 1 (2012) H. 1"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20121113-122526-3</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3162</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3162">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-3267/dej12010109.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3162"
+            DMDID="DMD_wuppertal_elpub_3162">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3162"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

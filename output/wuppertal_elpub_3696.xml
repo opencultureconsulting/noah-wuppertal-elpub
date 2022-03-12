@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3696">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Underwriter Reputation and the Quality of Certification: Evidence from High-Yield Bonds</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Andres, Christian␞Betzer, André␞Limbach, Peter</displayForm>
+                        <namePart type="family">Andres</namePart>
+                        <namePart type="given">Christian␞Betzer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This paper provides primary evidence of whether certification via reputable underwriters is beneficial to investors in the corporate bond market. We focus on the high-yield bond market, in which certification of issuer quality is most valuable to investors owing to low liquidity and issuing firms’ high opacity and default risk. We find bonds underwritten by the most reputable underwriters to be associated with significantly higher downgrade and default risk. Investors seem to be aware of this relation, as we further find the private information conveyed via the issuer-reputable underwriter match to have a significantly positive effect on at-issue yield spreads. Our results are consistent with the market-power hypothesis, and contradict the traditional certification hypothesis and underlying reputation mechanism.</abstract>
+                    <abstract type="content" lang="ger">JEL classification: G11, G14, G24 
+
+Dateigröße: 975 KB</abstract>
+                    <subject>
+                        <topic>borrowing costs</topic>
+                        <topic>certification</topic>
+                        <topic>downgrade and default risk</topic>
+                        <topic>reputation</topic>
+                        <topic>underwriting standards</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20130820-111513-2</identifier>
+                    <identifier type="sys">HT017762494</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3696</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3696">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp13/sdp13006.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3696"
+            DMDID="DMD_wuppertal_elpub_3696">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3696"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

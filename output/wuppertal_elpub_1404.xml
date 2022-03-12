@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_1404">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Biologische Belastungen der Beschäftigten in der Landwirtschaft</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Rieger, Monika Annemarie</displayForm>
+                        <namePart type="family">Rieger</namePart>
+                        <namePart type="given">Monika Annemarie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002-10-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Die vorliegende Arbeit widmet sich den arbeitsbedingten biologischen Belastungen der Beschäftigten in der Landwirtschaft. Biologische Belastungen rückten nicht zuletzt seit der Umsetzung der EU-Richtlinie 90/679/EWG (kodifizierte Fassung: 2000/54/EG) in deutsches Recht durch die sogenannte “Biostoffverordnung” (BioStoffV) vom 27. Januar 1999 in den Mittelpunkt arbeitsmedizinischer und sicherheitstechnischer Betrachtungen. Im Rahmen dieser Umsetzung wurden standardisierte Messverfahren definiert, die nun die einheitliche wissenschaftliche Betrachtung von Arbeitsplätzen und Tätigkeiten ermöglichen. Zielgrößen sind hierbei in der Regel luftgetragene Bakterien, Schimmelpilze und Endotoxine. 
+Für den Bereich der Landwirtschaft steht eine umfassende Betrachtung auf der Grundlage der Verordnung noch aus. Ihre Notwendigkeit wird durch den großen Anteil der auf biologische Belastungen zurückzuführende Erkrankungen an den angezeigten und anerkannten Berufskrankheiten deutlich. Vor dem Hintergrund der derzeit politisch diskutierten Veränderungen im Bereich der landwirtschaftlichen Produktions- und Arbeitsbedingungen („Agrarwende“) werden Belastungen und mögliche Beanspruchungen bei Beschäftigten in der Landwirtschaft beschrieben, modifizierende Faktoren analysiert und Maßnahmen der Prävention im praktischen Arbeitsschutz aufgezeigt. 
+Sowohl im Bereich der Pflanzenproduktion als auch in der landwirtschaftlichen Nutztierhaltung sind arbeitsbedingte Infektionskrankheiten sowie toxische und allergische Wirkungen durch den Kontakt mit Mikroorganismen und deren Stoffwechselprodukten möglich. Im Rahmen der vorliegenden Arbeit wurden Infektionsgefährdungen in der Landwirtschaft am Beispiel der durch Zecken übertragenen Krankheitserreger Frühsommermeningoenzephalitits (FSME)-Virus und Borrelia burgdorferi sensu lato auf der Grundlage einer Vielzahl von epidemiologischen Studien dargestellt. Die Exposition gegenüber luftgetragenen biologischen Arbeitsstoffen wurde messtechnisch in acht landwirtschaftlichen Betrieben erfasst mit dem Ziel, modifizierende Variablen von Seiten der Produktionsbedingungen (Tierart, Haltungsform) zu differenzieren. Unter derselben Fragestellung erfolgte die Befragung von n=170 Landwirten zu Belastungen und Beanspruchungen bei der Arbeit. 
+Auf der Grundlage der erhobenen Befunde konnten Synergien zwischen Arbeitsschutz und Tierhygiene bzw. Verbraucherschutz vor allem im Bereich der Infektionsgefährdung für die Beschäftigten aufgezeigt werden. Anders fiel die Bewertung der Haltungsformen aus. Hier sind einstreuarme oder einstreulose Haltungsformen aus Sicht des Arbeitsschutzes zu bevorzugen. Generell sollte bei der Beurteilung neuer oder sogenannter artgerechter Produktions- und Haltungsformen berücksichtigt werden, zu welchen Veränderungen sie im Hinblick auf die Belastungen der Beschäftigten führen.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Maschinenbau und Sicherheitstechnik » Sicherheitstechnik » Habilitationsschriften"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20020475</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_1404</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_1404">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1501/h140101.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_1404"
+            DMDID="DMD_wuppertal_elpub_1404">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_1404"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

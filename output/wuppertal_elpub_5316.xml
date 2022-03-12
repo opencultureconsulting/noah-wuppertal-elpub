@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5316">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Ethische Dimensionen des pikturalen und textuellen Erzählens. Nora Bernings Propädeutik einer ‚ethischen‘ Narratologie</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hubmann, Philipp</displayForm>
+                        <namePart type="family">Hubmann</namePart>
+                        <namePart type="given">Philipp</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Nora Berning: Towards a Critical Ethical Narratology. Analyzing Value Construction in Literary Non-Fiction across Media. 
+Trier: Wissenschaftlicher Verlag Trier 2013 (= WVT-Handbücher und Studien zur Medienkulturwissenschaft, Bd. 9). 191 S. EUR 25,00. 
+ISBN 978-3-86821-455-0</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 4 (2015) H. 2"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20151117-115552-0</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5316</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5316">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-5150/dej15040207.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5316"
+            DMDID="DMD_wuppertal_elpub_5316">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5316"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

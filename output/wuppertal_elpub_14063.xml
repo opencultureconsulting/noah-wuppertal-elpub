@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14063">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Windelband an Moritz Lazarus, Leipzig, 22.7.1874, 1 S., hs. (dt. Schrift), am Briefkopf gedrucktes Signet: zwei ineinandergeschlungene W-Versalien in einem von einem geschlossenen Gürtel gebildeten Ring, darüber eine fünfzackige Krone, UB der Humboldt-Universität zu Berlin, Nachl. Laz. I, 224</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Windelband an Moritz Lazarus, Leipzig, 22.7.1874, 1 S., hs. (dt. Schrift), am Briefkopf gedrucktes Signet: zwei ineinandergeschlungene W-Versalien in einem von einem geschlossenen Gürtel gebildeten Ring, darüber eine fünfzackige Krone, UB der Humboldt-Universität zu Berlin, Nachl. Laz. I, 224 Leipzig, 22.VII 74 Sehr verehrter Herr Professor! Von Bekannten höre ich und aus buchhändlerischen Anzeigen ersehe ich, daß das zweite Heft Ihrer Zeitschrift mit meiner Abhandlung[1] erschienen ist, und erlaube mir deshalb, an meinen bei Uebersendung des Manuscripts ausgedrückten Wunsch zu erinnern, daß ich (eventuell auf meine Kosten) ein Dutzend Abzüge derselben erhalte, indem ich bitte, wenn noch möglich, diesen Abzug auch auf den mir so wichtigen Zusatz[2] des Herrn[a] Prof. Steinthal zu erweitern. Zugleich wiederhole ich mein schon durch Herrn[b] Dr. Jellinek übermitteltes Bedauern darüber, daß mir meine in diesem Semester ganz besonders in Anspruch genommene Zeit die Erfüllung Ihres Wunsches, eine Abhandlung über die Völkerpsychologie[3] zu schreiben, nicht gestattet hat, und verbleibe in größter Hochachtung Ihr ergebenster W Windelband Leipzig. Waisenhausstr.[4] 6. II Anmerkungen zum Textbefund a↑Herrn ] Hrn b↑Herrn ] Hrn Anmerkungen der Herausgeber 1↑meiner Abhandlung ] vgl. Windelband an Lazarus vom 23.2.1874 2↑Zusatz ] vgl. Heymann Steinthal: Zusatz zum vorstehenden Artikel. In: Zeitschrift für Völkerpsychologie und Sprachwissenschaft 8 (1875), S. 178–189. 3↑Abhandlung über die Völkerpsychologie ] nichts Näheres ermittelt, vgl. Windelband an Unbekannt vom 8.5.1873 4↑Waisenhausstr. ] Straßenname 1860–79, seitdem Liebigstraße (Gina Klank, Gernot Griebsch (Hg.): Lexikon Leipziger Straßennamen. Leipzig 1995).</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000063-7</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14063</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14063">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13063/edWW2020-13063.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14063"
+            DMDID="DMD_wuppertal_elpub_14063">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14063"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

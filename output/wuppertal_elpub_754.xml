@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_754">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Structural Change, Economic Growth and Bazaar Effects in the Single EU Market</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Welfens, Paul J.J.␞Borbély, Dora</displayForm>
+                        <namePart type="family">Welfens</namePart>
+                        <namePart type="given">Paul J.J.␞Borbély</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This paper analyzes the link between structural change, growth and bazaar effects in the context of open economies. At first we consider the theoretical basis of structural change and discuss the interdependencies between trade, foreign direct investment and innovation dynamics. The empirical analysis puts the focus on traits of innovation and structural change in selected countries. As regards the hypothesis of a bazaar effect we distinguish between gross effects and net effects. The statistics and the analysis of input-output-tables does not provide evidence that bazaar effects would be a critical problem for Germany or other EU countries.</abstract>
+                    <abstract type="content" lang="ger">Dieser Beitrag thematisiert den Zusammenhang von Strukturwandel, Wachstum und Basareffekten im Kontext internationaler Märkte. Zunächst wird die theoretische Basis der Analyse des Strukturwandels in offenen Volkswirtschaften dargestellt. Dabei ist die Verbindung von Außenhandel, Direktinvestitionen und Innovationsdynamik wesentlich. In der empirischen Analyse werden ausgewählte Innovationsentwicklungen und die Dynamik des Strukturwandels für ausgewählte Länder dargestellt. Schließlich wird auf die Hypothese zum Basareffekt eingegangen wobei ein Bruttoeffekt und ein Nettoeffekt unterschieden werden. Die Statistiken bzw. die Auswertungen der Input-Output-Tabellen zeigen keine Evidenz dafür, dass in Deutschland und anderen EU-Ländern Basareffekte ein problematisches Phänomen darstellten. 
+
+JEL Classification : F4, F43, L16, O3 
+
+Dateigröße: 738,3 KB</abstract>
+                    <subject>
+                        <topic>Economic Growth</topic>
+                        <topic>Innovation Dynamics</topic>
+                        <topic>Structural Change</topic>
+                        <topic>Open Economies</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20090853</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_754</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_754">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp09/sdp09008.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_754"
+            DMDID="DMD_wuppertal_elpub_754">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_754"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

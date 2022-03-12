@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3784">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Journalistische Wirklichkeitserzählungen und fotografische Bilder</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Renner, Karl N.</displayForm>
+                        <namePart type="family">Renner</namePart>
+                        <namePart type="given">Karl N.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Photos are, like texts, a core means of representation in print as well as in on¬line-journalism. Photos can already indicate a narration. Because of this fact they can be combined with texts to develop complex narrative structures. However, problems arise when there are no photos available of the event itself. In these cases metonymic and metaphoric relations between text and photo are estab¬lished and used. Looking at the story (histoire), the following essay argues that in the first case narrative structures are established bottom-up and in the second case top-down. Considering the level of discourse, metonymic text-photo rela¬tions show an affinity to the communicative act of reporting, whereas meta¬phoric relations lean towards the communicative act of storytelling.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 2 (2013) H. 2"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20131120-174649-1</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3784</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3784">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-3896/dej13020203.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3784"
+            DMDID="DMD_wuppertal_elpub_3784">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3784"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

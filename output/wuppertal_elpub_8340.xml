@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_8340">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>Schumpetersche Unternehmer in der Geschichte des ökonomischen Analyse</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Frambach, Hans</displayForm>
+                        <namePart type="family">Frambach</namePart>
+                        <namePart type="given">Hans</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-06-06</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Schumpeter‘s book History of Economic Analysis (1954) is not only a fa-mous and seminal contribution to the field of the history of economic thought, it also embodies Schumpeter&apos;s unique way of treating economic thought, which sometimes makes the term history of economic analysis appear as being almost synonymous to the book title. The connection between the History of Economic Analysis and the Schumpeterian entrepreneur is analyzed, and according to this the hypothesis to what extent does Schumpeter with his idea of the entrepreneur – which surely re-veals some parallels to his own personality – appear in his style of writing economic analysis is developed. 
+Dateigröße: 440 KB</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics » Schumpeter Discussion Papers (SDP)"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20180606-093358-9</identifier>
+                    <identifier type="sys">HT019709256</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_8340</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_8340">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp18/sdp18001.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_8340"
+            DMDID="DMD_wuppertal_elpub_8340">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_8340"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

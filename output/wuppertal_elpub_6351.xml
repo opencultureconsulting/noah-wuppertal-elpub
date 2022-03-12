@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6351">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>Erzählsalon als Verfahren strategischen Erzählens - Konzeptionelle Voraussetzungen und empirische Gestalt am Beispiel des Projektes Lausitz an einen Tisch</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Richter, Ralph␞Rohnstock, Nepomuk</displayForm>
+                        <namePart type="family">Richter</namePart>
+                        <namePart type="given">Ralph␞Rohnstock</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The Story Telling Salon is a method that regularly brings together groups of people who, under the leadership of a moderator – the salonnière –, exchange stories about personal experiences in a social environment (an organization, a community etc.). In this way, the Story Telling Salon not only strives to generate meaningful collective narrations but also trust, collective identity and commitment in groups which suffer from social alienation. We show how the Story Telling Salon applies collective storytelling as a strategic means towards community building and the empowerment of people. This will be exemplified by the example of “Lusatia at one table” (Lausitz an einen Tisch) – a regional development project that aims at strengthening social cohesion and facilitating civic commitment in the disadvantaged rural region of Lusatia / Germany. The paper presents the empirical findings of a one-year observation of “Lusatia at one table”.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 5 (2016) H. 2"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20161122-084807-8</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6351</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6351">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-6145/dej16050205.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6351"
+            DMDID="DMD_wuppertal_elpub_6351">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6351"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

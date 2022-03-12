@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3790">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zwischen Geschichtswissenschaft und Narratologie</title>
+                        <subTitle>Jonas Grethlein und Christopher B. Krebs über die Bedeutung und Komplexität von Zeit und Erzählung in antiken historischen Texten</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>John, Katharina</displayForm>
+                        <namePart type="family">John</namePart>
+                        <namePart type="given">Katharina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Jonas Grethlein / Christopher B. Krebs (Hg.): Time and Narrative in Ancient Historiography. The ‘Plupast’ from Herodotus to Appian. Cambridge: University Press 2012. EUR 60,00 (USD 99,00). ISBN 978-1-107-00740-6 
+
+ Der vorliegende Sammelband ist an der Schnittstelle von Geschichtswissenschaft und Narratologie einzuordnen. Die Altertumswissenschaftler Jonas Grethlein und Christopher B. Krebs beleuchten die Bedeutung von Zeit und Erzählung in der antiken Historiographie aus einem neuen Blickwinkel, dem des „Plupast“. Das Anliegen des Sammelbandes ist dabei ein Grundsätzliches: Vor dem Hintergrund der zeitlichen Komplexität antiker historischer Erzählungen geht es ihm darum, neue Erkenntnisse über die antike Geschichtsschreibung zu gewinnen. 
+ Zum Aufbau des Bandes: Nach einer allgemeinen Einführung der Herausgeber folgen beispielhafte Interpretationen antiker Autoren im Hinblick auf das Plupast. Das Spektrum der Analysen reicht dabei von Herodot über Thukydides, Xenophon, Sallust, Dionysios von Halikarnassos, Livius, Tacitus und Plutarch bis hin zu Appian.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 2 (2013) H. 2"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20131120-181039-2</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3790</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3790">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-3903/dej13020210.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3790"
+            DMDID="DMD_wuppertal_elpub_3790">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3790"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

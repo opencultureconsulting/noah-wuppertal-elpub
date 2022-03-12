@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3836">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Bildungspolitik versus Gesundheitspolitik – Evidenzbasierte Interventionen gegen soziale Ungleichheit in Gesundheit</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jürges, Hendrik</displayForm>
+                        <namePart type="family">Jürges</namePart>
+                        <namePart type="given">Hendrik</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In Deutschland ist soziale Ungleichheit in Gesundheit kaum in der öffentlichen Diskussion, obwohl auch hier besser gebildete, reichere, und in der beruflichen Hierarchie höher stehende Menschen zeitlebens gesünder sind und länger leben als andere. Soziale Ungleichheit wird dadurch entlang einer weiteren wichtigen Dimension verstärkt. In diesem Beitrag werden kurz Ausmaß und Dimensionen derartiger Ungleichheit in Deutschland dargestellt. In Abgrenzung zur vorherrschenden sozialepidemiologischen Literatur wird auf Basis der aktuellen gesundheits- und bildungsökonomischen Literatur diskutiert, ob und wie soziale Ungleichheit in Gesundheit mit wirtschafts- und sozialpolitischen Mitteln vermindert werden kann. Dabei wird als Defizit erkannt, dass wir aufgrund einer ausnehmend schlechten Datenlage viel zu wenig über ihre Entstehung wissen. Dies mündet in der Forderung nach einer neuen Evaluationskultur im Bereich der Bildungs- und Gesundheitspolitik. 
+
+Dateigröße: 955 KB</abstract>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics » Schumpeter Discussion Papers (SDP)"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20140117-124321-8</identifier>
+                    <identifier type="sys">HT018137566</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3836</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3836">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp14/sdp14002.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3836"
+            DMDID="DMD_wuppertal_elpub_3836">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3836"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

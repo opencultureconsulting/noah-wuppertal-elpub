@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_14005">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsgrundlagen Wilhelm Windelband Hermann Lotze: Stellungnahme zu Promotionsgesuch und Dissertationsschrift Windelbands, Göttingen, zwischen 1. u. 7.3.1872, hs., UA Göttingen, Phil. Dek. 155, Bl. 78</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohr, Jörn␞Hartung, Gerald␞Bülow, Gilles␞Schlupkothen, Frederik</displayForm>
+                        <namePart type="family">Bohr</namePart>
+                        <namePart type="given">Jörn␞Hartung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Hermann Lotze[1]: Stellungnahme[2] zu Promotionsgesuch und Dissertationsschrift Windelbands, Göttingen, zwischen 1. u. 7.3.1872, hs., UA Göttingen[3], Phil. Dek. 155, Bl. 78 Die Abhandlung[4] des Herrn Windelband[5] genügt den Anforderungen an eine Dissertation vollkommen. Obwohl ich ihre Resultate keineswegs alle für richtig halte, muß ich doch anerkennen, daß sie eine sehr fleißige, gründliche, gutgeschriebene Arbeit ist, welche ausgedehnte Kenntnisse und eine vortreffliche philosophische Schule bezeugt. Der Gewährung seines Gesuchs scheint mir durchaus nichts im Wege zu stehen. Lotze. Anmerkungen der Herausgeber 1↑Hermann Lotze ] 1817–1881, Mediziner, Psychologe und Philosoph, ab 1834 Studium der Medizin und Philosophie in Leipzig, 1838 philosophische und medizinische Promotion in Leipzig, 1839 Habilitation in der Medizinischen Fakultät Leipzig, 1840 Habilitation in der Philosophischen Fakultät, 1843 ao. Prof. für Philosophie in Leipzig, 1844 o. Prof. für Philosophie in Göttingen, 1881 in Berlin (NDB/Leipziger Professorenkatalog). 2↑Stellungnahme ] vgl. den Erstabdruck in: Reinhardt Pester (Hg.): Hermann Lotze Briefe und Dokumente. Mit einem Vorwort v. E. W. Orth. Würzburg: Königshausen &amp; Neumann 2003, S. 546. 3↑UA Göttingen ] mit Dank an Angelika Handschuck, UA Göttingen 4↑Abhandlung ] vgl. Windelband: Die Lehren vom Zufall. Inaugural-Dissertation zur Erlangung der Doctorwürde in Göttingen von W. W. aus Potsdam. Berlin: A. W. Schade’s Buchdruckerei (L. Schade) 1870. 80 S. 5↑Windelband ] über das Gesuch schreibt der Dekan W. Müller auf dem Kopf desselben Bl.: Herr Windelband von dem Gymnasium seiner Vaterstadt mit dem Zeugnisse der Reife entlassen, studirte drei Semester in Jena, vier in Berlin, darauf hier. Er wünscht in Philosophie und Physik geprüft zu werden. Die mündliche Prüfung durch Lotze und den Physiker Wilhelm Eduard Weber wurde für den 9.3.1870 anberaumt. Die Aktennotizen Müllers sind auf den 1. und 7.3.1870 datiert. Lotzes Stellungnahme steht zwischen den beiden Notaten. Auf der Rückseite des Bl. bemerkt Müller: In der Sitzung am 9 März ist Herrn Windelband der erste Grad zuerkannt.</abstract>
+                    <subject>
+                        <topic>Wilhelm Windelband</topic>
+                        <topic>Editionen » Wilhelm Windelband</topic>
+                    </subject>
+                    <classification authority="ddc">100</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-edww2020-000005-3</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_14005</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_14005">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13005/edWW2020-13005.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_14005"
+            DMDID="DMD_wuppertal_elpub_14005">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_14005"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

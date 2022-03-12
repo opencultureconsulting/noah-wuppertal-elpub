@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3542">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Im Dickicht von Kultur und Narration</title>
+                        <subTitle>Albrecht Koschorke versucht Kulturtheorie und Erzählforschung zu vereinen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Scheffel, Michael</displayForm>
+                        <namePart type="family">Scheffel</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Albrecht Koschorke: Wahrheit und Erfindung. Grundzüge einer Allgemeinen Erzähltheorie. Frankfurt am Main: S. Fischer 2012. 480 S. EUR 24,99. ISBN 978-3-10-038911-4 
+
+Im Zeichen eines viel beschworenen narrative turn hebt man seit etwa zwei Jahrzehnten in den Geistes-, Kultur- und Sozialwissenschaften hervor, dass das Erzählen zu den elementaren kulturellen Handlungsformen des Menschen gehört. Und im Zuge einer allgemeinen Öffnung für kulturwissenschaftliche Fragen interessieren sich auch die Vertreter unterschiedlicher Nationalphilologien längst nicht mehr nur für das Erzählen in Romanen und literarischen Texten, d.h., sie reflektieren Formen und Funktionen des Erzählens als, so Hayden White zu Beginn der 1980er Jahre , „panglobal fact of culture“ (1981, 1). Das neue Buch des Literatur- und Kulturwissenschaftlers Albrecht Koschorke greift diese Entwicklung und die mittlerweile bis in die Alltagssprache reichende Hochkonjunktur des Begriffs ‚Narrativ‘ auf und tritt seiner¬seits mit dem Anspruch an, nunmehr eine, wie der Klappentext verheißt, „Lücke zu schließen“ und die „Grundzüge“ einer „über ihren klassischen Geltungsbereich, die Literatur,“ hinausgehenden „Allgemeinen Erzähltheorie“ zu entwerfen. Aus Sicht des, so Gerald Prince im ersten Heft von DIEGESIS, „narratological tribe“ (Qiao / Prince 2012, 32) bietet Koschorkes Studie im Ergebnis, um es vorwegzunehmen, wenig neue Erkenntnisse zum Phänomen des Erzählens selbst, und sie entwirft auch keine systematisch durchdachte, die Ansätze aktueller Erzählforschung konsequent vorantreibende „Allgemeine Erzähltheorie“. Gleichwohl eröffnet sein Buch interessante Perspektiven. Seine Verdienste liegen in der originellen Zusammenschau einer Reihe von narratologischen Einsichten mit einem breiten Spektrum kulturtheoretischer Ansätze, in denen vom Erzählen bislang nicht oder nur am Rande die Rede war.</abstract>
+                    <classification authority="ddc">800</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Geistes- und Kulturwissenschaften » DIEGESIS » Jg. 2 (2013) H. 1"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20130528-110312-4</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3542</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3542">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-3643/dej13020112.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3542"
+            DMDID="DMD_wuppertal_elpub_3542">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3542"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

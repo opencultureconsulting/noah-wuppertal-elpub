@@ -1,0 +1,42 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:10760</id><datestamp>2020-08-25</datestamp><setSpec>DDC:0</setSpec><setSpec>DDC:5:51:518</setSpec>
+          <dc:title xml:lang="en">Algorithms for massively parallel generic hp-adaptive finite element methods</dc:title>
+          <dc:creator>Fehling, Marc</dc:creator>
+          <dc:contributor>Arnold, Lukas</dc:contributor>
+          <dc:contributor>Bangerth, Wolfgang</dc:contributor>
+          <dc:date>2020-08-25</dc:date>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/bauingenieurwesen/diss2020/fehling</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=10760</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20200825-101144-2</dc:identifier>
+          <dc:identifier>https://doi.org/10.25926/068q-d104</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-10160/dd2005.pdf</dc:identifier>
+          <dc:description xml:lang="en">&lt;p&gt;Efficient algorithms for the numerical solution of partial differential equations are required to solve problems on an economically viable timescale. In general, this is achieved by adapting the resolution of the discretization to the investigated problem, as well as exploiting hardware specifications. For the latter category, parallelization plays a major role for modern multi-core and multi-node architectures, especially in the context of high-performance computing.&#13;
+&#13;
+Using finite element methods, solutions are approximated by discretizing the function space of the problem with piecewise polynomials. With hp-adaptive methods, the polynomial degrees of these basis functions may vary on locally refined meshes.&#13;
+&#13;
+We present algorithms and data structures required for generic hp-adaptive finite element software applicable for both continuous and discontinuous Galerkin methods on distributed memory systems. Both function space and mesh may be adapted dynamically during the solution process.&#13;
+&#13;
+We cover details concerning the unique enumeration of degrees of freedom with continuous Galerkin methods, the communication of variable size data, and load balancing. Furthermore, we present strategies to determine the type of adaptation based on error estimation and prediction as well as smoothness estimation via the decay rate of coefficients of Fourier and Legendre series expansions. Both refinement and coarsening are considered.&#13;
+&#13;
+A reference implementation in the open-source library deal.II is provided and applied to the Laplace problem on a domain with a reentrant corner which invokes a singularity. With this example, we demonstrate the benefits of the hp-adaptive methods in terms of error convergence and show that our algorithm scales up to 49,152 MPI processes.</dc:description>
+          <dc:description xml:lang="de">&lt;p&gt;Für die numerische Lösung partieller Differentialgleichungen sind effiziente Algorithmen erforderlich, um Probleme auf einer wirtschaftlich tragbaren Zeitskala zu lösen. Im Allgemeinen ist dies durch die Anpassung der Diskretisierungsauflösung an das untersuchte Problem sowie durch die Ausnutzung der Hardwarespezifikationen möglich. Für die letztere Kategorie spielt die Parallelisierung eine große Rolle für moderne Mehrkern- und Mehrknotenarchitekturen, insbesondere im Kontext des Hochleistungsrechnens.&#13;
+&#13;
+Mit Hilfe von Finite-Elemente-Methoden werden Lösungen durch Diskretisierung des assoziierten Funktionsraums mit stückweisen Polynomen approximiert. Bei hp-adaptiven Verfahren können die Polynomgrade dieser Basisfunktionen auf lokal verfeinerten Gittern variieren.&#13;
+&#13;
+In dieser Dissertation werden Algorithmen und Datenstrukturen vorgestellt, die für generische hp-adaptive Finite-Elemente-Software benötigt werden und sowohl für kontinuierliche als auch diskontinuierliche Galerkin-Verfahren auf Systemen mit verteiltem Speicher anwendbar sind. Sowohl der Funktionsraum als auch das Gitter können während des Lösungsprozesses dynamisch angepasst werden.&#13;
+&#13;
+Im Besonderen erläutert werden die eindeutige Nummerierung von Freiheitsgraden mit kontinuierlichen Galerkin-Verfahren, die Kommunikation von Daten variabler Größe und die Lastenverteilung. Außerdem werden Strategien zur Bestimmung des Adaptierungstyps auf der Grundlage von Fehlerschätzungen und -prognosen sowie Glattheitsschätzungen vorgestellt, die über die Zerfallsrate von Koeffizienten aus Reihenentwicklungen nach Fourier und Legendre bestimmt werden. Dabei werden sowohl Verfeinerung als auch Vergröberung berücksichtigt.&#13;
+&#13;
+Eine Referenzimplementierung erfolgt in der Open-Source-Bibliothek deal.II und wird auf das Laplace-Problem auf einem Gebiet mit einer einschneidenden Ecke angewandt, die eine Singularität aufweist. Anhand dieses Beispiels werden die Vorteile der hp-adaptiven Methoden hinsichtlich der Fehlerkonvergenz und die Skalierbarkeit der präsentierten Algorithmen auf bis zu 49.152 MPI-Prozessen demonstriert.</dc:description>
+          <dc:rights>Dieses Werk kann unter einer Namensnennung 4.0 Lizenz genutzt werden. https://creativecommons.org/licenses/by/4.0/</dc:rights>
+          <dc:subject>FEM</dc:subject>
+          <dc:subject>HPC</dc:subject>
+          <dc:subject>hp-adaptive</dc:subject>
+          <dc:subject>deal.II</dc:subject>
+          <dc:subject>000 Informatik, Informationswissenschaft, allgemeine Werke</dc:subject>
+          <dc:subject>500 Naturwissenschaften und Mathematik » 510 Mathematik » 518 Numerische Analysis</dc:subject>
+          <dc:subject>Fakultät für Architektur und Bauingenieurwesen » Bauingenieurwesen » Dissertationen</dc:subject>
+          <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
+          <dc:language>eng</dc:language>
+          <dc:format>application/pdf</dc:format>
+          <dc:type>Text</dc:type>
+        </oai_dc:dc>

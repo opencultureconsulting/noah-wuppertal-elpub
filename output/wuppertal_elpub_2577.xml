@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_2577">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>99 Entrepreneurship Journals: A Comparative Empirical Investigation of Rankings, Impact, and H/HC-Index</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sassmannshausen, Sean Patrick</displayForm>
+                        <namePart type="family">Sassmannshausen</namePart>
+                        <namePart type="given">Sean Patrick</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-22</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This article takes stock of 99 journals dedicated to the field of entrepreneurship research and examines their evaluations and impact. It compares several journal quality assessments, the Australian ERA 2010, ABDC 2010 and UQ 2011 lists, with other international rankings and with highly regarded impact measurements. In a following section, the H-Index and the HC-Index for journals are introduced. The H-Indices are Google Scholar based impact measurements which can be easily executed by anyone. The results for the entrepreneurship journals H-Indices are compared with other impact factors and with journal rankings from Australia and elsewhere. Results reveal that rankings are incomplete in regard to entrepreneurship journals and that many rankings are inconsistent when compared to impact measurements. This holds true even for the ERA and the ABDC 2010 lists, even though these are among the most appropriate lists.</abstract>
+                    <abstract type="content" lang="ger">Dateigröße: 1,2 MB</abstract>
+                    <subject>
+                        <topic>entrepreneurship journals</topic>
+                        <topic>H-Index</topic>
+                        <topic>HC-Index</topic>
+                        <topic>journal rankings</topic>
+                        <topic>journal ratings</topic>
+                        <topic>evaluation of journals</topic>
+                        <topic>impact measurements</topic>
+                        <topic>impact factors</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20120217-160358-9</identifier>
+                    <identifier type="sys">HT017140885</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_2577</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_2577">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp12/sdp12002.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_2577"
+            DMDID="DMD_wuppertal_elpub_2577">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_2577"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>
