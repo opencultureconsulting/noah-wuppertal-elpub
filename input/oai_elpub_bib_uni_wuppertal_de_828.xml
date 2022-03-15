@@ -1,0 +1,48 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:828</id><datestamp>2018-01-22</datestamp><setSpec>DDC:5:51:510</setSpec>
+          <dc:title xml:lang="en">Some new Acceleration Mechanisms in Verified Global Optimization</dc:title>
+          <dc:creator>Tapamo Kahou, Jean Honoré</dc:creator>
+          <dc:date>2006-01-04</dc:date>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2005/tapamo</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=828</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20050787</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-934/dc0519.pdf</dc:identifier>
+          <dc:description xml:lang="en">In this work we propose some new mechanisms to speedup the convergence of the highly&#13;
+resources (CPU, memory) consuming interval global optimization algorithm.&#13;
+     Optimization is ubiquitous in our daily live. From the way we organize our once to&#13;
+obtain more place to the angle the wing of a plane should have to obtain more strength, we&#13;
+always explicitly or implicitly solve optimization problems. The optimization problem is&#13;
+always addressed by scientific computing and applied mathematics researchers due to the&#13;
+huge demand coming from fields such as engineering or finance. In science, engineering&#13;
+and economics decision problems are frequently modelled as optimizing the value of a&#13;
+(primary) objective (criterion, performance, loss etc.) function, under stated feasibility&#13;
+constraints to be met by all 'acceptable' decisions.&#13;
+&lt;br&gt;     We use a deterministic approach based on the branch and bound principle using interval&#13;
+analysis. With interval analysis one is able to have a guaranteed enclosure of the result.&#13;
+Therefore, the use of interval analysis will serve two purposes, firstly the purpose of global&#13;
+convergence and secondly the purpose of auto-validation.&#13;
+&lt;br&gt;     The first technique we propose deals with the storage management of subproblems&#13;
+arising during the search process. This is definitely one of the key point in verified global&#13;
+optimization. In fact, for many difficult problems, so far known accelerating devices are&#13;
+likely to fail, as a consequence the memory require to store these subproblems will grow&#13;
+exponentially. We propose a new selection strategy for the next problem to handle. We&#13;
+also suggest to store subproblems in a heap. Experimental results show for almost all&#13;
+dincult problems a dramatically decrease of the computational time.&#13;
+&lt;br&gt;     The second technique is based on the one-dimensional Newton iteration to discard or&#13;
+split a box under consideration. This test is usually cheap and it is likely to be successful&#13;
+when a good approximation of the minimum is known early. For many test problems&#13;
+considered we observed an improvement when applying this new technique.&#13;
+&lt;br&gt;     The other technique considered here deals with parallelization. We propose to share&#13;
+the task of the manager process among other non idle processes in such a way that not&#13;
+only one process is responsible for the load balancing. Experimental results presented&#13;
+show that this new technique yield significant improvements in many cases.</dc:description>
+          <dc:subject>Global Optimization</dc:subject>
+          <dc:subject>Interval Analysis</dc:subject>
+          <dc:subject>Load balancing</dc:subject>
+          <dc:subject>Self Verification</dc:subject>
+          <dc:subject>500 Naturwissenschaften und Mathematik » 510 Mathematik » 510 Mathematik</dc:subject>
+          <dc:subject>Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik » Dissertationen</dc:subject>
+          <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
+          <dc:language>eng</dc:language>
+          <dc:format>application/pdf</dc:format>
+          <dc:type>Text</dc:type>
+        </oai_dc:dc>
