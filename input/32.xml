@@ -1,15 +1,46 @@
-<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:2032</id><datestamp>2018-01-22</datestamp><setSpec>DDC:6:62:620</setSpec>
-          <dc:title xml:lang="de">Spektrales Farbvorhersagemodell für den Rasterdruck auf Basis der wellenlängenabhängigen Flächendeckung</dc:title>
-          <dc:creator>Dattner, Michael</dc:creator>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:2132</id><datestamp>2018-01-22</datestamp><setSpec>DDC:5:51:510</setSpec>
+          <dc:title xml:lang="en">Multiscale Modeling and Multirate Time-Integration of Field/Circuit Coupled Problems</dc:title>
+          <dc:creator>Schöps, Sebastian</dc:creator>
           <dc:date>2018-01-22</dc:date>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/medientechnik/diss2010/dattner</dc:identifier>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=2032</dc:identifier>
-          <dc:identifier>urn:nbn:de:hbz:468-20110519-095444-2</dc:identifier>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-2184/de1001.pdf</dc:identifier>
-          <dc:subject>600 Technik, Medizin, angewandte Wissenschaften » 620 Ingenieurwissenschaften » 620 Ingenieurwissenschaften und zugeordnete Tätigkeiten</dc:subject>
-          <dc:subject>Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Medientechnik » Dissertationen</dc:subject>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2011/schoeps</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=2132</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20110718-110524-8</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-2286/dc1107.pdf</dc:identifier>
+          <dc:description xml:lang="en">&lt;p&gt;This treatise is intended for mathematicians and computational engineers that&#13;
+work on modeling, coupling and simulation of electromagnetic problems. This&#13;
+includes lumped electric networks, magnetoquasistatic field and semiconductor&#13;
+devices. Their coupling yields a multiscale system of partial differential&#13;
+algebraic equations containing device models of any dimension interconnected&#13;
+by the electric network. It is solved in time domain by multirate techniques&#13;
+that efficiently exploit the structure. The central idea is the usage of&#13;
+lumped surrogate models that describe latent model parts sufficiently accurate&#13;
+(e.g. the field model by an inductance) even if other model parts (e.g. the&#13;
+circuit) exhibit highly dynamic behavior. We propose dynamic iteration and a&#13;
+bypassing technique using surrogate Schur complements. A mathematical&#13;
+convergence analysis is given and numerical examples are discussed. They show&#13;
+a clear reduction in the computational costs compared to single rate&#13;
+approaches.</dc:description>
+          <dc:source xml:lang="de">Auch erschienen im VDI-Verlag/Düsseldorf 2011:&#13;
+&#13;
+Fortschritt-Berichte VDI&#13;
+Reihe 21 - Elektrotechnik&#13;
+Band Nr. 398&#13;
+ISSN 0178-9481&#13;
+ISBN 978-3-18-339821-8</dc:source>
+          <dc:subject>Magnetoquasistatics</dc:subject>
+          <dc:subject>Eddy Currents</dc:subject>
+          <dc:subject>Electric Circuits</dc:subject>
+          <dc:subject>Modeling</dc:subject>
+          <dc:subject>Coupling</dc:subject>
+          <dc:subject>Transient Analysis</dc:subject>
+          <dc:subject>Cosimulation/Dynamic Iteration</dc:subject>
+          <dc:subject>Convergence Analysis</dc:subject>
+          <dc:subject>Multirate</dc:subject>
+          <dc:subject>Schur Complement</dc:subject>
+          <dc:subject>500 Naturwissenschaften und Mathematik » 510 Mathematik » 510 Mathematik</dc:subject>
+          <dc:subject>Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik » Dissertationen</dc:subject>
           <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
-          <dc:language>deu</dc:language>
+          <dc:language>eng</dc:language>
           <dc:format>application/pdf</dc:format>
           <dc:type>Text</dc:type>
         </oai_dc:dc>
