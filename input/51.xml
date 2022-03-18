@@ -1,71 +1,15 @@
-<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:9751</id><datestamp>2019-09-12</datestamp><setSpec>DDC:5:53:530</setSpec>
-          <dc:title xml:lang="en">Development, calibration and deployment of an airborne chemical ionization mass spectrometer for trace gas measurements</dc:title>
-          <dc:creator>Khattatov, Talat</dc:creator>
-          <dc:date>2019-09-12</dc:date>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2019/khattatov</dc:identifier>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=9751</dc:identifier>
-          <dc:identifier>urn:nbn:de:hbz:468-20190912-115903-7</dc:identifier>
-          <dc:identifier>https://doi.org/10.25926/d60p-tp53</dc:identifier>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-9112/dc1922.pdf</dc:identifier>
-          <dc:description xml:lang="en">&lt;p&gt;Some ultra trace gas species present in the upper troposphere and lower stratosphere&#13;
-(UTLS) region at low part-per-billion and part-per-trillion mixing ratios are known to have&#13;
-a major effect on atmospheric chemistry and climate. Chlorine and bromine species causing&#13;
-strong ozone depletion and sulfur dioxide (SO&lt;sub&gt;2&lt;/sub&gt;) driving aerosol formation processes of&#13;
-high relevance to the global radiative budget are prominent examples. Nitric acid (HNO&lt;sub&gt;3&lt;/sub&gt;)&#13;
-is another species, which is quite important for particle formation and denitrification processes.&#13;
-In order to fully understand and reliably model the involved processes for climate&#13;
-predictions, spatially highly resolved in-situ measurements of these species are needed.&#13;
-Therefore robust instruments are required that can perform very sensitive and accurate&#13;
-measurements of ultra-trace species in the extremely challenging UTLS environment from&#13;
-balloons or favorably high-flying aircraft, which impose stringent mechanical and electrical&#13;
-constraints.&lt;br&gt;&#13;
-Here I describe the set-up, test, characterization, deployment, data analysis, and preliminary&#13;
-results of the new FunMass instrument tailored to the deployment on the high-flying&#13;
-research aircraft M-55 Geophysica. FunMass utilizes the established techniques of chemical&#13;
-ionization mass spectrometry (CIMS) in an unprecedented package pairing measurement&#13;
-sensitivity and accuracy with high versatility at reasonable instrumental weight and dimensions.&lt;br&gt;&#13;
-&#13;
-FunMass was set up based on a laboratory prototype [1]: the concept of its transfer&#13;
-stage with an ion funnel and its dielectric barrier discharge (DBD) ion source was adapted&#13;
-for the airborne version of the instrument. The ion funnel improves the sensitivity of the&#13;
-instrument at least by one order of magnitude and the DBD ion source is an excellent&#13;
-replacement for the logistically very challenging radioactive ion source, which is widely&#13;
-used for CIMS. A big advantage of the TOF-MS technique for airborne measurements is&#13;
-that it is capable of fast and simultaneous acquisition of full mass spectra and therefore&#13;
-measurements of many different ion species, which is very important since flight hours of&#13;
-research aircraft are a very limited resource.&lt;br&gt;&#13;
-&#13;
-FunMass has been characterized in detail for measurements of HNO&lt;sub&lt;3&lt;7sub&gt;, SO&lt;sub&gt;2&lt;/sub&gt; and HCN&#13;
-with CO&lt;sub&gt;3&lt;/sub&gt;&#13;
-– as the reagent ion, showing outstanding sensitivity. For SO&lt;sub&gt;2&lt;/sub&gt; and HCN we report&#13;
-detection limits very close to the best published, and for HNO&lt;sub&gt;3&lt;/sub&gt; almost one order of&#13;
-magnitude better than any other CIMS. FunMass was fully tested in the climate chamber&#13;
-at relevant stratospheric temperatures and pressures before its first fully operational&#13;
-deployment on board of M-55 Geophysica.&lt;br&gt;&#13;
-FunMass is calibrated in the laboratory for all targeted species employing a setup with&#13;
-high accuracy permeation devices. Due to the complications with the CIMS technique, it&#13;
-also has an in-flight calibration for at least one species to ensure accurate measurements.&lt;br&gt;&#13;
-A new software was developed for FunMass to take full control over the instrument&#13;
-during the flight and autonomously conduct measurements, as well as to handle abnormal&#13;
-situations, preventing possible instrument failures and damage of the equipment.&lt;br&gt;&#13;
-The first deployment of the FunMass instrument happened in Kathmandu, Nepal in&#13;
-July/August 2017 within the aircraft campaign of the STRATOCLIM project, which aimed&#13;
-to investigate the transport processes between the troposphere and the stratosphere during&#13;
-the Asian summer monsoon (ASM).&lt;br&gt;&#13;
-During its first campaign, FunMass successfully measured HNO&lt;sub&gt;3&lt;/sub&gt; and HCN. First intercomparisons&#13;
-of these measurements with the data from other in-situ instruments on&#13;
-board of M-55 Geophysica and with measurements from remote sensing satellite-based instruments are presented in this work, emphasizing the high quality and resolution of the FunMass measurements.&lt;br&gt;&#13;
-Further measurements of HNO&lt;sub&gt;3&lt;/sub&gt; and HCN in the UTLS region with FunMass can aid&#13;
-to improve the atmospheric models. The obtained HNO&lt;sub&gt;3&lt;/sub&gt; and HCN data reveal several&#13;
-very interesting features that remain to be fully refined in further studies, which can help&#13;
-to improve the chemical and dynamical models of the atmosphere. FunMass has a great&#13;
-potential to contribute further high-quality data on the established and several additional&#13;
-chemical species of high relevance in the UTLS first of all SO&lt;sub&gt;2&lt;/sub&gt; but also many nitrogen,&#13;
-chlorine, and bromine species employing alternate ionization schemes.</dc:description>
-          <dc:subject>500 Naturwissenschaften und Mathematik » 530 Physik » 530 Physik</dc:subject>
-          <dc:subject>Fakultät für Mathematik und Naturwissenschaften » Physik » Dissertationen</dc:subject>
-          <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
-          <dc:language>eng</dc:language>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:7651</id><datestamp>2018-01-22</datestamp><setSpec>DDC:6:60:600</setSpec>
+          <dc:title xml:lang="de">Lehrstuhl für Elektrische Energieversorgungstechnik</dc:title>
+          <dc:publisher>Zdrallek, Markus</dc:publisher>
+          <dc:date>2018-01-17</dc:date>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=7651</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20180117-100620-4</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-7449/eaw0117.pdf</dc:identifier>
+          <dc:description xml:lang="de">Portrait des&lt;b&gt; Lehrstuhls für Elektrische Energieversorgungstechnik&lt;/b&gt; an der Bergischen Universität Wuppertal</dc:description>
+          <dc:subject>600 Technik, Medizin, angewandte Wissenschaften » 600 Technik » 600 Technik, Technologie</dc:subject>
+          <dc:subject>Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik » Neue Energie aus Wuppertal</dc:subject>
+          <dc:type>Wissenschaftliche Texte » Sonstiger wissenschaftlicher Text</dc:type>
+          <dc:language>deu</dc:language>
           <dc:format>application/pdf</dc:format>
           <dc:type>Text</dc:type>
         </oai_dc:dc>

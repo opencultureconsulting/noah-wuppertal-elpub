@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_15931">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Semitransparent Electrodes for Opto-Electronic Device Applications</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gahlmann, Tobias</displayForm>
+                        <namePart type="family">Gahlmann</namePart>
+                        <namePart type="given">Tobias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-03-17</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Semitransparent electrodes are an essential part in every optoelectronic device to allow the in- or outcoupling of light. Several specialized applications of optoelectronic devices demand a semitransparent top electrode; for example in the case of thin film solar cells, to afford top-illumination or even entirely see-through devices. The main focus of this work are silver nanowires as electrode material for opto-electronic device applications. Silver nanowires show excellent electrical properties and can be deposited by various techniques, such as slot die coating or spray coating, and are therefore inherently roll-to-roll processable. Furthermore silver nanowires enact as key material for semitransparent electrodes that combine low sheet resistance and high transmittance with low temperature deposition at atmospheric pressure. Moreover silver nanowires can be dispersed in water which is environmentally friendly and requires less safety measures, i.e. explosion prevention in case of alcoholic dispersions. This work presents the use of silver nanowires, casted from aqueous dispersions on top of several optoelectronic devices. In addition to the general application of silver nanowires in alternate current electroluminescent devices, a new device architecture, enabled by the processing of silver nanowires on top of an electroluminescent device, is introduced which allows to stack two emissive layers and operate them individually. Hereby a color tunable device is achieved, which allows to vary the emitted colour based on the voltage applied to the individual sub-devices. Moreover, semitransparent thin film solar cells with silver nanowire top-electrodes are presented. The deposition of silver nanowires from aqueous dispersions on top of perovskite solar cells is hereby enabled by an atomic layer deposition grown SnOx barrier, which was unprecedented at that time. Problems related to unfavourable electronic alignment with adjacent metal-oxide layers are unravelled and workarounds to mitigate Schottky barriers are presented. As a brief outlook for future prospects, the use of ALD-grown indium oxide is introduced as a semitransparent, conductive gas diffusion barrier.</abstract>
+                    <classification authority="ddc">600</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20220317-104029-4</identifier>
+                    <identifier type="doi">10.25926/b38v-0r73</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_15931</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_15931">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2022/gahlmann/de2201.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_15931"
+            DMDID="DMD_wuppertal_elpub_15931">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_15931"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

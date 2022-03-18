@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_15880">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entwicklung eines Prototyps für die bodengebundene Temperaturmessung an der Mesopause mit einem Räumlich-Heterodynen Interferometer</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Stehr, Johannes Christian Adrian</displayForm>
+                        <namePart type="family">Stehr</namePart>
+                        <namePart type="given">Johannes Christian Adrian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Koppmann, Ralf</displayForm>
+                        <namePart type="family">Koppmann</namePart>
+                        <namePart type="given">Ralf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-03-17</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This thesis deals with the development of a new generation of GRound based Infrared P-branch Spectrometers (GRIPS). Those devices are commonly used for the observation of mesopause temperatures by evaluating the nightly emissions of the OH-layer in about 87 km altitude. Yet, due to fundamental limitations of widely used grating spectrometers regarding optical throughput and spectral resolution, a prototype based on the technique of so called Spatial Heterodyne Interferometers (SHI) was developed, built and tested. The experimental verification included tests using a specialized light source and field measurements of actual atmospheric emissions. The experimental results show good accordance with prior simulations. Spectral resolution and fringe frequencies agreed well with the design values. Furthermore, the atmospheric measurements show statistical uncertainties at least comparable to present instruments, although the visibility of the interference fringes was impaired by a misalignment of the SHI that was only detected after the field tests. It is argued that a rebuild of the SHI can raise the efficiency by at least one order of magnitude. An actual rebuild and a full characterization of the improved prototype had to be rescheduled due to the COVID-19 pandemic and could not be included into this thesis.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20220317-114727-3</identifier>
+                    <identifier type="doi">10.25926/y31m-gn95</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_15880</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_15880">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2021/stehr/dc2137.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_15880"
+            DMDID="DMD_wuppertal_elpub_15880">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_15880"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,16 +1,51 @@
-<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:3998</id><datestamp>2018-01-22</datestamp><setSpec>DDC:6:62:620</setSpec>
-          <dc:title xml:lang="en">Mobilization of metals as influenced by redox potential in slurries of floodplain soil material and biogeochemical fractionation of mercury in floodplain soil profiles</dc:title>
-          <dc:creator>Frohne, Tina</dc:creator>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:1398</id><datestamp>2018-01-22</datestamp><setSpec>DDC:5:51:510</setSpec>
+          <dc:title xml:lang="de">Auf Takagi-Faktoren basierende Präkonditionierung des CSYM-Verfahrens</dc:title>
+          <dc:creator>Fischer, Sigrid Marion</dc:creator>
           <dc:date>2018-01-22</dc:date>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/bauingenieurwesen/diss2014/frohne</dc:identifier>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=3998</dc:identifier>
-          <dc:identifier>urn:nbn:de:hbz:468-20140716-092501-7</dc:identifier>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-4109/dd1402.pdf</dc:identifier>
-          <dc:description xml:lang="de">Die Druckexemplare enthalten jeweils eine CD-ROM mit den Appendices im Volltext.</dc:description>
-          <dc:subject>600 Technik, Medizin, angewandte Wissenschaften » 620 Ingenieurwissenschaften » 620 Ingenieurwissenschaften und zugeordnete Tätigkeiten</dc:subject>
-          <dc:subject>Fakultät für Architektur und Bauingenieurwesen » Bauingenieurwesen » Dissertationen</dc:subject>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2006/fischer</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=1398</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20060062</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1495/dc0602.pdf</dc:identifier>
+          <dc:description xml:lang="de">Die Notwendigkeit, Gleichungssysteme mit einer großen komplex symmetrischen Matrix zu lösen, wächst&#13;
+in verschiedenen Anwendungsgebieten. Im Rahmen dieser Arbeit wird das CSYM-Verfahren untersucht,&#13;
+das die komplexe Symmetrie der Matrix nutzt, und dadurch nur etwa den halben Speicherbedarf und&#13;
+Rechenaufwand hat wie Iterationsverfahren für allgemeine Matrizen. Gegenüber anderen Verfahren mit&#13;
+ kurzen Rekursionen hat das CSYM-Verfahren zudem die sehr wichtige Eigenschaft, dass kein verfrühter&#13;
+ Abbruch auftreten kann. Damit ist das CSYM-Verfahren von besonderer Bedeutung für das Lösen von&#13;
+ größeren Gleichungssystemen mit komplex symmetrischer Matrix. &lt;br&gt;&#13;
+Die vorliegende Arbeit beschäftigt sich damit, für das CSYM-Verfahren geeignete Klassen von&#13;
+Präkonditionierern zu finden. Für die Präkonditionierung des CSYM-Verfahrens reicht es nicht aus,&#13;
+einen symmetrischen Präkonditionierer zu wählen, sondern er muss symmetrisch faktorisiert vorliegen.&#13;
+Zunächst untersuchen wir die Änderungen der Singulärwerte der ursprünglichen Matrix bei beidseitiger&#13;
+Präkonditionierung und leiten daraus Forderungen an einen guten Präkonditionierer ab. Die&#13;
+Untersuchung der Transformation zwischen verschiedenen Faktorisierungen des gleichen&#13;
+Präkonditionierers hilft bei der Beantwortung der Frage, welche Faktorisierung bei einem festen&#13;
+Präkonditionierer optimal ist. Dabei liefert der Takagi-Faktor die besten Ergebnisse. Als konkrete&#13;
+Anwendungen werden das CSYM-Verfahren mit Deflation und mit faktorisierten Block-Präkonditionierern&#13;
+untersucht.</dc:description>
+          <dc:description xml:lang="en">In various application fields it becomes more and more important to solve large linear system with&#13;
+complex symmetric matrices. In this work we consider CSYM that takes into account the complex&#13;
+symmetry of the matrix, and so needs about half the storage and computational cost of iterative&#13;
+methods for general matrices. In contrast to other methods with short recursions CSYM has the&#13;
+important property that an early breakdown cannot occur. Thus CSYM is of special interest for&#13;
+solving larger linear systems with complex symmetric matrices. &lt;br&gt;&#13;
+This work focuses on finding an appropriate class of preconditioners for CSYM. To precondition the&#13;
+CSYM method with a symmetric preconditioner we have to factorize it symmetrically. First we examine&#13;
+how the singular values of the original matrix change by the application of a two sided&#13;
+preconditioner and deduce some properties a good preconditioner should have. Analysis of&#13;
+transformations between different factorizations of a fixed preconditioner provides an answer to the&#13;
+question which factorization might be optimal. Here the Takagi factor outperforms the others.&#13;
+As applications we consider CSYM with deflation and with factorized block preconditioners.</dc:description>
+          <dc:subject>Iterative methods for linear systems</dc:subject>
+          <dc:subject>Complex symmetric matrices</dc:subject>
+          <dc:subject>Singular values</dc:subject>
+          <dc:subject>Preconditioning</dc:subject>
+          <dc:subject>Takagi factorization</dc:subject>
+          <dc:subject>Deflation</dc:subject>
+          <dc:subject>500 Naturwissenschaften und Mathematik » 510 Mathematik » 510 Mathematik</dc:subject>
+          <dc:subject>Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik » Dissertationen</dc:subject>
           <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
-          <dc:language>eng</dc:language>
+          <dc:language>deu</dc:language>
           <dc:format>application/pdf</dc:format>
           <dc:type>Text</dc:type>
         </oai_dc:dc>
