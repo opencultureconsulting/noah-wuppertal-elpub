@@ -1,0 +1,27 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:10571</id><datestamp>2020-06-12</datestamp><setSpec>DDC:6:60</setSpec>
+          <dc:title xml:lang="en">Silicon Integrated Radio Front-End Design for 100 Gbit/s and Beyond</dc:title>
+          <dc:creator>Malz, Stefan</dc:creator>
+          <dc:date>2020-06-12</dc:date>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2019/malz</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=10571</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20200612-113930-0</dc:identifier>
+          <dc:identifier>https://doi.org/10.25926/90b9-xe51</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-9872/de1908.pdf</dc:identifier>
+          <dc:description xml:lang="en">&lt;p&gt;Wireless communication is one of the fastest growing fields of technology, which constantly enables new innovations in all sectors of industrial, scientific, and consumer applications. To meet the ever-increasing demand for higher data-rates, parts of the electromagnetic spectrum that were previously unexploited are being acquired for wireless communication. Particularly large bandwidth for high-speed communication is available in the high millimeter-wave frequency range above 200 GHz. Due to the recent technological progress, these bands have become accessible using silicon technologies, which are attractive for their capability of co-integration of high-frequency radios and digital baseband processing, low quality variation within series production, and low cost of production at higher volumes. Silicon germanium (SiGe) heterojunction bipolar transistors (HBT) show a large fT and fmax in combination with moderate breakdown voltages. This translates into a higher gain, higher output power and overall better performance at millimeter-wave frequencies.&#13;
+&#13;
+&lt;p&gt;This thesis investigates novel circuit concepts for silicon integrated radio front-ends with data-rates of 100 Gbit/s and beyond. These shall enable wireless communication on an entirely new scale. By combining high-performance circuit building blocks with a new system level concept for direct-conversion transmitter and receiver in the 200 GHz to 300 GHz frequency range, the measured data-rates surpass those achievable with previously reported highly directive wireless links.&#13;
+&#13;
+&lt;p&gt;Within the scope of this thesis, multiple circuit building blocks are designed and characterized in a 0.13 um SiGe BiCMOS technology. An in-depth analysis of the system level requirements of an ultra-wideband radio front-end in the 200 GHz to 300 GHz frequency range is conducted. For the carrier generation pathway, two x8 frequency multiplier chains in different technologies are presented, which are investigated for their output power, bandwidth, and spurious harmonic suppression. Balanced frequency doublers with reduced conduction angle use a novel harmonic tuning scheme for increased conversion gain within a bandwidth that is well defined by miniaturized passive baluns. A novel, very compact quadrature phase generation scheme increases the conversion gain and harmonic suppression of multiplier-based frequency doublers. For frequency translation, novel fundamentally-driven up- and down-conversion mixers overcome bandwidth limitations through the use of innovative circuit topologies and a co-design approach with an optimized package. Additionally, a methodology for the design of high gain, low noise cascode amplifiers operating above 1/3 of the maximum oscillation frequency of a given technology is presented and verified with two 212 GHz and 233 GHz amplifiers.&#13;
+&#13;
+&lt;p&gt;On a system level, front-end imperfections that lead to the degradation of wireless link performance through quadrature channel interference are overcome by adding a layer of channel orthogonality with a wideband, dual-polarized, lens-integrated antenna.&#13;
+&#13;
+&lt;p&gt;Finally, a highly directive, dual polarized 240~GHz quadrature transmitter and receiver chip-set in 0.13 um SiGe BiCMOS technology demonstrates an outstanding 140 Gbit/s data-rate over a distance of 60 cm. The system presented in this thesis reaches well beyond the state-of-the-art in purely electronic wireless links.&#13;
+&#13;
+&lt;p&gt;In conclusion, the design insights presented herein build the basis for future low-cost, compact, robust and fully electronic wireless links with data-rates exceeding 100 Gbit/s.</dc:description>
+          <dc:subject>600 Technik, Medizin, angewandte Wissenschaften » 600 Technik</dc:subject>
+          <dc:subject>Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik » Dissertationen</dc:subject>
+          <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
+          <dc:language>eng</dc:language>
+          <dc:format>application/pdf</dc:format>
+          <dc:type>Text</dc:type>
+        </oai_dc:dc>

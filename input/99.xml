@@ -1,15 +1,36 @@
-<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:3999</id><datestamp>2018-01-22</datestamp><setSpec>DDC:5:51:510</setSpec>
-          <dc:title xml:lang="en">Adaptive Parametric Scalarizations in Multicriteria Optimization</dc:title>
-          <dc:creator>Dächert, Kerstin</dc:creator>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:1399</id><datestamp>2018-01-22</datestamp><setSpec>DDC:6:60:600</setSpec>
+          <dc:title xml:lang="de">Thermische Fehlerdiagnose der wassergekühlten Statorwicklung von Grenzleistungs-Turbogeneratoren</dc:title>
+          <dc:creator>Fischer, Frank</dc:creator>
           <dc:date>2018-01-22</dc:date>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2014/daechert</dc:identifier>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=3999</dc:identifier>
-          <dc:identifier>urn:nbn:de:hbz:468-20140716-112600-4</dc:identifier>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-4110/dc1411.pdf</dc:identifier>
-          <dc:subject>500 Naturwissenschaften und Mathematik » 510 Mathematik » 510 Mathematik</dc:subject>
-          <dc:subject>Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik » Dissertationen</dc:subject>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fb13/diss1999/fischer</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=1399</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20000190</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1496/d139906.pdf</dc:identifier>
+          <dc:description xml:lang="de">In dieser Arbeit wird die thermische Fehlerdiagnose der wassergekühlten Statorwicklung von Grenzleistungs-Turbogeneratoren betrachtet. Die auftretenden Fehlerursachen sind Ablagerungen in den Hohlteilleitern durch Korrosionsprodukte bis hin zur völligen Teilleiterverstopfung (mittel- bis langfristig auftretende Fehler) sowie die teilweise Verstopfung von Wasserkammern durch im Kühlrohrsystem befindliches Dichtungsmaterial (kurzfristig auftretende Fehler). Die Messwerte der Warmwassertemperaturen aller Statorstäbe werden zur Fehlerdiagnose mit den entsprechenden, vom Diagnosesystem berechneten Referenzwerten verglichen. Bei bestehenden Diagnosesystemen werden diese Referenzwerte aus algebraischen Gleichungen der Einflussgrößen (Temperaturen von Kaltwasser und Kaltgas, Strangströme, Kühlwasser-Differenzdruck) mit empirisch ermittelten Koeffizienten bestimmt. Daher ist die Anwendung derartiger Verfahren nur in quasi-stationären Betriebspunkten und mit eingeschränkter Empfindlichkeit (Toleranz ± 2 K) möglich.&#13;
+&lt;br&gt; &#13;
+&lt;br&gt;&#13;
+Basierend auf der vollständigen thermischen Modellierung von Grenzleistungs-Turbogeneratoren, unterteilt in Teilmodelle für die Statorwicklung. die Rotorwicklung und den Statorblechkörper, werden die für den Wärmeenergieaustausch mit den Statorstäben relevanten Temperaturen (Kühlgastemperaturen und Eisenrandtemperaturen im Nutbereich) durch einen Zustandsbeobachter für die Eisenkerntemperaturen rekonstruiert. Als Rückführungsgröße wird die Warmgastemperatur verwendet, da diese Größe die Erwärmungs- und Abkühlungsvorgänge des Statorblechkörpers wiedergibt. Die Bestimmung der Beobachter-Rückführungskoeffizienten erfolgt nach der Methode der Polfestlegung.&#13;
+&lt;br&gt; &#13;
+&lt;br&gt;&#13;
+Die hydraulischen Durchmesser der Kühlkanäle der einzelnen Statorstäbe werden als zentrale Modellparameter für die thermische Fehlerdiagnose der wassergekühlten Statorwicklung in der Inbetriebnahmephase des Diagnosesystems als "Fingerprint", der den fehlerfreien Zustand repräsentiert, durch Parameteroptimierung bestimmt. Die Inbetriebnahme des Diagnosesystems kann durch die automatische Auswertung von Datensätzen, die dynamische Vorgänge wie Änderungen des Betriebspunktes enthalten, an Stelle des ansonsten erforderlichen, zeit- und kostenintensiven Anfahrens einer Reihe charakteristischer Betriebspunkte deutlich vereinfacht werden.&#13;
+&lt;br&gt; &#13;
+&lt;br&gt;&#13;
+Für die Bewertung der Beobachterfehler ("Residuen") wird eine mit Fuzzy-Logik operierende Diagnosekomponente vorgeschlagen. Auf diese Weise kann auch zusätzliches Expertenwissen berücksichtigt werden. Die modellbasierte, beobachtergestützte Residuengenerierung wird an Messdaten, die im Kernkraftwerk Unterweser aufgenommen wurden, verifiziert. Es zeigt sich, dass das im Rahmen dieser Forschungsarbeit entwickelte Diagnosesystem kontinuierlich und mit verbesserter Empfindlichkeit (Toleranz ± 0,5 K) eingesetzt werden kann. Darüber hinaus werden interne, nicht oder nur mit großem messtechnischen Aufwand zugängliche Zustandsva-riablen für ein Monitoring-System zur Verfügung gestellt.</dc:description>
+          <dc:description xml:lang="en">In this thesis, the thermal fault diagnosis for the water-cooled stator winding bars of limit-rating turbogenerators is treated. For the diagnosis purpose, the measurement values of the hot water temperatures of all stator winding bars are compared with the corresponding reference values. Existing fault diagnosis systems compute these reference values through algebraic equations with empirically obtained coefficients depending on the cold water temperature, the cold gas temperature, the water pressure and the electrical currents. Therefore, the application of these methods requires using steady-state operating points and is valid only with a limited sensitivity threshold of approximately ± 2 K.&#13;
+&lt;br&gt; &#13;
+&lt;br&gt;&#13;
+Based on a complete thermal model of the turbogenerator and its cooling systems consisting of separate components for the electric and electromagnetic losses, the water cooling system, the gas cooling system and the heat-source plot for the stator core stack, a state observer for the stator core temperatures has been developed. The hot gas temperature, which comprises both the heating and the cooling process of the stator core stack, is used as feedback value for the thermal state observer. The heat energy exchange between the stator winding bars, the cooling gas and the stator core stack can thus be computed.&#13;
+&lt;br&gt; &#13;
+&lt;br&gt;&#13;
+The hydraulic diameters of the hollow conductors of the stator winding bars are the central model parameters for the thermal fault diagnosis, as they characterise the stator winding bars individually. The estimated set of hydraulic diameters is taken as "fingerprint" representing the sound condition of the stator winding bars and is used as the reference for the thermal fault diagnosis. Initialising the diagnosis system can be performed by automated evaluation of&#13;
+operational data sets containing dynamic changes of the turbogenerator operating point without special time-consuming and costly measures.&#13;
+&lt;br&gt; &#13;
+&lt;br&gt;&#13;
+For the fault diagnosis, fuzzy rules for the observer errors ("residuals") are defined to decide about a warning or an alarm. The observer-based residual generation has been verified by measurements performed in the 1530 MVA nuclear power station KKU Unterweser (Germany). The resulting sensitivity threshold of the thermal fault diagnosis could be improved to ± 0,5 K. Moreover, internal thermal state variables of the turbogenerator can be used for state monitoring and state-oriented maintenance scheduling.</dc:description>
+          <dc:subject>600 Technik, Medizin, angewandte Wissenschaften » 600 Technik » 600 Technik, Technologie</dc:subject>
+          <dc:subject>Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik » Dissertationen</dc:subject>
           <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
-          <dc:language>eng</dc:language>
+          <dc:language>deu</dc:language>
           <dc:format>application/pdf</dc:format>
           <dc:type>Text</dc:type>
         </oai_dc:dc>

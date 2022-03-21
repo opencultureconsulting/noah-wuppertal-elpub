@@ -1,122 +1,22 @@
-<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:10721</id><datestamp>2020-07-29</datestamp><setSpec>DDC:5:51:510</setSpec>
-          <dc:title xml:lang="en">Lattice Boltzmann Methods for Fluid-Dynamics in Relativistic Regimes</dc:title>
-          <dc:creator>Gabbana, Alessandro</dc:creator>
-          <dc:contributor>Ehrhardt, Matthias</dc:contributor>
-          <dc:contributor>Tripiccione, Raffaele</dc:contributor>
-          <dc:date>2020-07-29</dc:date>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2019/gabbana</dc:identifier>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=10721</dc:identifier>
-          <dc:identifier>urn:nbn:de:hbz:468-20200729-103821-9</dc:identifier>
-          <dc:identifier>https://doi.org/10.25926/w5v9-qf57</dc:identifier>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-10027/dc1952.pdf</dc:identifier>
-          <dc:description xml:lang="en">&lt;p&gt;In this thesis work we present the algorithmic derivation of a new class of &#13;
-Lattice Boltzmann Methods appropriate for the study of dissipative relativistic fluids.&#13;
-&#13;
-While previous models were restricted to the use of massless particles, &#13;
-implying ultra-relativistic equations of state, this work provides a significant step towards &#13;
-the formulation of a unified relativistic lattice kinetic scheme, covering ideal gases of both &#13;
-massive and near-massless particles, seamlessly bridging the gap between relativistic and &#13;
-low-speed non-relativistic fluid regimes.&#13;
-&#13;
-&#13;
-In a first important application of this novel numerical tool, we present results bringing new&#13;
-insight in the long standing problem  of understanding the pathway from relativistic kinetic &#13;
-theory to relativistic hydrodynamics.&#13;
-&#13;
-We conduct an accurate analysis of the relativistic transport coefficients in the relaxation &#13;
-time approximation, providing numerical evidence that the Chapman Enskog expansion &#13;
-correctly relates kinetic transport coefficients and macroscopic hydrodynamics parameters &#13;
-in dissipative relativistic fluid dynamics, confirming recent theoretical results. &#13;
-&#13;
-This analysis, in turn, can be seen as an accurate calibration of this class of numerical&#13;
-solvers, making them suitable to deliver improved physical accuracy in the simulation of &#13;
-realistic systems. To give an example, we present results of simulations solving &#13;
-the Riemann problem for a quark-gluon plasma, showing good agreement with previous results &#13;
-obtained using other solvers present in the literature.&#13;
-&#13;
-As a further application we study the transport properties of electrons in ultra-clean &#13;
-graphene samples, for which a hydrodynamic description is appropriate due to the predominance &#13;
-of electron-electron scattering over electron-phonon interactions.&#13;
-&#13;
-Using appropriate 2D formulations, enriched to describe the effects of the external &#13;
-electrostatic drive, and to capture the interactions with phonons and impurities, &#13;
-we present simulations of laminar flows taking into consideration geometrical setups used &#13;
-in actual experiments.&#13;
-&#13;
-Furthermore, we also consider electronic systems where nonlinear effects start becoming relevant. &#13;
-Basing on extensive numerical simulations, we identify transport parameters which could be &#13;
-used to trigger and observe preturbulent signals in a hydrodynamic region as close as possible &#13;
-to those within reach of current experimental conditions. &#13;
-&#13;
-As a closing note, we remark that the numerical methods described in this thesis work retains &#13;
-the main computational advantages of standard Lattice Boltzmann Methods, &#13;
-offering high amenability to parallelization, that can be exploited to write efficient codes.&#13;
-These aspects are covered in the last chapter of the thesis, in which we summarize the &#13;
-best practices in the development of a performance portable code targeting modern &#13;
-high performance computing accelerators.</dc:description>
-          <dc:description xml:lang="it">&lt;p&gt;In questo lavoro di tesi viene presentata la derivazione algoritmica di una nuova&#13;
-classe di metodi reticolari di Boltzmann per lo studio di fluidi relativistici.&#13;
-&#13;
-Se da un lato i modelli sin'ora presenti in letteratura consideravano solo particelle a massa&#13;
-nulla ed equazioni di stato ultra-relativistiche, questo lavoro rappresenta un significativo &#13;
-passo in avanti verso la formulazione di un metodo cinetico unificato, in grado di trattare &#13;
-gas relativistici ideali, sia massivi sia a massa trascurabile, spaziando tra regimi relavitistici &#13;
-e regimi classici.&#13;
-&#13;
-Come primo esempio di applicazione viene presentato uno studio &#13;
-atto a chiarire la problematica connessione tra teoria cinetica e teoria idrodinamica relativistica:&#13;
-a seguito di un'accurata analisi dei coefficienti di trasporto relativistici,&#13;
-vengono presentati dati numerici che evidenziano come l'espansione di Chapman Enskog leghi &#13;
-correttamente i coefficienti di trasporto cinetici con i parametri macroscopici idrodinamici &#13;
-relativistici, andando a confermare recenti studi teorici.&#13;
-&#13;
-D'altro canto, l'analisi in questione può essere interpretata come un' accurata calibrazione di questa&#13;
-nuova classe di algoritmi, il che li candida ad affidabili strumenti &#13;
-per l'implementazione di simulazioni numeriche di sistemi fisici reali. &#13;
-Come esempio viene preso in considerazione lo studio del problema di Riemann per un quark-gluon plasma.&#13;
-I risultati ottenuti sono validati tramite confronto con simulazioni ottenute &#13;
-utilizzando altri risolutori numerici presenti in letteratura.&#13;
-&#13;
-Come ulteriore applicazione, viene condotto uno studio sulle proprietà di trasporto degli elettroni &#13;
-nel grafene, in cui una descrizione idrodinamica è giustificata dal fatto &#13;
-che il moto collettivo degli elettroni risulta dominante rispetto a interazioni&#13;
-tra elettroni e fononi.&#13;
-Utilizzando una formulazione numerica bidimensionale, arricchita per inglobare&#13;
-effetti elettrostatici e interazioni con fononi e impurità, vengono presentati risultati di simulazioni&#13;
-di flussi laminari in cui vengono riprodotte condizioni sperimentali simili a quelle reali.&#13;
-Successivamente sono stati presi in considerazione sistemi in cui termini non-lineari sono rilevanti. &#13;
-I risultati di un estensivo lavoro numerico hanno permesso di&#13;
-identificare parametri di trasporto che consentano l'osservazione di&#13;
-segnali preturbolenti in una regione idrodinamica quanto più simile a quella accessibile&#13;
-nelle attuali condizioni sperimentali.&#13;
-&#13;
-Per finire, va sottolineato che i metodi numerici descritti in questo lavoro di tesi&#13;
-preservano  dal punto di vista computazionale gli stessi vantaggi rispetto ai classici&#13;
-metodi reticolari di Boltzmann. Questi metodi numerici si prestano infatti a efficienti implementazioni&#13;
-altamente parallele. Questi aspetti sono dettagliati nell'ultimo capitolo di questa tesi,&#13;
-dove vengono riassunti gli elementi più rilevanti nello sviluppo di codici &#13;
-in grado di offrire non solo portabilità, ma anche portabilità delle prestazioni, &#13;
-su varie moderne architetture altamente parallele.</dc:description>
-          <dc:description xml:lang="de">&lt;p&gt;In der vorliegenden Arbeit wird die algorithmische Entwicklung einer neuen Klasse von Lattice Boltzmann Methoden dargestellt, die zur Anwendung und Untersuchung von dissipativen, relativistischen Fluiden geeignet ist.&#13;
-Vorangehende Arbeiten sind eingeschränkt auf masselose Teilchen und damit auf ultrarelativistische Zustandsgleichungen. Im Gegensatz dazu werden in dieser Arbeit signifikante Fortschritte zur Formulierung einer einheitlichen, kinetischen Lattice Methode gemacht, die ideale Gase aus sowohl massiven wie auch fast masselosen Teilchen abdeckt und nahtlos auf den gesamten Bereich von nicht-relativistischen zu relativistischen Fluidregimen anwendbar ist.&#13;
-Der Übergang von der relativistischen, kinetischen Theorie zur relativistischen Hydrodynamik ist ein altes Problem.&#13;
-Eine erste, wichtige Anwendung der neuartigen, numerischen Methode dieser Arbeit führt hier zu neuen Erkenntnissen.&#13;
-Eine präzise Analyse der relativistischen Transportkoeffizienten unter Verwendung der Zeitrelaxationsnäherung ist durchgeführt worden. Damit konnte numerisch nachgewiesen werden, dass die Chapman-Enskog-Entwicklung die kinetischen Transportkoeffizienten und die makroskopischen, hydrodynamischen Parameter in der dissipativen, relativistischen Fluiddynamik korrekt in Beziehung setzt. Dies bestätigt neuere, theoretische Resultate.&#13;
-&#13;
-Umgekehrt kann diese Analyse als präzise Kalibrierung dieser Klasse von numerischen Lösern verstanden werden, um so &#13;
-die Genauigkeit für Berechnungen im relativistischen Regime zu erhöhen. Anhand des Riemann Problems für ein Quark-Gluon-Plasma vergleichen wir Simulationsergebnisse unserer Methode mit bekannten Ergebnissen von anderen Lösern aus der Literatur.&#13;
-&#13;
-&#13;
-In einer weiteren Anwendung untersuchen wir die Transporteigenschaften von Elektronen in extrem reinen Graphen-Proben. Hierbei ist eine hydrodynamische Beschreibung geeignet, da die Elektron-Elektron-Streuung die Elektron-Phonon-Interaktion dominiert.&#13;
-Basierend auf 2D-Formulierungen, einem externen elektrostatischen Antrieb und der Erfassung von Wechselwirkungen von Phononen mit Verunreinigungen präsentieren wir Simulationen einer laminaren Strömung. Dabei berücksichtigen wir die Geometrie des zugrundeliegenden physikalischen Experiments.&#13;
-Ferner betrachten wir elektrische Systeme, in denen nichtlineare Effekte an Bedeutung gewinnen.&#13;
-Auf der Grundlage einer umfassenden Menge von numerischen Simulationen identifizieren wir Transportparameter, welche man verwenden könnte, um präturbulente Signale auszulösen bzw. zu beobachten. Dabei sind entsprechende hydrodynamische Regime so nah wie möglich an den aktuellen Bedingungen der Experimente.&#13;
-&#13;
-Abschliessend sei angemerkt, dass die numerischen Methoden dieser Arbeit die rechentechnischen Vorzüge der standard Lattice Boltzmann Methode erhalten. Dies schliesst insbesondere ein hohes Mass an Parallelisierbarkeit ein, welche genutzt werden kann, um effiziente Löser zu programmieren. Diesen Aspekten ist das letzte Kapitel der Arbeit gewidmet. Hierbei fassen wir beste Verfahren zur Entwicklung von performanten, portablen Programmen im Kontext von modernen Hochleistungsrechenbeschleunigern zusammen.</dc:description>
-          <dc:subject>500 Naturwissenschaften und Mathematik » 510 Mathematik » 510 Mathematik</dc:subject>
-          <dc:subject>Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik » Dissertationen</dc:subject>
-          <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
-          <dc:language>eng</dc:language>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:14721</id><datestamp>2021-06-29</datestamp><setSpec>DDC:1:10:100</setSpec>
+          <dc:title xml:lang="de">Forschungsgrundlagen Wilhelm Windelband&lt;br /&gt;&lt;br /&gt;Verlag J. C. B. Mohr (Paul Siebeck) an Windelband, Tübingen, 26.1.1912, Text nach einer Transkription von Klaus Christian Köhnke, Umfang und Besonderheiten nicht bekannt, Staatsbibliothek zu Berlin, Haus Potsdamer Straße, NL 488</dc:title>
+          <dc:creator>Bohr, Jörn</dc:creator>
+          <dc:creator>Hartung, Gerald</dc:creator>
+          <dc:creator>Bülow, Gilles</dc:creator>
+          <dc:creator>Schlupkothen, Frederik</dc:creator>
+          <dc:date>2021-06-21</dc:date>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/edition/ww2020/0721</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=14721</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-edww2020-000721-2</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-13721/</dc:identifier>
+          <dc:description xml:lang="de">&lt;div xmlns="http://www.w3.org/1999/xhtml" style="font-family: serif; line-height: 1.2em; margin-bottom: 5em;" class="ED-TEI"&gt;&lt;p style="font-size: 1.1em; font-family: serif; font-style: italic; font-weight: normal; margin: 2em 0em 1em;" class="ED-titleStmt"&gt;&lt;span class="ED-orgName-sent"&gt;Verlag J. C. B. Mohr (Paul Siebeck)&lt;/span&gt;&lt;span class="ED-persName-sent"&gt; &lt;/span&gt;an &lt;span class="ED-persName-received"&gt;Windelband&lt;/span&gt;, &lt;span class="ED-location-sent"&gt;Tübingen&lt;/span&gt;, &lt;span class="ED-date"&gt;26.1.1912&lt;/span&gt;, &lt;span class="ED-note"&gt;Text nach einer &lt;/span&gt;&lt;span class="ED-note"&gt;&lt;span style="text-decoration: underline dotted;" class="ED-text-lem" itemref="app-editorial-1" title="Transkription von Klaus Christian Köhnke ] Kollation derzeit nicht möglich. Der Transkription liegt die Datei Manuskript: Windelband Briefe | herauszugeben von K. C. Köhnke | Ausdruck vom 1.3.2012 zugrunde, die den Herausgebern zur Verfügung steht. Ein Ausdruck dieser Datei befindet sich in öffentlichem Besitz (Universität Leipzig, Nachlass Klaus Christian Köhnke NL 330/3/1/2). Die Signatur des Originals ist mit Stichtag 14.5.2018 noch nicht bekannt. Laut telefonischer Auskunft von Roland Klein, Referat für Nachlässe und Autographen der Handschriftenabteilung der Staatsbibliothek zu Berlin – Preußischer Kulturbesitz vom 21.11. und 2.12.2016 ist die Erfassung des Nachlasses 488 (Verlagsarchiv Mohr-Siebeck) noch nicht abgeschlossen."&gt;Transkription von Klaus Christian Köhnke&lt;/span&gt;&lt;/span&gt;&lt;span class="ED-note"&gt;&lt;a style="font-style: normal; vertical-align: super; font-size: 80%; line-height: 100%;" class="ED-anchor" href="#app-editorial-1" id="app-editorial-1-ref" title="Transkription von Klaus Christian Köhnke ] Kollation derzeit nicht möglich. Der Transkription liegt die Datei Manuskript: Windelband Briefe | herauszugeben von K. C. Köhnke | Ausdruck vom 1.3.2012 zugrunde, die den Herausgebern zur Verfügung steht. Ein Ausdruck dieser Datei befindet sich in öffentlichem Besitz (Universität Leipzig, Nachlass Klaus Christian Köhnke NL 330/3/1/2). Die Signatur des Originals ist mit Stichtag 14.5.2018 noch nicht bekannt. Laut telefonischer Auskunft von Roland Klein, Referat für Nachlässe und Autographen der Handschriftenabteilung der Staatsbibliothek zu Berlin – Preußischer Kulturbesitz vom 21.11. und 2.12.2016 ist die Erfassung des Nachlasses 488 (Verlagsarchiv Mohr-Siebeck) noch nicht abgeschlossen."&gt;[1]&lt;/a&gt;, Umfang und Besonderheiten nicht bekannt&lt;/span&gt;, &lt;span class="ED-pubPlace"&gt;Staatsbibliothek zu Berlin, Haus Potsdamer Straße, NL 488&lt;/span&gt;&lt;/p&gt;&lt;div style="border: 1px solid LightGray; padding: 1em;" class="ED-text"&gt;&lt;p style="text-align: right; margin: 0em; margin-top: 1em;" class="ED-dateline"&gt;26. Januar 1912.&lt;/p&gt;&lt;p style="text-indent: 0em; margin: 0em; margin-top: 1em;" class="ED-salute"&gt;&lt;span style="text-decoration: underline dotted;" class="ED-text-lem" itemref="app-editorial-2" title="W.-wz. A. ] Namenskürzel des Ausfertigers nicht aufgelöst"&gt;W.-wz. A.&lt;/span&gt;&lt;a style="font-style: normal; vertical-align: super; font-size: 80%; line-height: 100%;" class="ED-anchor" href="#app-editorial-2" id="app-editorial-2-ref" title="W.-wz. A. ] Namenskürzel des Ausfertigers nicht aufgelöst"&gt;[2]&lt;/a&gt; Herrn Geheimen Rat Professor &lt;abbr title="Doktor" class="ED-abbr"&gt;Dr.&lt;/abbr&gt; W. Windelband Heidelberg. Landfriedstrasse 14.&lt;/p&gt;&lt;p style="text-indent: 0em; margin: 0em; margin-top: 1em;" class="ED-p"&gt;Hochverehrter Herr Geheimrat, in Vertretung des Herrn &lt;abbr title="Doktor" class="ED-abbr"&gt;Dr.&lt;/abbr&gt; &lt;span class="ED-name"&gt;Paul Siebeck&lt;/span&gt;, welcher sich auf einen Tag vom Geschäft zurückgezogen hat, bestätige ich Ihnen verbindlichst dankend den Empfang Ihres freundlichen &lt;span style="text-decoration: underline dotted;" class="ED-text-lem" itemref="app-editorial-3" title="Briefes vom 23. ] vgl. Windelband an Siebeck vom 23.1.1912"&gt;Briefes vom 23.&lt;/span&gt;&lt;a style="font-style: normal; vertical-align: super; font-size: 80%; line-height: 100%;" class="ED-anchor" href="#app-editorial-3" id="app-editorial-3-ref" title="Briefes vom 23. ] vgl. Windelband an Siebeck vom 23.1.1912"&gt;[3]&lt;/a&gt; und der zwei weiteren Hefte des Manuscriptes zur 6. Auflage Ihres Lehrbuches. Da nunmehr die Hälfte des Manuscriptes abgeliefert ist, habe ich auch die Hälfte des voraussichtlichen Honorars bei der Filiale der Rheinischen Creditbank in Freiburg der Heidelberger Filiale zu Ihren Gunsten überweisen lassen. Ich bitte Sie höflichst, die beiliegende Quittungskarte unterschrieben an mich zurückzuschicken, sobald Ihnen der Betrag gutgeschrieben ist.&lt;/p&gt;&lt;p style="text-indent: 1em; margin: 0em;" class="ED-p"&gt;Sollte der Druck der neuen Auflage des Lehrbuches je definitiv einer auswärtigen Druckerei übertragen werden müssen, so werde ich es nicht daran fehlen lassen, dass dieser Wechsel ohne Umstände für Sie vor sich geht. Bis jetzt ist es aber noch gar nicht sicher, dass der Druck auswärts erfolgen muss und ich bitte Sie deshalb höflichst, sich vorläufig ja nicht zu beunruhigen.&lt;/p&gt;&lt;p style="text-indent: 1em; margin: 0em;" class="ED-p"&gt;In grösster Verehrung Ihr aufrichtig ergebener&lt;/p&gt;&lt;p style="text-indent: 0em; margin: 0em; margin-top: 1em;" class="ED-signed"&gt;J. C. B. Mohr (Paul Siebeck) &lt;span style="text-decoration: underline dotted;" class="ED-text-lem" itemref="app-editorial-4" title="p. pa. ] per procura autoritate: im Auftrag, durch den Prokuristen"&gt;p. pa.&lt;/span&gt;&lt;a style="font-style: normal; vertical-align: super; font-size: 80%; line-height: 100%;" class="ED-anchor" href="#app-editorial-4" id="app-editorial-4-ref" title="p. pa. ] per procura autoritate: im Auftrag, durch den Prokuristen"&gt;[4]&lt;/a&gt; &lt;abbr title="Doktor" class="ED-abbr"&gt;Dr.&lt;/abbr&gt; O Siebeck &lt;abbr title="in Vertretung" class="ED-abbr"&gt;i. V.&lt;/abbr&gt; R. Wille&lt;/p&gt;&lt;/div&gt;&lt;h2 style="font-size: 1.1em; font-family: serif; font-style: italic; font-weight: normal; margin: 2em 0em 1em;" class="ED-app-title"&gt;Anmerkungen der Herausgeber&lt;/h2&gt;&lt;div style="position: relative; margin: .3em 0em; margin-left: 2.5em; font-style: italic;" class="ED-app-editorial" id="app-editorial-1"&gt;&lt;span style="left: -2.5em; position: absolute; text-indent: 0em; font-style: normal;" class="ED-app-num"&gt;1&lt;/span&gt;&lt;a style="left: -.8em; position: absolute; text-indent: 0em; font-style: normal;" href="#app-editorial-1-ref" class="ED-app-corresp" title="back to content"&gt;↑&lt;/a&gt;&lt;span style="font-style: normal;" class="ED-lem"&gt;&lt;span class="ED-note"&gt;Transkription von Klaus Christian Köhnke&lt;/span&gt;&lt;/span&gt;&lt;span style="font-style: normal;" class="ED-lem-sep"&gt; ] &lt;/span&gt;Kollation derzeit nicht möglich. Der Transkription liegt die Datei &lt;span style="font-style: normal;" class="ED-rdg"&gt;Manuskript: Windelband Briefe | herauszugeben von K. C. Köhnke | Ausdruck vom 1.3.2012&lt;/span&gt; zugrunde, die den Herausgebern zur Verfügung steht. Ein Ausdruck dieser Datei befindet sich in öffentlichem Besitz (Universität Leipzig, Nachlass Klaus Christian Köhnke NL 330/3/1/2). Die Signatur des Originals ist mit Stichtag 14.5.2018 noch nicht bekannt. Laut telefonischer Auskunft von Roland Klein, Referat für Nachlässe und Autographen der Handschriftenabteilung der Staatsbibliothek zu Berlin – Preußischer Kulturbesitz vom 21.11. und 2.12.2016 ist die Erfassung des Nachlasses 488 (Verlagsarchiv Mohr-Siebeck) noch nicht abgeschlossen.&lt;/div&gt;&lt;div style="position: relative; margin: .3em 0em; margin-left: 2.5em; font-style: italic;" class="ED-app-editorial" id="app-editorial-2"&gt;&lt;span style="left: -2.5em; position: absolute; text-indent: 0em; font-style: normal;" class="ED-app-num"&gt;2&lt;/span&gt;&lt;a style="left: -.8em; position: absolute; text-indent: 0em; font-style: normal;" href="#app-editorial-2-ref" class="ED-app-corresp" title="back to content"&gt;↑&lt;/a&gt;&lt;span style="font-style: normal;" class="ED-lem"&gt;W.-wz. A.&lt;/span&gt;&lt;span style="font-style: normal;" class="ED-lem-sep"&gt; ] &lt;/span&gt;Namenskürzel des Ausfertigers nicht aufgelöst&lt;/div&gt;&lt;div style="position: relative; margin: .3em 0em; margin-left: 2.5em; font-style: italic;" class="ED-app-editorial" id="app-editorial-3"&gt;&lt;span style="left: -2.5em; position: absolute; text-indent: 0em; font-style: normal;" class="ED-app-num"&gt;3&lt;/span&gt;&lt;a style="left: -.8em; position: absolute; text-indent: 0em; font-style: normal;" href="#app-editorial-3-ref" class="ED-app-corresp" title="back to content"&gt;↑&lt;/a&gt;&lt;span style="font-style: normal;" class="ED-lem"&gt;Briefes vom 23.&lt;/span&gt;&lt;span style="font-style: normal;" class="ED-lem-sep"&gt; ] &lt;/span&gt;&lt;abbr title="vergleiche" class="ED-abbr"&gt;vgl.&lt;/abbr&gt; Windelband an &lt;span class="ED-name"&gt;Siebeck&lt;/span&gt; vom 23.1.1912&lt;/div&gt;&lt;div style="position: relative; margin: .3em 0em; margin-left: 2.5em; font-style: italic;" class="ED-app-editorial" id="app-editorial-4"&gt;&lt;span style="left: -2.5em; position: absolute; text-indent: 0em; font-style: normal;" class="ED-app-num"&gt;4&lt;/span&gt;&lt;a style="left: -.8em; position: absolute; text-indent: 0em; font-style: normal;" href="#app-editorial-4-ref" class="ED-app-corresp" title="back to content"&gt;↑&lt;/a&gt;&lt;span style="font-style: normal;" class="ED-lem"&gt;p. pa.&lt;/span&gt;&lt;span style="font-style: normal;" class="ED-lem-sep"&gt; ] &lt;/span&gt;per procura autoritate: im Auftrag, durch den Prokuristen&lt;/div&gt;&lt;/div&gt;</dc:description>
+          <dc:subject>Wilhelm Windelband</dc:subject>
+          <dc:subject>100 Philosophie und Psychologie » 100 Philosophie » 100 Philosophie und Psychologie</dc:subject>
+          <dc:subject>Editionen » Wilhelm Windelband</dc:subject>
+          <dc:type>Sammlungen, Datenmaterial » Editionen</dc:type>
+          <dc:language>deu</dc:language>
+          <dc:format>text/html</dc:format>
           <dc:format>application/pdf</dc:format>
+          <dc:format>text/xml</dc:format>
           <dc:type>Text</dc:type>
         </oai_dc:dc>
