@@ -1,24 +1,53 @@
-<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:6011</id><datestamp>2018-01-22</datestamp><setSpec>DDC:5:53</setSpec>
-          <dc:title xml:lang="en">Performance of the Insertable B-Layer for the ATLAS Pixel Detector during Quality Assurance and a Novel Pixel Detector Readout Concept based on PCIe</dc:title>
-          <dc:creator>Heim, Timon</dc:creator>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:5211</id><datestamp>2018-01-22</datestamp>
+          <dc:title xml:lang="de">Sustainable Insights 2015 (Band 1 der Schriftenreihe "Ressourceneffizienz und Nachhaltigkeit im Bergischen Städtedreieck")</dc:title>
+          <dc:creator>Volkmann, Christine</dc:creator>
+          <dc:creator>Stiebel, Jochen</dc:creator>
+          <dc:creator>Helsper, Andreas</dc:creator>
+          <dc:creator>Goertz, Eva-Maria</dc:creator>
+          <dc:creator>Bischoff, Kathrin</dc:creator>
+          <dc:creator>Males, Tijana</dc:creator>
+          <dc:creator>Bogatz, Daniel</dc:creator>
+          <dc:creator>Häuser, Patrick</dc:creator>
+          <dc:creator>Mochkabadi, Kazem</dc:creator>
+          <dc:creator>Monschau, Eva</dc:creator>
+          <dc:creator>Denzer, Dana</dc:creator>
+          <dc:creator>Bürger, Tobias</dc:creator>
+          <dc:creator>Brüggemann, Nora</dc:creator>
           <dc:date>2018-01-22</dc:date>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2015/heim</dc:identifier>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=6011</dc:identifier>
-          <dc:identifier>urn:nbn:de:hbz:468-20160725-094929-4</dc:identifier>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-5814/dc1538.pdf</dc:identifier>
-          <dc:description xml:lang="en">During the first long shutdown of the LHC the Pixel detector has been upgraded with a new 4th innermost layer, the Insertable B-Layer (IBL). The IBL will increase the tracking performance and help with higher than nominal luminosity the LHC will produce. The IBL is made up of 14 staves and in total 20 staves have been produced for the IBL. This thesis presents the results of the final quality tests performed on these staves in an detector-like environment, in order to select the 14 best of the 20 staves for integration onto the detector. The test setup as well as the testing procedure is introduced and typical results of each testing stage are shown and discussed. The overall performance of all staves is presented in regards to: tuning performance, radioactive source measurements, and number of failing pixels. Other measurement, which did not directly impact the selection of staves, but will be important for the operation of the detector or production of a future detector, are included.&#13;
-&#13;
-Based on the experience with readout systems of the IBL, a novel readout concept has been developed. This concept is based around the idea of moving as much functionality into the software of the controlling host computer as possible. The YARR system was developed with focus on the usage of modern multi core CPU architectures, and an FPGA interfaced via a PCIe link. The initial implementation is performed for the FE-I4 chip, which is used in the IBL, but not limited to one chip type, due to the flexible software implementation. The hardware chosen for YARR, is the SPEC board, which is a low cost off-the-shelf PCIe card carrying an FPGA, which can be used as a reconfigurable I/O interface. The firmware for the FPGA, as well as the software is described in-depth and its performance is evaluated for the usage with FE-I4s and extrapolated for the usage with future detector front-ends. In comparison with existing FE-I4 readout systems, YARR shows exceptional performance for much lower cost. This makes it very interesting for the usage in laboratories and for testbeam campaigns. The software is easily scalable to higher performance systems and the necessary steps to replace the existing hardware with another one to accommodate higher link speed are discussed in the conclusion.</dc:description>
-          <dc:subject>CERN</dc:subject>
-          <dc:subject>LHC</dc:subject>
-          <dc:subject>ATLAS</dc:subject>
-          <dc:subject>Pixel</dc:subject>
-          <dc:subject>IBL</dc:subject>
-          <dc:subject>Readout</dc:subject>
-          <dc:subject>500 Naturwissenschaften und Mathematik » 530 Physik</dc:subject>
-          <dc:subject>Fakultät für Mathematik und Naturwissenschaften » Physik » Dissertationen</dc:subject>
-          <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
-          <dc:language>eng</dc:language>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=5211</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20150915-150643-6</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-5117/SI-2015-RZ.pdf</dc:identifier>
+          <dc:description xml:lang="de">&lt;p&gt;&lt;strong&gt;Sustainable Insights 2015 - Kongress für Studierende und Werkstatt für&#13;
+verantwortungsvolles Wirtschaften 2015&lt;/strong&gt;&lt;/p&gt;&#13;
+&lt;p&gt;Wie integrieren Unternehmen Nachhaltigkeitskonzepte in ihre&#13;
+Geschäftspolitik und wie realistisch ist die Umsetzung im Betriebsalltag?&#13;
+Wie bewerten Studierende verschiedener Fachrichtungen&#13;
+Strategien für eine bessere Ressourceneffizienz? Welche Lösungen&#13;
+erarbeiten sie gemeinsam mit Unternehmen?&#13;
+&lt;/p&gt;&lt;p&gt;Zwei Tage Nachhaltigkeit im Praxistest – bei Sustainable Insights&#13;
+lernten über 100 Studierende, Young Professionals und Auszubildende&#13;
+aus ganz Deutschland engagierte Unternehmen kennen und&#13;
+entwickelten in Case Studies selbst eigene und praxisnahe Ideen.&#13;
+Diese Publikation dokumentiert den Kongress. Sustainable Insights&#13;
+fand 2015 zum ersten Mal statt, eine Wiederholung ist geplant.&lt;/p&gt;&#13;
+&lt;p&gt;Veranstaltet wurde Sustainable Insights von der Neuen Effizienz und&#13;
+dem Team von Prof. Dr. Christine Volkmann, Inhaberin des UNESCOLehrstuhls&#13;
+für Entrepreneurship und Interkulturelles Management&#13;
+an der Bergischen Universität Wuppertal und Vorsitzende des Jackstädtzentrums&#13;
+für Unternehmertums- und Innovationsforschung.&lt;/p&gt;&#13;
+&lt;br /&gt;&#13;
+&lt;p&gt;&lt;strong&gt;Schriftenreihe „Ressourceneffizienz und Nachhaltigkeit&#13;
+im Bergischen Städtedreieck“&lt;/strong&gt;&lt;/p&gt;&#13;
+&lt;p&gt;Die Schriftenreihe, herausgegeben von der Neuen Effizienz, ist die&#13;
+Plattform für Forschung, Projekte und Veranstaltungen zu Nachhaltigkeit&#13;
+und Ressourceneffizienz im Bergischen Städtedreieck. Sie&#13;
+richtet sich an Wissenschaftler und Studierende, Unternehmer und&#13;
+Experten sowie die interessierte Öffentlichkeit. Die Schriftenreihe ist&#13;
+über den Hochschulschriftenserver der Bergischen Universität sowie&#13;
+www.neue-effizienz.de digital frei verfügbar („Open Access“).&lt;/p&gt;</dc:description>
+          <dc:subject>Neue Effizienz - Bergische Gesellschaft für Ressourceneffizienz mbH » Schriftenreihe Nachhaltigkeit und Ressourceneffizienz im Bergischen Städtedreieck</dc:subject>
+          <dc:type>Wissenschaftliche Texte » Book</dc:type>
+          <dc:language>deu</dc:language>
           <dc:format>application/pdf</dc:format>
           <dc:type>Text</dc:type>
         </oai_dc:dc>

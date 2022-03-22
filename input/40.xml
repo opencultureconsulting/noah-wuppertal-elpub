@@ -1,52 +1,16 @@
-<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:5540</id><datestamp>2018-01-22</datestamp><setSpec>DDC:6</setSpec>
-          <dc:title xml:lang="de">Transformation und ontologische Formulierung multikriterieller Problemstellungen für die Lösung mit Verfahren der nichtlinearen Parameter-Optimierung</dc:title>
-          <dc:creator>John, Christian</dc:creator>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:6240</id><datestamp>2018-01-22</datestamp><setSpec>DDC:5:53</setSpec>
+          <dc:title xml:lang="en">Atomic oxygen derived from SCIAMACHY O(&lt;sup&gt;1&lt;/sup&gt;S) and OH airglow measurements in the Mesopause region</dc:title>
+          <dc:creator>Zhu, Yajun</dc:creator>
           <dc:date>2018-01-22</dc:date>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2015/john</dc:identifier>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=5540</dc:identifier>
-          <dc:identifier>urn:nbn:de:hbz:468-20160202-114956-0</dc:identifier>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-5295/de1504.pdf</dc:identifier>
-          <dc:description xml:lang="de">&lt;p&gt;Programmgestützte Problemlösungsverfahren können Aufgabenstellungen oft&#13;
-nicht mit einem geschlossen-deterministischen, sondern nur mit einem iterativprobabilistischen&#13;
-Ansatz lösen. Die typischen Lösungsansätze sind als Verfahren&#13;
-der Optimierung beschrieben, unter denen die Verfahren der nichtlinearen&#13;
-Parameter-Optimierung eine Generalisierung unter den Optimierungsverfahren&#13;
-darstellen.&lt;br&gt;&#13;
-Parameter-Optimierungsverfahren lassen sich auf eine vereinheitlichte Struktur&#13;
-von Eingabe- und Ausgabe-Daten zurückführen, die jedoch von semantischen&#13;
-Informationen der eigentlichen Aufgabenstellung abstrahiert: Das Szenario einer&#13;
-konkreten, kriteriengebundenen Aufgabenstellung muss von semantischen&#13;
-Aspekten befreit und in die Datenstruktur der Optimierung transformiert&#13;
-werden; die Interpretation und zeitlich-räumlich getrennte Weiterverwendung&#13;
-der Ergebnisdaten nach erfolgter Optimierungsrechnung entspricht dann einer&#13;
-Rückführung in die semantische Informationsebene der ursprünglichen Aufgabenstellung.&lt;br&gt;&#13;
-Diese Arbeit beschreibt zunächst einen standardisierten Transformationsprozess&#13;
-zur Gewinnung der abstrahierten Datenstrukturen für die Optimierung&#13;
-und leitet daraus die notwendigen Serialisierungs- und Informationsstruktur-&#13;
-Anforderungen für die interpretatorische Rückführung der Ergebnisdaten her.&#13;
-Abschließend wird ein standardisierter Prä- und Post-Prozess-Mechanismus&#13;
-zur automatisierten Verarbeitung, Interpretation und Darstellung der Ergebnisdaten&#13;
-von Optimierungsverfahren zusammen mit dem Vorschlag einer Schnittstellendefinition&#13;
-beschrieben.</dc:description>
-          <dc:description xml:lang="en">&lt;p&gt;While in many cases algorithmic problem solving can be achieved by using&#13;
-closed deterministic procedures, recurrent tasks arise the need for an iterative&#13;
-and probabilistic approach. Non-linear parameter optimization is the most&#13;
-generalized way for iteratively solving those probabilistic problems.&lt;br&gt;&#13;
-While parameter-oriented optimization is based on unified structures of input&#13;
-and output data, the data is an abstract of semantic information given in the&#13;
-original task formulation. Semantic aspects are submitted to reduction from&#13;
-particular criteria-bound task scenarios, in order to be transformed into the&#13;
-numeric data structures needed for optimization. Result data is interpreted&#13;
-and re-used independently from time and place by reversal onto the scenario’s&#13;
-semantic informational level.&lt;br&gt;&#13;
-A standardized transformation process for generation of abstract optimizational&#13;
-data structures is presented, serialization and structuring requirements&#13;
-are derived with regard to interpretational needs for result data. Conclusively,&#13;
-a standardized pre- and post-process mechanism is presented for automatic&#13;
-processing, interpretation, and representation of optimization result data, including&#13;
-an interface definition proposal.</dc:description>
-          <dc:subject>600 Technik, Medizin, angewandte Wissenschaften</dc:subject>
-          <dc:subject>Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik » Dissertationen</dc:subject>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2016/zhu</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=6240</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20161019-092721-7</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-6029/dc1625.pdf</dc:identifier>
+          <dc:description xml:lang="en">&lt;p&gt;Atomic oxygen plays a crucial role in the photochemistry and energy balance of the mesopause region. In particular, it is the most abundant reactive species and an important quantity in the derivation of temperature, ozone and other constituents in this part of the atmosphere. This work deals with the derivation of the atomic oxygen abundance from SCIAMACHY (Scanning Imaging Absorption spectroMeter for Atmospheric CHartographY) O(1S) green line and OH(9-6) band nightglow measurements from 2003 to 2011.&#13;
+&lt;br&gt;&lt;br&gt;&#13;
+There are two different photochemical models available, which describe O(1S) green line volume emission rates, namely the ETON and Khomich models. Differences between the two models and their implication on the derivation of atomic oxygen abundance are discussed. Two atomic oxygen datasets are derived from SCIAMACHY O(1S) green line measurements at 90–105 km. Analyses are performed on abundance uncertainties owing to rate constants and background atmosphere (i.g., temperature and total density), as well as abundance differences (up to around 20%) arising from the different model schemes. One photochemical model is used to simulate SCIAMACHY OH(9-6) band measurements and the resulting atomic oxygen abundance is derived at 80–96 km. Induced abundance uncertainties, as a result of uncertainties in rate constants and background atmosphere, are 20% at 80 km, which rise intensively up to 90% at 96 km.Atomic oxygen datasets derived from SCIAMACHY measurements show a consistent picture with each other. These derived datasets agree within 20% to the atomic oxygen data derived from WINDII (Wind Imaging Interferometer) O(1S) and OH nightglow measurements, whereas atomic oxygen data derived from simultaneously measured SABER (Sounding of the Atmosphere using Broadband Emission Radiometry) OH nightglow emissions are around 30–50% larger than the SCIAMACHY and WINDII data. The effect of the 11-year solar cycle is clearly evident in the atomic oxygen data. An investigation is conducted on the solar maximum/minimum (max/min) differences imprinted in SCIAMACHY and SABER atomic oxygen abundances. The differences vary in a range of 8–18% and depend on latitude. One striking feature is that the solar cycle variation increases with altitude at 90–105 km. The solar cycle variation is discussed using HAMMONIA (Hamburg Model of the Neutral and Ionized Atmosphere) model data. The model suggests that the 11-year solar cycle observed in the atomic oxygen abundance is mostly caused by total density variations (about 6–11% at 90–105 km) compared to volume mixing ratio (vmr) variations (3%). Thus, the atomic oxygen solar max/min variation is primarily driven by the total density compression/expansion variations during the solar cycle, rather than different atomic oxygen volume mixing ratios relevant to photolysis rates.</dc:description>
+          <dc:subject>500 Naturwissenschaften und Mathematik » 530 Physik</dc:subject>
+          <dc:subject>Fakultät für Mathematik und Naturwissenschaften » Physik » Dissertationen</dc:subject>
           <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
           <dc:language>deu</dc:language>
           <dc:format>application/pdf</dc:format>
