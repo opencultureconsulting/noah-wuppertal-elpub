@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_15971">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Cirrus clouds in the extratropical tropopause and lowermost stratosphere region</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bartolomé García, Irene</displayForm>
+                        <namePart type="family">Bartolomé García</namePart>
+                        <namePart type="given">Irene</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-03-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Cirrus clouds play a fundamental role in the radiative balance of the Earth and have an important impact on the climate. Their net effect depends on their physical characteristics, i.e., altitude, vertical extent, optical thickness and particle size. Quantifying the properties of ice crystals from the observations is a very challenging task. Consequently, models used for climate projections lack observational constrains when predicting the processes related to the evolution of cirrus and their properties. The aim of this thesis was to gain a deeper understanding of cirrus macro-physical properties (cloud top and bottom height, vertical extent, position with respect to the tropopause) and of the micro-physical properties (ice water content (IWC), particle size). For this purpose, data measured by GLORIA (Gimballed Limb Observer for Radiance Imaging of the Atmosphere) during the WISE (Wave-driven ISentropic Exchange) campaign were analyzed. GLORIA is an airborne limb remote sensor that measures radiance in the thermal infrared region (700 cm-1 to 1400 cm-1). Two identification methods were used to detect clouds in the measurements. One method is based on the cloud index (CI) and the other method, on the use of the extinction coefficient in the spectral range 832 cm-1 to 834 cm-1. Between 13 – 27 % of the total number of observations presented a cloud top located above the tropopause (TP). However, no cirrus layers were found unambiguously above the TP (i.e., both cloud top and cloud bottom above the TP). To estimate the micro-physical properties a combi- nation of two approaches was used. The IWC was then integrated to obtain the ice water path (IWP). The IWP was compared to the ERA5-based dataset, giving satisfactory re- sults (qualitatively) and highlighting that the ERA5 reanalysis does not reproduce most of the very thin clouds close to the tropopause. Quantitatively, the retrieved IWP was smaller than the ERA5-based IWP, pointing to the need of reducing uncertainties to ob- tain a more accurate product. Additionally, observed cloudy regions close to the TP were selected as case studies to simulate with CLaMS-Ice (Chemical Lagrangian Model of the Stratosphere). The model was able to successfully form clouds in the region of interest.</abstract>
+                    <classification authority="ddc">530</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Physik"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20220324-105232-3</identifier>
+                    <identifier type="doi">10.25926/xdet-zp39</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_15971</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_15971">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2021/bartolomegarcia/dc2139.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_15971"
+            DMDID="DMD_wuppertal_elpub_15971">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_15971"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

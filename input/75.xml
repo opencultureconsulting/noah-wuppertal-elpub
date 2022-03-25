@@ -1,27 +1,16 @@
-<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:1475</id><datestamp>2018-01-22</datestamp><setSpec>DDC:5:53:530</setSpec><setSpec>DDC:6:61:610</setSpec>
-          <dc:title xml:lang="en">Causality measures between neural signals from invasively and non-invasively obtained local field potentials in humans</dc:title>
-          <dc:creator>Florin, Esther</dc:creator>
-          <dc:date>2018-01-22</dc:date>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2010/florin</dc:identifier>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=1475</dc:identifier>
-          <dc:identifier>urn:nbn:de:hbz:468-20100816-153747-5</dc:identifier>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1624/dc1011.pdf</dc:identifier>
-          <dc:description xml:lang="en">Understanding the processes underlying neural communication is crucial to improve the treatment of neurological diseases, but has been a great challenge in the past. To tackle this issue, the question of causality between certain brain areas and between muscles and brain areas is of great interest. In the past decade several multivariate causality measures based on Granger causality have been suggested to assess causality in systems of neural signals. To date, however, a detailed evaluation of the reliability of these measures and their sensitivity to data preprocessing techniques is largely missing.&#13;
-&lt;br&gt;The present work systematically evaluates the performance of five different causality measures and its dependence upon data length, noise level, coupling strength and model order. Moreover, the effect of two common numerical methods (bootstrapping and jackknife) to determine the significance threshold for the causality measures was analyzed. Two simulation models were used to generate a controlled environment: one based on artificial data and one based on four different neural data recording procedures (magnetoencephalography, electroencephalography, electromyography, intraoperative local field potentials). The analysis shows the squared Partial Directed Coherence with the leave one out method to be the most reliable and robust choice for assessing directionality in neural data.&#13;
-&lt;br&gt;Moreover, the influence of data preprocessing on the working of the causality measures was investigated. In frequency domain analyses (power or coherence) of neural data it is common to preprocess the time series by filtering or decimating.&#13;
-&lt;br&gt;However, in other fields it has been shown theoretically that filtering in combination with Granger causality may lead to spurious or missed causalities. A controlled simulation environment was used to investigate whether this result translates to the multivariate causality methods derived from Granger causality.&#13;
-&lt;br&gt;The simulation results suggest that preprocessing without a strong prior about the artifact to be removed disturbs the information content and time ordering of the data and leads to spurious and missed causalities. Only if apparent artifacts like a current or movement artifact are present, filtering out the respective disturbance seems advisable. While oversampling the data poses no problem, decimation by a factor greater than the minimum time shift between the time series may lead to wrong inference. Finally, with the simulation results in mind an application of the causality measures to real data demonstrates the usefulness of the simulation results for practical applications.</dc:description>
-          <dc:source xml:lang="de">Diese Dissertation ist ebenfalls erschienen bei:&#13;
-&#13;
-Schriften des Forschungszentrums Jülich&#13;
-Reihe Gesundheit/Health&#13;
-Band/Volume 29&#13;
-ISSN 1866-1785 &#13;
-ISBN 978-3-89336-646-0</dc:source>
-          <dc:subject>500 Naturwissenschaften und Mathematik » 530 Physik » 530 Physik</dc:subject>
-          <dc:subject>600 Technik, Medizin, angewandte Wissenschaften » 610 Medizin und Gesundheit » 610 Medizin und Gesundheit</dc:subject>
-          <dc:subject>Fakultät für Mathematik und Naturwissenschaften » Physik » Dissertationen</dc:subject>
-          <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:1175</id><datestamp>2018-01-22</datestamp>
+          <dc:title xml:lang="en">Fedora - Guidance and Counselling in Higher Education in European Union Member States</dc:title>
+          <dc:title xml:lang="en">Symposium: Krakow 2006</dc:title>
+          <dc:publisher>Katzensteiner, Michael</dc:publisher>
+          <dc:publisher>Ferrer-Sama, Paula</dc:publisher>
+          <dc:publisher>Rott, Gerhart</dc:publisher>
+          <dc:date>2006-08-28</dc:date>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/zsb/fedora/general/others/symposiumkrakow2006</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=1175</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20060509</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1283/symp06.pdf</dc:identifier>
+          <dc:subject>Zentrale Studienberatung (ZSB) » Fedora - Forum Européen de l' Orientation Académique » allgemein/general/général » weitere Dokumente</dc:subject>
+          <dc:type>Veranstaltungen, Tagungen, Ereignisse » ConferenceObject</dc:type>
           <dc:language>eng</dc:language>
           <dc:format>application/pdf</dc:format>
           <dc:type>Text</dc:type>
