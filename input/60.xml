@@ -1,42 +1,17 @@
-<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:5260</id><datestamp>2018-01-22</datestamp><setSpec>DDC:6</setSpec>
-          <dc:title xml:lang="de">Aktive zweidimensionale Lärmkontrolle unter Verwendung adaptiver Verfahren und reflektierter Feldgrößen</dc:title>
-          <dc:title xml:lang="en">Two-dimensional Active Noise Control using Adaptive Methods and reflected Field Quantities</dc:title>
-          <dc:creator>Kleinhenrich, Christian</dc:creator>
-          <dc:contributor>Krahé, Detlef</dc:contributor>
-          <dc:contributor>Tibken, Bernd</dc:contributor>
-          <dc:date>2018-01-22</dc:date>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2014/kleinhenrich</dc:identifier>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=5260</dc:identifier>
-          <dc:identifier>urn:nbn:de:hbz:468-20151021-144928-6</dc:identifier>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-5076/de1407.pdf</dc:identifier>
-          <dc:description xml:lang="de">&lt;p&gt;Diese Arbeit beschäftigt sich mit zweidimensionalen Active Noise Control Systemen (ANC) in kreis- und linienförmigen Anordnungen. Ein derartiges System dämpft Schall durch destruktive Interferenz bis zu einer systembedingten Grenzfrequenz unter Verwendung von Führungssensoren und Gegenquellen (Sekundärquellen). &#13;
-&lt;br&gt;&lt;br&gt;&#13;
-Das Grundprinzip basiert auf der Prädiktion (Extrapolation) eines gegebenen Schallfeldes (Primärfeld) anhand von Druck- und Schnellesignalen an den sogenannten Analysepunkten. Diese befinden sich in dem Raumbereich, in dem das Primärfeld gedämpft werden soll. Aus dieser Vorhersage und den invertierten Sekundärpfaden zwischen den Sekundärquellen und den Analysepunkten lassen sich die Systemfilter ableiten. &#13;
-&lt;br&gt;&lt;br&gt;&#13;
-Es werden verschiedene Extrapolationsverfahren auf Basis des Kirchhoff-Helmholtz-Integrals, der Rayleigh-Integrale, der Zirkularen Harmonischen Extrapolation und einer modifizierten Plane Wave Decomposition vorgestellt und auf die Verwendung im ANC-System hin untersucht. Für den linienförmigen Aufbau des Systems wird zudem gezeigt, dass der Einsatz kardioider Referenzempfänger anstelle von Druck- und Schnelleempfängern ausreichend ist.&#13;
-&lt;br&gt;&lt;br&gt;&#13;
-Ein ANC-System kann als ein schallweicher Impedanzabschluss angesehen werden. Diese Betrachtung führt zu neuen Ansätzen der Filtersynthese, die für den kreisförmigen und den linienförmigen Aufbau präsentiert werden. &#13;
-&lt;br&gt;&lt;br&gt;&#13;
-Des Weiteren wurde der Implementierung adaptiver Optimierungsverfahren in das Multiple-Input-Multiple-Output-System (MIMO) nachgegangen. Die resultierenden Ansätze verwenden im Gegensatz zu den klassischen Verfahren teils veränderte Führungs- und Fehlergrößen. Die Reflexionen des ANC-Systems fließen hier ebenfalls in ein neuartiges MIMO-Adaptionsverfahren ein, um das System auf einen schallweichen Impedanzabschluss zu adaptieren. Unter Verwendung der Finiten Differenzen im Zeitbereich (FDTD) werden zeitbasierte, zweidimensionale Schallfeldsimulationen in Verbindung mit den vorgestellten adaptiven Verfahren durchgeführt. Auf diese Weise kann gezeigt werden, dass die Anwendung dieser adaptiven Verfahren zu einer Dämpfung des Primärfeldes durch das zweidimensionale ANC-System führt. &#13;
-&lt;br&gt;&lt;br&gt;&#13;
-Abschließend werden die überarbeitete DSP-basierte Hardware des zweidimensionalen ANC-Systems und Messergebnisse unter Verwendung adaptiver Verfahren präsentiert.</dc:description>
-          <dc:description xml:lang="en">&lt;p&gt;This thesis deals with two-dimensional active noise control (ANC) systems in linear and circular setups. 2D ANC systems use reference sonsors and secondary sources to attenuate sound by means of destructive interference. Due to the characteristics of the system the ANC application is limited to an upper cut-off frequency. &#13;
-&lt;br&gt;&lt;br&gt;&#13;
-The ANC algorithm bases upon the prediction (extrapolation) of the soundfield (primary field) inside of the area where it is to be attenuated. The system filters can be derived by  combining this prediction with the inverted transfer functions between the secondary sources and points inside of the area. Usually, both acoustic pressure and velocity have to be measured to accomplish this task.&#13;
-&lt;br&gt;&lt;br&gt;&#13;
-Within this thesis several prediction methods of a given sound field are evaluated. These methods are based upon the Kirchhoff-Helmholtz integral, the Rayleigh integrals, circular harmonics and a modified plane wave decomposition. For the linear system setup it is shown that the application of cardioid reference sensors instead of velocity and pressure sensors is sufficient.&#13;
-&lt;br&gt;&lt;br&gt;&#13;
-An ANC system can be regarded as a sound soft scatterer. From this point of view it is possible to synthesize the system filters in a new manner. This method will be presented for the linear and the circular system setup. &#13;
-&lt;br&gt;&lt;br&gt;&#13;
-Furthermore, the implementation of adaptive algorithms into the two-dimensional ANC system is investigated. In contrast to classical methods different reference and error signals are engaged. The scattered or reflected fields of the ANC system are also used to introduce a new Multiple Input Mutliple Output (MIMO) adaptation method to make the system behave like a sound soft scatterer. Finite differences in the time-domain (FDTD) have been utilized to simulate sound propagation and interference in combination with the adaptive ANC system. In this way it is shown that the adaptive algorithms presented within this work can be employed to attenuate primary fields with the two-dimensional ANC system.&#13;
-&lt;br&gt;&lt;br&gt;&#13;
-Finally, the modification of a DSP-based MIMO ANC system is presented. This system is used to measure the attenuation effects using adaptive algorithms.</dc:description>
-          <dc:subject>Active Noise Control</dc:subject>
-          <dc:subject>Acoustics</dc:subject>
-          <dc:subject>Signal Processing</dc:subject>
-          <dc:subject>Wave Field Synthesis</dc:subject>
-          <dc:subject>600 Technik, Medizin, angewandte Wissenschaften</dc:subject>
-          <dc:subject>Fakultät für Elektrotechnik, Informationstechnik und Medientechnik</dc:subject>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:9060</id><datestamp>2019-01-02</datestamp><setSpec>DDC:5:54</setSpec>
+          <dc:title xml:lang="en">Photolumineszenz und Photochromie in Lösungen und in Feststoffmatrices – Interaktionsbox Photo-Mol</dc:title>
+          <dc:creator>Meuter, Nico</dc:creator>
+          <dc:date>2019-01-02</dc:date>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2018/meuter</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=9060</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20190102-153948-6</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-8440/dc1821.pdf</dc:identifier>
+          <dc:description xml:lang="de">&lt;p&gt;In dieser Arbeit wurde der Experimentier- und Materialienkoffer „Photonen und Moleküle (Photo-Mol)“ für die Einbindung von Photoprozessen, insbesondere Fluoreszenz, Phosphoreszenz und Photochromie, in die Schulcurricula entwickelt. Die Experimente erfüllen die Anforderungen an einen sicherheitstechnisch unbedenklichen Einsatz von Experimenten erfüllt. Die Beobachtingen sind durch die augenscheinlichen stofflichen Veränderungen (Farbwechsel) didaktisch prägnant und durch die Verwendung unbedenklicher Chemikalien tauglich für den Einsatz im Unterricht.&lt;/p&gt;&#13;
+&lt;p&gt;Bei der Erforschung neuer Versuche zur Fluoreszenz und Phosphoreszenz wurden Untersuchungen dahingehend angestellt, welche Bedingungen für die Induzierung einer zum Schweratomeffekt analogen Wirkung in organischen Molekülen vorteilhaft sind. Dazu wurden zwei ähnliche Fluorophore (Esculin und Esculetin) in verschiedene anorganische und organische Matrizen eingebracht und die Änderungen sowohl der Fluoreszenz- als auch der Phosphoreszenzspektren untersucht. So konnte die Fähigkeit der Fluorophore Wasserstoffbrückenbindungen mit der Matrix auszubilden als ein wichtiges Kriterium für die Erzielung des genannten Effekts herausgearbeitet und bestätigt werden.&lt;/p&gt;&#13;
+&lt;p&gt;Bei der Entwicklung der Versuche zur Photochromie wurden verschiedene Feststoffmatrizen (Polystyrol PS, Polyvinylalkohol PVA, Polymethylmethacrylat PMMA und Gelatine) als rigides Medium für die Fixierung des molekularen Schalters Spiropyran/Merocyanin getestet und charakterisiert. Im Hinblick auf eine problemlose Umsetzung in der Lehre und im Unterricht hat sich dabei Polystyrol erwiesen. In dem Modellexperiment zur REDSOLFT-Nanoskopie, das in Zusammenarbeit mit Sebastian Spinnen erstmalig entwickelt wurde, eignet sich dagegen PMMA am besten.&lt;/p&gt;&#13;
+&lt;p&gt;Für die Aufwärtskonvertierung von Photonen wurde ein bisher in der Literatur nicht bekanntes Experiment entwickelt. Darin wird das Konzept der Triplett-Triplett-Annihilation mit TPFPP-Pt(II) und DPA in Lösung umgesetzt. Durch Aufbewahrung der sauerstofffreien Lösung in eine Ampulle war es außerdem möglich eine Probe herzustellen, die ohne großen Aufwand auch in Demonstrationsvorlesungen und auf Tagungen gezeigt werden kann. Die Aufwärtskonvertierung von grünem Licht hin zu blauem Licht in diesem Experiment erfüllt die Anforderungen an ein didaktisch prägnantes und wissenschaftlich konsistentes Experiment.&lt;/p&gt;</dc:description>
+          <dc:subject>500 Naturwissenschaften und Mathematik » 540 Chemie</dc:subject>
+          <dc:subject>Fakultät für Mathematik und Naturwissenschaften » Chemie » Dissertationen</dc:subject>
           <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
           <dc:language>deu</dc:language>
           <dc:format>application/pdf</dc:format>
