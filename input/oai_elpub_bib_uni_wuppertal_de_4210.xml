@@ -1,0 +1,65 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:4210</id><datestamp>2018-01-22</datestamp><setSpec>DDC:5:54</setSpec>
+          <dc:title xml:lang="en">A Lagrangian transport core for the simulation of stratospheric trace species in a Chemistry Climate Model</dc:title>
+          <dc:creator>Hoppe, Charlotte Marinke</dc:creator>
+          <dc:date>2018-01-22</dc:date>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2014/hoppe</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=4210</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20141006-094512-8</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-4221/dc1420.pdf</dc:identifier>
+          <dc:description xml:lang="en">Lagrangian transport schemes have proven to be useful tools for modelling stratospheric&#13;
+trace gas transport since they are less diffusive than classical Eulerian schemes&#13;
+and therefore especially well suited for maintaining steep tracer gradients as observed&#13;
+in the atmosphere. Here, the implementation of the full-Lagrangian transport&#13;
+core of the Chemical Lagrangian Model of the Stratosphere (CLaMS) in the&#13;
+ECHAM/MESSy Atmospheric Chemistry model (EMAC) is presented. A ten-year&#13;
+time-slice simulation was performed to evaluate the coupled model system&#13;
+EMAC/CLaMS. Simulated zonal mean age of air distributions were compared to&#13;
+the age of air derived from airborne measurements, showing the expected characteristics&#13;
+of the stratospheric circulation. Climatologies of long-lived tracers (CFC-11&#13;
+(CCl&lt;sub&gt;3&lt;/sub&gt;F), CFC-12 (CCl&lt;sub&gt;2&lt;/sub&gt;F&lt;sub&gt;2&lt;/sub&gt;), CH&lt;sub&gt;4&lt;/sub&gt;, N&lt;sub&gt;2&lt;/sub&gt;O) were calculated using the standard flux-form&#13;
+semi-Lagrangian transport scheme (FFSL) in EMAC, as well as the new CLaMS Lagrangian&#13;
+transport scheme. The climatologies were compared both to each other&#13;
+and also to satellite measurements of trace gases. The differences in the resulting&#13;
+tracer distributions are most pronounced in the regions of strong transport barriers,&#13;
+namely the edge of the tropical pipe, the tropopause, and the edge of the polar&#13;
+vortex. These regions were analysed in detail and show improved results using the&#13;
+Lagrangian transport scheme, with stronger gradients at the respective transport&#13;
+barriers. The analyses of various trace gases and age of air in the polar vortex regions&#13;
+shows that the CLaMS Lagrangian transport scheme produces a stronger, more&#13;
+realistic transport barrier at the edge of the polar vortex than the FFSL transport&#13;
+scheme of EMAC. Differences in simulated age of air are in the range of up to one&#13;
+year in the Arctic polar vortex in late winter/early spring. The newly coupled model&#13;
+system EMAC/CLaMS thus constitutes a suitable tool for future model studies, e.g.&#13;
+for the simulation of polar ozone depletion, based on a sophisticated stratospheric&#13;
+tracer transport.</dc:description>
+          <dc:description xml:lang="de">Lagrangesche Transportschemata sind besonders gut für die Simulation von stratosphärischen Spurengasen geeignet, da sie die numerische Diffusion, die notwendigerweise&#13;
+in klassischen Eulerischen Modellen auftritt, deutlich reduzieren. So ist es&#13;
+möglich, starke Gradienten an Transportbarrieren aufrecht zu erhalten, so wie sie in&#13;
+der Atmosphäre beobachtet werden. Diese Arbeit präsentiert das neu entwickelte,&#13;
+gekoppelte Modell EMAC/CLaMS, bestehend aus dem Lagrangeschen Transportschema&#13;
+aus dem Chemical Lagrangian Model of the Stratosphere (CLaMS) integriert&#13;
+in das Chemie-Klima-Modell ECHAM/MESSy Atmospheric Chemistry Model&#13;
+(EMAC). Zur Validierung dieses Modellsystems werden Ergebnisse aus einem Zeitscheibenlauf&#13;
+über 10 Jahre analysiert. Modellierte und aus Messungen bestimmte&#13;
+Verteilungen des Alters der Luft werden miteinander verglichen und die gute Übereinstimmung&#13;
+zeigt, dass die stratosphärische Zirkulation im Modell insgesamt gut&#13;
+wiedergegeben wird. Klimatologien für langlebige Spurengase wie CFC-11 (CCl&lt;sub&gt;3&lt;/sub&gt;F),&#13;
+CFC-12 (CCl&lt;sub&gt;2&lt;/sub&gt;F&lt;sub&gt;2&lt;/sub&gt;), CH&lt;sub&gt;4&lt;/sub&gt; und N&lt;sub&gt;2&lt;/sub&gt;O) wurden sowohl für das neue Lagrangesche CLaMS Transportschema, als auch für das Standard Semi-Lagrangesche Transportschema in&#13;
+Flussform (FFSL) erstellt. Diese Klimatologien werden miteinander und mit Spurengasklimatologien&#13;
+aus Satellitenmessungen verglichen. Die größten Unterschiede zwischen&#13;
+beiden Transportschemata zeigen sich in Regionen, in denen sich starke atmosphärische Transportbarrieren befinden, das heißt am subtropischen und polaren Jet,&#13;
+sowie an der Tropopause. Eine Analyse dieser Regionen zeigt, dass das Lagrangesche&#13;
+Transportschema hier verbesserte, d.h. stärkere Gradienten in den Spurengasverteilungen&#13;
+aufweist. Am Beispiel des Polarwirbels wird gezeigt, dass die stärkere und realistischere&#13;
+Transportbarriere mit dem Lagrangeschen Transportschema zu Altersunterschieden&#13;
+von bis zu einem Jahr im Arktischen Polarwirbel führt. Insgesamt zeigt&#13;
+die vorliegende Arbeit, dass das neue gekoppelte Modell EMAC/CLaMS realistische&#13;
+stratosphärische Spurengasverteilungen simuliert und daher für zukünftige Modellstudien&#13;
+verwendet werden kann.</dc:description>
+          <dc:subject>500 Naturwissenschaften und Mathematik » 540 Chemie</dc:subject>
+          <dc:subject>Fakultät für Mathematik und Naturwissenschaften » Chemie » Dissertationen</dc:subject>
+          <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
+          <dc:language>eng</dc:language>
+          <dc:format>application/pdf</dc:format>
+          <dc:type>Text</dc:type>
+        </oai_dc:dc>
