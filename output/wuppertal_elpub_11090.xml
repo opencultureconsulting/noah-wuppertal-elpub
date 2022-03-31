@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_11090">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Formation of highly oxygenated organic molecules from α-pinene photochemistry</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kang, Sungah</displayForm>
+                        <namePart type="family">Kang</namePart>
+                        <namePart type="given">Sungah</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-03-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Understanding secondary organic aerosols (SOA) is important because of their impact on climate and human health. However, SOA formation mechanisms and SOA precursors are still not very well known. Among the precursors of SOA, highly oxygenated organic molecules (HOM) are considered as a significant contributor to SOA formation. HOM are known to have a high O:C ratio which allows them to have low to extremely low vapour pressures. The high O:C ratio is achieved by a process called autoxidation. Autoxidation comprises a series of intramolecular H-shifts in peroxy radicals followed by O₂ addition while preserving the peroxy functionality. 
+α-pinene is an important biogenic volatile organic compound. It contributes the largest fraction to monoterpene emissions by plants and it reacts with OH radicals which is the major oxidant during daytime. Therefore, an understanding of α-pinene photooxidation is crucial. In this study, the formation of HOM from oxidation of α-pinene by OH was investigated. HOM were observed by Chemical Ionisation high resolution Time of Flight Mass Spectrometry (CIToF-MS). Four factors were varied in the reaction system: OH concentration, CO addition, addition of isoprene as a second organic component, NOx concentration. The variation of [OH] and the addition of CO served to derive mechanistic aspects of the HOM formation, while the isoprene and NOx addition addressed effects of HOM on SOA formation. A detailed analysis of mass spectrometric data was performed at high resolution level and pathways leading to compound families and marker compounds were elaborated. 
+The HOM concentration increased as the turnover of α-pinene increased. Herein, turnover is defined as the product of rate coefficient, [OH] and [α-pinene]. However, [HOM] and turnover were not related in an linear manner. This is due to the importance of the secondary oxidation of oxidised products such as pinonaldehyde in HOM formation. The similarity of the HOM mass spectra in α-pinene OH oxidation and pinonaldehyde OH oxidation supports these findings. 
+A high ratio of HO₂/RO₂ was achieved by introducing CO in the system. This resulted in a preference of peroxy radicals to react with HO₂ and form hydroperoxides. In addition, we observed a substantial decrease of the concentration of HOM peroxy radicals and products which require the involvement of alkoxy radicals during their formation. Due to the lower [RO₂], less alkoxy radicals were formed by the reaction of two RO₂ and less accretion products. 
+The effect of small peroxy radicals on the a-pinene photooxidation was investigated by introducing isoprene to the reaction system. Isoprene addition led to SOA suppression via two factors. Firstly, isoprene effectively scavenged OH because of the twofold higher reactivity of isoprene towards OH radicals compared to a-pinene. Secondly, small peroxy radicals originating from isoprene scavenged larger HOM peroxy radicals from a-pinene leading to less volatile products. 
+Adding NOx to the reaction system changed a reaction pattern of the α-pinene OH oxidation. HOM organic nitrates accounted for up to 50 % of the HOM monomer signals. In addition, an increased importance of fragmentation was observed in the presence of NOx, indicated by an increasing concentration of HOM with less than ten C-atoms. These two findings did not affect the SOA mass formation. However, a strong suppression ofHOMaccretion products resulted in a SOA mass suppression. In addition, the coupling of intramolecular H-shifts in peroxy and alkoxy radicals, the alkoxy-peroxy pathway, explained the high concentration of peroxy radicals even at the very high NOx concentration of up to 72 ppb.</abstract>
+                    <classification authority="ddc">540</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Mathematik und Naturwissenschaften » Chemie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20201110-122057-9</identifier>
+                    <identifier type="doi">10.25926/rd20-nb07</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_11090</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_11090">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2020/kang/dc2016.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_11090"
+            DMDID="DMD_wuppertal_elpub_11090">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_11090"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>
