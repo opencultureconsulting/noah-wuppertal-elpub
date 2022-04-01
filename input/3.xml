@@ -1,56 +1,24 @@
-<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:873</id><datestamp>2018-01-22</datestamp><setSpec>DDC:5:53:530</setSpec>
-          <dc:title xml:lang="en">Finite-Size Effects in Lattice QCD with Dynamical Wilson Fermions</dc:title>
-          <dc:creator>Orth, Boris</dc:creator>
-          <dc:date>2004-10-13</dc:date>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2004/orth</dc:identifier>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=873</dc:identifier>
-          <dc:identifier>urn:nbn:de:hbz:468-20040501</dc:identifier>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-979/dc0411.pdf</dc:identifier>
-          <dc:description xml:lang="en">&lt;p&gt;&#13;
-Due to limited computing resources choosing the parameters for a full&#13;
-Lattice QCD simulation always amounts to a compromise between the&#13;
-competing objectives of a lattice spacing as small, quarks as light,&#13;
-and a volume as large as possible. Aiming at pushing unquenched&#13;
-simulations with the Wilson action towards the computationally&#13;
-expensive regime of small quark masses, the GRAL project addresses the&#13;
-question whether computing time can be saved by sticking to lattices&#13;
-with rather modest numbers of grid sites and extrapolating the&#13;
-finite-volume results to the infinite volume (prior to the usual&#13;
-chiral and continuum extrapolations). In this context we investigate&#13;
-in this work finite-size effects in simulated light hadron&#13;
-masses. Understanding their systematic volume dependence may not only&#13;
-help saving computer time in light quark simulations with the Wilson&#13;
-action, but also guide future simulations with dynamical chiral&#13;
-fermions which for a foreseeable time will be restricted to rather&#13;
-small lattices.&#13;
-&#13;
-&lt;p&gt;&#13;
-&#13;
-We analyze data from Hybrid Monte Carlo simulations with the standard&#13;
-two-flavor Wilson action at two different values of the coupling&#13;
-parameter, β = 5.6 (lattice spacing a ≈ 0.08fm) and&#13;
-β = 5.32144 (a ≈ 0.13fm). The larger β corresponds to the&#13;
-coupling used previously by SESAM/TχL. The considered hopping&#13;
-parameters κ = 0.1575, 0.158 (at the larger β) and&#13;
-κ = 0.1665 (at the smaller β) correspond to quark masses of&#13;
-85, 50 and 36% of the strange quark mass. At each quark mass we study&#13;
-at least three different lattice extents in the range from L=10 to&#13;
-L = 24 (0.85-2.04fm). Estimates of autocorrelation times in the&#13;
-stochastic updating process and of the computational cost of every run&#13;
-are given. For each simulated sea quark mass we calculate quark&#13;
-propagators and hadronic correlation functions in order to extract the&#13;
-pion, rho and nucleon masses as well as the pion decay constant and&#13;
-the quark mass from the PCAC relation. We examine to what extent the&#13;
-volume dependence of the masses can be parameterized by simple&#13;
-functions based on M. Lüscher's analytic formula and previous&#13;
-numerical findings by other groups. The applicability of results for&#13;
-the pion and the nucleon from Chiral Effective Theory in the parameter&#13;
-regime covered by our simulations is discussed. Cut-off effects in the&#13;
-PCAC quark mass are found to be under control.</dc:description>
-          <dc:subject>500 Naturwissenschaften und Mathematik » 530 Physik » 530 Physik</dc:subject>
-          <dc:subject>Fakultät für Mathematik und Naturwissenschaften » Physik » Dissertationen</dc:subject>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:573</id><datestamp>2018-01-22</datestamp><setSpec>DDC:6:62:620</setSpec>
+          <dc:title xml:lang="de">Bestimmung instationärer Strömungsfelder in Lufträumen mit dem modifizierten MAC-Verfahren</dc:title>
+          <dc:creator>Urayeneza, Patrice</dc:creator>
+          <dc:date>2001-01-10</dc:date>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fb11/diss2000/urayeneza</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=573</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20010064</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-669/d110002.pdf</dc:identifier>
+          <dc:description xml:lang="de">Eine vollständige klimatische Gebäudeanalyse ist eine komplexe Aufgabe wegen der vielfältigen Interaktionen zwischen der Außenhülle und den Luftführungssystemen, die die Funktion haben, sowohl die thermische Behaglichkeit als auch die Luftqualität im Inneren zu sichern. Die Intensität der Raumluftströmungen hängt von der Art der Außenhülle und von der Verteilung der Hindernisse innen und außen ab, die die Reaktion des Gebäudes im wesentlichen beeinflussen.&#13;
+&lt;br&gt;Eine Methode zur Berechnung der Raumluftparameter mit Hilfe der Navier-Stokes-Gleichungen wird vorgestellt. Das in der mathematischen Physik bekannte  Marker-and-Cell-Verfahren wird modifiziert und zur Lösung der komplexen partiellen Gleichungen aus der Fluidmechanik angewendet. Dies führt zu einer  numerischen Simulation von Luftströmungen im Gebäude mit Hilfe eines detaillierten Programms.&#13;
+&lt;br&gt;Die Verteilung der Hauptgeschwindigkeiten in der Grenzschicht zwischen Gebäude und dem Fluid wird genutzt, um eine Auswahl der Schutzmaßnahmen gegen äußere Einflüsse schon in der Planungsphase des Gebäudes zu treffen.&#13;
+&lt;br&gt;Über die theoretischen Grundlagen hinaus werden die Kontinuitäts-, die Bewegungs- und Temperaturgleichungen so umgeformt, daß die Anwendung der Diskretisierungsschemata nach der MAC-Methode vereinfacht einsetzbar sind. Instationäre Lösungen der Navier-Stokes-Gleichungen in dreidimensionalen Gebieten werden so aufgebaut, daß die  Kapazitäten eines PC optimal genutzt sind. Der Ansatz der SOR (Sub-Overrelaxation) zur Lösung der anfallenden Gleichungssysteme erzwingt die Konvergenz und somit die Stabilität der Rechenschemata auf beliebig versetzten Gittern.&#13;
+&lt;br&gt;Zwei Testbeispiele werden nachgestellt, um die Zuverlässigkeit, die Stabilität und die Genauigkeit des Verfahrens darzulegen. Abschließend wird eine analytische Behandlung von Strömungsfeldern vorgeschlagen, womit vorhandene Ergebnisse aus einem Prototyp auf andere Geometrien übertragbar gemacht werden können.&#13;
+&lt;br&gt;Die Validierung der Simulationsergebnisse für größere umbaute Räume ist ein wenig erforschtes Thema, da sich einerseits die dazu vorhandenen Rechenprogramme vom Typ CFD (Computational Fluid Dynamics) nur für kleine Abmessungen sinnvoll ansetzen lassen. Andererseits die Fehleranfälligkeit der Messungen und der exorbitant hohe Preis der Experimente in einem leistungsfähigen Windkanal oder in situ sind ein großes Handikap, um die verschiedenen Strömungsparameter zu bestimmen.</dc:description>
+          <dc:description xml:lang="en">A complete climatic building-analysis is a complex task because of the diverse interactions between the outside-cover and the air conditioning systems, that have the function, to secure both the thermal comfort as well as the air-quality in the inside. The intensity of the velocity fields depends indoors and outside on  the type of the outside-cover and the distribution of the obstacles, that the reaction of the building essentially influence. A method to the calculation of the air room parameters with help of the Navier-Stokes-equations is introduced. The in the mathematical physics as Marker-and-Cell-method known procedure is modified and applied to the solution of the complex partial equations from the Fluid Mechanics. This leads to a numerical simulation of air flows in the building with help of an elaborate program.&#13;
+&lt;br&gt;The distribution of the main speed vectors  in the border-layer between buildings and the Fluid is used in order already to meet a selection of the precautions against outer influences in the planning phase of the building. The basic equations are discussed. Continuity, flow and temperature equations are so transformed, that the application of the discretizing MAC formula is simplified. Instationary solutions of the Navier-Stokes-equations in three dimensional spaces are built and the Iterations optimised considering the capacity of a personal computer. The then used Sub-Over-relaxation to solve the arose equation systems leads to a constrained convergence  and also to stability of the iteration formula on staggered grids. Two practical examples from test models were simulated in order to verify the viability, the stability and the precision of the method. Finally an analytical study of flow fields was proposed, consisting in using the known results from a prototype room to predict flow mean velocities in similar geometries and by affin boundary conditions.&#13;
+&lt;br&gt;The validation of the simulation results  in rooms on a large scale is not a subject explored enough. The already handed predicting programs after the CFD (Computer Fluid Dynamics) method make only sense for small dimensions. The swaying measurement precision and the high prises of the experiments in an efficient wind canal or in situ, are also a challenge  in predicting the air flow parameters indoor.</dc:description>
+          <dc:subject>600 Technik, Medizin, angewandte Wissenschaften » 620 Ingenieurwissenschaften » 620 Ingenieurwissenschaften und zugeordnete Tätigkeiten</dc:subject>
+          <dc:subject>Fakultät für Architektur und Bauingenieurwesen » Bauingenieurwesen » Dissertationen</dc:subject>
           <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
-          <dc:language>eng</dc:language>
+          <dc:language>deu</dc:language>
           <dc:format>application/pdf</dc:format>
           <dc:type>Text</dc:type>
         </oai_dc:dc>

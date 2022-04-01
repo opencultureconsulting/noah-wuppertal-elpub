@@ -1,16 +1,24 @@
-<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:9911</id><datestamp>2019-11-12</datestamp><setSpec>DDC:5:54</setSpec>
-          <dc:title xml:lang="de">Synthese von Rubazonsäurederivaten &amp; Entwicklung von Peptidkatalysatoren</dc:title>
-          <dc:creator>Tong, My Linh</dc:creator>
-          <dc:date>2019-11-12</dc:date>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/chemie/diss2019/tong</dc:identifier>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=9911</dc:identifier>
-          <dc:identifier>urn:nbn:de:hbz:468-20191112-134724-9</dc:identifier>
-          <dc:identifier>https://doi.org/10.25926/1cnb-yq74</dc:identifier>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-9273/dc1930.pdf</dc:identifier>
-          <dc:subject>500 Naturwissenschaften und Mathematik » 540 Chemie</dc:subject>
-          <dc:subject>Fakultät für Mathematik und Naturwissenschaften » Chemie » Dissertationen</dc:subject>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:6011</id><datestamp>2018-01-22</datestamp><setSpec>DDC:5:53</setSpec>
+          <dc:title xml:lang="en">Performance of the Insertable B-Layer for the ATLAS Pixel Detector during Quality Assurance and a Novel Pixel Detector Readout Concept based on PCIe</dc:title>
+          <dc:creator>Heim, Timon</dc:creator>
+          <dc:date>2018-01-22</dc:date>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2015/heim</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=6011</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20160725-094929-4</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-5814/dc1538.pdf</dc:identifier>
+          <dc:description xml:lang="en">During the first long shutdown of the LHC the Pixel detector has been upgraded with a new 4th innermost layer, the Insertable B-Layer (IBL). The IBL will increase the tracking performance and help with higher than nominal luminosity the LHC will produce. The IBL is made up of 14 staves and in total 20 staves have been produced for the IBL. This thesis presents the results of the final quality tests performed on these staves in an detector-like environment, in order to select the 14 best of the 20 staves for integration onto the detector. The test setup as well as the testing procedure is introduced and typical results of each testing stage are shown and discussed. The overall performance of all staves is presented in regards to: tuning performance, radioactive source measurements, and number of failing pixels. Other measurement, which did not directly impact the selection of staves, but will be important for the operation of the detector or production of a future detector, are included.&#13;
+&#13;
+Based on the experience with readout systems of the IBL, a novel readout concept has been developed. This concept is based around the idea of moving as much functionality into the software of the controlling host computer as possible. The YARR system was developed with focus on the usage of modern multi core CPU architectures, and an FPGA interfaced via a PCIe link. The initial implementation is performed for the FE-I4 chip, which is used in the IBL, but not limited to one chip type, due to the flexible software implementation. The hardware chosen for YARR, is the SPEC board, which is a low cost off-the-shelf PCIe card carrying an FPGA, which can be used as a reconfigurable I/O interface. The firmware for the FPGA, as well as the software is described in-depth and its performance is evaluated for the usage with FE-I4s and extrapolated for the usage with future detector front-ends. In comparison with existing FE-I4 readout systems, YARR shows exceptional performance for much lower cost. This makes it very interesting for the usage in laboratories and for testbeam campaigns. The software is easily scalable to higher performance systems and the necessary steps to replace the existing hardware with another one to accommodate higher link speed are discussed in the conclusion.</dc:description>
+          <dc:subject>CERN</dc:subject>
+          <dc:subject>LHC</dc:subject>
+          <dc:subject>ATLAS</dc:subject>
+          <dc:subject>Pixel</dc:subject>
+          <dc:subject>IBL</dc:subject>
+          <dc:subject>Readout</dc:subject>
+          <dc:subject>500 Naturwissenschaften und Mathematik » 530 Physik</dc:subject>
+          <dc:subject>Fakultät für Mathematik und Naturwissenschaften » Physik » Dissertationen</dc:subject>
           <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
-          <dc:language>deu</dc:language>
+          <dc:language>eng</dc:language>
           <dc:format>application/pdf</dc:format>
           <dc:type>Text</dc:type>
         </oai_dc:dc>

@@ -1,85 +1,17 @@
-<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:1379</id><datestamp>2018-01-22</datestamp><setSpec>DDC:5:51:510</setSpec>
-          <dc:title xml:lang="en">On MR3-type Algorithms for the Tridiagonal Symmetric Eigenproblem and the Bidiagonal SVD</dc:title>
-          <dc:creator>Willems, Paul</dc:creator>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:2679</id><datestamp>2018-01-22</datestamp><setSpec>DDC:5:53:530</setSpec>
+          <dc:title xml:lang="de">In-situ Charakterisierung dünner kryokondensierter Metallschichten durch Röntgenmethoden</dc:title>
+          <dc:creator>Markert, Christian</dc:creator>
           <dc:date>2018-01-22</dc:date>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2010/willems</dc:identifier>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=1379</dc:identifier>
-          <dc:identifier>urn:nbn:de:hbz:468-20100243</dc:identifier>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1476/dc1002.pdf</dc:identifier>
-          <dc:description xml:lang="de">Die Arbeit "On MRRR-type Algorithms for the Tridiagonal Symmetric Eigenproblem and the&#13;
-Bidiagonal SVD" behandelt neue und verbesserte Ansätze zur Berechnung von&#13;
-Eigenzerlegungen symmterisch tridiagonaler Matrizen (Problem TSEP) und&#13;
-Singulärwertzerlegungen von bidiagonalen Matrizen (BSVD).&#13;
-&lt;br&gt;&#13;
-Diese zwei eng verwandten Aufgaben sind ein Kernthema der Numerischen Linearen Algebra,&#13;
-da sie die jeweiligen schwierigsten Teilaufgaben darstellen, die der&#13;
-Standardalgorithmus zur Berechnung von Eigen-/Singulär-Systemen allgemeiner&#13;
-dichtbesetzter Matrizen lösen muss.&lt;br&gt;&#13;
-&#13;
-Das Werkzeug im Hauptfokus dieser Arbeit ist der Algorithmus "Multiple&#13;
-Relatively Robust Representations (MRRR)" von Inderjit Dhillon und Beresford Parlett.&#13;
-In einem ersten Teil werden der Algorithmus und seine begleitende Theorie in einer&#13;
-überarbeiteten modularisierten und Rahmenwerk-orientierten Form präsentiert.&#13;
-Darauf basierend wird eine Reihe von Weiterentwicklungen am Kernalgorithmus selbst&#13;
-vorgestellt.&lt;br&gt;&#13;
-&#13;
-Der zweite, und zentrale, Teil dieser Arbeit behandelt, wie Algorithmus MRRR&#13;
-eingesetzt werden kann, das Problem BSVD zu lösen. Aufbauend auf vorangegangenen&#13;
-Arbeiten von Benedikt Großer und Bruno Lang wird eine umfangreiche Theorie entwickelt,&#13;
-auf welche drei weitere Beiträge aufbauen:&#13;
-ein besseres Verständnis, warum die sogenannten "Black-Box" Ansätze nicht funktionieren&#13;
-können, eine rigorose Fehleranalyse des kopplungsbasierten Algorithmus von&#13;
-Großer und Lang, und schliesslich ein neuer Lösungsansatz über die Golub-Kahan&#13;
-Matrix.&lt;br&gt;&#13;
-&#13;
-Der dritte Teil der Arbeit stellt einen neuen Algorithmus zum Verschieben&#13;
-(shiften) symmetrischer Tridiagonalmatrizen in block-faktorisierter Form vor,&#13;
-und zwar mit gemischter komponentenweiser relativer Stabilität.&#13;
-Letzteres ist entscheidend, um die Benutzung der Methode im Rahmen von MRRR überhaupt&#13;
-erst zu erlauben.&lt;br&gt;&#13;
-Der große Vorteil von Block-Faktorisierungen liegt darin, dass sie eine Möglichkeit&#13;
-zur Kontrolle von Elementwachstum bieten, und daher stark zur Robustheit von&#13;
-MRRR-basierten Methoden beitragen können.&lt;br&gt;&#13;
-&#13;
-Die in der Arbeit entwickelten Varianten von MRRR wurden als Software-Prototypen&#13;
-implementiert und in einer Reihe von numerischen Experimenten wird belegt, dass&#13;
-diese entsprechenden Lösern aus der LAPACK Software Bibliothek ebenbürtig und&#13;
-teilweise sogar überlegen sind.</dc:description>
-          <dc:description xml:lang="en">The thesis "On MRRR-type Algorithms for the Tridiagonal Symmetric Eigenproblem and the&#13;
-Bidiagonal SVD" concerns new and improved approaches to compute eigendecompositions&#13;
-of symmetric tridiagonal matrices (problem TSEP) and singular value decompositions of&#13;
-bidiagonal matrices (BSVD).&lt;br&gt;&#13;
-These two intimately related tasks lie at the core of numerical linear algebra, since&#13;
-they represent the respective hardest subtasks to be solved by the standard&#13;
-algorithm to compute eigen-/singular-systems of general dense matrices.&lt;br&gt;&#13;
-&#13;
-The tool that lies in the main focus of this thesis is the algorithm of "Multiple&#13;
-Relatively Robust Representations (MRRR)" by Inderjit Dhillon and Beresford Parlett.&#13;
-In a first part the algorithm and its accompanying theory are presented in a revised and&#13;
-modularized, framework-driven form, based on which a series of improvements to the&#13;
-core algorithm itself are developed.&lt;br&gt;&#13;
-&#13;
-The second, and central, part of this thesis concerns how algorithm MRRR can be harnessed&#13;
-to solve BSVD. Building on previous work by Benedikt Großer and Bruno Lang, a rigid&#13;
-body of theory is developed on which three more contributions rest:&#13;
-a better understanding why the so called "black-box" approaches cannot work,&#13;
-a rigorous error analysis of the coupling-based algorithm by Großer and Lang,&#13;
-and last but not least a new solution approach using the Golub-Kahan matrix.&lt;br&gt;&#13;
-&#13;
-The third part of the thesis introduces a new algorithm to shift symmetric tridiagonal&#13;
-matrices given in block-factored form with mixed componentwise relative stability.&#13;
-The latter is crucial to allow using the method within MRRR in the first place.&#13;
-The big advantage of block-factorizations lies in the fact that they provide a&#13;
-means to control element growth and thus can contribute greatly to the&#13;
-robustness of MRRR-based methods.&lt;br&gt;&#13;
-&#13;
-The variants of MRRR developed during the thesis were implemented in software prototypes,&#13;
-and in a series of numerical experiments those are shown to be highly competitive and&#13;
-in some regards even superior to respective solvers from the LAPACK software library.</dc:description>
-          <dc:subject>500 Naturwissenschaften und Mathematik » 510 Mathematik » 510 Mathematik</dc:subject>
-          <dc:subject>Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik » Dissertationen</dc:subject>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2011/markert</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=2679</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20120312-121249-2</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-2803/dc1124.pdf</dc:identifier>
+          <dc:description xml:lang="de">&lt;p&gt;Die vorliegende Arbeit beschäftigt sich mit der Untersuchung der speziellen elektrischen und strukturellen Eigenschaften dünner kryokondensierter Metallschichten, d.h. Schichten, die bei Substrattemperaturen von typischerweise weniger als 100 K abgeschieden werden. Für die Schichtcharakterisierung wurde erstmals eine Kombination aus Leitfähigkeitsmessungen, Röntgenreflektometrie (XRR) und Röntgenabsorptionsspektroskopie bei streifendem Einfall (GIXAS) verwendet, was es ermöglichte eine Reihe wichtiger physikalischer Eigenschaften wie die Dichte, die Dicke, die Grenzflächenrauheiten und das Leitfähigkeitsverhalten der Schichten sowie die atomare Nahordnung der Schichtatome temperaturabhängig und mit hoher Genauigkeit zu bestimmen. Für die Durchführung der Experimente wurde im Rahmen dieser Arbeit eine transportable Ultrahochvakuum-Beschichtungsanlage aufgebaut, die es ermöglicht, dünne Metallschichten auf unterschiedlichen Substraten bei Depositionstemperaturen zwischen 20 K und 420 K aufzudampfen und über die genannten Analysemethoden im selben Temperaturbereich (z.B. während des Temperns) unter echten in-situ Bedingungen zu untersuchen. Die Durchführung der Experimente erfolgte dabei sowohl im institutseigenen Labor der Universität Wuppertal als auch an den beiden Synchrotronstrahlungsquellen DELTA in Dortmund und HASYLAB in Hamburg. Die Beschichtungsanlage, sowie der experimentelle Aufbau an den Speicherringen mit allen für die Messungen notwendigen Komponenten sind ebenso wie die Ergebnisse der Untersuchungen der 6 nm bis 40 nm dicken Gold- und Bismutschichten auf Floatglas-Substraten im Detail beschrieben.</dc:description>
+          <dc:description xml:lang="en">&lt;p&gt;The present work deals with the investigation of the special electrical and structural properties of thin cryocondensed metal films, i.e. films which are deposited at substrate temperatures of typically less than 100 K. For the first time a combination of electrical conductivity measurements, X-ray reflectometry (XRR) and grazing incidence X-ray absorption spectroscopy (GIXAS) was used for the film characterization. Theses methods allow a temperature depended and accurate determination of several important physical properties, such as the thickness, density, surface roughness and the resistivity behaviour as well as the atomic short range order structure of the films. For the realisation of the experiments, a transportable ultra high vacuum chamber was designed and built up. The chamber allows the deposition of thin metal films onto various substrates, at substrate temperatures between 20 K and 420 K and the film characterization in this temperature region (e.g. during annealing) under real in-situ conditions with the above mentioned methods. The measurements were performed both in the laboratory of the working group at the University of Wuppertal and at the synchrotron radiation sources DELTA in Dortmund and HASYLAB in Hamburg. The deposition chamber and the experimental setup at the storing rings with all important components as well as the results of the investigation of 6 nm to 40 nm thick gold and bismuth films are presented in this work.</dc:description>
+          <dc:subject>500 Naturwissenschaften und Mathematik » 530 Physik » 530 Physik</dc:subject>
+          <dc:subject>Fakultät für Mathematik und Naturwissenschaften » Physik » Dissertationen</dc:subject>
           <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
-          <dc:language>eng</dc:language>
+          <dc:language>deu</dc:language>
           <dc:format>application/pdf</dc:format>
           <dc:type>Text</dc:type>
         </oai_dc:dc>

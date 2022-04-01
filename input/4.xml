@@ -1,124 +1,30 @@
-<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:954</id><datestamp>2018-01-22</datestamp><setSpec>DDC:6:60:600</setSpec>
-          <dc:title xml:lang="de">Numerische Untersuchung der Ausdehnung von Sekundärströmungsbereichen im Teillastbetrieb einer einstufigen Axialmaschine</dc:title>
-          <dc:creator>Itter, Lutz</dc:creator>
-          <dc:date>2005-03-04</dc:date>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/sicherheitstechnik/diss2004/itter</dc:identifier>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=954</dc:identifier>
-          <dc:identifier>urn:nbn:de:hbz:468-20050114</dc:identifier>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1060/dd0411.pdf</dc:identifier>
-          <dc:description xml:lang="de">In der vorliegenden Arbeit wurde sowohl ein wissenschaftliches, als auch ein&#13;
-technologisches Ziel verfolgt.&#13;
-Das wissenschaftliche Ziel behandelte die numerische Simulation eines in dieser&#13;
-Arbeit berechneten einstufigen Axialverdichters. Hierzu wurden zwei kommerzielle CFD-Codes&#13;
-mittels zwei unterschiedlicher Methoden verifiziert.&#13;
-Die Simulation der Verdichterstufe wurde mit dem CFD-Code CFX durchgeführt.&#13;
-Bei der Untersuchung der Ergebnisse des CFD-Codes stand die Identifizierung&#13;
-der Strömungsphänomene im Schaufelkanal im Vordergrund. Insbesondere wurde deren Verhalten&#13;
-im Teillastbereich der Maschine untersucht.&#13;
-Drei verschiedene Methoden der Identifizierung von Wirbeln wurden vorgestellt,&#13;
-sowie deren Vor- und Nachteile aufgezeigt. Dabei zeigte sich die Helicity&#13;
-(bzw. normalized Helicity) als die sinnvollste Methode, Wirbelkerne zu identifizieren.&#13;
-Dominante Wirbelstrukturen wie z.B. der Spaltwirbel wurden vom Code&#13;
-angezeigt. Ebenfalls wurde das Verhalten des Spaltwirbels im Teillastbereich korrekt&#13;
-wiedergegeben.&#13;
-Der Vortex breakdown Spiral Type konnte in der quasistationären&#13;
-Simulation nicht eindeutig festgestellt werden.&#13;
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:994</id><datestamp>2018-01-22</datestamp><setSpec>DDC:6:60:600</setSpec>
+          <dc:title xml:lang="de">Farbmetrisch basierte Modellentwicklung zur Farbbildoptimierung mittels genetischer Programmierung</dc:title>
+          <dc:creator>Blei, Andreas</dc:creator>
+          <dc:date>2004-08-09</dc:date>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/medientechnik/diss2004/blei</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=994</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20040368</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1100/de0405.pdf</dc:identifier>
+          <dc:description xml:lang="de">Das Ziel der vorliegenden Arbeit liegt in der Entwicklung einer langfristig einsetzbaren und künftigen Aufgabenstellungen gerecht werdenden Lösung des Problems der von unabhängigen Bewertungs- und Manipulationsmodulen getragenen, autonomen Farbbildoptimierung. Die Schwerpunkte der Arbeit liegen in der Entwicklung einer modularen Bewertungsstruktur und dem Nachweis eines effizienten Optimierungsverfahrens.&#13;
+&lt;p&gt;Im Rahmen der Entwicklung der Bewertungsstruktur wird das Optimierungsziel anhand der Analyse der natürlichen Farbbilder der Reihe &lt;i&gt;ISO 12640-3 L* a*b* standard colour image data WD1&lt;/i&gt; festgelegt. Hieraus resultiert ein auf der Bewertungsstruktur basierendes Optimierungsverfahren, das ein quasi optimales Farbbild hinsichtlich der Reihe ISO 12640-3 liefert. Die Anpassung der Bewertungsstruktur an andere Bezugsreihen ist durch ihre Modularität auf einfache Weise durchführbar.&#13;
 &#13;
-&lt;p&gt;Eine weitere Fragestellung war die Gültigkeit des in dieser Arbeit&#13;
-entstandenen Auslegungstools Axiblade. Die Untersuchungen haben gezeigt,&#13;
-dass die potentialtheoretische&#13;
-Auslegung ab einer dimensionslosen Kanalhöhe von delta_H/H = 0.9 am&#13;
-Außenschnitt der Schaufel im Auslegungspunkt keinen Sinn macht.&#13;
-Die für die Auslegung notwendige Annahme der ebenen Strömung ist nicht&#13;
-gewährleistet. Dieser ungültige Bereich erweitert sich mit zunehmender Drosselung der&#13;
-Maschine. Bei 70% Teillast ist die potentialtheoretische Auslegung nur noch&#13;
-in sehr eng begrenzten Bereichen delta_H/H = 0.4 bis 0.8 anwendbar.&#13;
+&lt;p&gt;Die Verwendung unabhängiger Bewertungsmodule verlangt nach einer normierten Betrachtung der einzelnen Module zur Gewährleistung ihrer Gleichwertigkeit, da jedes Modul seine eigenen Wertebereiche und Optimalwerte besitzt. Um dies zu gewährleisten werden die Ergebniswerte der einzelnen Bewertungsmodule mittels einer mehrwertigen Logik in das Intervall [0,1] überführt. Ferner werden hierdurch linguistische Variablen zur Bewertung eines Farbbildes in das Optimierungsverfahren integriert, um eine problemlose Erweiterung oder Veränderung der Module zu ermöglichen.&#13;
 &#13;
-&lt;p&gt;Der technologische Teil der Arbeit behandelte den Aufbau einer CAx-Kette.&#13;
-Hauptbestandteil dieser Kette ist die Auslegungssoftware Axiblade. Sie&#13;
-vereint die Berechnung der Zu- und Abströmwinkel, die Auswahl von Wölbungs-&#13;
-und Staffelungswinkel aus den NACA Unterlagen, die Berechnung der&#13;
-Druckverteilung mit einem Singularitätenverfahren und den Aufbau der&#13;
-dreidimensionalen Schaufelkontur.&#13;
-Nach dem Prototyping von Rotor- und Statorbeschaufelung konnten diese in die&#13;
-Prüfmaschine integriert werden.&#13;
-Mit einer verifizierten Versuchsstrecke konnte die Kennlinie des&#13;
-Axialventilators bei drei verschiedenen Drehzahlen gemessen werden. Die&#13;
-Simulation zeigte über einen großen Bereich des Teillastgebietes gute&#13;
-Übereinstimmung mit dem Experiment. Jedoch konnte der Stall der Maschine nicht&#13;
-exakt abgebildet werden.&#13;
-Die CAx-Kette ermöglicht die Auslegung, Simulation, Fertigung und Messung innerhalb von 24h.</dc:description>
-          <dc:description xml:lang="en">An academic as well as a technological goal was traced in the present work.&#13;
-The academic goal disscussed a numerical simulation of a single stage axial compressor.&#13;
-Therefore two commercial CFD-Codes were verified with two different methods.&#13;
-The numerical simulation of the single axial stage was accomplished with the commercial software called CFX.&#13;
-One of the main issues, looking at the results of the CFD-Code, was the identification of the flow&#13;
-phenomena regarding the passage. The behaviour of these flow phenomena during partial load of the compressor was from particular interest.&#13;
-Three different methods for identifying vortices were shown and their assets and drawbacks discussed.&#13;
-Helicity and normalized helicity turned out to be the most sensible method for identifying the vortex core.&#13;
-Dominant passage flow phenomena, like the tip clearance vortex, could be captured by the CFD-Code, as well&#13;
-as the behaviour of the tip clearance vortex due to partial load of the stage.&#13;
-Due to the quasi stationary character of the simulation it was not explicit possible to capture a vortex breakdown spiral type.&#13;
+&lt;p&gt;In dieser Arbeit wird der Entwicklung einer Gesamtbewertungsfunktion zur Bestimmung der Güte eines Farbbildes besondere Aufmerksamkeit gewidmet. Es wird nachgewiesen, dass eine Funktion aus unabhängigen Teilbewertungen erstellt werden kann. Die ausgewählten Bewertungsmodule dienen dem Nachweis der Existenz einer auf linguistischen Variablen basierenden Gesamtbewertungsfunktion. Zur Gewährleistung einer autonomen Farbbildoptimierung wird der CIE 1976 (L*a*b*) Bezugsfarbraum mit der CIE 1994  &lt;font face="symbol"&gt;D&lt;/font&gt;E&lt;sub&gt;&lt;small&gt;94&lt;/small&gt;&lt;/sub&gt;  Farbabstandsformel verwendet, da dieser Bezugsfarbraums mit der Farbabstandsformel, die hinsichtlich der menschlichen Farbwahrnehmung nahezu gleichabständig ist. Diese Festlegung gewährleistet bei der Anwendung analytischer oder statistischer Verfahren aussagekräftige Ergebnisse.&#13;
 &#13;
-&lt;p&gt;Another question was the validity of the design tool Axiblade, which was developed in the present thesis.&#13;
-The analysis has shown that there is no meaning to apply a potential theory based method close to the tip of the blade.&#13;
-Using a dimensionless channel hight delta_H/H it could be shown that above delta_H/H = 0.9, considering the design point,&#13;
-the necessary requirement of a two dimensional flow is not given.&#13;
-This, for the use of a potential theory based method, invalid region expands during choke of the machine.&#13;
-At 70% partial load the potential method can only be used in the range of delta_H/H = 0.4 to 0.8.&#13;
+&lt;p&gt;Auf Grund der Tatsache, dass eine auf mehrwertiger Logik basierende Bewertungsfunktion i. Allg. nicht stetig differenzierbar ist, wird die Auswahl eines numerischen Optimierungsverfahrens beschränkt. Ein geeignetes Verfahren ist die genetische Programmierung, da diese die erstellte Gesamtbewertung als zu optimierende Funktion akzeptiert. Das resultierende Optimierungsverfahren liefert eine Basisvariante, die den effektiven Einsatz der genetischen Programmierung nachweist. Insbesondere wird gezeigt, dass die Anwendung zweier Voroptimierungsphasen selbst bei einer kleinen Populationsgröße die Optimierung eines Farbbildes gewährleistet.</dc:description>
+          <dc:description xml:lang="en">The destination of the present paper is in the evolution of an on a long-term basis usable solution of the problem of a autonomous colour image optimisation based on independent evaluation and manipulation modules. The emphases of the paper are in the evolution of a modular evaluation structure and the proof of an efficient optimisation algorithm.&#13;
 &#13;
-&lt;p&gt;The technological goal of this thesis covered the creation of a CAx-chain.&#13;
-Main component of this chain was the design tool Axiblade, which&#13;
-covers the calculation of the flow-, camber-, and stagger angles of the cascade using the NACA documentation. As well as the calculation of the&#13;
-pressure distribution (using potential theory) and the threedimensional assembly of the blade contours.&#13;
-After the prototyping of the rotor and stator both could be integrated into a verified test facility.&#13;
-The characteristic curve was meassured for three different engine speeds.&#13;
-The simulation showed good conformance with the region of partial load. But nevertheless the stall inception point of the machine&#13;
-could not be mapped explicitly by the numerical simulation.&#13;
-The Cax-chain enables the design, simulation, manufacture and testing within 24h.</dc:description>
-          <dc:description xml:lang="fr">Dans cette thèse, je poursuis un objectif scientifique autant que technologique.&#13;
-L'objectif scientifique traite la simulation numérique d'un compresseur axial à un&#13;
-seul étage calculé pour ce travail. Dans ce but, j'ai vérifié deux codes&#13;
-CFD commerciaux au moyen de deux méthodes différentes. La simulation du compresseur&#13;
-axial a été réalisé par le truchement du code CFD, à savoir CFX.&#13;
-Lors de  l'analyse des résultats du code CFD, l'identification des phénomènes&#13;
-de courant dans le canal de l'ailette ont été mis en exergue.&#13;
-En particuliers, j'ai examiné leur comportement dans la zone de charge partielle du&#13;
-ventilateur.&#13;
-J'ai présenté trois méthodes différentes d'identification de remous,&#13;
-ainsi que leurs avantages et désavantages.&#13;
-Dans ce contexte, Helicity ou bien normalized  Helicity  s'est révélée comme&#13;
-étant la méthode la plus sensée pour identifier les noyaux de remous.&#13;
-Les structures de remous dominantes, comme par exemple le remous de scission ont été&#13;
-indiquées par le code. Le comportement du remous de scission dans la zone de charge partielle&#13;
-a été également rendu correctement. Le Vortex breakdown Spiral Type n'a pas pu&#13;
-être constaté clairement dans la simulation quasi stationnaire.&#13;
-Un autre questionnement a été l'examen de la validité de l'instrument&#13;
-conceptuel d'Axiblade provenant de ces analyses.&#13;
-Les études ont montré que l'interprétation théorique potentielle n'avait&#13;
-aucun sens à partir d'une hauteur de canal sans dimension de delta H/H =0.9 pris au contour&#13;
-extérieur de l'ailette au point d'interprétation. L'hypothèse nécessaire&#13;
-du courant plan à l'interprétation n'est pas garantie.&#13;
-Ce secteur croissant non valable s'élargit en fonction de l'étranglement du&#13;
-ventilateur. À 70 % de charge partielle, l'interprétation théorique potentielle&#13;
-n'est applicable que dans des domaines très limités, allant de  delta_H/H = 0.4 a 0.8.&#13;
+&lt;p&gt;Within the framework of the evolution of the evaluation structure the optimisation destination is determined by means of the analysis of the natural colour images of the &lt;i&gt;ISO series 12640-3 standard L*a*b* colour image data WD1&lt;/i&gt;. An optimisation algorithm based on the evaluation structure, which generates a quasi optimal colour image with regard to the ISO series 12640-3 results from that. The adaptation of the evaluation structure to other series is feasible through modularity of this structure in a simple way.&#13;
 &#13;
-&lt;p&gt;La partie technologique de la thèse a traitée la construction d'une chaîne CAx.&#13;
-L'élément principal de cette chaîne est le logiciel d'interprétation&#13;
-Axiblade. Il unit le calcul des angles de courant, le choix des angles de cambrure et&#13;
-d'échelonnement provenant des documents NACA, le calcul de la distribution de la pression au&#13;
-moyen d'un procédé de singularités et l'établissement du contour à&#13;
-trois dimensions. Aprés avoir créé un prototype, d'un rotor et stator d'ailette,&#13;
-ceux-ci ont pu être intégrés dans l'appareil d'essai. Grâce à un&#13;
-tronçon d'essai vérifié, la ligne de marquage du ventilateur axial a pu&#13;
-être mesuré à trois vitesses différentes. La simulation a montré&#13;
-une concordance conséquente avec l'expérience dans une grande partie du secteur de&#13;
-charge partielle.&#13;
-Néanmoins, l'arrêt stall de la machine n'a pas pu être représenét&#13;
-de manière précise. La chaîne CAx permet la facturation, la simulation, la&#13;
-fabrication et la mesure dans un délai de 24 heures.</dc:description>
+&lt;p&gt;The use of independent evaluation modules demand a standardized consideration of the individual modules for the guarantee of the uniformity, because every module have its own value ranges and optimum values. To guarantee this, the results of the individual evaluation modules are transfered by means of a fuzzy logic into the range [0,1]. Further through that linguistic variable are integrated for the evaluation of a colour image in order to allow a problem-free enlargement or modification of the modules.&#13;
+&#13;
+&lt;p&gt;In this paper special attention is dedicated to the evolution of an entire evaluation function for the determination of the kindness of a colour image. It is verified that a function can be made out from independent partial evaluations. The selected evaluation modules serve the proof of the existence of an entire evaluation function based on linguistic variables. For the guarantee of an autonomous colour image optimisation the CIE 1976 (L*a*b*) colour space is employed with the CIE 1994  &lt;font face="symbol"&gt;D&lt;/font&gt;E&lt;sub&gt;&lt;small&gt;94&lt;/small&gt;&lt;/sub&gt; colour difference formula, because this colour space with this colour difference formula is almost perceptually uniform with regard to the human colour perception. This determination guarantees meaningful results during the use of analytical or statistical procedures.&#13;
+&#13;
+&lt;p&gt;Due to the fact that an evaluation function based on fuzzy logic is generally not continuously differentiable the selection of a numeric optimisation procedure is limited. A suitable procedure is the genetic programming, because this procedure accepts  the made out evaluation function. The resultant optimisation algorithm represents a basic variant, which verifies the effective use of the genetic programming. In particular it is shown that the use of two pre-optimisation phases guarantees the optimisation of a colour image even at a small population size.</dc:description>
           <dc:subject>600 Technik, Medizin, angewandte Wissenschaften » 600 Technik » 600 Technik, Technologie</dc:subject>
-          <dc:subject>Fakultät für Maschinenbau und Sicherheitstechnik » Sicherheitstechnik » Dissertationen</dc:subject>
+          <dc:subject>Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Medientechnik » Dissertationen</dc:subject>
           <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
           <dc:language>deu</dc:language>
           <dc:format>application/pdf</dc:format>

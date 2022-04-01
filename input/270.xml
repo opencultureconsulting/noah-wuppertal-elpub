@@ -1,25 +1,15 @@
-<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:15270</id><datestamp>2021-09-14</datestamp><setSpec>DDC:5:51</setSpec>
-          <dc:title xml:lang="en">Auto-generated structured meshes for evolving domains</dc:title>
-          <dc:creator>Hahn, Camilla</dc:creator>
-          <dc:contributor>Bolten, Matthias</dc:contributor>
-          <dc:date>2021-09-14</dc:date>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2021/hahn</dc:identifier>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=15270</dc:identifier>
-          <dc:identifier>urn:nbn:de:hbz:468-20210914-112409-1</dc:identifier>
-          <dc:identifier>https://doi.org/10.25926/gmyp-7s53</dc:identifier>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-14260/dc2117.pdf</dc:identifier>
-          <dc:description xml:lang="en">&lt;p&gt;In this thesis we present an approach to auto-generate highly structured meshes for applications where the domain changes over time.&#13;
-&#13;
-Especially in the area of  PDE-constrained shape optimization, a key bottle neck in the computation is the generation of stable meshes in each iteration.&#13;
-&#13;
-The proposed approach possesses the advantages of structured meshes and is still capable of resolving boundaries accurately. Through the specific structure of the meshes, computational cost is reduced not only while generating the mesh but in the assembly of the governing linear system of equations as well.&#13;
-Additionally, we present an approach to apply Krylov subspace recycling to evolving domains, a state of the art method to solve large sparse linear systems of equations.&#13;
-We present results in two and three dimensions and how the meshes evolve in a gradient-based shape optimization setting.</dc:description>
-          <dc:rights>Alle Rechte vorbehalten</dc:rights>
-          <dc:subject>500 Naturwissenschaften und Mathematik » 510 Mathematik</dc:subject>
-          <dc:subject>Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik » Dissertationen</dc:subject>
-          <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
-          <dc:language>eng</dc:language>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:10270</id><datestamp>2020-02-20</datestamp><setSpec>DDC:6:60:600</setSpec>
+          <dc:title xml:lang="de">5. Wuppertaler Energie-Forum</dc:title>
+          <dc:publisher>Zdrallek, Markus</dc:publisher>
+          <dc:date>2020-02-20</dc:date>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=10270</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20200220-102114-0</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-9635/eaw0120.pdf</dc:identifier>
+          <dc:description xml:lang="de">&lt;p&gt;Vortragsfolien der Beiträge  zum 5. Wuppertaler Energie-Forum am 13.02.2020</dc:description>
+          <dc:subject>600 Technik, Medizin, angewandte Wissenschaften » 600 Technik » 600 Technik, Technologie</dc:subject>
+          <dc:subject>Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik » Neue Energie aus Wuppertal</dc:subject>
+          <dc:type>Veranstaltungen, Tagungen, Ereignisse</dc:type>
+          <dc:language>deu</dc:language>
           <dc:format>application/pdf</dc:format>
           <dc:type>Text</dc:type>
         </oai_dc:dc>

@@ -1,0 +1,73 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:8370</id><datestamp>2018-06-13</datestamp><setSpec>DDC:5:51:510</setSpec>
+          <dc:title xml:lang="en">A new block Krylov subspace framework with applications to functions of matrices acting on multiple vectors</dc:title>
+          <dc:creator>Lund, Kathryn</dc:creator>
+          <dc:date>2018-06-13</dc:date>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2018/lund</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=8370</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20180613-120530-8</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-7776/dc1804.pdf</dc:identifier>
+          <dc:description xml:lang="de">&lt;p&gt;In dieser Arbeit stellen wir einen allgemeinen Rahmen für die Formulierung&#13;
+und theoretische Betrachtung von Block-Krylow-Unterraumverfahren vor, welcher&#13;
+sich die Definition eines matrixwertigen Innen-Produktes zunutze macht. Innerhalb&#13;
+dieses Rahmens formulieren wir die “klassischen” Block-Krylow-Unterraum-&#13;
+Verfahren, wie O’Learys Block-Conjugate-Gradient-Verfahren, globale Krylow-&#13;
+Unterraumverfahren und Schleifentausch-Verfahren. Die Allgemeinheit unseres&#13;
+Ansatzes ermöglicht es uns, das Shifted-Block-Full-Orthogonalization-Verfahren (Sh-&#13;
+BFOM(&lt;i&gt;m&lt;/i&gt;)) um effiziente Neustarts zu erweitern und Fehlerschranken anzugeben.&#13;
+Darüber hinaus geben wir eine Modifikation des BFOM-Verfahrens an, welche wir&#13;
+Modified-BFOM nennen. Das BFOM-Verfahren lässt sich als Prototyp vieler Block-&#13;
+Krylow-Unterraumverfahren ansehen. In gleicher Weise zeigen wir, dass sich das&#13;
+Block-GMRES- sowie das neue Block-Radau-Lanczos-Verfahren als Modified-BFOM&#13;
+auffassen lassen. Analog zur Konstruktion von Sh-BFOM(&lt;i&gt;m&lt;/i&gt;) entwickeln wir eine effiziente Neustart-Prozedur und Fehlerschranken für das Shifted-BGMRES-Verfahren&#13;
+(Sh-BGMRES(&lt;i&gt;m&lt;/i&gt;)).&lt;br&gt;&#13;
+Unter Zurhilfenahme unseres allgemeinen Ansatzes und auf Basis von Neustarts&#13;
+verwendenden Shifted-Block-Krylow-Verfahren entwickeln wir Block-Krylow-&#13;
+Unterraum-Verfahren mit Neustarts für die Berechnung von &lt;i&gt;f(A)&lt;b&gt;B&lt;/b&gt;&lt;/i&gt;, d.h. für die&#13;
+Berechnung des Produktes einer Matrix mit mehreren rechten Seiten, wobei die Matrix&#13;
+durch die Anwendung einer Matrixfunktion gegeben ist. Des Weiteren leiten wir&#13;
+Schranken für die Konvergenzgeschwindigkeit der B(FOM)&lt;sup&gt;2&lt;/sup&gt; (BFOM for Functions of Matrices) und Block-Harmonic-Verfahren (d.h. Verfahren ähnlich zu BGMRES)&#13;
+für Matrixfunktionen her.&lt;br&gt;&#13;
+Anhand von diversen numerischen Beispielen bestätigen wir unsere theoretischen&#13;
+Vorhersagen über Sh-BFOM und Sh-BGMRES. Außerdem analysieren wir&#13;
+die matrixwertigen Polynome, welche mit den Residuenverläufen der Verfahren in&#13;
+Beziehung stehen. Indem wir das B(FOM)&lt;sup&gt;2&lt;/sup&gt;- und die Block-Harmonic-Verfahren in&#13;
+diversen praxisrelevanten Anwendungen testen, zeigen wir, dass die Verfahren robust&#13;
+und vielseitig einsetzbar sind. Ein besonders interessantes Beispiel, welches&#13;
+wir betrachten, ist die Tensor-t-Funktion. Sie ist der von uns vorgeschlagene Weg,&#13;
+Funktionen auf Tensoren, welche mit der durch das t-Produkt gegebenen Struktur&#13;
+versehen sind, zu definieren. Da wir keine theoretischen Belege haben, zeigen wir&#13;
+mittels Experimenten, dass die Block-Radau-Lanczos-Modifikation die Anzahl der&#13;
+Durchläufe sowohl für die iterative Lösung linearer Systeme als auch für die Berechnung&#13;
+von Matrixfunktionen reduziert.</dc:description>
+          <dc:description xml:lang="en">&lt;p&gt;We propose a new framework for understanding block Krylov subspace methods,&#13;
+which hinges on a matrix-valued inner product. We can recast the “classical” block&#13;
+Krylov methods, such as O’Leary’s block conjugate gradients, global methods, and&#13;
+loop-interchange methods, within this framework. Leveraging the generality of the&#13;
+framework, we develop an efficient restart procedure and error bounds for the shifted&#13;
+block full orthogonalization method (Sh-BFOM(&lt;i&gt;m&lt;/i&gt;)). Regarding BFOM as the prototypical&#13;
+block Krylov subspace method, we propose another formalism, which we call&#13;
+modified BFOM, and show that block GMRES and the new block Radau-Lanczos&#13;
+method can be regarded as modified BFOM. In analogy to Sh-BFOM(&lt;i&gt;m&lt;/i&gt;), we develop&#13;
+an efficient restart procedure for shifted BGMRES with restarts (Sh-BGMRES(&lt;i&lt;m&lt;/i&gt;)),&#13;
+as well as error bounds.&lt;br&gt;&#13;
+Using this framework and shifted block Krylov methods with restarts as a&#13;
+foundation, we formulate block Krylov subspace methods with restarts for matrix&#13;
+functions acting on multiple vectors &lt;i&gt;f(A)&lt;b&gt;B&lt;/b&gt;&lt;/i&gt;. We obtain convergence bounds for&#13;
+B(FOM)&lt;sup&gt;2&lt;/sup&gt; (BFOM for Functions Of Matrices) and block harmonic methods (i.e.,&#13;
+BGMRES-like methods) for matrix functions.&lt;br&gt;&#13;
+With various numerical examples, we illustrate our theoretical results on Sh-&#13;
+BFOM and Sh-BGMRES. We also analyze the matrix polynomials associated to the&#13;
+residuals of these methods. Through a variety of real-life applications, we demonstrate&#13;
+the robustness and versatility of B(FOM)&lt;sup&gt;2&lt;/sup&gt; and block harmonic methods for&#13;
+matrix functions. A particularly interesting example is the tensor t-function, our&#13;
+proposed definition for the function of a tensor in the tensor t-product formalism.&#13;
+Despite the lack of convergence theory, we also show that the block Radau-Lanczos&#13;
+modification can reduce the number of cycles required to converge for both linear&#13;
+systems and matrix functions.</dc:description>
+          <dc:subject>500 Naturwissenschaften und Mathematik » 510 Mathematik » 510 Mathematik</dc:subject>
+          <dc:subject>Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik » Dissertationen</dc:subject>
+          <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
+          <dc:language>eng</dc:language>
+          <dc:format>application/pdf</dc:format>
+          <dc:type>Text</dc:type>
+        </oai_dc:dc>
