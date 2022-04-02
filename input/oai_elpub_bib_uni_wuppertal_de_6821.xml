@@ -1,0 +1,120 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:6821</id><datestamp>2018-01-22</datestamp><setSpec>DDC:5:51:510</setSpec>
+          <dc:title xml:lang="en">Analytical and Numerical Approximative Methods for solving Multifactor Models for pricing of Financial Derivatives</dc:title>
+          <dc:creator>Bučková, Zuzana</dc:creator>
+          <dc:date>2018-01-22</dc:date>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2016/buckova</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=6821</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20170412-150623-2</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-6660/dc1641.pdf</dc:identifier>
+          <dc:description xml:lang="en">&lt;p&gt;The thesis covers different approaches used in current modern computational finance.&#13;
+Analytical and numerical approximative methods are studied and discussed. Effective&#13;
+algorithms for solving multi-factor models for pricing of financial derivatives have been&#13;
+developed.&#13;
+&lt;br&gt;&lt;br&gt;The first part of the thesis is dealing with modeling of aspects and focuses on analytical&#13;
+approximations in short rate models for bond pricing. We deal with a two-factor convergence&#13;
+model with non-constant volatility which is given by two stochastic differential&#13;
+equations (SDEs). Convergence model describes the evolution of interest rate in connection&#13;
+with the adoption of the Euro currency. From the SDE it is possible to derive the&#13;
+PDE for bond price. The solution of the PDE for bond price is known in closed form&#13;
+only in special cases, e.g. Vasicek or CIR model with zero correlation. In other cases we&#13;
+derived the approximation of the solution based on the idea of substitution of constant&#13;
+volatilities, in solution of Vasicek, by non-constant volatilities. To improve the quality&#13;
+in fitting exact yield curves by their estimates, we proposed a few changes in models.&#13;
+The first one is based on estimating the short rate from the term structures in the Vasicek&#13;
+model. We consider the short rate in the European model for unobservable variable and&#13;
+we estimate it together with other model parameters. The second way to improve a model&#13;
+is to define the European short rate as a sum of two unobservable factors. In this way, we&#13;
+obtain a three-factor convergence model. We derived the accuracy for these approximations,&#13;
+proposed calibration algorithms and we tested them on simulated and real market&#13;
+data, as well.&#13;
+&lt;br&gt;&lt;br&gt;The second part of the thesis focuses on the numerical methods. Firstly we study Fichera&#13;
+theory which describes proper treatment of defining the boundary condition. It is useful&#13;
+for partial differential equation which degenerates on the boundary. The derivation of the&#13;
+Fichera function for short rate models is presented. The core of this part is based on Alternating&#13;
+direction explicit methods (ADE) which belong to not well studied finite difference&#13;
+methods from 60s years of the 20th century. There is not a lot of literature regarding this&#13;
+topic. We provide numerical analysis, studying stability and consistency for convectiondiffusion-&#13;
+reactions equations in the one-dimensional case. We implement ADE methods&#13;
+for two-dimensional call option and three-dimensional spread option model. Extensions&#13;
+for higher dimensional Black-Scholes models are suggested. We end up this part of the&#13;
+thesis with an alternative numerical approach called Trefftz methods which belong to&#13;
+Flexible Local Approximation MEthods (FLAME). We briefly outline the usage in computational&#13;
+finance.</dc:description>
+          <dc:description xml:lang="de">&lt;p&gt;Die Doktorarbeit beinhaltet verschiedene Methoden, die in der heutigen modernen Finanzmathematik&#13;
+eingesetzt werden. Es werden analytische und numerische Approximationsmethoden&#13;
+analysiert und diskutiert, sowie effektive Algorithmen für Multifaktormodelle&#13;
+zur Bewertung von Finanzderivaten entwickelt.&#13;
+&lt;br&gt;&lt;br&gt;Der erste Teil der Doktorarbeit behandelt Modellierungsaspekte und ist auf die analytische&#13;
+Approximation von Zinssatzmodellen im Anleihenmarkt fokussiert. Wir behandeln&#13;
+ein Zweifaktorkonvergenzmodell mit nichtkonstanter Volatilität, das durch zwei&#13;
+stochastische Differentialgleichungen (SDG) gegeben ist. Das Modell beschreibt die&#13;
+Entwicklung von Zinsraten in Verbindung mit dem Eurowechselkurs. Ausgehend von&#13;
+der SDG ist es möglich eine partielle Differentialgleichung (PDG) für den Anleihekurs&#13;
+herzuleiten. Eine Angabe der Lösung der PDG ist nur in Einzelfällen in geschlossener&#13;
+Form möglich, z.B. im Vasicek or CIR Modell mit Korrelation null. In anderen Fällen&#13;
+haben wir eine Approximation an die Lösung des CIR Modells durch Ersetzen der konstanten&#13;
+Volatilität duch eine flexible Volatilität erhalten. Um eine höhere Genauigkeit bei&#13;
+der Anpassung an die reale Zinskurve zu erhalten, haben wir einige Änderungen innerhalb&#13;
+des Modells vorgeschlagen. Die erste basiert dabei auf der Schätzung des Momentanzinses&#13;
+durch die Zinsstrukturkurse innerhalb des Vasicek-Modells. Wir betrachten den&#13;
+Momentanzins im europäischen Modell für eine unbeobachtbare Variable und schätzen&#13;
+diese zusammen mit den anderen Modellparametern. Als zweite Verbesserungsmöglichkeit&#13;
+des Modells betrachten wir den europäischen Momentanzins als Summe von zwei&#13;
+unbeobachtbaren Prozessen. Auf diesem Wege erhalten wir ein Dreifaktorkonvergenzmodell.&#13;
+Wir zeigen die Genauigkeit dieser Approximationen, schlagen Kalibirierungsalgorithmen&#13;
+vor und testen die Modelle an simulierten, sowie realen Marktdaten&#13;
+&lt;br&gt;&lt;br&gt;Der zweite Teil der vorliegenden Arbeit beschäftigt sich mit numerischen Methoden.&#13;
+Zuerst erläutern wir die Fichera-Theorie, die eine systematische Untersuchung von Randbedingungen&#13;
+erlaubt. Sie ist bei partiellen Differentialgleichungen, die am Rand degenerieren,&#13;
+von großem Nutzen. Es wird die Fichera-Funktion für Zinssatzmodelle hergeleitet.&#13;
+Den Kern der Doktorarbeit bilden Alternating Direction Explicit (ADE) Verfahren, aus&#13;
+den 60er des 20. Jahrhunderts die zu den nicht ausgiebig untersuchten Verfahren zählen.&#13;
+Daher existiert heute nur sehr wenig Literatur zu diesem Thema. Wir führen eine numerische&#13;
+Analyse durch und untersuchen die Stabilitäts- und Konsistenzeigenschaften&#13;
+für Konvektions-Diffusions-Reaktions Gleichungen in einer Raumdimension. Wir implementieren&#13;
+ADE Methoden für zweidimensionale Call-Optionen und dreidimensionale&#13;
+Spreadoptionsmodelle. Zusätzlich werden Erweiterungen für das höherdimensionale&#13;
+Black-Scholes-Modell vorgeschlagen. Wir beenden diesen Abschnitt der Doktorarbeit&#13;
+mit einer alternativen numerischen Methode, der sogenannten Trefftz-Methode, die zu&#13;
+der Klasse der Flexible Local Approximation MEthods (FLAME) gehört. Wir erläutern&#13;
+kurz ihre Nutzung im Rahmen der Finanzmathematik.</dc:description>
+          <dc:description xml:lang="sk">&lt;p&gt;Práca popisuje rôzne prístupy používané v súčasnom modernom oceňovaní finančných&#13;
+derivátov. Zaoberáme sa analytickými a numerickými aproximačnými metódami. Vyvinuli&#13;
+sme efektívne algoritmy riešenia viacfaktorových modelov oceňovania finančných&#13;
+derivátov.&#13;
+&lt;br&gt;&lt;br&gt;Prvá čast’ práce sa zaoberá modelovaním rôznych aspektov a je zameraná na analytické&#13;
+aproximácie cien dlhopisov v modeloch krátkodobých úrokových mier. Zaoberáme sa&#13;
+dvojfaktorovým konvergenčným modelom s nekonštantnom volatilitou, ktorý je daný&#13;
+dvomi stochastickými diferenciálnymi rovnicami. Konvergenčný model opisuje vývoj&#13;
+úrokovej miery v súvislosti s prijatím eura. Zo stochastickej diferenciálnej rovnice je&#13;
+možné odvodit’ parciálnu diferenciálnu rovnicu pre cenu dlhopisu. Riešenie parciálnej&#13;
+diferenciálnej rovnice pre cenu dlhopisu v uzavretej forme je známe iba v špeciálnych&#13;
+prípadoch, napr. Vašíčkov model alebo CIR model s nulovou koreláciou. V ostatných&#13;
+prípadoch, sme odvodili aproximáciu riešenia založenú na myšlienke substitúcie&#13;
+konštantných volatilít, v riešení Vašíčkovho modelu, nekonštantnými volatilitami. Z&#13;
+dôvodu zlepšenia kvality zhody odhadnutých a presných výnosových kriviek sme navrhli&#13;
+niekol’ko zmien v modeloch. Prvá z nich je založená na odhade výnosových kriviek z&#13;
+časovej štruktúry úrokových mier vo Vašíčkovom modeli. Krátkodobú úrokovú mieru&#13;
+považujeme za nepozorovatel’nú premennú a odhadujeme ju spolu s ostatnými parametrami&#13;
+modelu. Druhý spôsob ako vylepšit’ model je definovanie európskej krátkodobej&#13;
+úrokovej miery ako súčtu dvoch nepozorovatel’ných faktorov. Týmto spôsobom získavame&#13;
+trojfaktorový konvergenčný model. Odvodili sme presnost’ aproximácie, navrhli sme&#13;
+postup kalibrácie a testovali sme ho na simulovaných a reálnych trhových dátach.&#13;
+&lt;br&gt;&lt;br&gt;Druhá čast’ práce sa zameriava na numerické metódy. Najskôr študujeme Ficherovu&#13;
+teóriu, ktorá popisuje správne zaobchádzanie a definovanie okrajových podmienok pre&#13;
+parciálne diferenciálne rovnice, ktoré degenerujú na hranici. V práci uvádzame odvodenie&#13;
+Ficherových podmienok pre modely krátkodobých úrokových mier. Jadrom tejto&#13;
+časti sú ADE (alternating direction explicit) metódy zo 60. rokov 20. storočia, ku ktorým&#13;
+sa nenachádza vel’a literatúry. V práci je obsiahnutá numerická analýza, štúdium stability&#13;
+a konzistencie pre konvekčno-difúzno-reakčnú rovnicu v jednorozmernom prípade.&#13;
+ADE metódy implementujeme pre dvojrozmerné call opcie a trojrozmerné spread opcie.&#13;
+Navrhujeme rozšírenia na viacrozmerné prípady Black-Scholesovho modelu. Túto čast’&#13;
+práce ukončujeme alternatívnou metódou nazývanou Trefftz, ktorá patrí medzi Flexible&#13;
+Local Approximation MEthods (FLAME).</dc:description>
+          <dc:subject>500 Naturwissenschaften und Mathematik » 510 Mathematik » 510 Mathematik</dc:subject>
+          <dc:subject>Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik » Dissertationen</dc:subject>
+          <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
+          <dc:language>eng</dc:language>
+          <dc:format>application/pdf</dc:format>
+          <dc:type>Text</dc:type>
+        </oai_dc:dc>
