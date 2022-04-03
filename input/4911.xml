@@ -1,0 +1,91 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>4911</id><datestamp>2018-01-22</datestamp><setSpec>DDC:6:60:600</setSpec>
+          <dc:title xml:lang="de">Brandschutz in Schienenfahrzeugen - Experimentelle und numerische Untersuchungen zu Reisegepäck als sekundäres Zündinitial</dc:title>
+          <dc:creator>Bulk, Julian</dc:creator>
+          <dc:date>2018-01-22</dc:date>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/sicherheitstechnik/diss2015/bulk</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=4911</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20150623-144916-1</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-4795/dd1502.pdf</dc:identifier>
+          <dc:description xml:lang="de">&lt;p&gt;Schienenfahrzeuge sind ressourcenschonende Verkehrsmittel und erfordern, vor allem aufgrund der hohen Personendichten und Fahrgeschwindigkeiten, bei der Auslegung und dem Betrieb besondere Sorgfalt.&#13;
+&lt;br&gt;&#13;
+Aus der Perspektive der Brandsicherheit bestehen die Herausforderungen insbesondere in den von Passagieren zusätzlich eingebrachten, unbekannten Brandlasten sowie den infrastrukturell bedingt erschwerten Evakuierungsmöglichkeiten. &#13;
+&lt;br&gt;Die derzeitige, europäisch harmonisierte Normung des Brandschutzes in Schienenfahrzeugen adressiert hauptsächlich das Vermeiden von Zündquellen, das Reglementieren des Brandverhaltens der Fahrzeugkomponenten sowie den Einbau feuerwiderstandsfähiger Raumabtrennungen. &#13;
+&lt;br&gt;Bei den notwendigen Material- und Produktprüfungen kommt auch teilweise ein Zündmodell zur Anwendung, das die thermische Einwirkung eines brennenden Gepäckstückes abbildet, da Reisegepäck einen erheblichen Anteil der vorhandenen Brandlast ausmachen und infolgedessen der auslösende Faktor für eine Brandausbreitung bis hin zur Durchzündung des gesamten Fahrzeuges sein kann.	&#13;
+&lt;br&gt;Gleichwohl ein Gepäckstückbrand also ein typisches Szenario zur Auslegung von Schienenfahrzeugen darstellt, existieren bisher kaum fundierte Kenntnisse darüber, welche stofflichen und energetischen Emissionen bei einem solchen Ereignis typischerweise zu erwarten sind.	&#13;
+&lt;br&gt;Darüber hinaus ist unklar, inwiefern sich die von einem brennenden Gepäckstück freigesetzten und toxischen Substanzen auf die Erträglichkeitskonditionen exponierter Personen auswirken. 	&#13;
+&lt;br&gt;Infolgedessen resultiert für diese Arbeit eine zweigliedrige Aufgabenstellung, die zum einen darin besteht, das Brandverhalten und die charakteristischen Emissionen eines typischen Gepäckstückes experimentell zu bestimmen. &#13;
+&lt;br&gt;Zum anderen sollen diese Freisetzungen in einem Schienenfahrzeug numerisch simuliert und daraufhin die Sicherheit von Passagieren und Personal mit Ingenieurmethoden beurteilt werden. &#13;
+&lt;br&gt;Aus einer theoretischen Analyse potentieller Brandentstehungsszenarien sowie der retrospektiven Betrachtung tatsächlicher Brandereignisse in Schienenfahrzeugen lässt sich folgern, dass Brandstiftung die häufigste Ursache für Brände im Fahrgastbereich darstellt und vorhandenes Reisegepäck sowohl als sekundäres Zündinitial wirken als auch eine nicht zu vernachlässigende Brandlast repräsentieren kann.&#13;
+&lt;br&gt;Daher werden brennende Reisegepäckstücke bereits in Normen und speziellen Analysen als Zündinitiale oder beispielsweise für Bemessungsbrände verwendet. &#13;
+&lt;br&gt;Allerdings fehlen Angaben zu stofflichen Freisetzungen, wie toxischen Gasen oder Rauchpartikeln.&#13;
+&lt;br&gt;&lt;br&gt;&#13;
+Für die experimentellen Untersuchungen wird eine Versuchskonfiguration entwickelt, mit der das Brandverhalten von Reisegepäck unter möglichst realitätsnahen Bedingungen charakterisiert und die benötigten Brandkenngrößen erfasst werden können. &#13;
+&lt;br&gt;Vorversuche, in denen fünf identische Gepäckstücke verschiedenen Zündinitialen und -konfigurationen ausgesetzt werden, führen zu dem Ergebnis, dass sich ein genormter Gasbrenner, der die Wärmeeinwirkung einer brennenden, zerknüllten Zeitung simuliert, am besten als Zündinitial für die Hauptversuche eignet. &#13;
+&lt;br&gt;Für diese Hauptversuche werden acht Reisegepäckstücke identifiziert, hinsichtlich ihrer Beschaffenheit und Komposition typisiert und nachfolgend brandtechnologisch untersucht.	&#13;
+&lt;br&gt;Anhand der Messdaten ist es nun möglich, ein Modell zu entwickeln, welches das Brandverhalten eines typischen Reisegepäckstückes vollständig beschreibt.&#13;
+Dieser Gepäckstück-Bemessungsbrand ist funktional dargestellt als eine quadratisch ansteigende Entwicklungsphase, eine Vollbrand- und eine Abklingphase.&#13;
+&lt;br&gt;Neben der zeitabhängigen Wärmefreisetzung werden Funktionen für die Emission toxischer Leitgase und sichttrübender Rauchpartikel abgeleitet.&#13;
+&lt;br&gt;&lt;br&gt;&#13;
+Zunächst erfolgt die numerische Umsetzung des Gepäckstück-Bemessungsbrandes zusammen mit der verwendeten Experimentalkonfiguration.&#13;
+&lt;br&gt;Die Gegenüberstellung von Rechenergebnissen und Messdaten bestätigt, dass sich die energetischen und stofflichen Brandemissionen eines Gepäckstückes mit dem Fire Dynamics Simulator zuverlässig abbilden lassen.&#13;
+&lt;br&gt;Daraufhin fungiert der Gepäckstück-Bemessungsbrand als Initialbrand und wird in die Geometrie eines Doppelstockwagens implementiert.&#13;
+&lt;br&gt;Eine Serie von 37 Simulationen befasst sich mit 24 unterschiedlichen Brandszenarien. &#13;
+&lt;br&gt;In diesen werden ausgewählte Parameter, wie der Standort des Initialbrandes, die Ventilationskonditionen sowie die brandtechnologischen Materialkennwerte und die zugehörigen Pyrolysemodelle der Fahrzeugkomponenten variiert.&#13;
+&lt;br&gt;Darüber hinaus werden geometrische Diskretisierungen und Berechnungsmodi untersucht, um die Simulationsrechnungen möglichst effizient zu gestalten.&#13;
+&lt;br&gt;Die Personensicherheit lässt sich anhand der Simulationsergebnisse beurteilen, indem sowohl die thermischen Einwirkungen als auch die Exposition gegenüber toxischen Gasen quantifiziert werden.&#13;
+&lt;br&gt;Letztere stehen in direkter Korrelation zur Rauchverteilung in den Wagenbereichen und hängen maßgeblich von der Position des Initialbrandes innerhalb des Fahrzeuges ab.&#13;
+&lt;br&gt;Die Ergebnisse der Berechnungen belegen ferner, dass&#13;
+- es nicht möglich ist, die Beurteilung der Personensicherheit auf ein einzelnes Erträglichkeitskriterium zu reduzieren, das die anderen mit abdeckt,&#13;
+- nur die Freisetzungen eines einzelnen, brennenden Gepäckstückes zu einer Überschreitung der Erträglichkeitskriterien führen können, &#13;
+- mitbrennende Fahrzeugkomponenten zu kritischeren Zuständen führen, &#13;
+- mitbrennende Fahrzeugkomponenten in den meisten Fällen von selbst verlöschen und&#13;
+- bei speziellen geometrischen Konfigurationen allerdings auch eine rasche Brandausbreitung (Flashover) möglich ist. &#13;
+&lt;br&gt;&lt;br&gt;			&#13;
+Diese Untersuchung führt zu der Erkenntnis, dass der gegenwärtig präskriptiv geforderte Brandschutz in Schienenfahrzeugen die Auswirkungen eines Gepäckstückbrandes auf die Personensicherheit bei infrastrukturell bedingter Evakuierungsverzögerung nicht ausreichend berücksichtigt. 		&#13;
+&lt;br&gt;Um die Sicherheit zu verbessern, werden Maßnahmen entwickelt und deren technische Realisierbarkeit sowohl hinsichtlich des Systems &gt;&gt;Fahrzeug&lt;&lt; als auch der umgebenden Infrastruktur diskutiert.</dc:description>
+          <dc:description xml:lang="en">&lt;p&gt;Rail vehicles represent resource saving means of transportation which require special diligence in designing and operating primarily due to the high passenger densities and driving speeds.&#13;
+&lt;br&gt;From a fire safety perspective the challenges consist in the unknown additional fire load brought on board by passengers as well as the rail infrastructure limiting evacuation feasibilities. &#13;
+&lt;br&gt;The current European harmonised fire safety standardisation for passenger trains focuses mainly on preventing ignition sources, regulating the vehicle component's fire behaviour as well as separating spaces with fire resistant barriers.    &#13;
+&lt;br&gt;Within the mandatory material and product testing an ignition model is partially used to reproduce the thermal impact of a burning piece of luggage.&#13;
+&lt;br&gt;Since luggage accounts for a significant proportion of the total fire load inside a rail vehicle, and therefore, can be the crucial factor for a fire spread which may result in a flashover. &#13;
+&lt;br&gt;Although burning luggage represents a typical design scenario for passenger trains, profound knowledge of the energetic and especially material emissions to be typically expected with such an incident is rarely available.&#13;
+&lt;br&gt;Moreover, it is unknown to which extent the toxic substances emitted from a burning piece of luggage affect the tenability conditions of exposed occupants. &#13;
+&lt;br&gt;Thus, a bipartite task definition emerges for this research:&#13;
+&lt;br&gt;On the one hand the fire behaviour of a typical piece of luggage together with its characteristic emissions has to be experimentally determined.&#13;
+&lt;br&gt;On the other hand these emissions inside a passenger rail coach have to be numerically simulated, and thereupon, the safety of passengers and staff has to be assessed with engineering methods.&#13;
+&lt;br&gt;A theoretical analysis of potential fire initiation scenarios as well as a retrospective examination of real fire incidents in rail vehicles prove that arson is the most common cause of fires in passenger areas.&#13;
+&lt;br&gt;Furthermore, luggage may serve as a secondary ignition source as well as represents a non-negligible fire load.			&#13;
+&lt;br&gt;Hence, burning luggage pieces are used as ignition models or for design fires in standards and specific researches.&#13;
+&lt;br&gt;However, information regarding material emissions, as toxic gases or smoke particles, is missing.&#13;
+&lt;br&gt;&lt;br&gt;		&#13;
+For the experimental investigations a test configuration is developed to characterise the luggage's fire behaviour under conditions as close to reality as possible and to collect the required fire parameters.&#13;
+&lt;br&gt;In preliminary tests selected ignition sources and configurations are applied to five identical pieces of luggage leading to the result that a standardised gas burner simulating the thermal impact of a crumpled newspaper is most suitable for the subsequent main tests.&#13;
+&lt;br&gt;For these main tests eight pieces of luggage are identified and typified with respect to their nature and composition to analyse their fire performance. &#13;
+&lt;br&gt;The test results now enable to develop a model entirely describing the luggage's fire behaviour.	&#13;
+&lt;br&gt;This luggage design fire is represented in functional terms as a time-squared developing phase, a fully developed phase and a decaying phase.&#13;
+&lt;br&gt;Besides the time-dependent heat release further functions for the emissions of both toxic gases and visibility impairing smoke particles are derived.	&#13;
+&lt;br&gt;&lt;br&gt;&#13;
+The new luggage design fire is transferred to a numerical environment together with the experimental test configuration. &#13;
+&lt;br&gt;The comparison of the computed values to the test data indicates that the Fire Dynamics Simulator is able to reliably reproduce the energetic and material fire emissions of a luggage piece.&#13;
+&lt;br&gt;Accordingly, the luggage design fire serves as an initial fire and is implemented into the geometry of a passenger rail coach.&#13;
+&lt;br&gt;A series of 37 simulations concentrates on 24 different fire scenarios.&#13;
+&lt;br&gt;Therein, selected parameters are varied, such as the location of the initial fire, the ventilation conditions as well as the fire parameters and the corresponding pyrolysis models of the vehicle's interior materials.&#13;
+&lt;br&gt;Beyond that, numerical grid resolutions and computing modes are examined to achieve efficient simulation performances.&#13;
+&lt;br&gt;The simulation results allow to assess personal safety on board by quantifying the thermal impact as well as the exposure towards toxic gases.&#13;
+&lt;br&gt;The latter directly correlate to the smoke dispersal and are significantly influenced by the location of the initial fire inside the coach.&#13;
+&lt;br&gt;Furthermore, the simulation results prove that&#13;
+- assessing personal safety cannot be reduced to a single tenability criterion covering the others&#13;
+- the emissions of solely one burning piece of luggage can lead to an exceedance of the tenability limits&#13;
+- the vehicle's interior materials contributing to the fire lead to more critical conditions&#13;
+- the combustible vehicle's interior materials appear self-extinguishing in most cases but&#13;
+- specific geometrical configurations may result in a rapid fire spread (flashover).&#13;
+&lt;br&gt;&lt;br&gt;&#13;
+The findings of this research point out that the current prescriptive fire safety requirements for rail vehicles do not sufficiently cover the effect of burning luggage on personal safety in case of the rail infrastructure delays evacuation. &#13;
+&lt;br&gt;To enhance safety, measures are developed and discussed with regard to their technical realisability for the system &gt;&gt;vehicle&lt;&lt; as well as for the surrounding infrastructure.</dc:description>
+          <dc:subject>600 Technik, Medizin, angewandte Wissenschaften » 600 Technik » 600 Technik, Technologie</dc:subject>
+          <dc:subject>Fakultät für Maschinenbau und Sicherheitstechnik » Sicherheitstechnik » Dissertationen</dc:subject>
+          <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
+          <dc:language>deu</dc:language>
+          <dc:format>application/pdf</dc:format>
+          <dc:type>Text</dc:type>
+        </oai_dc:dc>

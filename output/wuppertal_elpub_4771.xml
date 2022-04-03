@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_4771">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Energy and Material Efficiency Improvements, Compliance Strategies, and Investments in Resource Efficiency: A Cross-Country Study</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dienes, Christian</displayForm>
+                        <namePart type="family">Dienes</namePart>
+                        <namePart type="given">Christian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-05-06</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This paper empirically studies the relationship between different compliance strategies concerning environmental legislation and intentions of entrepreneurs to increase their firms’ material and energy efficiency in the next two years. Moreover, I examine the relationship between such intentions and the extent to which entrepreneurs are satisfied with past investments in resource efficiency improvements. Using data covering small and medium-sized enterprises from 36 countries from 2013, this study also explores the institutional framework regarding the stringency and enforcement of national environmental regulations. The results based on the total sample indicate that entrepreneurs who are more satisfied with past resource efficiency investments and who follow a strategy which goes beyond compliance are more likely to intend material and energy efficiency improvements in the future. The results further suggest that entrepreneurs translate their pro-environmental attitudes into intentions to reduce their demand for energy but not their demand for materials. Furthermore, the results based on subgroup analyses also point to decreasing marginal productivities of resource efficiency investments.</abstract>
+                    <abstract type="content" lang="ger">Dateigröße: 707 KB</abstract>
+                    <subject>
+                        <topic>energy and material efficiency improvements</topic>
+                        <topic>return on investment</topic>
+                        <topic>compliance strategy</topic>
+                        <topic>environmental regulation</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20150506-111215-1</identifier>
+                    <identifier type="sys">HT018633534</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_4771</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_4771">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp15/sdp15004.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_4771"
+            DMDID="DMD_wuppertal_elpub_4771">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_4771"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

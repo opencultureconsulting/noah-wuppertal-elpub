@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3882">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Making dough or baking dough? Spousal housework responsibilities in Germany, 1992-2011</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Procher, Vivien␞Ritter, Nolan␞Vance, Colin</displayForm>
+                        <namePart type="family">Procher</namePart>
+                        <namePart type="given">Vivien␞Ritter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-02-19</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Drawing on German household data from 1992 to 2011, this paper analyzes how couples allocate housework against the backdrop of three questions: (1) Does an individual’s contribution to household income - both in absolute and relative terms - influence his or her contribution to housework? (2) If so, does the magnitude of this influence differ by gender? and (3) How important are traditional gender roles on housework allocation? We address these issues by applying a panel quantile regression model and find that as both the share and absolute level of income increase, the amount of housework undertaken decreases, with the latter effect being roughly equal across genders. Nevertheless, traditional gender roles also appear to dictate housework allocation, which is evidenced by women increasing their housework if they earn more than their partner.</abstract>
+                    <abstract type="content" lang="ger">JEL-Classification : D13, J16, J22 
+
+Dateigröße : 729 KB</abstract>
+                    <subject>
+                        <topic>housework</topic>
+                        <topic>income</topic>
+                        <topic>gender</topic>
+                        <topic>longitudinal study</topic>
+                        <topic>quantile panel regression</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20140219-100036-8</identifier>
+                    <identifier type="sys">HT018175794</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3882</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3882">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp14/sdp14004.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3882"
+            DMDID="DMD_wuppertal_elpub_3882">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3882"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

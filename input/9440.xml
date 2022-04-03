@@ -1,0 +1,116 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>9440</id><datestamp>2019-06-12</datestamp><setSpec>DDC:6:62:620</setSpec>
+          <dc:title xml:lang="en">Modelling the Material Behaviour of Concrete with Polypropylene Fibres under Tunnel Fire and its Influence on the Structural Analysis</dc:title>
+          <dc:creator>Pouran, Omid</dc:creator>
+          <dc:date>2019-06-12</dc:date>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/bauingenieurwesen/diss2019/pouran</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=9440</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20190612-103823-6</dc:identifier>
+          <dc:identifier>https://doi.org/10.25926/1x4b-6253</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-8808/dd1904.pdf</dc:identifier>
+          <dc:description xml:lang="en">Behaviour of cut-and-cover tunnels exposed to fire can be analysed based on advanced calculation method&#13;
+according to EN1992-1-2 by using a realistic structural model that takes account of mechanical and&#13;
+thermally-induced-indirect effects acting on the structure simultaneously. In addition, EN 1992-1-2&#13;
+proposes an implicit constitutive stress-strain model for concrete at elevated temperatures. This model is&#13;
+recommended to be used for the concrete structures under standard fire for the heating rates between 2 and&#13;
+50 K/min. It is based on the mechanical and thermal strains evaluated from small-scale concrete specimens&#13;
+under low heating rates using steady-state and transient tests. The EN 1992-1-2’s material model is&#13;
+implemented in different structural finite element software packages and used to perform nonlinear&#13;
+(physical) structural analysis for various structures exposed to fire.&#13;
+&#13;
+&lt;p&gt;Considering the cut-and-cover tunnels, in Germany, ZTV-ING fire exposure curve is adopted which has a&#13;
+much higher temperature-increase rate compared to standard fire curve in fire growth stage and reaches the&#13;
+maximum value of 1200°C in only five minutes. In addition, to decrease the risk of spalling,&#13;
+&lt;p&gt;Polypropylene-fibres (PP-fibres) are often added to the concrete mixtures for cut-and-cover tunnels. These&#13;
+may result in different global structural responses in the event of tunnel fire.&#13;
+&#13;
+&lt;p&gt;In this work, different aspects of fire design (advanced calculation method) of cut-and-cover tunnels&#13;
+exposed to fire are investigated.&lt;br&gt;&#13;
+A formula is proposed to evaluate temperatures in different layers of lining of a cut-and-cover tunnel’s&#13;
+cross-section for the affected region as a function of fire exposure curve, width normal to the heat transfer&#13;
+direction and thickness of cross-section. This can be implemented to evaluate temperature without&#13;
+performing thermal analysis and to calculate temperatures in the position of reinforcement for the practical&#13;
+use.&#13;
+&#13;
+&lt;p&gt;Stress analyses for a cylinder specimen under different heating rates carried out in FE software package&#13;
+SOFiSTiK using a volume model and a plate-layered model. This is performed to investigate the so-called&#13;
+structural effects that might arise in a cylinder specimen under low compressive load and high heating rate&#13;
+in transient tests.&#13;
+&#13;
+&lt;p&gt;To investigate, the influence of addition of PP-fibres in the concrete mixture on the thermo-mechanical&#13;
+behaviour of concrete, 214 cylinder specimens were tested using steady-state and transient tests. Two mixes&#13;
+used having 0 and 2 kg/m3 PP-fibres while the other constituents being identical. The hardened concrete&#13;
+should meet the requirements of 1 to 2-year-old concrete in the practice. Comparisons are made in terms of&#13;
+thermo-mechanical behaviour of these two at elevated temperatures for the purified strain results based on&#13;
+three proposed calibration methods.&#13;
+&#13;
+&lt;p&gt;Based on the test results of cylinders, an implicit constitutive material model is proposed for concrete having&#13;
+PP-fibres in its mixture, which is a modified form of EN 1992-1-2’s material model.&#13;
+&#13;
+&lt;p&gt;Further, nonlinear (physical) thermo-mechanical analyses of cut-and-cover tunnel structure exposed to&#13;
+ZTV-ING fire exposure performed in SOFiSTiK. Comments are made on the extent to which the bending&#13;
+structural response of the lining of cut-and-</dc:description>
+          <dc:description xml:lang="de">&lt;p&gt;Das Verhalten von Tunneln offener Bauweise, die einem Brand ausgesetzt sind, kann auf Grundlage der&#13;
+allgemeinen Rechenverfahren nach der EN1992-1-2 unter Verwendung eines realistischen&#13;
+Tragwerksmodells analysiert werden. Dieses Modell berücksichtigt mechanische und thermisch-induzierte,&#13;
+indirekte Effekte, die gleichzeitig auf die Tragstruktur wirken. Darüber hinaus verweist die EN 1992-1-2&#13;
+auf ein implizites konstitutives Spannungs-Dehnungsmodell für Beton bei erhöhten Temperaturen. Dieses&#13;
+Modell wird für die Betonkonstruktionen unter der Einheits-Temperaturzeitkurve für die Heizraten&#13;
+zwischen 2 und 50 K/min empfohlen. Es basiert auf den mechanischen und thermischen Dehnungen, die&#13;
+aus kleinen Betonproben bei niedrigen Erwärmungsraten mit stationären und instationären Versuchen&#13;
+ermittelt wurden. Das Materialmodell der EN 1992-1-2 ist in verschiedenen strukturellen&#13;
+Finite-Elemente-Softwarepaketen implementiert und dient zur Durchführung nichtlinearer (physikalischer)&#13;
+Strukturanalysen für verschiedene brandgefährdete Bauwerke.&#13;
+&#13;
+&lt;p&gt;Für Tunnel mit offener Bauweise wird in Deutschland die ZTV-ING-Brandbelastungskurve für den&#13;
+Brandfall angenommen. Diese Kurve nach der ZTV-ING weist eine wesentlich höhere&#13;
+Temperaturanstiegsrate auf als die Einheits-Temperaturzeitkurve und erreicht die Maximaltemperatur im&#13;
+Brandfall von 1200°C bereits binnen fünf Minuten. Um die Gefahr von Abplatzungen während des Brandes&#13;
+zu verringern, werden den Betonmischungen für Tunnel in offener Bauweise häufig Polypropylenfasern&#13;
+(PP-Fasern) zugesetzt. Diese können im Falle eines Tunnelbrandes zu unterschiedlichen globalen&#13;
+Reaktionen der Tragstruktur führen.&#13;
+&#13;
+&lt;p&gt;In dieser Arbeit werden verschiedene Aspekte der Heißbemessung (allgemeine Rechenverfahren) von&#13;
+Tunneln in offener Bauweise, die einem Brand ausgesetzt sind, untersucht.&#13;
+&#13;
+&lt;p&gt;Es wird im Zuge dieser Arbeit eine Formel entwickelt, um die Temperaturen in den verschiedenen Schichten&#13;
+innerhalb des brandbeanspruchten Querschnitts eines Tunnels in offener Bauweise zu bewerten. Die&#13;
+Temperaturen innerhalb des beeinflussten Bereichs lassen sich in Abhängigkeit von der&#13;
+Brandexpositionskurve, der Breite senkrecht zur Wärmeübertragungsrichtung und der Dicke des&#13;
+Querschnitts ermitteln. Dies kann angewandt werden, um die auftretenden Temperaturen in der&#13;
+Bewehrungslage für den praktischen Einsatz zu berechnen, ohne detaillierte thermische Analysen&#13;
+durchführen zu müssen.&#13;
+&#13;
+&lt;p&gt;Es werden Spannungsanalysen für eine Zylinderprobe unter verschiedenen Aufheizraten durchgeführt, die&#13;
+im FE-Softwarepaket SOFiSTiK unter Verwendung eines Volumenmodells und eines&#13;
+Plattenschichtmodells simuliert werden. Damit werden die sogenannten strukturellen Effekte untersucht,&#13;
+die bei einer Zylinderprobe unter geringer Druckbelastung und hoher Aufheizrate unter instationären&#13;
+Temperaturbedingungen auftreten können.&#13;
+&#13;
+&lt;p&gt;Um den Einfluss der zugegebenen PP-Fasern in der Betonmischung hinsichtlich des thermomechanischen&#13;
+Verhaltens des Betons zu untersuchen, wurden 214 Zylinderproben unter stationären und instationären&#13;
+Temperaturbedingungen untersucht.&#13;
+&#13;
+&lt;p&gt;Es werden zwei unterschiedliche Betonrezepturen erstellt. Eine Rezeptur enthält keine PP-Fasern, während&#13;
+der zweiten Rezeptur 2 kg/m³ PP-Fasern hinzugefügt werden. Alle weiteren Bestandteile der beiden&#13;
+Rezepturen sind identisch. Die Eigenschaften des Festbetons erfüllen dabei die Anforderungen an einen ein&#13;
+bis zwei Jahre alten Beton in der Baupraxis. Die Probekörper der beiden Rezepturen werden in Bezug auf&#13;
+ihr thermomechanisches Verhalten bei erhöhten Temperaturen miteinander verglichen. Die Bereinigung der&#13;
+Dehnungsergebnisse erfolgt auf der Grundlage von drei entwickelten Kalibriermethoden.&#13;
+Zusammenfassung&#13;
+XIII&#13;
+&#13;
+&lt;p&gt;Basierend auf den Testergebnissen der untersuchten Zylinder wird ein implizites konstitutives&#13;
+Materialmodell für Beton mit PP-Fasern erarbeitet, welches eine modifizierte Form des Materialmodells&#13;
+der EN 1992-1-2 darstellt.&#13;
+&#13;
+&lt;p&gt;Darüber hinaus wurden in SOFiSTiK physikalische nichtlineare thermomechanische Analysen von&#13;
+Tunnelbauwerken, die einer Brandeinwirkung der ZTV-ING ausgesetzt sind, durchgeführt. Es wird&#13;
+untersucht, inwieweit die Beanspruchungen auf Tunnelbauwerke in offener Bauweise durch Veränderungen&#13;
+im konstitutiven Materialmodell bei erhöhten Temperaturen beeinflusst werden können.</dc:description>
+          <dc:subject>600 Technik, Medizin, angewandte Wissenschaften » 620 Ingenieurwissenschaften » 620 Ingenieurwissenschaften und zugeordnete Tätigkeiten</dc:subject>
+          <dc:subject>Fakultät für Architektur und Bauingenieurwesen » Bauingenieurwesen</dc:subject>
+          <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
+          <dc:language>eng</dc:language>
+          <dc:format>application/pdf</dc:format>
+          <dc:type>Text</dc:type>
+        </oai_dc:dc>

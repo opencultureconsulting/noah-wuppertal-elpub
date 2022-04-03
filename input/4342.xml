@@ -1,0 +1,20 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>4342</id><datestamp>2014-11-11</datestamp><setSpec>DDC:3:33:330</setSpec>
+          <dc:title xml:lang="en">LinRegInteractive: An R Package for the Interactive Interpretation of Linear Regression Models</dc:title>
+          <dc:creator>Meermeyer, Martin</dc:creator>
+          <dc:date>2014-11-11</dc:date>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=4342</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20141111-152710-9</dc:identifier>
+          <dc:description xml:lang="en">&lt;p&gt;The package provides the generic function fxInteractive() to facilitate the interpretation of various kinds of regression models. It allows to observe the effects of variations of metric covariates in an interactive manner by means of termplots for different model classes. Currently linear regression models, generalized linear models, generalized additive models and linear mixed-effects models are supported. Due to the interactive approach the function provides an intuitive understanding of the mechanics of a particular model and is therefore especially useful for educational purposes. Technically the package is based on the package rpanel and the only mandatory argument for the main function is an appropriate fitted-model object. Given this, the linear predictors, the marginal effects and, for generalized linear models, the responses are calculated automatically. For the marginal effects a numerical approach is used to handle non-constant marginal effects automatically. If there are two or more categorical covariates the corresponding effects are presented in a novel way. For publication purposes the user can customize the appearance of the termplots to a large extent. Tables of the effects and marginal effects can be printed to the R Console, optionally as copy-and-paste-ready LaTeX-code.</dc:description>
+          <dc:description xml:lang="de">JEL Classification : A200, C140, C870&#13;
+&lt;br&gt;&lt;br&gt;&#13;
+Dateigröße: 1,03 MB</dc:description>
+          <dc:source xml:lang="de">Schumpeter Discussion Papers SDP14014 ISSN 1867-5352 Published : November 2014</dc:source>
+          <dc:subject>termplots</dc:subject>
+          <dc:subject>marginal effects</dc:subject>
+          <dc:subject>visualization</dc:subject>
+          <dc:subject>300 Sozialwissenschaften » 330 Wirtschaft » 330 Wirtschaft</dc:subject>
+          <dc:subject>Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics » Schumpeter Discussion Papers (SDP)</dc:subject>
+          <dc:type>Wissenschaftliche Texte » Book</dc:type>
+          <dc:language>eng</dc:language>
+          <dc:type>Text</dc:type>
+        </oai_dc:dc>

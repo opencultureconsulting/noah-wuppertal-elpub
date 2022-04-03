@@ -1,0 +1,54 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>978</id><datestamp>2018-01-22</datestamp><setSpec>DDC:6:60:600</setSpec>
+          <dc:title xml:lang="de">Antriebssystem für höchste Geschwindigkeiten</dc:title>
+          <dc:creator>Thur, Joachim</dc:creator>
+          <dc:date>2006-08-23</dc:date>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2006/thur</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=978</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20060420</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1084/de0601.pdf</dc:identifier>
+          <dc:description xml:lang="de">In der vorliegenden Arbeit wird ein Antriebssystem mit drehgeberloser feldorientierter Regelung&#13;
+vorgestellt, mit dem eine permanenterregte Synchronmaschine bei Drehzahlen von über 600.000 Umin&lt;sup&gt;-1 &lt;/sup&gt;&#13;
+betrieben werden kann. Auf den Einsatz eines Signalrechners im Regelungszweig wird vollständig&#13;
+verzichtet. Das Antriebskonzept ist speziell für den Einsatz in Hochgeschwindigkeitsbohrstationen&#13;
+der Leiterplattenfertigung gedacht.&#13;
+&lt;p&gt;Aufgrund der fehlenden Rechenleistung können feldorientierte&#13;
+Regelstrategien, die auf Rotorkoordinaten basieren, nicht verwendet werden. Die feldorientierte&#13;
+Regelung ist daher in Ständerkoordinaten ausgeführt. Der Ständerfluss wird nicht als&#13;
+kontinuierliches Signal ausgewertet, sondern nur in seinem Vorzeichen betrachtet. Zur&#13;
+Flusserfassung wurden besondere Strategien entwickelt. Die Vorzeichen enthalten die Information&#13;
+über die absolute Lage des Rotors und seine Drehgeschwindigkeit. Die regelungstechnische&#13;
+Rekonstruktion dieser Informationen aus den Vorzeichen geschieht mittels eines adaptiven digitalen&#13;
+Phasenregelkreises. Für die Drehzahlregelung wurde ein Mehrkanalregler entworfen.&#13;
+&lt;p&gt;Es wird ein sehr spezielles Antriebssystem mit kleiner Leistung und hoher&#13;
+Grundschwingungsfrequenz betrachtet. Daher wurde die Leistungsendstufe sowohl mittels der in der&#13;
+Antriebstechnik üblichen Pulswechselrichtertechnik als auch mit einem linearen Verstärker realisiert.&#13;
+Beide Varianten wurden vergleichend untersucht.&#13;
+&lt;p&gt;Es entstand ein funktionsfähiger&#13;
+Hochgeschwindigkeitsantrieb, der an verschiedenen Maschinentypen mit Drehzahlen bis 300.000 Umin&lt;sup&gt;-1 &lt;/sup&gt;&#13;
+erfolgreich getestet wurde. Derart hohe Drehzahlen konnten mit bestehenden Antriebslösungen bisher&#13;
+nicht erreicht werden.</dc:description>
+          <dc:description xml:lang="en">This work presents a novel field oriented high-speed drive system without the need of a speed sensor.&#13;
+It is designed for PM-Synchronous machines capable of speeds up to 600000 rpm and beyond. The&#13;
+control system is designed to work without the need of any signal processor. Thus the architecture&#13;
+is very special, it is designed and optimized for the use in high-speed PCB-Drilling stations.&#13;
+&lt;p&gt;Due to the leak of computing power it is impossible to use field oriented control strategies in&#13;
+rotor coordinates. Hence, the control system operates in stator coordinates. To achieve field&#13;
+orientation, the signs of the stator flux signals are detected and processed. To achieve best&#13;
+performance a special strategy for enhanced signal detection was developed. Processing the sign&#13;
+signals with an adaptive phase-locked loop, the information of rotor position and speed can be&#13;
+reconstructed to provide field orientation. For enhanced speed control a multi-channel speed&#13;
+controller is implemented.&#13;
+&lt;p&gt;Concerning the small power range of the drive system and the very high fundamental frequency of&#13;
+the machine, the power stage was designed using both methods, PWM-Technique and Analogue-Technique.&#13;
+Both were well investigated to find the optimum solution for the given power and frequency range.&#13;
+&lt;p&gt;Throughout the entire term of the project a complete drive system was developed,&#13;
+build up and tested. Several different machines with speeds up to 300000 rpm were successfully&#13;
+operated. The realized speed range for the target application is not covered by the drive systems&#13;
+available today.</dc:description>
+          <dc:subject>600 Technik, Medizin, angewandte Wissenschaften » 600 Technik » 600 Technik, Technologie</dc:subject>
+          <dc:subject>Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik » Dissertationen</dc:subject>
+          <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
+          <dc:language>deu</dc:language>
+          <dc:format>application/pdf</dc:format>
+          <dc:type>Text</dc:type>
+        </oai_dc:dc>

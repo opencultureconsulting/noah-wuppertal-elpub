@@ -1,0 +1,66 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>5780</id><datestamp>2018-01-22</datestamp><setSpec>DDC:5:51:510</setSpec>
+          <dc:title xml:lang="en">Copulas in Equity and Credit Risk - Default-Dependent Intensity Models and Information-Based Setup</dc:title>
+          <dc:creator>Deuss, Patrick</dc:creator>
+          <dc:date>2018-01-22</dc:date>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2015/deuss</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=5780</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20160506-115019-2</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-5561/dc1537.pdf</dc:identifier>
+          <dc:description xml:lang="en">&lt;p&gt;Terms, deffinitions and types of risks to which financial institutions are exposed are manifold. They&#13;
+are commonly differentiated by their source or their scope of application. Risk management and&#13;
+controlling departments mainly&lt;sup&gt;1&lt;/sup&gt; distinguish between&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;market risk - e.g., equity or interest rate risk,&lt;/li&gt;&#13;
+&lt;li&gt;credit risk - e.g., default risk, and&lt;/li&gt;&#13;
+&lt;li&gt;operational risk - e.g., individual mistakes of employees.&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;p&gt;Identification of risk is sophisticated on account of the great variety of possible influencing factors.&#13;
+Due to the inherent uncertainty, risk is generally measured through probabilities. Thus, mathematical&#13;
+tools and schemes are frequently used for estimation and evaluation. Besides the resulting&#13;
+complexity, these models must be developed, calibrated to data and numerically implemented. For&#13;
+this process, conflicting standards and demands concerning&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt; internal and strategic objectives as well as&lt;/li&gt;&#13;
+&lt;li&gt;regulatory requirements&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;p&gt;must be considered. Risk aggregation and measuring dependencies between risk factors are additional&#13;
+issues.&#13;
+In practice, these challenges are generally tackled by standard or simplified approaches. They are&#13;
+less complex, their handling is &#13;
+exible and numerical implementation is fast. Therefore, their known&#13;
+drawbacks (e.g., under- and overestimation of risk) are accepted. In academia, many advanced&#13;
+models have been developed to eliminate these failures. As consequence, practical implementation&#13;
+is difficult and expensive.&#13;
+In this thesis, we focus on modeling dependency structures by means of copulas&lt;sup&gt;2&lt;/sup&gt;. Compared to&#13;
+standard frameworks, the copula approach is more elaborate but still provides a feasible implementation.&#13;
+In a mathematical nutshell, the concept states that a multivariate distribution can be split into its&#13;
+one-dimensional marginal distributions and a coupling function denoted as copula. Transferred to&#13;
+an economic point of view, a multidimensional problem of risk aggregation can be separated into&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;its single risk factors and&lt;/li&gt;&#13;
+&lt;li&gt;its dependency structure - i.e., its copula.&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+The main advantage of this idea is that single risk factors are often easily measurable. Though,&#13;
+identification of dependencies is challenging. Copulas offer a large variety of dependency structures&#13;
+and hence a higher degree of freedom compared to standard approaches (multivariate normal&#13;
+distributions as a rule). However, the selection of the "right" copula is of central significance. In&#13;
+practice, copulas already cover various scopes of applications.&#13;
+The first part of this thesis introduces to the mathematical background of copulas. As application,&#13;
+the value at risk of a stock portfolio is measured by the copula approach. Outcomes are compared&#13;
+to a standard multivariate normal benchmark.&#13;
+The second part provides an introduction to credit risk and a detailed description of so-called&#13;
+intensity-based models. In this framework, we develop a new specification for modeling a copula and&#13;
+default-dependent intensity. As conclusion, model construction and implementation are critically&#13;
+assessed.&#13;
+&lt;br&gt;&lt;br&gt;&#13;
+&lt;p&gt;----------------------------------------------------------------------------&#13;
+&lt;br&gt;&lt;sup&gt;1&lt;/sup&gt;Further kinds (systemic, liquidity or model risk, for instance) exist and have ambiguous assignments to different&#13;
+areas.&#13;
+&lt;br&gt;&lt;sup&gt;2&lt;/sup&gt;In literature, we casually find the plural form copulae.</dc:description>
+          <dc:subject>500 Naturwissenschaften und Mathematik » 510 Mathematik » 510 Mathematik</dc:subject>
+          <dc:subject>Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik » Dissertationen</dc:subject>
+          <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
+          <dc:language>eng</dc:language>
+          <dc:format>application/pdf</dc:format>
+          <dc:type>Text</dc:type>
+        </oai_dc:dc>

@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_4170">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Extracurricular educational programs and school readiness: evidence from a quasi-experiment with preschool children</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Makles, Anna␞Schneider, Kerstin</displayForm>
+                        <namePart type="family">Makles</namePart>
+                        <namePart type="given">Anna␞Schneider</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-09-05</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This paper adds to the literature on extracurricular early childhood education and child development by exploiting unique data on an educational project in Germany, the Junior University (JU). Utilizing a quasi-experimental study design, we estimate the causal short-term effect of JU enrollment on cognitive outcomes and show that attending extra science courses with preschool classes leads to significantly higher school readiness. Although the size of the effect is relatively small, the results are plausible and pass various robustness checks. Moreover, in comparison with other programs this intervention is cost-effective.</abstract>
+                    <abstract type="content" lang="ger">JEL Classification : I20, I21, I28, J13 
+
+Dateigröße: 865 KB</abstract>
+                    <subject>
+                        <topic>early childhood education</topic>
+                        <topic>early interventions</topic>
+                        <topic>school readiness</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20140905-103654-8</identifier>
+                    <identifier type="sys">HT018381509</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_4170</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_4170">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp14/sdp14012.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_4170"
+            DMDID="DMD_wuppertal_elpub_4170">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_4170"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

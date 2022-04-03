@@ -1,0 +1,24 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>7070</id><datestamp>2018-01-22</datestamp><setSpec>DDC:5:53:530</setSpec>
+          <dc:title xml:lang="en">A popularity prediction and dynamic data replication study for the ATLAS distributed data management</dc:title>
+          <dc:creator>Beermann, Thomas</dc:creator>
+          <dc:contributor>Mättig, Peter</dc:contributor>
+          <dc:contributor>Elsing, Markus</dc:contributor>
+          <dc:date>2018-01-22</dc:date>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2017/beermann</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=7070</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20170707-130937-5</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-6868/dc1714.pdf</dc:identifier>
+          <dc:description xml:lang="en">&lt;p&gt;ATLAS (A Toroidal LHC Apparatus) is one of several experiments of at the Large Hadron Collider (LHC) at CERN in Geneva, Switzerland. The LHC is the largest and most powerful particle accelerator in the world, which is able to operate at unprecedented energy levels. Because of this, ATLAS is able to observe physical phenomena and massive particles that were not observable before.&#13;
+The detectors at the LHC itself create vast amount of data that need to be accessible to physicists for their analysis. For this reason a worldwide computing grid (WLCG) was created that connects hundreds of computing centres across the planet. The experiments constantly create new data but older data has to be kept as well. The available resources are limited, which requires a smart management of the storage space.&#13;
+This thesis presents a method to dynamically create new replicas and delete unused replicas based on a prediction of data popularity to improve user waiting times.&#13;
+The first part gives an general introduction of the LHC, ATLAS and the WLCG, a description of the computing model and systems used by the ATLAS experiment and finally the motivation for this work.&#13;
+The second part concentrates on the popularity prediction, introducing how the access data from the grid can be transformed to be used with different prediction methods. The evaluation describes typical usage patterns followed by a discussion of the advantages and disadvantages of the prediction algorithms, which then leads to the hybrid prediction, where two methods are combined to improve the results.&#13;
+The third part then first introduces the redistribution algorithms that then uses the popularity prediction to delete and add new replicas. After that a grid simulator is described that was developed to study the impact of the redistribution on different workloads. Finally, the evaluation shows the impact of the redistribution on waiting times for user analysis jobs on the grid.&#13;
+The last part summarises the results and gives an outlook for further developments.</dc:description>
+          <dc:subject>500 Naturwissenschaften und Mathematik » 530 Physik » 530 Physik</dc:subject>
+          <dc:subject>Fakultät für Mathematik und Naturwissenschaften » Physik » Dissertationen</dc:subject>
+          <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
+          <dc:language>eng</dc:language>
+          <dc:format>application/pdf</dc:format>
+          <dc:type>Text</dc:type>
+        </oai_dc:dc>

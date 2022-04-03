@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6841">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Index Membership vs. Loss of Voting Power: The Unification of Dual-Class Shares</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Betzer, André␞Van den Bongard, Inga␞Goergen, Marc</displayForm>
+                        <namePart type="family">Betzer</namePart>
+                        <namePart type="given">André␞Van den Bongard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-04-13</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">A change in the index selection rules of Deutsche Börse provides a unique opportunity to investigate the drivers behind the decision to abolish dual-class shares. As of June 2002, selection is based on the market capitalization of the free-float of the more liquid share class rather than the overall market capitalization. Hence, firms have had to reassess the benefits from their dual-class shares by weighing them against the cost from foregone index weight associated with having two share classes. Our findings suggest that index membership significantly affects the controlling shareholder’s motivation to unify preferred and common stock. 
+
+Dateigröße : 475 KB 
+
+JEL Classification : G30, G32</abstract>
+                    <subject>
+                        <topic>private benefits of control</topic>
+                        <topic>dual-class stock</topic>
+                        <topic>ownership structure</topic>
+                        <topic>corporate governance</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170413-131411-4</identifier>
+                    <identifier type="sys">HT019300812</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6841</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6841">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp16/sdp16008.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6841"
+            DMDID="DMD_wuppertal_elpub_6841">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6841"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

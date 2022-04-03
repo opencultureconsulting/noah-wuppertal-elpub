@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_4342">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>LinRegInteractive: An R Package for the Interactive Interpretation of Linear Regression Models</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Meermeyer, Martin</displayForm>
+                        <namePart type="family">Meermeyer</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-11-11</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The package provides the generic function fxInteractive() to facilitate the interpretation of various kinds of regression models. It allows to observe the effects of variations of metric covariates in an interactive manner by means of termplots for different model classes. Currently linear regression models, generalized linear models, generalized additive models and linear mixed-effects models are supported. Due to the interactive approach the function provides an intuitive understanding of the mechanics of a particular model and is therefore especially useful for educational purposes. Technically the package is based on the package rpanel and the only mandatory argument for the main function is an appropriate fitted-model object. Given this, the linear predictors, the marginal effects and, for generalized linear models, the responses are calculated automatically. For the marginal effects a numerical approach is used to handle non-constant marginal effects automatically. If there are two or more categorical covariates the corresponding effects are presented in a novel way. For publication purposes the user can customize the appearance of the termplots to a large extent. Tables of the effects and marginal effects can be printed to the R Console, optionally as copy-and-paste-ready LaTeX-code.</abstract>
+                    <abstract type="content" lang="ger">JEL Classification : A200, C140, C870 
+
+ Dateigröße: 1,03 MB</abstract>
+                    <subject>
+                        <topic>termplots</topic>
+                        <topic>marginal effects</topic>
+                        <topic>visualization</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20141111-152710-9</identifier>
+                    <identifier type="sys">HT018455020</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_4342</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_4342">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp14/sdp14014.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_4342"
+            DMDID="DMD_wuppertal_elpub_4342">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_4342"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

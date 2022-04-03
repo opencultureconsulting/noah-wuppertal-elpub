@@ -1,0 +1,66 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6380">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Economics meets Psychology:Experimental and self-reported Measures of Individual Competitiveness</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bönte, Werner␞Lombardo, Sandro Enrico Fiore␞Urbig, Diemo</displayForm>
+                        <namePart type="family">Bönte</namePart>
+                        <namePart type="given">Werner␞Lombardo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-11-25</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Economists and psychologists follow different approaches to measure individual competitiveness. While psychologists typically use self-reported psychometric scales, economists tend to use incentivized behavioral experiments, where subjects confronted with a specific task self-select into a competitive versus a piece-rate payment scheme. So far, both measurement approaches have remained largely isolated from one another. We discuss how these approaches are linked and based on a classroom experiment with 186 students we empirically examine the relationship between a behavioral competitiveness measure and a self-reported competitiveness scale. We find a stable positive relationship between these measures suggesting that both measures are indicators of the same underlying latent variable, which might be interpreted as a general preference to enter competitive situations. Moreover, our results suggest that the self-reported scale partly rests on motives related to personal development, whereas the behavioral measure does not reflect competitiveness motivated by personal development. Our study demonstrates how comparative studies such as ours can open up new avenues for the further development of both behavioral experiments and psychometric scales that aim at measuring individual competitiveness. 
+
+ JEL-Classification : C91, D03, M52 
+PSYCInfo: 2223, 2260 
+
+Dateigröße: 745 KB</abstract>
+                    <subject>
+                        <topic>Competition</topic>
+                        <topic>Experiment</topic>
+                        <topic>Tournament scheme</topic>
+                        <topic>Personal Development Motive</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ddc">150</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20161125-121944-6</identifier>
+                    <identifier type="sys">HT019182436</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6380</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6380">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp16/sdp16006.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6380"
+            DMDID="DMD_wuppertal_elpub_6380">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6380"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

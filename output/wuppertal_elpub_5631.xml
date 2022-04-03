@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5631">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zur landesspezifischen Erfassung des Migrationshintergrunds in der Schulstatistik – (k)ein gemeinsamer Nenner in Sicht?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kemper, Thomas</displayForm>
+                        <namePart type="family">Kemper</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-03-10</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The paper provides information on the status of the collection of migrational data in official school statistics of the federal states in Germany. Based on this, the proportion of students without a German citizenship as well as students with migration background will be presented and differentiated by the specific definition of migration background in the federal states. Furthermore, the validity and comparability of the definitions will be discussed as well as the merging of the federal school statistics into a national school statistic. Based on the available migration attributes the educational participation of students with migration background will be analyzed – with a special focus on the attendance of secondary schools. 
+
+ Dateigröße: 754 KB 
+
+ JEL Code: I20, I21, I28</abstract>
+                    <subject>
+                        <topic>migration</topic>
+                        <topic>migration background</topic>
+                        <topic>educational participation</topic>
+                        <topic>school statistics</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20160310-114716-1</identifier>
+                    <identifier type="sys">HT018912540</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5631</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5631">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp16/sdp16001.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5631"
+            DMDID="DMD_wuppertal_elpub_5631">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5631"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6290">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Macroeconomic revolution on shaky grounds: Lucas/Sargent critique’s inherent contradictions</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schettkat, Ronald␞Jovicic, Sonja</displayForm>
+                        <namePart type="family">Schettkat</namePart>
+                        <namePart type="given">Ronald␞Jovicic</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-11-09</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Expansionary macroeconomic policy is ineffective because, according to the policy ineffectiveness hypothesis (PIH), which is based on the rational expectations hypothesis (REH), it does not affect the real economy. This conclusion is false for several reasons. In their critique on Keynes’ theory, Lucas and Sargent (1978) argue that economic agents erroneously react with positive output and labor supply responses to expansionary macroeconomic policy. But they learn the long-run solution of the Lucas/Sargent model, which involves price reactions only, and do not repeat their mistakes when again confronted with expansionary macroeconomic policy. Thus, learning makes expansionary macroeconomic policy in the Lucas/Sargent model ineffective. 
+
+The PIH is derived from models based on neoclassical micro-foundations where economic agents optimize in a stationary environment in ‘logical time.’ Experiencing and learning in ‘logical time’? In this paper, we take historical time seriously; that is, we investigate what economic agents actually experience regarding the effectiveness of expansionary macroeconomic policy in ‘historical time.’ We conclude that even if neoclassical micro-foundations are rigorously applied, if economic agents behave as assumed in the Lucas/Sargent model but that they move through time, the economy will not settle at the predicted long run equilibrium. Instead expansionary macroeconomic policy will be perceived as a virtue.</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics » Schumpeter Discussion Papers (SDP)"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20161109-151624-0</identifier>
+                    <identifier type="sys">HT019147592</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6290</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6290">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp16/sdp16005.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6290"
+            DMDID="DMD_wuppertal_elpub_6290">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6290"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

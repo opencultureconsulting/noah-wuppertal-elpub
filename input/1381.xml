@@ -1,0 +1,70 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>1381</id><datestamp>2018-01-22</datestamp><setSpec>DDC:5:53:530</setSpec>
+          <dc:title xml:lang="en">Topics in the Measurement  of Top Quark Events with ATLAS</dc:title>
+          <dc:title xml:lang="de">Pixel Detector Optoelectronics, Track Impact  Parameter Calibration, Acceptance Correction  Methods</dc:title>
+          <dc:creator>Sandvoss, Stephan A.</dc:creator>
+          <dc:date>2018-01-22</dc:date>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2009/sandvoss</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=1381</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20100160</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1478/dc0919.pdf</dc:identifier>
+          <dc:description xml:lang="de">Diese Arbeit beschreibt Verfahren, die insbesondere zur Messung von Top-Quark&#13;
+Ereignissen mit dem ATLAS Detektor am Large Hadron Collider (LHC) des&#13;
+CERN angewendet werden köonnen. Es wurden Beiträge zu drei wesentlichen Bereichen&#13;
+erbracht: dem Detektoraufbau und seiner Überprüfung, der Datenkalibration&#13;
+und der ersten physikalischen Analyse.&lt;br&gt;&#13;
+Der Pixel Detektor verfügt über etwa 80 Millionen Auslesekanäle und repräsentiert&#13;
+damit mehr als 90% aller Auslesekanäle des ATLAS Detektors. Es wurde&#13;
+eine Methode zur Anwendung eines optischen Reflektometers entwickelt, mit&#13;
+der die Unversehrtheit der Lichtwellenleiterkabel, die die auslesende Optoelektronik&#13;
+außerhalb des Pixel Detektors mit derjenigen innerhalb verbinden, schnell&#13;
+getestet werden kann. Damit wurde die Einsatzbereitschaft des Pixel Detektors&#13;
+nach Produktion, Test und Installation dieser Ausleseelektronik (Back of Crate&#13;
+Karten) sichergestellt.&lt;br&gt;&#13;
+Präzisionsmessungen erfordern eine sorgfältige Detektorkalibration. Hierzu&#13;
+kann ein Verfahren beitragen, das die Spurstoßparameter von Monte Carlo (MC)&#13;
+Datensätzen an die Verteilungen von Daten anpaßt. Zunächst werden die Spur-und&#13;
+Jetrekonstruktion sowie das &lt;i&gt;b&lt;/i&gt;-Tagging von Jets in ATLAS vorgestellt. Die&#13;
+Stoßparameter von Spuren sind vor allem durch den innersten Detektor bestimmt,&#13;
+den Pixel Detektor. Die Genauigkeit der Spurstoßparameter hat großen Einfluß&#13;
+auf die Resultate des &lt;i&gt;b&lt;/i&gt;-Taggings und damit auf die Selektion und Analyse von&#13;
+Top Quark Ereignissen.&lt;br&gt;&#13;
+Zu Anfang der Messungen wird es Abweichungen in den Stoßparameterverteilungen&#13;
+zwischen simulierten und realen Daten geben, z.B. weil die relative&#13;
+Anordnung von Detektorteilen nicht genau genug bekannt ist. Auf die Spuren&#13;
+mit negativen Stoßparametern gestützt, die hauptsächlich von der intrinsischen&#13;
+Detektorauflösung abhängen, werden die Stoßparameter der simulierten Spuren&#13;
+angepaßt. Eine Implementierung im Athena Framework von ATLAS wurde aufgrund&#13;
+fehlender Kollisionsdaten mit zwei MC Top-Quark-Paar Datensätzen verschiedener&#13;
+Detektorgeometrien getestet. Mit der verfügbaren Statistik lassen sich&#13;
+Verbesserungen bei der Übereinstimmung von simulierten mit (pseudo-) realen&#13;
+Daten für Spuren mit Stoßparametern kleiner als 0.4 mm bis zu einem Faktor von&#13;
+4 erreichen.&lt;br&gt;&#13;
+Die Analyse der ersten Top-Quark Ereignisse dient sowohl der Kalibration&#13;
+und Leistungsverbesserung des ATLAS Detektors als auch der Validierung bisheriger&#13;
+Messungen und der Überprüfung theoretischer Vorhersagen bei Energien,&#13;
+die nie zuvor erreicht wurden. Ein weiteres Verfahren gewichtet die Vorhersagen&#13;
+von Monte Carlo Generatoren für Top-Quark Observablen, so daß sie mit Daten&#13;
+übereinstimmen. Bei Top-Quark Messungen lassen sich so systematische Unsicherheiten&#13;
+verringern, die durch unterschiedliche Modellierung zugrundeliegender&#13;
+physikalischer Prozesse verursacht werden. Zunächst werden alle Schritte der MC&#13;
+Simulation in ATLAS vorgestellt, von der Generierung eines Ereignisses über die&#13;
+Simulation im Detektor bis zu seiner Rekonstruktion.&lt;br&gt;&#13;
+Die Vorhersagen von fünf Monte Carlo Generatoren werden hinsichtlich der totalen&#13;
+Selektionseffizienz von semileptonischen Top-Quark-Paar Ereignissen verglichen.&#13;
+Diese Effizienzen weichen wie einige Verteilungen der Selektionsobservablen&#13;
+und des Transversalimpulses des hadronisch zerfallenden Top Quarks um bis zu&#13;
+20% voneinander ab. Das führt zu einer systematischen Unsicherheit der Messung&#13;
+aufgrund der Modellierung des zugrundeliegenden physikalischen Prozesses.&#13;
+Um diese Unsicherheit für die ersten Daten zu verringern, rewichtet das entwikkelte&#13;
+Verfahren die MC Ereignisse anhand einer einzigen gemessenen Verteilung:&#13;
+anhand des Transversalimpulses des hadronisch zerfallenden Top-Quarks. Eine&#13;
+Implementierung und Anwendung im Athena Framework zeigt Verbesserungen&#13;
+von bis zu einem Faktor 10, die systematische Unsicherheit in der totalen&#13;
+Selektionseffizienz fällt um mehr als den Faktor 4 von etwa 20% auf unter 5%.</dc:description>
+          <dc:subject>500 Naturwissenschaften und Mathematik » 530 Physik » 530 Physik</dc:subject>
+          <dc:subject>Fakultät für Mathematik und Naturwissenschaften » Physik » Dissertationen</dc:subject>
+          <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
+          <dc:language>eng</dc:language>
+          <dc:format>application/pdf</dc:format>
+          <dc:type>Text</dc:type>
+        </oai_dc:dc>

@@ -1,0 +1,79 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>9110</id><datestamp>2019-02-04</datestamp><setSpec>DDC:6:62:620</setSpec>
+          <dc:title xml:lang="en">Real-Time Simulation and Prognosis of Smoke Propagation in Compartments Using a GPU</dc:title>
+          <dc:creator>Küsters, Anne</dc:creator>
+          <dc:date>2019-02-04</dc:date>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/bauingenieurwesen/diss2018/kuesters</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=9110</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20190204-092259-7</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-8492/dd1804.pdf</dc:identifier>
+          <dc:description xml:lang="en">&lt;p&gt;The evaluation of life safety in buildings in case of fire is often based on&#13;
+smoke spread calculations. However, recent simulation models – in general,&#13;
+based on computational fluid dynamics – often require long execution&#13;
+times or high-performance computers to achieve simulation results in or&#13;
+faster than real-time.&#13;
+&#13;
+&lt;p&gt;Therefore, the objective of this study is the development of a concept&#13;
+for the real-time and prognosis simulation of smoke propagation in compartments&#13;
+using a graphics processing unit (GPU). The developed concept&#13;
+is summarized in an expandable open source software basis, called&#13;
+JuROr (&lt;i&gt;Jülich's Real-time simulation within ORPHEUS&lt;/i&gt;). JuROr simulates&#13;
+buoyancy-driven, turbulent smoke spread based on a reduced modeling&#13;
+approach using finite differences and a Large Eddy Simulation turbulence&#13;
+model to solve the incompressible Navier-Stokes and energy equations.&#13;
+This reduced model is fully adapted to match the target hardware&#13;
+of highly parallel computer architectures. Thereby, the code is written&#13;
+in the object-oriented programming language C++ and the pragma-based&#13;
+programming model OpenACC. This model ensures to maintain a single&#13;
+source code, which can be executed in serial and parallel on various&#13;
+architectures.&#13;
+&#13;
+&lt;p&gt;Further, the study provides a proof of JuROr's concept to balance sufficient&#13;
+accuracy and practicality. First, the code was successfully verified&#13;
+using unit and (semi-) analytical tests. Then, the underlying model was&#13;
+validated by comparing the numerical results to the experimental results&#13;
+of scenarios relevant for fire protection. Thereby, verification and validation&#13;
+showed acceptable accuracy for JuROr's application. Lastly, the&#13;
+performance criteria of JuROr – being real-time and prognosis capable&#13;
+with comparable performance across various architectures – was successfully&#13;
+evaluated. Here, JuROr also showed high speedup results on a GPU&#13;
+and faster time-to-solution compared to the established Fire Dynamics&#13;
+Simulator. These results show JuROr's practicality.</dc:description>
+          <dc:description xml:lang="de">&lt;p&gt;Die Bewertung der Personensicherheit bei Feuer in Gebäuden basiert häufig&#13;
+auf Berechnungen zur Rauchausbreitung. Bisherige Simulationsmodelle&#13;
+– im Allgemeinen basierend auf numerischer Strömungsdynamik –&#13;
+erfordern jedoch lange Ausführungszeiten oder Hochleistungsrechner, um&#13;
+Simulationsergebnisse in und schneller als Echtzeit liefern zu können.&#13;
+&#13;
+&lt;p&gt;Daher ist das Ziel dieser Arbeit die Entwicklung eines Konzeptes für&#13;
+die Echtzeit- und Prognosesimulation der Rauchausbreitung in Gebäuden&#13;
+mit Hilfe eines Grafikprozessors (GPU). Zusammengefasst ist das entwickelte&#13;
+Konzept in einer erweiterbaren Open-Source-Software, genannt&#13;
+JuROr &lt;i&gt;(Jülich's Real-time Simulation in ORPHEUS&lt;/i&gt;). JuROr simuliert&#13;
+die Ausbreitung von auftriebsgetriebenem, turbulentem Rauch basierend&#13;
+auf einem reduzierten Modellierungsansatz mit finiten Differenzen und&#13;
+einem Large Eddy Simulation Turbulenzmodell, um inkompressible Navier-&#13;
+Stokes und Energiegleichungen zu lösen. Das reduzierte Modell ist voll-&#13;
+ständig angepasst an hochparallele Computerarchitekturen. Dabei ist der&#13;
+Code implementiert mit C++ und OpenACC. Dies hat den Vorteil mit&#13;
+nur einem Quellcode verschiedenste serielle und parallele Ausführungen&#13;
+des Programms für unterschiedliche Architekturen erstellen zu können.&#13;
+&#13;
+&lt;p&gt;Die Studie liefert weiterhin einen Konzeptnachweis dafür, ausreichende&#13;
+Genauigkeit und Praktikabilität im Gleichgewicht zu halten. Zunächst&#13;
+wurde der Code erfolgreich mit Modul- und (semi-) analytischen Tests verifiziert.&#13;
+Dann wurde das zugrundeliegende Modell durch einen Vergleich&#13;
+der numerischen mit den experimentellen Ergebnissen für den Brandschutz&#13;
+relevanter Szenarien validiert. Die Verifizierung und Validierung&#13;
+zeigten dabei ausreichende Genauigkeit für JuROr. Zuletzt, wurden die&#13;
+Kriterien von JuROr – echtzeit- und prognosefähig zu sein mit vergleichbarer&#13;
+Leistung auf unterschiedlichsten Architekturen – erfolgreich geprüft.&#13;
+Zudem zeigte JuROr hohe Beschleunigungseffekte auf einer GPU und&#13;
+schnellere Lösungszeiten im Vergleich zum etablierten Fire Dynamics Simulator.&#13;
+Diese Ergebnisse zeigen JuROr's Praktikabilität.</dc:description>
+          <dc:subject>600 Technik, Medizin, angewandte Wissenschaften » 620 Ingenieurwissenschaften » 620 Ingenieurwissenschaften und zugeordnete Tätigkeiten</dc:subject>
+          <dc:subject>Fakultät für Architektur und Bauingenieurwesen » Bauingenieurwesen » Dissertationen</dc:subject>
+          <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
+          <dc:language>eng</dc:language>
+          <dc:format>application/pdf</dc:format>
+          <dc:type>Text</dc:type>
+        </oai_dc:dc>

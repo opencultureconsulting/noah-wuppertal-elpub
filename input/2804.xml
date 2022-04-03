@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>2804</id><datestamp>2018-01-22</datestamp><setSpec>DDC:6:60:600</setSpec><setSpec>DDC:6:62:620</setSpec>
+          <dc:title xml:lang="de">Stabilitätsanalyse für nichtlineare Systeme mithilfe der Intervallarithmetik</dc:title>
+          <dc:creator>Warthenpfuhl, Sascha Alexander</dc:creator>
+          <dc:date>2018-01-22</dc:date>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbe/elektrotechnik/diss2012/warthenpfuhl</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=2804</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20120516-114847-9</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-2924/de1202.pdf</dc:identifier>
+          <dc:description xml:lang="de">Die Untersuchung der Stabilität eines dynamischen Systems stellt eine wichtige Aufgabe in der Systemanalyse dar. Ein Teilgebiet dieser Untersuchung ist die Bestimmung des Einzugsgebiets einer Ruhelage. Dieses bezeichnet das Gebiet von Zuständen, in welche das System ausgelenkt werden kann, sodass die Systemtrajektorien in die Ruhelage einlaufen. Mit Hilfe der Niveaumengen einer sogenannten Ljapunowfunktion ist es möglich, ein Teilgebiet des exakten Einzuggebiets algebraisch anzugeben. Das Problem besteht hierbei darin, den maximalen Funktionswert  dieser Ljapunowfunktion anzugeben, sodass das durch die Niveaumengen beschränkte Gebiet ein Teilgebiet des Einzugsgebiets ist. &#13;
+&#13;
+In dieser Arbeit wird nun dargestellt, wie die Intervallarithmetik im Rahmen eines Branch-and-Bound-Algorithmus genutzt werden kann, um eine Einschließung für diesen maximalen Funktionswert der Ljapunowfunktion zu erhalten. Eine Evaluation des Verfahrens an 25 einschlägigen Beispielen aus der Literatur sowie eine Betrachtung der Parallelisierung des Verfahrens runden die Arbeit ab.</dc:description>
+          <dc:description xml:lang="en">&lt;br&gt;The stability analysis of dynamical systems is a main task in system analysis. One part of this analysis is the estimation of the domain of attraction, a set of initial conditions for which the system trajectories converge to the equilibrium point. Utilizing the level sets of a so-called Lyapunov function, it is possible to compute a subset of the exact domain of attraction. The problem here is to specify the maximum value of this Lyapunov function so that the domain bounded by the level sets is part of the domain of attraction.&#13;
+&#13;
+In this work a new method is presented. It utilizes interval arithmetic within a branch-and-bound-algorithm to compute an inclusion for the maximum value of the Lyapunov function. An evaluation of the new method on 25 benchmark examples and an investigation of the parallelization are shown as well.</dc:description>
+          <dc:subject>Einzugsgebiet</dc:subject>
+          <dc:subject>Stabilität</dc:subject>
+          <dc:subject>Ljapunow</dc:subject>
+          <dc:subject>nichtlineare Systeme</dc:subject>
+          <dc:subject>domain of attraction</dc:subject>
+          <dc:subject>region of attraction</dc:subject>
+          <dc:subject>600 Technik, Medizin, angewandte Wissenschaften » 600 Technik » 600 Technik, Technologie</dc:subject>
+          <dc:subject>600 Technik, Medizin, angewandte Wissenschaften » 620 Ingenieurwissenschaften » 620 Ingenieurwissenschaften und zugeordnete Tätigkeiten</dc:subject>
+          <dc:subject>Fakultät für Elektrotechnik, Informationstechnik und Medientechnik » Elektrotechnik » Dissertationen</dc:subject>
+          <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
+          <dc:language>deu</dc:language>
+          <dc:format>application/pdf</dc:format>
+          <dc:type>Text</dc:type>
+        </oai_dc:dc>

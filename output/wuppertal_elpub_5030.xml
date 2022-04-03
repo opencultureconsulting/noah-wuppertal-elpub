@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5030">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Creating Reproducible Publication Quality Graphics with R: A Tutorial</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Meermeyer, Martin</displayForm>
+                        <namePart type="family">Meermeyer</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-07-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The publication of results of an empirical analysis often includes graphical representations. One of the particular strengths of the statistical computing language and environmentR are the graphical capabilities. Beside the relatively simple base graphic system a number of more sophisticated alternative graphic systems are available within R. Compared to these the base graphic system is easy to use but nevertheless highly customizable and therefore advantageous for many research projects. However, even in the base graphic system the number of graphical functions and parameters is large. Due to this it can be hard to find the functions and parameters which must be used to customize a graphic for publication purposes. This paper provides a brief tutorial for this along with a set of simple rules how to structure the code to achieve a sucient level of reproducibility for a data analysis in general and for associate graphical results in specic. The paper summarizes experiences from a R tutorial hold at the University of Wuppertal for a number of times. The code snippets in the text and the code to reproduce the given examples in the appendix is copy-and-paste-ready and can easily be adopted for own tasks.</abstract>
+                    <abstract type="content" lang="ger">Dateigröße: 822 KB</abstract>
+                    <subject>
+                        <topic>base graphic system</topic>
+                        <topic>plots</topic>
+                        <topic>legends</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20150723-095356-4</identifier>
+                    <identifier type="sys">HT018707957</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5030</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5030">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp15/sdp15006.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5030"
+            DMDID="DMD_wuppertal_elpub_5030">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5030"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

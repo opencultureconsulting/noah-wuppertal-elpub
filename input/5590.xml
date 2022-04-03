@@ -1,0 +1,21 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>5590</id><datestamp>2018-01-22</datestamp><setSpec>DDC:5:51:510</setSpec>
+          <dc:title xml:lang="en">Restarting and error estimation in polynomial and extended Krylov subspace methods for the approximation of matrix functions</dc:title>
+          <dc:creator>Schweitzer, Marcel</dc:creator>
+          <dc:date>2018-01-22</dc:date>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2015/schweitzer</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=5590</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20160212-112106-7</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-5346/dc1534.pdf</dc:identifier>
+          <dc:description xml:lang="en">&lt;p&gt;This thesis deals with Krylov subspace methods for computing the action of a matrix function on a vector. The main result of the thesis is a new integral representation for the error in Arnoldi's method, which is valid for large classes of functions, including holomorphic functions represented via the Cauchy integral formula and Stieltjes functions. &#13;
+&lt;br&gt;&lt;br&gt;&#13;
+It is then shown how this error representation can be used to improve upon the standard Arnoldi method: First, a restarted Arnoldi method which evaluates the error function via numerical quadrature is developed and shown to be an improvement over existing methods by numerical experiments on various standard model problems. Afterwards, the method is analyzed theoretically and convergence for Stieltjes functions of Hermitian positive definite matrices is proven (independent of the restart length). &#13;
+The second main use of the error representation is the efficient computation of error estimators in Arnoldi's method. An algorithm which computes retrospective error estimates essentially for free (with cost independent of the matrix size) is presented, and it is shown that it is possible to compute guaranteed lower and upper bounds for the error norm for Stieltjes functions of Hermitian positive definite matrices.&#13;
+&lt;br&gt;&lt;br&gt;&#13;
+As an extension of the developed results, it is briefly discussed how most of the results of the thesis can be generalized to extended Krylov subspace methods, with emphasis on the efficient computation of error estimators.</dc:description>
+          <dc:subject>500 Naturwissenschaften und Mathematik » 510 Mathematik » 510 Mathematik</dc:subject>
+          <dc:subject>Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik » Dissertationen</dc:subject>
+          <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
+          <dc:language>eng</dc:language>
+          <dc:format>application/pdf</dc:format>
+          <dc:type>Text</dc:type>
+        </oai_dc:dc>

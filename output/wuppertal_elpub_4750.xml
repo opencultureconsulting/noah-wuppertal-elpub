@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_4750">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Between facts and perceptions: The area close to school as a context factor in school leadership</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schwarz, Alexandra␞Brauckmann, Stefan</displayForm>
+                        <namePart type="family">Schwarz</namePart>
+                        <namePart type="given">Alexandra␞Brauckmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-04-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Concepts of new school governance did considerably change the role and responsibilities of school principals. Due to the shift in their role from administrator to manager, recent research tends to focus on management activity, but little is still known about the interrelation between changing contexts and management activities. In the present paper we propose to expand the school context to embrace the school-related environment, and we examine this broader context with respect to its impact on leadership activities. We illustrate our approach by combining German survey and administrative data to analyze the social composition of schools and their environment. Our results suggest that using administrative data to identify objective challenges to leadership improves the measurement of contextual conditions at school. JEL Classification: I20; I21; I28 Keywords: school leadership; school quality; disadvantaged areas</abstract>
+                    <abstract type="content" lang="ger">Dateigröße: 1,95 MB</abstract>
+                    <subject>
+                        <topic>school leadership</topic>
+                        <topic>school quality</topic>
+                        <topic>disadvantaged areas</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20150416-103442-7</identifier>
+                    <identifier type="sys">HT018620811</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_4750</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_4750">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp15/sdp15003.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_4750"
+            DMDID="DMD_wuppertal_elpub_4750">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_4750"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

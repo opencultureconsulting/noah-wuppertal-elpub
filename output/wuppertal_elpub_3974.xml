@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3974">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Gender differences in competitive preferences: new cross-country empirical evidence</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bönte, Werner</displayForm>
+                        <namePart type="family">Bönte</namePart>
+                        <namePart type="given">Werner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-06-11</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This paper provides new empirical evidence on gender differences in competitive preferences using a representative data set of more than 25000 individuals from 36 countries. The empirical results show that the gender differences in competitive preferences are statistically significant in almost all countries with women having, on average, a lower preference for competitive situations than men. Although relatively substantial in most countries, the magnitude of gender differences varies considerably between countries. Results of a regression analysis suggest that the gender differences persist even when controlling for a number of potentially relevant variables. Furthermore, gender differences among adult men and women are hardly affected by the stage of life cycle. 
+
+Dateigröße: 653 KB</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics » Schumpeter Discussion Papers (SDP)"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20140611-122840-4</identifier>
+                    <identifier type="sys">HT018292378</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3974</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3974">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp14/sdp14008.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3974"
+            DMDID="DMD_wuppertal_elpub_3974">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3974"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

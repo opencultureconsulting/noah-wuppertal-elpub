@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6030">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>An Alternative Approach towards the Knowledge Production Function on a Regional Level - Applications for the USA and Russia</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Perret, Jens K.</displayForm>
+                        <namePart type="family">Perret</namePart>
+                        <namePart type="given">Jens K.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-07-25</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">The present study picks up on the aspect of knowledge generation - a key part of every national innovation system - in the context of the USA and the Russian Federation. Following Fritsch and Slavtchev (2006) a knowledge production function can be used to account for the efficiency of an innovation systems. 
+
+ In detail this study provides a quantile regression estimation of the knowledge production function to account for a possible non-linear relationship between knowledge inputs and knowledge output. Using regional data for researchers, expenditures on R\&amp; D and patent grants for the USA and the Russian Federation - motivated by the results of a kernel density estimation and transition matrices - a quantile regression is performed for a basic knowledge production function design; for Russia as well for an extended design. 
+
+ The results show that in both countries there exist groups of regions with smaller sized research systems that report significantly different dynamics and thus knowledge production functions than regions with larger sized research systems.</abstract>
+                    <abstract type="content" lang="ger">JEL Classification : P25, O31, O57 
+
+ Dateigröße: 793 KB</abstract>
+                    <subject>
+                        <topic>Russian Federation</topic>
+                        <topic>USA</topic>
+                        <topic>Innovation System</topic>
+                        <topic>Knowledge Production Function</topic>
+                        <topic>Knowledge Generation</topic>
+                        <topic>Quantile Regression</topic>
+                        <topic>Regional Economics</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20160725-123437-8</identifier>
+                    <identifier type="sys">HT019044727</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6030</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6030">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp16/sdp16003.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6030"
+            DMDID="DMD_wuppertal_elpub_6030">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6030"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6600">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Educational differences in smoking: selection versus causation</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jürges, Hendrik␞Meyer, Sophie-Charlotte</displayForm>
+                        <namePart type="family">Jürges</namePart>
+                        <namePart type="given">Hendrik␞Meyer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-02-03</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">We investigate sources of educational differences in smoking. Using a large German data set containing retrospective information on the age at smoking onset, we compare age-specific hazard rates of starting smoking between (future) low and high educated individuals. We find that up to 90% of the educational differences in smoking develop before the age of 16, i.e. before compulsory schooling is completed. This education gap persists into adulthood. Further, we examine the role of health-related knowledge (proxied by working in health-related occupations) and find it hardly explains smoking decisions. Our findings suggest that (unobserved) factors determining both the selection into smoking and education are almost exclusively responsible for educational differences in smoking. Only small parts of the education gap seem to be caused by general or health-specific education. The effectiveness of education policy to combat smoking is thus likely limited. 
+
+JEL-Classification : I12, J22, J13 
+
+File-Size : 745 KB</abstract>
+                    <subject>
+                        <topic>education</topic>
+                        <topic>smoking initiation</topic>
+                        <topic>health-related knowledge</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170203-131623-8</identifier>
+                    <identifier type="sys">HT019231859</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6600</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6600">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp17/sdp17001.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6600"
+            DMDID="DMD_wuppertal_elpub_6600">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6600"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_4611">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Effects of Gender and Personality on Foreign Language Anxiety among Adult Multilinguals</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gargalianou, Vasiliki␞Muehlfeld, Katrin␞Urbig, Diemo␞Van Witteloostuijn, Arjen</displayForm>
+                        <namePart type="family">Gargalianou</namePart>
+                        <namePart type="given">Vasiliki␞Muehlfeld</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-02-09</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">We investigate the relationship between gender and foreign language anxiety (FLA) in the second language (L2: English) of 320 adult bilinguals (L1: Dutch) outside the foreign language learning context. Results show that females experience higher levels of FLA. The association between gender and FLA, however, is a reflection of gender differences in personality; personality mediates most of this relationship. Individuals who are highly emotional or conscientious—dimensions for which males and females demonstrate substantial differences—experience higher levels of FLA. Furthermore, this relationship is stronger for women; that is, gender also acts as moderator to the personality-FLA relationship.</abstract>
+                    <abstract type="content" lang="ger">Dateigröße: 840 KB</abstract>
+                    <subject>
+                        <topic>Foreign language anxiety</topic>
+                        <topic>gender</topic>
+                        <topic>personality</topic>
+                        <topic>survey</topic>
+                    </subject>
+                    <classification authority="ddc">304</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics » Schumpeter Discussion Papers (SDP)"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20150209-151717-3</identifier>
+                    <identifier type="sys">HT018620790</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_4611</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_4611">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp15/sdp15002.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_4611"
+            DMDID="DMD_wuppertal_elpub_4611">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_4611"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

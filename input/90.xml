@@ -1,41 +1,17 @@
-<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>oai:elpub.bib.uni-wuppertal.de:9290</id><datestamp>2019-05-02</datestamp><setSpec>DDC:3:33</setSpec>
-          <dc:title xml:lang="en">A Quantitative Approach to Tower Crane Selection and Positioning on Construction Sites</dc:title>
-          <dc:creator>Dienstknecht, Michael</dc:creator>
-          <dc:contributor>Briskorn, Dirk</dc:contributor>
-          <dc:contributor>Bock, Stefan</dc:contributor>
-          <dc:date>2019-05-02</dc:date>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2019/dienstknecht</dc:identifier>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=9290</dc:identifier>
-          <dc:identifier>urn:nbn:de:hbz:468-20190502-113205-9</dc:identifier>
-          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-8700/db1901.pdf</dc:identifier>
-          <dc:description xml:lang="en">&lt;p&gt;Tower cranes are a key factor in construction projects from both an operational and an economic perspective as they are the predominant lifting equipment and are among&#13;
-the most expensive construction equipment. A literature review revealed that the academic literature lacks appropriate problem formulations and optimization approaches&#13;
-despite of tower cranes' real-world importance.&lt;/p&gt;&#13;
-&#13;
-&lt;p&gt;The thesis at hand addresses this gap and introduces two optimization problems concerning the selection and on-site location of tower cranes, namely the tower crane&#13;
-selection and positioning problem (TCSPP) and the tower crane selection and positioning problem in a grid (TCSPP-GRID). Both are focused on a set of crane types&#13;
-differing in their specifications, i.e. rental cost, maximum operating height and maximum weight-dependent lifting radius. Cranes need to be selected and located on a&#13;
-given polygonal construction site in order to cover pairs of supply and demand areas with polygonal ground plans. Demand areas, in addition, have a certain height&#13;
-which may prevent certain crane types from serving the pair associated with the respective demand area and they have a maximum load weight to be lifted at any point of&#13;
-the demand and the supply area. When locating cranes it has to be taken into account that a crane may neither be located in a supply or a demand area nor in crane&#13;
-type-specific forbidden areas of polygonal ground plan (e.g. due to ground conditions). A pair is said to be covered if at least one crane can establish an&#13;
-uninterrupted lift path for the pair's maximum weight between any two points of the demand and supply areas corresponding to the pair. The objective is to find a&#13;
-minimum cost selection of cranes and their on-site locations so that each crane is in a feasible position and each pair is covered by at least one crane.&lt;/p&gt;&#13;
-&#13;
-&lt;p&gt;In the TCSPP, cranes may be located continuously in every point not occupied by a demand, supply or forbidden area and a pair is considered to be covered by a specific&#13;
-crane if both the demand and the supply area are completely within the crane's maximum operating radius for the pair's maximum load weight and if the crane has&#13;
-sufficient operating height. The problem is shown to be NP-complete. We prove that we can restrict ourselves to a finite set of potential crane locations without loss&#13;
-of optimality which, in turn, allows us to employ the classic set cover problem for solving an instance of the TCSPP. The approach is computationally tested and&#13;
-analyzed and turns out to perform favorably.&lt;/p&gt;&#13;
-&#13;
-&lt;p&gt;The TCSPP-GRID, in contrast to the TCSPP, respects crane interdependencies in terms of minimum distances and crane interferences as well as interferences of cranes&#13;
-with given on-site obstacles. However, cranes may not be located continuously, but may only be positioned at the intersection points of a grid being laid over the&#13;
-construction site. The problem is proven to be NP-hard despite of this artificial discretization. We show how to derive inputs that allow for linear models from the&#13;
-given, mainly geometric instance data. Four mixed-integer linear programming formulations are presented as well as a branch and bound approach. A computational study&#13;
-is conducted comparing the performance of the branch and bound approach and standard solver CPLEX based on the mixed-integer models. It is found that the former turns&#13;
-out to compete favorably against the latter.&lt;/p&gt;</dc:description>
-          <dc:subject>300 Sozialwissenschaften » 330 Wirtschaft</dc:subject>
-          <dc:subject>Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics » Dissertationen</dc:subject>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>90</id><datestamp>2018-01-22</datestamp><setSpec>DDC:9:90:900</setSpec><setSpec>DDC:7:78:780</setSpec>
+          <dc:title xml:lang="de">Klaviere und Flügel aus dem Wupperthale</dc:title>
+          <dc:title xml:lang="de">Instrumentenbau in der Wupperregion und am Niederrhein  während des 19.Jahrhunderts am Beispiel der Orgel- und Klavierbauerfamilie Ibach</dc:title>
+          <dc:creator>Speer, Florian</dc:creator>
+          <dc:date>2000-07-27</dc:date>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fb02/diss2000/speer</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=90</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20000317</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-285/d020002.pdf</dc:identifier>
+          <dc:description xml:lang="de">RUD. IBACH SOHN ist die älteste produzierende Klavierfabrik der Welt und wird heute von der Gründerfamilie in der siebten Generation geführt. Die Dissertation beschreibt den Weg des Unternehmens über die ersten einhundert Jahre, vom Ende des 18. bis zum Ende des 19. Jahrhunderts. Für das 19. Jahrhundert ergeben sich zwei Entwicklungsperioden: eine Zeit handwerklicher Instrumentenfertigung bis etwa 1869 und eine Zeit industrieller Produktion, die ihren Höhepunkt kurz vor dem Ersten Weltkrieg hat. Im Mittelpunkt der Untersuchung stehen vornehmlich wirtschaftsgeschichtliche, kulturgeschichtliche und genealogische Aspekte, so z.B. die Inhaberfamilie, die technische Entwicklung des Produkts, Finanzierungsfragen, Absatzprobleme und Export, Situation der Arbeitnehmerschaft, Rohstoffbeschaffung, Ausstellungswesen, den Beginn der ersten Hersteller-Verbandsorganisationen sowie künstlerisches Instrumentendesign. Besonderes Interesse verdienen die zahlreichen brieflichen Kontakte zwischen Ibach und einzelnen Komponisten und Pianisten.</dc:description>
+          <dc:description xml:lang="en">RUD. IBACH SOHN is the oldest producing piano factory in the world and is managed by the founders family until today. The dissertation describes the way of the enterprise during the first hundred years, from the end of the 18th until the end of the 19th century. The 19th century is to classify in two evolution periods: a time of handicraft piano manufacturing until approximately 1869 and a time of industrial production that has its highest level just before World War I. Economy, cultural and genealogical aspects are central points of the investigation, as e.g. the Ibach-family, the technical evolution of the pianos, funds troubles, retail problems and export, the situation of the employees, procurement of raw material, exhibitions, the beginning of the first manufacturers associations as well as artistic instrument design. The numerous contacts between Ibach and a lot of composers and pianists are gaining particular interest.</dc:description>
+          <dc:subject>900 Geschichte und Geografie » 900 Geschichte » 900 Geschichte und Geografie</dc:subject>
+          <dc:subject>700 Künste und Unterhaltung » 780 Musik » 780 Musik</dc:subject>
+          <dc:subject>Fakultät für Geistes- und Kulturwissenschaften » Geschichte » Dissertationen</dc:subject>
           <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
           <dc:language>deu</dc:language>
           <dc:format>application/pdf</dc:format>

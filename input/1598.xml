@@ -1,0 +1,23 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>1598</id><datestamp>2018-01-22</datestamp><setSpec>DDC:5:51:510</setSpec>
+          <dc:title xml:lang="en">Overlapping and Nonoverlapping Orderings for Preconditioning</dc:title>
+          <dc:creator>Fritzsche, David</dc:creator>
+          <dc:date>2018-01-22</dc:date>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2010/fritzsche</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=1598</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20100930-113815-0</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-1747/dc1013.pdf</dc:identifier>
+          <dc:description xml:lang="en">Several ordering techniques for block based preconditioning are presented.&#13;
+&#13;
+The XPABLO algorithm as an extension of the original PABLO and TPABLO algorithms incorporates as a preprocessing step a nonsymmetric permutation combined with row and column scalings to obtain a large diagonal.  A more general parametrization can be implemented in XPABLO while keeping the original time complexity of PABLO.  It is shown that a block Gauss-Seidel preconditioner can be implemented to have the same execution time as the corresponding block Jacobi preconditioner.  Experiments are presented showing that for certain classes of matrices, the block Gauss-Seidel preconditioner used with the system permuted with the XPABLO algorithm can outperform the best ILUTP preconditioners in a large set of experiments.&#13;
+&#13;
+The new OBGP algorithm extends a given nonoverlapping block ordering to an overlapping ordering to be used for algebraic Schwarz preconditioners. It is shown by experiments that using a multiplicative Schwarz preconditioner based on the extended ordering instead of using a block Gauss--Seidel preconditioner based on the original ordering can result in faster convergence.</dc:description>
+          <dc:subject>Schwartz-Methods</dc:subject>
+          <dc:subject>Preconditioning</dc:subject>
+          <dc:subject>Graph Theory</dc:subject>
+          <dc:subject>500 Naturwissenschaften und Mathematik » 510 Mathematik » 510 Mathematik</dc:subject>
+          <dc:subject>Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik » Dissertationen</dc:subject>
+          <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
+          <dc:language>eng</dc:language>
+          <dc:format>application/pdf</dc:format>
+          <dc:type>Text</dc:type>
+        </oai_dc:dc>

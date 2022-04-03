@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3902">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Specifying Formatively-measured Constructs In Endogenous Positions In Structural Equation Models: Caveats and Guidelines For Researchers</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Temme, Dirk␞Diamantopoulos, Adamantios␞Pfegfeidel, Vanessa</displayForm>
+                        <namePart type="family">Temme</namePart>
+                        <namePart type="given">Dirk␞Diamantopoulos</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-04-08</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Formatively-measured constructs (FMCs) are increasingly used in marketing research as well as in other disciplines. Although constructs operationalized by means of formative indicators have mostly been placed in exogenous positions in structural equation models, they also frequently occupy structurally endogenous positions. The vast majority of studies specifying endogenously positioned FMCs have followed the common practice of modeling the impact of antecedent (predictor) constructs directly on the focal FMC without specifying indirect effects via the formative indicators. However, while widespread even in top journals, this practice is highly problematic as it can lead to biased parameter estimates, erroneous total effects, and questionable conclusions. As a result both theory development and empirically-based managerial recommendations are likely to suffer. Against this background, the authors offer appropriate modeling guidelines to ensure that a conceptually sound and statistically correct model specification is obtained when a FMC occupies an endogenous position. The proposed guidelines are illustrated using both covariance structure analysis (CSA) and partial least squares (PLS) methods and are applied to a real-life empirical example. Implications for researchers are considered and ‘good practice’ recommendations offered.</abstract>
+                    <subject>
+                        <topic>Formatively-measured constructs</topic>
+                        <topic>Endogenous formative indicators</topic>
+                        <topic>Covariance structure analysis</topic>
+                        <topic>Partial least squares</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20140408-091822-7</identifier>
+                    <identifier type="sys">HT018231155</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3902</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3902">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp14/sdp14005.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3902"
+            DMDID="DMD_wuppertal_elpub_3902">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3902"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

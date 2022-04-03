@@ -1,0 +1,62 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>5160</id><datestamp>2018-01-22</datestamp><setSpec>DDC:5:53:530</setSpec>
+          <dc:title xml:lang="en">Model-based Algorithm Development with Focus on Biosignal Processing</dc:title>
+          <dc:creator>Yao, Yu</dc:creator>
+          <dc:date>2018-01-22</dc:date>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2015/yao</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=5160</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20150904-110417-0</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-4994/dc1515.pdf</dc:identifier>
+          <dc:description xml:lang="en">&lt;p&gt;In recent years, the development of cheap and robust sensors&#13;
+combined with the ever increasing availability of the internet&#13;
+led to a revolution in information technology, giving rise to an&#13;
+amount of data, which was unimaginable just a decade ago. This&#13;
+explosion in data lead to an increased demand for algorithms&#13;
+for processing this data. However, an often overlooked aspect&#13;
+is that with ever sophisticated algorithms there is associated a&#13;
+demand for equally sophisticated mathematical modelling. In&#13;
+this thesis, we explore the interaction between algorithm design&#13;
+and modelling.&#13;
+&lt;br&gt;     Although, the models and methods discussed here are not&#13;
+limited to any single domain of application, we will base our discussion&#13;
+on example applications from the domain of biomedical&#13;
+engineering. This is because the analysis of physiological time&#13;
+series is characterised by two problems which help to highlight&#13;
+the importance of modelling. First, the high noise level of biological&#13;
+signals requires strong regularization, which can be provided&#13;
+via a model. Second, in many medical applications the value of&#13;
+interest is not directly observable. Thus, these latent variables&#13;
+have to be estimated, e.g. with the help of a model.&#13;
+&lt;br&gt;     In the course of our discussion, we will encounter two major&#13;
+modalities. The rst one is Ballistocardiography (BCG),&#13;
+a modality often used in home monitoring applications, which&#13;
+is based on simple pressure sensors, yielding a scalar signal.&#13;
+The second modality is functional magnetic resonance imaging&#13;
+(fMRI), a complex and highly sophisticated method, capable of&#13;
+generating images of brain functionality.&#13;
+&lt;br&gt;      In the rst half of this thesis, we will focus on signal separation&#13;
+and denoising methods for BCG. The performance of&#13;
+these methods is then veried with model generated data, which&#13;
+provides a very common example of how modelling interacts&#13;
+with algorithm design. However, the relationship between algorithms&#13;
+and modelling goes much deeper, since new insights&#13;
+gained through better signal processing methods can also inspire&#13;
+new models. This can be seen from the improved probabilistic&#13;
+BCG model, which emerged from the results of the BCG signal&#13;
+separation and denoising method. Finally, the new model opens&#13;
+the possibility for probabilistic higher level analysis of the BCG&#13;
+signal, which exemplies how improvements in modelling leads&#13;
+to improved algorithms.&#13;
+&lt;br&gt;      In the latter half of the thesis, we will focus on embedded&#13;
+clustering for fMRI data, which allows us to perform model inversion&#13;
+and clustering at the same time. Here we see that although&#13;
+there are great dierences between the two modalities BCG and&#13;
+fMRI, the model based approach reveals how methods developed&#13;
+for BCG can be applied to fMRI. This again demonstrates the&#13;
+importance of a model based view on algorithm design.</dc:description>
+          <dc:subject>500 Naturwissenschaften und Mathematik » 530 Physik » 530 Physik</dc:subject>
+          <dc:subject>Fakultät für Mathematik und Naturwissenschaften » Physik » Dissertationen</dc:subject>
+          <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
+          <dc:language>eng</dc:language>
+          <dc:format>application/pdf</dc:format>
+          <dc:type>Text</dc:type>
+        </oai_dc:dc>

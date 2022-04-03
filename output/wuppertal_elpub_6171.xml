@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6171">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Regional Convergence in the Russian Federation - Spatial and Temporal Dynamics</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Perret, Jens K.</displayForm>
+                        <namePart type="family">Perret</namePart>
+                        <namePart type="given">Jens K.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-09-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Set in the context of the neoclassical growth model this study revisits the discussion of economic convergence in the context of the Russian Federation. Compared to previous similar studies, here a larger more comprehensive data set is implemented (1994-2013) allowing in particular to check for differences in convergence during different time periods. Using a panel approach more reliable results are achieved which point to absolute convergence occurring across the regions of the Russian Federation. The stability of these results is strengthened by estimating Kernel density to test for the presence of potential groups of regions with different steady states, on the one hand, and Markov transition matrices to test for the temporal stability of the regions on the other. Finally, a quantile regression approach is used to assure overall stability of the convergence speed. All results show that Russia reports absolute convergence up to Vladimir Putin&apos;s the second term as president and occurring again during his third term in office and conditional convergence in all time periods. All results remain stable even when including spatial effects or when testing for temporal stability. Quantile regression analysis also reports a more or less stable speed of convergence across the whole time horizon which is significantly higher than comparable results for the US or the regions of the European Union.</abstract>
+                    <abstract type="content" lang="ger">JEL Classification : C21, P25, O47, R11 
+
+ Dateigröße: 754 KB</abstract>
+                    <subject>
+                        <topic>Russian Federation</topic>
+                        <topic>Quantile Regression</topic>
+                        <topic>Regional Economics</topic>
+                        <topic>Economic Convergence</topic>
+                        <topic>Growth Dynamics</topic>
+                        <topic>Panel Econometrics</topic>
+                        <topic>Spatial Econometrics</topic>
+                        <topic>Kernel Density Estimation</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20160920-122028-9</identifier>
+                    <identifier type="sys">HT019123020</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6171</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6171">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp16/sdp16004.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6171"
+            DMDID="DMD_wuppertal_elpub_6171">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6171"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

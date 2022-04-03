@@ -1,0 +1,22 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>6750</id><datestamp>2018-01-22</datestamp><setSpec>DDC:5:51:510</setSpec>
+          <dc:title xml:lang="en">Models and Methods for reliability based Maintenance Scheduling</dc:title>
+          <dc:creator>Gröger, Michael</dc:creator>
+          <dc:date>2018-01-22</dc:date>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2016/groeger</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=6750</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20170309-100548-6</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-6558/dc1639.pdf</dc:identifier>
+          <dc:description xml:lang="de">&lt;p&gt;This thesis present methods and models for reliability based maintenance scheduling. In particular the thesis tries to optimize the maintenance scheduling of a gas turbine. Therefore, it takes the individual lifetime consumption of the components and the failure probability into account. As first we introduce basic information about probabilistic lifetime consumption which is essential for our optimization approach. &#13;
+&lt;br&gt;&lt;br&gt;&#13;
+To model the optimization problem we establish three different models. First, we introduce a model which considers only the service action “replacement”. In this case we can only replace components by new one and the risk for the component will be set back to zero. We use Impulse Control to build an optimization problem for this Model. Further, we use the direct solution approach to solve the problem and present different numerical case studies for realized models.&#13;
+&lt;br&gt;&lt;br&gt;&#13;
+Also in the second model the service action is replacement, but in contrast to the first one we can replace failed parts and go back in operation. To take this opportunity into account we have to use Dynamic Programing as mathematical framework to solve it. We use a parallel implementation of the “Backward Algorithm” to find an optimal decision strategy. To show how our problem suffers from the curse of dimensionality, we present runtimes studies for different sized problems. Further, we introduce an approximate Dynamic Programing approach to overcome this point. This approach exploits the problem structure.&#13;
+&lt;br&gt;&lt;br&gt;&#13;
+As last model we introduce the service action “inspection”. In this case we gather information of the actual state of a part during service and diced based on this information to replace the part or not. Further, we can reduce the probability of failure by the gained information, if do not replace it prematurely. To implement this idea we developed a probabilistic crack growth model with inspection. As mathematical frame work we use partially observable Markov decision process which gives us an opportunity to take the incomplete state information of the system into account. We present an exemplary parallel implementation of an exact and approximate solution algorithm to solve this class of optimization problems.</dc:description>
+          <dc:subject>500 Naturwissenschaften und Mathematik » 510 Mathematik » 510 Mathematik</dc:subject>
+          <dc:subject>Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik » Dissertationen</dc:subject>
+          <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
+          <dc:language>eng</dc:language>
+          <dc:format>application/pdf</dc:format>
+          <dc:type>Text</dc:type>
+        </oai_dc:dc>

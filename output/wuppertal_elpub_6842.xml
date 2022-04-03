@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_6842">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Are Generalists Beneficial to Corporate Shareholders? Evidence from Sudden Deaths</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Betzer, André␞Ibel, Maximilian␞Lee, Hye Seung (Grace)␞Limbach, Peter␞Salas, Jesus M.</displayForm>
+                        <namePart type="family">Betzer</namePart>
+                        <namePart type="given">André␞Ibel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-04-13</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This study documents a positive, economically meaningful impact of executives’ general managerial skills on shareholder value. Examining 171 sudden executive deaths over thirty years, we find that a one-standarddeviation increase in the general ability index corresponds to at least a 1.5 percentage point decrease in abnormal stock returns to death announcements. Generalists are found to be significantly more valuable for firms with fewer growth prospects where difficult tasks (e.g., restructurings) need to be performed and adaptations to changing business environments become necessary. Our results provide a market-based explanation for the documented generalist hiring premium and the increasing share of generalists. 
+
+ JEL Classification : G30, G34, J24 
+
+Dateigröße : 539 KB</abstract>
+                    <subject>
+                        <topic>executive heterogeneity</topic>
+                        <topic>managerial work experience</topic>
+                        <topic>firm value</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics » Schumpeter Discussion Papers (SDP)"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20170413-133720-1</identifier>
+                    <identifier type="sys">HT019300847</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_6842</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_6842">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp16/sdp16009.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_6842"
+            DMDID="DMD_wuppertal_elpub_6842">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_6842"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

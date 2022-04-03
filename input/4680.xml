@@ -1,0 +1,85 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>4680</id><datestamp>2018-01-22</datestamp><setSpec>DDC:5:53:530</setSpec>
+          <dc:title xml:lang="en">Stochastic Methods for the Fermion Determinant in Lattice Quantum Chromodynamics</dc:title>
+          <dc:creator>Finkenrath, Jacob Friedrich</dc:creator>
+          <dc:date>2018-01-22</dc:date>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/physik/diss2015/finkenrath</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=4680</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20150316-150522-7</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-4620/dc1502.pdf</dc:identifier>
+          <dc:description xml:lang="en">&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;In this thesis, algorithms in lattice quantum chromodynamics will be presented&#13;
+by developing and using stochastic methods for fermion determinant&#13;
+ratios. For that an integral representation will be proved which can be used&#13;
+also for non hermitian matrices. The stochastic estimation or the Monte Carlo&#13;
+integration of this integral representation introduces stochastic fluctuations&#13;
+which are controlled by using Domain Decomposition of the Dirac operator&#13;
+and introducing interpolation techniques.&#13;
+&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Determinant ratios of the lattice fermion operator, here theWilson Dirac operator,&#13;
+are needed for corrections of the Boltzmann weight. These corrections&#13;
+have interesting applications e.g. in the mass by using mass reweighting. It&#13;
+will be shown that mass reweighting can be used e.g. to improve extrapolation&#13;
+in the light quark mass towards the chiral or physical point or to introduce an&#13;
+isospin breaking by splitting up the mass of the light quark. Furthermore the&#13;
+extraction of the light quarkmasses will be shown by using dynamical 2 flavor&#13;
+CLS ensembles.&#13;
+&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Stochastic estimation of determinant ratios can be used in Monte Carlo algorithms,&#13;
+e.g. in the Partial Stochastic Multi Step algorithm which can sample&#13;
+two mass–degenerate quarks. The idea is to propose a new configuration&#13;
+weighted by the pure gauge weight and including afterwards the fermion&#13;
+weight by using Metropolis accept–reject steps. It will be shown by using&#13;
+an adequate interpolation with relative gauge fixing and a hierarchical filter&#13;
+structure that it is possible to simulate moderate lattices up to (2.1 fm)&lt;sup&gt;4&lt;/sup&gt;. Furthermore the iteration of the pure gauge update can be increased which can&#13;
+decouple long autocorrelation times from the weighting with the fermions.&#13;
+&lt;br&gt;   Moreover a novel HybridMonte Carlo algorithm based on Domain Decomposition&#13;
+and combined with mass reweighting will be presented. By using&#13;
+Domain Decomposition it is possible to split up the mass term in the Schur&#13;
+complement and the block operators. By introducing a higher mass in the&#13;
+Schur complement an effective cut–off parameter is introduced and sampling&#13;
+of smaller quarkmasses is possible. By usingmass reweighting the weight can&#13;
+be corrected towards 1+1 ensembles.&#13;
+&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;In summary it will be shown how stochastic estimation of fermion determinant&#13;
+ratios can be used to improve lattice results in an efficient way with&#13;
+limited numerical effort.</dc:description>
+          <dc:description xml:lang="de">&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;In dieser Arbeit werden Algorithmen, die die stochastische Schätzung von&#13;
+Determinanten-Verhältnissen verwenden, im Bereich der Gittereichtheorie beschrieben&#13;
+und eingeführt. Dafürwurde für die Schätzung eine Integraldarstellung&#13;
+einer komplexen Matrix bewiesen und verwendet. Die Schätzung kann&#13;
+dabei durch Methoden, wie die Gebietszerlegung des Dirac Operators oder&#13;
+Interpolationstechniken verbessert und kontrolliert werden.&#13;
+&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Im Boltzmannfaktor der Gittereichtheorie müssen genau dann Determinanten-&#13;
+Verhältnisse betrachtet werden, wenn die Wirkung der Fermionen geändert&#13;
+wird, hier die Wilson-Dirac Wirkung. Dies ist der Fall bei Massenkorrekturen&#13;
+der Quarks, auch als “Mass Reweighting” bekannt. Hier wird Mass&#13;
+Reweighting benutzt, um die Extrapolation in der Masse der leichten Quarks&#13;
+zum chiralen oder physikalischen Punkt zu verbessern und um die Brechung&#13;
+der Isospin–Symmetrie in den leichten Quarks herbeizuführen. Des Weiteren&#13;
+werden die Massen der leichten Quarks auf CLS Ensembles für einen finiten&#13;
+Gitterabstand bestimmt.&#13;
+&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Die stochastische Schätzung kann auch inMonte CarloAlgorithmen benutzt&#13;
+werden, wie dem Partial Stochastic Multi Step Algorithmus, der Ensembles&#13;
+gewichtet mit zwei Quarks der gleichen Masse. Es wird gezeigt, dass es mit&#13;
+einer adäquaten Interpolationstechnik mit relativer Eichfixierung und einer&#13;
+hierarchischen Filterstruktur möglich ist, moderat große Gitter bis zu einer&#13;
+Größe von (2.1 fm)&lt;sup&gt;4&lt;/sup&gt; zu simulieren. Die Idee des Algorithmus ist, die neue&#13;
+Konfiguration durch ein reines Eich-Update vorzuschlagen und im Nachhinein&#13;
+unter Einbeziehung des Fermionengewichts durch Metropolis Akzeptanzschritte&#13;
+zu berichtigen. Dies hat den Vorteil, dass die Iteration des Eichupdates&#13;
+unabhängig von der Fermionengewichtung erhöhtwerden kann, so dass&#13;
+die Autokorrelationszeit dabei reduziert wird.&#13;
+&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Des Weiteren wird ein neuer Hybrid Monte Carlo Algorithmus kombiniert&#13;
+mit Mass Reweighting vorgestellt. Bei Benutzung von Gebietszerlegung ist es&#13;
+möglich, denMassenparameter imSchur-Komplement und in den BlockOperatoren&#13;
+aufzuspalten. Eine größereMasse imSchur Komplement fungiert dabei&#13;
+als effektiver Cut-Off Parameter, wodurch kleinere Quark Massen simuliert&#13;
+werden können. Durch Benutzung von Mass Reweighting kann das Boltzmann&#13;
+Gewicht eines Ensembles zu einem 1+1 Ensemble verändert werden.&#13;
+&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Zusammenfassend wird in dieser Arbeit gezeigt, wie stochastische Schätzungen&#13;
+von Determinanten-Verhältnissen dazu genutzt werden können, Resultate&#13;
+vom Gitter zu verbessern bei gleichzeitig geringerem rechnerischen&#13;
+Aufwand.</dc:description>
+          <dc:subject>500 Naturwissenschaften und Mathematik » 530 Physik » 530 Physik</dc:subject>
+          <dc:subject>Fakultät für Mathematik und Naturwissenschaften » Physik » Dissertationen</dc:subject>
+          <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
+          <dc:language>eng</dc:language>
+          <dc:format>application/pdf</dc:format>
+          <dc:type>Text</dc:type>
+        </oai_dc:dc>

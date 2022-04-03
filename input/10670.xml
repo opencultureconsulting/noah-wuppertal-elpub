@@ -1,0 +1,46 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>10670</id><datestamp>2020-07-20</datestamp><setSpec>DDC:5:51</setSpec>
+          <dc:title xml:lang="en">Spectral Projection -  Robustness and Orthogonality Considerations</dc:title>
+          <dc:creator>Galgon, Martin</dc:creator>
+          <dc:date>2020-07-20</dc:date>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2020/galgon</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=10670</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20200720-110158-2</dc:identifier>
+          <dc:identifier>https://doi.org/10.25926/xffw-rb50</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-9975/dc2007.pdf</dc:identifier>
+          <dc:description xml:lang="en">&lt;p&gt;This work deals with a special incarnation of subspace iteration—spectral projection—&#13;
+in order to solve Eigenproblems of standard or generalized form, given by Hermitian&#13;
+matrices or definite matrix pairs. After establishing the general theory, a selection&#13;
+of possible approximations of the ideal filtering function to obtain an approximate&#13;
+projector for a specified spectral target interval is highlighted, and many aspects of&#13;
+the convergence behavior of the resulting methods and its pathological peculiarities&#13;
+are analyzed experimentally. The work touches on implementation aspects and&#13;
+briefly introduces an accompanying software framework for parallel solution of said&#13;
+eigenproblems on large hybrid parallel supercomputers with many cores. In the&#13;
+remainder of the work, the major crucial implication of a parallel implementation that&#13;
+aims to subdivide the target interval for independent computation, the maintenance&#13;
+or reestablishment of orthogonality among the computed eigenvectors of all subintervals,&#13;
+are examined. Many aspects of possible approaches are presented and&#13;
+their feasibility is evaluated.</dc:description>
+          <dc:description xml:lang="de">&lt;p&gt;Diese Arbeit beschäftigt sich mit einer speziellen Inkarnation der Unterraumiterationsmethode—&#13;
+spektraler Projektion—zur Lösung von Eigenproblemen in Standardoder&#13;
+verallgemeinerter Form, bestehend aus hermiteschen Matrizen oder definiten&#13;
+Matrixpaaren. Die grundlegende Theorie wird etabliert, eine Auswahl möglicher&#13;
+Näherungen der idealen Filterfunktion zur Konstruktion eines approximativen Projektors&#13;
+für ein vorgegebenes spektrales Zielintervall präsentiert, und viele Aspekte&#13;
+des Konvergenzverhaltens der resultierenden Methode sowie seine pathologischen&#13;
+Absonderlichkeiten durch geeignete Experimente analysiert. Die Arbeit beleuchtet&#13;
+Implementierungsaspekte und eine begleitende Software zur Lösung besagter&#13;
+Eigenprobleme auf großen, hybrid-parallelen Supercomputern mit einer großen Anzahl&#13;
+Kerne wird kurz vorgestellt. Nachfolgend wird die wichtigste Implikation einer&#13;
+parallelen Implementierung, welche versucht, das Zielintervall zur unabhängigen&#13;
+Berechnung in Teilintervalle zu unterteilen, nämlich das Aufrechterhalten oder die&#13;
+Wiederherstellung der Orthogonalität zwischen den Eigenvektoren aller berechneter&#13;
+Teilintervalle, untersucht. Viele Aspekte möglicher Vorgehensweisen werden präsentiert&#13;
+und ihre Verwendbarkeit bewertet.</dc:description>
+          <dc:subject>500 Naturwissenschaften und Mathematik » 510 Mathematik</dc:subject>
+          <dc:subject>Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik » Dissertationen</dc:subject>
+          <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
+          <dc:language>eng</dc:language>
+          <dc:format>application/pdf</dc:format>
+          <dc:type>Text</dc:type>
+        </oai_dc:dc>

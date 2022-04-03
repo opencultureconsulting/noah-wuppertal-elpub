@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_5121">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wage Inequality, Skill Inequality, and Employment: Evidence from PIAAC</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jovicic, Sonja</displayForm>
+                        <namePart type="family">Jovicic</namePart>
+                        <namePart type="given">Sonja</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-08-31</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This paper investigates how much of the difference in wage distributions is related to differences in skill distributions and whether a compressed wage distribution is associated with high unemployment across core OECD countries. Some countries that have more compressed (dispersed) wage structures simultaneously have more compressed (dispersed) skill structures as well, and according to many economists, variations in skill inequality can explain variations in wage inequality across different countries. Firstly, this paper examines the relationship between skill compression and wage compression; secondly, wage compression is linked to labor market outcomes in terms of employment. Compressed wage structure (usually caused by labor market institutions) is often seen as a cause for high unemployment in the low-skill sector. Does the wage compression hypothesis hold? Based on the PIAAC survey of adult skills for seventeen OECD countries, this paper seeks to shed light on these two important topics.</abstract>
+                    <abstract type="content" lang="ger">Dateigröße: 1 MB 
+
+JEL Code: J31, J24, E24</abstract>
+                    <subject>
+                        <topic>wage distribution</topic>
+                        <topic>earnings</topic>
+                        <topic>skill distribution</topic>
+                        <topic>employment</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20150831-121033-9</identifier>
+                    <identifier type="sys">HT018740787</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_5121</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_5121">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp15/sdp15007.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_5121"
+            DMDID="DMD_wuppertal_elpub_5121">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_5121"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

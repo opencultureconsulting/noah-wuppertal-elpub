@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_731">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>&quot;Unternehmerische Persönlichkeit&quot; - eine theoretische Rekonstruktion und nominaldefinitorische Konturierung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Braukmann, Ulrich␞Bijedic, Teita␞Schneider, Daniel</displayForm>
+                        <namePart type="family">Braukmann</namePart>
+                        <namePart type="given">Ulrich␞Bijedic</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-09-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">This article examines the construct of &quot;Entrepreneurial Personality&quot;. In business practice there is growing mutual consent about the relevance of this construct but precise definitions in literature are still missing. This article first looks at some approaches which define the general construct &quot;Personality&quot; from a psychological point of view and subsequently creates a contouring definition of &quot;Entrepreneurial Personality&quot;. On the one hand this article defines the construct in a broader view, which is tied in with the perception of an entrepreneurial personality in the daily business practice and furthermore sets own normative course. On the other hand it defines &quot;Entrepreneurial Personality&quot; more specifically to contribute to further scientific discussion by enumerating the typical attributes connected with Entrepreneur identity precisely.</abstract>
+                    <abstract type="content" lang="ger">Dateigröße: 738,9 KB</abstract>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics » Schumpeter Discussion Papers (SDP)"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20080507</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_731</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_731">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp08/sdp08003.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_731"
+            DMDID="DMD_wuppertal_elpub_731">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_731"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

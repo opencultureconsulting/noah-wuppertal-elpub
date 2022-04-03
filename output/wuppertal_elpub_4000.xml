@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_4000">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Open Market Share Repurchases in Germany: A Conditional Event Study Approach</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Andres, Christian␞Betzer, André␞Doumet, Markus␞Theissen, Erik</displayForm>
+                        <namePart type="family">Andres</namePart>
+                        <namePart type="given">Christian␞Betzer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-07-21</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">We analyze the decision to announce an open market share repurchase and the share price reaction to the announcement. We use a conditional estimation approach which takes into account that the repurchase decision is made rationally and that, consequently, there is a potential selection bias. This approach requires a &quot;non-event sample&quot; of firms that could reasonably be expected to announce a repurchase but did not. The specific institutional rules for share repurchases in Germany allow us to construct such a sample. We find that a conditional approach yields results that are qualitatively comparable but differ in detail from those obtained using a non-conditional approach. We confirm earlier findings of negative share price performance prior to the repurchase announcement and positive and significant announcement day abnormal returns. The results of our probit models are consistent with the free cash fl ow hypothesis and provide at least partial support for the rent extraction, signalling and capital structure hypothesis. The results of the crosssectional regressions provide strong support for the signalling hypothesis once we control for selection bias. 
+
+ JEL Classification: G14, G35 
+
+ Dateigröße: 882 KB</abstract>
+                    <subject>
+                        <topic>repurchases</topic>
+                        <topic>event study</topic>
+                        <topic>selection bias</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Wirtschaftswissenschaft/Schumpeter School of Business and Economics » Schumpeter Discussion Papers (SDP)"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20140721-121743-9</identifier>
+                    <identifier type="sys">HT018334704</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_4000</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_4000">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp14/sdp14010.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_4000"
+            DMDID="DMD_wuppertal_elpub_4000">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_4000"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

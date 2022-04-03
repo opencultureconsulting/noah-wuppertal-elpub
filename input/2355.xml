@@ -1,0 +1,58 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>2355</id><datestamp>2018-01-22</datestamp><setSpec>DDC:5:51:510</setSpec>
+          <dc:title xml:lang="en">Generalized Algebraic Kernels and Multipole Expansions for massively parallel Vortex Particle Methods</dc:title>
+          <dc:creator>Speck, Robert</dc:creator>
+          <dc:date>2018-01-22</dc:date>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2011/speck</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=2355</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20111103-115032-0</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-2510/dc1115.pdf</dc:identifier>
+          <dc:description xml:lang="en">&lt;p&gt;Regularized vortex particle methods offer an appealing alternative to common&#13;
+mesh-based numerical methods for simulating vortex-driven fluid flows. While inherently&#13;
+mesh-free and adaptive, a stable implementation using particles for discretizing the vorticity&#13;
+field must provide a scheme for treating the overlap condition, which is required for convergent&#13;
+regularized vortex particle methods. Moreover, the use of particles leads to an &lt;i&gt;N&lt;/i&gt;-body&#13;
+problem. By the means of fast, multipole-based summation techniques, the unfavorable yet&#13;
+intrinsic &lt;i&gt;O&lt;/i&gt;(&lt;i&gt;N&lt;/i&gt;&lt;sup&gt;&lt;font size="1"&gt;2&lt;/font&gt;&lt;/sup&gt;)-complexity of these problems can be reduced to at least &lt;i&gt;O&lt;/i&gt;(&lt;i&gt;N&lt;/i&gt; log&lt;i&gt;N&lt;/i&gt;). However,&#13;
+this approach requires a thorough and challenging analysis of the underlying regularized&#13;
+smoothing kernels. We introduce a novel class of algebraic kernels, analyze its properties and&#13;
+formulate a decomposition theorem, which radically simplifies the theory of multipole expansions&#13;
+for this case. This decomposition is of great help for the convergence analysis of&#13;
+the multipole series and an in-depth error estimation of the remainder. We use these results&#13;
+to implement a massively parallel Barnes-Hut tree code with &lt;i&gt;O&lt;/i&gt;(&lt;i&gt;N&lt;/i&gt; log&lt;i&gt;N&lt;/i&gt;)-complexity, which&#13;
+can perform complex simulations with up to 10&lt;sup&gt;&lt;font size="1"&gt;8&lt;/font&gt;&lt;/sup&gt; particles routinely. A thorough investigation&#13;
+shows excellent scalability up to 8192 cores on the IBM Blue Gene/P system JUGENE&#13;
+at Jülich Supercomputing Centre. We demonstrate the code’s capabilities along different&#13;
+numerical examples, including the dynamics of two merging vortex rings. In addition, we&#13;
+extend the tree code to account for the overlap condition using the concept of remeshing, thus&#13;
+providing a promising and mathematically well-grounded alternative to standard mesh-based&#13;
+algorithms.</dc:description>
+          <dc:description xml:lang="de">&lt;p&gt;Regularisierte Vortex-Partikel-Methoden bilden eine interessante&#13;
+Alternative zu gitterbasierten numerischen Methoden zur Simulation von vortex-dominierten&#13;
+Flüssigkeitsströmungen. Eine stabile Implementierung dieses intrinsisch gitterfreien und&#13;
+adaptiven Ansatzes durch die Diskretisierung des Vortex-Feldes benötigt eine Schema zur&#13;
+Behandlung der Überlapp-Bedingung, welche für eine konvergente regularisierte Vortex-&#13;
+Partikel-Methode erforderlich ist. Desweiteren führt der Gebrauch von Partikeln zu einem &lt;i&gt;N&lt;/i&gt;-&#13;
+Körper-Problem. Schnelle, multipol-basierte Summationstechniken können die ungünstige&#13;
+aber intrinsisch verankerte &lt;i&gt;O&lt;/i&gt;(&lt;i&gt;N&lt;/i&gt;&lt;sup&gt;&lt;font size="1"&gt;2&lt;/font&gt;&lt;/sup&gt;)-Komplexität dieser Probleme auf mindestens &lt;i&gt;O&lt;/i&gt;(&lt;i&gt;N&lt;/i&gt; log&lt;i&gt;N&lt;/i&gt;)&#13;
+reduzieren. Dieser Ansatz benötigt jedoch eine genaue und herausfordernde Analyse der zugrunde&#13;
+liegenden Regularisierungskerne. Wir führen eine neue Klasse algebraischer Kerne&#13;
+ein, analysieren ihre Eigenschaften und leiten einen Zerlegungssatz her, welcher die Theorie&#13;
+der Multipol-Entwicklungen für diesen Fall radikal vereinfacht. Diese Zerlegung ist von&#13;
+großem Nutzen bei der Konvergenzanalyse der Multipolreihe und einer detaillierten Fehlerabschätzung&#13;
+des Restgliedes. Wir nutzen diese Ergebnisse zur Implementation eines massivparallelen&#13;
+Barnes-Hut Tree Codes mit &lt;i&gt;O&lt;/i&gt;(&lt;i&gt;N&lt;/i&gt; log&lt;i&gt;N&lt;/i&gt;)-Komplexität, welcher komplexe Simulationen&#13;
+mit bis zu 10&lt;sup&gt;&lt;font size="1"&gt;8&lt;/font&gt;&lt;/sup&gt; Partikeln problemlos durchführen kann. Eine genaue Analyse zeigt&#13;
+exzellente Skalierbarkeit auf bis zu 8192 Kernen des IBM Blue Gene/P Systems JUGENE&#13;
+am Jülich Supercomputing Centre. Wir demonstrieren die Fähigkeiten des Codes anhand verschiedener&#13;
+numerischer Beispiele, unter anderem anhand der Dynamik zweier fusionierender&#13;
+Vortex-Ringe. Zusätzlich erweitern wir den Tree Code derart, dass die Überlapp-Bedingung&#13;
+mit Hilfe des Remeshing-Konzepts eingehalten werden kann, so dass der Code eine vielversprechende&#13;
+und mathematisch fundierte Alternative zu gitterbasierten Standard-Algorithmen&#13;
+darstellt.</dc:description>
+          <dc:subject>500 Naturwissenschaften und Mathematik » 510 Mathematik » 510 Mathematik</dc:subject>
+          <dc:subject>Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik » Dissertationen</dc:subject>
+          <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
+          <dc:language>eng</dc:language>
+          <dc:format>application/pdf</dc:format>
+          <dc:type>Text</dc:type>
+        </oai_dc:dc>

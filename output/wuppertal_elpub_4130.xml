@@ -1,0 +1,66 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_4130">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Price Competition in the enlarged EU 27 Export Market and the Role of Foreign Direct Investment</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Perret, Jens K.</displayForm>
+                        <namePart type="family">Perret</namePart>
+                        <namePart type="given">Jens K.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-08-13</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">From a microeconomic perspective competition between firms has been duely discussed. Extending microeconomic concepts to a macroeconomic level and considering competition between countries becomes more complex. The complexity issues is tackled in this study by extending a methodology developed in Borbely (2006) to account for specialization in specific sectors as well as price groups that under certain assumptions can be seen as a quality indicator. This study observes 27 EU countries - excluding Croatia - and Turkey. This allows for a view on the competition structure in the context of the EU common market. 
+ In a second step of the analysis it is analyzed whether FDI inflows impact the price - quality - level of a sector or the probability to switch to a higher or a lower price level in said sector. Where in other publications including \cite{borbely06} for selected EU countries a positive impact of FDI inflows is found, this study finds for the EU as a whole or the EU 15 or EU 10+1 (including Turkey) sub-groups no significant impact of FDI inflows on the price level or the probability to switch to another price level.</abstract>
+                    <abstract type="content" lang="ger">JEL-Classification : F14, F15, L16 
+
+Dateigröße : 815 KB</abstract>
+                    <subject>
+                        <topic>Structural Change</topic>
+                        <topic>European Union</topic>
+                        <topic>Price Competition</topic>
+                        <topic>Exports</topic>
+                        <topic>Revealed Comparative Advantages</topic>
+                        <topic>Export Unit Values</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20140813-092831-1</identifier>
+                    <identifier type="sys">HT018363810</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_4130</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_4130">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp14/sdp14011.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_4130"
+            DMDID="DMD_wuppertal_elpub_4130">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_4130"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

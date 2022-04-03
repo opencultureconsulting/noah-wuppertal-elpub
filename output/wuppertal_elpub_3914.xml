@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3914">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>You can’t always get what you want: Gender Differences in Job Satisfaction of University Graduates</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bönte, Werner␞Krabel, Stefan</displayForm>
+                        <namePart type="family">Bönte</namePart>
+                        <namePart type="given">Werner␞Krabel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-04-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract type="content" lang="eng">Previous literature stressed on the gender differences in job satisfaction and the factors influencing the job satisfaction of men and women. Two rationales are usually provided for the finding that women tend to be relatively more satisfied with their jobs than men although disadvantaged in labour markets: first, women may have relatively lower expectations of career and income, and second, they may attach relatively less importance to extrinsic rewards than men. In order to analyse whether substantial gender differences exist already at the beginning of the career, we employ information of over 20000 graduates collected through a large-scale survey of German university graduates who recently entered the labour market. We find that the job satisfaction of female graduates is on average slightly lower than the job satisfaction of male graduates, but our results do not point to substantial gender differences. In our sample of highly qualified individuals, men and women are very similar in what they want from their jobs and also in their perceptions of what they get. While our results point to substantial similarity of men and women in the early career stage, gender differences may emerge at later stages of the career life cycle. 
+
+ JEL classification: J16, J28, J81 
+
+ Dateigröße: 818 KB</abstract>
+                    <subject>
+                        <topic>job satisfaction</topic>
+                        <topic>gender differences</topic>
+                        <topic>working conditions</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20140424-094132-0</identifier>
+                    <identifier type="sys">HT018240776</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3914</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3914">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp14/sdp14007.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3914"
+            DMDID="DMD_wuppertal_elpub_3914">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3914"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

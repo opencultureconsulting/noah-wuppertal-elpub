@@ -1,0 +1,25 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>9190</id><datestamp>2019-03-13</datestamp><setSpec>DDC:6:62:620</setSpec>
+          <dc:title xml:lang="en">Process for Extraction of Knowledge from Crash Simulations by means of Dimensionality Reduction and Rule Mining</dc:title>
+          <dc:creator>Diez, Constantin</dc:creator>
+          <dc:date>2019-03-13</dc:date>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbd/maschinenbau/diss2019/diez</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=9190</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20190313-111615-6</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-8584/dd1902.pdf</dc:identifier>
+          <dc:description xml:lang="de">&lt;p&gt;Diese Doktorarbeit schlägt einen Prozessfluss vor, welcher eine effiziente Analyse von einer Vielzahl an Crashsimulationen ermöglicht. Der gesamte Prozessfluss hat zwei zentrale Ziele. Das erste Ziel ist die algorithmische Detektion der größten und wichtigsten Deformationsmoden einer Struktur unter Crashbelastung. Das zweite Ziel ist es herauszufinden, wie diese Deformationsmoden gezielt ausgelöst oder vermieden werden können. &#13;
+&#13;
+&lt;p&gt;Das erste Ziel der Deformationsmodensegmentierung wird in dieser Arbeit mittels einer neuartige Dimensionsreduktion angegangen. Diese Dimensionsreduktion erzeugt nicht nur eine speicherarme und netzunabhängige Darstellung der Simulationsergebnisse, sondern ermöglicht auch die Berechnung einer prozentualen Ähnlichkeitskennzahl. Infolgedessen können mithilfe niederdimensionaler Einbettung und Clustering Gruppen an Simulationen identifiziert werden, welche untereinander ein ähnliches Deformationsverhalten aufweisen. Ein Ingenieur kann zu diesem Zeitpunkt selbst entscheiden, welche Deformationsmoden er als akzeptabel befindet, und welche er vermeiden möchte.&#13;
+&#13;
+&lt;p&gt;Nachdem das bevorzugte Deformationsverhalten klargestellte wurde, kann durch Rule Mining herausgefunden werden, wie das bevorzugte  Deformationsverhalten erreicht werden kann. Der Rule Mining Algorithmus schlägt dabei multiple Design-Bereiche vor, in welchen das Ziel des Ingenieurs erfüllt wird. Weil diese Regeln an ihren Grenzen unsicher sein können, kann über die Optimierung der Regelgrenzen eine spezifizierte Zuverlässigkeit erreicht werden, um damit eine sichere Nutzung zu gewährleisten.</dc:description>
+          <dc:description xml:lang="en">&lt;p&gt;This thesis proposes an efficient process flow for analyzing an ensemble of vehicle crash simulations. The process has two goals. The first goal is to algorithmically detect the largest and most notable types of deformation. The second goal is to find out how to avoid or trigger a user-specified deformation behavior.&#13;
+&#13;
+&lt;p&gt;The first goal of deformation behavior segmentation, is approached with a novel dimensionality reduction technique. This dimensionality reduction technique not only makes it possible to derive a lightweight, intermediate, and mesh-free representation of the simulation results, but also makes it possible to compute a normalized simulation similarity. These simulation similarities can be used to find groups of similar deformation behaviors by using clustering algorithms and low-dimensional embeddings. An engineer then has to decide which types of deformation are acceptable, and which are not. &#13;
+&#13;
+&lt;p&gt;Having chosen the desired types of deformation, it is then possible to find out how they can be achieved by using rule mining. The rule mining algorithm returns multiple safe design spaces, in which the engineer’s demand is fulfilled. Because the rules might be unsafe at their boundaries, an optimization can limit the probability of a rule being wrong to within a specified limit.</dc:description>
+          <dc:subject>600 Technik, Medizin, angewandte Wissenschaften » 620 Ingenieurwissenschaften » 620 Ingenieurwissenschaften und zugeordnete Tätigkeiten</dc:subject>
+          <dc:subject>Fakultät für Maschinenbau und Sicherheitstechnik » Maschinenbau » Dissertationen</dc:subject>
+          <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
+          <dc:language>eng</dc:language>
+          <dc:format>application/pdf</dc:format>
+          <dc:type>Text</dc:type>
+        </oai_dc:dc>

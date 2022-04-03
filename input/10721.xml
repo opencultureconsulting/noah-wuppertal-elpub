@@ -1,0 +1,122 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><id>10721</id><datestamp>2020-07-29</datestamp><setSpec>DDC:5:51:510</setSpec>
+          <dc:title xml:lang="en">Lattice Boltzmann Methods for Fluid-Dynamics in Relativistic Regimes</dc:title>
+          <dc:creator>Gabbana, Alessandro</dc:creator>
+          <dc:contributor>Ehrhardt, Matthias</dc:contributor>
+          <dc:contributor>Tripiccione, Raffaele</dc:contributor>
+          <dc:date>2020-07-29</dc:date>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbc/mathematik/diss2019/gabbana</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DocumentServlet?id=10721</dc:identifier>
+          <dc:identifier>urn:nbn:de:hbz:468-20200729-103821-9</dc:identifier>
+          <dc:identifier>https://doi.org/10.25926/w5v9-qf57</dc:identifier>
+          <dc:identifier>http://elpub.bib.uni-wuppertal.de/servlets/DerivateServlet/Derivate-10027/dc1952.pdf</dc:identifier>
+          <dc:description xml:lang="en">&lt;p&gt;In this thesis work we present the algorithmic derivation of a new class of &#13;
+Lattice Boltzmann Methods appropriate for the study of dissipative relativistic fluids.&#13;
+&#13;
+While previous models were restricted to the use of massless particles, &#13;
+implying ultra-relativistic equations of state, this work provides a significant step towards &#13;
+the formulation of a unified relativistic lattice kinetic scheme, covering ideal gases of both &#13;
+massive and near-massless particles, seamlessly bridging the gap between relativistic and &#13;
+low-speed non-relativistic fluid regimes.&#13;
+&#13;
+&#13;
+In a first important application of this novel numerical tool, we present results bringing new&#13;
+insight in the long standing problem  of understanding the pathway from relativistic kinetic &#13;
+theory to relativistic hydrodynamics.&#13;
+&#13;
+We conduct an accurate analysis of the relativistic transport coefficients in the relaxation &#13;
+time approximation, providing numerical evidence that the Chapman Enskog expansion &#13;
+correctly relates kinetic transport coefficients and macroscopic hydrodynamics parameters &#13;
+in dissipative relativistic fluid dynamics, confirming recent theoretical results. &#13;
+&#13;
+This analysis, in turn, can be seen as an accurate calibration of this class of numerical&#13;
+solvers, making them suitable to deliver improved physical accuracy in the simulation of &#13;
+realistic systems. To give an example, we present results of simulations solving &#13;
+the Riemann problem for a quark-gluon plasma, showing good agreement with previous results &#13;
+obtained using other solvers present in the literature.&#13;
+&#13;
+As a further application we study the transport properties of electrons in ultra-clean &#13;
+graphene samples, for which a hydrodynamic description is appropriate due to the predominance &#13;
+of electron-electron scattering over electron-phonon interactions.&#13;
+&#13;
+Using appropriate 2D formulations, enriched to describe the effects of the external &#13;
+electrostatic drive, and to capture the interactions with phonons and impurities, &#13;
+we present simulations of laminar flows taking into consideration geometrical setups used &#13;
+in actual experiments.&#13;
+&#13;
+Furthermore, we also consider electronic systems where nonlinear effects start becoming relevant. &#13;
+Basing on extensive numerical simulations, we identify transport parameters which could be &#13;
+used to trigger and observe preturbulent signals in a hydrodynamic region as close as possible &#13;
+to those within reach of current experimental conditions. &#13;
+&#13;
+As a closing note, we remark that the numerical methods described in this thesis work retains &#13;
+the main computational advantages of standard Lattice Boltzmann Methods, &#13;
+offering high amenability to parallelization, that can be exploited to write efficient codes.&#13;
+These aspects are covered in the last chapter of the thesis, in which we summarize the &#13;
+best practices in the development of a performance portable code targeting modern &#13;
+high performance computing accelerators.</dc:description>
+          <dc:description xml:lang="it">&lt;p&gt;In questo lavoro di tesi viene presentata la derivazione algoritmica di una nuova&#13;
+classe di metodi reticolari di Boltzmann per lo studio di fluidi relativistici.&#13;
+&#13;
+Se da un lato i modelli sin'ora presenti in letteratura consideravano solo particelle a massa&#13;
+nulla ed equazioni di stato ultra-relativistiche, questo lavoro rappresenta un significativo &#13;
+passo in avanti verso la formulazione di un metodo cinetico unificato, in grado di trattare &#13;
+gas relativistici ideali, sia massivi sia a massa trascurabile, spaziando tra regimi relavitistici &#13;
+e regimi classici.&#13;
+&#13;
+Come primo esempio di applicazione viene presentato uno studio &#13;
+atto a chiarire la problematica connessione tra teoria cinetica e teoria idrodinamica relativistica:&#13;
+a seguito di un'accurata analisi dei coefficienti di trasporto relativistici,&#13;
+vengono presentati dati numerici che evidenziano come l'espansione di Chapman Enskog leghi &#13;
+correttamente i coefficienti di trasporto cinetici con i parametri macroscopici idrodinamici &#13;
+relativistici, andando a confermare recenti studi teorici.&#13;
+&#13;
+D'altro canto, l'analisi in questione può essere interpretata come un' accurata calibrazione di questa&#13;
+nuova classe di algoritmi, il che li candida ad affidabili strumenti &#13;
+per l'implementazione di simulazioni numeriche di sistemi fisici reali. &#13;
+Come esempio viene preso in considerazione lo studio del problema di Riemann per un quark-gluon plasma.&#13;
+I risultati ottenuti sono validati tramite confronto con simulazioni ottenute &#13;
+utilizzando altri risolutori numerici presenti in letteratura.&#13;
+&#13;
+Come ulteriore applicazione, viene condotto uno studio sulle proprietà di trasporto degli elettroni &#13;
+nel grafene, in cui una descrizione idrodinamica è giustificata dal fatto &#13;
+che il moto collettivo degli elettroni risulta dominante rispetto a interazioni&#13;
+tra elettroni e fononi.&#13;
+Utilizzando una formulazione numerica bidimensionale, arricchita per inglobare&#13;
+effetti elettrostatici e interazioni con fononi e impurità, vengono presentati risultati di simulazioni&#13;
+di flussi laminari in cui vengono riprodotte condizioni sperimentali simili a quelle reali.&#13;
+Successivamente sono stati presi in considerazione sistemi in cui termini non-lineari sono rilevanti. &#13;
+I risultati di un estensivo lavoro numerico hanno permesso di&#13;
+identificare parametri di trasporto che consentano l'osservazione di&#13;
+segnali preturbolenti in una regione idrodinamica quanto più simile a quella accessibile&#13;
+nelle attuali condizioni sperimentali.&#13;
+&#13;
+Per finire, va sottolineato che i metodi numerici descritti in questo lavoro di tesi&#13;
+preservano  dal punto di vista computazionale gli stessi vantaggi rispetto ai classici&#13;
+metodi reticolari di Boltzmann. Questi metodi numerici si prestano infatti a efficienti implementazioni&#13;
+altamente parallele. Questi aspetti sono dettagliati nell'ultimo capitolo di questa tesi,&#13;
+dove vengono riassunti gli elementi più rilevanti nello sviluppo di codici &#13;
+in grado di offrire non solo portabilità, ma anche portabilità delle prestazioni, &#13;
+su varie moderne architetture altamente parallele.</dc:description>
+          <dc:description xml:lang="de">&lt;p&gt;In der vorliegenden Arbeit wird die algorithmische Entwicklung einer neuen Klasse von Lattice Boltzmann Methoden dargestellt, die zur Anwendung und Untersuchung von dissipativen, relativistischen Fluiden geeignet ist.&#13;
+Vorangehende Arbeiten sind eingeschränkt auf masselose Teilchen und damit auf ultrarelativistische Zustandsgleichungen. Im Gegensatz dazu werden in dieser Arbeit signifikante Fortschritte zur Formulierung einer einheitlichen, kinetischen Lattice Methode gemacht, die ideale Gase aus sowohl massiven wie auch fast masselosen Teilchen abdeckt und nahtlos auf den gesamten Bereich von nicht-relativistischen zu relativistischen Fluidregimen anwendbar ist.&#13;
+Der Übergang von der relativistischen, kinetischen Theorie zur relativistischen Hydrodynamik ist ein altes Problem.&#13;
+Eine erste, wichtige Anwendung der neuartigen, numerischen Methode dieser Arbeit führt hier zu neuen Erkenntnissen.&#13;
+Eine präzise Analyse der relativistischen Transportkoeffizienten unter Verwendung der Zeitrelaxationsnäherung ist durchgeführt worden. Damit konnte numerisch nachgewiesen werden, dass die Chapman-Enskog-Entwicklung die kinetischen Transportkoeffizienten und die makroskopischen, hydrodynamischen Parameter in der dissipativen, relativistischen Fluiddynamik korrekt in Beziehung setzt. Dies bestätigt neuere, theoretische Resultate.&#13;
+&#13;
+Umgekehrt kann diese Analyse als präzise Kalibrierung dieser Klasse von numerischen Lösern verstanden werden, um so &#13;
+die Genauigkeit für Berechnungen im relativistischen Regime zu erhöhen. Anhand des Riemann Problems für ein Quark-Gluon-Plasma vergleichen wir Simulationsergebnisse unserer Methode mit bekannten Ergebnissen von anderen Lösern aus der Literatur.&#13;
+&#13;
+&#13;
+In einer weiteren Anwendung untersuchen wir die Transporteigenschaften von Elektronen in extrem reinen Graphen-Proben. Hierbei ist eine hydrodynamische Beschreibung geeignet, da die Elektron-Elektron-Streuung die Elektron-Phonon-Interaktion dominiert.&#13;
+Basierend auf 2D-Formulierungen, einem externen elektrostatischen Antrieb und der Erfassung von Wechselwirkungen von Phononen mit Verunreinigungen präsentieren wir Simulationen einer laminaren Strömung. Dabei berücksichtigen wir die Geometrie des zugrundeliegenden physikalischen Experiments.&#13;
+Ferner betrachten wir elektrische Systeme, in denen nichtlineare Effekte an Bedeutung gewinnen.&#13;
+Auf der Grundlage einer umfassenden Menge von numerischen Simulationen identifizieren wir Transportparameter, welche man verwenden könnte, um präturbulente Signale auszulösen bzw. zu beobachten. Dabei sind entsprechende hydrodynamische Regime so nah wie möglich an den aktuellen Bedingungen der Experimente.&#13;
+&#13;
+Abschliessend sei angemerkt, dass die numerischen Methoden dieser Arbeit die rechentechnischen Vorzüge der standard Lattice Boltzmann Methode erhalten. Dies schliesst insbesondere ein hohes Mass an Parallelisierbarkeit ein, welche genutzt werden kann, um effiziente Löser zu programmieren. Diesen Aspekten ist das letzte Kapitel der Arbeit gewidmet. Hierbei fassen wir beste Verfahren zur Entwicklung von performanten, portablen Programmen im Kontext von modernen Hochleistungsrechenbeschleunigern zusammen.</dc:description>
+          <dc:subject>500 Naturwissenschaften und Mathematik » 510 Mathematik » 510 Mathematik</dc:subject>
+          <dc:subject>Fakultät für Mathematik und Naturwissenschaften » Mathematik und Informatik » Dissertationen</dc:subject>
+          <dc:type>Wissenschaftliche Abschlussarbeiten » Dissertation</dc:type>
+          <dc:language>eng</dc:language>
+          <dc:format>application/pdf</dc:format>
+          <dc:type>Text</dc:type>
+        </oai_dc:dc>

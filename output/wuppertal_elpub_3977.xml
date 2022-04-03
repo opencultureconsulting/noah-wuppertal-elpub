@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_3977">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Förderung von mathematischen Potentialen durch den Einsatz handlungsorientierter und aktiver Methoden: Ein Lehrveranstaltungskonzept</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kuschel, Torben</displayForm>
+                        <namePart type="family">Kuschel</namePart>
+                        <namePart type="given">Torben</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-06-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Handlungsorientierte, aktivierende Methoden und ein medialer Einsatz der outputorientiertes Lehren zulässt, bieten zusätzliche Möglichkeiten Lehr- und Lernpotentiale auszuschöpfen. Das vorliegende, pragmatische Lehrveranstaltungskonzept richtet sich an mathematische Universitätsvorlesungen und verfolgt den Zweck, die Sprach- und Ausdrucksfähigkeit, sowie die Intuition zu fördern und ein wechselseitiges Dozent-Student Lehrgespräch herzustellen. Besonderes Gewicht bekommt die Vermittlung mathematischer Behauptungen in Form eines Theorems oder Lemmas.</abstract>
+                    <abstract type="content" lang="eng">Activity-oriented, activating methods and media that allow an output-oriented learning provide additional options to exploit learning and teaching potentials. This pragmatic course concept addresses to mathematic lectures and aims to promote capabilities of speech and expression, intuition and a mutual teacher-student discourse. The focus lies on the knowledge transfer of mathematical propositions such as theorems or lemmata. 
+
+ Dateigröße: 1,38 MB</abstract>
+                    <subject>
+                        <topic>Lehrveranstaltungskonzept</topic>
+                        <topic>aktivierende Methoden</topic>
+                        <topic>course concept</topic>
+                        <topic>activating methods</topic>
+                    </subject>
+                    <classification authority="ddc">370</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20140623-120542-2</identifier>
+                    <identifier type="sys">HT018308422</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_3977</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_3977">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/sdp/sdp14/sdp14009.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_3977"
+            DMDID="DMD_wuppertal_elpub_3977">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_3977"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>
