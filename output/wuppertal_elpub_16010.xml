@@ -1,0 +1,73 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_16010">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Verhaltenswirkungen von Lesbarkeit und einer Fremdsprache im Management Reporting: Experimentelle Studien</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Besuglov, Ewgenij</displayForm>
+                        <namePart type="family">Besuglov</namePart>
+                        <namePart type="given">Ewgenij</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Crasselt, Nils</displayForm>
+                        <namePart type="family">Crasselt</namePart>
+                        <namePart type="given">Nils</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-04-05</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">In internationalen Großkonzernen werden interne Berichte für das Management häufig in einer einheitlichen Konzernsprache erstellt. Die Wahl fällt dabei nicht nur bei Mutterunternehmen mit Sitz in einem anglophonen Land häufig auf Englisch. Für viele Mitarbeiterinnen und Mitarbeiter bedeutet diese Festlegung, dass die Erstellung und Nutzung der Berichte den Umgang mit einer Fremdsprache erfordert. 
+Die Verwendung einer einheitlichen Konzernsprache erleichtert die Kommunikation. Sie hat jedoch auch potenzielle Nachteile: Es ist davon auszugehen, dass es den Erstellerinnen und Erstellern von Berichten schwerer fällt, die Berichte in einer Fremdsprache zu formulieren als in ihrer Muttersprache, so dass sich die Lesbarkeit der Berichte z. B. durch einen umständlichen Satzbau oder eine ungeschickte Wortwahl verringert. Auf der Seite der Nutzerinnen und Nutzer ist zu vermuten, dass das Verständnis der Berichte leidet, wenn diese in einer fremden Sprache verfasst sind und/oder deren Lesbarkeit aufgrund der Erstellung in einer Fremdsprache verringert ist. 
+Psychologische Forschungsergebnisse zeigen, dass der Grad der Lesbarkeit (niedrig vs. hoch) und die Wahl der Sprache (Fremdsprache vs. Muttersprache) einen Einfluss darauf haben, wie Menschen Informationen wahrnehmen und bei Entscheidungen verarbeiten. Die vorliegende Dissertation knüpft an diese meist im Kontext von Alltagsentscheidungen erzielten Forschungsergebnisse an und untersucht anhand von zwei Experimenten, ob betriebswirtschaftliches Entscheidungsverhalten in ähnlicher Weise von der Berichtssprache und der Lesbarkeit beeinflusst wird.</abstract>
+                    <subject>
+                        <topic>Cognitive load effect</topic>
+                        <topic>experiments</topic>
+                        <topic>foreign language effect</topic>
+                        <topic>management accounting reporting</topic>
+                        <topic>moral judgement</topic>
+                        <topic>readability</topic>
+                        <topic>risk-taking</topic>
+                    </subject>
+                    <classification authority="ddc">330</classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20220405-094209-3</identifier>
+                    <identifier type="doi">10.25926/gbs1-c614</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_16010</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_16010">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbb/wirtschaftswissenschaft/diss2021/besuglov/db2117.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_16010"
+            DMDID="DMD_wuppertal_elpub_16010">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_16010"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>
