@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_wuppertal_elpub_16030">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7"
+                    xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„Nicht gut ist noch lange nicht schlecht!“: Die Orientierungen an den Prototypen der guten und der schlechten Paarbeziehung als Mechanismen zur Evaluation der Beziehungsqualität</title>
+                        <subTitle>Ein kognitiv-motivationales Modell der Beziehungsbewertung</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Klümper, Lisa</displayForm>
+                        <namePart type="family">Klümper</namePart>
+                        <namePart type="given">Lisa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">doctoralThesis</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-04-06</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract type="content" lang="ger">Im Fokus dieser Dissertation steht der Prozess der subjektiven Bewertung der Beziehungsqualität. Im Zuge dieses Prozesses nutzen Personen ihr beziehungsrelevantes Wissen, um zu einem Urteil über die Qualität ihrer romantischen Paarbeziehung zu kommen. 
+ Entsprechend einer zweidimensionalen Konzeptualisierung der Beziehungsqualität wurde angenommen, dass der in der Vergangenheit präsentierte Prototyp der guten Paarbeziehung als Repräsentant der positiven Beziehungsqualität durch einen Prototyp der schlechten Paarbeziehung als Repräsentant der negativen Beziehungsqualität ergänzt werden muss, um die Bewertungsprozesse in romantischen Beziehungen ganzheitlich betrachten zu können. 
+ Mittels einer klassischen Prototypenanalyse wurde der Prototyp der schlechten Paarbeziehung etabliert (Studie 1, N = 130; Studie 2, N = 389). 
+ Aufbauend auf einem in dieser Arbeit erstmals postulierten kognitiv-motivationalen Modell der Beziehungsbewertung sollte die Rolle der Prototypen der guten und schlechten Paarbeziehung als kognitive Referenzpunkte für die Bewertung der Beziehungsqualität herausgestellt werden. 
+ In diesem Zusammenhang wurde angenommen, dass die Prototypen in Abhängigkeit der Verfolgung einer romantischen Annäherungs- oder Vermeidungsmotivation als Referenzpunkte im Bewertungsprozess eine unterschiedliche Bedeutung erhalten. Die Annahmen des Modells wurden in drei empirischen Studien geprüft. 
+ Es konnte gezeigt werden, dass die Prototypen der guten und schlechten Paarbeziehung einen Einfluss auf die Informationsverarbeitung haben, der in Abhängigkeit der romantischen Annäherungs- und Vermeidungsmotivation unterschiedlich ausgestaltet war (Studie 3, N = 202). 
+ Zudem beeinflussten die Orientierungen an den Prototypen auf einer impliziten (Studie 4, N = 268) und expliziten Ebene (Studie 5, N = 278) die Bewertung der Beziehungsqualität der eigenen Paarbeziehung.
+ Jedoch ergaben sich uneinheitliche Ergebnisse bezüglich des Einflusses der Annäherungs- und Vermeidungsmotivation auf die Orientierungen an den Prototypen. Die kritische Reflexion der Ergebnisse der vorliegenden Arbeit führt zu möglichen Ansätzen für die weiterführende Forschung zum kognitiv-motivationalen Modell der Beziehungsbewertung.</abstract>
+                    <classification authority="ddc">150</classification>
+                    <classification authority="ioo" displayLabel="Fakultät für Human- und Sozialwissenschaften » Psychologie"></classification>
+                    <identifier type="urn">urn:nbn:de:hbz:468-20220406-113708-7</identifier>
+                    <identifier type="doi">10.25926/3cp0-qp75</identifier>
+                    <recordInfo>
+                        <recordIdentifier>wuppertal_elpub_16030</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaDoctoralThesis</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE_wuppertal_elpub_16030">
+                <mets:FLocat xlink:href="http://elpub.bib.uni-wuppertal.de/edocs/dokumente/fbg/psychologie/diss2021/kluemper/dg2107.pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="wuppertal_elpub_16030"
+            DMDID="DMD_wuppertal_elpub_16030">
+            <mets:fptr FILEID="FILE_wuppertal_elpub_16030"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>
